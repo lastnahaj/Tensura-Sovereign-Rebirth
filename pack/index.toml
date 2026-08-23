@@ -1,2 +1,31 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
+file = "mods/manascore.pw.toml"
+hash = "ea327466b8d3ebe83329de194d77790f7d68fe25e56f0bfeda319527636bb7cb"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
+metafile = true
+
+[[files]]
+file = "mods/tensura-reincarnated.pw.toml"
+hash = "f6b11f1f65003c1c58c4b535097097ec2ad979291ee257c80615dc02d908a301"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true

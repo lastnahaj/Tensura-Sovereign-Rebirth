@@ -99,6 +99,7 @@ nav:
       - Mod Manifest: mod-manifest.md
       - Development:
           - Build Environment: development/build-environment.md
+          - Runtime Foundation: development/runtime-foundation.md
           - Phase Reports: development/phase-reports.md
   - Project:
       - Roadmap: roadmap.md
