@@ -1,5 +1,6 @@
 .venv/
 site/
+.build/
 __pycache__/
 *.pyc
 .env
@@ -10,3 +11,4 @@ __pycache__/
 .idea/
 .vscode/
 *.log
+*.jar

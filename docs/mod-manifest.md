@@ -25,7 +25,7 @@
 | Tensura: Better Subordinates | 1.2.4 | LOCK |  |
 | Tensura Modifications | 1.0.1.1 | LOCK |  |
 | Tensura: Unique Monsters | 1.0.2 | LOCK |  |
-| Great Sage | 0.0.5 | LOCK | Require the player to possess Great Sage; verify the exact configuration key during assembly. |
+| Great Sage | 0.0.5 | LOCK | Configure `needGreatSage=true`. |
 | TenSura Guild | 1.0.1.2 | LOCK |  |
 | Tensura Skill Books | 2.2.1 | LOCK | Primary controlled skill-reward system. |
 | Tensura Utilities Manager | 1.0.1 | LOCK |  |

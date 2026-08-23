@@ -100,7 +100,9 @@ forbidden_patterns = {
 text_suffixes = {".md", ".yml", ".yaml", ".json", ".py", ".css", ".txt"}
 special_text_names = {"Makefile", ".gitignore", ".gitattributes", "CODEOWNERS"}
 for path in ROOT.rglob("*"):
-    if not path.is_file() or any(part in {".git", ".venv", "site"} for part in path.parts):
+    if not path.is_file() or any(
+        part in {".build", ".git", ".venv", "site"} for part in path.parts
+    ):
         continue
     if path.suffix not in text_suffixes and path.name not in special_text_names:
         continue

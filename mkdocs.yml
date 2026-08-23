@@ -97,6 +97,9 @@ nav:
       - Quest Implementation: quest-implementation.md
       - Compatibility Matrix: compatibility-matrix.md
       - Mod Manifest: mod-manifest.md
+      - Development:
+          - Build Environment: development/build-environment.md
+          - Phase Reports: development/phase-reports.md
   - Project:
       - Roadmap: roadmap.md
       - Changelog: changelog.md

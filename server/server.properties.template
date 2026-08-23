@@ -1,0 +1,10 @@
+motd=Tensura: Sovereign Rebirth Version 1 (Beta)
+gamemode=survival
+difficulty=normal
+hardcore=false
+online-mode=true
+allow-flight=true
+view-distance=10
+simulation-distance=10
+spawn-protection=16
+enable-command-block=false

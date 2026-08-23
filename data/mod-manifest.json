@@ -61,7 +61,7 @@
         "name": "Great Sage",
         "version": "0.0.5",
         "status": "LOCK",
-        "notes": "Require the player to possess Great Sage; verify the exact configuration key during assembly."
+        "notes": "Configure needGreatSage=true."
       },
       {
         "name": "TenSura Guild",
@@ -650,7 +650,7 @@
     "Gear Evolution is the authoritative equipment progression. No Apotheosis.",
     "Sophisticated Storage is physical/base storage; Sophisticated Backpacks is personal storage.",
     "Tom's Simple Storage is terminal/wireless UI only. Remove/hide every non-required Tom's recipe/block from player progression.",
-    "Great Sage requires the player to actually possess Great Sage; verify the exact configuration key during assembly.",
+    "Great Sage requires the player to actually possess Great Sage (needGreatSage=true).",
     "Tensura: Origins high-tier races are progression-gated and not ordinary random starter selections.",
     "SlimeThrone Extras owns prestige/Soul Grade/repeatable progression.",
     "Ascension owns major Unique-to-Ultimate awakening progression and external boss scaling where supported.",
