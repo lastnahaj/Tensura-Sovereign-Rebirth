@@ -1,0 +1,37 @@
+name: Mod suggestion
+description: Suggest a 1.21.1 NeoForge mod that fits TSR without replacing an authoritative system
+title: "[Mod Suggestion]: "
+labels: [suggestion]
+body:
+  - type: input
+    id: mod
+    attributes:
+      label: Mod name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official project link
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: What does it add to TSR?
+    validations:
+      required: true
+  - type: textarea
+    id: overlap
+    attributes:
+      label: Does it overlap an existing TSR system?
+      description: Explain why it complements rather than replaces Gear Evolution, MineColonies, SlimeThrone, Ascension, FTB claims, storage, etc.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Compatibility
+      options:
+        - label: I verified there is a Minecraft 1.21.1 NeoForge release.
+          required: true
