@@ -1,0 +1,106 @@
+site_name: "Tensura: Sovereign Rebirth"
+site_description: Reincarnate. Evolve. Build. Awaken. Rule.
+site_url: https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/
+repo_url: https://github.com/lastnahaj/Tensura-Sovereign-Rebirth
+repo_name: lastnahaj/Tensura-Sovereign-Rebirth
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/crowned_slime_tsr_arcane_crest.png
+  favicon: assets/images/crowned_slime_tsr_arcane_crest.png
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - meta
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lastnahaj/Tensura-Sovereign-Rebirth
+  generator: false
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Getting Started: getting-started.md
+      - Pack Overview: pack-overview.md
+      - Progression Overview: progression-overview.md
+      - FAQ: faq.md
+  - Character Progression:
+      - Race & Evolution: race-and-evolution.md
+      - Skills, EP & Magicules: skills-ep-and-magicules.md
+      - Great Sage: great-sage.md
+      - Prestige & Soul Grade: prestige-and-soul-grade.md
+      - Ascension & Awakening: ascension-and-awakening.md
+  - Equipment & Magic:
+      - Gear Evolution: gear-evolution.md
+      - Forging & Metalworks: forging-and-metalworks.md
+      - Storage & Logistics: storage-and-logistics.md
+      - Magic: magic.md
+  - World & Civilization:
+      - Guild Progression: guild-progression.md
+      - Subordinates & Naming: subordinates-and-naming.md
+      - MineColonies & Nations: minecolonies-and-nations.md
+      - Unique Monsters: unique-monsters.md
+      - Bosses & Dimensions: bosses-and-dimensions.md
+      - Decoration & Building: decoration-and-building.md
+  - Quests & Multiplayer:
+      - Quests & Shop: quests-and-shop.md
+      - Teams & Claims: teams-and-claims.md
+  - Server & Technical:
+      - Server Administration: server-administration.md
+      - Permissions: permissions.md
+      - Performance & Optimization: performance-and-optimization.md
+      - Backups & Recovery: backups-and-recovery.md
+      - Troubleshooting: troubleshooting.md
+      - Quest Implementation: quest-implementation.md
+      - Compatibility Matrix: compatibility-matrix.md
+      - Mod Manifest: mod-manifest.md
+  - Project:
+      - Roadmap: roadmap.md
+      - Changelog: changelog.md
+      - Credits: credits.md
+      - Reference:
+          - Tempest Protocol Quest Reference: reference/tempest-protocol-quest-reference.md
+          - v0.1 Manifest Source: reference/v0.1-mod-manifest-source.md
