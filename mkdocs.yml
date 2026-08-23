@@ -100,6 +100,7 @@ nav:
       - Development:
           - Build Environment: development/build-environment.md
           - Runtime Foundation: development/runtime-foundation.md
+          - Compatibility Blockers: development/compatibility-blockers.md
           - Phase Reports: development/phase-reports.md
   - Project:
       - Roadmap: roadmap.md

@@ -34,7 +34,8 @@
       {
         "name": "Tensura: Reincarnated Addon (TR Addon)",
         "version": "2.0.1",
-        "status": "LOCK"
+        "status": "DEFERRED-BLOCKED",
+        "notes": "Reproducible dedicated-server constructor race against ManasCore custom race and skill registries. CurseForge project 1132105 file 7899584 cannot complete NeoForge dedicated-server mod construction. Recheck upstream before the Version 1 (Beta) release candidate freeze."
       },
       {
         "name": "Tensura: Origins",

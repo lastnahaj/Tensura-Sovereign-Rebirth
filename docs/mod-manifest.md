@@ -20,7 +20,7 @@
 | Tensura: SlimeThrone Extras | 2.1.2.1 | LOCK |  |
 | Tensura: Ascension | 2.1.2 | LOCK |  |
 | Tensura: Mysticism | 2.1.2 | LOCK |  |
-| Tensura: Reincarnated Addon (TR Addon) | 2.0.1 | LOCK |  |
+| Tensura: Reincarnated Addon (TR Addon) | 2.0.1 | DEFERRED-BLOCKED | Reproducible dedicated-server constructor race against ManasCore custom race/skill registries. The verified public artifact cannot complete NeoForge dedicated-server mod construction. Recheck upstream before the Version 1 (Beta) release candidate freeze. |
 | Tensura: Origins | 2.0.5 | LOCK-GATED | Not available as an ordinary random starting race; high-tier race paths are late-game gated. |
 | Tensura: Better Subordinates | 1.2.4 | LOCK |  |
 | Tensura Modifications | 1.0.1.1 | LOCK |  |

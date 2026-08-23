@@ -7,6 +7,7 @@
 | LuckPerms | FTB | FTB XMod Compat where supported; test all actions under non-OP |
 | Tensura | Iron's Spells | Dedicated compatibility; core |
 | Tensura | Ice & Fire | Dedicated compatibility; core |
+| TR Addon 2.0.1 | ManasCore race/skill registries | DEFERRED-BLOCKED; excluded from the active runtime after reproducible dedicated-server construction failures; recheck official releases before release candidate freeze |
 | Tensura | Sophisticated Backpacks | Gear Evolution + Backpack Expansion; core |
 | Gear Evolution | Apotheosis | Not used; Apotheosis excluded |
 | Sophisticated Storage | Tom's | Sophisticated = storage, Tom's = terminal/wireless only |
@@ -20,6 +21,7 @@
 
 ## Pending validation
 
+- TR Addon upstream release recheck before Version 1 (Beta) release candidate freeze; test any newer official artifact in isolation and then with the full Phase 2 runtime
 - YIGD with Tensura/Gear Evolution/component state
 - Embeddium rendering compatibility
 - TNO compatibility-only deployment
