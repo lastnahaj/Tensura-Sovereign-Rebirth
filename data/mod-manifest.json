@@ -1,0 +1,688 @@
+{
+  "project": {
+    "name": "Tensura: Sovereign Rebirth",
+    "short_name": "TSR",
+    "tagline": "Reincarnate. Evolve. Build. Awaken. Rule.",
+    "minecraft": "1.21.1",
+    "loader": "NeoForge",
+    "freeze": "v0.1",
+    "freeze_date": "2026-08-23",
+    "policy": "Mod identities are frozen for v0.1. Critical compatibility versions are pinned; transitive libraries are resolved to the exact versions required by the pinned parents during assembly."
+  },
+  "categories": {
+    "Tensura Core": [
+      {
+        "name": "Tensura: Reincarnated",
+        "version": "2.0.1.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: SlimeThrone Extras",
+        "version": "2.1.2.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Ascension",
+        "version": "2.1.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Mysticism",
+        "version": "2.1.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Reincarnated Addon (TR Addon)",
+        "version": "2.0.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Origins",
+        "version": "2.0.5",
+        "status": "LOCK-GATED",
+        "notes": "Not available as an ordinary random starting race; high-tier race paths are late-game gated."
+      },
+      {
+        "name": "Tensura: Better Subordinates",
+        "version": "1.2.4",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura Modifications",
+        "version": "1.0.1.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Unique Monsters",
+        "version": "1.0.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "Great Sage",
+        "version": "0.0.5",
+        "status": "LOCK",
+        "notes": "Require the player to possess Great Sage; verify the exact configuration key during assembly."
+      },
+      {
+        "name": "TenSura Guild",
+        "version": "1.0.1.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura Skill Books",
+        "version": "2.2.1",
+        "status": "LOCK",
+        "notes": "Primary controlled skill-reward system."
+      },
+      {
+        "name": "Tensura Utilities Manager",
+        "version": "1.0.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura: Not Enough Bosses",
+        "version": "2.0.0.3",
+        "status": "LOCK"
+      },
+      {
+        "name": "TenSura Boss Structure",
+        "version": "1.0.3.3",
+        "status": "LOCK"
+      },
+      {
+        "name": "TensuraMorph",
+        "version": "1.0.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "ReMorphed",
+        "version": "Resolve current compatible 1.21.1 NeoForge release",
+        "status": "DEPENDENCY",
+        "notes": "Required for TensuraMorph."
+      },
+      {
+        "name": "Tensura Gear Evolution",
+        "version": "1.2.5",
+        "status": "LOCK",
+        "notes": "Authoritative equipment progression system."
+      },
+      {
+        "name": "Tensura Backpack Expansion",
+        "version": "1.0.4",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura Metalworks",
+        "version": "1.0.4",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura x MineColonies",
+        "version": "0.2.2",
+        "status": "LOCK",
+        "notes": "Alpha integration; warfare/diplomacy features remain staged until server testing passes."
+      },
+      {
+        "name": "Nightmare's Tensura Utils",
+        "version": "0.1.2",
+        "status": "LIBRARY-ONLY",
+        "notes": "Required API/library for Tensura x MineColonies. No Nightmare content mod is included."
+      },
+      {
+        "name": "Tensura Compat: FTB",
+        "version": "2.0.0.4",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura Compat: Iron's Spells",
+        "version": "2.0.0.0",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tensura Compat: Ice & Fire",
+        "version": "2.0.0.1",
+        "status": "LOCK"
+      }
+    ],
+    "Civilization & Magic": [
+      {
+        "name": "MineColonies",
+        "version": "1.1.1319",
+        "status": "PIN",
+        "notes": "Pinned because Tensura x MineColonies and MineColonies Mages explicitly target this line."
+      },
+      {
+        "name": "Structurize",
+        "version": ">=1.0.810 for 1.21.1",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "Multi-Piston",
+        "version": ">=1.2.51 for 1.21.1",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "BlockUI",
+        "version": ">=1.0.199 for 1.21.1",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "Domum Ornamentum",
+        "version": ">=1.0.223 for 1.21.1",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "MineColonies Mages (IronSpells integration)",
+        "version": "2.3",
+        "status": "LOCK"
+      },
+      {
+        "name": "Iron's Spells 'n Spellbooks",
+        "version": "3.16.3",
+        "status": "LOCK"
+      }
+    ],
+    "Gear, Crafting & Storage": [
+      {
+        "name": "Silent Gear",
+        "version": "4.2.1.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Productive Metalworks",
+        "version": "1.15.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Silent Gear Metalworks",
+        "version": "1.5.0",
+        "status": "LOCK"
+      },
+      {
+        "name": "Sophisticated Core",
+        "version": "Match pinned Sophisticated Storage/Backpacks releases",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "Sophisticated Backpacks",
+        "version": "3.25.78.2107",
+        "status": "LOCK"
+      },
+      {
+        "name": "Sophisticated Storage",
+        "version": "1.5.91.2127",
+        "status": "LOCK"
+      },
+      {
+        "name": "Tom's Simple Storage",
+        "version": "2.4.1 (1.21.x NeoForge)",
+        "status": "LOCK-STRIPPED",
+        "notes": "Expose only Storage/Crafting Terminals, wireless terminals/items, and the minimum connector/link infrastructure required. Disable/hide the rest."
+      },
+      {
+        "name": "Almost Unified",
+        "version": "1.4.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "KubeJS",
+        "version": "2101.7.2-build.368",
+        "status": "LOCK",
+        "notes": "Pack scripting, recipe removal/hiding/gating, small integrations."
+      },
+      {
+        "name": "Polymorph",
+        "version": "1.1.0+1.21.1",
+        "status": "LOCK"
+      }
+    ],
+    "Adventure, Bosses & World": [
+      {
+        "name": "L_Ender's Cataclysm",
+        "version": "3.33",
+        "status": "LOCK"
+      },
+      {
+        "name": "Mowzie's Mobs",
+        "version": "1.8.2",
+        "status": "LOCK"
+      },
+      {
+        "name": "IceAndFire Community Edition",
+        "version": "2.1.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "The Twilight Forest",
+        "version": "4.8.3345",
+        "status": "LOCK"
+      },
+      {
+        "name": "The Aether",
+        "version": "1.5.10-neoforge",
+        "status": "LOCK"
+      },
+      {
+        "name": "Lootr",
+        "version": "1.11.38.124",
+        "status": "LOCK"
+      },
+      {
+        "name": "Waystones",
+        "version": "21.1.41",
+        "status": "LOCK",
+        "notes": "Travel progression will be gated/configured; no free early cross-dimensional travel."
+      },
+      {
+        "name": "Nature's Compass",
+        "version": "3.4.0",
+        "status": "LOCK",
+        "notes": "Useful for finding Tensura/custom biomes without adding a biome overhaul."
+      },
+      {
+        "name": "Farmer's Delight",
+        "version": "1.3.3",
+        "status": "LOCK"
+      }
+    ],
+    "Decoration": [
+      {
+        "name": "Supplementaries",
+        "version": "3.9.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Amendments",
+        "version": "2.1.7",
+        "status": "LOCK"
+      },
+      {
+        "name": "FramedBlocks",
+        "version": "10.6.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Furniture",
+        "version": "3.4.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Doors",
+        "version": "1.1.5",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Windows",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Roofs",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Bridges",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "LOCK"
+      },
+      {
+        "name": "Macaw's Lights and Lamps",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "LOCK"
+      }
+    ],
+    "Quest, Economy & Server": [
+      {
+        "name": "FTB Library",
+        "version": "Match pinned FTB suite",
+        "status": "DEPENDENCY"
+      },
+      {
+        "name": "FTB Teams",
+        "version": "2101.1.10",
+        "status": "LOCK"
+      },
+      {
+        "name": "FTB Chunks",
+        "version": "2101.1.21",
+        "status": "LOCK"
+      },
+      {
+        "name": "FTB Quests",
+        "version": "2101.1.33",
+        "status": "LOCK"
+      },
+      {
+        "name": "FTB XMod Compat",
+        "version": "21.1.11",
+        "status": "LOCK"
+      },
+      {
+        "name": "FTB Essentials",
+        "version": "2101.1.10",
+        "status": "TEST-PERMISSIONS",
+        "notes": "Keep only if all desired commands honor the final LuckPerms permission model under non-OP accounts."
+      },
+      {
+        "name": "Quest Shop",
+        "version": "1.3.0",
+        "status": "LOCK",
+        "notes": "Disable ordinary mob coin drops; currency primarily comes from quests/guild/progression."
+      },
+      {
+        "name": "LuckPerms",
+        "version": "5.4.140",
+        "status": "LOCK-SERVER"
+      },
+      {
+        "name": "GriefLogger",
+        "version": "1.2.7",
+        "status": "LOCK-SERVER"
+      },
+      {
+        "name": "Tensura: Grief Logger",
+        "version": "1.2.1",
+        "status": "LOCK-SERVER"
+      },
+      {
+        "name": "FTB Backups 3",
+        "version": "21.1.5",
+        "status": "LOCK-SERVER"
+      },
+      {
+        "name": "Chunky",
+        "version": "1.4.23",
+        "status": "LOCK-SERVER"
+      },
+      {
+        "name": "spark",
+        "version": "1.10.124",
+        "status": "LOCK-SERVER"
+      }
+    ],
+    "Client & QoL": [
+      {
+        "name": "Tensura Skill Wiki",
+        "version": "1.0.2.4",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "TenSura Evolution UI",
+        "version": "1.0.0.3",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "JEI",
+        "version": "19.27.0.336 baseline",
+        "status": "LOCK-CLIENT",
+        "notes": "Use stable baseline first; only advance after compatibility smoke test."
+      },
+      {
+        "name": "Jade",
+        "version": "15.10.6",
+        "status": "LOCK-CLIENT",
+        "notes": "Configure so it does not spoil Great Sage/Appraisal mechanics."
+      },
+      {
+        "name": "Xaero's Minimap",
+        "version": "26.4.2",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Xaero's World Map",
+        "version": "1.45.0",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Mouse Tweaks",
+        "version": "2.26.1",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Inventory Essentials",
+        "version": "21.1.17",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Controlling",
+        "version": "19.0.4",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "AppleSkin",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "LOCK-CLIENT"
+      }
+    ],
+    "Optimization": [
+      {
+        "name": "ModernFix",
+        "version": "5.27.20+mc1.21.1",
+        "status": "LOCK"
+      },
+      {
+        "name": "FerriteCore",
+        "version": "7.0.3-neoforge",
+        "status": "LOCK"
+      },
+      {
+        "name": "ServerCore",
+        "version": "1.5.19+1.21.1",
+        "status": "LOCK-SERVER-CONSERVATIVE",
+        "notes": "Begin with conservative optimizations only; do not aggressively alter AI/entity activation until MineColonies and Tensura testing passes."
+      },
+      {
+        "name": "ImmediatelyFast",
+        "version": "1.6.12",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Entity Culling",
+        "version": "1.10.5",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Embeddium",
+        "version": "1.0.15",
+        "status": "TEST-CLIENT",
+        "notes": "Keep only after rendering tests with Tensura entities, MineColonies previews, boss effects and UI."
+      },
+      {
+        "name": "Dynamic FPS",
+        "version": "3.11.3",
+        "status": "LOCK-CLIENT"
+      },
+      {
+        "name": "Clumps",
+        "version": "19.0.0.1",
+        "status": "LOCK"
+      }
+    ],
+    "Initial Test Candidates": [
+      {
+        "name": "When Dungeons Arise",
+        "version": "2.1.68",
+        "status": "TEST",
+        "notes": "Strong thematic fit and present in the Tempest Protocol reference quest structure; must pass worldgen density/performance tests."
+      },
+      {
+        "name": "You're in Grave Danger (YIGD)",
+        "version": "2.0.13",
+        "status": "TEST",
+        "notes": "Verify death/restoration preserves all Tensura, Gear Evolution and accessory/component state."
+      },
+      {
+        "name": "Tensura: Virtuoso",
+        "version": "2.0.0.1",
+        "status": "TEST",
+        "notes": "Good skill diversity; audit incomplete/nonfunctional item content and balance first."
+      },
+      {
+        "name": "Tensura: Ancient Artifacts",
+        "version": "Resolve current 1.21.1 release",
+        "status": "TEST",
+        "notes": "Keep only if artifacts complement rather than replace Gear Evolution."
+      },
+      {
+        "name": "Tensura Plundering",
+        "version": "Resolve current 1.21.1 release",
+        "status": "TEST",
+        "notes": "Audit skill-farm exploits with named mobs, citizens and subordinates."
+      },
+      {
+        "name": "Tensura Naturesaura + Nature's Aura",
+        "version": "Resolve current 1.21.1 releases",
+        "status": "TEST",
+        "notes": "Include only if it adds world flavor without creating a competing mandatory magic progression."
+      },
+      {
+        "name": "TNO / Neo Otherworld Compatibility Fix",
+        "version": "Resolve current 1.21.1 release",
+        "status": "TEST-COMPAT-ONLY",
+        "notes": "Use only if compatibility fixes are needed and overlapping backpack/progression content can be disabled."
+      },
+      {
+        "name": "Bosses' Rise + Tensura compat",
+        "version": "Resolve current 1.21.1 releases",
+        "status": "TEST"
+      },
+      {
+        "name": "Legendary Monsters + Tensura compat",
+        "version": "Resolve current 1.21.1 releases",
+        "status": "TEST"
+      },
+      {
+        "name": "Block Factory's Bosses",
+        "version": "Resolve current 1.21.1 release",
+        "status": "TEST"
+      },
+      {
+        "name": "Simple Voice Chat",
+        "version": "Resolve current 1.21.1 NeoForge release",
+        "status": "OPTIONAL"
+      }
+    ],
+    "Rejected": [
+      {
+        "name": "Apotheosis",
+        "reason": "Gear Evolution is authoritative."
+      },
+      {
+        "name": "Tensura Reincarnated Nightmares",
+        "reason": "Explicitly excluded."
+      },
+      {
+        "name": "Nightmare's Apothic Tensura",
+        "reason": "Nightmare content branch excluded."
+      },
+      {
+        "name": "BTRUltima",
+        "reason": "1.19.2 only; ideas can be represented with modern 1.21.1 content."
+      },
+      {
+        "name": "Ars Nouveau Tensura compatibility",
+        "reason": "Useful compat found was for the wrong Minecraft version."
+      },
+      {
+        "name": "Tensura: KumoDesu",
+        "reason": "Crossover and WIP."
+      },
+      {
+        "name": "Tensura: Skill Obtain",
+        "reason": "Redundant with controlled Skill Books/quest reward design."
+      },
+      {
+        "name": "Tensura: Arcane",
+        "reason": "Experimental/non-lore races and explicitly not PvP-balanced."
+      },
+      {
+        "name": "Simply Tensura Additions",
+        "reason": "High-tier/crossover-style progression conflicts with the curated race balance."
+      },
+      {
+        "name": "Tensura: Authorities",
+        "reason": "Additional competing high-tier power system."
+      },
+      {
+        "name": "Tensura Horizons Expanded",
+        "reason": "Very new beta; reconsider after v0.1 stabilizes."
+      },
+      {
+        "name": "Applied Energistics 2",
+        "reason": "Wrong technology/aesthetic direction for storage."
+      },
+      {
+        "name": "Refined Storage",
+        "reason": "Wrong technology/aesthetic direction for storage."
+      },
+      {
+        "name": "Simple Storage Network",
+        "reason": "Tom's terminal-only approach won."
+      },
+      {
+        "name": "Chipped",
+        "reason": "Decorative block/menu/recipe bloat."
+      },
+      {
+        "name": "Handcrafted",
+        "reason": "Overlaps frozen decoration stack."
+      },
+      {
+        "name": "Beautify",
+        "reason": "Overlaps frozen decoration stack."
+      },
+      {
+        "name": "MCA Reborn",
+        "reason": "MineColonies owns civilization/NPC gameplay."
+      },
+      {
+        "name": "Open Parties and Claims",
+        "reason": "FTB Teams/Chunks owns team/claim gameplay."
+      },
+      {
+        "name": "FTB Ranks",
+        "reason": "LuckPerms is the permission/rank authority."
+      }
+    ]
+  },
+  "frozen_configuration_decisions": [
+    "Gear Evolution is the authoritative equipment progression. No Apotheosis.",
+    "Sophisticated Storage is physical/base storage; Sophisticated Backpacks is personal storage.",
+    "Tom's Simple Storage is terminal/wireless UI only. Remove/hide every non-required Tom's recipe/block from player progression.",
+    "Great Sage requires the player to actually possess Great Sage; verify the exact configuration key during assembly.",
+    "Tensura: Origins high-tier races are progression-gated and not ordinary random starter selections.",
+    "SlimeThrone Extras owns prestige/Soul Grade/repeatable progression.",
+    "Ascension owns major Unique-to-Ultimate awakening progression and external boss scaling where supported.",
+    "FTB Quests owns the handcrafted campaign; target remains 8 Acts / 32 Chapters / ~512 authored quests.",
+    "Quest Shop is progression-gated; normal mob coin drops are disabled or near-zero.",
+    "LuckPerms owns server permissions. FTB Ranks is not installed.",
+    "No broad biome-overhaul mod in v0.1; preserve Tensura biome/worldgen compatibility.",
+    "MineColonies is pinned to 1.1.1319 for the initial compatibility branch.",
+    "MineColonies warfare/diplomacy alpha features are not made mandatory until multiplayer testing passes.",
+    "ServerCore starts in conservative mode; no aggressive entity/AI tuning before MineColonies/Tensura validation.",
+    "Chunky pre-generation happens only after worldgen/content freeze.",
+    "Jade is configured not to undermine Great Sage/Appraisal information progression."
+  ],
+  "assembly_gates": [
+    "Bootstrap exact NeoForge 1.21.1 build and resolve every transitive dependency.",
+    "Cold-start client smoke test with only Tensura core.",
+    "Add MineColonies pinned branch and verify colony creation, citizen AI, naming and Tensura integration.",
+    "Add Gear/Metalworks/Storage and verify item-component persistence across Gear Evolution.",
+    "Add external bosses/dimensions and validate Ascension EP/skills/resistances.",
+    "Run worldgen collision/density test before approving When Dungeons Arise.",
+    "Run non-OP LuckPerms test account through FTB, Tensura, MineColonies, GriefLogger and Essentials commands.",
+    "Run death/recovery test before approving YIGD.",
+    "Run rendering/UI test before approving Embeddium.",
+    "Profile 1, 10 and 25 simulated-player scenarios with spark; tune ServerCore only from observed bottlenecks.",
+    "Generate the final exact lockfile and server/client split after all gates pass.",
+    "Only then begin registry-aware FTB Quest implementation against the installed pack."
+  ],
+  "counts": {
+    "baseline_frozen_entries": 89,
+    "test_candidates": 12,
+    "optional_entries": 1,
+    "rejected_entries_tracked": 20,
+    "total_non_rejected_entries": 102
+  }
+}
