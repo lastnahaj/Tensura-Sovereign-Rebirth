@@ -1,0 +1,13 @@
+name = "TenSura Guild"
+filename = "tensura_guild-1.0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ae71651b98dc428c0ce39708706b9101b464f2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8594606
+project-id = 1595198

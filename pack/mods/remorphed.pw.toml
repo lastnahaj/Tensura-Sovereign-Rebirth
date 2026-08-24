@@ -1,0 +1,13 @@
+name = "ReMorphed"
+filename = "remorphed-4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ef42d5e63e9da8c9a845f1c14656950476c0309"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5755692
+project-id = 950721

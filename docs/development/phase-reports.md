@@ -54,3 +54,22 @@ KNOWN ISSUES: Remaining frozen Tensura addons have not yet entered this sub-batc
 COMMIT: Add core Tensura progression addons
 NEXT PHASE: Add the remaining frozen Tensura ecosystem addons in isolated sub-batches
 ```
+
+## Phase 2B — Boss, reward, and mimicry systems
+
+```text
+PHASE: 2B — Complete frozen Tensura ecosystem
+STATUS: PASS WITH RELEASE POLICY GATE
+ADDED: Great Sage 0.0.5, TenSura Guild 1.0.1.2, Tensura Skill Books 2.2.1, Tensura Utilities Manager 1.0.1, Not Enough Bosses 2.0.0.3, TenSura Boss Structure 1.0.3.3, TensuraMorph 1.0.1, ReMorphed 4.2, Woodwalkers 5.8.12, CraftedCore 5.8.2
+REMOVED: None
+VERSION CHANGES: ReMorphed and its required libraries resolved to exact 1.21.1 NeoForge artifacts
+DEPENDENCIES: ReMorphed requires Woodwalkers and CraftedCore; TensuraMorph requires the complete stack
+CONFIGURATION: 124 generated client/common configs promoted; Skill Books natural loot disabled; mimicry unlock bypasses disabled; generated cache and machine-local NeoForge configs excluded
+CLIENT START: PASS — offline graphical client reached renderer, complete resource reload, sound engine, and main menu, then closed normally with exit code 0
+SERVER START: PASS — isolated sub-batches, complete clean-world start, warm restart, and 5/5 repeated configured cold starts with flushed saves and clean shutdowns
+TESTS: Exact artifact/hash and dependency verification; new-world Labyrinth generation; boss quest target resolution; config generation and review; mimicry policy persistence; complete client mod construction and resource reload
+WARNINGS: Upstream resource-model warnings from Tensura, Mysticism, and Origins; optional compatibility class probes; CraftedCore's obsolete supporter-list URL returns 404 without affecting startup
+KNOWN ISSUES: Great Sage `needGreatSage` is a world gamerule and must be set automatically by the later pack-owned first-world policy layer; final integrated gameplay validation remains required
+COMMIT: Add Tensura boss and mimicry systems
+NEXT PHASE: Civilization and magic compatibility branch
+```

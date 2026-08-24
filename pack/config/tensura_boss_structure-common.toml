@@ -1,0 +1,7 @@
+[spawner]
+	#Whether boss spawners regenerate after the boss is killed (default: true)
+	recoveryEnabled = true
+	#Cooldown in minutes before a boss spawner regenerates (default: 60)
+	# Default: 60
+	# Range: 1 ~ 1440
+	recoveryCooldownMinutes = 60

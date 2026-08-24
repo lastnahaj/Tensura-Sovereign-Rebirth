@@ -1,0 +1,13 @@
+name = "TenSura Boss Structure"
+filename = "tensura_boss_structure-1.0.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14f670015944f4fab7dbdebcc2e46d959fdc2046"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8614357
+project-id = 1448822

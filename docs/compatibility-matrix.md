@@ -8,7 +8,9 @@
 | Tensura | Iron's Spells | Dedicated compatibility; core |
 | Tensura | Ice & Fire | Dedicated compatibility; core |
 | TR Addon 2.0.1 | ManasCore race/skill registries | DEFERRED-BLOCKED; excluded from the active runtime after reproducible dedicated-server construction failures; recheck official releases before release candidate freeze |
-| Unique Monsters 1.0.2 | ManasCore Skill 4.0.0.2 / Architectury 13.0.11 | REQUIRED with TSR Unique Monsters Compat 1.0.0; exact official JAR retained unmodified; 20/20 clean cold starts passed |
+| Unique Monsters 1.0.2 | ManasCore Skill 4.0.0.2 / Architectury 13.0.11 | REQUIRED with TSR Unique Monsters Compat 1.0.0; exact official JAR retained unmodified; 20/20 Phase 2A and 5/5 complete Phase 2 clean cold starts passed |
+| TensuraMorph 1.0.1 | ReMorphed 4.2 / Woodwalkers 5.8.12 / CraftedCore 5.8.2 | REQUIRED stack; ordinary-kill and creative morph unlock bypasses disabled by pack configuration |
+| Tensura Skill Books 2.2.1 | FTB Quests | Skill Books supplies controlled rewards; natural loot injection remains empty until authored reward placement is validated |
 | Tensura | Sophisticated Backpacks | Gear Evolution + Backpack Expansion; core |
 | Gear Evolution | Apotheosis | Not used; Apotheosis excluded |
 | Sophisticated Storage | Tom's | Sophisticated = storage, Tom's = terminal/wireless only |

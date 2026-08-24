@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftedcore.json5"
+hash = "ddfe4c4fc65e7bbb3716dc6642f92b974b669df88b09f1819e416f581e0ea64c"
+
+[[files]]
+file = "config/greatsage-client.toml"
+hash = "431386499a5147d03fa61e9c29a26d446776e6d61936244e41aa9415f8e6c576"
+
+[[files]]
+file = "config/greatsage-common.toml"
+hash = "fe782e6d508f4b3c0a1f01a2ddd5833a59f0043be4f9cd7f4ea176bf8ea15cef"
+
+[[files]]
 file = "config/mysticism/ability/magic/spiritual_config.toml"
 hash = "c5b500c238d25112a02b7dd22aa6d085aa1e6796a261c1d0acfd99237a28dfe2"
 
@@ -97,6 +109,10 @@ file = "config/mysticism/race/wyrm_config.toml"
 hash = "b2856fbbe0ea86714f942068e6e1d34a17d242a36bc6eee4ff23b9c5dab64c39"
 
 [[files]]
+file = "config/remorphed.json5"
+hash = "f3988771d1c840c342057673be6ff80e44542d97cfc1e2290fee49ef55444abc"
+
+[[files]]
 file = "config/stextras/ability/skill/extra_config.toml"
 hash = "5dda8002b7f5c1623cd514ee89d3166442ce471a1e2f869427f6a836e7ba813f"
 
@@ -107,6 +123,10 @@ hash = "a0e3c4411bcb9fe098a0085306fa2c694bda1486269b1bc7b223db8175999019"
 [[files]]
 file = "config/stextras/ability/skill/unique_config.toml"
 hash = "6a145e137d6a19757654383af7a0fe2d09e8d8af2647a7383bb8c67c1a7c86c4"
+
+[[files]]
+file = "config/stextras/client/general.json"
+hash = "f1137a8f1709d671b14733ed3c0b5cab200ee773c17fbcc8e9642a2efafbf268"
 
 [[files]]
 file = "config/stextras/general_config.toml"
@@ -253,6 +273,10 @@ file = "config/tensura/entity/spawn_rate_config.toml"
 hash = "8e831d058142b5ca31083a21e34c491ec2bb089e8b39143ae811ae713bcb2845"
 
 [[files]]
+file = "config/tensura/neb_config.toml"
+hash = "d8efb0c85a6bdaabd8622cad90e1f5fe1e93ec3963cd000100af5de776e77fed"
+
+[[files]]
 file = "config/tensura/race/beastfolk_config.toml"
 hash = "455bcfc4f71479c27997aa124e841b3304d5ed6193a12fe065b1e34c32f1d05a"
 
@@ -325,8 +349,40 @@ file = "config/tensura_better_subs.toml"
 hash = "68152b2e186f23d25ca58144b05f7d5600ade89ba8cd119bc576bb05784d60a6"
 
 [[files]]
+file = "config/tensura_boss_structure-common.toml"
+hash = "c08b4d6105f3bd5d87106d62fd5a8170af786e88dc57999f3e23769fbd4b6a3f"
+
+[[files]]
 file = "config/tensura_epfix-common.toml"
 hash = "ab8c8e8c497cd3e5a4694aaa8b6ca9bb5f1e7658e2c9082919c1e397a7a6c754"
+
+[[files]]
+file = "config/tensura_guild-common.toml"
+hash = "4b89e27c3014017d9b504c0aae6c00f553c2bc8850acd7ed053a1a8c79e25465"
+
+[[files]]
+file = "config/tensura_skill_books/tensura_skill_books-common.toml"
+hash = "728ecfd2b75c820bf4753584d1bc8b865e652ac5b4f86687159a0a675ad2972b"
+
+[[files]]
+file = "config/tensura_skill_books/tensura_skill_books-formulas.txt"
+hash = "7eb5bb9ea28a88531531ae468a66b1aea780286f3cdc0a607a0bde44f815aff4"
+
+[[files]]
+file = "config/tensura_skill_books/tensura_skill_books-loot-skills.txt"
+hash = "60001937bab4a298016658a1334629b2f99a5c4a3879041b44d494254f30b62e"
+
+[[files]]
+file = "config/tensura_skill_books/tensura_skill_books-loot-tables.txt"
+hash = "0389280f97b33ad7d6beae0645ebc6ba6bdd94c2a35de0b3e7b51e7fd867fbfc"
+
+[[files]]
+file = "config/tensura_skill_books/tensura_skill_books-random-skills.txt"
+hash = "849b56908c29257333c62d4040c010c6d285a924d455e133ddbbe6cbcb8f8602"
+
+[[files]]
+file = "config/tensuramorph-common.toml"
+hash = "a4ed7af288756f881656c07c266d171ea2161699345137d3a5eeb84933796447"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -437,8 +493,17 @@ file = "config/trorigins/race/ultimate_slime_config.toml"
 hash = "8961731969658a51ac8c2519d43ef69b8b96eb7a784eae342b86356971e62912"
 
 [[files]]
+file = "config/walkers.json5"
+hash = "e85d0a0651e65adc3c05b37c1c3c21dfe733f81e6fbf2e227c00cae770db2859"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
+file = "mods/craftedcore.pw.toml"
+hash = "4ecd48b799c8939ca070ee73a942d0dc7511b8fa8f431c1c281941e87859f485"
 metafile = true
 
 [[files]]
@@ -447,8 +512,18 @@ hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
+file = "mods/great-sage.pw.toml"
+hash = "f12cbb280613af3929fe68b70a3d5a5040a562e2b42727b057443c47a009f893"
+metafile = true
+
+[[files]]
 file = "mods/manascore.pw.toml"
 hash = "ea327466b8d3ebe83329de194d77790f7d68fe25e56f0bfeda319527636bb7cb"
+metafile = true
+
+[[files]]
+file = "mods/remorphed.pw.toml"
+hash = "4447cc14ef7ee3cfcffbf38512dde814674a864eac9ee290ddcd291dc45bb648"
 metafile = true
 
 [[files]]
@@ -467,6 +542,16 @@ hash = "520096024e9dc8560ec67b37cd2ef2da58a6e5e298a77adfad1b728f97c78906"
 metafile = true
 
 [[files]]
+file = "mods/tensura-boss-structure.pw.toml"
+hash = "ce4d1b2ab8f059d0b25dbc688c45a89ad4576c0cc4f281b99148410f96cf86ae"
+metafile = true
+
+[[files]]
+file = "mods/tensura-guild.pw.toml"
+hash = "42f914fae49c91425e0b450a293d7196d52f07865dc5d02abeef92d9f18a4b9d"
+metafile = true
+
+[[files]]
 file = "mods/tensura-modifications.pw.toml"
 hash = "1065f75d6606c4aa5271638a8bcb0f78cf1add0c55ed6755e1c4eaeadf24089f"
 metafile = true
@@ -474,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/tensura-mysticism.pw.toml"
 hash = "268d225dc3eca84f755f7c0ce97369436ea92e6bb01467d3ea82cb86cfcf2543"
+metafile = true
+
+[[files]]
+file = "mods/tensura-not-enough-bosses.pw.toml"
+hash = "df45720908b1686cd28bbae04ac22e38e0ece562def250686ccf8ca8c83c6179"
 metafile = true
 
 [[files]]
@@ -487,6 +577,11 @@ hash = "f6b11f1f65003c1c58c4b535097097ec2ad979291ee257c80615dc02d908a301"
 metafile = true
 
 [[files]]
+file = "mods/tensura-skill-books.pw.toml"
+hash = "2f6834a305a179a6f1fe2cfaa0d949fbc3e9e241bc9dab39b53def1e318e9388"
+metafile = true
+
+[[files]]
 file = "mods/tensura-slimethrone-extras.pw.toml"
 hash = "b718c4a0182a51cfb59b69da039e0a964bbcd76aeaec54fc9959a1566091e23c"
 metafile = true
@@ -497,6 +592,16 @@ hash = "bb0c7125de360ac72fb90dff8d9a94e870129ef82f96a7d94153d7283a460a54"
 metafile = true
 
 [[files]]
+file = "mods/tensura-utilities-manager.pw.toml"
+hash = "5ad5009bc8966428c04c1209e03eb240b39043d580e1dec1b15d611e2b72d658"
+metafile = true
+
+[[files]]
+file = "mods/tensuramorph.pw.toml"
+hash = "9e345684a2944f6aeede22e61e77c53438eeca0416964e3126ff34ec5d87400c"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "04a7ef88ff4356c7ac704a6fb47fec5d92963915028af33aab899a882e40e9a9"
 metafile = true
@@ -504,3 +609,8 @@ metafile = true
 [[files]]
 file = "mods/tsr-unique-monsters-compat-1.0.0.jar"
 hash = "e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65"
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "09345b00123e1beeef3e2507d73ba8d5536547f202eee4e7b38d0b9e031c93cf"
+metafile = true

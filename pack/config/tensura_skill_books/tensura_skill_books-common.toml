@@ -1,0 +1,73 @@
+#Configuration schema version. Do not edit this value.
+#Version 6 makes the LootTable file the only natural-loot probability source.
+#Format: integer. Required value: 6.
+#Example: config_version = 6
+# Default: 6
+# Range: 6 ~ 6
+config_version = 6
+
+#Server-authoritative random study-book settings.
+#These settings apply to dedicated servers and integrated single-player servers.
+#Per-skill random weights are generated in tensura_skill_books-random-skills.txt.
+#Every discovered skill defaults to weight 1; set its line to @0 to blacklist it.
+#All enable_* values use true or false.
+[random_books]
+	#Allows the random all study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_all = false
+	enable_all = true
+	#Allows the random combat study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_combat = false
+	enable_combat = true
+	#Allows the random common study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_common = false
+	enable_common = true
+	#Allows the random resistance study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_resistance = false
+	enable_resistance = true
+	#Allows the random intrinsic study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_intrinsic = false
+	enable_intrinsic = true
+	#Allows the random extra study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_extra = false
+	enable_extra = true
+	#Allows the random unique study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_unique = false
+	enable_unique = true
+	#Allows the random ultimate study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_ultimate = false
+	enable_ultimate = true
+	#Allows the random magic_aspectual study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_aspectual = false
+	enable_magic_aspectual = true
+	#Allows the random magic_spiritual study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_spiritual = false
+	enable_magic_spiritual = true
+	#Allows the random magic_summoning study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_summoning = false
+	enable_magic_summoning = true
+	#Allows the random magic_misc study book to be used on the server.
+	#Format: true or false.
+	#Example: enable_magic_misc = false
+	enable_magic_misc = true
+
+#Server LootTable integration for dedicated and integrated single-player servers.
+#Lootr does not parse this file. Compatibility is provided by modifying the final server LootTable.
+#This keeps compatible containers attached to their loot table instead of writing directly to inventories.
+[loot]
+	#Master opt-in switch for natural loot integration.
+	#Format: true or false.
+	#Example: enabled = true
+	#All final entry probabilities are configured only in tensura_skill_books-loot-tables.txt.
+	#New LootTables use empty (), so no item from this mod appears by default.
+	enabled = true

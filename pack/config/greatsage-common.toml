@@ -1,0 +1,53 @@
+[general]
+	#Silence delay in ticks after a player joins the world.
+	#Tensura hands out the whole racial kit at that moment: resistances,
+	#intrinsics... Without this delay every login and every respawn would
+	#trigger an endless announce listing stuff you already had.
+	#100 = 5 seconds. Put 0 if you really want to hear everything on login.
+	# Default: 100
+	# Range: 0 ~ 600
+	joinGraceTicks = 100
+	#Progression steps that get their own announce.
+	#Possible values: hero_egg, demon_lord_seed, harvest_festival, true_hero,
+	#true_demon_lord
+	announcedCeremonies = ["hero_egg", "demon_lord_seed", "harvest_festival", "true_hero", "true_demon_lord"]
+	#Ceremonies where the player cannot take damage. Awakening animations are
+	#long and you cannot move, so dying in the middle of one would be rough.
+	shieldedCeremonies = ["true_hero", "true_demon_lord"]
+	#How long that protection lasts, in ticks. 400 = 20 seconds.
+	# Default: 400
+	# Range: 20 ~ 2400
+	ceremonyShieldTicks = 400
+	#Base duration of one analysis, in ticks. 1200 = one minute.
+	#The real duration is multiplied by rarity: x2 common and intrinsic,
+	#x3 extra, x5 unique, x8 ultimate.
+	# Default: 1200
+	# Range: 20 ~ 72000
+	analysisTicks = 1200
+	#Max distance in blocks at which a target can be read in assess mode.
+	# Default: 48.0
+	# Range: 4.0 ~ 128.0
+	assessRange = 48.0
+	#Above this EP ratio the target is beyond what Great Sage can read and the
+	#analysis fails. This is the limit that makes assess mode mean something,
+	#not everything is readable. 10 means ten times your own EP.
+	# Default: 10.0
+	# Range: 1.0 ~ 10000.0
+	assessEpRatio = 10.0
+	#EP ratio where being close to a creature makes you sick in assess mode.
+	#This is the real game nausea effect, level 3, level 4 if the gap is huge.
+	# Default: 8.0
+	# Range: 1.0 ~ 10000.0
+	assessNauseaRatio = 8.0
+	#Great Sage comments on what you are doing: ore hidden behind a block,
+	#incoming danger, tool about to break...
+	#You need the Great Sage skill for these, always. Skill announces and
+	#ceremonies are the only things that work without it.
+	#false: it only speaks for skills and ceremonies.
+	enableTips = true
+	#Minimum silence between two comments, whatever they are. 600 = 30 seconds.
+	#This is the setting that decides if Great Sage is a companion or an
+	#annoying parrot. Each comment also has its own cooldown on top of this.
+	# Default: 600
+	# Range: 20 ~ 24000
+	tipQuietTicks = 600

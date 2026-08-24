@@ -17,4 +17,17 @@ The following design rule is enforced in the pack validator:
 
 A clean reconstruction verified all 14 Phase 2A runtime artifacts and all 109 packaged configs before launch. The reconstructed server passed new-world creation, a flushed save, clean shutdown, and warm restart. The only files created outside the packaged tree were NeoForge's three machine defaults and SlimeThrone Extras' expected internal patcher state; no packaged setting changed semantically.
 
-Additional frozen settings are activated when their owning mods enter the runtime. These include Great Sage possession checks, controlled Waystones travel, Quest Shop currency sources, Jade information limits, and conservative ServerCore behavior. Each setting receives a fresh-install regression test before its subsystem is accepted.
+## Complete Phase 2 baseline
+
+The remaining frozen Tensura layer expands the reviewed tree to 124 files. It adds Great Sage client/common settings, Guild and boss settings, the complete Skill Books generated pool and probability files, the TensuraMorph bridge, ReMorphed, Woodwalkers, CraftedCore, and the SlimeThrone client presentation default.
+
+The following progression rules are locked in the packaged configuration:
+
+- Skill Books natural loot tables contain no active entries. Authored quests and explicitly reviewed rewards remain the only planned distribution path.
+- ReMorphed ordinary-kill unlocks require 100,000 kills and creative-mode automatic unlocks are disabled. TensuraMorph applies the same threshold so Predator and Gluttony remain the practical mimicry path.
+- CraftedCore background version checking is disabled. Its generated supporter cache is runtime state and is not packaged.
+- Great Sage voice input remains off by default. Its `needGreatSage` possession rule is a world gamerule rather than a TOML setting; automatic first-world enforcement remains a release gate for the pack-owned server policy layer.
+
+The complete 24-artifact Phase 2 runtime passed five repeated clean-world dedicated-server starts after configuration, a warm restart, and an offline graphical client start through renderer, resource reload, and sound-engine initialization. NeoForge did not generate any world-scoped server config files for this layer, so no Phase 2 file belongs in `defaultconfigs`; that tree is populated when later server-scoped configuration owners enter the runtime.
+
+Additional frozen settings are activated when their owning systems enter the runtime. These include automatic Great Sage gamerule enforcement, controlled Waystones travel, Quest Shop currency sources, Jade information limits, and conservative ServerCore behavior. Each setting receives a fresh-install regression test before its subsystem is accepted.

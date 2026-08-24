@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import hashlib
+import json
+import re
 import tomllib
 from pathlib import Path
 
@@ -20,6 +22,22 @@ PACK_OWNED_JARS = {
 }
 ALLOWED_TOOL_JARS = {
     Path("compat/tsr-unique-monsters-compat/gradle/wrapper/gradle-wrapper.jar"),
+}
+REQUIRED_PHASE_2_CONFIGS = {
+    Path("craftedcore.json5"),
+    Path("greatsage-client.toml"),
+    Path("greatsage-common.toml"),
+    Path("remorphed.json5"),
+    Path("stextras/client/general.json"),
+    Path("tensura/neb_config.toml"),
+    Path("tensura_boss_structure-common.toml"),
+    Path("tensura_guild-common.toml"),
+    Path("tensura_skill_books/tensura_skill_books-common.toml"),
+    Path("tensura_skill_books/tensura_skill_books-loot-skills.txt"),
+    Path("tensura_skill_books/tensura_skill_books-loot-tables.txt"),
+    Path("tensura_skill_books/tensura_skill_books-random-skills.txt"),
+    Path("tensuramorph-common.toml"),
+    Path("walkers.json5"),
 }
 
 
@@ -95,12 +113,69 @@ for relative, expected_hash in PACK_OWNED_JARS.items():
         errors.append(f"Pack-owned JAR hash changed: {relative}")
 
 config_files = [path for path in CONFIG.rglob("*") if path.is_file()]
-if len(config_files) < 109:
-    errors.append(f"Expected at least 109 promoted config files; found {len(config_files)}")
+if len(config_files) < 124:
+    errors.append(f"Expected at least 124 promoted config files; found {len(config_files)}")
+
+for relative in sorted(REQUIRED_PHASE_2_CONFIGS):
+    if not (CONFIG / relative).is_file():
+        errors.append(f"Missing reviewed Phase 2 config: {relative}")
+
+for path in config_files:
+    try:
+        if path.suffix == ".toml":
+            tomllib.loads(path.read_text(encoding="utf-8"))
+        elif path.suffix == ".json":
+            json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, tomllib.TOMLDecodeError, json.JSONDecodeError) as exc:
+        errors.append(f"Invalid config {path.relative_to(CONFIG)}: {exc}")
 
 runtime_state = CONFIG / "stextras" / "internal" / "tensura_config_patcher_state.toml"
 if runtime_state.exists():
     errors.append("Mutable SlimeThrone config-patcher state must not be packaged")
+
+craftedcore_cache = CONFIG / "craftedcore" / "cache" / "patreons.txt"
+if craftedcore_cache.exists():
+    errors.append("CraftedCore's generated supporter cache must not be packaged")
+
+craftedcore_text = (CONFIG / "craftedcore.json5").read_text(encoding="utf-8")
+if not re.search(r'"enableVersionChecking"\s*:\s*false', craftedcore_text):
+    errors.append("CraftedCore background version checking must remain disabled")
+
+remorphed_text = (CONFIG / "remorphed.json5").read_text(encoding="utf-8")
+if not re.search(r'"creativeUnlockAll"\s*:\s*false', remorphed_text):
+    errors.append("ReMorphed creative automatic unlocks must remain disabled")
+if not re.search(r'"killToUnlock"\s*:\s*100000', remorphed_text):
+    errors.append("ReMorphed ordinary-kill unlock threshold must remain 100000")
+
+try:
+    tensuramorph = tomllib.loads(
+        (CONFIG / "tensuramorph-common.toml").read_text(encoding="utf-8")
+    )
+    if tensuramorph.get("unlockThreshold") != 100000:
+        errors.append("TensuraMorph unlock threshold must remain 100000")
+    if tensuramorph.get("disableRemorphedCreativeUnlockAll") is not True:
+        errors.append("TensuraMorph must disable ReMorphed creative unlocks")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid TensuraMorph config: {exc}")
+
+loot_table_config = CONFIG / "tensura_skill_books" / "tensura_skill_books-loot-tables.txt"
+for line_number, line in enumerate(loot_table_config.read_text(encoding="utf-8").splitlines(), 1):
+    stripped = line.strip()
+    if stripped and not stripped.startswith("#") and not stripped.endswith("()"):
+        errors.append(
+            "Skill Books natural loot must remain empty before authored rewards are validated: "
+            f"line {line_number}"
+        )
+        break
+
+try:
+    greatsage_client = tomllib.loads(
+        (CONFIG / "greatsage-client.toml").read_text(encoding="utf-8")
+    )
+    if greatsage_client.get("general", {}).get("voiceInput") != "off":
+        errors.append("Great Sage voice input must remain off by default")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Great Sage client config: {exc}")
 
 origins_general = CONFIG / "trorigins" / "general.toml"
 reincarnation_config = CONFIG / "tensura" / "reincarnation_config.toml"

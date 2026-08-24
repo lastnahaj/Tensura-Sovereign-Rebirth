@@ -1,0 +1,6 @@
+{
+  // Toggle the version checking for every mod that uses CraftedCore
+  "enableVersionChecking": false,
+  // Update cached Player Profiles in the background
+  "autoUpdateCache": true
+}

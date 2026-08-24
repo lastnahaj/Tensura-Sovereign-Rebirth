@@ -1,0 +1,13 @@
+name = "Great Sage"
+filename = "greatsage-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f708fdfb06472e28d5c371fbf9226ebd0f342b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8640889
+project-id = 1635097

@@ -1,0 +1,13 @@
+name = "Tensura Utilities Manager"
+filename = "tensura_utilities_manager-neoforge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91d9956bd0cf7f0d74f8b69c07e0fb53e7014d52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8318684
+project-id = 1584653

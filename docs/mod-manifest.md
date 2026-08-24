@@ -33,7 +33,9 @@
 | Tensura: Not Enough Bosses | 2.0.0.3 | LOCK |  |
 | TenSura Boss Structure | 1.0.3.3 | LOCK |  |
 | TensuraMorph | 1.0.1 | LOCK |  |
-| ReMorphed | Resolve current compatible 1.21.1 NeoForge release | DEPENDENCY | Required for TensuraMorph. |
+| ReMorphed | 4.2 | DEPENDENCY | Required for TensuraMorph. |
+| Woodwalkers | 5.8.12 | DEPENDENCY | Required by ReMorphed; client and server. |
+| CraftedCore | 5.8.2 | DEPENDENCY | Required by ReMorphed, Woodwalkers, and TensuraMorph; client and server. |
 | Tensura Gear Evolution | 1.2.5 | LOCK | Authoritative equipment progression system. |
 | Tensura Backpack Expansion | 1.0.4 | LOCK |  |
 | Tensura Metalworks | 1.0.4 | LOCK |  |
