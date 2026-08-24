@@ -1,0 +1,401 @@
+[SculkWorm]
+	#Minimal aura.
+	minAura = 100.0
+	#Maximum aura.
+	maxAura = 250.0
+	#Minimal magicule.
+	minMagicule = 800.0
+	#Maximum magicule.
+	maxMagicule = 1200.0
+	#Bonus Size.
+	size = -0.5
+	#Bonus Max Health.
+	maxHealth = -12.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = -4.0
+	#Bonus Attack Damage.
+	attack = -0.5
+	#Bonus Attack Speed.
+	attackSpeed = 3.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.009999999776482582
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave"]
+
+[SoulShrieker]
+	#EP requirement to evolve into a Soul Shrieker.
+	epRequirement = 4000.0
+	#Minimal aura.
+	minAura = 1500.0
+	#Maximum aura.
+	maxAura = 1500.0
+	#Minimal magicule.
+	minMagicule = 2500.0
+	#Maximum magicule.
+	maxMagicule = 2500.0
+	#Bonus Size.
+	size = -0.25
+	#Bonus Max Health.
+	maxHealth = 4.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 28.0
+	#Bonus Attack Damage.
+	attack = 1.0
+	#Bonus Attack Speed.
+	attackSpeed = 3.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.20000000298023224
+	#Bonus Movement Speed.
+	movementSpeed = 0.019999999552965164
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.20000000298023224
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:pain_resistance", "tensura:ultrasonic_waves"]
+
+[Warden]
+	#EP requirement to evolve into a Warden.
+	epRequirement = 50000.0
+	#Minimal aura.
+	minAura = 35000.0
+	#Maximum aura.
+	maxAura = 35000.0
+	#Minimal magicule.
+	minMagicule = 65000.0
+	#Maximum magicule.
+	maxMagicule = 65000.0
+	#Bonus Size.
+	size = 0.5
+	#Bonus Max Health.
+	maxHealth = 480.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 980.0
+	#Bonus Attack Damage.
+	attack = 7.0
+	#Bonus Attack Speed.
+	attackSpeed = 2.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.5
+	#Bonus Movement Speed.
+	movementSpeed = 0.025
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.1
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:pain_resistance", "tensura:ultrasonic_waves"]
+
+[SoulAberration]
+	#EP requirement to evolve into a Soul Aberration.
+	epRequirement = 400000.0
+	#Minimal aura.
+	minAura = 400000.0
+	#Maximum aura.
+	maxAura = 400000.0
+	#Minimal magicule.
+	minMagicule = 400000.0
+	#Maximum magicule.
+	maxMagicule = 400000.0
+	#Bonus Size.
+	size = 1.0
+	#Bonus Max Health.
+	maxHealth = 930.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 4730.0
+	#Bonus Attack Damage.
+	attack = 11.0
+	#Bonus Attack Speed.
+	attackSpeed = 2.75
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.75
+	#Bonus Movement Speed.
+	movementSpeed = 0.03
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:pain_resistance", "tensura:ultrasonic_waves", "tensura:magic_resistance"]
+
+[ReaperAberration]
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1000000.0
+	#Maximum magicule.
+	maxMagicule = 1000000.0
+	#Bonus Size.
+	size = 2.0
+	#Bonus Max Health.
+	maxHealth = 1280.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 9420.0
+	#Bonus Attack Damage.
+	attack = 15.0
+	#Bonus Attack Speed.
+	attackSpeed = 3.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.045
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.5
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:pain_resistance", "tensura:ultrasonic_waves", "tensura:magic_resistance", "tensura:divine_ki_release"]
+
+[MoltenPerforator]
+	#Quantity of Flame Essence required to become a Molten Perforator as a Sculk Worm.
+	essenceRequired = 3
+	#EP requirement to evolve into Magma Worm.
+	epRequirement = 4000.0
+	#Minimal aura.
+	minAura = 4500.0
+	#Maximum aura.
+	maxAura = 5500.0
+	#Minimal magicule.
+	minMagicule = 5500.0
+	#Maximum magicule.
+	maxMagicule = 7500.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 30.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 90.0
+	#Bonus Attack Damage.
+	attack = 0.4000000059604645
+	#Bonus Attack Speed.
+	attackSpeed = 0.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.10000000149011612
+	#Bonus Movement Speed.
+	movementSpeed = 0.004999999888241291
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:heat_resistance", "tensura:flame_breath"]
+
+[MagmaWorm]
+	#Quantity of Flame Essence required to become a Magma Worm as a Molten Perforator.
+	essenceRequired = 10
+	#EP requirement to evolve into Magma Worm.
+	epRequirement = 100000.0
+	#Minimal aura.
+	minAura = 75000.0
+	#Maximum aura.
+	maxAura = 75000.0
+	#Minimal magicule.
+	minMagicule = 75000.0
+	#Maximum magicule.
+	maxMagicule = 75000.0
+	#Bonus Size.
+	size = 0.5
+	#Bonus Max Health.
+	maxHealth = 100.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 300.0
+	#Bonus Attack Damage.
+	attack = 2.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.4000000059604645
+	#Bonus Movement Speed.
+	movementSpeed = 0.019999999552965164
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.20000000298023224
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:heat_resistance", "tensura:flame_breath"]
+
+[EnflamedAberration]
+	#Quantity of Flame Essence required to become a Enflamed Aberration as a Magma Worm.
+	essenceRequired = 20
+	#EP requirement to evolve into an Enflamed Aberration.
+	epRequirement = 400000.0
+	#Minimal aura.
+	minAura = 400000.0
+	#Maximum aura.
+	maxAura = 400000.0
+	#Minimal magicule.
+	minMagicule = 400000.0
+	#Maximum magicule.
+	maxMagicule = 400000.0
+	#Bonus Size.
+	size = 0.5
+	#Bonus Max Health.
+	maxHealth = 580.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 580.0
+	#Bonus Attack Damage.
+	attack = 4.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.2
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.6
+	#Bonus Movement Speed.
+	movementSpeed = 0.025
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.25
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:heat_resistance", "tensura:flame_breath", "tensura:heat_wave", "mysticism:hell_hall"]
+
+[ViolenceDeity]
+	#Quantity of Flame Essence required to become a Violence Deity as an Enflamed Aberration.
+	essenceRequired = 30
+	#EP requirement to evolve into a Violence Deity.
+	epRequirement = 2000000.0
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1000000.0
+	#Maximum magicule.
+	maxMagicule = 1000000.0
+	#Bonus Size.
+	size = 0.5
+	#Bonus Max Health.
+	maxHealth = 980.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6800.0
+	#Bonus Attack Damage.
+	attack = 3.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.035
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:heat_resistance", "tensura:flame_breath", "tensura:heat_wave", "mysticism:hell_hall", "tensura:divine_ki_release"]
+
+[ChargedPerforator]
+	#Quantity of Lightning Essence required to become a Charged Perforator as a Sculk Worm.
+	essenceRequired = 10
+	#EP requirement to evolve into Charged Perforator.
+	epRequirement = 4000.0
+	#Minimal aura.
+	minAura = 10000.0
+	#Maximum aura.
+	maxAura = 10000.0
+	#Minimal magicule.
+	minMagicule = 10000.0
+	#Maximum magicule.
+	maxMagicule = 10000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 55.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 270.0
+	#Bonus Attack Damage.
+	attack = 5.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.20000000298023224
+	#Bonus Movement Speed.
+	movementSpeed = 0.009999999776482582
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.009999999776482582
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:lightning_manipulation", "tensura:electricity_resistance", "tensura:heat_resistance"]
+
+[OverloadingWorm]
+	#Quantity of Lightning Essence required to become an Overloading Worm as a Charged Perforator.
+	essenceRequired = 15
+	#EP requirement to evolve into Overloading Worm.
+	epRequirement = 100000.0
+	#Minimal aura.
+	minAura = 100000.0
+	#Maximum aura.
+	maxAura = 100000.0
+	#Minimal magicule.
+	minMagicule = 100000.0
+	#Maximum magicule.
+	maxMagicule = 100000.0
+	#Bonus Size.
+	size = 0.25
+	#Bonus Max Health.
+	maxHealth = 180.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 470.0
+	#Bonus Attack Damage.
+	attack = 1.5
+	#Bonus Attack Speed.
+	attackSpeed = 0.20000000298023224
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.20000000298023224
+	#Bonus Movement Speed.
+	movementSpeed = 0.019999999552965164
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.20000000298023224
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:lightning_manipulation", "tensura:electricity_resistance", "tensura:heat_resistance", "mysticism:discharge"]
+
+[LightningAberration]
+	#Quantity of Lightning Essence required to become a Lightning Aberration as a Overloading Worm.
+	essenceRequired = 30
+	#EP requirement to evolve into a Lightning Aberration.
+	epRequirement = 400000.0
+	#Minimal aura.
+	minAura = 400000.0
+	#Maximum aura.
+	maxAura = 400000.0
+	#Minimal magicule.
+	minMagicule = 400000.0
+	#Maximum magicule.
+	maxMagicule = 400000.0
+	#Bonus Size.
+	size = 0.25
+	#Bonus Max Health.
+	maxHealth = 730.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 600.0
+	#Bonus Attack Damage.
+	attack = 3.5
+	#Bonus Attack Speed.
+	attackSpeed = 0.4
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.5
+	#Bonus Movement Speed.
+	movementSpeed = 0.0425
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.3
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:lightning_manipulation", "tensura:electricity_resistance", "tensura:heat_resistance", "mysticism:discharge", "tensura:lightning_domination"]
+
+[DissonanceDeity]
+	#Quantity of Lightning Essence required to become a Dissonance Deity as a Lightning Aberration.
+	essenceRequired = 50
+	#EP requirement to evolve into a Dissonance Deity.
+	epRequirement = 2000000.0
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1000000.0
+	#Maximum magicule.
+	maxMagicule = 1000000.0
+	#Bonus Size.
+	size = 0.25
+	#Bonus Max Health.
+	maxHealth = 1080.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 7450.0
+	#Bonus Attack Damage.
+	attack = 5.0
+	#Bonus Attack Speed.
+	attackSpeed = 1.2000000476837158
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.05
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+	#The list of intrinsic skills that the race gets.
+	intrinsicSkills = ["tensura:sense_soundwave", "tensura:lightning_manipulation", "tensura:electricity_resistance", "tensura:heat_resistance", "mysticism:discharge", "tensura:lightning_domination", "mysticism:dissonance", "tensura:divine_ki_release"]

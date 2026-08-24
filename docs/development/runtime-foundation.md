@@ -13,7 +13,7 @@ canonical project; no third-party JAR is stored in the repository.
 | Architectury API | 13.0.11 | CurseForge `419699 / 8492726` | SHA-1 `008656a0702801174b8ec245ed7aad1921d6e9f1` |
 | GeckoLib | 4.9.2 | CurseForge `388172 / 8350073` | SHA-1 `14c64013cadee7d28f3685f94350f9a4d2ec6d86` |
 | SmartBrainLib | 1.16.11 | CurseForge `661293 / 7055149` | SHA-1 `0310135a01eeceefbc7f1ab017498a65f3ad6836` |
-| TerraBlender | 4.1.0.8 | Modrinth `kkmrDlKT / 6e8GCrLb` | SHA-512 `9d4b2a1b…57bac50` |
+| TerraBlender | 4.1.0.8 | CurseForge `940057 / 6054947` | SHA-1 `744394d979b422be560babf9df7a6800ede9ac5b` |
 
 TerraBlender is pinned explicitly because Tensura's packaged NeoForge metadata
 requires version 4.1.0.0 or newer, although the CurseForge relationship list did
@@ -42,9 +42,9 @@ pending because that disposable instance has no authenticated launcher session
 or downloaded asset set.
 
 The server generated 47 common configuration files, including the full Tensura
-ability, energy, entity, race, reincarnation, and client-default trees. These
-defaults remain test artifacts until the configuration phase promotes reviewed
-files into the pack source.
+ability, energy, entity, race, reincarnation, and client-default trees. Phase
+2A promoted these files into the Packwiz source together with the reviewed
+addon configuration baseline.
 
 ## Observed warnings
 

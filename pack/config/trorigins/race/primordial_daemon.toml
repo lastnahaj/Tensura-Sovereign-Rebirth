@@ -1,0 +1,93 @@
+[PrimordialArchDaemon]
+	#Minimal aura.
+	minAura = 60000.0
+	#Maximum aura.
+	maxAura = 60000.0
+	#Minimal magicule.
+	minMagicule = 140000.0
+	#Maximum magicule.
+	maxMagicule = 140000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 110.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 666.0
+	#Bonus Attack Damage.
+	attack = 2.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.3
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.6
+	#Bonus Movement Speed.
+	movementSpeed = 0.01
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.1
+
+[PrimordialDaemonLord]
+	#Minimal aura.
+	minAura = 120000.0
+	#Maximum aura.
+	maxAura = 320000.0
+	#Minimal magicule.
+	minMagicule = 300000.0
+	#Maximum magicule.
+	maxMagicule = 800000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 646.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 3706.0
+	#Bonus Attack Damage.
+	attack = 3.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.6000000238418579
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.04
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+
+[PrimordialDevilLord]
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 2500000.0
+	#Minimal magicule.
+	minMagicule = 2000000.0
+	#Maximum magicule.
+	maxMagicule = 3900000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1066.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6606.0
+	#Bonus Attack Damage.
+	attack = 4.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.8
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.9
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8
+
+[ColorPrimordialBonus]
+	#The number of bonus learning points the Primordial Rouge will get.
+	bonusLearnMasteryPointRouge = 6
+	#The number of bonus learning points for Magics the Primordial Noir will get.
+	bonusLearnMasteryPointNoir = 10
+	#The percentage of increased damage done by cold abilities made by the Primordial Blanc.
+	bonusColdDamageBlanc = 30
+	#The percentage of increased damage done by poison abilities made by the Primordial Violet.
+	bonusPoisonDamageViolet = 30
+	#The percentage of increased damage done by darkness and gravity abilities made by the Primordial Jaune.
+	bonusDarkGravityDamageJaune = 30
+	#The percentage of increased damage done by cold and water abilities made by the Primordial Bleu.
+	bonusIceWaterDamageBleu = 30
+	#The percentage of increased damage done by flame and heat abilities made by the Primordial Vert.
+	bonusFlameHeatDamageVert = 30

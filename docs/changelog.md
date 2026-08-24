@@ -3,6 +3,7 @@
 ## Version 1 (Beta) — Assembly
 
 - Deferred TR Addon 2.0.1 because its public NeoForge artifact cannot reliably complete dedicated-server mod construction against the ManasCore race and skill registries. It remains tracked as `DEFERRED-BLOCKED` and will be checked once more for an official compatible release before release candidate freeze.
+- Added the first core Tensura progression tranche and retained the official Unique Monsters 1.0.2 artifact with a narrow compatibility layer for deterministic ManasCore skill registration.
 
 ## TSR v0.1 — Design Freeze
 

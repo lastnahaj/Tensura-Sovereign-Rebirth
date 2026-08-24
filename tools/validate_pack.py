@@ -9,9 +9,17 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "pack"
 PACK_FILE = PACK / "pack.toml"
+CONFIG = PACK / "config"
 EXPECTED = {
     "minecraft": "1.21.1",
     "neoforge": "21.1.248",
+}
+PACK_OWNED_JARS = {
+    Path("pack/mods/tsr-unique-monsters-compat-1.0.0.jar"):
+        "e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65",
+}
+ALLOWED_TOOL_JARS = {
+    Path("compat/tsr-unique-monsters-compat/gradle/wrapper/gradle-wrapper.jar"),
 }
 
 
@@ -65,13 +73,53 @@ else:
         elif entry.get("hash") != sha256(indexed_path):
             errors.append(f"Indexed file hash is stale: {relative}")
 
-tracked_jars = [
+repository_jars = [
     path.relative_to(ROOT)
     for path in ROOT.rglob("*.jar")
-    if ".build" not in path.parts and ".git" not in path.parts
+    if ".build" not in path.parts
+    and ".git" not in path.parts
+    and "build" not in path.relative_to(ROOT).parts
 ]
-if tracked_jars:
-    errors.append("Repository contains mod JARs: " + ", ".join(map(str, tracked_jars)))
+unexpected_jars = [
+    path for path in repository_jars
+    if path not in PACK_OWNED_JARS and path not in ALLOWED_TOOL_JARS
+]
+if unexpected_jars:
+    errors.append("Repository contains unexpected JARs: " + ", ".join(map(str, unexpected_jars)))
+
+for relative, expected_hash in PACK_OWNED_JARS.items():
+    artifact = ROOT / relative
+    if not artifact.is_file():
+        errors.append(f"Missing pack-owned JAR: {relative}")
+    elif sha256(artifact) != expected_hash:
+        errors.append(f"Pack-owned JAR hash changed: {relative}")
+
+config_files = [path for path in CONFIG.rglob("*") if path.is_file()]
+if len(config_files) < 109:
+    errors.append(f"Expected at least 109 promoted config files; found {len(config_files)}")
+
+runtime_state = CONFIG / "stextras" / "internal" / "tensura_config_patcher_state.toml"
+if runtime_state.exists():
+    errors.append("Mutable SlimeThrone config-patcher state must not be packaged")
+
+origins_general = CONFIG / "trorigins" / "general.toml"
+reincarnation_config = CONFIG / "tensura" / "reincarnation_config.toml"
+try:
+    origins = tomllib.loads(origins_general.read_text(encoding="utf-8"))
+    if origins.get("General", {}).get("refresh") is not False:
+        errors.append("Tensura: Origins automatic starter-pool refresh must remain disabled")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Origins config: {exc}")
+
+try:
+    reincarnation = tomllib.loads(reincarnation_config.read_text(encoding="utf-8"))
+    race_config = reincarnation.get("Races", {})
+    for pool in ("startingRaces", "randomRaces"):
+        gated = [race for race in race_config.get(pool, []) if race.startswith("trorigins:")]
+        if gated:
+            errors.append(f"Origins races leaked into {pool}: {', '.join(gated)}")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Tensura reincarnation config: {exc}")
 
 if errors:
     raise SystemExit("Pack validation failed:\n- " + "\n- ".join(errors))

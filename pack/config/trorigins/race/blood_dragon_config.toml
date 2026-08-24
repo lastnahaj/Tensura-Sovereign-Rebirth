@@ -1,0 +1,27 @@
+[BloodDragon]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1180.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8900.0
+	#Bonus Attack Damage.
+	attack = 9.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.8
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.7
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:divine_vampire"]

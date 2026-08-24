@@ -1,0 +1,27 @@
+[DemonDragon]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1240.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 7606.0
+	#Bonus Attack Damage.
+	attack = 8.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.9
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.09
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 1.0
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:devil_lord", "mysticism:devil_doll"]

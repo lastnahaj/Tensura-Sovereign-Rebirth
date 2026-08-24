@@ -100,6 +100,8 @@ nav:
       - Development:
           - Build Environment: development/build-environment.md
           - Runtime Foundation: development/runtime-foundation.md
+          - Configuration Baseline: development/configuration-baseline.md
+          - Unique Monsters Compatibility: development/unique-monsters-compatibility.md
           - Compatibility Blockers: development/compatibility-blockers.md
           - Phase Reports: development/phase-reports.md
   - Project:

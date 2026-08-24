@@ -1,0 +1,1103 @@
+{
+  "_readme": "Per-mob EP and skill/resistance grants. One entry per entity id. Edit this file to add bosses from other mods (or modify vanilla mobs) — entries whose mod isn't installed are skipped silently, so you can leave cross-mod entries in place. Changes take effect for newly-spawned mobs only (requires restart or /reload isn't sufficient). 'reapplyOnRespawn' re-stamps the mob on every level-join (useful for multi-stage bosses that reset); default false stamps once per entity persistent id.",
+  "mobs": {
+    "_example:fire_dragon": {
+      "enabled": false,
+      "ep": 300000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura"
+      ],
+      "resistances": [
+        "tensura:fire_attack_nullification"
+      ]
+    },
+    "cataclysm:ender_guardian": {
+      "enabled": true,
+      "ep": 800000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:majesty",
+        "tensura:gravity_domination",
+        "tensura:ultraspeed_regeneration"
+      ],
+      "resistances": [
+        "tensura:spatial_attack_nullification",
+        "tensura:physical_attack_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "cataclysm:ender_golem": {
+      "enabled": true,
+      "ep": 30000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:gravity_manipulation",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:physical_attack_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "cataclysm:netherite_monstrosity": {
+      "enabled": true,
+      "ep": 400000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_domination",
+        "tensura:flame_breath",
+        "tensura:magic_flame_transform",
+        "tensura:majesty"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification",
+        "tensura:physical_attack_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:ignis": {
+      "enabled": true,
+      "ep": 500000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_domination",
+        "tensura:flame_manipulation"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification",
+        "tensura:physical_attack_resistance"
+      ]
+    },
+    "cataclysm:the_leviathan": {
+      "enabled": true,
+      "ep": 600000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:multilayer_barrier",
+        "tensura:water_breathing",
+        "tensura:magic_water_transform",
+        "tensura:water_current_control",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:water_attack_nullification",
+        "tensura:physical_attack_resistance",
+        "tensura:cold_resistance"
+      ]
+    },
+    "cataclysm:scylla": {
+      "enabled": true,
+      "ep": 500000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:magic_sense",
+        "tensura:haki",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:wind_attack_nullification",
+        "tensura:water_attack_nullification",
+        "tensura:electricity_nullification"
+      ]
+    },
+    "cataclysm:the_harbinger": {
+      "enabled": true,
+      "ep": 500000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_resistance",
+        "tensura:physical_attack_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "cataclysm:ancient_remnant": {
+      "enabled": true,
+      "ep": 300000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:physical_attack_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:modern_remnant": {
+      "enabled": true,
+      "ep": 20000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:electricity_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:kobolediator": {
+      "enabled": true,
+      "ep": 20000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:electricity_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:wadjet": {
+      "enabled": true,
+      "ep": 20000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:electricity_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:koboleton": {
+      "enabled": true,
+      "ep": 20000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:electricity_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:the_prowler": {
+      "enabled": true,
+      "ep": 200000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_sense",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "cataclysm:maledictus": {
+      "enabled": true,
+      "ep": 250000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:mortal_fear",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_resistance",
+        "tensura:abnormal_condition_resistance"
+      ]
+    },
+    "cataclysm:clawdian": {
+      "enabled": true,
+      "ep": 30000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:water_blade",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:water_attack_nullification"
+      ]
+    },
+    "cataclysm:aptrgangr": {
+      "enabled": true,
+      "ep": 30000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:ice_breath"
+      ],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "cataclysm:ignited_revenant": {
+      "enabled": true,
+      "ep": 10000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "cataclysm:amethyst_crab": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura"
+      ],
+      "resistances": [
+        "tensura:physical_attack_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "cataclysm:cinder_adder": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:flame_manipulation"
+      ],
+      "resistances": [
+        "tensura:flame_attack_resistance",
+        "tensura:heat_resistance"
+      ]
+    },
+    "twilightforest:naga": {
+      "enabled": true,
+      "ep": 80000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:lich": {
+      "enabled": true,
+      "ep": 150000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:magic_sense",
+        "tensura:multilayer_barrier",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:cold_resistance",
+        "tensura:darkness_attack_resistance",
+        "tensura:magic_resistance"
+      ]
+    },
+    "twilightforest:minoshroom": {
+      "enabled": true,
+      "ep": 120000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:pain_resistance"
+      ]
+    },
+    "twilightforest:hydra": {
+      "enabled": true,
+      "ep": 200000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_breath",
+        "tensura:flame_domination",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification"
+      ]
+    },
+    "twilightforest:knight_phantom": {
+      "enabled": true,
+      "ep": 90000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_resistance"
+      ]
+    },
+    "twilightforest:ur_ghast": {
+      "enabled": true,
+      "ep": 250000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_manipulation",
+        "tensura:multilayer_barrier"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_resistance"
+      ]
+    },
+    "twilightforest:alpha_yeti": {
+      "enabled": true,
+      "ep": 100000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:ice_breath"
+      ],
+      "resistances": [
+        "tensura:cold_nullification"
+      ]
+    },
+    "twilightforest:snow_queen": {
+      "enabled": true,
+      "ep": 300000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:ice_breath",
+        "tensura:magic_water_transform",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:cold_nullification",
+        "tensura:water_attack_resistance",
+        "tensura:magic_resistance"
+      ]
+    },
+    "twilightforest:armored_giant": {
+      "enabled": true,
+      "ep": 50000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:pain_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:giant_miner": {
+      "enabled": true,
+      "ep": 40000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:goblin_knight_upper": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:goblin_knight_lower": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:adherent": {
+      "enabled": true,
+      "ep": 15000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_sense"
+      ],
+      "resistances": [
+        "tensura:magic_resistance",
+        "tensura:darkness_attack_resistance"
+      ]
+    },
+    "twilightforest:troll": {
+      "enabled": true,
+      "ep": 12000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pain_resistance"
+      ]
+    },
+    "twilightforest:yeti": {
+      "enabled": true,
+      "ep": 10000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "twilightforest:winter_wolf": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:ice_breath"
+      ],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "twilightforest:death_tome": {
+      "enabled": true,
+      "ep": 12000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_sense"
+      ],
+      "resistances": [
+        "tensura:magic_resistance"
+      ]
+    },
+    "twilightforest:wraith": {
+      "enabled": true,
+      "ep": 10000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:darkness_attack_resistance",
+        "tensura:physical_attack_resistance"
+      ]
+    },
+    "twilightforest:king_spider": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance",
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:tower_ghast": {
+      "enabled": true,
+      "ep": 10000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:flame_manipulation"
+      ],
+      "resistances": [
+        "tensura:flame_attack_resistance",
+        "tensura:heat_resistance"
+      ]
+    },
+    "twilightforest:carminite_golem": {
+      "enabled": true,
+      "ep": 15000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:stable_ice_core": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "twilightforest:unstable_ice_core": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "twilightforest:pinch_beetle": {
+      "enabled": true,
+      "ep": 4000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:kobold": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:redcap": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:redcap_sapper": {
+      "enabled": true,
+      "ep": 3500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:skeleton_druid": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:magic_resistance"
+      ]
+    },
+    "twilightforest:swarm_spider": {
+      "enabled": true,
+      "ep": 1500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:hedge_spider": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "twilightforest:mist_wolf": {
+      "enabled": true,
+      "ep": 2500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:hostile_wolf": {
+      "enabled": true,
+      "ep": 2500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:blockchain_goblin": {
+      "enabled": true,
+      "ep": 2500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:helmet_crab": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "twilightforest:slime_beetle": {
+      "enabled": true,
+      "ep": 1500.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:self_regeneration"
+      ],
+      "resistances": []
+    },
+    "twilightforest:fire_beetle": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:flame_manipulation"
+      ],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "twilightforest:carminite_broling": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "twilightforest:carminite_ghastling": {
+      "enabled": true,
+      "ep": 2500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "twilightforest:maze_slime": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:self_regeneration"
+      ],
+      "resistances": []
+    },
+    "twilightforest:rising_zombie": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "twilightforest:skeleton_wolf": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "mowziesmobs:ferrous_wroughtnaut": {
+      "enabled": true,
+      "ep": 100000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:haki",
+        "tensura:multilayer_barrier"
+      ],
+      "resistances": [
+        "tensura:pierce_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "mowziesmobs:frostmaw": {
+      "enabled": true,
+      "ep": 150000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:ice_breath",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:cold_nullification",
+        "tensura:physical_attack_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthi": {
+      "enabled": true,
+      "ep": 120000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_manipulation",
+        "tensura:flame_breath",
+        "tensura:majesty"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification",
+        "tensura:holy_attack_resistance"
+      ]
+    },
+    "mowziesmobs:naga": {
+      "enabled": true,
+      "ep": 80000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:wind_attack_resistance",
+        "tensura:physical_attack_resistance"
+      ]
+    },
+    "mowziesmobs:sculptor": {
+      "enabled": true,
+      "ep": 200000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:earth_domination",
+        "tensura:multilayer_barrier",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:earth_attack_nullification",
+        "tensura:physical_attack_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthana_raptor": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:flame_attack_resistance",
+        "tensura:heat_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthana_follower": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthana_crane": {
+      "enabled": true,
+      "ep": 5000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthana": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "mowziesmobs:umvuthana_minion": {
+      "enabled": true,
+      "ep": 1500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:flame_attack_resistance"
+      ]
+    },
+    "mowziesmobs:foliaath": {
+      "enabled": true,
+      "ep": 5000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "mowziesmobs:baby_foliaath": {
+      "enabled": true,
+      "ep": 1000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "mowziesmobs:cave_centipede": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "mowziesmobs:bluff": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "block_factorys_bosses:underworld_knight": {
+      "enabled": true,
+      "ep": 180000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki",
+        "tensura:majesty",
+        "tensura:multilayer_barrier"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_nullification",
+        "tensura:pain_resistance"
+      ]
+    },
+    "block_factorys_bosses:yeti": {
+      "enabled": true,
+      "ep": 120000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:ice_breath",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:cold_nullification",
+        "tensura:pain_resistance"
+      ]
+    },
+    "block_factorys_bosses:infernal_dragon": {
+      "enabled": true,
+      "ep": 250000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_breath",
+        "tensura:flame_domination",
+        "tensura:flame_manipulation",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification"
+      ]
+    },
+    "block_factorys_bosses:sandworm": {
+      "enabled": true,
+      "ep": 150000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:earth_domination",
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:earth_attack_nullification",
+        "tensura:poison_resistance"
+      ]
+    },
+    "block_factorys_bosses:soul_knight_wither_skeleton": {
+      "enabled": true,
+      "ep": 8000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:darkness_attack_resistance"
+      ]
+    },
+    "block_factorys_bosses:soul_skeleton": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:darkness_attack_resistance"
+      ]
+    },
+    "block_factorys_bosses:frozen_skeleton": {
+      "enabled": true,
+      "ep": 5000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:cold_resistance"
+      ]
+    },
+    "block_factorys_bosses:big_cage_skelly": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "block_factorys_bosses:cage_skelly": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "block_factorys_bosses:pile_of_bones": {
+      "enabled": true,
+      "ep": 1500.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "aether:slider": {
+      "enabled": true,
+      "ep": 80000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:earth_domination"
+      ],
+      "resistances": [
+        "tensura:pierce_resistance",
+        "tensura:pain_resistance"
+      ]
+    },
+    "aether:valkyrie_queen": {
+      "enabled": true,
+      "ep": 200000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:haki",
+        "tensura:self_regeneration"
+      ],
+      "resistances": [
+        "tensura:holy_attack_resistance",
+        "tensura:electricity_resistance",
+        "tensura:wind_attack_resistance"
+      ]
+    },
+    "aether:sun_spirit": {
+      "enabled": true,
+      "ep": 300000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:magic_aura",
+        "tensura:flame_domination",
+        "tensura:flame_manipulation",
+        "tensura:multilayer_barrier"
+      ],
+      "resistances": [
+        "tensura:flame_attack_nullification",
+        "tensura:heat_nullification",
+        "tensura:holy_attack_resistance"
+      ]
+    },
+    "aether:valkyrie": {
+      "enabled": true,
+      "ep": 20000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:haki"
+      ],
+      "resistances": [
+        "tensura:holy_attack_resistance",
+        "tensura:wind_attack_resistance"
+      ]
+    },
+    "aether:fire_minion": {
+      "enabled": true,
+      "ep": 10000.0,
+      "reapplyOnRespawn": false,
+      "skills": [
+        "tensura:flame_manipulation"
+      ],
+      "resistances": [
+        "tensura:flame_attack_resistance",
+        "tensura:heat_resistance"
+      ]
+    },
+    "aether:mimic": {
+      "enabled": true,
+      "ep": 6000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "aether:sentry": {
+      "enabled": true,
+      "ep": 4000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:pierce_resistance"
+      ]
+    },
+    "aether:cockatrice": {
+      "enabled": true,
+      "ep": 5000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "aether:zephyr": {
+      "enabled": true,
+      "ep": 4000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:wind_attack_resistance",
+        "tensura:cold_resistance"
+      ]
+    },
+    "aether:whirlwind": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:wind_attack_resistance"
+      ]
+    },
+    "aether:aechor_plant": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "aether:swet": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    },
+    "aether:blue_swet": {
+      "enabled": true,
+      "ep": 2000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:water_attack_resistance"
+      ]
+    },
+    "aether:golden_swet": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:holy_attack_resistance"
+      ]
+    },
+    "aether:purple_swet": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": [
+        "tensura:poison_resistance"
+      ]
+    },
+    "aether:homunculus": {
+      "enabled": true,
+      "ep": 3000.0,
+      "reapplyOnRespawn": false,
+      "skills": [],
+      "resistances": []
+    }
+  }
+}

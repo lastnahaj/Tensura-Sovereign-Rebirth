@@ -1,0 +1,91 @@
+import java.security.MessageDigest
+
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.144'
+}
+
+version = mod_version
+group = mod_group_id
+
+base {
+    archivesName = 'tsr-unique-monsters-compat'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+def defaultRuntimeModsDir = rootProject.projectDir.toPath()
+        .resolve('../../.build/server-phase2-a/mods')
+        .normalize()
+        .toFile()
+def runtimeModsDir = providers.gradleProperty('runtimeModsDir')
+        .orElse(providers.environmentVariable('TSR_RUNTIME_MODS_DIR'))
+        .map { file(it) }
+        .getOrElse(defaultRuntimeModsDir)
+
+def runtimeInputs = [
+        'tensurauniquemonsters-neoforge-1.0.2.jar': 'db73f98391ae96d9a267d2ee63c128e497b887ac00c74da9618cd6e0a271eea3',
+        'manascore-neoforge-4.0.0.2.jar'             : '29c4bbdb2ff97518a655d189cb94fdca1f8807380e93c27d260bd75a188a508d',
+        'tensura-neoforge-2.0.1.2.jar'               : '9291f48d94073903cea9155dc99e042af5477e2c144e3fae1938299b2029da3e',
+        'architectury-13.0.11-neoforge.jar'           : '9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb'
+]
+
+dependencies {
+    compileOnly files(
+            new File(runtimeModsDir, 'architectury-13.0.11-neoforge.jar'),
+            new File(runtimeModsDir, 'tensurauniquemonsters-neoforge-1.0.2.jar')
+    )
+}
+
+tasks.register('verifyRuntimeInputs') {
+    inputs.files(runtimeInputs.keySet().collect { new File(runtimeModsDir, it) })
+
+    doLast {
+        runtimeInputs.each { filename, expectedHash ->
+            def artifact = new File(runtimeModsDir, filename)
+            if (!artifact.isFile()) {
+                throw new GradleException("Required runtime artifact is missing: ${filename}")
+            }
+
+            def digest = MessageDigest.getInstance('SHA-256')
+            artifact.withInputStream { input ->
+                byte[] buffer = new byte[8192]
+                int read
+                while ((read = input.read(buffer)) != -1) {
+                    digest.update(buffer, 0, read)
+                }
+            }
+            def actualHash = digest.digest().encodeHex().toString()
+            if (actualHash != expectedHash) {
+                throw new GradleException("Runtime artifact hash mismatch for ${filename}: ${actualHash}")
+            }
+        }
+    }
+}
+
+tasks.named('compileJava').configure {
+    dependsOn tasks.named('verifyRuntimeInputs')
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+tasks.named('jar').configure {
+    manifest {
+        attributes([
+                'Implementation-Title'  : mod_name,
+                'Implementation-Version': mod_version
+        ])
+    }
+}

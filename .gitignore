@@ -1,6 +1,8 @@
 .venv/
 site/
 .build/
+**/.gradle/
+**/build/
 __pycache__/
 *.pyc
 .env
@@ -12,3 +14,5 @@ __pycache__/
 .vscode/
 *.log
 *.jar
+!compat/**/gradle/wrapper/gradle-wrapper.jar
+!pack/mods/tsr-unique-monsters-compat-*.jar

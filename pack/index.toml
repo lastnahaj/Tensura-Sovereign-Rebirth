@@ -1,6 +1,442 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mysticism/ability/magic/spiritual_config.toml"
+hash = "c5b500c238d25112a02b7dd22aa6d085aa1e6796a261c1d0acfd99237a28dfe2"
+
+[[files]]
+file = "config/mysticism/ability/skill/extra_config.toml"
+hash = "b6be91f13f6ed75499d5134f5f82a4af1717e3a78d3128105c62d0a4a587a613"
+
+[[files]]
+file = "config/mysticism/ability/skill/intrinsic_config.toml"
+hash = "881e6954ceab069baba7e2ca627b2f3a08acf251fdb2d6eb078f36cf2308c0ae"
+
+[[files]]
+file = "config/mysticism/ability/skill/unique_config.toml"
+hash = "a84c71feda3b4e983cdaa2d698e6ffd556f0246f0df9f66e06c4a692e35753f6"
+
+[[files]]
+file = "config/mysticism/effect/effects.toml"
+hash = "6ce8279a1d60870a17ebc3d7e53b66f9d8e1b4f609a4634de25d10e2b92bb9a0"
+
+[[files]]
+file = "config/mysticism/entity/spawn_rate_config.toml"
+hash = "8bc583d89972fc261ab0201112180847ac29bcee62b523c36c2782bec8c63811"
+
+[[files]]
+file = "config/mysticism/general.toml"
+hash = "94c25526813669acfb6a6171fb301105e64e6e239f7184f813d4fc16bb7006be"
+
+[[files]]
+file = "config/mysticism/race/angel_config.toml"
+hash = "3ffa79f69ea66a018a77bdee9c7fe8adc5b01040bde8a9c944d9b55d0bb6b2c8"
+
+[[files]]
+file = "config/mysticism/race/daemon_doll_config.toml"
+hash = "b53110ca68a677e723d89017c7520366821d11728c1ff4b72cbec498e0b82cc9"
+
+[[files]]
+file = "config/mysticism/race/direwolf/direwolf_config.toml"
+hash = "14a8f4be6cea70a2d9833cdb808465c85ee5fa32c8398e5731027aa2cefa1ee4"
+
+[[files]]
+file = "config/mysticism/race/direwolf/special_direwolf_config.toml"
+hash = "645e8c853b5721eabb302bb827ed5606d5691b48eec9854363ede9a873e65587"
+
+[[files]]
+file = "config/mysticism/race/dragonoid_config.toml"
+hash = "5b49fc666f3bec3022bdca3ce31ff0c053f791fcfa740ef4407d0e6da5367016"
+
+[[files]]
+file = "config/mysticism/race/elemental_config.toml"
+hash = "71b040c92217035a27e3730caf7ca4c4d242d0369a1a319ec5cc42355382e2c5"
+
+[[files]]
+file = "config/mysticism/race/forgotten_config.toml"
+hash = "ce900eb69d2baae615bbf1aef9b48fc8789b2b644c2eed12fe88fcfdc286071b"
+
+[[files]]
+file = "config/mysticism/race/insect/ant_config.toml"
+hash = "4d2c899b046b633265269b3d82fd168d35a2a4ec99fcac317032b70e5e26e064"
+
+[[files]]
+file = "config/mysticism/race/insect/beetle_config.toml"
+hash = "738616e7e421c6a4c064b2ab247083d4ab6718ea30e55f6010a490188d981b1b"
+
+[[files]]
+file = "config/mysticism/race/insect/centipede_config.toml"
+hash = "1e9398614e81b6975fd944e793c4d81b2cbe2b9754af3aadd6caca8d8b070d6b"
+
+[[files]]
+file = "config/mysticism/race/insect/mantis_config.toml"
+hash = "5d066ca49c0f66c8b442c5243eaafd8b6b0a6903ac44676f9071eb0d22d91ca1"
+
+[[files]]
+file = "config/mysticism/race/insect/scorpion_config.toml"
+hash = "d12cedcbca1266d47ced0033204bc4e71764555229200174c2d2cef66d7f522a"
+
+[[files]]
+file = "config/mysticism/race/insect/wasp_config.toml"
+hash = "c407f6d50bd4a32071dba56f376f1b2331c5e15efac9674d6cce5b7ae38aabb1"
+
+[[files]]
+file = "config/mysticism/race/phantom_config.toml"
+hash = "ca265ab6e49009879bc997fe0b676463dd7fe06153611cdb0bd2d94c6d8affd2"
+
+[[files]]
+file = "config/mysticism/race/restricted_human_config.toml"
+hash = "076b4e21ae236f575bea4075edf7f57b6dff07d44d867fd48cafae5db527eec1"
+
+[[files]]
+file = "config/mysticism/race/sculk_config.toml"
+hash = "1efa8f8809973a67b680ec4f4806f542c9d92c294354edb918f3a986ea228d03"
+
+[[files]]
+file = "config/mysticism/race/wyrm_config.toml"
+hash = "b2856fbbe0ea86714f942068e6e1d34a17d242a36bc6eee4ff23b9c5dab64c39"
+
+[[files]]
+file = "config/stextras/ability/skill/extra_config.toml"
+hash = "5dda8002b7f5c1623cd514ee89d3166442ce471a1e2f869427f6a836e7ba813f"
+
+[[files]]
+file = "config/stextras/ability/skill/intrinsic_config.toml"
+hash = "a0e3c4411bcb9fe098a0085306fa2c694bda1486269b1bc7b223db8175999019"
+
+[[files]]
+file = "config/stextras/ability/skill/unique_config.toml"
+hash = "6a145e137d6a19757654383af7a0fe2d09e8d8af2647a7383bb8c67c1a7c86c4"
+
+[[files]]
+file = "config/stextras/general_config.toml"
+hash = "dcaed90bb03e26889b9827fa07e47f06a228cda6395fb661c4811f88003defaf"
+
+[[files]]
+file = "config/stextras/prestige_config.toml"
+hash = "6828d5c63d8f5e2009942a0f52a19641e01b1b1a07b9e9d5e2dd251cfd4ec4e8"
+
+[[files]]
+file = "config/stextras/race/kobold_config.toml"
+hash = "09ee587352f497f08dac01088c48e3e79ac68d4ceed553f8c38f8eb689f41980"
+
+[[files]]
+file = "config/stextras/race/mystic_fox_config.toml"
+hash = "b5b37f2b3164608d9b06b35bacd7ae7380d807234b101f8e232778156e1570de"
+
+[[files]]
+file = "config/stextras/race/wispfolk_config.toml"
+hash = "9ca394416a9a3fe0cb09c4160ce94bc1c09f60c65b71fbf318485ea85c9a37c6"
+
+[[files]]
+file = "config/stextras/skill_lock_config.toml"
+hash = "9f21b9bfabb8627d103c56b8a7227a61c87ed6b980cb50e6d1269ad3095288d0"
+
+[[files]]
+file = "config/tensura/ability/ability_config.toml"
+hash = "6f891b12f1f25ad96cea1a95c9f9f277d95b19c2463d96b8eb20595a055124a2"
+
+[[files]]
+file = "config/tensura/ability/battlewill_config.toml"
+hash = "896d666c4fb6a4aa4c0417bc36bd2ce9838e785eec9d639927f6555bdb83d10a"
+
+[[files]]
+file = "config/tensura/ability/magic/aspectual_config.toml"
+hash = "f3630d12ebf3b18cee49fb012efe98c2e0729259d830e9f6fe9f9708c76bcedb"
+
+[[files]]
+file = "config/tensura/ability/magic/spiritual_config.toml"
+hash = "48cf3a50491a278c80e09500ecf21207ac2b4ea724d32325a675701cbc7ff09e"
+
+[[files]]
+file = "config/tensura/ability/magic/summoning_config.toml"
+hash = "4ca9d4fcdc6da3a896281c36c0b9d9ccc45df5d42ca0572e11ab3f6b36699e65"
+
+[[files]]
+file = "config/tensura/ability/magic_config.toml"
+hash = "1c20259f2c70e0e335c2d8baded7a4e584c9b326c7fc8aecb3f56fcca8d58ea4"
+
+[[files]]
+file = "config/tensura/ability/skill/common_config.toml"
+hash = "97fc005d594b3347975f0928e42419814b5b5aaa4c723a647895f65cc152f8f3"
+
+[[files]]
+file = "config/tensura/ability/skill/extra_config.toml"
+hash = "851c19b504e39b5555d1f4e41391035e38cc1bc01bea498c4bfb7441fa7cb12c"
+
+[[files]]
+file = "config/tensura/ability/skill/intrinsic_config.toml"
+hash = "73abb380dbdcdfb3c46045c47a876631b363ed38d2bcdc983401fe2336faccc0"
+
+[[files]]
+file = "config/tensura/ability/skill/resistance_config.toml"
+hash = "e1928a69aa2917a90b181079c3511b887df33b0bf92865e39bdb9b457309b8ac"
+
+[[files]]
+file = "config/tensura/ability/skill/unique_config.toml"
+hash = "4ce6d639356789e8c0bf0756fb0d363e245641920b7a4f55cd426dd3eab79545"
+
+[[files]]
+file = "config/tensura/ability/skill_config.toml"
+hash = "617f81b2e6c9bdb4b5c5fee0da91f4020c98f90a074a63caf32d6cbcef1fac57"
+
+[[files]]
+file = "config/tensura/area_magicule_config.toml"
+hash = "466cf6c23f14c258e7db042866c16c8c92041738bc828c0fe3dd4ca0eef2e0d7"
+
+[[files]]
+file = "config/tensura/ascension-common.toml"
+hash = "e0f4ed6eb8f81000ad42d42dded2e681fadc49384109fbdea6e2beddaba20023"
+
+[[files]]
+file = "config/tensura/ascension-mobs.json"
+hash = "304856a99b26ca39af51ea6c1a5183e8c6d0b080db4d226f352b86cf263fcf53"
+
+[[files]]
+file = "config/tensura/ascension-races.toml"
+hash = "535fc4a131179e926fe83c0c3f17f064166d0d4a05709f66d17077e45f9cb8a8"
+
+[[files]]
+file = "config/tensura/ascension-skills.toml"
+hash = "726abdc654d8fb66d1f0f6a8ddfae54aadd1afc1f2ed17a738fae887db72b1db"
+
+[[files]]
+file = "config/tensura/block_config.toml"
+hash = "12ee47d24b6ed3187c6a2283785466ce4fe7c69185c968f9fdcbc3b216621f67"
+
+[[files]]
+file = "config/tensura/client/hud_config.toml"
+hash = "baddd2a94096e47b275c0d5aec69605319169ad7570c17f4d38d2cef63a04d7d"
+
+[[files]]
+file = "config/tensura/client/menu_config.toml"
+hash = "957d96101f0af2fccf2f6be8b9610905c345ed7f5b9a9f69cf2b231bfed19e90"
+
+[[files]]
+file = "config/tensura/client/misc_config.toml"
+hash = "d1c195ee001afd8a80c669f9d35788494980d3a1f67ca10ea89df2bd3d0dfe29"
+
+[[files]]
+file = "config/tensura/enchantment_config.toml"
+hash = "c4899fe75fc285948e622846192bdc1673fd13d8ffe20cba4405de4437d4e0f0"
+
+[[files]]
+file = "config/tensura/energy_config.toml"
+hash = "245094f7348062df7913155eac5e0534bb17a55b97b575e64ee51daf1e0fc70a"
+
+[[files]]
+file = "config/tensura/entity/attribute_config.toml"
+hash = "b861886040dd953ac0a93c1456b75f1c30f9264a6e6aae7e210f30bf5f83d31b"
+
+[[files]]
+file = "config/tensura/entity/daemon_config.toml"
+hash = "c376a95cc432e70f2ed385809926963e4c80e889c0ff0144f3e3a903f9692105"
+
+[[files]]
+file = "config/tensura/entity/effect_config.toml"
+hash = "a0d12d1ef097ef6be82854ff9fd9884ba46b09a2b8a788e97971c5bda013d0d4"
+
+[[files]]
+file = "config/tensura/entity/entity_config.toml"
+hash = "3b60e96a92a1dadf85b8ad06dd760e36b31f7b7c05279518914646439af0a61d"
+
+[[files]]
+file = "config/tensura/entity/player_config.toml"
+hash = "5e60a88ed63045a87846a427122beec03a3b8be0b80a73b786a4f903bb55761c"
+
+[[files]]
+file = "config/tensura/entity/projectile_config.toml"
+hash = "d9f8e841fc4f75ce4e9dbd8dae57bca6a07b405861eacc61a0f71a0bb1c97dea"
+
+[[files]]
+file = "config/tensura/entity/spawn_rate_config.toml"
+hash = "8e831d058142b5ca31083a21e34c491ec2bb089e8b39143ae811ae713bcb2845"
+
+[[files]]
+file = "config/tensura/race/beastfolk_config.toml"
+hash = "455bcfc4f71479c27997aa124e841b3304d5ed6193a12fe065b1e34c32f1d05a"
+
+[[files]]
+file = "config/tensura/race/daemon_config.toml"
+hash = "6f3aa3f44d3559be7d9e62b34358114ac544c2a2709f1eb584ae6acf558353e9"
+
+[[files]]
+file = "config/tensura/race/dwarf_config.toml"
+hash = "8b1b602d8d6609e5d4ad567a1f435fd0de6ed6b8aeb969745263e758ff9143ba"
+
+[[files]]
+file = "config/tensura/race/elf_config.toml"
+hash = "a645a908cdd2988530f2769bf51033b02e11d689f94e5ad0abe82c679ba6a10a"
+
+[[files]]
+file = "config/tensura/race/giant_config.toml"
+hash = "f41916e3153a6d8cad3c69d35d8a9b4dc0bea925f53a00dc1a2149fbfb03d28a"
+
+[[files]]
+file = "config/tensura/race/goblin_config.toml"
+hash = "85f065afe0243cc023356b24766bf226e7e28ee9abb3424451ceca2302eb6b00"
+
+[[files]]
+file = "config/tensura/race/harpy_config.toml"
+hash = "7f7c2f3ca4b3fdd7d8a86b7d89af961d91c6e343f488a0fa4bf7b0b9f97d9a80"
+
+[[files]]
+file = "config/tensura/race/human_config.toml"
+hash = "8ca803b8573173eedb8ac1b850691ede25a899caf0aaded87df50afb64c07885"
+
+[[files]]
+file = "config/tensura/race/lizardman_config.toml"
+hash = "50bf280e53ac1c5d177c6ce6e3c32ea4e2330e91a3c6ce0d060cff0a60172535"
+
+[[files]]
+file = "config/tensura/race/merfolk_config.toml"
+hash = "24705eb02f87629dc0ef9fa201bf668b6c7783a330e437de17972fb17181c1cc"
+
+[[files]]
+file = "config/tensura/race/ogre_config.toml"
+hash = "1b5ee4c7fa8f7e59fc42ee057826430df9c5033cd74f35d33ab0fddee523b14e"
+
+[[files]]
+file = "config/tensura/race/orc_config.toml"
+hash = "ae5a19a6d5f6f14f7338b95942acc890ac81ddc7fc1a9dffae335d98be27670a"
+
+[[files]]
+file = "config/tensura/race/race_config.toml"
+hash = "8eb34bcb0f98509dc1df981fe1ac0e34e2789b74681cec42197c301aec69c099"
+
+[[files]]
+file = "config/tensura/race/slime_config.toml"
+hash = "f53ad77851cb4415982b417571fd8e8644224150250120a956a230af994f3332"
+
+[[files]]
+file = "config/tensura/race/vampire_config.toml"
+hash = "dcc590c8a2754282c75c16bb9f6c649e0f8190874dd0db03f2d188a62c358499"
+
+[[files]]
+file = "config/tensura/race/wight_config.toml"
+hash = "e64aafd2ac50e1cfa0d710762b3875fe8fe169612ffcf6b343803f36e2e901ab"
+
+[[files]]
+file = "config/tensura/reincarnation_config.toml"
+hash = "fd1abf010b478f764303504f291eb94843e8fd7d1a0179de1155b6505f70f299"
+
+[[files]]
+file = "config/tensura_better_subs.toml"
+hash = "68152b2e186f23d25ca58144b05f7d5600ade89ba8cd119bc576bb05784d60a6"
+
+[[files]]
+file = "config/tensura_epfix-common.toml"
+hash = "ab8c8e8c497cd3e5a4694aaa8b6ca9bb5f1e7658e2c9082919c1e397a7a6c754"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "config/tr_UniqueMonsters/ability/skill/extra_config.toml"
+hash = "c99c72ca415011658d04f7e1c7176a0c0823f62f435fb92896a1fb4d48474448"
+
+[[files]]
+file = "config/tr_UniqueMonsters/base_config.toml"
+hash = "807280ac7798479891f19008bca1c617c55caa4e0020ac636576d89b61c3d764"
+
+[[files]]
+file = "config/trorigins/ability/skill/dragon_factors_config.toml"
+hash = "4491b2d22ea6fc0d07795ec51688f3ae66f7f99f02b2dbaba3e95915ffd4086e"
+
+[[files]]
+file = "config/trorigins/ability/skill/dragon_spirit_haki_config.toml"
+hash = "0468a115502a48e6065855ee07cbf1536bda5fd31574fde9d74307d3ac92b968"
+
+[[files]]
+file = "config/trorigins/general.toml"
+hash = "02cda4d94af9e61d201f7f125bd4a2aabc2b4ad9ced33bc4e8335dc91068a58f"
+
+[[files]]
+file = "config/trorigins/race/angel_dragon_config.toml"
+hash = "1101a79179b5767f981c0af23b1688aef911ad75fdc9d38ac0744e67baa72c9b"
+
+[[files]]
+file = "config/trorigins/race/blood_dragon_config.toml"
+hash = "3b8094b00e38dada2be2b34a5752dea8a56eea33ae7a73056e57033f0bc72dcd"
+
+[[files]]
+file = "config/trorigins/race/death_dragon_config.toml"
+hash = "f6b7df235d36be7f4fbb600773675a7e820add7a6ab466e90892cb6384ff5c33"
+
+[[files]]
+file = "config/trorigins/race/demon_dragon_config.toml"
+hash = "343b4361806e98d40ff3f8d1a7b2ee3ad4ed17b98aafd9c9ca876bb93b989cdd"
+
+[[files]]
+file = "config/trorigins/race/dragon_beast_config.toml"
+hash = "46e22e611cabffca776a9e3519f9a928df97c1a9f8c62887a9fff1e109138e3b"
+
+[[files]]
+file = "config/trorigins/race/dragon_bird_config.toml"
+hash = "4cc5a49431c37b0c31141a6225b4678d8e88fc207343364ae67ce7910960f92f"
+
+[[files]]
+file = "config/trorigins/race/dragon_boar_config.toml"
+hash = "e91a8c2644edc9d5adfff4a0c19835e6369850c08fc5652aee41b74e3d1a40a4"
+
+[[files]]
+file = "config/trorigins/race/dragon_fish_config.toml"
+hash = "d3beeefbf47c30b32afdec78876b078d999a6c4de86ba8474dbe48da386c8aec"
+
+[[files]]
+file = "config/trorigins/race/dragon_giant_config.toml"
+hash = "a1beb2de7fbf42060d9cb0463c9320e0b7c96bbd9cd511fd641619d1047ac94e"
+
+[[files]]
+file = "config/trorigins/race/dragon_oni_config.toml"
+hash = "c5428d87c767218e6b2a0830b76fd00b80f4c1fd53570709bdbec6551da60153"
+
+[[files]]
+file = "config/trorigins/race/dragon_wolf_config.toml"
+hash = "d52bad7422b38ca590e3c14d8793263b38d42568c177df266181632276ed010c"
+
+[[files]]
+file = "config/trorigins/race/dragonoid_config.toml"
+hash = "29a9c1903507ec98408cddcaeedd8b8dc705c32ae9e10e247b66f22e775d54b9"
+
+[[files]]
+file = "config/trorigins/race/elemental_dragon_config.toml"
+hash = "f2ef43f56643bf85162fea793bdc5e79696cd1b253853f4e2398c18334d0866d"
+
+[[files]]
+file = "config/trorigins/race/fallen_dragon_config.toml"
+hash = "cc008f6944fcca4ee965693818b8ac7d37da03220ac3dd4eeadbf2ffc5b4d382"
+
+[[files]]
+file = "config/trorigins/race/insect_dragon_config.toml"
+hash = "8b361b56bbbb646a19ea9ba18a0adb0a2c6ac90a46010a0b537d2d60ef1c63ec"
+
+[[files]]
+file = "config/trorigins/race/mystic_dragon_config.toml"
+hash = "7dd2ff01327bc95923fe34c7b1ea123b462f847d49ca1d1120039bb8033256cb"
+
+[[files]]
+file = "config/trorigins/race/origin_angel_config.toml"
+hash = "69da5cff2a2d3f59f037f7135e349cb22485a7d5062c8a20d6e2d456a4ee16f8"
+
+[[files]]
+file = "config/trorigins/race/primordial_daemon.toml"
+hash = "13b64ee0687c38c2fccbf87576be58e19651c5ebe60cc13a230d6199fd458b53"
+
+[[files]]
+file = "config/trorigins/race/pure_dragon_config.toml"
+hash = "280982021e1d5f9156c6a42b94a3a7162c0d9be6e542452e79a112a823827881"
+
+[[files]]
+file = "config/trorigins/race/true_dragon_config.toml"
+hash = "e4d780ca844211a760ed841e70fd35adec7352c54f528a0d585317d53341cc9a"
+
+[[files]]
+file = "config/trorigins/race/ultimate_slime_config.toml"
+hash = "8961731969658a51ac8c2519d43ef69b8b96eb7a784eae342b86356971e62912"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -21,11 +457,50 @@ hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
 
 [[files]]
+file = "mods/tensura-ascensions.pw.toml"
+hash = "4075f94e9b3e6e50e4faf33ad1e156d9bed805147af0434588733c6ecd9f1470"
+metafile = true
+
+[[files]]
+file = "mods/tensura-better-subordinates.pw.toml"
+hash = "520096024e9dc8560ec67b37cd2ef2da58a6e5e298a77adfad1b728f97c78906"
+metafile = true
+
+[[files]]
+file = "mods/tensura-modifications.pw.toml"
+hash = "1065f75d6606c4aa5271638a8bcb0f78cf1add0c55ed6755e1c4eaeadf24089f"
+metafile = true
+
+[[files]]
+file = "mods/tensura-mysticism.pw.toml"
+hash = "268d225dc3eca84f755f7c0ce97369436ea92e6bb01467d3ea82cb86cfcf2543"
+metafile = true
+
+[[files]]
+file = "mods/tensura-origins.pw.toml"
+hash = "4e5ff448d28b4966cd962813ccbdbeb47aa1cb8e81fe63451638f150bcddb67a"
+metafile = true
+
+[[files]]
 file = "mods/tensura-reincarnated.pw.toml"
 hash = "f6b11f1f65003c1c58c4b535097097ec2ad979291ee257c80615dc02d908a301"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+file = "mods/tensura-slimethrone-extras.pw.toml"
+hash = "b718c4a0182a51cfb59b69da039e0a964bbcd76aeaec54fc9959a1566091e23c"
 metafile = true
+
+[[files]]
+file = "mods/tensura-unique-monsters.pw.toml"
+hash = "bb0c7125de360ac72fb90dff8d9a94e870129ef82f96a7d94153d7283a460a54"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "04a7ef88ff4356c7ac704a6fb47fec5d92963915028af33aab899a882e40e9a9"
+metafile = true
+
+[[files]]
+file = "mods/tsr-unique-monsters-compat-1.0.0.jar"
+hash = "e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65"

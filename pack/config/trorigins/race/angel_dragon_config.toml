@@ -1,0 +1,27 @@
+[AngelDragon]
+	#Minimal aura.
+	minAura = 1.0E7
+	#Maximum aura.
+	maxAura = 1.0E7
+	#Minimal magicule.
+	minMagicule = 5010000.0
+	#Maximum magicule.
+	maxMagicule = 5050000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1260.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8300.0
+	#Bonus Attack Damage.
+	attack = 6.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.8
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8
+	#List of possible pre evolutions.
+	preEvolutions = ["mysticism:seraph", "mysticism:fallen_seraph", "trorigins:seraph_of_origin", "trorigins:fallen_seraph_of_origin", "mysticism:divine_tengu"]

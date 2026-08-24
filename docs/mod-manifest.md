@@ -5,7 +5,7 @@
 **Loader:** NeoForge<br>
 **Freeze date:** 2026-08-23
 
-- Baseline frozen entries: **89**
+- Baseline frozen entries: **90**
 - Test candidates: **12**
 - Optional entries: **1**
 - Rejected entries tracked: **20**
@@ -24,7 +24,8 @@
 | Tensura: Origins | 2.0.5 | LOCK-GATED | Not available as an ordinary random starting race; high-tier race paths are late-game gated. |
 | Tensura: Better Subordinates | 1.2.4 | LOCK |  |
 | Tensura Modifications | 1.0.1.1 | LOCK |  |
-| Tensura: Unique Monsters | 1.0.2 | LOCK |  |
+| Tensura: Unique Monsters | 1.0.2 | LOCK | Required with TSR Unique Monsters Compat 1.0.0. Retain the exact official CurseForge artifact unmodified. |
+| TSR Unique Monsters Compat | 1.0.0 | DEPENDENCY | Required while Tensura: Unique Monsters 1.0.2 is active; corrects its ManasCore skill-registry construction ordering without modifying the upstream artifact. |
 | Great Sage | 0.0.5 | LOCK | Configure `needGreatSage=true`. |
 | TenSura Guild | 1.0.1.2 | LOCK |  |
 | Tensura Skill Books | 2.2.1 | LOCK | Primary controlled skill-reward system. |

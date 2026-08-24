@@ -1,0 +1,13 @@
+name = "Tensura: SlimeThrone Extras"
+filename = "SlimeThroneExtras-neoforge-2.1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "506354ffcf888c573440cee273f49aa7d72a340c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8313927
+project-id = 1249067

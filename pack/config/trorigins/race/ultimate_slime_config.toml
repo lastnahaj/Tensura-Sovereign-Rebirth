@@ -1,0 +1,35 @@
+[UltimateSlime]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1200.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8000.0
+	#Bonus Attack Damage.
+	attack = 8.0
+	#Bonus Attack Speed.
+	attackSpeed = 1.2000000476837158
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.07999999821186066
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 1.0
+	#Bonus Jump Strength.
+	jumpStrength = 0.8
+	#Fall Damage Multiplier.
+	fallDamage = -1.0
+	#Get Max Jump Charge tick.
+	maxChargeTick = 90
+	#Hitbox width multiplier.
+	width = 4.5
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:god_slime"]

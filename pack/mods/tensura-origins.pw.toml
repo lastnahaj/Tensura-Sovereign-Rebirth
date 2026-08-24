@@ -1,0 +1,13 @@
+name = "Tensura: Origins"
+filename = "trorigins-neoforge-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5d40deb56df3874426c8008851d682979a60aee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8576396
+project-id = 1230188

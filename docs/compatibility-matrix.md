@@ -8,6 +8,7 @@
 | Tensura | Iron's Spells | Dedicated compatibility; core |
 | Tensura | Ice & Fire | Dedicated compatibility; core |
 | TR Addon 2.0.1 | ManasCore race/skill registries | DEFERRED-BLOCKED; excluded from the active runtime after reproducible dedicated-server construction failures; recheck official releases before release candidate freeze |
+| Unique Monsters 1.0.2 | ManasCore Skill 4.0.0.2 / Architectury 13.0.11 | REQUIRED with TSR Unique Monsters Compat 1.0.0; exact official JAR retained unmodified; 20/20 clean cold starts passed |
 | Tensura | Sophisticated Backpacks | Gear Evolution + Backpack Expansion; core |
 | Gear Evolution | Apotheosis | Not used; Apotheosis excluded |
 | Sophisticated Storage | Tom's | Sophisticated = storage, Tom's = terminal/wireless only |

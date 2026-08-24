@@ -35,3 +35,22 @@ KNOWN ISSUES: Full graphical client menu and single-player world validation rema
 COMMIT: Add Tensura Reincarnated runtime foundation
 NEXT PHASE: Add frozen Tensura ecosystem addons in tested sub-batches
 ```
+
+## Phase 2A — Core Tensura progression addons
+
+```text
+PHASE: 2A — Core Tensura progression addons
+STATUS: PASS
+ADDED: SlimeThrone Extras 2.1.2.1, Ascension 2.1.2, Mysticism 2.1.2, Origins 2.0.5, Better Subordinates 1.2.4, Modifications 1.0.1.1, Unique Monsters 1.0.2, TSR Unique Monsters Compat 1.0.0
+REMOVED: None
+VERSION CHANGES: None
+DEPENDENCIES: TSR Unique Monsters Compat 1.0.0 is required with the exact official Unique Monsters 1.0.2 artifact
+CONFIGURATION: 109 generated mod configs promoted; mutable patcher state excluded; Origins starter-pool refresh disabled and no Origins race appears in ordinary starting/random pools
+CLIENT START: Pack installation and metadata validation pass; authenticated graphical validation remains pending for the complete pack
+SERVER START: PASS — isolated construction, 20/20 clean full-runtime cold starts, warm restart, existing Phase 2 world restart, and fresh packaged-config cold/warm reconstruction
+TESTS: Exact artifact/hash verification; Packwiz/config validation; 109/109 packaged config reconstruction; new-world generation; flushed save; clean shutdown; restart; Unique Monsters Appraisal Eye registry verification on every clean cold start
+WARNINGS: Better Subordinates is excluded from CurseForge's third-party API and requires the verified official file when using Packwiz Installer; CurseForge launcher metadata remains authoritative
+KNOWN ISSUES: Remaining frozen Tensura addons have not yet entered this sub-batch
+COMMIT: Add core Tensura progression addons
+NEXT PHASE: Add the remaining frozen Tensura ecosystem addons in isolated sub-batches
+```

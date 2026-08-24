@@ -1,0 +1,43 @@
+#Skills added to Tensura's reincarnation pools by this addon.
+[Skills]
+	#Unique skills added to the reincarnation pool.
+	#Remove an entry to exclude that skill from random reincarnation rolls.
+	additionalUniqueSkills = ["ascension:eye_of_mind", "ascension:great_mage", "ascension:king_of_curses", "ascension:bubble_majin", "ascension:sealer", "ascension:dragon_slayer", "ascension:imprisoned_jester", "ascension:deus_sanguis", "ascension:trash_gamer"]
+
+#Integrations with other mods.
+[Integrations]
+	#Enable Iron's Spellbooks integration.
+	#When on: Tensura race tier/alignment grants IS spell-power and mana bonuses,
+	#Tensura's magic cost multiplier scales IS spell mana costs,
+	#and Whisper Djinn players are granted the Magic Scribe skill.
+	#When off: these behaviors are disabled at runtime (no restart required).
+	#Has no effect if Iron's Spellbooks is not installed.
+	enableIronsSpellbooksCompat = true
+
+	#Race-specific tweaks applied on top of the base Tensura race system.
+	[Races.Djinn]
+		#When true, players whose race is Wishbound Djinn or any later djinn tier
+		#(Primordial / Ascended / Sovereign / Infinite / Omniversal) stop losing hunger
+		#and saturation — the food bar is kept topped up each tick, mirroring how
+		#slimes don't need to eat. Disable to restore vanilla hunger behaviour.
+		noHungerAtWishbound = true
+
+		#Hyperbolic Chamber dimension tunables.
+		[Races.Dimensions.HyperbolicChamber]
+			#Multiplier applied to EP gained from kills inside the Hyperbolic Chamber.
+			#3.0 = triple the EP. Set to 1.0 to disable the bonus.
+			#Stacks multiplicatively with Tensura's own gear/alignment EP-gain modifiers —
+			#applied AFTER Tensura's listener computes the base, so 'EP_GAIN' attribute
+			#buffs and gamerule caps still apply normally.
+			# Default: 3.0
+			# Range: 1.0 ~ 100.0
+			epMultiplier = 3.0
+
+		#Ultimate Awakening ritual tunables.
+		[Races.Dimensions.Awakening]
+			#Real-time minutes a player must wait between successful awakening
+			#rituals. Per-player cooldown — building more altars doesn't bypass it.
+			#0 disables the cooldown entirely.
+			# Default: 120
+			# Range: 0 ~ 1440
+			cooldownMinutes = 120

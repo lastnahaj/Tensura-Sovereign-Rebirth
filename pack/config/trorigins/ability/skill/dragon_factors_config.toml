@@ -1,0 +1,23 @@
+[DragonFactor]
+	#Magicule Cost to activate.
+	magiculeCost = 20000.0
+	#Activation Speed Multiplier when activated.
+	speedMultiplier = 0.05
+	#Elemental boost multiplier when toggled.
+	elementalMultiplier = 3.5
+	#Activation Speed Multiplier when activated with mastery.
+	speedMultiplierMastered = 0.1
+	#The attack radius of the haki in blocks.
+	hakiRadius = 15.0
+	#The EP difference multiplier for each Fear Level.
+	epDifferenceMultiplier = 0.25
+	#The duration in tick of the effects when applied.
+	effectDuration = 200
+	#The amount of damage done per second.
+	damage = 50
+	#The amount of damage done per second if the target is a True Dragon.
+	damageTrueDragon = 25
+	#The cooldown in second of the haki.
+	cooldown = 5
+	#The cooldown in second of the haki when mastered.
+	cooldownMastered = 3

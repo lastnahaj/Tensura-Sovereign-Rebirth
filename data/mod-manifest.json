@@ -56,7 +56,14 @@
       {
         "name": "Tensura: Unique Monsters",
         "version": "1.0.2",
-        "status": "LOCK"
+        "status": "LOCK",
+        "notes": "Required with TSR Unique Monsters Compat 1.0.0. Retain the exact official CurseForge artifact unmodified."
+      },
+      {
+        "name": "TSR Unique Monsters Compat",
+        "version": "1.0.0",
+        "status": "DEPENDENCY",
+        "notes": "Required while Tensura: Unique Monsters 1.0.2 is active; corrects its ManasCore skill-registry construction ordering without modifying the upstream artifact."
       },
       {
         "name": "Great Sage",
@@ -680,10 +687,10 @@
     "Only then begin registry-aware FTB Quest implementation against the installed pack."
   ],
   "counts": {
-    "baseline_frozen_entries": 89,
+    "baseline_frozen_entries": 90,
     "test_candidates": 12,
     "optional_entries": 1,
     "rejected_entries_tracked": 20,
-    "total_non_rejected_entries": 102
+    "total_non_rejected_entries": 103
   }
 }

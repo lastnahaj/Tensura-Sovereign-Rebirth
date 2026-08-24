@@ -1,0 +1,1105 @@
+#Per-skill tuning. Each section has an 'enabled' flag plus that skill's
+#balance knobs. Disabling a skill makes it no-op (auto-unlock is blocked
+#and activation hooks short-circuit); it stays in the registry so any NBT
+#on existing saves remains valid.
+[Skills]
+
+	[Skills.sharpened_claws]
+		#Enable Sharpened Claws.
+		enabled = true
+		#Unarmed damage while toggled, unmastered.
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		damage = 10.0
+		#Unarmed damage while toggled, mastered.
+		# Default: 15.0
+		# Range: 0.0 ~ 1000.0
+		damageMastered = 15.0
+
+	[Skills.angel_wings]
+		#Enable Angel Wings.
+		enabled = true
+		#Unmastered effect duration (seconds).
+		# Default: 60
+		# Range: 1 ~ 3600
+		durationSeconds = 60
+		#Unmastered cooldown (seconds).
+		# Default: 70
+		# Range: 0 ~ 3600
+		cooldownSeconds = 70
+
+	[Skills.blood_frenzy]
+		#Enable Blood Frenzy.
+		enabled = true
+		#Flat attack-damage bonus while toggled, unmastered.
+		# Default: 3.0
+		# Range: 0.0 ~ 1000.0
+		attackDamageBonus = 3.0
+		#Flat attack-damage bonus while toggled, mastered.
+		# Default: 5.0
+		# Range: 0.0 ~ 1000.0
+		attackDamageBonusMastered = 5.0
+		#Flat attack-speed bonus while toggled, unmastered.
+		# Default: 0.4
+		# Range: 0.0 ~ 10.0
+		attackSpeedBonus = 0.4
+		#Flat attack-speed bonus while toggled, mastered.
+		# Default: 0.6
+		# Range: 0.0 ~ 10.0
+		attackSpeedBonusMastered = 0.6
+		#Fraction of max aura drained per tick, unmastered.
+		# Default: 0.003
+		# Range: 0.0 ~ 1.0
+		auraDrainFraction = 0.003
+		#Fraction of max aura drained per tick, mastered.
+		# Default: 0.0015
+		# Range: 0.0 ~ 1.0
+		auraDrainFractionMastered = 0.0015
+		#Fraction of max aura restored on kill, unmastered.
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		auraRestoreOnKill = 0.1
+		#Fraction of max aura restored on kill, mastered.
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		auraRestoreOnKillMastered = 0.15
+
+	[Skills.intimidating_roar]
+		#Enable Intimidating Roar.
+		enabled = true
+		#AoE radius in blocks.
+		# Default: 8.0
+		# Range: 0.0 ~ 64.0
+		radius = 8.0
+		#Effect duration, unmastered (seconds).
+		# Default: 6
+		# Range: 1 ~ 600
+		durationSeconds = 6
+		#Effect duration, mastered (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		durationSecondsMastered = 10
+		#Cooldown (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		cooldownSeconds = 20
+
+	[Skills.toxic_skin]
+		#Enable Toxic Skin.
+		enabled = true
+		#Poison duration, unmastered (seconds).
+		# Default: 5
+		# Range: 1 ~ 600
+		poisonDurationSeconds = 5
+		#Poison duration, mastered (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		poisonDurationSecondsMastered = 10
+
+	[Skills.energy_charge]
+		#Enable Energy Charge (and block its EP auto-unlock when false).
+		enabled = true
+		#Fraction of max aura restored per second, unmastered.
+		# Default: 0.05
+		# Range: 0.0 ~ 10.0
+		auraRestorePerSec = 0.05
+		#Fraction of max aura restored per second, mastered.
+		# Default: 0.07
+		# Range: 0.0 ~ 10.0
+		auraRestorePerSecMastered = 0.07
+		#Fraction of max magicule consumed per second.
+		# Default: 0.03
+		# Range: 0.0 ~ 10.0
+		magiculeCostPerSec = 0.03
+		#Slowness amplifier applied while channeling. 0 = Slowness I, 1 = Slowness II, ...
+		# Default: 1
+		# Range: 0 ~ 127
+		slownessAmplifier = 1
+		#Maximum seconds the skill can be channeled before it force-releases and goes on cooldown.
+		# Default: 5
+		# Range: 1 ~ 300
+		maxHeldSeconds = 5
+		#Cooldown (seconds) applied on release — both force-release at the cap and early release.
+		# Default: 5
+		# Range: 0 ~ 600
+		cooldownSeconds = 5
+
+	[Skills.maximum_charge]
+		#Enable Maximum Charge (and block its EP auto-unlock when false).
+		enabled = true
+		#Fraction of max aura restored per second, unmastered.
+		# Default: 0.1
+		# Range: 0.0 ~ 10.0
+		auraRestorePerSec = 0.1
+		#Fraction of max aura restored per second, mastered.
+		# Default: 0.15
+		# Range: 0.0 ~ 10.0
+		auraRestorePerSecMastered = 0.15
+		#Fraction of max magicule consumed per second.
+		# Default: 0.06
+		# Range: 0.0 ~ 10.0
+		magiculeCostPerSec = 0.06
+		#Slowness amplifier applied while channeling. 0 = Slowness I, 1 = Slowness II, ...
+		# Default: 3
+		# Range: 0 ~ 127
+		slownessAmplifier = 3
+		#Maximum seconds the skill can be channeled before it force-releases and goes on cooldown.
+		# Default: 5
+		# Range: 1 ~ 300
+		maxHeldSeconds = 5
+		#Cooldown (seconds) applied on release — both force-release at the cap and early release.
+		# Default: 5
+		# Range: 0 ~ 600
+		cooldownSeconds = 5
+
+	[Skills.magicule_attunement]
+		#Enable Magicule Attunement.
+		enabled = true
+		#Regen multiplier bonus while toggled, unmastered.
+		# Default: 0.05
+		# Range: 0.0 ~ 10.0
+		bonus = 0.05
+		#Regen multiplier bonus while toggled, mastered.
+		# Default: 0.1
+		# Range: 0.0 ~ 10.0
+		bonusMastered = 0.1
+
+	[Skills.magicule_resonance]
+		#Enable Magicule Resonance.
+		enabled = true
+		#Regen multiplier bonus while toggled, unmastered.
+		# Default: 0.1
+		# Range: 0.0 ~ 10.0
+		bonus = 0.1
+		#Regen multiplier bonus while toggled, mastered.
+		# Default: 0.2
+		# Range: 0.0 ~ 10.0
+		bonusMastered = 0.2
+
+	[Skills.magicule_dominion]
+		#Enable Magicule Dominion.
+		enabled = true
+		#Regen multiplier bonus while toggled, unmastered.
+		# Default: 0.25
+		# Range: 0.0 ~ 10.0
+		bonus = 0.25
+		#Regen multiplier bonus while toggled, mastered.
+		# Default: 0.5
+		# Range: 0.0 ~ 10.0
+		bonusMastered = 0.5
+
+	[Skills.blood_manipulation]
+		#Enable Blood Manipulation.
+		enabled = true
+		#Outgoing blood-damage multiplier bonus while toggled, unmastered (0.20 = +20%).
+		# Default: 0.2
+		# Range: 0.0 ~ 10.0
+		bonus = 0.2
+		#Outgoing blood-damage multiplier bonus while toggled, mastered.
+		# Default: 0.4
+		# Range: 0.0 ~ 10.0
+		bonusMastered = 0.4
+
+	[Skills.blood_domination]
+		#Enable Blood Domination.
+		enabled = true
+		#Outgoing blood-damage multiplier bonus while toggled, unmastered.
+		# Default: 0.6
+		# Range: 0.0 ~ 10.0
+		bonus = 0.6
+		#Outgoing blood-damage multiplier bonus while toggled, mastered.
+		# Default: 1.0
+		# Range: 0.0 ~ 10.0
+		bonusMastered = 1.0
+
+	[Skills.prickly_hands]
+		#Enable Prickly Hands.
+		enabled = true
+		#Bleeding tier applied on melee hit, unmastered (1 = 0.5 dmg/s).
+		# Default: 1
+		# Range: 1 ~ 10
+		tier = 1
+		#Bleeding tier applied on melee hit, mastered.
+		# Default: 2
+		# Range: 1 ~ 10
+		tierMastered = 2
+		#Bleeding duration, unmastered (seconds).
+		# Default: 5
+		# Range: 1 ~ 600
+		durationSeconds = 5
+		#Bleeding duration, mastered (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		durationSecondsMastered = 10
+
+	[Skills.blood_blade]
+		#Enable Blood Blade.
+		enabled = true
+		#Damage dealt to target on hit.
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		damage = 10.0
+		#HP cost paid by the caster per cast.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		healthCost = 1.0
+		#Projectile flight speed multiplier.
+		# Default: 3.0
+		# Range: 0.1 ~ 20.0
+		speed = 3.0
+
+	[Skills.magicule_nourishment]
+		#Enable Magicule Nourishment.
+		enabled = true
+		#Fraction of max magicule consumed per cast, unmastered.
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		costFraction = 0.15
+		#Fraction of max magicule consumed per cast, mastered.
+		# Default: 0.075
+		# Range: 0.0 ~ 1.0
+		costFractionMastered = 0.075
+		#Cooldown, unmastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		cooldownSeconds = 10
+		#Cooldown, mastered (seconds).
+		# Default: 5
+		# Range: 0 ~ 3600
+		cooldownSecondsMastered = 5
+
+	[Skills.magnetized_vacuum]
+		#Enable Magnetized Vacuum (also skips the Iron Golem skill grant when false).
+		enabled = true
+		#Aura duration, unmastered (seconds).
+		# Default: 5
+		# Range: 1 ~ 600
+		durationSeconds = 5
+		#Aura duration, mastered (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		durationSecondsMastered = 10
+		#Pull radius in blocks, unmastered.
+		# Default: 8.0
+		# Range: 0.0 ~ 64.0
+		radius = 8.0
+		#Pull radius in blocks, mastered.
+		# Default: 12.0
+		# Range: 0.0 ~ 64.0
+		radiusMastered = 12.0
+		#Flat magicule cost per activation, unmastered.
+		# Default: 2000.0
+		# Range: 0.0 ~ 1.0E9
+		cost = 2000.0
+		#Flat magicule cost per activation, mastered.
+		# Default: 1000.0
+		# Range: 0.0 ~ 1.0E9
+		costMastered = 1000.0
+		#Cooldown, unmastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		cooldownSeconds = 20
+		#Cooldown, mastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		cooldownSecondsMastered = 10
+
+	[Skills.great_mage]
+		#Enable Great Mage.
+		enabled = true
+		#Learning/mastery attribute bonus while toggled.
+		# Default: 0.19
+		# Range: 0.0 ~ 100.0
+		passiveBonus = 0.19
+		#Study cooldown, unmastered (seconds).
+		# Default: 120
+		# Range: 0 ~ 3600
+		cooldownSeconds = 120
+		#Study cooldown, mastered (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		cooldownSecondsMastered = 60
+		#Vanilla XP levels consumed per tome crafted via Create Tome mode.
+		# Default: 5
+		# Range: 0 ~ 1000
+		tomeXpCost = 5
+		#Vanilla XP levels consumed per Magic Chant cast.
+		# Default: 10
+		# Range: 0 ~ 1000
+		chantXpCost = 10
+		#Magic Chant cooldown, unmastered (seconds).
+		# Default: 600
+		# Range: 0 ~ 3600
+		chantCooldownSeconds = 600
+		#Magic Chant cooldown, mastered (seconds).
+		# Default: 300
+		# Range: 0 ~ 3600
+		chantCooldownSecondsMastered = 300
+		#Create Tome cooldown (seconds). Short anti-spam gate — the real cost is the XP charged inside the tome GUI.
+		# Default: 1
+		# Range: 0 ~ 3600
+		tomeCooldownSeconds = 1
+
+	[Skills.timeless_mage]
+		#Enable Timeless Mage.
+		enabled = true
+		#Mastery-gain attribute bonus while toggled (+29 = 30x faster total).
+		# Default: 29.0
+		# Range: 0.0 ~ 100.0
+		passiveBonus = 29.0
+		#Zoltraak cooldown (seconds), unmastered.
+		# Default: 20
+		# Range: 0 ~ 3600
+		zoltraakCooldownSeconds = 20
+		#Zoltraak cooldown (seconds), mastered.
+		# Default: 5
+		# Range: 0 ~ 3600
+		zoltraakCooldownSecondsMastered = 5
+		#Fraction of target's max HP dealt per Zoltraak damage tick (every 0.5s).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		zoltraakHpFraction = 0.1
+		#Caster Max EP must exceed target Max EP × this ratio to instakill via Zoltraak.
+		# Default: 1.5
+		# Range: 1.0 ~ 100.0
+		zoltraakInstakillRatio = 1.5
+		#Magic Dominate cooldown (seconds), unmastered.
+		# Default: 20
+		# Range: 0 ~ 3600
+		dominateCooldownSeconds = 20
+		#Magic Dominate cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		dominateCooldownSecondsMastered = 10
+
+	[Skills.eye_of_mind]
+		#Enable Eye of Mind.
+		enabled = true
+		#Learning/mastery attribute bonus while toggled (+9 = 10x faster total).
+		# Default: 9.0
+		# Range: 0.0 ~ 100.0
+		passiveBonus = 9.0
+		#Fraction of max magicule drained per second while Ray of Death is held.
+		# Default: 0.02
+		# Range: 0.0 ~ 1.0
+		rayMagiculePerSec = 0.02
+
+	[Skills.king_of_curses]
+		#Enable King of Curses.
+		enabled = true
+		#Melee damage bonus while toggled (fraction).
+		# Default: 0.15
+		# Range: 0.0 ~ 10.0
+		meleeBonus = 0.15
+		#Fraction of max aura drained per second while toggled.
+		# Default: 0.002
+		# Range: 0.0 ~ 1.0
+		auraDrainPerSec = 0.002
+		#Dismantle magicule cost (fraction of max).
+		# Default: 0.02
+		# Range: 0.0 ~ 1.0
+		costDismantle = 0.02
+		#Cleave magicule cost (fraction of max).
+		# Default: 0.04
+		# Range: 0.0 ~ 1.0
+		costCleave = 0.04
+		#Fuga magicule cost (fraction of max).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		costFuga = 0.1
+		#Malevolent Shrine magicule cost (fraction of max).
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		costShrine = 0.25
+
+	[Skills.sealer]
+		#Enable Sealer.
+		enabled = true
+		#Max spiritual HP bonus while toggled.
+		# Default: 100.0
+		# Range: 0.0 ~ 100000.0
+		passiveSpiritHp = 100.0
+		#Seal raycast range in blocks.
+		# Default: 16.0
+		# Range: 1.0 ~ 128.0
+		sealRange = 16.0
+		#Caster-EP / target-EP ratio required to Seal (1.5 = 1.5x as strong).
+		# Default: 1.5
+		# Range: 1.0 ~ 100.0
+		sealEpThreshold = 1.5
+		#Seal cooldown, unmastered (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		sealCooldownSeconds = 30
+		#Seal cooldown, mastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		sealCooldownSecondsMastered = 20
+		#Fraction of max aura AND max magicule each removed on Suppress (0.10 = 10% from each, total 20% of max EP).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		suppressFraction = 0.1
+		#Suppress cooldown, unmastered (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		suppressCooldownSeconds = 30
+		#Suppress cooldown, mastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		suppressCooldownSecondsMastered = 20
+		#Attack-damage added per Stored Strength activation, unmastered.
+		# Default: 0.2
+		# Range: 0.0 ~ 100.0
+		strengthPerStack = 0.2
+		#Attack-damage added per Stored Strength activation, mastered.
+		# Default: 0.2
+		# Range: 0.0 ~ 100.0
+		strengthPerStackMastered = 0.2
+		#Total attack-damage cap for Stored Strength, unmastered.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000.0
+		strengthCap = 20.0
+		#Total attack-damage cap for Stored Strength, mastered.
+		# Default: 40.0
+		# Range: 0.0 ~ 1000.0
+		strengthCapMastered = 40.0
+		#Stored Strength cooldown, unmastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		strengthCooldownSeconds = 20
+		#Stored Strength cooldown, mastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		strengthCooldownSecondsMastered = 10
+
+	[Skills.one_who_seals]
+		#Enable One Who Seals.
+		enabled = true
+		#Max Spiritual HP gained per kill (passive).
+		# Default: 0.5
+		# Range: 0.0 ~ 1000.0
+		killBonusPerKill = 0.5
+		#Cap on the cumulative kill-bonus Max Spiritual HP.
+		# Default: 20000.0
+		# Range: 0.0 ~ 1000000.0
+		killBonusCap = 20000.0
+		#Targeting raycast range for Suppress (sneak-target) and Enough is Enough (blocks).
+		# Default: 16.0
+		# Range: 1.0 ~ 128.0
+		range = 16.0
+		#Seal cooldown, unmastered (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		sealCooldownSeconds = 30
+		#Seal cooldown, mastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		sealCooldownSecondsMastered = 20
+		#Fraction of Max EP suppressed into a stone, unmastered (0.20 = 20%).
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		suppressFraction = 0.2
+		#Fraction of Max EP suppressed into a stone, mastered (0.30 = 30%).
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		suppressFractionMastered = 0.3
+		#Suppress cooldown, unmastered (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		suppressCooldownSeconds = 60
+		#Suppress cooldown, mastered (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		suppressCooldownSecondsMastered = 60
+		#Enough is Enough cooldown, unmastered (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		enoughCooldownSeconds = 60
+		#Enough is Enough cooldown, mastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		enoughCooldownSecondsMastered = 10
+		#Caster-EP / target-EP ratio required to seal an ordinary skill.
+		# Default: 2.0
+		# Range: 1.0 ~ 100.0
+		enoughEpRatio = 2.0
+		#Caster-EP / target-EP ratio required to seal a UNIQUE-tier skill.
+		# Default: 3.0
+		# Range: 1.0 ~ 100.0
+		enoughEpRatioUnique = 3.0
+
+	[Skills.bubble_majin]
+		#Enable Bubble Majin.
+		enabled = true
+		#Speed multiplier applied to reflected projectiles.
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		reflectSpeedMultiplier = 1.5
+		#Damage multiplier applied to reflected Tensura projectiles.
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		reflectDamageMultiplier = 1.5
+		#Candy Beam targeting range in blocks.
+		# Default: 30.0
+		# Range: 1.0 ~ 256.0
+		candyBeamRange = 30.0
+		#Caster-EP / target-EP ratio required for Candy Beam to transmute (2.0 = 2x as strong).
+		# Default: 2.0
+		# Range: 1.0 ~ 100.0
+		candyEpThreshold = 2.0
+		#Fraction of the target's EP stored in the resulting candy (0.10 = 10%).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		candyEpRetained = 0.1
+		#When true, Candy Beam can target other players (subject to the EP threshold). PvP servers only — leave false for co-op.
+		candyAllowPlayers = false
+		#Candy Beam cooldown, unmastered (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		candyCooldownSeconds = 30
+		#Candy Beam cooldown, mastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		candyCooldownSecondsMastered = 10
+		#Regeneration aura cost (fraction of max aura).
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		regenAuraCost = 0.05
+		#Regeneration cooldown, unmastered (seconds).
+		# Default: 8
+		# Range: 0 ~ 3600
+		regenCooldownSeconds = 8
+		#Regeneration cooldown, mastered (seconds).
+		# Default: 4
+		# Range: 0 ~ 3600
+		regenCooldownSecondsMastered = 4
+
+	[Skills.evil_majin]
+		#Enable The Evil Majin.
+		enabled = true
+		#Reflected projectile speed multiplier.
+		# Default: 1.5
+		# Range: 0.0 ~ 100.0
+		reflectSpeedMultiplier = 1.5
+		#Reflected Tensura projectile damage multiplier.
+		# Default: 2.0
+		# Range: 0.0 ~ 100.0
+		reflectDamageMultiplier = 2.0
+		#Fraction of each victim's EP rolled into the merged candy.
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		candyEpRetained = 0.2
+		#If true, players inside the AOE may be candied. PvP opt-in.
+		candyAllowPlayers = false
+		#Candy AOE cooldown, unmastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		candyCooldownSeconds = 20
+		#Candy AOE cooldown, mastered (seconds).
+		# Default: 5
+		# Range: 0 ~ 3600
+		candyCooldownSecondsMastered = 5
+		#Per-tick predation damage applied by the Hunger mist.
+		# Default: 8.0
+		# Range: 0.0 ~ 1000000.0
+		hungerDamage = 8.0
+		#Range of the Hunger mist (blocks).
+		# Default: 16.0
+		# Range: 1.0 ~ 128.0
+		hungerRange = 16.0
+		#Mist visual/hit size.
+		# Default: 1.5
+		# Range: 0.1 ~ 10.0
+		hungerSize = 1.5
+		#Hunger cooldown applied on key release, unmastered (seconds).
+		# Default: 20
+		# Range: 0 ~ 3600
+		hungerCooldownSeconds = 20
+		#Hunger cooldown applied on key release, mastered (seconds).
+		# Default: 5
+		# Range: 0 ~ 3600
+		hungerCooldownSecondsMastered = 5
+
+	[Skills.dragon_slayer]
+		#Enable Dragon Slayer.
+		enabled = true
+		#Permanent max-HP bonus added per Dragon Essence eaten (no cap, reset on death).
+		# Default: 20.0
+		# Range: 0.0 ~ 1000.0
+		essenceMaxHpPer = 20.0
+		#EP granted per Dragon Heart consumed via Dragon Infusion, unmastered.
+		# Default: 20000.0
+		# Range: 0.0 ~ 1.0E9
+		infusionEpGain = 20000.0
+		#EP granted per Dragon Heart consumed via Dragon Infusion, mastered.
+		# Default: 40000.0
+		# Range: 0.0 ~ 1.0E9
+		infusionEpGainMastered = 40000.0
+		#Dragon Infusion cooldown (seconds), unmastered.
+		# Default: 5
+		# Range: 0 ~ 3600
+		infusionCooldownSeconds = 5
+		#Dragon Infusion cooldown (seconds), mastered.
+		# Default: 2
+		# Range: 0 ~ 3600
+		infusionCooldownSecondsMastered = 2
+		#Strength amplifier applied by Dragon Rage, unmastered (9 = Strength X).
+		# Default: 9
+		# Range: 0 ~ 127
+		rageAmplifier = 9
+		#Strength amplifier applied by Dragon Rage, mastered (14 = Strength XV).
+		# Default: 14
+		# Range: 0 ~ 127
+		rageAmplifierMastered = 14
+		#Dragon Rage strength duration (seconds), unmastered.
+		# Default: 30
+		# Range: 1 ~ 3600
+		rageDurationSeconds = 30
+		#Dragon Rage strength duration (seconds), mastered.
+		# Default: 60
+		# Range: 1 ~ 3600
+		rageDurationSecondsMastered = 60
+		#Dragon Rage cooldown (seconds), unmastered.
+		# Default: 60
+		# Range: 0 ~ 3600
+		rageCooldownSeconds = 60
+		#Dragon Rage cooldown (seconds), mastered.
+		# Default: 30
+		# Range: 0 ~ 3600
+		rageCooldownSecondsMastered = 30
+
+	[Skills.slayer_of_dragons]
+		#Enable The Slayer of Dragons.
+		enabled = true
+		#Permanent max-HP bonus per Dragon Essence / dragon flesh eaten while toggled on (no cap, reset on death).
+		# Default: 30.0
+		# Range: 0.0 ~ 1000.0
+		essenceMaxHpPer = 30.0
+		#Permanent Max EP granted per dragon kill while toggled on. Split 50/50 across MAX_AURA + MAX_MAGICULE.
+		# Default: 50000.0
+		# Range: 0.0 ~ 1.0E9
+		killEpBonus = 50000.0
+		#Permanent ARMOR granted per dragon kill while toggled on (stacks via a single growing modifier).
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		killArmorBonus = 1.0
+		#EP granted per Dragon Heart consumed via Dragon Infusion, unmastered.
+		# Default: 40000.0
+		# Range: 0.0 ~ 1.0E9
+		infusionEpGain = 40000.0
+		#EP granted per Dragon Heart consumed via Dragon Infusion, mastered.
+		# Default: 50000.0
+		# Range: 0.0 ~ 1.0E9
+		infusionEpGainMastered = 50000.0
+		#Dragon Infusion cooldown (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		infusionCooldownSeconds = 10
+		#Draconic Rage duration (seconds).
+		# Default: 300
+		# Range: 1 ~ 3600
+		rageDurationSeconds = 300
+		#Draconic Rage cooldown (seconds).
+		# Default: 300
+		# Range: 0 ~ 3600
+		rageCooldownSeconds = 300
+		#Strength amplifier applied by Draconic Rage (19 = Strength XX).
+		# Default: 19
+		# Range: 0 ~ 127
+		rageStrengthAmp = 19
+		#Tensura Strengthen amplifier applied by Draconic Rage (4 = Strengthen V; +6 attack damage per level).
+		# Default: 4
+		# Range: 0 ~ 127
+		rageStrengthenAmp = 4
+		#Resistance amplifier applied by Draconic Rage (2 = Resistance III).
+		# Default: 2
+		# Range: 0 ~ 127
+		rageResistanceAmp = 2
+		#Dragon King Roar cooldown applied on key release (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		roarCooldownSeconds = 30
+		#Per-hit damage for each breath stream while Dragon King Roar is held, unmastered. Overrides Tensura's base breath damage. Tensura's elemental Domination toggle (FLAME/WATER/LIGHTNING_BOOST) scales this multiplicatively via the DamagingHandler attribute lookup; with no toggle on the corresponding element this is the raw landed damage.
+		# Default: 25.0
+		# Range: 0.0 ~ 1000000.0
+		roarDamage = 25.0
+		#Per-hit damage for each breath stream while Dragon King Roar is held, mastered.
+		# Default: 50.0
+		# Range: 0.0 ~ 1000000.0
+		roarDamageMastered = 50.0
+		#Cone-width multiplier applied to roar-spawned breath entities (0.6 = 40% narrower). Lower = tighter, more focused beam. Set 1.0 for vanilla width.
+		# Default: 0.6
+		# Range: 0.1 ~ 5.0
+		roarSizeMultiplier = 0.6
+		#Range multiplier applied to roar-spawned breath entities (2.0 = 2x reach).
+		# Default: 2.0
+		# Range: 1.0 ~ 10.0
+		roarLengthMultiplier = 2.0
+
+	[Skills.imprisoned_jester]
+		#Enable Imprisoned Jester.
+		enabled = true
+		#In-slot outgoing physical damage bonus, unmastered (0.20 = +20%).
+		# Default: 0.2
+		# Range: 0.0 ~ 10.0
+		physicalBonus = 0.2
+		#Additional in-slot physical bonus added on top of base when mastered (0.10 = +10% more, total +30%).
+		# Default: 0.1
+		# Range: 0.0 ~ 10.0
+		physicalBonusMasteredAdd = 0.1
+		#In-slot outgoing Tensura-magic damage bonus (0.20 = +20%).
+		# Default: 0.2
+		# Range: 0.0 ~ 10.0
+		magicBonus = 0.2
+		#In-slot crit chance per hit, unmastered (0.10 = 10%). Crit deals +50% damage.
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		critChance = 0.1
+		#Additional crit chance added on top of base when mastered (0.10 = +10% more, total 20%).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		critChanceMasteredAdd = 0.1
+		#Fraction of incoming physical damage reflected to attacker while toggled on (0.25 = 25%).
+		# Default: 0.25
+		# Range: 0.0 ~ 10.0
+		reflectFraction = 0.25
+		#EP cap used for Chaos Spades damage scaling. EP above this value is ignored for scaling.
+		# Default: 1.0E7
+		# Range: 1.0 ~ 1.0E12
+		chaosEpCap = 1.0E7
+		#Soul-HP damage per point of effective EP (0.001 = 10000 SHP at the 10M cap).
+		# Default: 0.001
+		# Range: 0.0 ~ 1.0
+		chaosEpFactor = 0.001
+		#Chaos Spades cooldown (seconds).
+		# Default: 15
+		# Range: 0 ~ 3600
+		chaosCooldownSeconds = 15
+		#Max HP fraction the caster must be below to cast Explosive Goodbye (0.25 = under 25% HP).
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		explodeHpThreshold = 0.25
+		#Explosive Goodbye radius in blocks.
+		# Default: 10.0
+		# Range: 0.0 ~ 64.0
+		explodeRadius = 10.0
+		#Explosive Goodbye cooldown (seconds) — moot since it kills the caster, but applied for symmetry if they get revived.
+		# Default: 600
+		# Range: 0 ~ 36000
+		explodeCooldownSeconds = 600
+		#Flat Soul-HP damage dealt per tick-interval while standing in Chaos Fire.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000.0
+		chaosFireDamage = 1.0
+		#Ticks between Chaos Fire damage applications (20 ticks = 1 second).
+		# Default: 10
+		# Range: 1 ~ 1200
+		chaosFireTickInterval = 10
+		#Ticks a Chaos Fire block survives before self-extinguishing (20 ticks = 1 second).
+		# Default: 300
+		# Range: 1 ~ 72000
+		chaosFireBurnoutTicks = 300
+
+	[Skills.unbound_jester]
+		#Enable The Unbound Jester.
+		enabled = true
+		#Cumulative spirit damage required to qualify for the awakening (lifetime, while Imprisoned Jester is in slot).
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1.0E12
+		gateSpiritDamage = 1000000.0
+		#In-slot outgoing physical damage bonus (0.50 = +50%).
+		# Default: 0.5
+		# Range: 0.0 ~ 10.0
+		physicalBonus = 0.5
+		#In-slot outgoing magic damage bonus (0.50 = +50%).
+		# Default: 0.5
+		# Range: 0.0 ~ 10.0
+		magicBonus = 0.5
+		#In-slot crit chance per hit (0.30 = 30%).
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		critChance = 0.3
+		#Crit damage bonus (1.00 = +100% on crit).
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		critDamage = 1.0
+		#Fraction of all incoming damage reflected to the attacker while toggled (0.25 = 25%).
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		reflectFraction = 0.25
+		#Chaos Theater AOE radius (blocks).
+		# Default: 8.0
+		# Range: 1.0 ~ 64.0
+		theaterRadius = 8.0
+		#Caster EP cap used for Chaos Theater damage scaling.
+		# Default: 1.0E7
+		# Range: 0.0 ~ 1.0E12
+		theaterEpCap = 1.0E7
+		#EP-to-damage factor for Chaos Theater (1.5× Chaos Spades' default; was 2.0× before the -25% nerf).
+		# Default: 1.5E-4
+		# Range: 0.0 ~ 1.0
+		theaterEpFactor = 1.5E-4
+		#Fraction of caster's max aura consumed per Chaos Theater cast (0.05 = 5%).
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		theaterAuraFraction = 0.05
+		#Chaos Theater cooldown (seconds, unmastered).
+		# Default: 30
+		# Range: 0 ~ 600
+		theaterCooldownSeconds = 30
+		#Chaos Theater cooldown (seconds, mastered).
+		# Default: 10
+		# Range: 0 ~ 600
+		theaterCooldownSecondsMastered = 10
+		#Curtain Call AOE radius (blocks).
+		# Default: 16.0
+		# Range: 1.0 ~ 64.0
+		curtainRadius = 16.0
+		#Curtain Call cooldown (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		curtainCooldownSeconds = 60
+		#Final Punishment targeting range (blocks).
+		# Default: 16.0
+		# Range: 1.0 ~ 128.0
+		punishRange = 16.0
+		#Caster-EP / target-EP ratio required to apply Sentence.
+		# Default: 1.5
+		# Range: 1.0 ~ 100.0
+		punishEpRatio = 1.5
+		#Sentence effect duration (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		punishDurationSeconds = 10
+		#Fraction of target's max HP dealt per second by Sentence (0.05 = 5%).
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		punishHpFraction = 0.05
+		#Fraction of target's EP absorbed by caster on death during Sentence (0.25 = 25%).
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		punishEpAbsorb = 0.25
+		#Final Punishment cooldown, unmastered (seconds).
+		# Default: 60
+		# Range: 0 ~ 3600
+		punishCooldownSeconds = 60
+		#Final Punishment cooldown, mastered (seconds).
+		# Default: 10
+		# Range: 0 ~ 3600
+		punishCooldownSecondsMastered = 10
+
+	[Skills.blockade]
+		#Enable Blockade.
+		enabled = true
+		#Regen Suppression duration applied to the target, unmastered (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		durationSeconds = 10
+		#Regen Suppression duration applied to the target, mastered (seconds).
+		# Default: 20
+		# Range: 1 ~ 600
+		durationSecondsMastered = 20
+		#Blockade cooldown (seconds).
+		# Default: 30
+		# Range: 0 ~ 3600
+		cooldownSeconds = 30
+		#Vex kills required for Blockade auto-unlock (in addition to Magic Jamming being mastered).
+		# Default: 30
+		# Range: 0 ~ 10000
+		vexKillsRequired = 30
+
+	[Skills.deus_sanguis]
+		#Enable Deus Sanguis.
+		enabled = true
+		#Bleed-on-melee tier applied while toggled, unmastered (1 = amplifier 0).
+		# Default: 6
+		# Range: 1 ~ 32
+		bleedTier = 6
+		#Bleed tier when mastered.
+		# Default: 10
+		# Range: 1 ~ 32
+		bleedTierMastered = 10
+		#Bleed duration on melee hit (seconds).
+		# Default: 4
+		# Range: 1 ~ 60
+		bleedDurationSeconds = 4
+		#Bite damage (HP), unmastered.
+		# Default: 20.0
+		# Range: 0.0 ~ 1000.0
+		biteDamage = 20.0
+		#Bite damage (HP), mastered.
+		# Default: 25.0
+		# Range: 0.0 ~ 1000.0
+		biteDamageMastered = 25.0
+		#Bite cooldown (seconds).
+		# Default: 3
+		# Range: 0 ~ 3600
+		biteCooldownSeconds = 3
+		#Shift cooldown (seconds), unmastered. Press cycles in OR out and consumes the cooldown either way.
+		# Default: 20
+		# Range: 0 ~ 3600
+		shiftCooldownSeconds = 20
+		#Shift cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		shiftCooldownSecondsMastered = 10
+		#Health Drain: fraction of each enemy's CURRENT HP drained per second, unmastered (0.10 = 10%).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		drainFraction = 0.1
+		#Health Drain fraction per second, mastered.
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		drainFractionMastered = 0.2
+		#Health Drain cooldown (seconds), unmastered. Set on press so a tap still consumes the full cooldown.
+		# Default: 30
+		# Range: 0 ~ 3600
+		drainCooldownSeconds = 30
+		#Health Drain cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		drainCooldownSecondsMastered = 10
+
+	[Skills.hell_passage]
+		#Enable Hell Passage (and block its auto-unlock when false).
+		enabled = true
+		#Fraction of CURRENT magicule consumed per cast (0.10 = 10%).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		magiculeFraction = 0.1
+		#Cooldown (seconds), unmastered.
+		# Default: 30
+		# Range: 0 ~ 3600
+		cooldownSeconds = 30
+		#Cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		cooldownSecondsMastered = 10
+		#How long the spawned portal entity persists before despawning (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		portalLifetimeSeconds = 10
+		#Mastery points awarded per successful cast.
+		#EXTRA-tier mastery cap is 500, so 5/cast = 100 casts to master.
+		#Set to 1 for the slow Tensura default; higher = faster mastery.
+		# Default: 5.0
+		# Range: 0.0 ~ 500.0
+		masteryPerCast = 5.0
+
+	[Skills.hyperbolic_passage]
+		#Enable Hyperbolic Passage (and block its auto-unlock when false).
+		enabled = true
+		#Fraction of CURRENT magicule consumed per cast (0.10 = 10%).
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		magiculeFraction = 0.1
+		#Cooldown (seconds), unmastered.
+		# Default: 30
+		# Range: 0 ~ 3600
+		cooldownSeconds = 30
+		#Cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		cooldownSecondsMastered = 10
+		#How long the spawned portal entity persists before despawning (seconds).
+		# Default: 10
+		# Range: 1 ~ 600
+		portalLifetimeSeconds = 10
+		#Mastery points awarded per successful cast.
+		#EXTRA-tier mastery cap is 500, so 5/cast = 100 casts to master.
+		#Set to 1 for the slow Tensura default; higher = faster mastery.
+		# Default: 5.0
+		# Range: 0.0 ~ 500.0
+		masteryPerCast = 5.0
+
+	[Skills.image_training]
+		#Enable Image Training Battlewill.
+		enabled = true
+		#How long the spawned clone persists before despawning (seconds). Default 120 = 2 minutes.
+		# Default: 120
+		# Range: 1 ~ 3600
+		lifespanSeconds = 120
+		#Cooldown between casts (seconds). Default 300 = 5 minutes.
+		# Default: 300
+		# Range: 0 ~ 36000
+		cooldownSeconds = 300
+		#Bonus EP awarded on killing the clone, expressed as a multiplier of the player's CURRENT EP.
+		#0.10 = +10% of current EP per kill. Set to 0 to disable the bonus.
+		# Default: 0.1
+		# Range: 0.0 ~ 100.0
+		epMultiplier = 0.1
+		#Mastery points awarded per successful cast.
+		# Default: 5.0
+		# Range: 0.0 ~ 500.0
+		masteryPerCast = 5.0
+		#Multiplier applied to the summoner's attack damage when copying onto the clone.
+		#0.5 = clone hits for half the player's damage. Compensates for the
+		#no-resist truth-damage bypass — every hit lands unmitigated, so even a
+		#small fraction of player damage adds up to meaningful pressure. Set higher
+		#(e.g. 1.0 / 2.0+) for tougher / punishment-style training dummies, or lower
+		#(0.10 / 0.25) for a sparring-pace partner.
+		# Default: 0.5
+		# Range: 0.0 ~ 10.0
+		damageScale = 0.5
+
+	[Skills.trash_gamer]
+		#Enable Trash Gamer.
+		enabled = true
+		#Flat mastery-point bonus added to every mastery gain on every skill while Trash Gamer is learned.
+		# Default: 4.0
+		# Range: 0.0 ~ 1000.0
+		masteryBonus = 4.0
+		#Fraction of CURRENT magicule consumed per Duplication Glitch cast, unmastered (0.50 = 50%).
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		duplicationMpFraction = 0.5
+		#Fraction of CURRENT magicule consumed per Duplication Glitch cast, mastered.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		duplicationMpFractionMastered = 0.25
+		#Duplication Glitch cooldown (seconds).
+		# Default: 600
+		# Range: 0 ~ 36000
+		duplicationCooldownSeconds = 600
+		#Buff Glitch effect duration (seconds).
+		# Default: 180
+		# Range: 1 ~ 7200
+		buffDurationSeconds = 180
+		#Buff Glitch cooldown (seconds), unmastered.
+		# Default: 60
+		# Range: 0 ~ 3600
+		buffCooldownSeconds = 60
+		#Buff Glitch cooldown (seconds), mastered.
+		# Default: 10
+		# Range: 0 ~ 3600
+		buffCooldownSecondsMastered = 10
+		#Prodigy duration (seconds). Default 600s = 10 minutes.
+		# Default: 600
+		# Range: 1 ~ 7200
+		prodigyDurationSeconds = 600
+		#Prodigy cooldown (seconds).
+		# Default: 1800
+		# Range: 0 ~ 36000
+		prodigyCooldownSeconds = 1800
+		#Paralysis duration (seconds) applied when Prodigy ends.
+		# Default: 180
+		# Range: 0 ~ 3600
+		prodigyParalysisSeconds = 180
+		#Per-incoming-hit dodge chance during Prodigy (0.99 = 99%).
+		# Default: 0.99
+		# Range: 0.0 ~ 1.0
+		prodigyDodgeChance = 0.99
+		#Movement-speed bonus during Prodigy (0.20 = +20%).
+		# Default: 0.2
+		# Range: 0.0 ~ 10.0
+		prodigySpeedBonus = 0.2
+		#Outgoing damage multiplier during Prodigy — stand-in for 'ignore opponent resistances and nullifications'. 5.0 = 5× damage to compensate for typical resist values.
+		# Default: 5.0
+		# Range: 0.0 ~ 100.0
+		prodigyDamageMult = 5.0
+		#Item IDs that Duplication Glitch refuses to copy. Use full registry IDs
+		#(namespace:path). Vanilla container components (bundle / shulker) are
+		#ALSO blocked automatically and don't need to be listed here — this list
+		#is for items that hold inventory on the stack without using the standard
+		#vanilla components, e.g. modded backpacks.
+		duplicationBlacklist = ["minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]

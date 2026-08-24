@@ -1,0 +1,25 @@
+[TrueDragon]
+	#Minimal aura.
+	minAura = 1.0E7
+	#Maximum aura.
+	maxAura = 2.0E7
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 2.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1380.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8500.0
+	#Bonus Attack Damage.
+	attack = 20.0
+	#Bonus Attack Speed.
+	attackSpeed = 2.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.019999999552965164
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0

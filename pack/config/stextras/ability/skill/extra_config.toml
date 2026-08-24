@@ -1,0 +1,17 @@
+[KeenNose]
+	#The duration that you can hold the skill in seconds.
+	hold_duration = 10
+	#The duration that you can hold the skill in seconds if mastered.
+	hold_duration_mastered = 15
+	#The cooldown in seconds.
+	cooldown = 60
+	#The cooldown in seconds when the skill is mastered.
+	cooldownMastered = 30
+	#The magicule cost per second.
+	magicule_cost = 15.0
+	#The block xray radius used by Keen Nose.
+	xray_radius = 25
+	#How much each Keen Nose effect amplifier increases the block xray radius. Mastered Keen Nose applies amplifier 1.
+	xray_radius_amplifier_multiplier = 0.2
+	#Blocks Keen Nose outlines. Format: 'block_id[,block_id...]|#RRGGBB' or 'block_id[,block_id...]|#RRGGBB|alpha'. The first 256 entries are used.
+	block_outlines = ["minecraft:coal_ore,minecraft:deepslate_coal_ore|#404040", "minecraft:iron_ore,minecraft:deepslate_iron_ore|#D9D9D9", "minecraft:copper_ore,minecraft:deepslate_copper_ore|#FF8C33", "minecraft:gold_ore,minecraft:deepslate_gold_ore,minecraft:nether_gold_ore|#FFD940", "minecraft:redstone_ore,minecraft:deepslate_redstone_ore|#FF4040", "minecraft:emerald_ore,minecraft:deepslate_emerald_ore|#33F266", "minecraft:lapis_ore,minecraft:deepslate_lapis_ore,iceandfire:sapphire_ore|#4073FF", "minecraft:diamond_ore,minecraft:deepslate_diamond_ore|#26F2F2", "minecraft:nether_quartz_ore,tensura:silver_ore,tensura:deepslate_silver_ore|#FFFFFF", "minecraft:ancient_debris|#B37340", "tensura:magic_ore,tensura:deepslate_magic_ore|#FF66CC"]

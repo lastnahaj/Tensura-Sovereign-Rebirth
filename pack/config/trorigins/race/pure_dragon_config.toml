@@ -1,0 +1,31 @@
+[PureDragon]
+	#Minimal aura.
+	minAura = 1.0E7
+	#Maximum aura.
+	maxAura = 1.0E7
+	#Minimal magicule.
+	minMagicule = 5000000.0
+	#Maximum magicule.
+	maxMagicule = 5000000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1160.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8100.0
+	#Bonus Attack Damage.
+	attack = 7.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.8
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.1
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 1.5
+	#Flight Boost Power.
+	flightBoost = 0.8
+	#Flight Boost Cooldown.
+	flightCooldown = 1
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:divine_dragon", "mysticism:sundeity_loong", "mysticism:scorchtalon_wyvern", "mysticism:frostwrought_leviathan", "mysticism:rimeblight_hydra"]
