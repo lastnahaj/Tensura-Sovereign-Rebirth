@@ -39,8 +39,8 @@
 | Tensura Gear Evolution | 1.2.5 | LOCK | Authoritative equipment progression system. |
 | Tensura Backpack Expansion | 1.0.4 | LOCK |  |
 | Tensura Metalworks | 1.0.4 | LOCK |  |
-| Tensura x MineColonies | 0.2.2 | LOCK | Alpha integration; warfare/diplomacy features remain staged until server testing passes. |
-| Nightmare's Tensura Utils | 0.1.2 | LIBRARY-ONLY | Required API/library for Tensura x MineColonies. No Nightmare content mod is included. |
+| Tensura x MineColonies | 0.2.2 | LOCK-CONFIGURED | Core citizen and reputation integration is active. Experimental faction, diplomacy, warfare, assassin, defense-swap, and reputation-raid systems are disabled for the beta baseline. |
+| Nightmare Utils | 0.1.2 | LIBRARY-ONLY | Required API/library for Tensura x MineColonies. Its content systems are disabled and its test skills are excluded from Skill Books rewards. The official 0.1.2 file reports internal version 0.1.0. |
 | Tensura Compat: FTB | 2.0.0.4 | LOCK |  |
 | Tensura Compat: Iron's Spells | 2.0.0.0 | LOCK |  |
 | Tensura Compat: Ice & Fire | 2.0.0.1 | LOCK |  |
@@ -50,12 +50,15 @@
 | Mod | Version | Status | Notes |
 |---|---|---|---|
 | MineColonies | 1.1.1319 | PIN | Pinned because Tensura x MineColonies and MineColonies Mages explicitly target this line. |
-| Structurize | >=1.0.810 for 1.21.1 | DEPENDENCY |  |
-| Multi-Piston | >=1.2.51 for 1.21.1 | DEPENDENCY |  |
-| BlockUI | >=1.0.199 for 1.21.1 | DEPENDENCY |  |
-| Domum Ornamentum | >=1.0.223 for 1.21.1 | DEPENDENCY |  |
-| MineColonies Mages (IronSpells integration) | 2.3 | LOCK |  |
+| Structurize | 1.0.830 | DEPENDENCY | Exact Phase 3 lock. |
+| Multi-Piston | 1.2.51 | DEPENDENCY | Exact Phase 3 lock. |
+| BlockUI | 1.0.209 | DEPENDENCY | Exact Phase 3 lock. |
+| Domum Ornamentum | 1.0.231 | DEPENDENCY | Exact Phase 3 lock. |
+| MineColonies Mages (IronSpells integration) | 2.3 | LOCK-CONFIGURED | Uses native MineColonies flows where available and the tested barracks progression fallback when no native mage building is registered. |
 | Iron's Spells 'n Spellbooks | 3.16.3 | LOCK |  |
+| Iron's Lib | 2.1.0 | DEPENDENCY | Required by Iron's Spells. |
+| Player Animator | 2.0.4 | DEPENDENCY | Required by Iron's Spells. |
+| Curios API Continuation | 9.0.15 | DEPENDENCY | Required by Iron's Spells. |
 
 ## Gear, Crafting & Storage
 

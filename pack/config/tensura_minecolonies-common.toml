@@ -1,0 +1,19 @@
+#Enable the assassin system (mistreated colonies breeding assassins).
+#false = no new plots; existing lurking/armed plots defuse;
+#an already-active assassin boss remains until slain.
+enableAssassins = false
+#How aggressive innately-hostile Tensura mobs are toward colony citizens.
+#OFF (default) = this mod adds NO extra aggression — citizens are invisible to
+#Tensura's hostile-prey targeting, as in vanilla Tensura. MEDIUM = about half:
+#only roughly half of mob/citizen encounters treat the citizen as prey, so mobs
+#lock on about half as often. HIGH = citizens are unconditional prey on sight
+#(the previous behaviour).
+#Allowed Values: OFF, MEDIUM, HIGH
+citizenAggression = "OFF"
+#Allow rival faction settlements to generate naturally as you explore.
+#false = no settlement ever appears on its own (debug commands only).
+rivalNaturalGeneration = false
+#Drago Nova: the blast also harms allies, citizens and named subordinates.
+dragoNovaHarmAllies = false
+#Drago Nova: the blast damages the ground (a TNT-style crater).
+dragoNovaBreakBlocks = false

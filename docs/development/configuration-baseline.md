@@ -31,3 +31,18 @@ The following progression rules are locked in the packaged configuration:
 The complete 24-artifact Phase 2 runtime passed five repeated clean-world dedicated-server starts after configuration, a warm restart, and an offline graphical client start through renderer, resource reload, and sound-engine initialization. NeoForge did not generate any world-scoped server config files for this layer, so no Phase 2 file belongs in `defaultconfigs`; that tree is populated when later server-scoped configuration owners enter the runtime.
 
 Additional frozen settings are activated when their owning systems enter the runtime. These include automatic Great Sage gamerule enforcement, controlled Waystones travel, Quest Shop currency sources, Jade information limits, and conservative ServerCore behavior. Each setting receives a fresh-install regression test before its subsystem is accepted.
+
+## Phase 3 baseline
+
+The civilization and magic layer expands the reviewed tree to 141 files. It adds MineColonies, Structurize, Tensura x MineColonies, MineColonies Mages, Iron's Spells, Curios, and Nightmare Utils configuration.
+
+The following server-stability rules are locked in validation:
+
+- MineColonies is capped at 150 citizens per colony, colony force-loading is disabled, delayed colony loading is set to five minutes with strictness six, maximum tree scans are 300 blocks, maximum raid size is 60, and pathfinding remains single-threaded.
+- Structurize is limited to 500 world operations per tick, 25 cached undo changes, 64 cached schematics, and 500 blocks checked per worker operation.
+- Tensura x MineColonies keeps assassins, extra citizen aggression, natural rival settlement generation, factions/diplomacy/warfare, defense transformation, and reputation raids disabled. Colony protection against Tensura mob and skill griefing remains enabled.
+- Iron's Spells terrain griefing is disabled.
+- Nightmare Utils is present only as a required library. Autocast, mob trading, skill rewards, and spawn profiles are disabled, and every `nightmareutils:` test skill is blacklisted from Skill Books random rewards.
+- MineColonies Mages uses the native flow when exposed and requires its combat research and progression anchor. With no native mage building ID in the tested build, its registered barracks fallback is the accepted baseline.
+
+The complete 37-artifact runtime passed five configured clean-world starts, a warm restart, clean saves and shutdowns, 141/141 semantic config reconstruction, and a graphical client start. Representative client interaction also verified the MineColonies Build Tool browser, Town Hall schematic preview, placement dispatch, and colony-start advancement. Persistent colony state and long-running citizen AI remain later integrated gameplay checks because automated focus changes pause the integrated server.

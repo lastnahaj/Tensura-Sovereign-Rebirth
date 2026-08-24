@@ -11,11 +11,11 @@
 # Example blacklist: tensura:debug_skill@0
 # Edit this file, then run /skillbooks refresh. See tensura_skill_books-formulas.txt for formulas.
 
-# Discovered total=459 | active=459 | blacklisted=0
+# Discovered total=471 | active=460 | blacklisted=11
 
 # Category: ALL | total=0 | active=0 | blacklisted=0
 
-# Category: EXTRA | total=89 | active=89 | blacklisted=0
+# Category: EXTRA | total=90 | active=90 | blacklisted=0
 ascension:angel_wings@1
 ascension:blockade@1
 ascension:blood_blade@1
@@ -25,6 +25,7 @@ ascension:blood_manipulation@1
 ascension:hell_passage@1
 ascension:hyperbolic_passage@1
 ascension:intimidating_roar@1
+ascension:magic_scribe@1
 ascension:magicule_attunement@1
 ascension:magicule_dominion@1
 ascension:magicule_resonance@1
@@ -106,7 +107,7 @@ tr_unique_monsters:appraisal_eye@1
 trorigins:administrative_authority@1
 trorigins:dragon_spirit_haki@1
 
-# Category: UNIQUE | total=98 | active=98 | blacklisted=0
+# Category: UNIQUE | total=109 | active=98 | blacklisted=11
 ascension:bubble_majin@1
 ascension:deus_sanguis@1
 ascension:dragon_slayer@1
@@ -145,6 +146,17 @@ mysticism:stagnator@1
 mysticism:subjugator@1
 mysticism:victorious_harbinger@1
 mysticism:zekrom@1
+nightmareutils:block_break_test@0
+nightmareutils:block_place_test@0
+nightmareutils:charm_test@0
+nightmareutils:mimicry_test@0
+nightmareutils:particle_shape_test@0
+nightmareutils:possession_copy_test@0
+nightmareutils:possession_test@0
+nightmareutils:programmable_menu_test@0
+nightmareutils:sentient@0
+nightmareutils:sentientdisintegrate@0
+nightmareutils:spectator_test@0
 stextras:imitator@1
 tensura:absolute_severance@1
 tensura:analyst@1

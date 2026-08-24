@@ -1,0 +1,13 @@
+name = "MineColonies Mages"
+filename = "minecolonies-mages-v2.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fc514e3b73ee3d22c267fa22a57d900054e833e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8441293
+project-id = 1506482

@@ -10,7 +10,7 @@ No. Gear Evolution is the authoritative equipment progression system.
 No. Sophisticated Storage owns physical storage, Sophisticated Backpacks owns personal storage, and Tom's is retained only for terminal/wireless access.
 
 ## Why is a Nightmare utility library present if Nightmare content is excluded?
-Tensura x MineColonies requires Nightmare's Tensura Utils as a dependency. The library is included only to satisfy that integration; Nightmare content itself remains excluded.
+Tensura x MineColonies requires Nightmare Utils as a dependency. The library is included only to satisfy that integration. Its autocast, trading, spawn-profile, and skill-reward systems are disabled, and its test skills are excluded from Skill Books rewards.
 
 ## Are high-tier races random starter options?
 Not by design. Exceptionally powerful paths are intended to be progression-gated.

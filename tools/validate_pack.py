@@ -39,6 +39,23 @@ REQUIRED_PHASE_2_CONFIGS = {
     Path("tensuramorph-common.toml"),
     Path("walkers.json5"),
 }
+REQUIRED_PHASE_3_CONFIGS = {
+    Path("curios-common.toml"),
+    Path("curios-server.toml"),
+    Path("irons_spellbooks-server.toml"),
+    Path("irons_spellbooks_spell_config/global_config.json"),
+    Path("minecolonies-common.toml"),
+    Path("minecolonies-server.toml"),
+    Path("minecoloniesmages-common.toml"),
+    Path("nightmareutils/autocast.json"),
+    Path("nightmareutils/mob_trading.json"),
+    Path("nightmareutils/skill_rewards.json"),
+    Path("nightmareutils/spawn_profiles.json"),
+    Path("structurize-server.toml"),
+    Path("tensura/iron_spell_config.toml"),
+    Path("tensura_minecolonies-common.toml"),
+    Path("tensura_minecolonies-server.toml"),
+}
 
 
 def sha256(path: Path) -> str:
@@ -113,12 +130,16 @@ for relative, expected_hash in PACK_OWNED_JARS.items():
         errors.append(f"Pack-owned JAR hash changed: {relative}")
 
 config_files = [path for path in CONFIG.rglob("*") if path.is_file()]
-if len(config_files) < 124:
-    errors.append(f"Expected at least 124 promoted config files; found {len(config_files)}")
+if len(config_files) < 141:
+    errors.append(f"Expected at least 141 promoted config files; found {len(config_files)}")
 
 for relative in sorted(REQUIRED_PHASE_2_CONFIGS):
     if not (CONFIG / relative).is_file():
         errors.append(f"Missing reviewed Phase 2 config: {relative}")
+
+for relative in sorted(REQUIRED_PHASE_3_CONFIGS):
+    if not (CONFIG / relative).is_file():
+        errors.append(f"Missing reviewed Phase 3 config: {relative}")
 
 for path in config_files:
     try:
@@ -168,6 +189,16 @@ for line_number, line in enumerate(loot_table_config.read_text(encoding="utf-8")
         )
         break
 
+random_skill_config = CONFIG / "tensura_skill_books" / "tensura_skill_books-random-skills.txt"
+for line_number, line in enumerate(random_skill_config.read_text(encoding="utf-8").splitlines(), 1):
+    stripped = line.strip()
+    if stripped.startswith("nightmareutils:") and not stripped.endswith("@0"):
+        errors.append(
+            "Nightmare Utils test skills must remain excluded from Skill Books rewards: "
+            f"line {line_number}"
+        )
+        break
+
 try:
     greatsage_client = tomllib.loads(
         (CONFIG / "greatsage-client.toml").read_text(encoding="utf-8")
@@ -195,6 +226,97 @@ try:
             errors.append(f"Origins races leaked into {pool}: {', '.join(gated)}")
 except (OSError, tomllib.TOMLDecodeError) as exc:
     errors.append(f"Invalid Tensura reincarnation config: {exc}")
+
+try:
+    minecolonies = tomllib.loads(
+        (CONFIG / "minecolonies-server.toml").read_text(encoding="utf-8")
+    )
+    gameplay = minecolonies.get("gameplay", {})
+    combat = minecolonies.get("combat", {})
+    pathfinding = minecolonies.get("pathfinding", {})
+    expected_minecolonies = {
+        "maxcitizenpercolony": 150,
+        "forceloadcolony": False,
+        "loadtime": 5,
+        "colonyloadstrictness": 6,
+        "maxtreesize": 300,
+    }
+    for key, expected in expected_minecolonies.items():
+        if gameplay.get(key) != expected:
+            errors.append(f"MineColonies {key} must remain {expected!r}")
+    if combat.get("maxBarbarianSize") != 60:
+        errors.append("MineColonies maximum raid size must remain 60")
+    if pathfinding.get("pathfindingmaxthreadcount") != 1:
+        errors.append("MineColonies pathfinding thread count must remain 1")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid MineColonies server config: {exc}")
+
+try:
+    structurize = tomllib.loads(
+        (CONFIG / "structurize-server.toml").read_text(encoding="utf-8")
+    ).get("gameplay", {})
+    expected_structurize = {
+        "maxOperationsPerTick": 500,
+        "maxCachedChanges": 25,
+        "maxCachedSchematics": 64,
+        "maxBlocksChecked": 500,
+    }
+    for key, expected in expected_structurize.items():
+        if structurize.get(key) != expected:
+            errors.append(f"Structurize {key} must remain {expected}")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Structurize server config: {exc}")
+
+try:
+    tensura_colonies_common = tomllib.loads(
+        (CONFIG / "tensura_minecolonies-common.toml").read_text(encoding="utf-8")
+    )
+    expected_common = {
+        "enableAssassins": False,
+        "citizenAggression": "OFF",
+        "rivalNaturalGeneration": False,
+    }
+    for key, expected in expected_common.items():
+        if tensura_colonies_common.get(key) != expected:
+            errors.append(f"Tensura x MineColonies {key} must remain {expected!r}")
+
+    tensura_colonies_server = tomllib.loads(
+        (CONFIG / "tensura_minecolonies-server.toml").read_text(encoding="utf-8")
+    )
+    expected_server = {
+        "enableFactionSystem": False,
+        "enableDefenseSwap": False,
+        "enableRaids": False,
+        "protectColoniesFromMobGriefing": True,
+        "protectColoniesFromSkillGriefing": True,
+    }
+    for key, expected in expected_server.items():
+        if tensura_colonies_server.get(key) != expected:
+            errors.append(f"Tensura x MineColonies {key} must remain {expected!r}")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Tensura x MineColonies config: {exc}")
+
+for relative in (
+    Path("nightmareutils/autocast.json"),
+    Path("nightmareutils/mob_trading.json"),
+    Path("nightmareutils/skill_rewards.json"),
+    Path("nightmareutils/spawn_profiles.json"),
+):
+    try:
+        nightmare_config = json.loads((CONFIG / relative).read_text(encoding="utf-8"))
+        if nightmare_config.get("enabled") is not False:
+            errors.append(f"Nightmare library feature must remain disabled: {relative}")
+    except (OSError, json.JSONDecodeError) as exc:
+        errors.append(f"Invalid Nightmare Utils config {relative}: {exc}")
+
+try:
+    iron_spells = tomllib.loads(
+        (CONFIG / "irons_spellbooks-server.toml").read_text(encoding="utf-8")
+    )
+    if iron_spells.get("Misc", {}).get("spellGriefing") is not False:
+        errors.append("Iron's Spells terrain griefing must remain disabled")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Iron's Spells server config: {exc}")
 
 if errors:
     raise SystemExit("Pack validation failed:\n- " + "\n- ".join(errors))

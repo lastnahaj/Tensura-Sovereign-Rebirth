@@ -464,3 +464,15 @@ trorigins:dragon_factor_frost
 trorigins:dragon_factor_scorch
 trorigins:dragon_factor_storm
 trorigins:dragon_spirit_haki
+ascension:magic_scribe
+nightmareutils:block_break_test
+nightmareutils:block_place_test
+nightmareutils:charm_test
+nightmareutils:mimicry_test
+nightmareutils:particle_shape_test
+nightmareutils:possession_copy_test
+nightmareutils:possession_test
+nightmareutils:programmable_menu_test
+nightmareutils:sentient
+nightmareutils:sentientdisintegrate
+nightmareutils:spectator_test

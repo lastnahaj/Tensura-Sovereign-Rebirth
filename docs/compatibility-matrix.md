@@ -2,7 +2,7 @@
 
 | System A | System B | TSR decision |
 |---|---|---|
-| Tensura | MineColonies | Dedicated Tensura x MineColonies bridge; core |
+| Tensura | MineColonies | Dedicated bridge active for core citizen/reputation behavior; experimental faction, diplomacy, warfare, assassins, defense swapping, and reputation raids disabled for the beta baseline; colony grief protection enabled |
 | Tensura | FTB Teams/Chunks/Quests | Dedicated Tensura Compat: FTB; core |
 | LuckPerms | FTB | FTB XMod Compat where supported; test all actions under non-OP |
 | Tensura | Iron's Spells | Dedicated compatibility; core |
@@ -17,7 +17,9 @@
 | Great Sage | Jade | Jade configured not to spoil Tensura analysis |
 | SlimeThrone | FTB Quests | SlimeThrone = repeatable/prestige, FTB = handcrafted campaign |
 | Ascension | External bosses | Ascension scaling used where supported |
-| MineColonies | Iron's Spells | MineColonies Mages; core |
+| MineColonies | Iron's Spells | MineColonies Mages 2.3 active; native flow enabled with the barracks research/building fallback tested because this build exposes no native mage building ID |
+| Nightmare Utils 0.1.2 | Active runtime | LIBRARY-ONLY; autocast, mob trading, spawn profiles, and skill rewards disabled; test skills blacklisted from Skill Books rewards |
+| Iron's Spells | World terrain | Spell griefing disabled for the stability baseline |
 | FTB Ranks | LuckPerms | FTB Ranks excluded; LuckPerms authoritative |
 | OPAC | FTB Chunks | OPAC excluded; FTB owns claims |
 | AE2 / Refined Storage | TSR storage | Excluded for theme and redundancy |

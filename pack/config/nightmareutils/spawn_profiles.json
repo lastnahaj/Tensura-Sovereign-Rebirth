@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "note": "Configurable mob spawn profiles for EP and skill pool assignment.",
+  "enabled": false,
+  "applyOnlyNaturalSpawns": false,
+  "profiles": {
+    "tensura:*": {
+      "enabled": true,
+      "minSkills": 1,
+      "maxSkills": 2,
+      "allowedSpawnTypes": [
+        "NATURAL",
+        "SPAWNER"
+      ],
+      "deniedSpawnTypes": [],
+      "allowedDimensions": [],
+      "deniedDimensions": [],
+      "allowedBiomes": [],
+      "deniedBiomes": [],
+      "skills": [
+        {
+          "skillId": "tensura:water_blade",
+          "weight": 10
+        },
+        {
+          "skillId": "tensura:wind_cutter",
+          "weight": 10
+        },
+        {
+          "skillId": "tensura:fire_ball",
+          "weight": 8
+        },
+        {
+          "skillId": "tensura:stone_shot",
+          "weight": 8
+        }
+      ]
+    }
+  }
+}

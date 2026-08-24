@@ -32,6 +32,8 @@ def semantic_value(path: Path) -> object:
         return json.loads(text)
     if path.suffix == ".json5":
         return parse_json5(text)
+    if path.suffix == ".txt":
+        return text.replace("\r\n", "\n")
     return path.read_bytes()
 
 

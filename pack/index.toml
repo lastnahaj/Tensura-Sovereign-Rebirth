@@ -5,12 +5,44 @@ file = "config/craftedcore.json5"
 hash = "ddfe4c4fc65e7bbb3716dc6642f92b974b669df88b09f1819e416f581e0ea64c"
 
 [[files]]
+file = "config/curios-common.toml"
+hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
+
+[[files]]
 file = "config/greatsage-client.toml"
 hash = "431386499a5147d03fa61e9c29a26d446776e6d61936244e41aa9415f8e6c576"
 
 [[files]]
 file = "config/greatsage-common.toml"
 hash = "fe782e6d508f4b3c0a1f01a2ddd5833a59f0043be4f9cd7f4ea176bf8ea15cef"
+
+[[files]]
+file = "config/irons_spellbooks-server.toml"
+hash = "d03bccc6ba88c41354e7050111dd029f315ce42873b48c5a811218b06e4c5717"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/global_config.json"
+hash = "7f95c6a4a304ad02f613d8c46fe063c4f6cfaeeded03f3da6e5a7172e848c08a"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
+hash = "d521713366e6be20506fad8f5384f6ec3f378ce43def0d408099d01cceaf76aa"
+
+[[files]]
+file = "config/minecolonies-common.toml"
+hash = "07228f1981fab1435645877348fbb56655316cd99a5b812c224ad21845016b7b"
+
+[[files]]
+file = "config/minecolonies-server.toml"
+hash = "a43401a463370423ac69ae99dc7bde8aab84c880388b1a937b3ac28ef7c6316e"
+
+[[files]]
+file = "config/minecoloniesmages-common.toml"
+hash = "7f6a1b1963efe601b19784cb19fb80de755b99499b6a544202947b0e0383e3e4"
 
 [[files]]
 file = "config/mysticism/ability/magic/spiritual_config.toml"
@@ -109,6 +141,26 @@ file = "config/mysticism/race/wyrm_config.toml"
 hash = "b2856fbbe0ea86714f942068e6e1d34a17d242a36bc6eee4ff23b9c5dab64c39"
 
 [[files]]
+file = "config/nightmareutils/autocast.json"
+hash = "849992ab174369b0802106e1725677bd1e1d469beac7d39ec6e1185d690bf581"
+
+[[files]]
+file = "config/nightmareutils/exampleotherworlderdatapack/otherworlders/weak_shinro_nakuba.json"
+hash = "7e851ac329f06f8ac1f5916681c253e4d0de8c19333ce22128621952952dd945"
+
+[[files]]
+file = "config/nightmareutils/mob_trading.json"
+hash = "0372f7a6560ea51fe38b713e09fbb8dd175621849ae5d356c5b4dcdced6bbc30"
+
+[[files]]
+file = "config/nightmareutils/skill_rewards.json"
+hash = "682378b014b49313b0511f53b87b5cd607fa499cc9b075feb1cde2dd921d5c4e"
+
+[[files]]
+file = "config/nightmareutils/spawn_profiles.json"
+hash = "339a73f86fe9e1a59815493c478a56c7aca8e32f81768bd04df614f73bc7e2e9"
+
+[[files]]
 file = "config/remorphed.json5"
 hash = "f3988771d1c840c342057673be6ff80e44542d97cfc1e2290fee49ef55444abc"
 
@@ -151,6 +203,10 @@ hash = "9ca394416a9a3fe0cb09c4160ce94bc1c09f60c65b71fbf318485ea85c9a37c6"
 [[files]]
 file = "config/stextras/skill_lock_config.toml"
 hash = "9f21b9bfabb8627d103c56b8a7227a61c87ed6b980cb50e6d1269ad3095288d0"
+
+[[files]]
+file = "config/structurize-server.toml"
+hash = "1d2f3c37e7a9f1d326ef013a02a50d7092cd13271a56f1db9154501bda3812d7"
 
 [[files]]
 file = "config/tensura/ability/ability_config.toml"
@@ -273,6 +329,10 @@ file = "config/tensura/entity/spawn_rate_config.toml"
 hash = "8e831d058142b5ca31083a21e34c491ec2bb089e8b39143ae811ae713bcb2845"
 
 [[files]]
+file = "config/tensura/iron_spell_config.toml"
+hash = "1eba1d0e03aeb7d9cfe7e2fa5c398db6569e874449ac4f6cb14ebb06c9817d4c"
+
+[[files]]
 file = "config/tensura/neb_config.toml"
 hash = "d8efb0c85a6bdaabd8622cad90e1f5fe1e93ec3963cd000100af5de776e77fed"
 
@@ -361,6 +421,14 @@ file = "config/tensura_guild-common.toml"
 hash = "4b89e27c3014017d9b504c0aae6c00f553c2bc8850acd7ed053a1a8c79e25465"
 
 [[files]]
+file = "config/tensura_minecolonies-common.toml"
+hash = "2421ef3deb4b4e34cb94b1c64cc1061278301a813ae4c42661f8853b7bfc63b0"
+
+[[files]]
+file = "config/tensura_minecolonies-server.toml"
+hash = "b4fae145f9df4299f776bcb7e5925e597b5036c108a036fc9426be3a23f56c53"
+
+[[files]]
 file = "config/tensura_skill_books/tensura_skill_books-common.toml"
 hash = "728ecfd2b75c820bf4753584d1bc8b865e652ac5b4f86687159a0a675ad2972b"
 
@@ -370,15 +438,15 @@ hash = "7eb5bb9ea28a88531531ae468a66b1aea780286f3cdc0a607a0bde44f815aff4"
 
 [[files]]
 file = "config/tensura_skill_books/tensura_skill_books-loot-skills.txt"
-hash = "60001937bab4a298016658a1334629b2f99a5c4a3879041b44d494254f30b62e"
+hash = "1e3a8b83e7a69e86ff007762e3fa3a8a7260f9d07ed9c822ffc4452738ec51c5"
 
 [[files]]
 file = "config/tensura_skill_books/tensura_skill_books-loot-tables.txt"
-hash = "0389280f97b33ad7d6beae0645ebc6ba6bdd94c2a35de0b3e7b51e7fd867fbfc"
+hash = "c1ba11e5639acc09156d043eb12b17b7a0682ace788f17fc4fbb213312c8d504"
 
 [[files]]
 file = "config/tensura_skill_books/tensura_skill_books-random-skills.txt"
-hash = "849b56908c29257333c62d4040c010c6d285a924d455e133ddbbe6cbcb8f8602"
+hash = "b83d5e2cc78c3549b9f80398878040b1b17d2d780e7aa1215a7b6e05eaaeba90"
 
 [[files]]
 file = "config/tensuramorph-common.toml"
@@ -502,8 +570,23 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
+metafile = true
+
+[[files]]
 file = "mods/craftedcore.pw.toml"
 hash = "4ecd48b799c8939ca070ee73a942d0dc7511b8fa8f431c1c281941e87859f485"
+metafile = true
+
+[[files]]
+file = "mods/curios-api.pw.toml"
+hash = "26390c9353a47120e7e93601a76279d535b9a10fe3cf1a764fc53c7857a36524"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "9d93dfc367eb58ff112a7ea21959b8c8864890d0a0b5f9d825fa67dba9262471"
 metafile = true
 
 [[files]]
@@ -517,8 +600,43 @@ hash = "f12cbb280613af3929fe68b70a3d5a5040a562e2b42727b057443c47a009f893"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "1b23f5a7defc103d67d16db0053ff2f6240436bb0d682f760865b590e3416a65"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
+metafile = true
+
+[[files]]
 file = "mods/manascore.pw.toml"
 hash = "ea327466b8d3ebe83329de194d77790f7d68fe25e56f0bfeda319527636bb7cb"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-mages.pw.toml"
+hash = "cf8e5986219e1877565e00ef4fcb988fb80e94e36994f89d84bb8ad29b48883a"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "2578f6dbf2013e9bf74bbb8b16c6b731116dec3bea7912db463f10efb72a0e77"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "1dc16fe98446b86b94a8bfa08f07accf11a7b07fc39730b2e7b32560dcaf1c45"
+metafile = true
+
+[[files]]
+file = "mods/nightmare-utils.pw.toml"
+hash = "eeb8ab00a38d1d01348414a52c567676679d45e9168150f5a36c7f2eef752e68"
+metafile = true
+
+[[files]]
+file = "mods/player-animator.pw.toml"
+hash = "e51487751deee6fbefe1bfb932f0285e20013b65770c41e90d634bfc29fae420"
 metafile = true
 
 [[files]]
@@ -529,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "2cdd809f9697c72da8337f719ca96e907fc764b4cc6b194807ac83e586d8f260"
 metafile = true
 
 [[files]]
@@ -544,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/tensura-boss-structure.pw.toml"
 hash = "ce4d1b2ab8f059d0b25dbc688c45a89ad4576c0cc4f281b99148410f96cf86ae"
+metafile = true
+
+[[files]]
+file = "mods/tensura-compat-irons-spells.pw.toml"
+hash = "91cd26d10f3ade565cc0a0d0a2eb357648bba49e4422bbe01922eab4c151492c"
 metafile = true
 
 [[files]]
@@ -594,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/tensura-utilities-manager.pw.toml"
 hash = "5ad5009bc8966428c04c1209e03eb240b39043d580e1dec1b15d611e2b72d658"
+metafile = true
+
+[[files]]
+file = "mods/tensura-x-minecolonies.pw.toml"
+hash = "27bf54d077ae3e9587254850b42b1a6b7408301524659cf607cbfe88af490317"
 metafile = true
 
 [[files]]

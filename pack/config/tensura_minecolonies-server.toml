@@ -1,0 +1,33 @@
+#Enable the ENTIRE faction + diplomacy system (rival colonies,
+#settlement generation, diplomacy envoys/deals/trades, warfare and
+#conquest, lore raids like the Orc Disaster, and marked-boss world
+#reputation). This is the only switch — there is no gamerule/command.
+#DEFAULT false = the whole faction layer is off and inaccessible;
+#the core mod (Tensura mobs as citizens, race envoys, colony
+#reputation, generic raids, barrier, assassins) is unaffected.
+#This is a per-world setting: after changing it, reload the world to apply.
+enableFactionSystem = false
+#Enable the colony defense form-swap: during a raid, strong non-guard
+#Tensura-race citizens transform into their monster body and fight with
+#skills, then change back when the raid ends. false = citizens never
+#transform to fight (guards still guard; others flee as MineColonies
+#normally handles it); any citizen already transformed reverts next tick.
+#This is a per-world setting: after changing it, reload the world to apply.
+enableDefenseSwap = false
+#Enable generic reputation-triggered raids: when a colony's standing falls
+#below Neutral, hostile Tensura mobs may raid it at nightfall. false = these
+#raids never trigger (a raid already underway still finishes; the debug
+#command still works). Does not affect the faction system's lore raids like
+#the Orc Disaster (those follow the faction-system switch).
+#This is a per-world setting: after changing it, reload the world to apply.
+enableRaids = false
+#Protect colony blocks from Tensura giant mobs (Orc Lord, Charybdis, etc.)
+#that break blocks by walking into them. true (default) = these mobs cannot
+#break blocks inside a colony's claimed area. false = no protection added
+#(they break blocks as vanilla Tensura allows). Applies immediately.
+protectColoniesFromMobGriefing = true
+#Protect colony blocks from Tensura terraforming skills (Earth Manipulation,
+#Molecular Manipulation, Fusionist, Degenerate, etc.). true (default) = these
+#skills cannot break blocks inside a colony's claimed area. false = no
+#protection added (they grief as vanilla Tensura allows). Applies immediately.
+protectColoniesFromSkillGriefing = true

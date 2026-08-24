@@ -73,3 +73,22 @@ KNOWN ISSUES: Great Sage `needGreatSage` is a world gamerule and must be set aut
 COMMIT: Add Tensura boss and mimicry systems
 NEXT PHASE: Civilization and magic compatibility branch
 ```
+
+## Phase 3 — Civilization and magic
+
+```text
+PHASE: 3 — Nation building and mage integration
+STATUS: PASS
+ADDED: MineColonies 1.1.1319, Structurize 1.0.830, Multi-Piston 1.2.51, BlockUI 1.0.209, Domum Ornamentum 1.0.231, Tensura x MineColonies 0.2.2, Nightmare Utils 0.1.2, MineColonies Mages 2.3, Iron's Spells 'n Spellbooks 3.16.3, Tensura Compat: Iron's Spells 2.0.0.0, Iron's Lib 2.1.0, Player Animator 2.0.4, Curios API Continuation 9.0.15
+REMOVED: None
+VERSION CHANGES: Civilization and magic dependency floors resolved to exact tested 1.21.1 NeoForge artifacts
+DEPENDENCIES: Complete MineColonies and Iron's Spells runtime stacks installed; Nightmare Utils retained only as the required Tensura x MineColonies library
+CONFIGURATION: 141 reviewed files; colony force-loading disabled; citizen, raid, pathfinding, schematic-operation, griefing, experimental warfare, and Nightmare library-content limits locked by validation
+CLIENT START: PASS — full renderer/resource/sound initialization, MineColonies and BlockUI atlases, mage model registration, Build Tool browser, Town Hall preview, placement dispatch, and colony-start advancement
+SERVER START: PASS — isolated MineColonies and bridge sub-batches, complete 37-artifact clean world, five repeated configured cold starts, warm restart, flushed saves, and clean shutdowns
+TESTS: Exact artifact/hash verification; dependency audit; 141/141 config reconstruction; Tensura bridge setup; mage recruitment hook registration; graphical client smoke; representative Build Tool and schematic placement flow
+WARNINGS: The official Nightmare Utils 0.1.2 file reports internal version 0.1.0; MineColonies Mages uses its building-level fallback and logs missing optional mage citizen sound events; Structurize emits a first-run main-folder warning before registering style packs
+KNOWN ISSUES: Automated client focus control pauses integrated-server time, so persistent colony state and long-running citizen AI remain later integrated gameplay gates rather than Phase 3 acceptance gates
+COMMIT: Add Tensura nation building and mage integration
+NEXT PHASE: Gear, storage, adventure, world, performance, and client-quality subsystems
+```
