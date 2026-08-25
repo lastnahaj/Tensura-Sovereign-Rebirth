@@ -65,14 +65,19 @@
 | Mod | Version | Status | Notes |
 |---|---|---|---|
 | Silent Gear | 4.2.1.1 | LOCK |  |
+| Silent Lib | 10.6.0 | DEPENDENCY | Required by Silent Gear. |
 | Productive Metalworks | 1.15.1 | LOCK |  |
 | Silent Gear Metalworks | 1.5.0 | LOCK |  |
-| Sophisticated Core | Match pinned Sophisticated Storage/Backpacks releases | DEPENDENCY |  |
+| TSR Silent Gear Metalworks Compat | 1.0.0 | DEPENDENCY | Required while Silent Gear Metalworks is active without Silent Gems; replaces only the affected fluid unit map and verifies all installed mappings at data-map reload. |
+| Ponder | 1.0.81+mc1.21.1 | DEPENDENCY | Exact official Create Maven artifact installed explicitly so its NeoForge platform service is discoverable during client setup. The artifact is on CurseForge's approved third-party list. |
+| Flywheel | 1.0.4-30 | EMBEDDED-DEPENDENCY | Productive Metalworks supplies the exact official artifact through NeoForge JarJar; client discovery and rendering passed without a redistributed standalone copy. |
+| Sophisticated Core | 1.4.89.2291 | DEPENDENCY | Exact shared dependency for the pinned Sophisticated Storage and Backpacks releases. |
 | Sophisticated Backpacks | 3.25.78.2107 | LOCK |  |
 | Sophisticated Storage | 1.5.91.2127 | LOCK |  |
 | Tom's Simple Storage | 2.4.1 (1.21.x NeoForge) | LOCK-STRIPPED | Expose only Storage/Crafting Terminals, wireless terminals/items, and the minimum connector/link infrastructure required. Disable/hide the rest. |
 | Almost Unified | 1.4.2 | LOCK |  |
 | KubeJS | 2101.7.2-build.368 | LOCK | Pack scripting, recipe removal/hiding/gating, small integrations. |
+| Rhino | 2101.2.7-build.81 | DEPENDENCY | Exact KubeJS JavaScript runtime. |
 | Polymorph | 1.1.0+1.21.1 | LOCK |  |
 
 ## Adventure, Bosses & World

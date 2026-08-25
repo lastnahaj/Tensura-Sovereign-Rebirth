@@ -14,6 +14,8 @@
 | Tensura | Sophisticated Backpacks | Gear Evolution + Backpack Expansion; core |
 | Gear Evolution | Apotheosis | Not used; Apotheosis excluded |
 | Sophisticated Storage | Tom's | Sophisticated = storage, Tom's = terminal/wireless only |
+| Silent Gear Metalworks 1.5.0 | Productive Metalworks 1.15.1 without Silent Gems | REQUIRED with TSR Silent Gear Metalworks Compat 1.0.0; seven installed Silent Gear fluids retained, 21 unavailable Silent Gems fluids conditionally excluded, upstream artifacts unmodified |
+| Productive Metalworks client | Ponder 1.0.81 / Flywheel 1.0.4-30 | Ponder installed from the exact approved upstream artifact; Flywheel retained as Productive Metalworks' byte-verified embedded dependency; nested-only Ponder discovery leaves its NeoForge platform service unavailable during common setup |
 | Great Sage | Jade | Jade configured not to spoil Tensura analysis |
 | SlimeThrone | FTB Quests | SlimeThrone = repeatable/prestige, FTB = handcrafted campaign |
 | Ascension | External bosses | Ascension scaling used where supported |

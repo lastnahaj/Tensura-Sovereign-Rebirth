@@ -19,6 +19,18 @@ EXPECTED = {
 PACK_OWNED_JARS = {
     Path("pack/mods/tsr-unique-monsters-compat-1.0.0.jar"):
         "e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65",
+    Path("pack/mods/tsr-sgear-metalworks-compat-1.0.0.jar"):
+        "57155d3ffe03155029bb3c04b09fbb1b2a1e427cb9c5ef7f32a64af601d20514",
+}
+DIRECT_DEPENDENCIES = {
+    Path("mods/ponder.pw.toml"): {
+        "name": "Ponder",
+        "filename": "ponder-neoforge-1.0.81+mc1.21.1.jar",
+        "side": "both",
+        "url": "https://maven.createmod.net/net/createmod/ponder/ponder-neoforge/1.0.81%2Bmc1.21.1/ponder-neoforge-1.0.81%2Bmc1.21.1.jar",
+        "hash-format": "sha256",
+        "hash": "b94099a82d51fa378f6ce30d788ca3f8cf0699fe16bbb536b516b03025301a42",
+    },
 }
 ALLOWED_TOOL_JARS = {
     Path("compat/tsr-unique-monsters-compat/gradle/wrapper/gradle-wrapper.jar"),
@@ -55,6 +67,24 @@ REQUIRED_PHASE_3_CONFIGS = {
     Path("tensura/iron_spell_config.toml"),
     Path("tensura_minecolonies-common.toml"),
     Path("tensura_minecolonies-server.toml"),
+}
+REQUIRED_PHASE_4_CONFIGS = {
+    Path("almostunified/duplicates.json"),
+    Path("almostunified/startup.json"),
+    Path("almostunified/tags.json"),
+    Path("almostunified/unification/materials.json"),
+    Path("gearevolution-common.toml"),
+    Path("productivelib-server.toml"),
+    Path("productivemetalworks-common.toml"),
+    Path("silentgear-common.toml"),
+    Path("sophisticatedbackpacks-common.toml"),
+    Path("sophisticatedbackpacks-server.toml"),
+    Path("sophisticatedcore-common.toml"),
+    Path("sophisticatedstorage-common.toml"),
+    Path("sophisticatedstorage-server.toml"),
+    Path("tenmetalworks-common.toml"),
+    Path("toms_storage-common.toml"),
+    Path("toms_storage-server.toml"),
 }
 
 
@@ -129,9 +159,27 @@ for relative, expected_hash in PACK_OWNED_JARS.items():
     elif sha256(artifact) != expected_hash:
         errors.append(f"Pack-owned JAR hash changed: {relative}")
 
+for relative, expected in DIRECT_DEPENDENCIES.items():
+    metadata_path = PACK / relative
+    try:
+        metadata = tomllib.loads(metadata_path.read_text(encoding="utf-8"))
+    except (OSError, tomllib.TOMLDecodeError) as exc:
+        errors.append(f"Invalid direct dependency metadata {relative}: {exc}")
+        continue
+    actual = {
+        "name": metadata.get("name"),
+        "filename": metadata.get("filename"),
+        "side": metadata.get("side"),
+        "url": metadata.get("download", {}).get("url"),
+        "hash-format": metadata.get("download", {}).get("hash-format"),
+        "hash": metadata.get("download", {}).get("hash"),
+    }
+    if actual != expected:
+        errors.append(f"Direct dependency lock changed: {relative}")
+
 config_files = [path for path in CONFIG.rglob("*") if path.is_file()]
-if len(config_files) < 141:
-    errors.append(f"Expected at least 141 promoted config files; found {len(config_files)}")
+if len(config_files) < 159:
+    errors.append(f"Expected at least 159 promoted config files; found {len(config_files)}")
 
 for relative in sorted(REQUIRED_PHASE_2_CONFIGS):
     if not (CONFIG / relative).is_file():
@@ -140,6 +188,10 @@ for relative in sorted(REQUIRED_PHASE_2_CONFIGS):
 for relative in sorted(REQUIRED_PHASE_3_CONFIGS):
     if not (CONFIG / relative).is_file():
         errors.append(f"Missing reviewed Phase 3 config: {relative}")
+
+for relative in sorted(REQUIRED_PHASE_4_CONFIGS):
+    if not (CONFIG / relative).is_file():
+        errors.append(f"Missing reviewed Phase 4 config: {relative}")
 
 for path in config_files:
     try:
@@ -317,6 +369,118 @@ try:
         errors.append("Iron's Spells terrain griefing must remain disabled")
 except (OSError, tomllib.TOMLDecodeError) as exc:
     errors.append(f"Invalid Iron's Spells server config: {exc}")
+
+try:
+    toms_storage = tomllib.loads(
+        (CONFIG / "toms_storage-server.toml").read_text(encoding="utf-8")
+    )
+    expected_toms_storage = {
+        "inventoryConnectorRange": 12,
+        "invCableConnectorMaxScanSize": 256,
+        "wirelessReach": 12,
+        "advWirelessRange": 64,
+        "wirelessTermBeaconLvl": -1,
+        "wirelessTermBeaconLvlDim": -1,
+        "invLinkBeaconLvl": -1,
+        "invLinkBeaconRange": 128,
+        "invLinkBeaconLvlSameDim": -1,
+        "invLinkBeaconLvlCrossDim": -1,
+        "runMultithreaded": False,
+    }
+    for key, expected in expected_toms_storage.items():
+        if toms_storage.get(key) != expected:
+            errors.append(f"Tom's Storage {key} must remain {expected!r}")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Tom's Storage server config: {exc}")
+
+try:
+    productive_metalworks = tomllib.loads(
+        (CONFIG / "productivemetalworks-common.toml").read_text(encoding="utf-8")
+    )
+    expected_foundry_limits = {
+        "foundryMaxVolume": 256,
+        "foundryMaxCircumference": 96,
+        "foundryMaxHeight": 12,
+        "foundryRenderInventory": False,
+    }
+    for key, expected in expected_foundry_limits.items():
+        if productive_metalworks.get(key) != expected:
+            errors.append(f"Productive Metalworks {key} must remain {expected!r}")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Productive Metalworks config: {exc}")
+
+try:
+    silent_gear = tomllib.loads(
+        (CONFIG / "silentgear-common.toml").read_text(encoding="utf-8")
+    )
+    if silent_gear.get("item", {}).get("blueprint", {}).get("spawn_with_starter_blueprints") is not False:
+        errors.append("Silent Gear starter blueprints must remain disabled")
+    if silent_gear.get("item", {}).get("material_book", {}).get("spawn_with_material_book") is not False:
+        errors.append("Silent Gear starter material book must remain disabled")
+except (OSError, tomllib.TOMLDecodeError) as exc:
+    errors.append(f"Invalid Silent Gear config: {exc}")
+
+toms_script_path = PACK / "kubejs" / "server_scripts" / "toms_terminal_only.js"
+try:
+    toms_script = toms_script_path.read_text(encoding="utf-8")
+    disabled_toms_recipes = set(re.findall(r"'toms_storage:([^']+)'", toms_script))
+    expected_disabled_toms_recipes = {
+        "basic_inventory_hopper",
+        "filing_cabinet",
+        "inventory_cable_connector_framed",
+        "inventory_cable_connector_framed_clean",
+        "inventory_cable_framed",
+        "inventory_cable_framed_clean",
+        "inventory_configurator",
+        "inventory_interface",
+        "inventory_proxy",
+        "inventory_proxy_clean",
+        "item_filter",
+        "level_emitter",
+        "open_crate",
+        "paint_kit",
+        "poly_item_filter",
+        "tag_item_filter",
+        "trim",
+        "trim_clean",
+    }
+    if disabled_toms_recipes != expected_disabled_toms_recipes:
+        errors.append("Tom's terminal-only recipe policy changed")
+except OSError as exc:
+    errors.append(f"Invalid Tom's terminal-only script: {exc}")
+
+unit_map_path = PACK / "kubejs" / "data" / "productivemetalworks" / "data_maps" / "fluid" / "unit_map.json"
+try:
+    unit_map = json.loads(unit_map_path.read_text(encoding="utf-8"))
+    unit_values = unit_map.get("values", {})
+    if unit_map.get("replace") is not True:
+        errors.append("Metalworks fluid unit map must replace lower-priority contributions")
+    if len(unit_values) != 76:
+        errors.append(f"Metalworks fluid unit map must contain 76 source entries; found {len(unit_values)}")
+    required_sgear_fluids = {
+        "sgearmetalworks:molten_azure_electrum",
+        "sgearmetalworks:molten_azure_silver",
+        "sgearmetalworks:molten_blaze_gold",
+        "sgearmetalworks:molten_crimson_iron",
+        "sgearmetalworks:molten_crimson_steel",
+        "sgearmetalworks:molten_tyrian_steel",
+        "sgearmetalworks:molten_uru_metal",
+    }
+    missing_sgear_fluids = sorted(required_sgear_fluids - set(unit_values))
+    if missing_sgear_fluids:
+        errors.append("Missing installed Silent Gear fluid mappings: " + ", ".join(missing_sgear_fluids))
+    silent_gems_conditions = [
+        value.get("neoforge:conditions")
+        for key, value in unit_values.items()
+        if key.startswith("sgearmetalworks:") and key not in required_sgear_fluids
+    ]
+    if len(silent_gems_conditions) != 21 or any(
+        conditions != [{"type": "neoforge:mod_loaded", "modid": "silentgems"}]
+        for conditions in silent_gems_conditions
+    ):
+        errors.append("All 21 optional Silent Gems fluid mappings must remain conditionally gated")
+except (OSError, json.JSONDecodeError) as exc:
+    errors.append(f"Invalid Metalworks fluid unit map: {exc}")
 
 if errors:
     raise SystemExit("Pack validation failed:\n- " + "\n- ".join(errors))

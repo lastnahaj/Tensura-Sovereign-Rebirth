@@ -1,0 +1,11 @@
+[systems]
+	#If true, Silent Gear tools and weapons made from supported materials receive Tensura EP.
+	enableSilentGearEpBridge = true
+	#If true, Tenmetalworks gear receives Tensura EP.
+	enableCustomGearEp = true
+	#If true, Tenmetalworks gear and supported Silent Gear parts receive automatic Tensura engravings.
+	enableAutoEngravings = true
+	#If true, full Dragotite and Starheart armor sets grant creative-style flight.
+	enableArmorFlight = true
+	#If true, Tenmetalworks systems can print extra debug logs.
+	enableDebugLogs = false

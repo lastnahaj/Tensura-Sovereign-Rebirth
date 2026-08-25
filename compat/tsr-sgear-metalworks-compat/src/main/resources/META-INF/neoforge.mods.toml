@@ -1,0 +1,47 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "tsr_sgear_metalworks_compat"
+version = "1.0.0"
+displayName = "TSR Silent Gear Metalworks Compat"
+authors = "TSR Team"
+description = '''
+Pack compatibility data for Silent Gear Metalworks and Productive Metalworks.
+'''
+
+[[dependencies.tsr_sgear_metalworks_compat]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.248]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tsr_sgear_metalworks_compat]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tsr_sgear_metalworks_compat]]
+modId = "productivemetalworks"
+type = "required"
+versionRange = "[1.21.1-1.15.1]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.tsr_sgear_metalworks_compat]]
+modId = "silentgear"
+type = "required"
+versionRange = "[4.2.1.1]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.tsr_sgear_metalworks_compat]]
+modId = "sgearmetalworks"
+type = "required"
+versionRange = "[1.21.1-1.5.0]"
+ordering = "AFTER"
+side = "BOTH"

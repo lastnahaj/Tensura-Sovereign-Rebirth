@@ -6,6 +6,8 @@
 - Added the first core Tensura progression tranche and retained the official Unique Monsters 1.0.2 artifact with a narrow compatibility layer for deterministic ManasCore skill registration.
 - Added Great Sage, TenSura Guild, Skill Books, Utilities Manager, the complete boss layer, and the TensuraMorph/ReMorphed integration stack with reviewed client and server configuration.
 - Added the pinned MineColonies nation-building branch, Iron's Spells integration, and mage-citizen compatibility with conservative colony, schematic, griefing, and experimental-feature defaults.
+- Added the complete Gear Evolution, forging, backpack, physical storage, and terminal-access layer with conservative foundry, scan, and wireless limits.
+- Added a narrow Silent Gear Metalworks compatibility layer for runtimes without Silent Gems and pinned Ponder explicitly for deterministic client setup while retaining Productive Metalworks' verified embedded Flywheel.
 
 ## TSR v0.1 — Design Freeze
 

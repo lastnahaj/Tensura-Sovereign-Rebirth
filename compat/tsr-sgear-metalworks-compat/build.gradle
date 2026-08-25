@@ -1,0 +1,92 @@
+import java.security.MessageDigest
+
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.144'
+}
+
+version = mod_version
+
+base {
+    archivesName = 'tsr-sgear-metalworks-compat'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = '21.1.248'
+
+    mods {
+        tsr_sgear_metalworks_compat {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+def runtimeModsDir = providers.gradleProperty('runtimeModsDir')
+        .orElse(providers.environmentVariable('TSR_RUNTIME_MODS_DIR'))
+        .map { file(it) }
+        .getOrElse(rootProject.file('../../.build/server-phase4-gear-test/mods'))
+
+def runtimeInputs = [
+        'productivemetalworks-1.21.1-1.15.1.jar'       : '100132424f9659b76fd1326a8f0068a58b91d6d94351d47484b5b9cee394e812',
+        'sgearmetalworks-1.21.1-1.5.0.jar'              : 'a8d3512f94cf4df1c2f5881dd59401b754f30d352e96b3c49772cebd527a2615',
+        'silent-gear-1.21.1-neoforge-4.2.1.1.jar'       : 'd24d5f4794b069941845c1bde30475f8ea6066635ddb1139d706f6a627b4c0f3'
+]
+
+def correctedUnitMap = rootProject.file('../../pack/kubejs/data/productivemetalworks/data_maps/fluid/unit_map.json')
+
+dependencies {
+    compileOnly files(new File(runtimeModsDir, 'productivemetalworks-1.21.1-1.15.1.jar'))
+}
+
+tasks.register('verifyInputs') {
+    inputs.files(runtimeInputs.keySet().collect { new File(runtimeModsDir, it) })
+    inputs.file(correctedUnitMap)
+
+    doLast {
+        runtimeInputs.each { filename, expectedHash ->
+            def artifact = new File(runtimeModsDir, filename)
+            if (!artifact.isFile()) {
+                throw new GradleException("Required runtime artifact is missing: ${filename}")
+            }
+
+            def digest = MessageDigest.getInstance('SHA-256')
+            artifact.withInputStream { input ->
+                byte[] buffer = new byte[8192]
+                int read
+                while ((read = input.read(buffer)) != -1) {
+                    digest.update(buffer, 0, read)
+                }
+            }
+            def actualHash = digest.digest().encodeHex().toString()
+            if (actualHash != expectedHash) {
+                throw new GradleException("Runtime artifact hash mismatch for ${filename}: ${actualHash}")
+            }
+        }
+    }
+}
+
+tasks.named('compileJava') {
+    dependsOn tasks.named('verifyInputs')
+}
+
+tasks.named('processResources') {
+    from(rootProject.file('../../pack/kubejs')) {
+        include 'data/productivemetalworks/data_maps/fluid/unit_map.json'
+        into 'datapack'
+    }
+}
+
+tasks.named('jar') {
+    preserveFileTimestamps = false
+    reproducibleFileOrder = true
+
+    manifest {
+        attributes([
+                'FMLModType'            : 'MOD',
+                'Implementation-Title'  : 'TSR Silent Gear Metalworks Compat',
+                'Implementation-Version': mod_version
+        ])
+    }
+}

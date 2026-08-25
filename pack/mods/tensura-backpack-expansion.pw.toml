@@ -1,0 +1,13 @@
+name = "Tensura Backpack Expansion"
+filename = "tensura_backpack_items-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd39720b5d1904ff1f7a1cf152c1a2c6623cec5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8099939
+project-id = 1545102

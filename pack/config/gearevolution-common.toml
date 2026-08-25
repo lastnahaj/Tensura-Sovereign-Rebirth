@@ -1,0 +1,185 @@
+#Tensura Gear Evolution common settings.
+#These apply globally to the current installation or server, not per-world.
+#
+#Difficulty cheat-sheet:
+#  Easier EP: raise killEpMultiplier / miningEpMultiplier / baseMiningEP, or lower thresholdMultiplier.
+#  Harder EP: lower those multipliers or raise thresholdMultiplier.
+#  Flatter gear stats: disable enableStatScaling, or set statScaling*AmountMultiplier below 1.0.
+#  Stronger within-tier weapon/armor bumps: enableStatScaling + raise statScalingMeleeAmountMultiplier / statScalingArmorAmountMultiplier.
+#  Optional power layers (off by default): enableTraits, enableSetBonuses, enableAwakening, enableContextEpModifiers.
+[general]
+	#When true, bundled gear gets small attribute bonuses at ~25%, ~50%, and ~75% of current tier max EP.
+	#Tensura still applies its own EP and evolution rules; this only adds milestone modifiers from addon data.
+	#Default is false for safer public balance; existing config files keep their saved value.
+	enableStatScaling = false
+	#Multiplies attack_damage from those milestones (bundled chains). 1.0 = designed defaults.
+	#Changing this updates the addon's owned milestone modifiers when tracked gear is reconciled (re-equip it, mine once, or rejoin).
+	#Very high damage on weapons usually stacks with Tensura base stats, traits, and other mods—lower this to tame milestone contribution.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	statScalingMeleeAmountMultiplier = 1.0
+	#Multiplies armor attribute from milestone bonuses (bundled chains). 1.0 = designed defaults.
+	#Same apply-once behavior as statScalingMeleeAmountMultiplier.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	statScalingArmorAmountMultiplier = 1.0
+	#Multiplier for EP gained from mob kills (1.0 = default TR rate)
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	killEpMultiplier = 1.0
+	#Multiplier for EP gained per block break with tracked tools
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	miningEpMultiplier = 1.0
+	#Base EP granted per block break to a tracked mining tool (main hand first, else off-hand)
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
+	baseMiningEP = 2.0
+	#When true, supported axes gain mining EP from blocks tagged minecraft:mineable/axe.
+	#Turning this off disables only axe harvesting EP; axe combat EP remains enabled by its family setting.
+	enableAxeHarvestingEp = true
+	#Scales max EP for the current tier and the EP thresholds inside unique evolution milestones.
+	#Larger = longer time at each tier before evolving; does not multiply milestone attribute amounts (use statScaling*AmountMultiplier for that).
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	thresholdMultiplier = 1.0
+	#custom = use kill/mining/base/threshold from this file; vanilla_like | progression_heavy | fast_track overwrites only those four at load.
+	#Presets do not change statScaling*AmountMultiplier, traits, sets, or awakening—tune those separately.
+	balancePreset = "custom"
+
+#Enable or disable addon-owned evolution families
+[families]
+	#Leather -> Chainmail -> Iron -> Diamond -> Netherite -> Low Magisteel armor bridge
+	enableArmorChains = true
+	#Golden armor -> Silver armor -> Mithril armor plus plain silver weapon -> mithril side paths
+	enableGoldSilverArmorBranch = true
+	#Vanilla sword and axe bridge into Tensura magisteel tiers
+	enableSwordAndAxeChains = true
+	#Vanilla pickaxe, shovel, and hoe bridge into Tensura magisteel tiers
+	enableToolChains = true
+	#Crafted Tensura weapon families like great swords, katanas, spears, scythes, and related variants
+	enableTensuraWeaponFamilyChains = true
+	#Regular bow -> short bow -> long bow -> war bow bridge
+	enableBowChains = true
+	#Spider bow -> short spider bow -> long spider bow -> war spider bow bridge
+	enableSpiderBowChains = true
+	#Crossbow -> ant crossbow bridge
+	enableCrossbowChain = true
+	#Trident -> low magisteel spear bridge
+	enableTridentSpearChain = true
+	#Sophisticated Backpacks leather -> copper -> iron -> gold -> diamond -> netherite EP ladder (optional mod)
+	enableSophisticatedBackpackChains = true
+	#Traveler's Backpack standard -> iron -> gold -> diamond -> netherite EP ladder (optional mod)
+	enableTravelersBackpackChains = true
+	#Simply Swords material weapon ladders and unique weapon EP tracks (optional mod)
+	enableSimplySwordsChains = true
+	#Ice and Fire Community Edition bundled tool, armor, and weapon EP tracks (optional mod; mod id iceandfire)
+	enableIceAndFireChains = true
+	#Load extra or overriding chains from datapacks at data/<namespace>/addon_chains/*.json
+	#Datapack definitions override builtin chains for the same item id when enabled.
+	enableDatapackChainExtensions = true
+	#When addon chains provide evolutionOptions, resolve and use a branch target
+	enableBranchingEvolutions = true
+	#Branch strategy for evolutionOptions: first | deterministic_random | weighted_random | family_preference | locked_by_tag
+	branchingDefaultStrategy = "first"
+	#If true, weighted_random uses a deterministic roll per source item id
+	branchingUseDeterministicSeed = false
+
+#Evolution traits (random affix on tier evolution)
+[traits]
+	#When true, gear may roll a trait from data/gearevolution/trait_definitions.json after evolution
+	enableTraits = false
+	#Maximum stored traits per item
+	# Default: 3
+	# Range: 1 ~ 16
+	traitMaxTraits = 3
+	#Independent roll per evolution (0.0 = never, 1.0 = always if pool non-empty)
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	traitRollChance = 0.35
+	#Reserved for future reroll mechanics
+	traitAllowReroll = false
+
+#Tool specializations (fortune/speed style identity at higher tiers)
+[tools]
+	#When true, a tool may roll a specialization choice (scopes trait pool for that tool)
+	enableToolSpecializations = false
+	#When the evolved tool reaches MAX_EP >= this value, its specialization is chosen once
+	# Default: 5000
+	# Range: 0 ~ 100000
+	toolSpecializationTierMaxEP = 5000
+
+#Set synergy (loadout bonuses from data/gearevolution/set_definitions.json)
+[sets]
+	#When true, matching armor pieces grant player attribute bonuses per set_definitions thresholds
+	enableSetBonuses = false
+	#Minimum equipped set members (armor slots) before that set's bonuses apply
+	# Default: 2
+	# Range: 1 ~ 4
+	requiredPieces = 2
+	#When 2+ different sets are active at once, multiply all set bonus amounts by this (1.0 = no penalty)
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	crossFamilyPenalty = 1.0
+
+#Evolution milestone gates (data/gearevolution/milestone_gates.json)
+[milestones]
+	#When true, mining EP fallback evolution and inspect respect kill_count / biome rules on gated transitions
+	enableMilestones = false
+	#If true, rule types not listed in allowedTypes block evolution instead of being skipped
+	strictMode = false
+	#Comma-separated: kill_count, biome, dimension, y_below, y_above, block_break_count, inside_structure, near_structure (empty = all known types allowed)
+	allowedTypes = "kill_count,biome,dimension,y_below,y_above,block_break_count,inside_structure,near_structure"
+
+#Context EP modifiers (data/gearevolution/context_ep_modifiers.json)
+[epModifiers]
+	#When true, mining EP is multiplied by matching rows; mob kills add bonus EP = EP_GAIN * (product - 1) when product > 1
+	enableContextModifiers = false
+	#Maximum product of stacked matching rows; set 0 to disable the cap
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	maxStackedMultiplier = 10.0
+
+#Within-tier awakening (prestige EP reset + EP_GAIN bonus; /gearevolution awaken)
+[awakening]
+	#When true, players can use /gearevolution awaken at max EP to reset EP toward minEp and gain a stacking EP_GAIN bonus (same tier)
+	enableAwakening = false
+	#Maximum awakenings per item
+	# Default: 5
+	# Range: 0 ~ 64
+	maxAwakenings = 5
+	#Per awakening: linear adds bonus × count; sqrt uses bonus × sqrt(count); diminishing uses bonus × count/(1+count)
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	epGainBonusPerLevel = 0.08
+	#linear | sqrt | diminishing
+	scalingCurve = "linear"
+	#Hard cap on awakening EP_GAIN multiplier (set 0 to disable cap)
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	maxGainMultiplier = 4.0
+
+#Optional corruption / challenge (only when evolution milestones are OFF)
+[challenge]
+	#When true and enableMilestones is false: if a milestone gate exists for the transition and rules would block,
+	#each successful evolution rolls backlashChance — on hit, apply brief slowness/weakness and EP loss on the new stack
+	enableCorruptionMode = false
+	#Probability 0.0–1.0 when a hypothetical gate would block but evolution proceeded
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	backlashChance = 0.35
+	#Multiply evolved stack EP by (1 - fraction) on backlash (min factor 0.05)
+	# Default: 0.2
+	# Range: 0.0 ~ 0.95
+	epLossFraction = 0.2
+	#Duration of weakness + slowness on the player (ticks)
+	# Default: 100
+	# Range: 20 ~ 6000
+	effectDurationTicks = 100
+
+#Debugging controls
+[debug]
+	#Log addon-driven initialization, mining EP gain, and evolution steps to the console
+	enableDebugLogging = false
+	#Default /gearevolution inspect output to verbose mode
+	verboseInspectDefault = false

@@ -92,3 +92,22 @@ KNOWN ISSUES: Automated client focus control pauses integrated-server time, so p
 COMMIT: Add Tensura nation building and mage integration
 NEXT PHASE: Gear, storage, adventure, world, performance, and client-quality subsystems
 ```
+
+## Phase 4A — Gear, forging, and storage
+
+```text
+PHASE: 4A — Gear, forging, and storage
+STATUS: PASS
+ADDED: Tensura Gear Evolution 1.2.5, Tensura Metalworks 1.0.4, Silent Gear 4.2.1.1, Silent Lib 10.6.0, Productive Metalworks 1.15.1, Silent Gear Metalworks 1.5.0, TSR Silent Gear Metalworks Compat 1.0.0, Ponder 1.0.81, Flywheel 1.0.4-30 (embedded), Sophisticated Core 1.4.89.2291, Sophisticated Backpacks 3.25.78.2107, Tensura Backpack Expansion 1.0.4, Sophisticated Storage 1.5.91.2127, Tom's Simple Storage 2.4.1, Almost Unified 1.4.2, KubeJS 2101.7.2-build.368, Rhino 2101.2.7-build.81, Polymorph 1.1.0+1.21.1
+REMOVED: None
+VERSION CHANGES: Gear and storage dependency floors resolved to exact tested 1.21.1 NeoForge artifacts
+DEPENDENCIES: Ponder installed as the exact approved official Create Maven artifact; Flywheel supplied by Productive Metalworks as its byte-verified embedded dependency; TSR Silent Gear Metalworks Compat required while Silent Gems is absent
+CONFIGURATION: 159 reviewed files; foundry size/rendering limits, Silent Gear starter policy, Tom's scan/wireless limits, terminal-only recipe policy, optional recipe gates, and material unification locked by validation
+CLIENT START: PASS — renderer, complete resource reload, sound engine, and normal close; strict post-run scan found no fatal, broken-state, construction, event, or platform-service failures
+SERVER START: PASS — clean new-world start completed in 7.464 seconds after resource load; saved-world restart completed in 1.504 seconds; both flushed every dimension and shut down cleanly
+TESTS: Exact artifact/hash verification; upstream-vs-nested dependency byte comparison; 159/159 config reconstruction; corrected 76-entry fluid map verification; recipe processing; new-world generation; save/restart; graphical client smoke with fatal-state rejection
+WARNINGS: Four Silent Gear grip/binding KubeJS recipe parser warnings fall back to vanilla; CraftedCore's obsolete supporter-list URL returns 404; standalone Ponder selection produces the expected NeoForge JarJar source-selection warning
+KNOWN ISSUES: Long-duration equipment evolution, foundry throughput, backpack component retention, and multiplayer storage contention remain integrated gameplay gates before release candidate freeze
+COMMIT: Add TSR gear and storage systems
+NEXT PHASE: Adventure, dimensions, decoration, terrain, and staged structure candidates
+```

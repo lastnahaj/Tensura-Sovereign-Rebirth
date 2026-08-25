@@ -9,6 +9,7 @@ from pathlib import Path
 
 
 ALLOWED_RUNTIME_FILES = {
+    Path("almostunified/.gitignore"),
     Path("craftedcore/cache/patreons.txt"),
     Path("fml.toml"),
     Path("neoforge-client.toml"),

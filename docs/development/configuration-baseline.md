@@ -46,3 +46,19 @@ The following server-stability rules are locked in validation:
 - MineColonies Mages uses the native flow when exposed and requires its combat research and progression anchor. With no native mage building ID in the tested build, its registered barracks fallback is the accepted baseline.
 
 The complete 37-artifact runtime passed five configured clean-world starts, a warm restart, clean saves and shutdowns, 141/141 semantic config reconstruction, and a graphical client start. Representative client interaction also verified the MineColonies Build Tool browser, Town Hall schematic preview, placement dispatch, and colony-start advancement. Persistent colony state and long-running citizen AI remain later integrated gameplay checks because automated focus changes pause the integrated server.
+
+## Phase 4A baseline
+
+The gear and storage layer expands the reviewed tree to 159 files. It adds Gear Evolution, Tensura Metalworks, Silent Gear, Productive Metalworks, Silent Gear Metalworks, the Sophisticated storage family, Tensura Backpack Expansion, Tom's Simple Storage, Almost Unified, KubeJS, Rhino, and Polymorph configuration.
+
+The following stability and progression rules are locked in validation:
+
+- Productive Metalworks foundries are limited to 256 blocks of volume, 96 blocks of circumference, and 12 blocks of height. Foundry inventory rendering is disabled.
+- Silent Gear does not grant starter blueprints or its material book automatically.
+- Tom's inventory connectors scan no farther than 12 blocks and no more than 256 positions. Basic wireless access is limited to 12 blocks, advanced access to 64 blocks, link range to 128 blocks, beacon-based unlimited or cross-dimensional access is disabled, and multithreaded scanning remains off.
+- Eighteen non-terminal Tom's recipes are removed. The seven core terminal, wireless, connector, and link recipes remain available.
+- Eleven pack-owned recipe overrides gate optional integrations that are not installed. Almost Unified owns duplicate-material normalization.
+- TSR Silent Gear Metalworks Compat replaces only the affected Productive Metalworks fluid-unit map. It preserves the full upstream baseline, retains seven installed Silent Gear molten-fluid mappings, conditionally excludes 21 Silent Gems mappings, and verifies the effective map after reload.
+- Ponder 1.0.81 is an explicit, hash-locked upstream dependency because a nested-only client does not discover its NeoForge platform service reliably. Productive Metalworks' embedded Ponder is byte-identical. Its embedded Flywheel 1.0.4-30 is also byte-identical to the official upstream artifact and passes client discovery without a standalone copy.
+
+The complete Phase 4A runtime passed a clean dedicated-server world creation, flushed save, clean shutdown, saved-world restart, 159/159 semantic config reconstruction, and a graphical client launch with fatal-state log rejection. The only recurring error is CraftedCore's obsolete supporter-list URL, which does not affect construction or gameplay.
