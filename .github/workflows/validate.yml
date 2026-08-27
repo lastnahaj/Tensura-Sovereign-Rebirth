@@ -30,5 +30,11 @@ jobs:
       - name: Validate documentation links
         run: python scripts/validate_docs.py
 
+      - name: Validate generated Tensura reference
+        run: python scripts/wiki/check_reference.py
+
       - name: Build documentation strictly
         run: mkdocs build --strict
+
+      - name: Validate rendered site links
+        run: python scripts/wiki/check_built_site.py
