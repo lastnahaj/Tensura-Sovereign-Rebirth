@@ -13,17 +13,36 @@ tags:
 
 **Also known as:** Items/Armours/Monster Leather Leggings (Special A)
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-leggings-special-a-6cddcbf0ff.png" alt="Monster Leather Leggings (Special A) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtainable through killing mobs while having Monster Leather Leggings (A) in your offhand or equiped</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Monster_Leather_Leggings_(Special_A)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Monster Leather Leggings (Special A)</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Leggings_(Special_A).png"><img alt="Monster Leather Leggings (Special A).png: Infobox image for Monster Leather Leggings (Special A) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/monster-leather-leggings-special-a-ebdaba85b7.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Monster Leather Leggings (Special A)"><a href="./" title="Monster Leather Leggings (Special A)"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -93,11 +112,59 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../monster-leather-leggings-d/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-leggings-d-34da603c58.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Leggings (D)</strong>
+<small>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-saddle/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-saddle-86c866ae46.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Saddle</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-leggings-c/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-leggings-c-94f6a26e46.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Leggings (C)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Leggings (D) in your offhand or equiped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orc-disaster-head/">
+<img src="../../../assets/upstream/tensura/items/orc-disaster-head-d23c9bda24.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster Head</strong>
+<small>The severed head of the Orc Disaster taken as a trophy.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Monster Leather Leggings (Special A)](https://tensura.wiki.gg/wiki/Monster_Leather_Leggings_(Special_A)) on the Tensura: Reincarnated Wiki (revision `8115`, modified `2025-03-12T16:00:07Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Leggings_(Special_A).png">Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7164</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(Special_A).png">Invicon Monster Leather (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6822</li>
+</ul>
+</details>

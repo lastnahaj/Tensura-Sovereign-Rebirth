@@ -10,8 +10,31 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Bosses</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/bosses/orc-lord-136738ee9a.gif" alt="Orc Lord source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Orc_lord.gif">Orc lord.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot;Eat, kill, all to satisfy my hunger&quot;</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Spawn">Spawn</a>
+<a href="#Evolution_Method">Evolution Method</a>
+<a href="#Obtaining_EP">Obtaining EP</a>
+<a href="#Quick_Evolution_Method">Quick Evolution Method</a>
+<a href="#Skill_obtainment">Skill obtainment</a>
+<a href="#Drops">Drops</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Orc Lord</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Orc Lord</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Orc_lord.gif"><img alt="Orc lord.gif" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/bosses/orc-lord-136738ee9a.gif" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 Desert, Badlands</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 200</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
 400</div></div><div class="druid-row druid-row-armor" data-druid-section-row="Stats"><div class="druid-label druid-label-armor">Armor</div><div class="druid-data druid-data-armor druid-data-nonempty">
@@ -76,11 +99,57 @@ Desert, Badlands</div></div></div><div class="druid-section-container"><div data
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Bosses</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-orc-disaster/">
+<img src="../../../assets/upstream/tensura/bosses/orc-disaster-02c11f1455.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster</strong>
+<small>A Boss that appears after an Orc Lord reaches 200k EP</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-shizu/">
+<img src="../../../assets/upstream/tensura/magic/shizu-b83ee4d844.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Shizu</strong>
+<small>A Rare Otherworlder, upon near death triggers the release of Ifrit - After Ifrit&#x27;s defeat, Shizu will appear defeated…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-ifrit/">
+<img src="../../../assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ifrit</strong>
+<small>The Greater Fire Spirit that is one of the many spirits that Hinata has, but also inhabits Shizu&#x27;s body.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-supermassive-slime/">
+<img src="../../../assets/upstream/tensura/mobs/slime-idle-aeceb33b34.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Supermassive Slime</strong>
+<small>A rare mob that has a 1/1000 chance to spawn in place of a normal Slime</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mobs/Orc Lord](https://tensura.wiki.gg/wiki/Mobs/Orc_Lord) on the Tensura: Reincarnated Wiki (revision `12637`, modified `2026-04-29T12:10:18Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (3 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orc_lord.gif">Orc lord.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2482</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
+</ul>
+</details>

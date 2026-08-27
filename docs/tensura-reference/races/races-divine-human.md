@@ -9,6 +9,25 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot; I truly have reached Divinity.. &quot;</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Traits">Traits</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big>"<i>I truly have reached Divinity..</i>"</big></big>
 </p>
@@ -44,6 +63,43 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-divine-giant/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Divine Giant</strong>
+<small>The final evolution of a giant, which increases their ability to grow bigger exponentially</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-divine-oni/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Divine Oni</strong>
+<small>Hobgoblin Saint Gains Strength , Steel Strength , Self Regeneration upon Evolution</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-divine-fish/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Divine Fish</strong>
+<small>&quot; Fish of the Divine Style &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-divine-skeleton/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Divine Skeleton</strong>
+<small>&quot; Even Divinity won&#x27;t save your bony ahh &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

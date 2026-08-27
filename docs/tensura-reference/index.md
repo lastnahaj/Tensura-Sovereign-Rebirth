@@ -1,48 +1,84 @@
 # Tensura: Reincarnated Reference
 
-This generated library is the base-mod layer of the TSR wiki. It preserves the live upstream article corpus as a searchable local reference while TSR-specific behavior remains clearly separated in dedicated notes and guides.
+This visual library is the base-mod layer of the TSR wiki. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.
 
 !!! warning "Version context"
     Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. A base article is not proof that a historical feature is active in TSR's frozen runtime.
 
-## Snapshot coverage
+<div class="reference-metric-grid">
+<div><strong>975</strong><span>articles</span></div>
+<div><strong>387</strong><span>local aliases</span></div>
+<div><strong>1623</strong><span>source images</span></div>
+<div><strong>27</strong><span>collections</span></div>
+</div>
 
-- **Canonical articles imported:** 973
-- **Redirect aliases processed:** 387
-- **Media files discovered:** 1724
-- **Explicitly reusable media imported:** 0
-- **Upstream synchronization:** 2026-08-27T16:11:16Z
-- **Upstream MediaWiki:** MediaWiki 1.43.6
+## Choose a path
 
-## Browse the reference
-
-- **[Core Mechanics](core-mechanics/index.md)** — 34 articles. Foundational resources and progression mechanics.
-- **[Races](races/index.md)** — 69 articles. Playable and documented race forms and their evolution data.
-- **[Intrinsic Skills](skills/intrinsic/index.md)** — 31 articles. Intrinsic racial and species-linked skills.
-- **[Common Skills](skills/common/index.md)** — 16 articles. Common skills and broadly available abilities.
-- **[Extra Skills](skills/extra/index.md)** — 52 articles. Extra-class skills and their documented progressions.
-- **[Unique Skills](skills/unique/index.md)** — 58 articles. Unique-class skills and their documented mechanics.
-- **[Ultimate Skills](skills/ultimate/index.md)** — 0 articles. Ultimate-class skills and related evolutions.
-- **[Other Skills](skills/other/index.md)** — 6 articles. Skills outside the primary class directories.
-- **[Resistances](resistances/index.md)** — 43 articles. Resistance, immunity, nullification, and cancellation abilities.
-- **[Magic](magic/index.md)** — 143 articles. Magic systems, aspects, and individual spells.
-- **[Battlewill](battlewill/index.md)** — 24 articles. Aura-powered Battlewill techniques and manuals.
-- **[Arts](arts/index.md)** — 0 articles. Documented Arts and their acquisition or mastery.
-- **[Mobs](mobs/index.md)** — 56 articles. The base mod's documented entity catalog.
-- **[Bosses](bosses/index.md)** — 13 articles. Boss encounters documented by the base mod.
-- **[Items & Materials](items/index.md)** — 201 articles. Materials, consumables, drops, and special items.
-- **[Weapons](weapons/index.md)** — 91 articles. Documented weapons and combat equipment.
-- **[Armor](armor/index.md)** — 51 articles. Documented armor pieces and sets.
-- **[Tools](tools/index.md)** — 30 articles. Tools and utility equipment.
-- **[Blocks](blocks/index.md)** — 29 articles. Mechanically relevant blocks and block families.
-- **[Structures](structures/index.md)** — 13 articles. Base Tensura structures and generation information.
-- **[Biomes](biomes/index.md)** — 5 articles. Base Tensura biomes and biome-specific behavior.
-- **[Dimensions](dimensions/index.md)** — 0 articles. Dimensions, portals, access, and world content.
-- **[Commands](commands/index.md)** — 1 articles. Player and administrator command reference.
-- **[Configuration](configuration/index.md)** — 3 articles. Base Tensura configuration reference.
-- **[Gamerules](gamerules/index.md)** — 1 articles. Tensura-specific gamerules and behavior.
-- **[Version History](version-history/index.md)** — 3 articles. Historical releases and upstream change records.
-- **[Other Reference](other/index.md)** — 0 articles. Additional maintained base-mod reference articles.
+<div class="reference-path-grid">
+<article class="reference-path-card reference-theme-evolution">
+<img src="../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Reincarnation &amp; Evolution</h2>
+<p>Choose a form, understand its requirements, and follow explicit race branches.</p>
+<div class="reference-path-links">
+<a href="core-mechanics/">Core Mechanics <span>34</span></a>
+<a href="races/">Races <span>69</span></a>
+</div>
+</div>
+</article>
+<article class="reference-path-card reference-theme-abilities">
+<img src="../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Skills &amp; Arcana</h2>
+<p>Explore abilities by class, magical system, resistance, and combat discipline.</p>
+<div class="reference-path-links">
+<a href="skills/intrinsic/">Intrinsic Skills <span>31</span></a>
+<a href="skills/common/">Common Skills <span>16</span></a>
+<a href="skills/extra/">Extra Skills <span>52</span></a>
+<a href="skills/unique/">Unique Skills <span>58</span></a>
+<a href="skills/ultimate/">Ultimate Skills <span>0</span></a>
+<a href="skills/other/">Other Skills <span>6</span></a>
+<a href="resistances/">Resistances <span>43</span></a>
+<a href="magic/">Magic <span>144</span></a>
+<a href="battlewill/">Battlewill <span>24</span></a>
+<a href="arts/">Arts <span>0</span></a>
+</div>
+</div>
+</article>
+<article class="reference-path-card reference-theme-bestiary">
+<img src="../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Bestiary &amp; Bosses</h2>
+<p>Meet the creatures, named threats, and major encounters documented upstream.</p>
+<div class="reference-path-links">
+<a href="mobs/">Mobs <span>56</span></a>
+<a href="bosses/">Bosses <span>13</span></a>
+</div>
+</div>
+</article>
+<article class="reference-path-card reference-theme-world">
+<img src="../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>World &amp; Equipment</h2>
+<p>Browse gear, materials, structures, terrain, and the technical reference.</p>
+<div class="reference-path-links">
+<a href="items/">Items &amp; Materials <span>201</span></a>
+<a href="weapons/">Weapons <span>91</span></a>
+<a href="armor/">Armor <span>51</span></a>
+<a href="tools/">Tools <span>30</span></a>
+<a href="blocks/">Blocks <span>29</span></a>
+<a href="structures/">Structures <span>13</span></a>
+<a href="biomes/">Biomes <span>5</span></a>
+<a href="dimensions/">Dimensions <span>0</span></a>
+<a href="commands/">Commands <span>1</span></a>
+<a href="configuration/">Configuration <span>3</span></a>
+<a href="gamerules/">Gamerules <span>1</span></a>
+<a href="version-history/">Version History <span>3</span></a>
+<a href="other/">Other Reference <span>1</span></a>
+</div>
+</div>
+</article>
+</div>
 
 ## TSR layer
 

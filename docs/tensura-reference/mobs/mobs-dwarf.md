@@ -8,6 +8,30 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-bestiary.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Dwarves can only spawn in Dwarf Village and cannot spawn outside of the village. Upon taming they will lose the capacity to trade. Dwarves can trade and will restock just like villagers. They also have a reputation system based on the player&#x27;s actions</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Drops">Drops</a>
+<a href="#Breeding">Breeding</a>
+<a href="#Professions">Professions</a>
+<a href="#Trading">Trading</a>
+<a href="#Behavior">Behavior</a>
+<a href="#Reputation_System">Reputation System</a>
+<a href="#Tips">Tips</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Dwarf</div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 Mountainous biomes (Meadow, Grove, Plateu, etc).</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
@@ -4135,6 +4159,43 @@ Dwarves can trade and will restock just like villagers. They also have a reputat
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Mobs</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-dragon-peacock/">
+<img src="../../../assets/upstream/tensura/mobs/dragon-peacock-dancing-31dd3baef5.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dragon Peacock</strong>
+<small>If wearing a Monster Leather helmet, a tamed Dragon Peacock can be right clicked to have it ride the player. Pressing…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-evil-centipede/">
+<img src="../../../assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Evil Centipede</strong>
+<small>0 - 2 Centipede Stinger 1 Medium Quality Magic Crystal</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-direwolf/">
+<img src="../../../assets/upstream/tensura/mobs/direwolf-0f13b02020.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Direwolf</strong>
+<small>A pack predator capable of using shouts to damage opponents. Can be ridden when tamed, allowing the use of the Mount…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-falmuth-knight/">
+<img src="../../../assets/upstream/tensura/mobs/falmuth-knight-35e7b1e387.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Falmuth Knight</strong>
+<small>Falmuth Knights spawn around Folgen</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

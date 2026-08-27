@@ -9,6 +9,25 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot; Wow... That&#x27;s a... Disaster! I&#x27;m here all night!!! &quot;</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Evolution">Evolution</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>Wow... That's a... Disaster! I'm here all night!!!</i>"
 </p>
@@ -46,6 +65,43 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-orc/">
+<img src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc</strong>
+<small>A race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-orc-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Lord</strong>
+<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-ogre/">
+<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ogre</strong>
+<small>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races/">
+<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Races</strong>
+<small>The Many Difference Races of Tensura: Reincarnated</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

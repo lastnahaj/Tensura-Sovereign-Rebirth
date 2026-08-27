@@ -12,17 +12,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" alt="Chilled Slime Block source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png">Chilled Slime Block.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Chilled Slime Block.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Chilled_Slime_Block?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Chilled Slime Block</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png"><img alt="Chilled Slime Block.png: Infobox image for Chilled Slime Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Chilled Slime Block
 </p>
 </div></div>
@@ -127,11 +146,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-charybdis-core/">
+<img src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Charybdis Core</strong>
+<small>Found inside the Core room of the Charybdis Cave and used to summon Charybdis .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-high-quality-magic-crystal-block/">
+<img src="../../../assets/upstream/tensura/items/high-quality-magic-crystal-block-b9d8f4e1dd.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Quality Magic Crystal Block</strong>
+<small>High Quality Magic Crystal Block</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks/">
+<img src="../../../assets/upstream/tensura/items/web-block-7bd2f0a513.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Blocks</strong>
+<small>Palm Log Palm Wood Stripped Palm Log Stripped Palm Wood Palm Planks Palm Stairs Palm Slab Palm Fence Palm Fence Gate…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-kiln/">
+<img src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kiln</strong>
+<small>To activate, right click the Kiln to open the menu</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Chilled Slime Block](https://tensura.wiki.gg/wiki/Blocks/Chilled_Slime_Block) on the Tensura: Reincarnated Wiki (revision `7894`, modified `2025-03-03T18:21:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png">Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4148</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime_Block.png">Invicon Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6875</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
+</ul>
+</details>

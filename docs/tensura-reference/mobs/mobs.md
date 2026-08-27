@@ -8,6 +8,28 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-bestiary.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Very WIP!!! The Many Mobs of Tensura:Reincarnated</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Boss_Ability_List:">Boss Ability List:</a>
+<a href="#Normal_Mob_Skill_List:">Normal Mob Skill List:</a>
+<a href="#Otherwolder_Skill_List:">Otherwolder Skill List:</a>
+<a href="#Pacific_Humanoid_Mob_List:">Pacific Humanoid Mob List:</a>
+<a href="#Vanilla_Entities_Skill_List:">Vanilla Entities Skill List:</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big><b>Very WIP!!!</b> The Many Mobs of Tensura:Reincarnated</big></big>
 </p><p><br/>
@@ -328,6 +350,43 @@ tags: []
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Mobs</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-metal-slime/">
+<img src="../../../assets/upstream/tensura/mobs/metalslime-ea20a82fc9.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Metal Slime</strong>
+<small>5 - 8 Magic Ore Shard (affected by looting) 1 High Quality Magic Crystal Can be tamed with Magic Ore or Pure Magisteel…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-giant-ant/">
+<img src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mobs/Giant Ant</strong>
+<small>This mob will destroy trees in pursuit of its enemy. If the player remains out of reach, it will spit poison, creating…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-megalodon/">
+<img src="../../../assets/upstream/tensura/mobs/megalodon-cc4ff64814.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Megalodon</strong>
+<small>A large flying shark like creature native to Hell, they also appear as part of the Charybdis fight.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-giant-bat/">
+<img src="../../../assets/upstream/tensura/mobs/giant-bat-4ca4cbcde7.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mobs/Giant Bat</strong>
+<small>1 - 2 Giant Bat Wing 1 - 4 Raw Giant Bat Meat 1 Medium Quality Magic Crystal</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

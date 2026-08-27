@@ -9,6 +9,24 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Divine Beast - 2,000,000 EP</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Evolution">Evolution</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>Spooky Beast</i>"
 </p>
@@ -42,6 +60,43 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-slime/">
+<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Slime</strong>
+<small>A Spectral race of monsters that lacks intelligence and ambition. They&#x27;re usually passive but are incredibly ruthless…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-spirit-bird/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spirit Bird</strong>
+<small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races/">
+<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Races</strong>
+<small>The Many Difference Races of Tensura: Reincarnated</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-spirit-boar/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spirit Boar</strong>
+<small>&quot; Spooky Bear... how boaring... &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

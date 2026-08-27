@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-tachi-59568b5b50.png" alt="Orichalcum Tachi source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Tachi.png">Invicon Orichalcum Tachi.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Orichalcum_Tachi?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Tachi</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Tachi.png"><img alt="Orichalcum Tachi.png: Infobox image for Orichalcum Tachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/orichalcum-tachi-a021bf9e25.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Orichalcum Tachi"><a href="./" title="Orichalcum Tachi"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -108,11 +128,61 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../orichalcum-sword/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-sword-56df705fe7.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Sword</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../pure-magisteel-great-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-pure-magisteel-great-sword-92bb5c33b7.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Pure Magisteel Great Sword</strong>
+<small>Obtainable through killing mobs while having High Magisteel Great Sword in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-spear/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-spear-5e8bbaecda.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Spear</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../pure-magisteel-katana/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-pure-magisteel-katana-5de402912f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Pure Magisteel Katana</strong>
+<small>Obtainable through killing mobs while having High Magisteel Katana in your offhand or equipped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Orichalcum Tachi](https://tensura.wiki.gg/wiki/Orichalcum_Tachi) on the Tensura: Reincarnated Wiki (revision `10905`, modified `2025-11-24T10:03:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Tachi.png">Invicon Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10299</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Tachi.png">Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10316</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Tachi.png">Invicon HihiIrokane Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10389</li>
+</ul>
+</details>

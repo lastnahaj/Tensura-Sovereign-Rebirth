@@ -10,11 +10,31 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-grimoire-b-eee891cbe3.png" alt="Grimoire(B) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(B).png">Invicon Grimoire(B).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A mid level grimoire for casting magic.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Description">Description</a>
+<a href="#Usage">Usage</a>
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Grimoire(B)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -68,11 +88,56 @@ Cooldown = 20 ticks<br/>
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../grimoire-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-grimoire-a-6325a24d77.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Grimoire(A)</strong>
+<small>A semi-high level grimoire for casting magic.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../grimoire-c/">
+<img src="../../../assets/upstream/tensura/items/invicon-grimoire-c-69d4b4d853.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Grimoire(C)</strong>
+<small>A low level grimoire for casting magic.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../greater-holy-water/">
+<img src="../../../assets/upstream/tensura/items/cs7-845df8aa69.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Greater Holy Water</strong>
+<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+</span>
+</a>
+<a class="reference-related-card" href="../grimoire-d/">
+<img src="../../../assets/upstream/tensura/items/invicon-grimoire-d-22b9aee8f4.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Grimoire(D)</strong>
+<small>A low level grimoire for casting magic.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Grimoire(B)](https://tensura.wiki.gg/wiki/Grimoire(B)) on the Tensura: Reincarnated Wiki (revision `12848`, modified `2026-05-07T11:16:10Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (2 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(B).png">Invicon Grimoire(B).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12805</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
+</ul>
+</details>

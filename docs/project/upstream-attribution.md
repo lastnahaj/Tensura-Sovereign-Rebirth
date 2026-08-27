@@ -1,7 +1,7 @@
 # Upstream Attribution
 
 The generated **Tensura: Reincarnated Reference** is adapted from the
-[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-08-27T16:11:16Z`.
+[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-08-27T17:20:50Z`.
 Each generated article links to its exact source page and records the upstream
 revision ID and modified timestamp used by the synchronizer.
 
@@ -15,11 +15,12 @@ Rebirth** heading.
 
 ## Media license policy
 
-Individual File pages can state different terms from the site-wide text
-license. The synchronizer queries each referenced File page, records its
-revision and extended license metadata, and downloads a file only when that page
-exposes an explicit reusable license. Missing or unclear licensing, fair-use
-claims, non-free terms, and restrictive notices cause the file to be skipped.
+The upstream File pages declare page content under
+[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise
+noted. The synchronizer verifies that File-page declaration, records each
+file's source page and revision, and checks its metadata and page text for
+exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
+file to be skipped.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in

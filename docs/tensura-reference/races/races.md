@@ -8,6 +8,21 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="Races source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceSlime.png">RaceSlime.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>The Many Difference Races of Tensura: Reincarnated</p>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big><i>The Many Difference Races of Tensura: Reincarnated</i></big></big>
 </p><p><br/>
@@ -92,11 +107,62 @@ tags: []
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-orc-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Lord</strong>
+<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-slime/">
+<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Slime</strong>
+<small>Charge up a super slime jump</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-orc-disaster/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster</strong>
+<small>&quot; Wow... That&#x27;s a... Disaster! I&#x27;m here all night!!! &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-spirit-beast/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spirit Beast</strong>
+<small>Divine Beast - 2,000,000 EP</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Races](https://tensura.wiki.gg/wiki/Races) on the Tensura: Reincarnated Wiki (revision `10530`, modified `2025-08-26T19:48:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (8 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceHuman.png">RaceHuman.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4240</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceElf.webp">RaceElf.webp</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4581</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceMerfolk.webp">RaceMerfolk.webp</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4573</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceLizardman.png">RaceLizardman.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4244</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceOrc.png">RaceOrc.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4242</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:RaceSlime.png">RaceSlime.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4241</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Awakening1.png">Awakening1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3498</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Awakening2.png">Awakening2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3499</li>
+</ul>
+</details>

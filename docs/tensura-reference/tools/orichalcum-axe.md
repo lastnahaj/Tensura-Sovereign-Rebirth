@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-axe-c56fbacc88.png" alt="Orichalcum Axe source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Axe.png">Invicon Orichalcum Axe.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Orichalcum_Axe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Axe</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Axe.png"><img alt="Orichalcum Axe.png: Infobox image for Orichalcum Axe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/orichalcum-axe-b56a62414d.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Orichalcum Axe"><a href="./" title="Orichalcum Axe"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -111,11 +130,61 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Tools</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mithril-shovel/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-shovel-f0efcac05e.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Shovel</strong>
+<small>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-hoe-ff95a53d92.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Hoe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mithril-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-pickaxe-14b6d2e6c0.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Pickaxe</strong>
+<small>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-pickaxe-99d315e254.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Pickaxe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Orichalcum Axe](https://tensura.wiki.gg/wiki/Orichalcum_Axe) on the Tensura: Reincarnated Wiki (revision `10891`, modified `2025-11-24T09:49:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Axe.png">Invicon Orichalcum Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10304</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Axe.png">Orichalcum Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10314</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Axe.png">Invicon HihiIrokane Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10394</li>
+</ul>
+</details>

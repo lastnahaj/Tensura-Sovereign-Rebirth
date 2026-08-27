@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-pickaxe-c2ffebdc6c.png" alt="Low Magisteel Pickaxe source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Pickaxe.png">Invicon Low Magisteel Pickaxe.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Low_Magisteel_Pickaxe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Low Magisteel Pickaxe</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Pickaxe.png"><img alt="Low Magisteel Pickaxe.png: Infobox image for Low Magisteel Pickaxe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/low-magisteel-pickaxe-79b69a91ea.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Low Magisteel Pickaxe"><a href="./" title="Low Magisteel Pickaxe"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -125,11 +144,62 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Tools</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../low-magisteel-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-hoe-271a006171.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Hoe</strong>
+<small>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-shovel/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-shovel-53a1f0d2d2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Shovel</strong>
+<small>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-axe/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-axe-cc0eed1b90.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Axe</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mithril-axe/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-axe-8e1d80022d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Axe</strong>
+<small>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Low Magisteel Pickaxe](https://tensura.wiki.gg/wiki/Low_Magisteel_Pickaxe) on the Tensura: Reincarnated Wiki (revision `13138`, modified `2026-06-21T19:42:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (8 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Pickaxe.png">Invicon Low Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6601</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Pickaxe.png">Low Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7118</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Pickaxe.png">Invicon High Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6543</li>
+</ul>
+</details>

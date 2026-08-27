@@ -31,7 +31,7 @@ The complete design inventory also records independent projects for bosses, dime
 
 The generated base reference is adapted from the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and its contributors under CC BY-SA 4.0. Every generated article records its exact source page and revision. See [Upstream Attribution](project/upstream-attribution.md) and [Ingestion Coverage](project/ingestion-coverage.md).
 
-Upstream media is not assumed to share the text license. No media was redistributed in the current snapshot because the referenced File pages did not expose explicit reusable licensing.
+Upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. Imported media retains its source File page and revision record; files with restrictive exceptions are excluded.
 
 ## TSR identity
 

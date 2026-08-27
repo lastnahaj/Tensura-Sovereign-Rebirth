@@ -14,17 +14,37 @@ tags:
 
 **Also known as:** Items/Misc/Adamantite Ingot
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/invicon-adamantite-ingot-5fa23b1df0.gif" alt="Adamantite Ingot source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Smelting Adamantite gear into nuggets and then crafting an ingot.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Crafting">Crafting</a>
+<a href="#Crafting_Ingredient">Crafting Ingredient</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Ingot?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Ingot</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Ingot.gif"><img alt="Adamantite Ingot.gif: Infobox image for Adamantite Ingot the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/adamantite-ingot-1d63f4e4e7.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Ingot"><a href="./" title="Adamantite Ingot"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -110,11 +130,59 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-adamantite-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Gear Schematic</strong>
+<small>Obtained by picking up an Adamantite Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../adamantite-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-adamantite-nugget-939d91c5c3.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Nugget</strong>
+<small>Smelting Adamantite armor/gear</small>
+</span>
+</a>
+<a class="reference-related-card" href="../adamantite-bone-golem/">
+<img src="../../../assets/upstream/tensura/items/adamantite-bone-golem-8562a7acd4.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Bone Golem</strong>
+<small>A golem resembling a skeleton made out of Adamantite. Allows the player to possess it and works as a physical body…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../angry-pierrot-mask/">
+<img src="../../../assets/upstream/tensura/items/invicon-angry-pierrot-mask-96e248b73b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Angry Pierrot Mask</strong>
+<small>To craft the Angry Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Adamantite Ingot](https://tensura.wiki.gg/wiki/Adamantite_Ingot) on the Tensura: Reincarnated Wiki (revision `8743`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Adamantite Ingot](https://tensura.wiki.gg/wiki/Adamantite_Ingot) on the Tensura: Reincarnated Wiki (revision `8743`, modified `2025-03-12T22:25:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Ingot.gif">Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4168</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Nugget.gif">Invicon Adamantite Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4169</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Adamantite.png">Invicon Block of Adamantite.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6851</li>
+</ul>
+</details>

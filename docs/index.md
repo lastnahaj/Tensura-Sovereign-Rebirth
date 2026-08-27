@@ -25,9 +25,63 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <span class="tsr-status">Version 1 Beta</span>
 
-The wiki now combines a self-contained base Tensura reference with the verified TSR modpack layer. The current upstream snapshot contains **973 relevant articles**, **387 local redirect aliases**, and **zero failed article imports**. Media without clear File-page redistribution terms is intentionally omitted and reported instead of hotlinked.
+The wiki combines a self-contained base Tensura reference with the verified TSR modpack layer. The current upstream snapshot contains **975 relevant articles**, **387 local redirect aliases**, and **zero failed article imports**. Source media is mirrored with File-page attribution and per-file license exception checks.
 
-## Quick reference
+## Choose your path
+
+<div class="reference-path-grid">
+
+<article class="reference-path-card reference-theme-evolution">
+<img src="assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Reincarnate & Evolve</h2>
+<p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
+<div class="reference-path-links">
+<a href="tensura-reference/races/">Races <span>69</span></a>
+<a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
+</div>
+</div>
+</article>
+
+<article class="reference-path-card reference-theme-abilities">
+<img src="assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Master Skills & Magic</h2>
+<p>Filter abilities, spells, resistances, and Battlewill by the way you want to build.</p>
+<div class="reference-path-links">
+<a href="tensura-reference/skills/unique/">Unique Skills <span>58</span></a>
+<a href="tensura-reference/magic/">Magic <span>144</span></a>
+</div>
+</div>
+</article>
+
+<article class="reference-path-card reference-theme-bestiary">
+<img src="assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Hunt & Conquer</h2>
+<p>Browse the animated bestiary and review major encounters before you challenge them.</p>
+<div class="reference-path-links">
+<a href="tensura-reference/mobs/">Mobs <span>56</span></a>
+<a href="tensura-reference/bosses/">Bosses <span>13</span></a>
+</div>
+</div>
+</article>
+
+<article class="reference-path-card reference-theme-world">
+<img src="assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<div class="reference-path-copy">
+<h2>Build a Sovereignty</h2>
+<p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
+<div class="reference-path-links">
+<a href="tensura-reference/items/">Items <span>201</span></a>
+<a href="tensura-reference/structures/">Structures <span>13</span></a>
+</div>
+</div>
+</article>
+
+</div>
+
+## Practical guides
 
 <div class="tsr-link-grid" markdown>
 

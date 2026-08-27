@@ -8,6 +8,31 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Energy Drain damage is applied when a damage source meets any of the following conditions:</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Energy_Drain">Energy Drain</a>
+<a href="#Magic">Magic</a>
+<a href="#Holy">Holy</a>
+<a href="#Darkness">Darkness</a>
+<a href="#Earth">Earth</a>
+<a href="#Flame">Flame</a>
+<a href="#Light">Light</a>
+<a href="#Space">Space</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <h2><span class="mw-headline" id="Energy_Drain">Energy Drain</span></h2>
@@ -218,6 +243,43 @@ tags: []
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../effects-corrosion/">
+<img src="../../../assets/upstream/tensura/misc/corrosion-effect-8c196c3b5b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Corrosion</strong>
+<small>Deals Corrosion damage over time like Poison and also degrades tools/armour at an increased rate. Used to obtain…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dodging/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dodging</strong>
+<small>Observe...Observer..Observation Haki!?</small>
+</span>
+</a>
+<a class="reference-related-card" href="../chantspeed/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Chant Speed</strong>
+<small>Chant speed is the amount of time it takes to cast spells. This cast time can be reduced and varies between spells.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects/">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Effects</strong>
+<small>The Effects of Tensura: Reincarnated!</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

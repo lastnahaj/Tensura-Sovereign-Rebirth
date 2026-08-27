@@ -9,9 +9,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="Diamond Gear Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtained by picking up a Diamond</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Diamond Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
-
+<a class="image image-thumbnail reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Schematic.png" title="Schematic.png">
+<img alt="Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" width="270"/>
+</a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Rare</div>
@@ -58,11 +79,65 @@ Allows Crafting of Diamond tools/armor
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-dark-set-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dark Set Schematic</strong>
+<small>Earn the Advancement [ Ruler Of Monsters ] which requires taming Lizardman , Goblin , Orc , Direwolf , and Slime</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dragon-essence/">
+<img src="../../../assets/upstream/tensura/items/invicon-dragon-essence-f3d82f1b16.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dragon Essence</strong>
+<small>The overwhelming essence of a large and powerful beast.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-dagger-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-dagger-schematic-88bc62472a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dagger Schematic</strong>
+<small>Found in Butcher Villager Houses - 20% Chance</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dragon-peacock-feather/">
+<img src="../../../assets/upstream/tensura/items/invicon-dragon-peacock-feather-b0a5d40758.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dragon Peacock Feather</strong>
+<small>A multicoloured feather plucked from a Dragon Peacock .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Diamond Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Diamond_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `10817`, modified `2025-11-15T16:29:10Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (11 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Short_Sword.png">Invicon Diamond Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6501</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Long_Sword.png">Invicon Diamond Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6498</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Great_Sword.png">Invicon Diamond Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6495</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Katana.png">Invicon Diamond Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6496</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Kodachi.png">Invicon Diamond Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6497</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Tachi.png">Invicon Diamond Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6504</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Odachi.png">Invicon Diamond Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6499</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Spear.png">Invicon Diamond Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6503</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Scythe.png">Invicon Diamond Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6500</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Sickle.png">Invicon Diamond Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6502</li>
+</ul>
+</details>

@@ -14,12 +14,31 @@ tags:
 
 **Also known as:** Items/Consumables/Silver Apple
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-enchanted-silver-apple-1da0004d6e.gif" alt="Silver Apple source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Silver_Apple.gif">Invicon Enchanted Silver Apple.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upon consumption gives the effects Magicule Regeneration for 60 seconds and Haste for 120 seconds.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Silver Apple</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Silver_Apple.png"><img alt="Silver Apple.png: Infobox image for Silver Apple the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/silver-apple-9bdb752d95.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;bSilver Apple"><a href="./" title="&amp;bSilver Apple"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -135,11 +154,120 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-short-sword-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-short-sword-schematic-fe89a899ae.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Short Sword Schematic</strong>
+<small>Goblin Chief Houses - 25% Chance OR Found in Dwarf Blacksmiths - 10% Chance OR Found in Tannery Villager Houses - 20%</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-silver-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Silver Gear Schematic</strong>
+<small>Obtained by picking up a Silver Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-shield-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-shield-schematic-cce31be870.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Shield Schematic</strong>
+<small>Found in Armorer Village Chests - 20% Chance</small>
+</span>
+</a>
+<a class="reference-related-card" href="../silver-ingot/">
+<img src="../../../assets/upstream/tensura/items/invicon-silver-ingot-690079c2bc.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Silver Ingot</strong>
+<small>To craft armor/gear one must have used a Silver Gear Schematic</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Silver Apple](https://tensura.wiki.gg/wiki/Silver_Apple) on the Tensura: Reincarnated Wiki (revision `9757`, modified `2025-05-30T06:20:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (66 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6701</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Silver_Apple.png">Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7220</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Ingot.png">Invicon Silver Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6709</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Apple.png">Invicon Apple.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 7674</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Silver_Apple.gif">Invicon Enchanted Silver Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4392</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pufferfish.png">Invicon Pufferfish.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9715</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Rotten_Flesh.png">Invicon Rotten Flesh.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9704</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Eye.png">Invicon Spider Eye.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9703</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Poisonous_Potato.png">Invicon Poisonous Potato.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9717</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Fermented_Spider_Eye.png">Invicon Fermented Spider Eye.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9729</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Porkchop.png">Invicon Raw Porkchop.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9708</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Cod.png">Invicon Raw Cod.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9711</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Salmon.png">Invicon Raw Salmon.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Tropical_Fish.png">Invicon Tropical Fish.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9702</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Beef.png">Invicon Raw Beef.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9713</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Chicken.png">Invicon Raw Chicken.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9712</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Rabbit.png">Invicon Raw Rabbit.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9707</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Mutton.png">Invicon Raw Mutton.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9709</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Rabbit_Foot.png">Invicon Rabbit Foot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9739</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Leg.png">Invicon Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6516</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Amethyst_Shard.png">Invicon Amethyst Shard.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9737</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Echo_Shard.png">Invicon Echo Shard.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9731</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blaze_Powder.png">Invicon Blaze Powder.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9744</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gunpowder.png">Invicon Gunpowder.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9724</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Breath.png">Invicon Dragon Breath.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9740</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glowstone.png">Invicon Glowstone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Redstone.png">Invicon Redstone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9705</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Nether_Wart.png">Invicon Nether Wart.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9721</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glow_Berries.png">Invicon Glow Berries.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glow_Ink_Sac.png">Invicon Glow Ink Sac.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chorus_Fruit.png">Invicon Chorus Fruit.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9745</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mushroom_Stew.png">Invicon Mushroom Stew.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9722</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Brown_Mushroom.png">Invicon Brown Mushroom.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9735</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Mushroom.png">Invicon Red Mushroom.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9742</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Crimson_Fungus.png">Invicon Crimson Fungus.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9734</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warped_Fungus.png">Invicon Warped Fungus.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9701</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Charybdis_Meat.png">Invicon Raw Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6681</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Megalodon_Meat.png">Invicon Raw Megalodon Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6683</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Spear_Toro_Meat.png">Invicon Raw Spear Toro Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6687</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spear_Toro_Fin.png">Invicon Spear Toro Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6737</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Sissie_Meat.png">Invicon Raw Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6686</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oxeye_Daisy.png">Invicon Oxeye Daisy.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cornflower.png">Invicon Cornflower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9743</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Lily_of_the_Valley.png">Invicon Lily of the Valley.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wither_Rose.png">Invicon Wither Rose.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9699</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Tulip.png">Invicon Red Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9706</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orange_Tulip.png">Invicon Orange Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9720</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_White_Tulip.png">Invicon White Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9700</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pink_Tulip.png">Invicon Pink Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9718</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Azure_Bluet.png">Invicon Azure Bluet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Allium.png">Invicon Allium.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9738</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blue_Orchid.png">Invicon Blue Orchid.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9741</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Poppy.png">Invicon Poppy.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9716</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dandelion.png">Invicon Dandelion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9733</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dubious_Food.png">Invicon Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6508</li>
+</ul>
+</details>

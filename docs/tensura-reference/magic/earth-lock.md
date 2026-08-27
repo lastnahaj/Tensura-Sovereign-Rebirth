@@ -9,8 +9,27 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
 
+<section class="reference-overview reference-theme-abilities">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/magic/earth-lock-16c146671a.png" alt="Earth Lock source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Earth_lock.png">Earth lock.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Lock loose blocks turning them solid again</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Effect">Effect</a>
+<a href="#Mastery_Bonus">Mastery Bonus</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Earth Lock</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Earth Lock</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Earth_lock.png"><img alt="Earth lock.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/earth-lock-16c146671a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 40 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -39,11 +58,52 @@ Learning it from a tome</div></div></div></div>
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Magic</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../earth-jail/">
+<img src="../../../assets/upstream/tensura/magic/earth-jail-96bbbe64ce.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Earth Jail</strong>
+<small>Restrict and weaken a single target, applying debuffs to allow you to finish them off</small>
+</span>
+</a>
+<a class="reference-related-card" href="../earth-spikes/">
+<img src="../../../assets/upstream/tensura/magic/earth-spikes-4a1a57f845.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Earth Spikes</strong>
+<small>Raises a spike under your opponent launching them into the air.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../earth/">
+<img src="../../../assets/upstream/tensura/magic/earth-9dc7fffe14.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Earth</strong>
+<small>Place down blocks which mimic those from the surrounding environment</small>
+</span>
+</a>
+<a class="reference-related-card" href="../earth-storm/">
+<img src="../../../assets/upstream/tensura/magic/earth-storm-e52ecbb955.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Earth Storm</strong>
+<small>Summons a viscous sandstorm and falling rocks around you</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Earth Lock](https://tensura.wiki.gg/wiki/Earth_Lock) on the Tensura: Reincarnated Wiki (revision `11072`, modified `2026-03-23T00:49:10Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Earth_lock.png">Earth lock.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12091</li>
+</ul>
+</details>

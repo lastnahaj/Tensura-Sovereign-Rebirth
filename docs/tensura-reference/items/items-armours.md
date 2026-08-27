@@ -9,11 +9,34 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-helmet-d-7bc19bdcb2.png" alt="Armours source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Armours.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Monster_Leather">Monster Leather</a>
+<a href="#Specific_Monsters">Specific Monsters</a>
+<a href="#Magisteel_.2B_Silver">Magisteel + Silver</a>
+<a href="#Misc">Misc</a>
+<a href="#Masks">Masks</a>
+<a href="#Extra">Extra</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Armours?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -170,11 +193,144 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../armorsaurus-shell/">
+<img src="../../../assets/upstream/tensura/items/invicon-armorsaurus-shell-5ce8626d02.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Armorsaurus Shell</strong>
+<small>A tough casing from the back of an Armorsaurus .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../baffledill/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Baffledill</strong>
+<small>Baffledills apply the Hypnosis to all players within 8 blocks of the flower. Non-default alignments (majin/holy/chaos)…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-armorsaurus-scalemail-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Armorsaurus Scalemail Schematic</strong>
+<small>Obtained by picking up an Armorsaurus Scale</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-basic-bow-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-basic-bow-schematic-4e94c1d1fb.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Basic Bow Schematic</strong>
+<small>Found in Goblin Towers &amp; Lizard Towers - 10% OR Found in Fletcher Villager Houses &amp; Pillager Outposts - 20% Chance</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Armours](https://tensura.wiki.gg/wiki/Items/Armours) on the Tensura: Reincarnated Wiki (revision `12265`, modified `2026-04-21T07:56:24Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (90 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(D).png">Invicon Monster Leather Leggings (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6843</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(D).png">Invicon Monster Leather Boots (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6824</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(C).png">Invicon Monster Leather Helmet (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6836</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(C).png">Invicon Monster Leather Chestplate (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6833</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(C).png">Invicon Monster Leather Leggings (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6839</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(C).png">Invicon Monster Leather Boots (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6827</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(B).png">Invicon Monster Leather Helmet (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6834</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(B).png">Invicon Monster Leather Chestplate (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6829</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(B).png">Invicon Monster Leather Leggings (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6841</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(B).png">Invicon Monster Leather Boots (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6825</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(A).png">Invicon Monster Leather Helmet (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6838</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(A).png">Invicon Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6828</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(A).png">Invicon Monster Leather Leggings (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6840</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(A).png">Invicon Monster Leather Boots (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6826</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(Special_A).png">Invicon Monster Leather Helmet (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6837</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(Special_A).png">Invicon Monster Leather Chestplate (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6831</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(Special_A).png">Invicon Monster Leather Boots (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6823</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ant_Carapace_Helmet.png">Invicon Ant Carapace Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6434</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ant_Carapace_Chestplate.png">Invicon Ant Carapace Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6433</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ant_Carapace_Leggings.png">Invicon Ant Carapace Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6435</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ant_Carapace_Boots.png">Invicon Ant Carapace Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6432</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scalemail_Helmet.png">Invicon Serpent Scalemail Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6696</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scalemail_Chestplate.png">Invicon Serpent Scalemail Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6695</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scalemail_Leggings.png">Invicon Serpent Scalemail Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6697</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scalemail_Boots.png">Invicon Serpent Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6694</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace_Helmet.png">Invicon Knight Spider Carapace Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6583</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace_Chestplate.png">Invicon Knight Spider Carapace Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6582</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace_Leggings.png">Invicon Knight Spider Carapace Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6584</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace_Boots.png">Invicon Knight Spider Carapace Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6581</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Helmet.png">Invicon Armorsaurus Helmet.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12261</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Chestplate.png">Invicon Armorsaurus Chestplate.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12259</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Leggings.png">Invicon Armorsaurus Leggings.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12210</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Boots.png">Invicon Armorsaurus Boots.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12258</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Helmet.png">Invicon Armorsaurus Scalemail Helmet.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12256</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Chestplate.png">Invicon Armorsaurus Scalemail Chestplate.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12255</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Leggings.png">Invicon Armorsaurus Scalemail Leggings.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12254</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Boots.png">Invicon Armorsaurus Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12257</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Helmet.png">Invicon Charybdis Scalemail Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6472</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Chestplate.png">Invicon Charybdis Scalemail Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6471</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Leggings.png">Invicon Charybdis Scalemail Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6473</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Boots.png">Invicon Charybdis Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6470</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Helmet.png">Invicon Silver Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6707</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Chestplate.png">Invicon Silver Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6704</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Leggings.png">Invicon Silver Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6712</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Boots.png">Invicon Silver Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6703</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Helmet.png">Invicon Low Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6592</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Chestplate.png">Invicon Low Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6590</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Leggings.png">Invicon Low Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6597</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Boots.png">Invicon Low Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6589</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Helmet.png">Invicon High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6535</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Chestplate.png">Invicon High Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6533</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Leggings.png">Invicon High Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6539</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Boots.png">Invicon High Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6532</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Helmet.png">Invicon Mithril Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6621</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Chestplate.png">Invicon Mithril Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6620</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Leggings.png">Invicon Mithril Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6622</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Boots.png">Invicon Mithril Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6619</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Helmet.png">Invicon Orichalcum Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6665</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Chestplate.png">Invicon Orichalcum Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6664</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Leggings.png">Invicon Orichalcum Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6666</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Boots.png">Invicon Orichalcum Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6663</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Helmet.png">Invicon Pure Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6676</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Chestplate.png">Invicon Pure Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6675</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Leggings.png">Invicon Pure Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6678</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Boots.png">Invicon Pure Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6674</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Helmet.png">Invicon Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6429</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Chestplate.png">Invicon Adamantite Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6428</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Leggings.png">Invicon Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6430</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Boots.png">Invicon Adamantite Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6427</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Helmet.png">Invicon HihiIrokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6815</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Chestplate.png">Invicon HihiIrokane Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6816</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Leggings.png">Invicon HihiIrokane Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6818</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Boots.png">Invicon HihiIrokane Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6817</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dark_Jacket.png">Invicon Dark Jacket.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6491</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dark_Leggings.png">Invicon Dark Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6492</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dark_Boots.png">Invicon Dark Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6490</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Holy_Armaments_Chestplate.png">Invicon Holy Armaments Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6558</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Holy_Armaments_Leggings.png">Invicon Holy Armaments Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6559</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Holy_Armaments_Boots.png">Invicon Holy Armaments Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6557</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Anti-Magic_Mask.png">Invicon Anti-Magic Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6791</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Crazy_Pierrot_Mask.png">Invicon Crazy Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6489</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Angry_Pierrot_Mask.png">Invicon Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6431</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wonder_Pierrot_Mask.png">Invicon Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6776</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Teardrop_Mask.png">Invicon Teardrop Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6844</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+</ul>
+</details>

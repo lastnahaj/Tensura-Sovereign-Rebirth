@@ -76,6 +76,95 @@ CATEGORY_INFO: dict[str, tuple[str, str]] = {
 }
 
 CATEGORY_ORDER = list(CATEGORY_INFO)
+
+VISUAL_ASSETS = {
+    "evolution": "assets/images/reference-races-evolution.png",
+    "abilities": "assets/images/reference-skills-magic.png",
+    "bestiary": "assets/images/reference-bestiary.png",
+    "world": "assets/images/reference-world-equipment.png",
+}
+
+VISUAL_GROUPS = {
+    "core-mechanics": "evolution",
+    "races": "evolution",
+    "skills/intrinsic": "abilities",
+    "skills/common": "abilities",
+    "skills/extra": "abilities",
+    "skills/unique": "abilities",
+    "skills/ultimate": "abilities",
+    "skills/other": "abilities",
+    "resistances": "abilities",
+    "magic": "abilities",
+    "battlewill": "abilities",
+    "arts": "abilities",
+    "mobs": "bestiary",
+    "bosses": "bestiary",
+    "items": "world",
+    "weapons": "world",
+    "armor": "world",
+    "tools": "world",
+    "blocks": "world",
+    "structures": "world",
+    "biomes": "world",
+    "dimensions": "world",
+    "commands": "world",
+    "configuration": "world",
+    "gamerules": "world",
+    "version-history": "world",
+    "other": "world",
+}
+
+REFERENCE_PATHS = (
+    (
+        "evolution",
+        "Reincarnation & Evolution",
+        "Choose a form, understand its requirements, and follow explicit race branches.",
+        ("core-mechanics", "races"),
+    ),
+    (
+        "abilities",
+        "Skills & Arcana",
+        "Explore abilities by class, magical system, resistance, and combat discipline.",
+        (
+            "skills/intrinsic",
+            "skills/common",
+            "skills/extra",
+            "skills/unique",
+            "skills/ultimate",
+            "skills/other",
+            "resistances",
+            "magic",
+            "battlewill",
+            "arts",
+        ),
+    ),
+    (
+        "bestiary",
+        "Bestiary & Bosses",
+        "Meet the creatures, named threats, and major encounters documented upstream.",
+        ("mobs", "bosses"),
+    ),
+    (
+        "world",
+        "World & Equipment",
+        "Browse gear, materials, structures, terrain, and the technical reference.",
+        (
+            "items",
+            "weapons",
+            "armor",
+            "tools",
+            "blocks",
+            "structures",
+            "biomes",
+            "dimensions",
+            "commands",
+            "configuration",
+            "gamerules",
+            "version-history",
+            "other",
+        ),
+    ),
+)
 MEDIA_CATEGORY_MAP = {
     "core-mechanics": "misc",
     "races": "races",
@@ -210,6 +299,23 @@ class ApiClient:
                 if chunk:
                     handle.write(chunk)
         temporary.replace(destination)
+
+    def get_text(self, url: str, cache_name: str) -> str:
+        cache_path = self.cache_root / cache_name
+        if cache_path.exists() and not self.refresh:
+            return cache_path.read_text(encoding="utf-8")
+        parsed = urlparse(url)
+        if parsed.scheme != "https" or parsed.hostname != "tensura.wiki.gg":
+            raise RuntimeError(f"Refusing unexpected page host: {url}")
+        elapsed = time.monotonic() - self.last_request
+        if elapsed < self.pace:
+            time.sleep(self.pace - elapsed)
+        response = self.session.get(url, timeout=(15, 90))
+        self.last_request = time.monotonic()
+        response.raise_for_status()
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(response.text, encoding="utf-8")
+        return response.text
 
 
 def chunks(values: list[Any], size: int) -> Iterable[list[Any]]:
@@ -646,7 +752,7 @@ def fetch_media_metadata(
                 "titles": "|".join(f"File:{title}" for title in title_batch),
                 "redirects": 1,
                 "prop": "imageinfo|revisions",
-                "iiprop": "url|size|mime|sha1|extmetadata|timestamp",
+                "iiprop": "url|size|mime|sha1|extmetadata|timestamp|user|comment",
                 "iiurlwidth": 1200,
                 "rvprop": "ids|timestamp|content",
                 "rvslots": "main",
@@ -675,6 +781,8 @@ def fetch_media_metadata(
                     "mime": image_info.get("mime"),
                     "sha1": image_info.get("sha1"),
                     "file_timestamp": image_info.get("timestamp"),
+                    "uploaded_by": image_info.get("user"),
+                    "upload_comment": image_info.get("comment"),
                     "file_revision_id": revision.get("revid"),
                     "file_modified": revision.get("timestamp"),
                     "extmetadata": image_info.get("extmetadata", {}),
@@ -690,7 +798,46 @@ def fetch_media_metadata(
     return records
 
 
-def determine_license(record: dict[str, Any]) -> tuple[str | None, str | None, str]:
+def verify_file_page_license(client: ApiClient, media_records: list[dict[str, Any]]) -> dict[str, str]:
+    candidates = sorted(
+        (record for record in media_records if record.get("source_url") and record.get("source_file_page")),
+        key=lambda record: (record.get("source_title") != "Skillicon.png", record.get("source_title", "")),
+    )
+    if not candidates:
+        raise RuntimeError("Cannot verify the upstream File-page media license")
+    page_html = ""
+    for sample in candidates[:20]:
+        try:
+            page_html = client.get_text(
+                sample["source_file_page"], "policy/file-page-license.html"
+            )
+            break
+        except requests.HTTPError as exc:
+            if exc.response is None or exc.response.status_code != 404:
+                raise
+    if not page_html:
+        raise RuntimeError("Could not load a live upstream File page to verify its media license")
+    soup = BeautifulSoup(page_html, "html.parser")
+    license_link = soup.select_one('link[rel="license"]')
+    footer = soup.select_one("#footer-info-copyright")
+    license_url = license_link.get("href", "") if license_link else ""
+    footer_text = " ".join(footer.get_text(" ", strip=True).split()) if footer else ""
+    if license_url.rstrip("/") != TEXT_LICENSE_URL.rstrip("/"):
+        raise RuntimeError("Upstream File pages do not expose the expected CC BY-SA 4.0 license link")
+    if not re.search(r"page content is under.+unless otherwise noted", footer_text, re.I):
+        raise RuntimeError("Upstream File-page license footer could not be verified")
+    return {
+        "name": "CC BY-SA 4.0",
+        "url": TEXT_LICENSE_URL,
+        "evidence": (
+            "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted"
+        ),
+    }
+
+
+def determine_license(
+    record: dict[str, Any], file_page_license: dict[str, str]
+) -> tuple[str | None, str | None, str]:
     metadata = record.get("extmetadata", {})
     candidates = " ".join(
         filter(
@@ -716,7 +863,11 @@ def determine_license(record: dict[str, Any]) -> tuple[str | None, str | None, s
                     "Public domain": "https://creativecommons.org/publicdomain/mark/1.0/",
                 }.get(canonical, "")
             return canonical, license_url or None, "Explicit reusable license on File page"
-    return None, None, "No explicit reusable license found on the upstream File page"
+    return (
+        file_page_license["name"],
+        file_page_license["url"],
+        file_page_license["evidence"],
+    )
 
 
 def safe_media_filename(title: str, sha1: str | None) -> str:
@@ -733,6 +884,7 @@ def prepare_media(
     client: ApiClient,
     media_records: list[dict[str, Any]],
     page_records: list[dict[str, Any]],
+    file_page_license: dict[str, str],
 ) -> tuple[list[dict[str, Any]], dict[str, dict[str, Any]], dict[str, int]]:
     used_on: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for page in page_records:
@@ -749,7 +901,7 @@ def prepare_media(
         primary_article_category = article_categories.most_common(1)[0][0] if article_categories else "other"
         media_category = MEDIA_CATEGORY_MAP.get(primary_article_category, "misc")
         record["category"] = media_category
-        license_name, license_url, license_reason = determine_license(record)
+        license_name, license_url, license_reason = determine_license(record, file_page_license)
         record["license"] = license_name
         record["license_url"] = license_url
         record["license_evidence"] = license_reason
@@ -783,7 +935,7 @@ def prepare_media(
                 record["local_path"] = local_path.as_posix()
                 record["download_url"] = source_url
                 record["import_status"] = "imported"
-                record["reason"] = "Explicitly reusable media imported"
+                record["reason"] = "Reusable File-page media imported with attribution"
             except Exception as exc:
                 record["import_status"] = "failed"
                 record["reason"] = str(exc)
@@ -802,18 +954,29 @@ def local_relative_url(current_page: str, target_page: str) -> str:
 
 def rendered_page_relative_url(current_page: str, target_page: str) -> str:
     """Return a directory URL relative to the rendered current page URL."""
-    current_url_dir = PurePosixPath(current_page).with_suffix("")
-    target_url_dir = PurePosixPath(target_page).with_suffix("")
+    current_path = PurePosixPath(current_page)
+    target_path = PurePosixPath(target_page)
+    current_url_dir = current_path.parent if current_path.name == "index.md" else current_path.with_suffix("")
+    target_url_dir = target_path.parent if target_path.name == "index.md" else target_path.with_suffix("")
     relative = os.path.relpath(
         target_url_dir.as_posix(), current_url_dir.as_posix()
     ).replace("\\", "/")
-    return relative.rstrip("/") + "/"
+    return "./" if relative == "." else relative.rstrip("/") + "/"
 
 
 def rendered_asset_relative_url(current_page: str, target_path: str) -> str:
     """Return an asset URL relative to the rendered current page URL."""
-    current_url_dir = PurePosixPath(current_page).with_suffix("")
+    current_path = PurePosixPath(current_page)
+    current_url_dir = current_path.parent if current_path.name == "index.md" else current_path.with_suffix("")
     return os.path.relpath(target_path, current_url_dir.as_posix()).replace("\\", "/")
+
+
+def visual_group(category: str) -> str:
+    return VISUAL_GROUPS.get(category, "world")
+
+
+def visual_asset(category: str) -> str:
+    return VISUAL_ASSETS[visual_group(category)]
 
 
 def media_key_from_img(img: Tag) -> str:
@@ -890,6 +1053,8 @@ def clean_article_html(
 
     imported_placements = 0
     skipped_placements = 0
+    primary_key = normalize_title((record.get("_primary_media") or {}).get("source_title", ""))
+    primary_marked = False
     for img in list(root.find_all("img")):
         key = media_key_from_img(img)
         media = media_lookup.get(key)
@@ -898,8 +1063,14 @@ def clean_article_html(
             img["src"] = rendered_asset_relative_url(
                 record["local_page"], media["local_path"]
             )
-            for attribute in ("srcset", "data-src", "data-srcset", "loading"):
+            for attribute in ("srcset", "data-src", "data-srcset"):
                 img.attrs.pop(attribute, None)
+            img["loading"] = "lazy"
+            img["decoding"] = "async"
+            if key == primary_key and not primary_marked and not img.find_parent(class_="druid-container"):
+                duplicate = parent if parent and parent.name == "a" else img
+                duplicate["class"] = list(duplicate.get("class", [])) + ["reference-overview-duplicate"]
+                primary_marked = True
             imported_placements += 1
         else:
             skipped_placements += 1
@@ -909,6 +1080,118 @@ def clean_article_html(
                 img.decompose()
 
     return str(root), links_converted, imported_placements, skipped_placements
+
+
+def attach_page_media(
+    page_records: list[dict[str, Any]], media_lookup: dict[str, dict[str, Any]]
+) -> None:
+    for record in page_records:
+        media = []
+        for order, image_title in enumerate(record["image_titles"]):
+            item = media_lookup.get(normalize_title(image_title))
+            if not item or item.get("import_status") != "imported":
+                continue
+            if item not in media:
+                item_copy = dict(item)
+                item_copy["_placement_order"] = order
+                media.append(item_copy)
+        record["_media"] = media
+        if not media:
+            record["_primary_media"] = None
+            continue
+
+        display = normalize_title(record["display_title"])
+
+        def media_score(item: dict[str, Any]) -> tuple[int, int]:
+            source = normalize_title(Path(item["source_title"]).stem)
+            width = item.get("width") or 0
+            height = item.get("height") or 0
+            area = width * height
+            score = 0
+            if display and (display in source or source in display):
+                score += 120
+            if "invicon" in source or "icon" in source:
+                score += 28 if record["category"] in {"items", "weapons", "armor", "tools"} else 8
+            if area >= 40_000:
+                score += 24
+            if width and height and 0.55 <= width / height <= 1.8:
+                score += 10
+            if item.get("mime") == "image/gif":
+                score += 4
+            if re.search(r"\bwip\d*\b|placeholder|missing", source):
+                score -= 200
+            return score, -item["_placement_order"]
+
+        record["_primary_media"] = max(media, key=media_score)
+
+
+def article_summary(record: dict[str, Any], body_html: str, max_length: int = 360) -> str:
+    soup = BeautifulSoup(body_html, "html.parser")
+    candidate = ""
+    for heading in soup.find_all(["h2", "h3"]):
+        if normalize_title(heading.get_text(" ", strip=True)) not in {"description", "overview", "summary"}:
+            continue
+        node = heading.find_next_sibling()
+        while node and getattr(node, "name", None) not in {"h2", "h3"}:
+            text = " ".join(node.get_text(" ", strip=True).split()) if isinstance(node, Tag) else ""
+            if len(text) >= 24:
+                candidate = text
+                break
+            node = node.find_next_sibling()
+        if candidate:
+            break
+    if not candidate:
+        for paragraph in soup.find_all("p"):
+            if paragraph.find_parent(class_="druid-container"):
+                continue
+            text = " ".join(paragraph.get_text(" ", strip=True).split())
+            if len(text) >= 20:
+                candidate = text
+                break
+    if not candidate:
+        candidate = " ".join((record.get("description") or "").split())
+    candidate = re.sub(r"View or edit this template.*$", "", candidate, flags=re.I).strip()
+    if not candidate:
+        candidate = f"Upstream reference information for {record['display_title']}."
+    if len(candidate) > max_length:
+        candidate = candidate[: max_length - 1].rsplit(" ", 1)[0].rstrip(".,;:") + "…"
+    return candidate
+
+
+def article_sections(body_html: str, limit: int = 8) -> list[tuple[str, str]]:
+    soup = BeautifulSoup(body_html, "html.parser")
+    sections: list[tuple[str, str]] = []
+    for heading in soup.find_all("h2"):
+        title = " ".join(heading.get_text(" ", strip=True).split())
+        anchor = heading.get("id")
+        if not anchor:
+            marker = heading.select_one("[id]")
+            anchor = marker.get("id") if marker else None
+        if title and anchor:
+            sections.append((str(anchor), title))
+        if len(sections) >= limit:
+            break
+    return sections
+
+
+def build_related_map(records: list[dict[str, Any]], limit: int = 4) -> dict[int, list[dict[str, Any]]]:
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for record in records:
+        grouped[record["category"]].append(record)
+    related: dict[int, list[dict[str, Any]]] = {}
+    for category_records in grouped.values():
+        ordered = sorted(category_records, key=lambda item: item["display_title"].casefold())
+        for index, record in enumerate(ordered):
+            candidates: list[dict[str, Any]] = []
+            distance = 1
+            while len(candidates) < limit and (index - distance >= 0 or index + distance < len(ordered)):
+                if index - distance >= 0:
+                    candidates.append(ordered[index - distance])
+                if len(candidates) < limit and index + distance < len(ordered):
+                    candidates.append(ordered[index + distance])
+                distance += 1
+            related[record["page_id"]] = candidates
+    return related
 
 
 def yaml_front_matter(record: dict[str, Any], aliases: list[str]) -> str:
@@ -929,6 +1212,7 @@ def render_page(
     aliases: list[str],
     overlay: dict[str, Any] | None,
     skipped_placements: int,
+    related: list[dict[str, Any]],
 ) -> str:
     lines = [yaml_front_matter(record, aliases), f"# {record['display_title']}", ""]
     lines.append(
@@ -947,6 +1231,58 @@ def render_page(
                 "",
             ]
         )
+
+    summary = article_summary(record, body_html)
+    sections = article_sections(body_html)
+    primary_media = record.get("_primary_media")
+    if primary_media:
+        overview_asset = rendered_asset_relative_url(
+            record["local_page"], primary_media["local_path"]
+        )
+        overview_alt = f"{record['display_title']} source reference"
+        media_caption = (
+            f'<a href="{html.escape(primary_media["source_file_page"], quote=True)}">'
+            f'{html.escape(primary_media["source_title"])} · CC BY-SA 4.0</a>'
+        )
+        media_class = "reference-overview-media--source"
+    else:
+        overview_asset = rendered_asset_relative_url(
+            record["local_page"], visual_asset(record["category"])
+        )
+        overview_alt = ""
+        media_caption = "Original TSR section artwork"
+        media_class = "reference-overview-media--theme"
+
+    lines.extend(
+        [
+            f'<section class="reference-overview reference-theme-{visual_group(record["category"])}">',
+            f'<figure class="reference-overview-media {media_class}">',
+            f'<img src="{html.escape(overview_asset, quote=True)}" alt="{html.escape(overview_alt, quote=True)}" loading="eager" decoding="async">',
+            f"<figcaption>{media_caption}</figcaption>",
+            "</figure>",
+            '<div class="reference-overview-copy">',
+            '<p class="reference-eyebrow">At a glance</p>',
+            f"<p>{html.escape(summary)}</p>",
+        ]
+    )
+    if sections:
+        lines.append('<nav class="reference-quick-jumps" aria-label="Article sections">')
+        for anchor, title in sections:
+            lines.append(
+                f'<a href="#{html.escape(anchor, quote=True)}">{html.escape(title)}</a>'
+            )
+        lines.append("</nav>")
+    lines.extend(
+        [
+            '<div class="reference-reading-controls" role="group" aria-label="Article reading mode">',
+            '<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>',
+            '<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>',
+            "</div>",
+            "</div>",
+            "</section>",
+            "",
+        ]
+    )
     lines.append('<div class="tensura-reference-article">')
     lines.append(body_html)
     lines.append("</div>")
@@ -954,8 +1290,8 @@ def render_page(
     if skipped_placements:
         lines.extend(
             [
-                "!!! note \"Upstream media\"",
-                "    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.",
+                "!!! note \"Unavailable upstream media\"",
+                "    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.",
                 "",
             ]
         )
@@ -977,6 +1313,40 @@ def render_page(
                 rendered_links.append(f"[{item['label']}]({url})")
             lines.append("**TSR guides:** " + " · ".join(rendered_links))
             lines.append("")
+
+    if related:
+        category_index = (
+            PurePosixPath("tensura-reference") / record["category"] / "index.md"
+        ).as_posix()
+        lines.extend(
+            [
+                '<section class="reference-related">',
+                '<div class="reference-related-heading">',
+                "<h2>Continue exploring</h2>",
+                f'<a href="{rendered_page_relative_url(record["local_page"], category_index)}">Browse all {html.escape(CATEGORY_INFO[record["category"]][0])}</a>',
+                "</div>",
+                '<div class="reference-related-grid">',
+            ]
+        )
+        for item in related:
+            item_media = item.get("_primary_media")
+            item_asset = (
+                item_media["local_path"] if item_media else visual_asset(item["category"])
+            )
+            item_summary = article_summary(item, item.get("_clean_html", item.get("_html", "")), 120)
+            lines.extend(
+                [
+                    f'<a class="reference-related-card" href="{rendered_page_relative_url(record["local_page"], item["local_page"])}">',
+                    f'<img src="{html.escape(rendered_asset_relative_url(record["local_page"], item_asset), quote=True)}" alt="" loading="lazy" decoding="async">',
+                    '<span class="reference-related-copy">',
+                    f"<strong>{html.escape(item['display_title'])}</strong>",
+                    f"<small>{html.escape(item_summary)}</small>",
+                    "</span>",
+                    "</a>",
+                ]
+            )
+        lines.extend(["</div>", "</section>", ""])
+
     lines.extend(["---", "", "## Source and licensing", ""])
     revision_text = f"revision `{record['revision_id']}`" if record.get("revision_id") else "current recorded revision"
     modified_text = f", modified `{record['upstream_modified']}`" if record.get("upstream_modified") else ""
@@ -986,6 +1356,23 @@ def render_page(
         f"Adapted text is available under [CC BY-SA 4.0]({TEXT_LICENSE_URL})."
     )
     lines.append("")
+    page_media = record.get("_media", [])
+    if page_media:
+        lines.extend(
+            [
+                '<details class="reference-media-credits">',
+                f"<summary>Media credits ({len(page_media)} source files)</summary>",
+                "<ul>",
+            ]
+        )
+        for item in page_media:
+            uploader = f"; uploaded by {html.escape(item['uploaded_by'])}" if item.get("uploaded_by") else ""
+            revision = f"; revision {item['file_revision_id']}" if item.get("file_revision_id") else ""
+            lines.append(
+                f'<li><a href="{html.escape(item["source_file_page"], quote=True)}">{html.escape(item["source_title"])}</a>'
+                f" — {html.escape(item.get('license') or 'CC BY-SA 4.0')}{uploader}{revision}</li>"
+            )
+        lines.extend(["</ul>", "</details>", ""])
     return "\n".join(lines)
 
 
@@ -1059,23 +1446,84 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
 def generate_category_index(category: str, records: list[dict[str, Any]]) -> str:
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
-    lines = [f"# {title}", "", description, ""]
-    lines.append(f"**{len(category_records)} upstream articles indexed.**")
-    lines.append("")
-    buckets: dict[str, list[dict[str, Any]]] = defaultdict(list)
-    for record in category_records:
-        first = record["display_title"][:1].upper()
-        buckets[first if first.isalnum() else "#"].append(record)
-    for bucket in sorted(buckets, key=lambda value: (value == "#", value)):
-        lines.extend([f"## {bucket}", ""])
-        for record in sorted(buckets[bucket], key=lambda item: item["display_title"].casefold()):
-            relative = PurePosixPath(record["local_page"]).name
-            summary = record["description"].replace("\n", " ").strip()
-            if len(summary) > 160:
-                summary = summary[:157].rstrip() + "…"
-            suffix = f" — {summary}" if summary else ""
-            lines.append(f"- [{record['display_title']}]({relative}){suffix}")
-        lines.append("")
+    index_page = (PurePosixPath("tensura-reference") / category / "index.md").as_posix()
+    hero_asset = rendered_asset_relative_url(index_page, visual_asset(category))
+    ordered = sorted(category_records, key=lambda item: item["display_title"].casefold())
+    letters = sorted(
+        {
+            record["display_title"][:1].upper()
+            if record["display_title"][:1].isalnum()
+            else "#"
+            for record in ordered
+        },
+        key=lambda value: (value == "#", value),
+    )
+    lines = [
+        f'<section class="reference-directory" data-reference-directory="{html.escape(category, quote=True)}">',
+        f'<header class="reference-directory-hero reference-theme-{visual_group(category)}">',
+        f'<img src="{html.escape(hero_asset, quote=True)}" alt="" loading="eager" decoding="async">',
+        '<div class="reference-directory-hero-copy">',
+        '<p class="reference-eyebrow">Tensura reference collection</p>',
+        f"<h1>{html.escape(title)}</h1>",
+        f"<p>{html.escape(description)}</p>",
+        f'<span class="reference-count"><strong>{len(ordered)}</strong> articles</span>',
+        "</div>",
+        "</header>",
+        '<div class="reference-directory-tools">',
+        '<label class="reference-filter-label">',
+        '<span>Filter this collection</span>',
+        '<input type="search" class="reference-filter-input" placeholder="Search titles and summaries…" autocomplete="off">',
+        "</label>",
+        '<div class="reference-letter-filters" aria-label="Filter by first letter">',
+        '<button type="button" class="is-active" data-letter="all" aria-pressed="true">All</button>',
+    ]
+    for letter in letters:
+        lines.append(
+            f'<button type="button" data-letter="{html.escape(letter, quote=True)}" aria-pressed="false">{html.escape(letter)}</button>'
+        )
+    lines.extend(
+        [
+            "</div>",
+            f'<p class="reference-filter-status" aria-live="polite">Showing {len(ordered)} of {len(ordered)} articles</p>',
+            "</div>",
+            '<div class="reference-card-grid">',
+        ]
+    )
+    for record in ordered:
+        summary = article_summary(record, record.get("_html", ""), 170)
+        letter = record["display_title"][:1].upper()
+        if not letter.isalnum():
+            letter = "#"
+        primary_media = record.get("_primary_media")
+        card_asset = primary_media["local_path"] if primary_media else visual_asset(category)
+        card_asset_url = rendered_asset_relative_url(index_page, card_asset)
+        media_class = "reference-card-media--source" if primary_media else "reference-card-media--theme"
+        source_label = "Source media" if primary_media else "TSR artwork"
+        lines.extend(
+            [
+                f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',
+                f'<a href="{rendered_page_relative_url(index_page, record["local_page"])}" aria-label="Open {html.escape(record["display_title"], quote=True)}">',
+                f'<figure class="reference-card-media {media_class}">',
+                f'<img src="{html.escape(card_asset_url, quote=True)}" alt="" loading="lazy" decoding="async">',
+                f"<figcaption>{source_label}</figcaption>",
+                "</figure>",
+                '<div class="reference-card-copy">',
+                f"<h2>{html.escape(record['display_title'])}</h2>",
+                f"<p>{html.escape(summary)}</p>",
+                '<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>',
+                "</div>",
+                "</a>",
+                "</article>",
+            ]
+        )
+    lines.extend(
+        [
+            "</div>",
+            '<p class="reference-no-results" hidden>No matching articles. Try a broader search.</p>',
+            "</section>",
+            "",
+        ]
+    )
     return "\n".join(lines)
 
 
@@ -1087,31 +1535,46 @@ def generate_reference_index(
     lines = [
         "# Tensura: Reincarnated Reference",
         "",
-        "This generated library is the base-mod layer of the TSR wiki. It preserves the live upstream article corpus as a searchable local reference while TSR-specific behavior remains clearly separated in dedicated notes and guides.",
+        "This visual library is the base-mod layer of the TSR wiki. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.",
         "",
         "!!! warning \"Version context\"",
         "    Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. A base article is not proof that a historical feature is active in TSR's frozen runtime.",
         "",
-        "## Snapshot coverage",
+        '<div class="reference-metric-grid">',
+        f'<div><strong>{len(records)}</strong><span>articles</span></div>',
+        f'<div><strong>{sum(item.get("status") == "processed" for item in redirects)}</strong><span>local aliases</span></div>',
+        f'<div><strong>{imported_media}</strong><span>source images</span></div>',
+        f'<div><strong>{len(CATEGORY_ORDER)}</strong><span>collections</span></div>',
+        "</div>",
         "",
-        f"- **Canonical articles imported:** {len(records)}",
-        f"- **Redirect aliases processed:** {sum(item.get('status') == 'processed' for item in redirects)}",
-        f"- **Media files discovered:** {len(media)}",
-        f"- **Explicitly reusable media imported:** {imported_media}",
-        f"- **Upstream synchronization:** {SYNCED_AT}",
-        f"- **Upstream MediaWiki:** {siteinfo['general'].get('generator', 'MediaWiki')}",
+        "## Choose a path",
         "",
-        "## Browse the reference",
-        "",
+        '<div class="reference-path-grid">',
     ]
-    for category in CATEGORY_ORDER:
-        title, description = CATEGORY_INFO[category]
-        index_path = PurePosixPath(category) / "index.md"
-        lines.append(
-            f"- **[{title}]({index_path.as_posix()})** — {category_counts.get(category, 0)} articles. {description}"
+    index_page = "tensura-reference/index.md"
+    for group, path_title, path_description, categories in REFERENCE_PATHS:
+        group_asset = rendered_asset_relative_url(index_page, VISUAL_ASSETS[group])
+        lines.extend(
+            [
+                f'<article class="reference-path-card reference-theme-{group}">',
+                f'<img src="{html.escape(group_asset, quote=True)}" alt="" loading="lazy" decoding="async">',
+                '<div class="reference-path-copy">',
+                f"<h2>{html.escape(path_title)}</h2>",
+                f"<p>{html.escape(path_description)}</p>",
+                '<div class="reference-path-links">',
+            ]
         )
+        for category in categories:
+            category_title = CATEGORY_INFO[category][0]
+            target = (PurePosixPath(category) / "index.md").as_posix()
+            lines.append(
+                f'<a href="{rendered_page_relative_url(index_page, PurePosixPath("tensura-reference") / target)}">'
+                f"{html.escape(category_title)} <span>{category_counts.get(category, 0)}</span></a>"
+            )
+        lines.extend(["</div>", "</div>", "</article>"])
     lines.extend(
         [
+            "</div>",
             "",
             "## TSR layer",
             "",
@@ -1171,7 +1634,10 @@ def write_reports(
         {
             "source": WIKI_ROOT + "/",
             "synchronized_at": SYNCED_AT,
-            "policy": "Media is imported only when its File page exposes an explicit reusable license.",
+            "policy": (
+                "Media is imported under the upstream File-page CC BY-SA 4.0 declaration unless "
+                "the individual File page states restrictive or non-free terms."
+            ),
             "media": media_records,
         },
     )
@@ -1240,7 +1706,7 @@ def render_coverage_report(coverage: dict[str, Any]) -> str:
         f"| Images skipped due to licensing | {coverage['images_skipped_due_to_licensing']} |",
         f"| Images failed | {coverage['images_failed']} |",
         "",
-        "Images without an explicit reusable license on their individual upstream File page are not redistributed, even when the surrounding article is reusable under the wiki's general text license.",
+        "The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.",
         "",
         "## Link conversion",
         "",
@@ -1292,11 +1758,12 @@ Rebirth** heading.
 
 ## Media license policy
 
-Individual File pages can state different terms from the site-wide text
-license. The synchronizer queries each referenced File page, records its
-revision and extended license metadata, and downloads a file only when that page
-exposes an explicit reusable license. Missing or unclear licensing, fair-use
-claims, non-free terms, and restrictive notices cause the file to be skipped.
+The upstream File pages declare page content under
+[Creative Commons Attribution-ShareAlike 4.0]({TEXT_LICENSE_URL}) unless otherwise
+noted. The synchronizer verifies that File-page declaration, records each
+file's source page and revision, and checks its metadata and page text for
+exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
+file to be skipped.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in
@@ -1321,13 +1788,33 @@ def ensure_generated_roots_clean() -> None:
     REFERENCE_ROOT.mkdir(parents=True, exist_ok=True)
 
 
-def ensure_asset_root_clean() -> None:
+def ensure_asset_root_ready() -> None:
     asset_resolved = ASSET_ROOT.resolve()
     docs_resolved = DOCS.resolve()
     if docs_resolved not in asset_resolved.parents:
         raise RuntimeError(f"Unsafe generated asset path: {asset_resolved}")
-    if ASSET_ROOT.exists():
-        shutil.rmtree(ASSET_ROOT)
+    ASSET_ROOT.mkdir(parents=True, exist_ok=True)
+
+
+def prune_stale_assets(media_records: list[dict[str, Any]]) -> None:
+    expected = {
+        (DOCS / Path(record["local_path"])).resolve()
+        for record in media_records
+        if record.get("import_status") == "imported" and record.get("local_path")
+    }
+    root = ASSET_ROOT.resolve()
+    for path in ASSET_ROOT.rglob("*"):
+        if path.is_file() and path.resolve() not in expected:
+            if root not in path.resolve().parents:
+                raise RuntimeError(f"Unsafe stale asset path: {path}")
+            path.unlink()
+    for directory in sorted(
+        (path for path in ASSET_ROOT.rglob("*") if path.is_dir()),
+        key=lambda path: len(path.parts),
+        reverse=True,
+    ):
+        if not any(directory.iterdir()):
+            directory.rmdir()
 
 
 def normalize_generated_text(value: str) -> str:
@@ -1358,8 +1845,16 @@ def audit_generated_links(root: Path) -> list[str]:
             target = unquote(target.split("#", 1)[0].split("?", 1)[0])
             if not target:
                 continue
-            candidate = (page.with_suffix("") / target).resolve()
-            source_candidate = Path(str(candidate).rstrip("\\/") + ".md") if target.endswith("/") else candidate
+            rendered_dir = page.parent if page.name == "index.md" else page.with_suffix("")
+            candidate = (rendered_dir / target).resolve()
+            if target.endswith("/"):
+                source_candidate = (
+                    candidate / "index.md"
+                    if candidate.is_dir()
+                    else Path(str(candidate).rstrip("\\/") + ".md")
+                )
+            else:
+                source_candidate = candidate
             if not source_candidate.exists():
                 errors.append(f"{page.relative_to(ROOT)} -> missing rendered target {target}")
     return errors
@@ -1397,10 +1892,14 @@ def main() -> int:
         key=str.casefold,
     )
     media_records = fetch_media_metadata(client, image_titles)
-    ensure_asset_root_clean()
+    file_page_license = verify_file_page_license(client, media_records)
+    ensure_asset_root_ready()
     media_records, media_lookup, media_category_counts = prepare_media(
-        client, media_records, page_records
+        client, media_records, page_records, file_page_license
     )
+    prune_stale_assets(media_records)
+    attach_page_media(page_records, media_lookup)
+    related_map = build_related_map(page_records)
 
     canonical_lookup = {
         normalize_title(record["source_title"]): record for record in page_records
@@ -1412,6 +1911,7 @@ def main() -> int:
         body_html, links, imported_placements, skipped_placements = clean_article_html(
             record, canonical_lookup, resolved_redirects, media_lookup
         )
+        record["_clean_html"] = body_html
         counters["internal_links_converted"] += links
         counters["media_placements_imported"] += imported_placements
         counters["media_placements_omitted"] += skipped_placements
@@ -1421,7 +1921,14 @@ def main() -> int:
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_text(
             normalize_generated_text(
-                render_page(record, body_html, aliases, overlay, skipped_placements)
+                render_page(
+                    record,
+                    body_html,
+                    aliases,
+                    overlay,
+                    skipped_placements,
+                    related_map.get(record["page_id"], []),
+                )
             ),
             encoding="utf-8",
         )

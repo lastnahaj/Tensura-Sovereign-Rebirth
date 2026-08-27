@@ -39,10 +39,18 @@ for md in markdown_files:
         is_generated = DOCS in md.parents and md.relative_to(DOCS).as_posix().startswith(
             "tensura-reference/"
         )
-        if is_generated and not target.startswith("/"):
-            candidate = (md.with_suffix("") / target).resolve()
+        is_rendered_route = (
+            DOCS in md.parents and target.endswith("/") and not target.startswith("/")
+        )
+        if not target.startswith("/") and (is_generated or is_rendered_route):
+            rendered_dir = md.parent if md.name == "index.md" else md.with_suffix("")
+            candidate = (rendered_dir / target).resolve()
             if target.endswith("/"):
-                candidate = Path(str(candidate).rstrip("\\/") + ".md")
+                candidate = (
+                    candidate / "index.md"
+                    if candidate.is_dir()
+                    else Path(str(candidate).rstrip("\\/") + ".md")
+                )
         else:
             candidate = (ROOT / target.lstrip("/")) if target.startswith("/") else (md.parent / target)
         validate_candidate(md, target, candidate)
@@ -81,6 +89,7 @@ if missing_from_nav:
     errors.append("mkdocs.yml -> documents missing from nav: " + ", ".join(sorted(missing_from_nav)))
 
 asset_targets = list(mkdocs.get("extra_css", []))
+asset_targets.extend(mkdocs.get("extra_javascript", []))
 theme = mkdocs.get("theme", {})
 asset_targets.extend(theme.get(key) for key in ("logo", "favicon") if theme.get(key))
 for target in asset_targets:

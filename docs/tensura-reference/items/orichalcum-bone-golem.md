@@ -9,10 +9,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/orichalcum-bone-golem-a6df50b104.png" alt="Orichalcum Bone Golem source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_bone_golem.png">Orichalcum bone golem.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A golem resembling a skeleton made out of Orichalcum. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates by right clicking them with the bone golem in hand</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Info">Info</a>
+<a href="#Body_Stats">Body Stats</a>
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Bone Golem</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Orichalcum_bone_golem.png"><img alt="orichalcum_bone_golem.png: Infobox image for Orichalcum Bone Golem the item in Minecraft" class="pixel-image" data-file-height="96" data-file-width="16" decoding="async" height="960" loading="lazy" src="../../../assets/upstream/tensura/items/orichalcum-bone-golem-a6df50b104.png" width="160"/></a></div>
 </div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -56,11 +76,52 @@ Allows the player to possess it and works as a physical body, can also be given 
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../orc-disaster-head/">
+<img src="../../../assets/upstream/tensura/items/orc-disaster-head-d23c9bda24.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster Head</strong>
+<small>The severed head of the Orc Disaster taken as a trophy.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-orichalcum-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Gear Schematic</strong>
+<small>Obtained by picking up an Orichalcum Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-saddle/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-saddle-86c866ae46.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Saddle</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-ingot/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-orichalcum-ingot-bbd3b54ff8.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Ingot</strong>
+<small>Smelting Magic Ore and Gold in Kiln Each Orichalcum Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Gold.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Orichalcum Bone Golem](https://tensura.wiki.gg/wiki/Orichalcum_Bone_Golem) on the Tensura: Reincarnated Wiki (revision `12913`, modified `2026-05-25T08:40:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_bone_golem.png">Orichalcum bone golem.png</a> — CC BY-SA 4.0; uploaded by Rip Gold; revision 11961</li>
+</ul>
+</details>

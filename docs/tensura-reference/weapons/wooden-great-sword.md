@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-wooden-great-sword-a01143880b.png" alt="Wooden Great Sword source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Great_Sword.png">Invicon Wooden Great Sword.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wooden_Great_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Wooden Great Sword</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Wooden_Great_Sword.png"><img alt="Wooden Great Sword.png: Infobox image for Wooden Great Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/wooden-great-sword-cb224c1d63.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Wooden Great Sword"><a href="./" title="Wooden Great Sword"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -104,11 +124,59 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../unicorn-horn-spear/">
+<img src="../../../assets/upstream/tensura/items/invicon-unicorn-horn-spear-4902d21668.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Unicorn Horn Spear</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../wooden-long-sword/">
+<img src="../../../assets/upstream/tensura/items/invicon-wooden-long-sword-c355607907.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Wooden Long Sword</strong>
+<small>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../tempest-scale-sword/">
+<img src="../../../assets/upstream/tensura/items/invicon-tempest-scale-sword-c318437acf.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Tempest Scale Sword</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../wooden-short-sword/">
+<img src="../../../assets/upstream/tensura/items/invicon-wooden-short-sword-bfebc9c590.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Wooden Short Sword</strong>
+<small>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Wooden Great Sword](https://tensura.wiki.gg/wiki/Wooden_Great_Sword) on the Tensura: Reincarnated Wiki (revision `10911`, modified `2025-11-24T10:08:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Great_Sword.png">Invicon Wooden Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6777</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Wooden_Great_Sword.png">Wooden Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7294</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oak_Planks.png">Invicon Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4438</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+</ul>
+</details>

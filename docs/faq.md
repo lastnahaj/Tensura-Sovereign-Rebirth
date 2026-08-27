@@ -82,4 +82,4 @@ Use the repository's [issue forms](https://github.com/lastnahaj/Tensura-Sovereig
 
 ## Where did the base reference come from?
 
-It is adapted from the official Tensura: Reincarnated Wiki through a revision-tracked MediaWiki API pipeline. See [Upstream Attribution](project/upstream-attribution.md) and [Ingestion Coverage](project/ingestion-coverage.md). Media without an explicit reusable File-page license is not redistributed.
+It is adapted from the official Tensura: Reincarnated Wiki through a revision-tracked MediaWiki API pipeline. See [Upstream Attribution](project/upstream-attribution.md) and [Ingestion Coverage](project/ingestion-coverage.md). Media is imported under the upstream File-page CC BY-SA declaration after checking for per-file exceptions.

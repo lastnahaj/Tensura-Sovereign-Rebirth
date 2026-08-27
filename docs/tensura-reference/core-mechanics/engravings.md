@@ -8,6 +8,31 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/misc/silver-ingot-7613a3194c.png" alt="Engravings source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Silver_Ingot.png">Silver Ingot.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Allow your Weapons, Armor and Tools to be enchanted with specific effects</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Info">Info</a>
+<a href="#Common_Engravings">Common Engravings</a>
+<a href="#Uncommon_Engravings">Uncommon Engravings</a>
+<a href="#Rare_Engravings">Rare Engravings</a>
+<a href="#Epic_Engravings">Epic Engravings</a>
+<a href="#Curses">Curses</a>
+<a href="#Blessing">Blessing</a>
+<a href="#Exclusive_Engravings">Exclusive Engravings</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h2><span class="mw-headline" id="Info">Info</span></h2>
 <p><big> Allow your Weapons, Armor and Tools to be enchanted with specific effects </big>
@@ -187,11 +212,56 @@ Armor exclusive only. Reduce the amount of magic damage taken by the wearer by 1
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../effects/">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Effects</strong>
+<small>The Effects of Tensura: Reincarnated!</small>
+</span>
+</a>
+<a class="reference-related-card" href="../ep-magicule-aura/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>EP, Magicule, Aura</strong>
+<small>EP (short for Evolution Points ) is a rough indicator of how strong a Mob, Player, or Item is. Both you and certain…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dodging/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dodging</strong>
+<small>Observe...Observer..Observation Haki!?</small>
+</span>
+</a>
+<a class="reference-related-card" href="../existence-points/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Existence Points</strong>
+<small>Did someone just rate my existence...? and its over 9000!?!?!?!</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Engravings](https://tensura.wiki.gg/wiki/Engravings) on the Tensura: Reincarnated Wiki (revision `13335`, modified `2026-07-31T12:56:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (2 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Silver_Ingot.png">Silver Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7228</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Ingot.gif">Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2265</li>
+</ul>
+</details>

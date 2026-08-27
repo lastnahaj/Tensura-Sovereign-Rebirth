@@ -18,6 +18,7 @@ Use `--refresh` to ignore the response cache. The synchronizer is deliberately
 paced and single-threaded. Generated pages are replaced as one owned output
 tree; handcrafted TSR pages elsewhere in `docs/` are never rewritten.
 
-Media is downloaded only when the upstream File page exposes an explicitly
-reusable license. Files with missing, ambiguous, fair-use, or restrictive
-license metadata remain source-linked and are recorded as skipped.
+The synchronizer verifies the upstream File-page CC BY-SA 4.0 declaration,
+then checks every file's metadata and page text for exceptions. Media is
+downloaded with its source page and revision recorded unless the file states
+fair-use, non-free, or restrictive terms.

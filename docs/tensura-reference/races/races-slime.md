@@ -9,10 +9,31 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="Slime source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:I%E2%80%99m_not_a_bad_slime!.png">I’m not a bad slime!.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A Spectral race of monsters that lacks intelligence and ambition. They&#x27;re usually passive but are incredibly ruthless once provoked.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Description">Description</a>
+<a href="#Evolution">Evolution</a>
+<a href="#Tutorial_Video">Tutorial Video</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:I%E2%80%99m_not_a_bad_slime!.png"><img alt="I’m not a bad slime!.png" class="thumbborder" data-file-height="329" data-file-width="748" decoding="async" height="329" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" width="748"/></a>
 </p>
-<div class="druid-infobox druid-container druid-container-race" id="druid-container-1"><div><div class="druid-title">Slime</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-race" id="druid-container-1"><div><div class="druid-title">Slime</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Slime_Race.png"><img alt="Slime Race.png" data-file-height="199" data-file-width="193" decoding="async" height="309" loading="lazy" src="../../../assets/upstream/tensura/races/slime-race-b4f735c48a.png" width="300"/></a></div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 10</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 75</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 0.5 Meters(Half a block)</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -75,11 +96,57 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races/">
+<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Races</strong>
+<small>The Many Difference Races of Tensura: Reincarnated</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-spirit-beast/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spirit Beast</strong>
+<small>Divine Beast - 2,000,000 EP</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-orc-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Lord</strong>
+<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-spirit-bird/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spirit Bird</strong>
+<small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Races/Slime](https://tensura.wiki.gg/wiki/Races/Slime) on the Tensura: Reincarnated Wiki (revision `11909`, modified `2026-04-16T14:55:41Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (3 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Slime_Race.png">Slime Race.png</a> — CC BY-SA 4.0; uploaded by DiscipleAtlas; revision 5920</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:I%E2%80%99m_not_a_bad_slime!.png">I’m not a bad slime!.png</a> — CC BY-SA 4.0; uploaded by DiscipleAtlas; revision 5918</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+</ul>
+</details>

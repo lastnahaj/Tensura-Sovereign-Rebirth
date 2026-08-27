@@ -9,9 +9,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="Knight Spider Carapace Gear Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtained by picking up a Knight Spider Carapace</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Knight Spider Carapace Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
-
+<a class="image image-thumbnail reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Schematic.png" title="Schematic.png">
+<img alt="Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" width="270"/>
+</a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Rare</div>
@@ -37,11 +58,56 @@ Allows Crafting of Knight Spider Carapace (tools?)/armor
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../knight-spider-carapace/">
+<img src="../../../assets/upstream/tensura/armor/invicon-knight-spider-carapace-889394c829.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Carapace</strong>
+<small>A strong armor from the body of a Knight Spider .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../knight-spider-leg/">
+<img src="../../../assets/upstream/tensura/items/invicon-knight-spider-leg-707dd10237.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Leg</strong>
+<small>Killing/Defeating a Knight Spider</small>
+</span>
+</a>
+<a class="reference-related-card" href="../kanabo/">
+<img src="../../../assets/upstream/tensura/items/invicon-kanabo-ec877d1f97.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kanabo</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-kunai-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-kunai-schematic-6080250026.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kunai Schematic</strong>
+<small>Found in Abandoned Mineshafts - 10% Chance</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Knight Spider Carapace Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Knight_Spider_Carapace_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `4089`, modified `2024-12-27T17:43:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (2 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Knight_Spider_Carapace.png">Knight Spider Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7097</li>
+</ul>
+</details>

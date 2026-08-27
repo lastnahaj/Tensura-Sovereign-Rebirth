@@ -12,17 +12,32 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/palm-wood-7a70ca82a0.png" alt="Palm Wood source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Palm Wood.</p>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Palm_Wood?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Palm Wood</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png"><img alt="Palm Wood.png: Infobox image for Palm Wood the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/palm-wood-7a70ca82a0.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Palm Wood
 </p>
 </div></div>
@@ -100,11 +115,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-palm-log/">
+<img src="../../../assets/upstream/tensura/items/palm-log-7d04272437.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Palm Log</strong>
+<small>Upstream reference information for Palm Log.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-silver-ore/">
+<img src="../../../assets/upstream/tensura/items/silver-ore-58a494883b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Silver Ore</strong>
+<small>Deepslate Silver Ore</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-moth-egg/">
+<img src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Moth Egg</strong>
+<small>Upstream reference information for Moth Egg.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-slime-chunk-block/">
+<img src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Slime Chunk Block</strong>
+<small>Upstream reference information for Slime Chunk Block.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Palm Wood](https://tensura.wiki.gg/wiki/Blocks/Palm_Wood) on the Tensura: Reincarnated Wiki (revision `7518`, modified `2025-02-13T09:23:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Palm_Wood.png">Invicon Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6925</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:SlotSprite_Axe_Required.png">SlotSprite Axe Required.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5549</li>
+</ul>
+</details>

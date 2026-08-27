@@ -1,15 +1,15 @@
 # Tensura Wiki Ingestion Coverage
 
-**Snapshot:** `2026-08-27T16:11:16Z`
+**Snapshot:** `2026-08-27T17:20:50Z`
 **Source:** [https://tensura.wiki.gg/](https://tensura.wiki.gg/)
 
 ## Article coverage
 
 | Measure | Count |
 |---|---:|
-| Canonical pages discovered | 986 |
-| Pages considered relevant | 973 |
-| Pages imported/adapted | 973 |
+| Canonical pages discovered | 988 |
+| Pages considered relevant | 975 |
+| Pages imported/adapted | 975 |
 | Redirects processed | 387 |
 | Redirects skipped as non-content | 11 |
 | Redirects failed | 0 |
@@ -21,17 +21,17 @@
 | Measure | Count |
 |---|---:|
 | Images discovered | 1728 |
-| Distinct File records resolved | 1724 |
-| Images imported | 0 |
-| Imported image placements | 0 |
-| Images skipped due to licensing | 1624 |
-| Images failed | 100 |
+| Distinct File records resolved | 1726 |
+| Images imported | 1623 |
+| Imported image placements | 1333 |
+| Images skipped due to licensing | 0 |
+| Images failed | 103 |
 
-Images without an explicit reusable license on their individual upstream File page are not redistributed, even when the surrounding article is reusable under the wiki's general text license.
+The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.
 
 ## Link conversion
 
-- Internal links converted to local TSR reference pages: **9118**
+- Internal links converted to local TSR reference pages: **9121**
 - Broken local links remaining: **0**
 
 ## Content categories
@@ -48,8 +48,9 @@ Images without an explicit reusable license on their individual upstream File pa
 | Core Mechanics | 34 |
 | Gamerules | 1 |
 | Items & Materials | 201 |
-| Magic | 143 |
+| Magic | 144 |
 | Mobs | 56 |
+| Other Reference | 1 |
 | Races | 69 |
 | Resistances | 43 |
 | Common Skills | 16 |
@@ -66,18 +67,18 @@ Images without an explicit reusable license on their individual upstream File pa
 
 | Category | Discovered files |
 |---|---:|
-| Armor | 76 |
+| Armor | 78 |
 | Battlewill | 23 |
 | Biomes | 4 |
 | Bosses | 12 |
-| Items | 935 |
+| Items | 936 |
 | Magic | 156 |
-| Misc | 42 |
+| Misc | 30 |
 | Mobs | 82 |
 | Races | 10 |
-| Resistances | 41 |
+| Resistances | 43 |
 | Skills | 172 |
-| Structures | 25 |
+| Structures | 34 |
 | Weapons | 146 |
 
 ## Machine-readable reports

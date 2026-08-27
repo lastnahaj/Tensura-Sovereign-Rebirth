@@ -9,11 +9,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" alt="Caster Tools Tutorial source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#What_are_Caster_Tools.3F">What are Caster Tools?</a>
+<a href="#How_do_Caster_Tools_work.3F">How do Caster Tools work?</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Caster_Tools_Tutorial?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -38,11 +57,52 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Tools</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../adamantite-shovel/">
+<img src="../../../assets/upstream/tensura/items/invicon-adamantite-shovel-3173ebb180.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Shovel</strong>
+<small>Obtainable through killing mobs while having Pure Magisteel Shovel in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-axe/">
+<img src="../../../assets/upstream/tensura/items/invicon-high-magisteel-axe-5d326d07af.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Axe</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Axe in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../adamantite-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-adamantite-pickaxe-30d9b4339b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Pickaxe</strong>
+<small>Obtainable through killing mobs while having Pure Magisteel Pickaxe in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-high-magisteel-hoe-f88f8f2d38.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Hoe</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Hoe in your offhand or equipped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Caster Tools Tutorial](https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial) on the Tensura: Reincarnated Wiki (revision `12819`, modified `2026-05-07T07:49:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+</ul>
+</details>

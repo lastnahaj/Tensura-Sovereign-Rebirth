@@ -9,10 +9,29 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-long-sword-schematic-0225e6203c.png" alt="Long Sword Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Long_Sword_Schematic.png">Invicon Long Sword Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Found in Dwarf Blacksmiths - 10% OR Found in Toolsmith Villager Houses - 20% Chance</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Long Sword Schematic</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Long_Sword_Schematic.png"><img alt="Long Sword Schematic.png: Infobox image for Long Sword Schematic the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/long-sword-schematic-9cfbb6c5b0.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Long Sword Schematic"><a href="https://tensura.wiki.gg/wiki/Long_Sword_Schematic" title="Long Sword Schematic"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -107,11 +126,90 @@ Allows Crafting of
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-leather-gear-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-leather-gear-schematic-e7b5c26b4f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Leather Gear Schematic</strong>
+<small>Obtained by picking up leather</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-bone-golem/">
+<img src="../../../assets/upstream/tensura/items/low-magisteel-bone-golem-776e56d6d8.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Bone Golem</strong>
+<small>A golem resembling a skeleton made out of low magisteel. Allows the player to possess it and works as a physical body…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-learnable/">
+<img src="../../../assets/upstream/tensura/items/invicon-battlewill-manual-1a31ecb7d9.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Learnable</strong>
+<small>Battlewills are skills equal to magic that use aura instead of magicules. See Battlewill Manual for all possible…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-low-magisteel-gear-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Gear Schematic</strong>
+<small>Obtained by picking up a Low Magisteel Ingot</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Long Sword Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Long_Sword_Schematic) on the Tensura: Reincarnated Wiki (revision `13282`, modified `2026-06-27T10:25:39Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (36 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Long_Sword_Schematic.png">Invicon Long Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12035</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Long_Sword_Schematic.png">Long Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13182</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Long_Sword.png">Invicon Wooden Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6780</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Long_Sword.png">Invicon Stone Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6751</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Long_Sword.png">Invicon Iron Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6572</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Long_Sword.png">Invicon Silver Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6713</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Long_Sword.png">Invicon Golden Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6523</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Long_Sword.png">Invicon Diamond Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6498</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Long_Sword.png">Invicon Netherite Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6655</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Long_Sword.png">Invicon Low Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6598</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Long_Sword.png">Invicon High Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6540</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Long_Sword.png">Invicon Pure Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10264</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Long_Sword.png">Invicon Orichalcum Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10295</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Long_Sword.png">Invicon Mithril Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10325</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Long_Sword.png">Invicon Adamantite Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10355</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Long_Sword.png">Invicon HihiIrokane Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10385</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Tempest_Scale_Sword.png">Invicon Tempest Scale Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6761</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ice_Blade.png">Invicon Ice Blade.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6565</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dead_End_Rainbow.png">Invicon Dead End Rainbow.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6493</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Meat_Crusher.png">Invicon Meat Crusher.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6613</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Moonlight.png">Invicon Moonlight.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6649</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ruhk.png">Invicon Ruhk.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13197</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Tachi.png">Invicon Wooden Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6786</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Tachi.png">Invicon Stone Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6757</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Tachi.png">Invicon Iron Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6578</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Tachi.png">Invicon Silver Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Tachi.png">Invicon Golden Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6529</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Tachi.png">Invicon Diamond Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6504</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Tachi.png">Invicon Netherite Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6661</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Tachi.png">Invicon Low Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6608</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Tachi.png">Invicon High Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6550</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Tachi.png">Invicon Pure Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10268</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Tachi.png">Invicon Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10299</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Tachi.png">Invicon Mithril Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10329</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Tachi.png">Invicon Adamantite Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10359</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Tachi.png">Invicon HihiIrokane Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10389</li>
+</ul>
+</details>

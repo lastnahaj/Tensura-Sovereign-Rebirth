@@ -11,10 +11,28 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/medium-quality-magic-crystal-block-41e6389805.png" alt="Medium Quality Magic Crystal Block source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Medium_Quality_Magic_Crystal_Block.png">Medium Quality Magic Crystal Block.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Medium Quality Magic Crystal Block</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Medium Quality Magic Crystal Block</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Medium_Quality_Magic_Crystal_Block.png"><img alt="Medium Quality Magic Crystal Block.png: Infobox image for Medium Quality Magic Crystal Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/medium-quality-magic-crystal-block-41e6389805.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Medium Quality Magic Crystal Block
 </p>
 </div></div>
@@ -105,11 +123,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-magic-ore/">
+<img src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Ore</strong>
+<small>Magic Ore : 3 Deepslate Magic Ore : 4.5</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-moth-egg/">
+<img src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Moth Egg</strong>
+<small>Upstream reference information for Moth Egg.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-magic-engine/">
+<img src="../../../assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Engine</strong>
+<small>To activate, you need to right click the magic engine to work.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-palm-log/">
+<img src="../../../assets/upstream/tensura/items/palm-log-7d04272437.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Palm Log</strong>
+<small>Upstream reference information for Palm Log.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Medium Quality Magic Crystal Block](https://tensura.wiki.gg/wiki/Blocks/Medium_Quality_Magic_Crystal_Block) on the Tensura: Reincarnated Wiki (revision `7426`, modified `2025-02-11T12:58:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Medium_Quality_Magic_Crystal_Block.png">Medium Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4112</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal_Block.png">Invicon Medium Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6892</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+</ul>
+</details>

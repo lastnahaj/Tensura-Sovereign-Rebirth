@@ -9,11 +9,32 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-raw-blade-tiger-meat-227f5ff7a3.png" alt="Consumables source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Consumables.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Raw">Raw</a>
+<a href="#Cooked">Cooked</a>
+<a href="#Drinks">Drinks</a>
+<a href="#Misc">Misc</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Consumables?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -157,11 +178,97 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../chilled-slime/">
+<img src="../../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Chilled Slime</strong>
+<small>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</small>
+</span>
+</a>
+<a class="reference-related-card" href="../cooked-armorsaurus-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-armorsaurus-meat-710c11eaaa.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Armorsaurus Meat</strong>
+<small>Cooking a Raw Armorsaurus Meat with a campfire, furnace, etc</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-charybdis-scalemail-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Charybdis Scalemail Schematic</strong>
+<small>Obtained by defeating Charybdis</small>
+</span>
+</a>
+<a class="reference-related-card" href="../cooked-blade-tiger-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-blade-tiger-meat-5271e9e1d7.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Blade Tiger Meat</strong>
+<small>Cooking a Raw Blade Tiger Meat with a campfire, furnace, etc</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Consumables](https://tensura.wiki.gg/wiki/Items/Consumables) on the Tensura: Reincarnated Wiki (revision `13049`, modified `2026-06-13T09:04:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (43 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cattledeer_Beef.png">Invicon Cattledeer Beef.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12814</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Charybdis_Meat.png">Invicon Raw Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6681</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Leg.png">Invicon Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6516</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Megalodon_Meat.png">Invicon Raw Megalodon Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6683</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Spear_Toro_Meat.png">Invicon Raw Spear Toro Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6687</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spear_Toro_Fin.png">Invicon Spear Toro Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6737</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Sissie_Meat.png">Invicon Raw Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6686</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Fin.png">Invicon Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6724</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Steak.png">Invicon Blade Tiger Steak.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6457</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Armorsaurus_Meat.png">Invicon Cooked Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12218</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cattledeer_Steak.png">Invicon Cattledeer Steak.png</a> — CC BY-SA 4.0; uploaded by Primal Aspid; revision 13051</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Charybdis_Meat.png">Invicon Cooked Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6477</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Giant_Ant_Leg.png">Invicon Cooked Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6478</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Giant_Bat_Meat.png">Invicon Cooked Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6479</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Knight_Spider_Leg.png">Invicon Cooked Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6480</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Megalodon_Meat.png">Invicon Cooked Megalodon Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6481</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Serpent_Meat.png">Invicon Cooked Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6483</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Spear_Toro_Meat.png">Invicon Cooked Spear Toro Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6487</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Spear_Toro_Fin.png">Invicon Cooked Spear Toro Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6486</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Meat.png">Invicon Cooked Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6485</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Fin.png">Invicon Cooked Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6484</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle.png">Invicon Magic Bottle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6611</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle_of_Water.png">Invicon Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4381</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png">Invicon Vacuumed Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4356</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png">Invicon Low Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6609</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png">Invicon Full Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6513</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Revival_Elixir.gif">Revival Elixir.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10583</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Holy_Water.gif">Holy Water.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4395</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Greater_Holy_Water.gif">Greater Holy Water.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4396</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Holy_Milk.gif">Holy Milk.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4397</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Holy_Milk_Bucket.gif">Holy Milk Bucket.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4394</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bulldeer_Milk_Bucket.png">Invicon Bulldeer Milk Bucket.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4360</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dubious_Food.png">Invicon Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6508</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6701</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Enchanted_Silver_Apple.gif">Enchanted Silver Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4393</li>
+</ul>
+</details>

@@ -8,6 +8,29 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-low-quality-magic-crystal-148c872487.png" alt="Mob Drops source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>These are primarily obtained via Mobs, unless specified otherwise</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Magic_Crystals">Magic Crystals</a>
+<a href="#Monster_Leather">Monster Leather</a>
+<a href="#Specific_mob_drops">Specific mob drops</a>
+<a href="#Essence">Essence</a>
+<a href="#Blood">Blood</a>
+<a href="#Misc">Misc</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big>These are primarily obtained via Mobs, unless specified otherwise</big></big>
 </p>
@@ -143,11 +166,91 @@ tags: []
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mithril-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-nugget-f9c451283a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Nugget</strong>
+<small>Smelting Magic Ore and Iron in Kiln Each Mithril Ingot is made with 5 parts Molten Magisteel, 4 parts Molten Silver.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-a-95ccd9dce6.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (A)</strong>
+<small>A Monster Leather of Rank-A</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mithril-ingot/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-mithril-ingot-bd9f7e8677.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Ingot</strong>
+<small>Smelting Magic Ore and Silver in Kiln Each Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-b/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-b-05262732b1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (B)</strong>
+<small>A Monster Leather of Rank-B</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wiki/Items/Mob_Drops) on the Tensura: Reincarnated Wiki (revision `12783`, modified `2026-05-06T10:27:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (37 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(B).png">Invicon Monster Leather (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6819</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(Special_A).png">Invicon Monster Leather (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6822</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Invisible_Feather.png">Invicon Invisible Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6568</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hell-Moth_Silk.png">Invicon Hell-Moth Silk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6814</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gehenna-Moth_Silk.png">Invicon Gehenna-Moth Silk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6813</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Carapace.png">Invicon Giant Ant Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6515</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace.png">Invicon Knight Spider Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6580</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Insectar_Carapace.png">Invicon Insectar Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6566</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scale.png">Invicon Armorsaurus Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12235</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Shell.png">Invicon Armorsaurus Shell.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12232</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scale.png">Invicon Serpent Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6693</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Stinger.png">Invicon Centipede Stinger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6466</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Fang.png">Invicon Spider Fang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6742</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Tail.png">Invicon Blade Tiger Tail.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6459</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Core.png">Invicon Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6729</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sticky_Thread.png">Invicon Sticky Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6746</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Steel_Thread.png">Invicon Steel Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6743</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Tooth.png">Invicon Sissie Tooth.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Beast_Horn.png">Invicon Beast Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6453</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Unicorn_Horn.png">Invicon Unicorn Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6764</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Essence.png">Invicon Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6505</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orc_Disaster_Head.png">Orc Disaster Head.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png">Invicon Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6467</li>
+</ul>
+</details>

@@ -9,8 +9,28 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
 
+<section class="reference-overview reference-theme-abilities">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/magic/demon-dominate-da7fb83120.png" alt="Demon Dominate source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Demon_dominate.png">Demon dominate.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Dominate strong targets using magic and put them under your control</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Effect">Effect</a>
+<a href="#Mastery_Bonus">Mastery Bonus</a>
+<a href="#Notes">Notes</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Demon Dominate</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Demon Dominate</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Demon_dominate.png"><img alt="Demon dominate.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/demon-dominate-da7fb83120.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
 100,000 MP</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 100 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -45,11 +65,52 @@ Learning it from a tome</div></div></div></div>
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Magic</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../darkness-cannon/">
+<img src="../../../assets/upstream/tensura/magic/darkness-cannon-1625fd2681.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Darkness Cannon</strong>
+<small>Shoot a long beam which deals massive damage, destroys Armor and debilitates enemies</small>
+</span>
+</a>
+<a class="reference-related-card" href="../demon-marionette/">
+<img src="../../../assets/upstream/tensura/magic/demon-marionette-8eb67f90b8.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Demon Marionette</strong>
+<small>Completely dominate foes strong enough to be considered demon lord seeds and put them under your control</small>
+</span>
+</a>
+<a class="reference-related-card" href="../darkness/">
+<img src="../../../assets/upstream/tensura/magic/darkness-642eaafa5a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Darkness</strong>
+<small>Call on your spirit to reduce the enemy&#x27;s vision in a wide area.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dimensional-cutter/">
+<img src="../../../assets/upstream/tensura/magic/dimensional-cutter-2b3bbe5f08.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dimensional Cutter</strong>
+<small>Why does this make want to scream &quot;Yamimatoi: Jigengiri&quot;?</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Demon Dominate](https://tensura.wiki.gg/wiki/Demon_Dominate) on the Tensura: Reincarnated Wiki (revision `13342`, modified `2026-08-01T22:44:31Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Demon_dominate.png">Demon dominate.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12084</li>
+</ul>
+</details>

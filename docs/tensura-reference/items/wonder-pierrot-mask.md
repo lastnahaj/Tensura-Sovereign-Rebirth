@@ -13,17 +13,35 @@ tags:
 
 **Also known as:** Items/Armours/Wonder Pierrot Mask
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-wonder-pierrot-mask-41b6492898.png" alt="Wonder Pierrot Mask source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wonder_Pierrot_Mask.png">Invicon Wonder Pierrot Mask.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the Wonder Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Crafting">Crafting</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wonder_Pierrot_Mask?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Wonder Pierrot Mask</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Wonder_Pierrot_Mask.png"><img alt="Wonder Pierrot Mask.png: Infobox image for Wonder Pierrot Mask the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/wonder-pierrot-mask-dfb44664b7.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Wonder Pierrot Mask"><a href="./" title="&amp;6Wonder Pierrot Mask"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -87,11 +105,63 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-winged-shoes-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Winged Shoes Schematic</strong>
+<small>Holding a Dragon Peacock Feather</small>
+</span>
+</a>
+<a class="reference-related-card" href="../zane-blood/">
+<img src="../../../assets/upstream/tensura/magic/invicon-zane-blood-708f3c9a73.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Zane Blood</strong>
+<small>The blood of an ancient vampire.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-web-gun-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-web-gun-schematic-cd98ec9f52.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Web Gun Schematic</strong>
+<small>Found in Spider Nest - 20% Chance OR Killing a Black Spider</small>
+</span>
+</a>
+<a class="reference-related-card" href="../warp-core/">
+<img src="../../../assets/upstream/tensura/items/invicon-warp-core-497c492f78.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Warp Core</strong>
+<small>Can be obtained by crafting at a Smithing Bench</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Wonder Pierrot Mask](https://tensura.wiki.gg/wiki/Wonder_Pierrot_Mask) on the Tensura: Reincarnated Wiki (revision `10846`, modified `2025-11-16T11:02:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (9 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wonder_Pierrot_Mask.png">Invicon Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6776</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Wonder_Pierrot_Mask.png">Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7293</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Pierrot_Mask_Schematic.png">Pierrot Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13245</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Clay_Ball.gif">Invicon Clay Ball.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9266</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blue_Dye.png">Invicon Blue Dye.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10755</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Black_Dye.png">Invicon Black Dye.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10756</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Dye.gif">Invicon Red Dye.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9267</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pink_Dye.png">Invicon Pink Dye.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10757</li>
+</ul>
+</details>

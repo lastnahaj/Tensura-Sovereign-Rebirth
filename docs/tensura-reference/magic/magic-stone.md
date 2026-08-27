@@ -9,10 +9,29 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
 
+<section class="reference-overview reference-theme-abilities">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/magic/magic-stone-0889a709d3.png" alt="Magic Stone source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Magic_Stone.png">Magic Stone.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Can be obtained by crafting at a Smithing Bench</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Magic Stone</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Magic_Stone.png"><img alt="Magic Stone.png: Infobox image for Magic Stone the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-stone-0889a709d3.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Stone"><a href="./" title="Magic Stone"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -131,11 +150,73 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Magic</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../magic-staff-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Staff Schematic</strong>
+<small>Can be acquired from master magic trainer dwarves for 10 gold coins.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-tome/">
+<img src="../../../assets/upstream/tensura/items/invicon-magic-tome-2d21681fbe.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Tome</strong>
+<small>Found in: Wizard Tower</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-space-transform/">
+<img src="../../../assets/upstream/tensura/magic/magic-space-transform-609d571eda.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Space Transform</strong>
+<small>Gain access to Greater Space Spirit Magic and boost your spatial attacks while buffing yourself and debuffing enemies</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-wall/">
+<img src="../../../assets/upstream/tensura/magic/magic-wall-23122c5c9b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Wall</strong>
+<small>Use pure magic to create a wall in front of you</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Magic Stone](https://tensura.wiki.gg/wiki/Magic_Stone) on the Tensura: Reincarnated Wiki (revision `9515`, modified `2025-04-23T18:33:42Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (19 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Stone.png">Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7130</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Character_Reset_Scroll.png">Invicon Character Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3104</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Skill_Reset_Scroll.png">Invicon Skill Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3100</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Race_Reset_Scroll.png">Invicon Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3103</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
+</ul>
+</details>

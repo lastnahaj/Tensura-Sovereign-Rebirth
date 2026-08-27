@@ -14,15 +14,40 @@ tags:
 
 **Also known as:** Praying, Spirit Tree, Spirits
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/structures/labyrinth-tree-91af502379.png" alt="Labyrinth Tree source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_tree.png">Labyrinth tree.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>The labyrinth tree is used to enter the Labyrinth</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Utility">Utility</a>
+<a href="#Locating">Locating</a>
+<a href="#Outcome_1:_Death">Outcome 1: Death</a>
+<a href="#Outcome_2:_Victory">Outcome 2: Victory</a>
+<a href="#Spirit_tiers">Spirit tiers</a>
+<a href="#Spirit_elements">Spirit elements</a>
+<a href="#Cooldown">Cooldown</a>
+<a href="#Alternate_Obtainment">Alternate Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Labyrinth_Tree?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Labyrinth Tree</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
+<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Labyrinth Tree</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_tree.png"><img alt="Labyrinth tree.png" data-file-height="1024" data-file-width="1024" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/structures/labyrinth-tree-91af502379.png" width="512"/></a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 <a href="../../biomes/biomes-ancient-forest/" title="Biomes/Ancient Forest">Ancient Forest</a></div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div></div>
 
@@ -58,7 +83,7 @@ tags:
 <p>A <span class="nowrap"><span class="sprite-file"><a href="../../items/explorer-maps/" title="Labyrinth Explorer Map"></a></span> <a class="mw-redirect" href="../../items/explorer-maps/" title="Labyrinth Explorer Map"><span class="sprite-text">Labyrinth Explorer Map</span></a></span> can be acquired from a master level <a href="../../mobs/mobs-dwarf/" title="Mobs/Dwarf">Cartographer Dwarf</a>, which leads towards a nearby Labyrinth Tree.
 </p>
 <h1><span id="The_Labyrinth_.28dimension.29"></span><span class="mw-headline" id="The_Labyrinth_(dimension)">The Labyrinth (dimension)</span></h1>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png" title="Enlarge"></a></div>Arena in which you can fight the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png"><img class="thumbimage" data-file-height="1369" data-file-width="2543" decoding="async" height="172" loading="lazy" src="../../../assets/upstream/tensura/structures/labyrinth-arena-8fd18214ea.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png" title="Enlarge"></a></div>Arena in which you can fight the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div>
 <p>Upon entry of the labyrinth one will face a big hallway, with a stair going upwards leading to the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a> spawn platform. <br/>
 </p><p>You <b>CANNOT</b> avoid the colossus and go behind it to get a spirit, a barrier will stop you
 </p><p>There are 2 outcomes once you face the colossus, each giving you the option to enter the labyrinth.
@@ -71,7 +96,7 @@ tags:
 </p><p>When the <code>respawncolossus</code> gamerule is active, this is not the case. You will <b>NOT</b> get a pure magisteel block for killing the colossus.
 </p>
 <h1><span class="mw-headline" id="Obtaining_spirits">Obtaining spirits</span></h1>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png" title="Enlarge"></a></div>The circular area on top is where the player can pray for spirits.</div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png"><img class="thumbimage" data-file-height="1369" data-file-width="1204" decoding="async" height="364" loading="lazy" src="../../../assets/upstream/tensura/items/labyrinth-crystal-754c2177dd.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png" title="Enlarge"></a></div>The circular area on top is where the player can pray for spirits.</div></div></div>
 <p>After defeating (or dying to) the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a>, one can go to the direction of the stairs leading upwards to the Praying platform and sneak on the Praying Path for 20 seconds for a chance to get a Spirit.
 </p><p>Once they either succeed or fail to get a Spirit, they will have a <b>20 minute cooldown on praying</b>, after the cooldown runs out, they can pray again, if players pray while they’re still on cooldown, they will get teleported to the entrance.
 </p>
@@ -217,11 +242,11 @@ These again can be summoned using <a href="../../magic/summon-greater-elemental/
 </p>
 <ul class="gallery mw-gallery-traditional">
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_hallway.png" title="Player starts in this hallway leading to the arena when they first enter the labyrinth."><img alt="Player starts in this hallway leading to the arena when they first enter the labyrinth." data-file-height="1369" data-file-width="2100" decoding="async" height="78" loading="lazy" src="../../../assets/upstream/tensura/structures/labyrinth-hallway-10fc0a387d.png" width="120"/></a></div></div>
 <div class="gallerytext">Player starts in this hallway leading to the arena when they first enter the labyrinth.</div>
 </div></li>
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_spirits_praying.gif" title="Effects play when praying for spirits."><img alt="Effects play when praying for spirits." data-file-height="240" data-file-width="320" decoding="async" height="90" loading="lazy" src="../../../assets/upstream/tensura/structures/labyrinth-spirits-praying-549685f3fa.gif" width="120"/></a></div></div>
 <div class="gallerytext">Effects play when praying for spirits.</div>
 </div></li>
 </ul>
@@ -237,11 +262,61 @@ Small chance to obtain spirit level, magics and manipulation will become availab
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Structures</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../structures-hell-gate/">
+<img src="../../../assets/upstream/tensura/structures/hell-gate-d975cc9cee.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hell Gate</strong>
+<small>A rare structure able to spawn in many biomes across the overworld as well as in the hell dimension.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-lizardman-village/">
+<img src="../../../assets/upstream/tensura/structures/lizardman-village-0f92a7cd61.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Lizardman Village</strong>
+<small>Sometimes these structures have a blacksmith, whose barrel has a 50% for the Spear Schematic .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-goblin-village/">
+<img src="../../../assets/upstream/tensura/structures/small-goblin-village-35ad99e6a5.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Goblin Village</strong>
+<small>Inside the chief house there is a chest, in which the Short Sword Schematic can be found with a 25% chance.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../ruins/">
+<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ruins</strong>
+<small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Structures/Labyrinth Tree](https://tensura.wiki.gg/wiki/Structures/Labyrinth_Tree) on the Tensura: Reincarnated Wiki (revision `13314`, modified `2026-07-04T14:33:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_tree.png">Labyrinth tree.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9068</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_hallway.png">Labyrinth hallway.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_spirits_praying.gif">Labyrinth spirits praying.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9097</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png">Invicon Labyrinth Explorer Map.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9943</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png">Labyrinth arena.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9092</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png">Labyrinth crystal.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9093</li>
+</ul>
+</details>

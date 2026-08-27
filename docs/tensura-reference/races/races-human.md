@@ -10,6 +10,27 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="Human source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot; I... Am Steve.. &quot; A weak but populous race that relies more on technology and numbers than brute force. Their low magicule count makes skills and magic users a rarity among them, instead favouring battlewill.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Traits">Traits</a>
+<a href="#Evolution">Evolution</a>
+<a href="#Tutorial_Video">Tutorial Video</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big>"<i>I... Am Steve..</i>"</big></big>
 <br/>
@@ -92,11 +113,55 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-hobgoblin-saint/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hobgoblin Saint</strong>
+<small>&quot; Why would you go this..? &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-human-saint/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Human Saint</strong>
+<small>&quot; Saint Nicholas died for this &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-hobgoblin/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hobgoblin</strong>
+<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/&quot;Die&quot; to Elemental Colossus</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-kijin/">
+<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kijin</strong>
+<small>&quot; Ahahahahaha... You&#x27;re Kijin me! &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Races/Human](https://tensura.wiki.gg/wiki/Races/Human) on the Tensura: Reincarnated Wiki (revision `13373`, modified `2026-08-20T23:12:18Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
+</ul>
+</details>

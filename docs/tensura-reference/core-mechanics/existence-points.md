@@ -8,6 +8,26 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Did someone just rate my existence...? and its over 9000!?!?!?!</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#What_are_Existence_Points.28EP.29.3F">What are Existence Points(EP)?</a>
+<a href="#How_does_EP_gain_work.3F">How does EP gain work?</a>
+<a href="#How_does_EP_loss_work.3F">How does EP loss work?</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big><i>Did someone just rate my existence...? and its over 9000!?!?!?!</i></big></big>
 </p>
@@ -37,6 +57,43 @@ tags: []
 EP remains a primary TSR progression measure. Installed compatibility and Ascension systems are used where they explicitly place external content on Tensura's scale, but TSR does not publish unverified custom thresholds or unsupported boss values.
 
 **TSR guides:** [Skills, EP & Magicules](../../skills-ep-and-magicules.md) · [Progression Overview](../../progression-overview.md)
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../ep-magicule-aura/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>EP, Magicule, Aura</strong>
+<small>EP (short for Evolution Points ) is a rough indicator of how strong a Mob, Player, or Item is. Both you and certain…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-fatal-poison/">
+<img src="../../../assets/upstream/tensura/misc/fatal-poison-4f989dc631.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Fatal Poison</strong>
+<small>A strong poison effect</small>
+</span>
+</a>
+<a class="reference-related-card" href="../engravings/">
+<img src="../../../assets/upstream/tensura/misc/silver-ingot-7613a3194c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Engravings</strong>
+<small>Allow your Weapons, Armor and Tools to be enchanted with specific effects</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-fear/">
+<img src="../../../assets/upstream/tensura/misc/fear-262c10c28a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Fear</strong>
+<small>Effect is given to entity&#x27;s using Coercion or any form of Haki .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

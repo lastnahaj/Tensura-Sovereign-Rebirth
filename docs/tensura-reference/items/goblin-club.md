@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-goblin-club-8774ab3680.png" alt="Goblin Club source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Can be crafted into a Kanabo To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Goblin_Club?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Goblin Club</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Goblin_Club.png"><img alt="Goblin Club.png: Infobox image for Goblin Club the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/goblin-club-391ae03fd5.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Goblin Club"><a href="./" title="Goblin Club"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -96,11 +116,60 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../giant-bat-wing/">
+<img src="../../../assets/upstream/tensura/items/invicon-giant-bat-wing-10238c5d1f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Giant Bat Wing</strong>
+<small>A large black wing from a Giant Bat .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-gold-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Gold Gear Schematic</strong>
+<small>Obtained by picking up a Gold Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../giant-ant-leg/">
+<img src="../../../assets/upstream/tensura/items/invicon-giant-ant-leg-b5f76671c3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Giant Ant Leg</strong>
+<small>Killing/Defeating a Giant Ant</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-great-sword-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-great-sword-schematic-60b4b567f1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Great Sword Schematic</strong>
+<small>Found in Weaponsmith Village Houses - 20% Chance</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Goblin Club](https://tensura.wiki.gg/wiki/Goblin_Club) on the Tensura: Reincarnated Wiki (revision `10245`, modified `2025-08-25T16:31:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (6 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6518</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Goblin_Club.png">Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7031</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6579</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+</ul>
+</details>

@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-sickle-0d9359016c.png" alt="Low Magisteel Sickle source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Low_Magisteel_Sickle?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Low Magisteel Sickle</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png"><img alt="Invicon Low Magisteel Sickle.png: Infobox image for Low Magisteel Sickle the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/invicon-low-magisteel-sickle-0d9359016c.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Low Magisteel Sickle"><a href="./" title="Low Magisteel Sickle"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -125,11 +144,60 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../low-magisteel-short-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-low-magisteel-short-sword-5881443d31.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Short Sword</strong>
+<small>To craft the weapon, one must have used Low Magisteel Gear Schematic and a Short Sword Schematic . To craft, you need…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-spear/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-low-magisteel-spear-675702a6cd.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Spear</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-scythe/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-scythe-f7ebc7c150.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Scythe</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-sword/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-sword-7b35a93f34.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Sword</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Low Magisteel Sickle](https://tensura.wiki.gg/wiki/Low_Magisteel_Sickle) on the Tensura: Reincarnated Wiki (revision `13143`, modified `2026-06-21T19:44:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (6 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13079</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Sickle.png">Invicon High Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6547</li>
+</ul>
+</details>

@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-raw-armorsaurus-meat-9c313337db.png" alt="Raw Armorsaurus Meat source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Killing/Defeating a Armorsaurus</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Armorsaurus_Meat?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Raw Armorsaurus Meat</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Raw_Armorsaurus_Meat.png"><img alt="Raw Armorsaurus Meat.png: Infobox image for Raw Armorsaurus Meat the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/raw-armorsaurus-meat-198153b523.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Raw Armorsaurus Meat"><a href="./" title="Raw Armorsaurus Meat"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -80,11 +99,61 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../race-reset-scroll/">
+<img src="../../../assets/upstream/tensura/items/invicon-race-reset-scroll-81da9aa9c2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Race Reset Scroll</strong>
+<small>Can only be obtained by crafting</small>
+</span>
+</a>
+<a class="reference-related-card" href="../raw-blade-tiger-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-raw-blade-tiger-meat-227f5ff7a3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Raw Blade Tiger Meat</strong>
+<small>Killing/Defeating a Blade Tiger</small>
+</span>
+</a>
+<a class="reference-related-card" href="../pure-magisteel-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-pure-magisteel-nugget-80785e84b5.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Pure Magisteel Nugget</strong>
+<small>Smelting magic ore in Kiln</small>
+</span>
+</a>
+<a class="reference-related-card" href="../raw-charybdis-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-raw-charybdis-meat-475c4433f9.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Raw Charybdis Meat</strong>
+<small>Killing/Defeating Charybdis</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Raw Armorsaurus Meat](https://tensura.wiki.gg/wiki/Raw_Armorsaurus_Meat) on the Tensura: Reincarnated Wiki (revision `12221`, modified `2026-04-21T07:36:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Raw_Armorsaurus_Meat.png">Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12224</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Half_Hunger_(icon).png">Half Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7508</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Armorsaurus_Meat.png">Invicon Cooked Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12218</li>
+</ul>
+</details>

@@ -1,6 +1,6 @@
 ---
 title: Greater Daemon
-description: '"Huh? You think you''re something now? Get out my sight..." Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body''s EP (if any) and 40k AP. This will affect energy regeneration, naming, EP drop, gear, awakening/race evolution and many skills activation/acquirement...'
+description: '"Huh? You think you''re something now? Get out my sight..." Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body''s EP (if any) and 40k AP. This will affect energy regeneration, naming, EP drop, gear, awakening/race evolution and many skills activation/acquirement…'
 tags:
 - Races
 ---
@@ -8,6 +8,26 @@ tags:
 # Greater Daemon
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
+
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body&#x27;s EP (if any) and 40k AP. This will affect energy regeneration, naming, EP drop, gear, awakening/race evolution and many skills activation/acquirement</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Description">Description</a>
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Evolution">Evolution</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>Huh? You think you're something now? Get out my sight...</i>"
@@ -48,6 +68,43 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-god-slime/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>God Slime</strong>
+<small>&quot; The Fattest Boi Around &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-harpy/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Harpy</strong>
+<small>Harpy? No I can&#x27;t play on of those A being similar to beastfolks specialized in air combat</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-goblin/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Goblin</strong>
+<small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-harpy-queen/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Harpy Queen</strong>
+<small>Yas queen slay! Rare kind of harpy that usually commands them all and governs over them</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

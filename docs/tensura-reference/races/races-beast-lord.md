@@ -9,6 +9,24 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Spirit Beast - 400,000 EP + Defeat 4 Bosses</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Evolution">Evolution</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>The furry lord</i>"
 </p>
@@ -42,6 +60,43 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-arch-daemon/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Arch Daemon</strong>
+<small>&quot; I hear you like to Arch it huh...? &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-beastfolk/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Beastfolk</strong>
+<small>A race that can freely change bewteen their true animal form and a more human form. They possess immense physical…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-ancient-giant/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ancient Giant</strong>
+<small>An ancient version of giants, more primitive but far stronger</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-daemon-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Daemon Lord</strong>
+<small>&quot; Lord of the Matt Daemons &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

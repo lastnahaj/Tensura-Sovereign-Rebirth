@@ -9,15 +9,35 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/mobs/greater-daemon-c1757c5521.gif" alt="Greater Daemon source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Greater_Daemon.gif">Greater Daemon.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot;Oooo its a big one!&quot;</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Drops">Drops</a>
+<a href="#Behaviours">Behaviours</a>
+<a href="#Note">Note</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mobs/Greater_Daemon?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Greater Daemon</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Greater Daemon</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Greater_Daemon.gif"><img alt="Greater Daemon.gif" data-file-height="340" data-file-width="250" decoding="async" height="696" loading="lazy" src="../../../assets/upstream/tensura/mobs/greater-daemon-c1757c5521.gif" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 Any Underworld biome</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 80</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
 400</div></div><div class="druid-row druid-row-armor" data-druid-section-row="Stats"><div class="druid-label druid-label-armor">Armor</div><div class="druid-data druid-data-armor druid-data-nonempty">
@@ -47,11 +67,58 @@ Any Underworld biome</div></div></div><div class="druid-section-container"><div 
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Mobs</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-goblin/">
+<img src="../../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Goblin</strong>
+<small>Have you heard about the mind goblin ? They say he lives here</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-hell-caterpillar/">
+<img src="../../../assets/upstream/tensura/mobs/hell-caterpillar-51b955eb86.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hell Caterpillar</strong>
+<small>2 - 4 Hell-Moth Silk 1 Medium Quality Magic Crystal</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-giant-cod/">
+<img src="../../../assets/upstream/tensura/mobs/giant-cod-faad523124.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Giant Cod</strong>
+<small>A rather large fish that is commonly found in water.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-hell-moth/">
+<img src="../../../assets/upstream/tensura/mobs/hell-moth-530610aade.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hell Moth</strong>
+<small>2 - 8 Hell-Moth Silk 1 Medium Quality Magic Crystal</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mobs/Greater Daemon](https://tensura.wiki.gg/wiki/Mobs/Greater_Daemon) on the Tensura: Reincarnated Wiki (revision `12785`, modified `2026-05-06T10:29:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Greater_Daemon.gif">Greater Daemon.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12609</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+</ul>
+</details>
