@@ -31,3 +31,9 @@ The intended campaign covers:
 → **raids and warfare where stable**
 
 Tensura x MineColonies is alpha software. Warfare/diplomacy systems are not made mandatory until multiplayer testing passes.
+
+## Beta stability baseline
+
+Core citizen and reputation integration is active. Factions, diplomacy, warfare, assassins, defense transformation, reputation raids, extra citizen aggression, and natural rival settlement generation are disabled. Colony blocks are protected from Tensura mob and skill griefing.
+
+The pack also limits colony population, raid size, background loading, pathfinding, and Structurize schematic work to keep settlement growth predictable on dedicated servers. These limits may be tuned after longer multiplayer profiling, but they are part of the reproducible beta baseline.

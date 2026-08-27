@@ -2,6 +2,8 @@
 
 Subordinates are a core part of TSR's nation and character fantasy.
 
+Use the base [Naming](tensura-reference/core-mechanics/naming.md) article for the upstream mechanic; this page explains TSR's subordinate and civilization integrations.
+
 ## Systems
 
 - Tensura naming/subordinate mechanics

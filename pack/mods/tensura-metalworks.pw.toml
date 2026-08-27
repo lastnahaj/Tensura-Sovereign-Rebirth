@@ -1,0 +1,13 @@
+name = "Tensura Metalworks"
+filename = "tenmetalworks-neoforge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a79f5846885db885099f073e262ef10c114c1406"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8302946
+project-id = 1580262

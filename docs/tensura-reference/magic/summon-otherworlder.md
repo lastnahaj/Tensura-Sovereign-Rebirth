@@ -1,0 +1,48 @@
+---
+title: Summon Otherworlder
+description: Summons an Otherworlder. Create a big circle that will last 30s. Anyone that knows this magic can cast the magic while looking at the created circle and pour 50k (100k with mastery) MP into the magic circle every 3 seconds. If the magic circle doesn't receive MP for 30 seconds, the spell automatically...
+tags:
+- Summoning_Magic
+---
+
+# Summon Otherworlder
+
+<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
+
+<div class="tensura-reference-article">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Summon Otherworlder</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+Summoning</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
+3000 MP</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
+3600 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
+1000</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
+Finding the spell in a Wizard Tower</div></div></div></div>
+<p>Summons an Otherworlder. <br/>
+</p>
+<h2><span class="mw-headline" id="Effect">Effect</span></h2>
+<p><br/>
+Create a big circle that will last 30s. Anyone that knows this magic can cast the magic while looking at the created circle and pour 50k (100k with mastery) MP into the magic circle every 3 seconds. If the magic circle doesn't receive MP for 30 seconds, the spell automatically fails. Once the magic circle has received 3.000.000 MP, the magic circle's creator has to be the one to finish the magic. A subordinate otherworlder is summoned, with a 50% chance of being a baby (30% with mastery). Cooldown 20 minutes.
+</p><p>This spell cannot summon <a href="../../bosses/mobs-shizu/" title="Mobs/Shizu">Shizu</a> or <a href="../../bosses/mobs-hinata-sakaguchi/" title="Mobs/Hinata Sakaguchi">Sakaguchi Hinata</a>
+</p>
+<h2><span class="mw-headline" id="Mastery_Bonus">Mastery Bonus</span></h2>
+<p><br/>
+</p>
+<ul><li>Pours 100K MP instead of 50K every 3 seconds</li>
+<li>Reduces chance to summon a baby from 50% to 30%</li></ul>
+<p><br/>
+</p>
+<table class="wikitable pixel-image" data-description="History"><tbody><tr class="collapsible collapsible-rows"><th colspan="8">1.21.1</th></tr><tr><th colspan="4" rowspan="1"><a class="new" href="https://tensura.wiki.gg/wiki/1.21.1_2.0.0.0?action=edit&amp;redlink=1" rel="nofollow" title="1.21.1 2.0.0.0 (page does not exist)">2.0.0.0</a></th><td>Skill Added</td></tr></tbody></table>
+
+
+
+
+</div>
+</div>
+
+!!! note "Upstream media"
+    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+
+---
+
+## Source and licensing
+
+Base Tensura reference adapted from [Summon Otherworlder](https://tensura.wiki.gg/wiki/Summon_Otherworlder) on the Tensura: Reincarnated Wiki (revision `12187`, modified `2026-04-20T21:12:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

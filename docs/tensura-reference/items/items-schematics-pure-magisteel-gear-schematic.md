@@ -1,0 +1,47 @@
+---
+title: Pure Magisteel Gear Schematic
+description: Obtained by picking up a Pure Magisteel Ingot Allows Crafting of Pure Magisteel tools/armor
+tags:
+- Missing_renewability
+---
+
+# Pure Magisteel Gear Schematic
+
+<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+
+<div class="tensura-reference-article">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Pure Magisteel Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
+
+</figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
+<h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
+<div class="pi-data-value pi-font">Rare</div>
+</div><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="renewable">
+<h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a></h3>
+<div class="pi-data-value pi-font">? </div>
+</div><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stackable">
+<h3 class="pi-data-label pi-secondary-font">Stackable</h3>
+<div class="pi-data-value pi-font">16</div>
+</div></section></aside>
+<p><br/>
+</p>
+<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
+<p>Obtained by picking up a  <span class="nowrap"><span class="sprite-file"><a href="../pure-magisteel-ingot/" title="Pure Magisteel Ingot"></a></span> <a href="../pure-magisteel-ingot/" title="Pure Magisteel Ingot"><span class="sprite-text">Pure Magisteel Ingot</span></a></span>
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p><br/>
+Allows Crafting of Pure Magisteel tools/armor
+</p>
+
+
+
+</div>
+</div>
+
+!!! note "Upstream media"
+    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+
+---
+
+## Source and licensing
+
+Base Tensura reference adapted from [Items/Schematics/Pure Magisteel Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Pure_Magisteel_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `9440`, modified `2025-04-23T17:48:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

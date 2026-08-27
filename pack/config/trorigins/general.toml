@@ -1,0 +1,32 @@
+[General]
+	#Should the Tensura configurations add Origins's races on next launch?
+	refresh = false
+
+[Color]
+	#The number of bonus learning point demons of the Rouge lineage will get.
+	bonusLearnMasteryPointRouge = 3
+	#The number of bonus learning point for Magics demons of the Noir lineage will get.
+	bonusLearnMasteryPointNoir = 5
+	#The percentage of increased damage done by cold abilities made by demons of the Blanc lineage.
+	bonusColdDamageBlanc = 10
+	#The percentage of increased damage done by poison abilities made by demons of the Violet lineage.
+	bonusPoisonDamageViolet = 10
+	#The percentage of increased damage done by darkness and gravity abilities made by demons of the Jaune lineage.
+	bonusDarkGravityDamageJaune = 10
+	#The percentage of increased damage done by cold and water abilities made by demons of the Bleu lineage.
+	bonusIceWaterDamageBleu = 10
+	#The percentage of increased damage done by flame and heat abilities made by demons of the Vert lineage.
+	bonusFlameHeatDamageVert = 10
+
+[SubTrueDragon]
+	#Skills (and the mode number they must be in) that will show a clickable chat button when activated.
+	#Format: "<skill_registry_name>:<mode_number>", e.g. "tensura:great_sage:1".
+	#Use "<skill_registry_name>:*" to match any mode of that skill.
+	configuredSkills = ["tensura:great_sage:1", "tensura:gluttony:0", "tensura:predator:0", "tensura:gourmet:0", "tensura:starved:0"]
+	#List of entity registry names (e.g., 'minecraft:zombie') for each mob category.
+	stormMobs = []
+	scorchMobs = []
+	frostMobs = []
+	abyssMobs = []
+	earthMobs = []
+	starMobs = []

@@ -26,9 +26,9 @@ The project combines character evolution, skills, Great Sage, Gear Evolution, su
 
 ## Project status
 
-**v0.1 Design Freeze**
+**Version 1 Beta — staged assembly**
 
-The mod identities and major system ownership decisions are frozen. Assembly proceeds in stages so exact transitive dependencies, client/server splits, configuration values, registry IDs, and compatibility behavior can be verified before the quest campaign is implemented.
+The mod identities and major system ownership decisions are frozen. Runtime phases through core Tensura, civilization/magic, gear, forging, backpacks, physical storage, and terminal access have recorded passes. Later adventure, world, multiplayer, client, performance, export, and campaign gates remain staged or under validation.
 
 Current campaign target: **8 Acts · 32 Chapters · ~512 handcrafted FTB Quests**, in addition to SlimeThrone Extras' own repeatable/prestige systems.
 
@@ -63,7 +63,21 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Then open `http://127.0.0.1:8000/`.
+Then open `http://127.0.0.1:8000/Tensura-Sovereign-Rebirth/`.
+
+## Tensura reference synchronization
+
+The generated base-mod reference is sourced through the official Tensura wiki's MediaWiki API. Raw responses are cached under the ignored `.build/wiki-cache/` directory.
+
+```bash
+pip install -r requirements.txt -r requirements-wiki.txt
+python scripts/wiki/sync_tensura_wiki.py
+python scripts/wiki/check_reference.py
+mkdocs build --strict
+python scripts/wiki/check_built_site.py
+```
+
+The synchronizer records upstream revisions, categories, aliases, link conversions, and File-page licensing decisions. It never overwrites handcrafted TSR guides.
 
 ## Contributions and bug reports
 

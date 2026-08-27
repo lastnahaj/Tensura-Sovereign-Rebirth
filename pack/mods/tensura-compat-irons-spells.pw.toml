@@ -1,0 +1,13 @@
+name = "TenSura Compat: Iron's Spells 'n Spellbooks"
+filename = "tensura_iron_spells-neoforge-2.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95e23b46acd164ced704613c2d373a7a6515fc74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7905400
+project-id = 1140214

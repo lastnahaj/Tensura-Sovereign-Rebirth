@@ -1,0 +1,37 @@
+# Skill Study Books - probability and weight formulas
+# This file is generated documentation. It is not read as configuration.
+# All rolls are performed by the logical server.
+
+# Natural LootTable symbols
+# P_T(E) = final independent probability for entry E inside LootTable T.
+# Configure P_T(E) directly in tensura_skill_books-loot-tables.txt as namespace:id@probability.
+# Probability range is 0.0 to 1.0. Every positive entry receives its own server LootPool roll.
+# P(exact skill book S per table generation) = P_T(S)
+# P(random-ALL book per table generation) = P_T(tensura_skill_books:skill_study_book)
+# Empty () registers no entries from this mod for that LootTable.
+# Independent entries may all succeed, so one chest or entity can produce multiple books.
+# P(at least one configured book) = 1 - product of (1 - P_T(E)) for every entry E
+# Expected configured books per generation = sum of every P_T(E)
+
+# Random-category book symbols
+# R_skill(S) = random weight for S from tensura_skill_books-random-skills.txt
+# New skills default to R_skill=1. R_skill=0 is the exact-skill blacklist value.
+# R_total = sum of positive R_skill values after category and owned-skill filtering
+# P(S when a random book is opened) = R_skill(S) / R_total
+# A candidate with weight 0 is skipped before rolling and does not consume a failed roll.
+# If K eligible skills all use weight 1, every skill has probability 1/K.
+# Explicit skill-id books do not use random-pool weights.
+
+# Combined path when a random-ALL book came from natural loot
+# P(final skill S) = P_T(random-ALL book) * (R_skill(S) / R_total)
+
+# Repeated independent generations
+# P(at least one success in N generations) = 1 - (1 - P_single)^N
+# Expected successes in N generations = N * P_single
+
+# Example
+# minecraft:chests/simple_dungeon(tensura:predator@0.07,tensura_skill_books:skill_study_book@0.03)
+# Predator is checked at 7 percent and the random book is checked separately at 3 percent.
+# Both may succeed in the same generated chest.
+# If random weights are A=4 and B=1, then P(A inside that random pool)=4/5=0.8.
+# If 100 eligible skills all use weight 1, each skill has probability 1/100=0.01 (1 percent).

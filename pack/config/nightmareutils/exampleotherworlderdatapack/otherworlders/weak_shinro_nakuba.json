@@ -1,0 +1,30 @@
+{
+  "id": "weak_shinro_nakuba",
+  "displayName": "Weak Shinro_Nakuba",
+  "bossBar": false,
+  "bossBarColor": "white",
+  "nameable": true,
+  "charmable": true,
+  "armor": 2.0,
+  "minEp": 150.0,
+  "maxEp": 350.0,
+  "maxHealth": 24.0,
+  "spiritualHealth": 24.0,
+  "testEntity": false,
+  "texture": "nightmareutils:textures/otherworlders/shinro_nakuba.png",
+  "texturePropertyValue": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGM0NGNjM2Q3Mzc5ZjE0NWNmYzM0ZTQ1ZjYxY2NmMGQ0ODQ0NmIxMWJmZjNmNGUzZTM3NGU2YWRhMjhkMzUzZSJ9fX0=",
+  "weaponItemId": "minecraft:diamond_sword",
+  "behavior": "neutral",
+  "spawnLike": {
+    "entity": "tensura:leech_lizard",
+    "chance": 10
+  },
+  "skillIds": [
+    "tensura:thrower"
+  ],
+  "skillNameTokens": [],
+  "dropPool": [],
+  "incompatibleDropPools": [],
+  "allowedBiomes": [],
+  "allowedBiomeTags": []
+}

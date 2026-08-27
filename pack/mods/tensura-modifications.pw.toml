@@ -1,0 +1,13 @@
+name = "Tensura Modifications"
+filename = "tensura_epfix-1.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae885279f1b0de7fe8c75b40ab094de90e2a86c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8534933
+project-id = 1509667

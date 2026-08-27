@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "note": "Dummy zombie-model trader pools and hihiirokane barter pool.",
+  "enabled": false,
+  "workstationSearchRadius": 4,
+  "barterCooldownTicks": 20,
+  "workstationProfessions": {
+    "minecraft:lectern": "scribe",
+    "minecraft:smithing_table": "forgemaster"
+  },
+  "professionPools": {
+    "scribe": {
+      "currencyItem": "minecraft:emerald",
+      "currencyCost": 2,
+      "minRolls": 1,
+      "maxRolls": 1,
+      "entries": [
+        {
+          "itemId": "minecraft:book",
+          "weight": 10,
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "itemId": "minecraft:paper",
+          "weight": 10,
+          "minCount": 4,
+          "maxCount": 12
+        },
+        {
+          "itemId": "minecraft:experience_bottle",
+          "weight": 6,
+          "minCount": 1,
+          "maxCount": 2
+        }
+      ]
+    },
+    "forgemaster": {
+      "currencyItem": "minecraft:emerald",
+      "currencyCost": 3,
+      "minRolls": 1,
+      "maxRolls": 1,
+      "entries": [
+        {
+          "itemId": "minecraft:iron_ingot",
+          "weight": 12,
+          "minCount": 3,
+          "maxCount": 8
+        },
+        {
+          "itemId": "minecraft:gold_ingot",
+          "weight": 8,
+          "minCount": 2,
+          "maxCount": 5
+        },
+        {
+          "itemId": "minecraft:diamond",
+          "weight": 2,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  },
+  "hihiirokaneBarterPool": {
+    "currencyItem": "tensura:hihiirokane_block",
+    "currencyCost": 1,
+    "minRolls": 1,
+    "maxRolls": 2,
+    "entries": [
+      {
+        "itemId": "minecraft:gold_block",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "itemId": "minecraft:diamond",
+        "weight": 6,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "itemId": "minecraft:netherite_scrap",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  }
+}

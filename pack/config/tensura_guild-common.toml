@@ -1,0 +1,24 @@
+#Time limit for guild commission tasks in game ticks. 72000 ticks = 60 real minutes at 20 TPS. Set to 0 to disable the limit.
+# Default: 72000
+# Range: > 0
+commissionTimeLimitTicks = 72000
+#Interval in game ticks for automatically adding one commission to the task board. 28800 ticks = 24 real minutes at 20 TPS. Set to 0 to disable automatic updates.
+# Default: 28800
+# Range: > 0
+commissionAutoUpdateTicks = 28800
+#Time before an unaccepted commission is withdrawn from the task board. 201600 ticks = 7 commission days, where 28800 ticks is one day. Set to 0 to disable withdrawal.
+# Default: 201600
+# Range: > 0
+commissionWithdrawTicks = 201600
+#Maximum number of commissions shown on the task board. The board will not auto-update when this many commissions are already available.
+# Default: 9
+# Range: 1 ~ 9
+commissionBoardMaxTasks = 9
+#Number of completed dwarf commissions required before a dwarf offers the Adventurer Guild map reward.
+# Default: 3
+# Range: > 1
+dwarfTasksForGuildMap = 3
+#Number of vanilla game days between reputation shop refreshes. One game day is 24000 ticks.
+# Default: 7
+# Range: > 1
+shopRefreshDays = 7

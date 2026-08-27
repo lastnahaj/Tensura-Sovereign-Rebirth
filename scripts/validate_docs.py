@@ -12,20 +12,40 @@ link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 html_target_re = re.compile(r"(?:src|href)=[\"']([^\"']+)[\"']", re.IGNORECASE)
 
 markdown_files = sorted(ROOT.glob("*.md")) + sorted(DOCS.rglob("*.md"))
+
+
+def validate_candidate(md: Path, target: str, candidate: Path) -> None:
+    candidate = candidate.resolve()
+    if ROOT not in candidate.parents and candidate != ROOT:
+        errors.append(f"{md.relative_to(ROOT)} -> path escapes repository: {target}")
+    elif not candidate.exists():
+        errors.append(f"{md.relative_to(ROOT)} -> missing {target}")
+
+
 for md in markdown_files:
     text = md.read_text(encoding="utf-8")
-    for target in link_re.findall(text) + html_target_re.findall(text):
+    for target in link_re.findall(text):
         target = target.strip().split()[0].strip('<>')
         if not target or target.startswith(("http://", "https://", "mailto:", "#")):
             continue
         target = unquote(target.split("#", 1)[0])
         candidate = (ROOT / target.lstrip("/")) if target.startswith("/") else (md.parent / target)
-        candidate = candidate.resolve()
-        if ROOT not in candidate.parents and candidate != ROOT:
-            errors.append(f"{md.relative_to(ROOT)} -> path escapes repository: {target}")
+        validate_candidate(md, target, candidate)
+    for target in html_target_re.findall(text):
+        target = target.strip().split()[0].strip('<>')
+        if not target or target.startswith(("http://", "https://", "mailto:", "#", "data:")):
             continue
-        if not candidate.exists():
-            errors.append(f"{md.relative_to(ROOT)} -> missing {target}")
+        target = unquote(target.split("#", 1)[0])
+        is_generated = DOCS in md.parents and md.relative_to(DOCS).as_posix().startswith(
+            "tensura-reference/"
+        )
+        if is_generated and not target.startswith("/"):
+            candidate = (md.with_suffix("") / target).resolve()
+            if target.endswith("/"):
+                candidate = Path(str(candidate).rstrip("\\/") + ".md")
+        else:
+            candidate = (ROOT / target.lstrip("/")) if target.startswith("/") else (md.parent / target)
+        validate_candidate(md, target, candidate)
 
 try:
     mkdocs = yaml.safe_load((ROOT / "mkdocs.yml").read_text(encoding="utf-8"))
@@ -53,7 +73,10 @@ for target in sorted(nav_targets):
         errors.append(f"mkdocs.yml -> missing nav target {target}")
 
 document_paths = {str(path.relative_to(DOCS)).replace("\\", "/") for path in DOCS.rglob("*.md")}
-missing_from_nav = document_paths - nav_targets
+handcrafted_paths = {
+    path for path in document_paths if not path.startswith("tensura-reference/")
+}
+missing_from_nav = handcrafted_paths - nav_targets
 if missing_from_nav:
     errors.append("mkdocs.yml -> documents missing from nav: " + ", ".join(sorted(missing_from_nav)))
 
@@ -100,7 +123,9 @@ forbidden_patterns = {
 text_suffixes = {".md", ".yml", ".yaml", ".json", ".py", ".css", ".txt"}
 special_text_names = {"Makefile", ".gitignore", ".gitattributes", "CODEOWNERS"}
 for path in ROOT.rglob("*"):
-    if not path.is_file() or any(part in {".git", ".venv", "site"} for part in path.parts):
+    if not path.is_file() or any(
+        part in {".build", ".git", ".venv", "site"} for part in path.parts
+    ):
         continue
     if path.suffix not in text_suffixes and path.name not in special_text_names:
         continue
@@ -114,5 +139,6 @@ if errors:
 
 print(
     f"Repository documentation OK across {len(markdown_files)} Markdown files, "
-    f"{len(nav_targets)} navigation entries, and {len(yaml_files)} YAML files"
+    f"{len(nav_targets)} navigation entries, {len(document_paths) - len(handcrafted_paths)} "
+    f"generated reference pages, and {len(yaml_files)} YAML files"
 )

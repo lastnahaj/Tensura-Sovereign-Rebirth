@@ -1,0 +1,13 @@
+name = "Tensura Gear Evolution"
+filename = "gearevolution-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e176fb3cc6821570f667e47f63e2ba0cffe81c57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8705119
+project-id = 1501711

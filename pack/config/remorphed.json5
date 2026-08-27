@@ -1,0 +1,14 @@
+{
+  "creativeUnlockAll": false,
+  "killToUnlock": 100000,
+  "killToUnlockPlayers": 2,
+  "autoTransform": false,
+  "lockTransform": false,
+  "unlockFriendlyNormal": false,
+  "killToUnlockByType": {
+    "minecraft:wither": 2,
+    "minecraft:ender_dragon": 2
+  },
+  // Whether the entities that should be rendered can be loaded asynchronously
+  "loadMenuAsynchronous": true
+}

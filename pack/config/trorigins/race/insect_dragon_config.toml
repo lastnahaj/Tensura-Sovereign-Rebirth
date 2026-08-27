@@ -1,0 +1,29 @@
+[InsectDragon]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1230.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6705.0
+	#Bonus Attack Damage.
+	attack = 5.0
+	#Bonus Attack Speed.
+	attackSpeed = 2.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.20000000298023224
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.20000000298023224
+	#Bonus Flight Speed Multiplier.
+	flightSpeed = 0.05
+	#List of possible pre evolutions.
+	preEvolutions = ["mysticism:divine_drone_beetle", "mysticism:divine_stag_beetle", "mysticism:divine_blue_centipede", "mysticism:divine_purple_centipede", "mysticism:divine_yellow_centipede", "mysticism:divine_lixivant_mantis", "mysticism:divine_preying_mantis", "mysticism:divine_singularity_scorpion", "mysticism:divine_loxodrome_scorpion", "mysticism:divine_army_wasp", "mysticism:divine_queen_wasp"]

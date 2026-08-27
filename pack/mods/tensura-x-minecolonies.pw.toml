@@ -1,0 +1,13 @@
+name = "Tensura x MineColonies"
+filename = "tensura_minecolonies-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57fc48cc07881008c45a9ab42ae35356b326f2c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8579563
+project-id = 1574897

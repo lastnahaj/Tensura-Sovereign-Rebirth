@@ -1,0 +1,7 @@
+[General]
+	#Should the Tensura configurations add Mysticism's skills and races on next launch?
+	refresh = false
+	#The default flying speed of all Mysticism races.
+	flightSpeed = 0.05
+	#SE cost multiplier when acquiring a Unique Skill. Default: 4, which means the skill's magicule cost * 4
+	seCostMultiplier = 4

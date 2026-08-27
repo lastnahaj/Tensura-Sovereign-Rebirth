@@ -1,0 +1,3084 @@
+#Per-race tuning. Every addon race gets a section with an 'enabled' flag plus
+#its attribute bonuses, starting-EP range, and evolution EP gate.
+#
+#Disabling a BASE race (Angel, Frog, Monkey, Whisper Djinn, Fledgling Bloodfiend,
+#Gazer) removes it from the reincarnation pool. Disabling an evolved race keeps
+#the flag in place for future use â€” currently it has no gameplay effect.
+#
+#The MOVEMENT_SPEED bonus is a multiplier (0.20 = +20%), applied on top of the
+#entity's base speed. All other bonuses are flat adds.
+[Races]
+
+	#Angel line â€” Holy alignment, flight-focused.
+	[Races.Angel]
+
+		#Angel â€” attribute bonuses and EP thresholds.
+		[Races.Angel.angel]
+			#Enable Angel.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 80.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 80.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 480.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 480.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 3.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 3.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 10000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 10000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 20000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 20000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 0.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 0.0
+
+		#Archangel â€” attribute bonuses and EP thresholds.
+		[Races.Angel.archangel]
+			#Enable Archangel.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 230.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 230.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1380.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1380.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 100000.0
+
+		#Seraphim â€” attribute bonuses and EP thresholds.
+		[Races.Angel.seraphim]
+			#Enable Seraphim.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 450.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 450.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2700.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2700.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.4
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.4
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 8.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 8.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 250000.0
+
+		#Divine Angel â€” attribute bonuses and EP thresholds.
+		[Races.Angel.divine_angel]
+			#Enable Divine Angel.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 770.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 770.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4620.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4620.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.5
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.5
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1250000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1250000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 625000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 625000.0
+
+		#Fallen Angel â€” attribute bonuses and EP thresholds.
+		[Races.Angel.fallen_angel]
+			#Enable Fallen Angel.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 770.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 770.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4620.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4620.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.5
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.5
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1250000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1250000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 625000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 625000.0
+
+		#Cosmic Deity â€” attribute bonuses and EP thresholds.
+		[Races.Angel.cosmic_deity]
+			#Enable Cosmic Deity.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1350.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1350.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 8100.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 8100.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.7
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.7
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 4000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 4000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2000000.0
+
+		#Chaotic Deity â€” attribute bonuses and EP thresholds.
+		[Races.Angel.chaotic_deity]
+			#Enable Chaotic Deity.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1350.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1350.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 8100.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 8100.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.7
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.7
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 4000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 4000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2000000.0
+
+	#Frog line â€” toad-type, poison and swamp themed.
+	[Races.Frog]
+
+		#Frog â€” attribute bonuses and EP thresholds.
+		[Races.Frog.frog]
+			#Enable Frog.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 80.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 80.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 480.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 480.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: -0.05
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = -0.05
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 4.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 4.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 5000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 5000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 10000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 10000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 75000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 75000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 37500.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 37500.0
+
+		#Giant Frog â€” attribute bonuses and EP thresholds.
+		[Races.Frog.giant_frog]
+			#Enable Giant Frog.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 195.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 195.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1170.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1170.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: -0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = -0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 75000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 75000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 37500.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 37500.0
+
+		#Poison Toad â€” attribute bonuses and EP thresholds.
+		[Races.Frog.poison_toad]
+			#Enable Poison Toad.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 355.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 355.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2130.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2130.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: -0.05
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = -0.05
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 8.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 8.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 250000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 125000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 125000.0
+
+		#Swamp Sovereign â€” attribute bonuses and EP thresholds.
+		[Races.Frog.swamp_sovereign]
+			#Enable Swamp Sovereign.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 540.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 540.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3240.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3240.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 11.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 11.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 600000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 600000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 300000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 300000.0
+
+		#Bog Ancient â€” attribute bonuses and EP thresholds.
+		[Races.Frog.bog_ancient]
+			#Enable Bog Ancient.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 735.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 735.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4410.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4410.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.05
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.05
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 13.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 13.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 750000.0
+
+		#Venom Lord â€” attribute bonuses and EP thresholds.
+		[Races.Frog.venom_lord]
+			#Enable Venom Lord.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 735.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 735.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4410.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4410.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.15
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.15
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 14.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 14.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 750000.0
+
+		#Frog Monarch â€” attribute bonuses and EP thresholds.
+		[Races.Frog.frog_monarch]
+			#Enable Frog Monarch.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1020.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1020.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6120.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6120.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 17.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 17.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1000000.0
+
+	#Kitsune line â€” fox-type, tail-tiered evolution.
+	[Races.Kitsune]
+
+		#Kitsune â€” attribute bonuses and EP thresholds.
+		[Races.Kitsune.kitsune]
+			#Enable Kitsune.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 150.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 150.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 900.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 900.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.15
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.15
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 150000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 150000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 75000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 75000.0
+
+		#Three-Tail Fox â€” attribute bonuses and EP thresholds.
+		[Races.Kitsune.three_tail_fox]
+			#Enable Three-Tail Fox.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 380.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 380.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2280.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2280.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.25
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.25
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 8.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 8.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 300000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 300000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 150000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 150000.0
+
+		#Six-Tail Fox â€” attribute bonuses and EP thresholds.
+		[Races.Kitsune.six_tail_fox]
+			#Enable Six-Tail Fox.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 665.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 665.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3990.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3990.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 600000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 600000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 300000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 300000.0
+
+		#Nine-Tail Fox â€” attribute bonuses and EP thresholds.
+		[Races.Kitsune.nine_tail_fox]
+			#Enable Nine-Tail Fox.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1070.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1070.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6420.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6420.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.5
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.5
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 900000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 900000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 450000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 450000.0
+
+		#Divine Kitsune â€” attribute bonuses and EP thresholds.
+		[Races.Kitsune.divine_kitsune]
+			#Enable Divine Kitsune.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1250.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1250.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 7500.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 7500.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.6
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.6
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 18.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 18.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1100000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1100000.0
+
+	#Bloodfiend line â€” vampiric, blood-manipulation focus.
+	[Races.Bloodfiend]
+
+		#Fledgling Bloodfiend â€” attribute bonuses and EP thresholds.
+		[Races.Bloodfiend.fledgling_bloodfiend]
+			#Enable Fledgling Bloodfiend.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 80.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 80.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 480.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 480.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 4.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 4.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 3000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 3000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 8000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 8000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 50000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 25000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 25000.0
+
+		#Kindred Bloodfiend â€” attribute bonuses and EP thresholds.
+		[Races.Bloodfiend.kindred_bloodfiend]
+			#Enable Kindred Bloodfiend.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 215.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 215.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1290.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1290.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 6.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 6.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 50000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 25000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 25000.0
+
+		#Blood Noble â€” attribute bonuses and EP thresholds.
+		[Races.Bloodfiend.blood_noble]
+			#Enable Blood Noble.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 425.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 425.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2550.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2550.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.25
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.25
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 9.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 9.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 150000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 150000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 75000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 75000.0
+
+		#Elder Bloodfiend â€” attribute bonuses and EP thresholds.
+		[Races.Bloodfiend.elder_bloodfiend]
+			#Enable Elder Bloodfiend.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 655.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 655.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3930.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3930.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 400000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 400000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 200000.0
+
+		#Progenitor Bloodfiend â€” attribute bonuses and EP thresholds.
+		[Races.Bloodfiend.progenitor_bloodfiend]
+			#Enable Progenitor Bloodfiend.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1020.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1020.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6120.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6120.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.5
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.5
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 500000.0
+
+	#Djinn line â€” magic-focused, long evolution chain.
+	[Races.Djinn]
+
+		#Whisper Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.whisper_djinn]
+			#Enable Whisper Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 65.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 65.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 390.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 390.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 3.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 3.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 5000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 5000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 12000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 12000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 30000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 30000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 15000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 15000.0
+
+		#Trickster Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.trickster_djinn]
+			#Enable Trickster Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 160.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 160.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 960.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 960.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.15
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.15
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 30000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 30000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 15000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 15000.0
+
+		#Phantom Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.phantom_djinn]
+			#Enable Phantom Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 285.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 285.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1710.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1710.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 6.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 6.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 80000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 80000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 40000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 40000.0
+
+		#Royal Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.royal_djinn]
+			#Enable Royal Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 430.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 430.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2580.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2580.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.25
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.25
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 8.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 8.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 100000.0
+
+		#Wishbound Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.wishbound_djinn]
+			#Enable Wishbound Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 605.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 605.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3630.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3630.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 10.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 400000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 400000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 200000.0
+
+		#Primordial Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.primordial_djinn]
+			#Enable Primordial Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 795.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 795.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4770.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4770.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.4
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.4
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 700000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 700000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 350000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 350000.0
+
+		#Ascended Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.ascended_djinn]
+			#Enable Ascended Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 970.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 970.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 5820.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 5820.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.5
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.5
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 13.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 13.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 600000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 600000.0
+
+		#Sovereign Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.sovereign_djinn]
+			#Enable Sovereign Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1135.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1135.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6810.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6810.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.6
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.6
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 14.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 14.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1000000.0
+
+		#Infinite Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.infinite_djinn]
+			#Enable Infinite Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1280.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1280.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 7680.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 7680.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.8
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.8
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 15.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 3000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 3000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1500000.0
+
+		#Omniversal Djinn â€” attribute bonuses and EP thresholds.
+		[Races.Djinn.omniversal_djinn]
+			#Enable Omniversal Djinn.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1470.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1470.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 8820.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 8820.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 1.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 1.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1.0E7
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1.0E7
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 5000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 5000000.0
+
+	#Wight extension â€” the Davy Jones / cursed-mariner line.
+	[Races.Wight]
+
+		#Cursed Mariner â€” attribute bonuses and EP thresholds.
+		[Races.Wight.cursed_mariner]
+			#Enable Cursed Mariner.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 320.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 320.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1920.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1920.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 8.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 8.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 250000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 125000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 125000.0
+
+		#Cursed Dreadnaught â€” attribute bonuses and EP thresholds.
+		[Races.Wight.cursed_dreadnaught]
+			#Enable Cursed Dreadnaught.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 610.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 610.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3660.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3660.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 600000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 600000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 300000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 300000.0
+
+		#Phantom Corsair â€” attribute bonuses and EP thresholds.
+		[Races.Wight.phantom_corsair]
+			#Enable Phantom Corsair.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 875.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 875.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 5250.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 5250.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 15.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 500000.0
+
+		#Davy Jones â€” attribute bonuses and EP thresholds.
+		[Races.Wight.davy_jones]
+			#Enable Davy Jones.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1130.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1130.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6780.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6780.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.4
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.4
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 18.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 18.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 750000.0
+
+	#Dragonewt extension â€” Ender-themed. Ender Dragonewt inherits core stats from its parent
+	#Tensura Dragonewt race, so its addon stat fields default to 0 (config can still override).
+	[Races.Dragonewt]
+
+		#Ender Dragonewt â€” attribute bonuses and EP thresholds.
+		[Races.Dragonewt.ender_dragonewt]
+			#Enable Ender Dragonewt.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 0.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 0.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 0.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 100000.0
+
+		#Void Dragonewt â€” attribute bonuses and EP thresholds.
+		[Races.Dragonewt.void_dragonewt]
+			#Enable Void Dragonewt.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 270.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 270.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1620.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1620.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 250000.0
+
+		#Abyssal Dragonewt â€” attribute bonuses and EP thresholds.
+		[Races.Dragonewt.abyssal_dragonewt]
+			#Enable Abyssal Dragonewt.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 640.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 640.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3840.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3840.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 10.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 500000.0
+
+		#Chaos Dragon â€” attribute bonuses and EP thresholds.
+		[Races.Dragonewt.chaos_dragon]
+			#Enable Chaos Dragon.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1150.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1150.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6900.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6900.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1250000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1250000.0
+
+	#Corrupted Dragon line â€” branches off Dragonewt. Path of corruption:
+	#Dragonewt â†’ Corrupted Dragonkin â†’ Corrupted Dragon â†’ Cursed Dragon
+	#         â†’ Demonic Dragon â†’ Demon Dragon God (terminal).
+	#This line has creative flight from tier-2 (Corrupted Dragon) onward, and Iron's
+	#Spellbooks fire/eldritch/evocation spell-power boosts that scale by tier.
+	[Races.CorruptedDragon]
+
+		#Corrupted Dragonkin â€” attribute bonuses and EP thresholds.
+		[Races.CorruptedDragon.corrupted_dragonkin]
+			#Enable Corrupted Dragonkin.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 0.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 0.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 0.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 0.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 50000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 25000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 25000.0
+
+		#Corrupted Dragon â€” attribute bonuses and EP thresholds.
+		[Races.CorruptedDragon.corrupted_dragon]
+			#Enable Corrupted Dragon.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 230.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 230.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1380.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1380.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 125000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 125000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 62500.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 62500.0
+
+		#Cursed Dragon â€” attribute bonuses and EP thresholds.
+		[Races.CorruptedDragon.cursed_dragon]
+			#Enable Cursed Dragon.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 555.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 555.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3330.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3330.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 10.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 250000.0
+
+		#Demonic Dragon â€” attribute bonuses and EP thresholds.
+		[Races.CorruptedDragon.demonic_dragon]
+			#Enable Demonic Dragon.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1015.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1015.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6090.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6090.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 500000.0
+
+		#Demon Dragon God â€” attribute bonuses and EP thresholds.
+		[Races.CorruptedDragon.demon_dragon_god]
+			#Enable Demon Dragon God.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1250.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1250.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 7500.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 7500.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.55
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.55
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 22.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 22.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 5000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 5000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2500000.0
+
+	#Gazer line â€” eye-type, mind and sight themed.
+	[Races.Gazer]
+
+		#Gazer â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.gazer]
+			#Enable Gazer.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 65.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 65.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 390.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 390.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: -0.05
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = -0.05
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 3.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 3.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 5000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 5000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 10000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 10000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 30000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 30000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 15000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 15000.0
+
+		#Spectator Gazer â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.spectator_gazer]
+			#Enable Spectator Gazer.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 160.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 160.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 960.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 960.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 100000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 50000.0
+
+		#Mindwitness â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.mindwitness]
+			#Enable Mindwitness.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 330.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 330.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1980.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1980.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.05
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.05
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 7.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 7.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 300000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 300000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 150000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 150000.0
+
+		#Gauth â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.gauth]
+			#Enable Gauth.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 560.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 560.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3360.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3360.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 10.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 10.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 800000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 800000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 400000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 400000.0
+
+		#Beholder â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.beholder]
+			#Enable Beholder.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 850.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 850.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 5100.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 5100.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.2
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.2
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 13.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 13.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1000000.0
+
+		#Death Tyrant â€” attribute bonuses and EP thresholds.
+		[Races.Gazer.death_tyrant]
+			#Enable Death Tyrant.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1135.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1135.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6810.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6810.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 16.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 16.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 4000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 4000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2000000.0
+
+	#Wukong line â€” monkey-type, martial-arts themed.
+	[Races.Wukong]
+
+		#Monkey â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.monkey]
+			#Enable Monkey.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 80.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 80.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 480.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 480.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.1
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.1
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 4.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 4.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 1000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 1000.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 2000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 2000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 25000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 25000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 12500.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 12500.0
+
+		#Monkey Warrior â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.monkey_warrior]
+			#Enable Monkey Warrior.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 195.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 195.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1170.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1170.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.15
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.15
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 6.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 6.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 25000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 25000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 12500.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 12500.0
+
+		#Monkey Martial Artist â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.monkey_martial_artist]
+			#Enable Monkey Martial Artist.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 355.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 355.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2130.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2130.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.25
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.25
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 9.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 9.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 100000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 50000.0
+
+		#Monkey King â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.monkey_king]
+			#Enable Monkey King.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 540.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 540.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3240.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3240.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 400000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 400000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 200000.0
+
+		#Divine King â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.divine_king]
+			#Enable Divine King.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 770.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 770.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 4620.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 4620.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.45
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.45
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 15.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 750000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 375000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 375000.0
+
+		#Sun Wukong â€” attribute bonuses and EP thresholds.
+		[Races.Wukong.sun_wukong]
+			#Enable Sun Wukong.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1135.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1135.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6810.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6810.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.6
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.6
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 18.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 18.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 750000.0
+
+	#Undead chain — branches off Tensura's Wight race; splits at Skeleton into Warrior or Mage path.
+	[Races.Undead]
+
+		#Zombie â€” attribute bonuses and EP thresholds.
+		[Races.Undead.zombie]
+			#Enable Zombie.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 20.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 20.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 120.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 120.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.0
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.0
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 3.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 3.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 500.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 500.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 1000.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 1000.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 100000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 50000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 50000.0
+
+		#Skeleton â€” attribute bonuses and EP thresholds.
+		[Races.Undead.undead_skeleton]
+			#Enable Skeleton.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 30.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 30.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 180.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 180.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.25
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.25
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 4.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 4.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 200000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 200000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 100000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 100000.0
+
+		#Skeleton Warrior â€” attribute bonuses and EP thresholds.
+		[Races.Undead.skeleton_warrior]
+			#Enable Skeleton Warrior.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 75.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 75.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 450.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 450.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 7.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 7.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 350000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 350000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 175000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 175000.0
+
+		#Death Knight â€” attribute bonuses and EP thresholds.
+		[Races.Undead.death_knight]
+			#Enable Death Knight.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 250.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 250.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1500.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1500.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 11.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 11.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 700000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 700000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 350000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 350000.0
+
+		#Dullahan â€” attribute bonuses and EP thresholds.
+		[Races.Undead.dullahan]
+			#Enable Dullahan.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 600.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 600.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 3600.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 3600.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.45
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.45
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 15.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 15.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 750000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 750000.0
+
+		#Dark Lord Dullahan â€” attribute bonuses and EP thresholds.
+		[Races.Undead.dark_lord_dullahan]
+			#Enable Dark Lord Dullahan.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1200.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1200.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 7200.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 7200.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.55
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.55
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 18.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 18.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 4000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 4000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2000000.0
+
+		#Mage Skeleton â€” attribute bonuses and EP thresholds.
+		[Races.Undead.mage_skeleton]
+			#Enable Mage Skeleton.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 50.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 50.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 300.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 300.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 5.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 5.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 500000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 250000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 250000.0
+
+		#Elder Lich â€” attribute bonuses and EP thresholds.
+		[Races.Undead.elder_lich]
+			#Enable Elder Lich.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 200.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 200.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 1200.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 1200.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.3
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.3
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 7.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 7.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 1000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 500000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 500000.0
+
+		#Lich â€” attribute bonuses and EP thresholds.
+		[Races.Undead.lich]
+			#Enable Lich.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 450.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 450.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 2700.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 2700.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.35
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.35
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 9.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 9.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 2000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 1000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 1000000.0
+
+		#Lich King â€” attribute bonuses and EP thresholds.
+		[Races.Undead.lich_king]
+			#Enable Lich King.
+			#Base races: when false, removed from the reincarnation pool.
+			#Evolved races: reserved for future use, currently cosmetic.
+			enabled = true
+			#Flat bonus to max HP applied while this race is active. 0 = no modifier.
+			# Default: 1100.0
+			# Range: 0.0 ~ 1000000.0
+			maxHealthBonus = 1100.0
+			#Flat bonus to max spiritual HP applied while this race is active. 0 = no modifier.
+			# Default: 6600.0
+			# Range: 0.0 ~ 1000000.0
+			spiritualHealthBonus = 6600.0
+			#Multiplier bonus to movement speed (0.20 = +20%). Negative = slower. 0 = no modifier.
+			# Default: 0.45
+			# Range: -1.0 ~ 100.0
+			movementSpeedBonus = 0.45
+			#Flat bonus to melee attack damage. 0 = no modifier.
+			# Default: 12.0
+			# Range: 0.0 ~ 1000.0
+			attackDamageBonus = 12.0
+			#Minimum starting EP rolled when this race is assigned. Used only for base races.
+			#Set both min and max to 0 to skip the roll (correct default for evolved races).
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMin = 0.0
+			#Maximum starting EP rolled when this race is assigned. Used only for base races.
+			# Default: 0.0
+			# Range: 0.0 ~ 1.0E12
+			startingEpMax = 0.0
+			#EP required to evolve INTO this race. 0 = no EP gate from config (base races,
+			#or evolved races whose evolution uses only non-EP requirements).
+			# Default: 4000000.0
+			# Range: 0.0 ~ 1.0E12
+			evolutionEpRequirement = 4000000.0
+			#Bonus EP granted automatically when a player evolves INTO this race.
+			#Defaults to 50% of evolutionEpRequirement â€” a player who just paid
+			#the entry cost gets half of it back as a head start. Set to 0 to
+			#disable the bonus for this race.
+			# Default: 2000000.0
+			# Range: 0.0 ~ 1.0E12
+			bonusEpOnEvolve = 2000000.0

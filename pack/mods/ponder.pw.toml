@@ -1,0 +1,8 @@
+name = "Ponder"
+filename = "ponder-neoforge-1.0.81+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://maven.createmod.net/net/createmod/ponder/ponder-neoforge/1.0.81%2Bmc1.21.1/ponder-neoforge-1.0.81%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "b94099a82d51fa378f6ce30d788ca3f8cf0699fe16bbb536b516b03025301a42"

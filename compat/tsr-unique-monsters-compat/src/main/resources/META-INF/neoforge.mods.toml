@@ -1,0 +1,57 @@
+modLoader = "javafml"
+loaderVersion = "[4.0.43]"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "tsr_unique_monsters_compat"
+version = "1.0.0"
+displayName = "TSR Unique Monsters Compat"
+authors = "TSR Team"
+description = '''
+Lifecycle compatibility for Tensura: Unique Monsters 1.0.2 and ManasCore Skill 4.0.0.2.
+'''
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.248]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.11]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "manascore_skill"
+type = "required"
+versionRange = "[4.0.0.2]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "tensura"
+type = "required"
+versionRange = "[2.0.1.2]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.tsr_unique_monsters_compat]]
+modId = "tr_unique_monsters"
+type = "required"
+versionRange = "[1.0.2]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "tsr_unique_monsters_compat.mixins.json"

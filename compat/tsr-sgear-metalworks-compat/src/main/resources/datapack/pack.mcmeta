@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "TSR Silent Gear Metalworks compatibility data",
+    "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "productivemetalworks",
+        "path": "data_maps/fluid/unit_map.json"
+      }
+    ]
+  }
+}

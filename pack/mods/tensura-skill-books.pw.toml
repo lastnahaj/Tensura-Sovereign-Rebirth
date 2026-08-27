@@ -1,0 +1,13 @@
+name = "Tensura Skill Books"
+filename = "tensura_skill_books-neoforge-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bab970ab6a4fcd67d51c0341eb055f2f7cabd6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8472566
+project-id = 1418495

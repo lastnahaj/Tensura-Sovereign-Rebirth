@@ -1,0 +1,47 @@
+["EP DISTRIBUTION"]
+	#Whether to enable this branch of modifications
+	epDistributionEnabled = true
+	#Distance owners can get ep from subordinate kills
+	# Default: 32.0
+	# Range: 0.0 ~ 256.0
+	ownerSubordinateEpDistance = 32.0
+	#The multiplier on ep gain for when they didn't deal the highest damage of all living mobs
+	# Default: 0.25
+	# Range: 0.0 ~ 1.7976931348623157E308
+	nonTopContributorEp = 0.25
+	#Ticks before damage entries decay for normal mobs
+	# Default: 600
+	# Range: > 20
+	regularDecayTicks = 600
+	#Ticks before damage entries decay for bosses
+	# Default: 6000
+	# Range: > 20
+	bossDecayTicks = 6000
+
+["ENERGY REGEN"]
+	#The Percentage of your max magicules added to your magicule regeneration
+	#Formula for regen: (area magicule + percentage of max magicule) * config percentage of magicule from an area * total magicule regen multiplier
+	#Example: 10=10% of Max Magicule
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	magiculeRegenPercentage = 1.0
+	#The Percentage of your max aura added to your aura regeneration
+	#Setting the value to 0 disables percentage aura regen
+	#Example: 1.5=1.5% of Max Aura
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	auraRegenPercentage = 0.5
+
+[SUBORDINATE]
+	#Disabled damage dealt to allied subordinates
+	subordinateFriendlyFire = true
+	#Allow allied mobs to be hit while crouching
+	shiftHitSubordinates = true
+
+[RESISTANCES]
+	#Allow resist points to accumulate from damage
+	accumulateResistPoints = true
+	#Scaling multiplier put on additional damage in a single hit in order to add another learn point from the same source of damage
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	scaleResistPoint = 0.25

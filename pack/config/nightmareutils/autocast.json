@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "note": "Controls shared mob skill autocast behavior for any external compat mod that registers mobs.",
+  "enabled": false,
+  "defaultCooldownTicks": 20,
+  "strictAllowlist": false,
+  "allowlist": [],
+  "denylist": [],
+  "fastCooldownPaths": [
+    "water_blade",
+    "wind_cutter",
+    "fire_ball",
+    "stone_shot"
+  ],
+  "carefulCastPaths": [
+    "dimension_cut",
+    "spatial_ray",
+    "electro_blast",
+    "solar_beam"
+  ],
+  "globalCooldownMultiplier": 0.34,
+  "carefulMinCooldownTicks": 30,
+  "carefulMaxRangeBlocks": 28.0,
+  "pressedToggleEnsureOn": [
+    {
+      "skillId": "tensura:cook",
+      "tagKey": "ChaoticFateActivated"
+    }
+  ]
+}

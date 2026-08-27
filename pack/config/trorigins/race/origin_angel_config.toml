@@ -1,0 +1,273 @@
+[OriginArchAngel]
+	#EP requirement to evolve into an Arch Angel.
+	epRequirement = 140000.0
+	#Minimal aura.
+	minAura = 100000.0
+	#Maximum aura.
+	maxAura = 105000.0
+	#Minimal magicule.
+	minMagicule = 40000.0
+	#Maximum magicule.
+	maxMagicule = 45000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 100.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 580.0
+	#Bonus Attack Damage.
+	attack = 2.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.2
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.4
+	#Bonus Movement Speed.
+	movementSpeed = 0.01
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.1
+
+[CherubOfOrigin]
+	#Minimal aura.
+	minAura = 205000.0
+	#Maximum aura.
+	maxAura = 215000.0
+	#Minimal magicule.
+	minMagicule = 175000.0
+	#Maximum magicule.
+	maxMagicule = 180000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 620.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 3702.0
+	#Bonus Attack Damage.
+	attack = 3.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.6
+	#Bonus Movement Speed.
+	movementSpeed = 0.04
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+
+[SeraphOfOrigin]
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1000000.0
+	#Maximum magicule.
+	maxMagicule = 1000000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1060.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6300.0
+	#Bonus Attack Damage.
+	attack = 4.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.7
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8
+
+[FallenOriginArchAngel]
+	#Quantity of demon essence required to become a fallen arch angel as an arch angel.
+	essenceRequired = 5
+	#EP requirement to evolve into a Fallen Arch Angel.
+	epRequirement = 140000.0
+	#Minimal aura.
+	minAura = 70000.0
+	#Maximum aura.
+	maxAura = 75000.0
+	#Minimal magicule.
+	minMagicule = 105000.0
+	#Maximum magicule.
+	maxMagicule = 110000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 100.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 580.0
+	#Bonus Attack Damage.
+	attack = 2.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.2
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.4
+	#Bonus Movement Speed.
+	movementSpeed = 0.01
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.1
+
+[FallenCherubOfOrigin]
+	#Quantity of demon essence required to become a fallen cherub as a cherub.
+	essenceRequired = 7
+	#Minimal aura.
+	minAura = 165000.0
+	#Maximum aura.
+	maxAura = 170000.0
+	#Minimal magicule.
+	minMagicule = 205000.0
+	#Maximum magicule.
+	maxMagicule = 215000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 620.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 3702.0
+	#Bonus Attack Damage.
+	attack = 3.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.5
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.6
+	#Bonus Movement Speed.
+	movementSpeed = 0.04
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+
+[FallenSeraphOfOrigin]
+	#Quantity of demon essence required to become a fallen seraph as a seraph.
+	essenceRequired = 10
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1010000.0
+	#Maximum magicule.
+	maxMagicule = 1050000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1060.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6300.0
+	#Bonus Attack Damage.
+	attack = 4.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.7
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8
+
+[ArchFallenOfOrigin]
+	#Minimal aura.
+	minAura = 70000.0
+	#Maximum aura.
+	maxAura = 75000.0
+	#Minimal magicule.
+	minMagicule = 120000.0
+	#Maximum magicule.
+	maxMagicule = 145000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 110.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 600.0
+	#Bonus Attack Damage.
+	attack = 2.299999952316284
+	#Bonus Attack Speed.
+	attackSpeed = 0.4
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.4
+	#Bonus Movement Speed.
+	movementSpeed = 0.01
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.1
+
+[FallenLordOfOrigin]
+	#EP requirement to evolve into a Fallen Lord Angel.
+	epRequirement = 300000.0
+	#Minimal aura.
+	minAura = 165000.0
+	#Maximum aura.
+	maxAura = 170000.0
+	#Minimal magicule.
+	minMagicule = 225000.0
+	#Maximum magicule.
+	maxMagicule = 250000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 640.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 3742.0
+	#Bonus Attack Damage.
+	attack = 3.5
+	#Bonus Attack Speed.
+	attackSpeed = 0.800000011920929
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.6
+	#Bonus Movement Speed.
+	movementSpeed = 0.04
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.4
+
+[FallenOfOrigin]
+	#Minimal aura.
+	minAura = 1000000.0
+	#Maximum aura.
+	maxAura = 1000000.0
+	#Minimal magicule.
+	minMagicule = 1200000.0
+	#Maximum magicule.
+	maxMagicule = 1300000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1080.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6350.0
+	#Bonus Attack Damage.
+	attack = 4.5
+	#Bonus Attack Speed.
+	attackSpeed = 0.7
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8
+
+[MysticAngelOfOrigin]
+	#Quantity of cryptid essence required to become a Mystic Angel of Origin as a Seraph of Origin.
+	essenceRequired = 10
+	#Minimal aura.
+	minAura = 1100000.0
+	#Maximum aura.
+	maxAura = 1200000.0
+	#Minimal magicule.
+	minMagicule = 1100000.0
+	#Maximum magicule.
+	maxMagicule = 1200000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1080.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 6300.0
+	#Bonus Attack Damage.
+	attack = 4.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.7
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.8
+	#Bonus Movement Speed.
+	movementSpeed = 0.08
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.8

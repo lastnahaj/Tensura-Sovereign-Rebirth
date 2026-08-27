@@ -1,0 +1,13 @@
+name = "Tensura: Not Enough Bosses"
+filename = "tensura_neb-neoforge-2.0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "253f960b9967d3c950cc5e4325b9fd00c8983418"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8022509
+project-id = 1230585

@@ -1,0 +1,13 @@
+name = "Nightmare Utils"
+filename = "nightmareutils-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17346f69035e81e64df44da996204150d68258ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8679395
+project-id = 1525266

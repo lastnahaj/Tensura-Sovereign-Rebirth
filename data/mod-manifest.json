@@ -34,7 +34,8 @@
       {
         "name": "Tensura: Reincarnated Addon (TR Addon)",
         "version": "2.0.1",
-        "status": "LOCK"
+        "status": "DEFERRED-BLOCKED",
+        "notes": "Reproducible dedicated-server constructor race against ManasCore custom race and skill registries. CurseForge project 1132105 file 7899584 cannot complete NeoForge dedicated-server mod construction. Recheck upstream before the Version 1 (Beta) release candidate freeze."
       },
       {
         "name": "Tensura: Origins",
@@ -55,13 +56,20 @@
       {
         "name": "Tensura: Unique Monsters",
         "version": "1.0.2",
-        "status": "LOCK"
+        "status": "LOCK",
+        "notes": "Required with TSR Unique Monsters Compat 1.0.0. Retain the exact official CurseForge artifact unmodified."
+      },
+      {
+        "name": "TSR Unique Monsters Compat",
+        "version": "1.0.0",
+        "status": "DEPENDENCY",
+        "notes": "Required while Tensura: Unique Monsters 1.0.2 is active; corrects its ManasCore skill-registry construction ordering without modifying the upstream artifact."
       },
       {
         "name": "Great Sage",
         "version": "0.0.5",
         "status": "LOCK",
-        "notes": "Require the player to possess Great Sage; verify the exact configuration key during assembly."
+        "notes": "Configure needGreatSage=true."
       },
       {
         "name": "TenSura Guild",
@@ -650,7 +658,7 @@
     "Gear Evolution is the authoritative equipment progression. No Apotheosis.",
     "Sophisticated Storage is physical/base storage; Sophisticated Backpacks is personal storage.",
     "Tom's Simple Storage is terminal/wireless UI only. Remove/hide every non-required Tom's recipe/block from player progression.",
-    "Great Sage requires the player to actually possess Great Sage; verify the exact configuration key during assembly.",
+    "Great Sage requires the player to actually possess Great Sage (needGreatSage=true).",
     "Tensura: Origins high-tier races are progression-gated and not ordinary random starter selections.",
     "SlimeThrone Extras owns prestige/Soul Grade/repeatable progression.",
     "Ascension owns major Unique-to-Ultimate awakening progression and external boss scaling where supported.",
@@ -679,10 +687,10 @@
     "Only then begin registry-aware FTB Quest implementation against the installed pack."
   ],
   "counts": {
-    "baseline_frozen_entries": 89,
+    "baseline_frozen_entries": 90,
     "test_candidates": 12,
     "optional_entries": 1,
     "rejected_entries_tracked": 20,
-    "total_non_rejected_entries": 102
+    "total_non_rejected_entries": 103
   }
 }

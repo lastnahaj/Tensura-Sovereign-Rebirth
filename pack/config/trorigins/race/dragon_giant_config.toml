@@ -1,0 +1,29 @@
+[DragonGiant]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.5
+	#Bonus Max Health.
+	maxHealth = 1280.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 8940.0
+	#Bonus Attack Damage.
+	attack = 16.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.07
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.5
+	#How much of the attack damage that Giant will inflict on targets' armor durability.
+	armorDurability = 0.800000011920929
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:divine_giant"]

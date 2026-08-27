@@ -1,0 +1,12 @@
+#ReMorphed unlocks a mob's form for ANY player once their personal kill count for it
+#reaches ReMorphed's own 'killToUnlock' setting (default 1). This raises that value so
+#ordinary kills never realistically reach it, leaving Predator/Gluttony's predation
+#attack as the only realistic way to unlock a form. Set to 0 to leave ReMorphed's
+#existing killToUnlock value untouched (e.g. if another mod/pack already configured it).
+# Default: 100000
+# Range: > 0
+unlockThreshold = 100000
+#ReMorphed's own 'creativeUnlockAll' setting shows every mob form as already unlocked
+#for any creative-mode player, which would bypass this mod's Predator/Gluttony gating
+#entirely. Disable it (default) so mimicry stays the only way to unlock forms.
+disableRemorphedCreativeUnlockAll = true

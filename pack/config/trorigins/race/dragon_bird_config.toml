@@ -1,0 +1,33 @@
+[DragonBird]
+	#Minimal aura.
+	minAura = 5000000.0
+	#Maximum aura.
+	maxAura = 5000000.0
+	#Minimal magicule.
+	minMagicule = 1.0E7
+	#Maximum magicule.
+	maxMagicule = 1.0E7
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 1180.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 9140.0
+	#Bonus Attack Damage.
+	attack = 5.0
+	#Bonus Attack Speed.
+	attackSpeed = 0.9
+	#Bonus Knockback Resistance.
+	knockbackResistance = 1.0
+	#Bonus Movement Speed.
+	movementSpeed = 0.09
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.9
+	#Bonus Safe Falling distance.
+	safeFalling = 12.0
+	#Flight Upward Boost Power.
+	flightBoost = 1.1
+	#Flight Boost Cooldown.
+	flightCooldown = 1
+	#List of possible pre evolutions.
+	preEvolutions = ["tensura:divine_bird"]

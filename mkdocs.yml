@@ -28,11 +28,15 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.path
+    - navigation.tracking
     - navigation.top
     - navigation.footer
     - navigation.indexes
+    - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.action.edit
     - content.code.copy
 
@@ -66,7 +70,42 @@ nav:
       - Getting Started: getting-started.md
       - Pack Overview: pack-overview.md
       - Progression Overview: progression-overview.md
+      - TSR vs Base Tensura: tsr-vs-base-tensura.md
       - FAQ: faq.md
+  - Tensura Reference:
+      - Reference Home: tensura-reference/index.md
+      - Core Mechanics: tensura-reference/core-mechanics/index.md
+      - Races:
+          - Race Directory: tensura-reference/races/index.md
+          - Evolution Relationships: tensura-reference/races/evolution-trees.md
+      - Abilities:
+          - Skill Overview: tensura-reference/skills/other/index.md
+          - Intrinsic Skills: tensura-reference/skills/intrinsic/index.md
+          - Common Skills: tensura-reference/skills/common/index.md
+          - Extra Skills: tensura-reference/skills/extra/index.md
+          - Unique Skills: tensura-reference/skills/unique/index.md
+          - Ultimate Skills: tensura-reference/skills/ultimate/index.md
+          - Resistances: tensura-reference/resistances/index.md
+          - Magic: tensura-reference/magic/index.md
+          - Battlewill: tensura-reference/battlewill/index.md
+          - Arts: tensura-reference/arts/index.md
+      - World:
+          - Mobs: tensura-reference/mobs/index.md
+          - Bosses: tensura-reference/bosses/index.md
+          - Structures: tensura-reference/structures/index.md
+          - Biomes: tensura-reference/biomes/index.md
+          - Dimensions: tensura-reference/dimensions/index.md
+      - Equipment & Items:
+          - Items & Materials: tensura-reference/items/index.md
+          - Weapons: tensura-reference/weapons/index.md
+          - Armor: tensura-reference/armor/index.md
+          - Tools: tensura-reference/tools/index.md
+          - Blocks: tensura-reference/blocks/index.md
+      - Technical Reference:
+          - Commands: tensura-reference/commands/index.md
+          - Configuration: tensura-reference/configuration/index.md
+          - Gamerules: tensura-reference/gamerules/index.md
+          - Version History: tensura-reference/version-history/index.md
   - Character Progression:
       - Race & Evolution: race-and-evolution.md
       - Skills, EP & Magicules: skills-ep-and-magicules.md
@@ -84,9 +123,12 @@ nav:
       - MineColonies & Nations: minecolonies-and-nations.md
       - Unique Monsters: unique-monsters.md
       - Bosses & Dimensions: bosses-and-dimensions.md
+      - World Generation: world-generation.md
+      - TSR Structures: structures.md
       - Decoration & Building: decoration-and-building.md
   - Quests & Multiplayer:
       - Quests & Shop: quests-and-shop.md
+      - Campaign: campaign.md
       - Teams & Claims: teams-and-claims.md
   - Server & Technical:
       - Server Administration: server-administration.md
@@ -97,10 +139,21 @@ nav:
       - Quest Implementation: quest-implementation.md
       - Compatibility Matrix: compatibility-matrix.md
       - Mod Manifest: mod-manifest.md
+      - Development:
+          - Build Environment: development/build-environment.md
+          - Runtime Foundation: development/runtime-foundation.md
+          - Configuration Baseline: development/configuration-baseline.md
+          - Configuration Specification: development/configuration-spec.md
+          - Candidate Testing: development/candidate-testing.md
+          - Unique Monsters Compatibility: development/unique-monsters-compatibility.md
+          - Compatibility Blockers: development/compatibility-blockers.md
+          - Phase Reports: development/phase-reports.md
   - Project:
       - Roadmap: roadmap.md
       - Changelog: changelog.md
       - Credits: credits.md
+      - Upstream Attribution: project/upstream-attribution.md
+      - Ingestion Coverage: project/ingestion-coverage.md
       - Reference:
           - Tempest Protocol Quest Reference: reference/tempest-protocol-quest-reference.md
           - v0.1 Manifest Source: reference/v0.1-mod-manifest-source.md

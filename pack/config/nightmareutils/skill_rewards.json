@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "note": "Controls skill reward grants from killing skill-capable mobs.",
+  "enabled": false,
+  "grantChance": 0.1,
+  "maxSkillsPerKill": 1,
+  "playerKillsOnly": true,
+  "weightedPoolsEnabled": false,
+  "rewardPools": {
+    "*": {
+      "maxSkillsPerKillOverride": 1,
+      "minSkillsPerKill": 1,
+      "maxSkillsPerKill": 1,
+      "receiverWhitelist": [],
+      "receiverBlacklist": [],
+      "victimWhitelist": [],
+      "victimBlacklist": [],
+      "skills": [
+        {
+          "skillId": "tensura:water_blade",
+          "weight": 10
+        },
+        {
+          "skillId": "tensura:wind_cutter",
+          "weight": 10
+        },
+        {
+          "skillId": "tensura:fire_ball",
+          "weight": 8
+        },
+        {
+          "skillId": "tensura:stone_shot",
+          "weight": 8
+        }
+      ]
+    }
+  }
+}

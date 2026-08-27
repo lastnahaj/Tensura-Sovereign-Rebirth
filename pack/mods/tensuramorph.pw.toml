@@ -1,0 +1,13 @@
+name = "TensuraMorph"
+filename = "tensuramorph-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d10572e5ee77431b382b63702ef2dd7ef682cf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8432718
+project-id = 1602263

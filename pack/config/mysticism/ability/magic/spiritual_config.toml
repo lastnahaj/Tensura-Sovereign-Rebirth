@@ -1,0 +1,25 @@
+[GravitationalVoid]
+	#Cast time in tick.
+	castTime = 400
+	#Cast time in tick when mastered.
+	castTimeMastered = 120
+	#Magicule Cost to cast.
+	magiculeCost = 500000.0
+	#The base gravity damage of the black hole.
+	baseGravityDamage = 50.0
+	#The base magic damage of the black hole.
+	baseMagicDamage = 50.0
+	#The max gravity damage of the black hole.
+	maxGravityDamage = 250.0
+	#The max magic damage of the black hole.
+	maxMagicDamage = 250.0
+	#The maximum size of the black hole.
+	maxSize = 10
+	#The lifespan of the black hole in ticks.
+	lifespan = 1200
+	#The lifespan of the black hole in ticks when the magic is mastered.
+	lifespanMastered = 3600
+	#The cooldown in second of the magic.
+	cooldown = 420
+	#The cooldown in second of the magic when mastered.
+	cooldownMastered = 300
