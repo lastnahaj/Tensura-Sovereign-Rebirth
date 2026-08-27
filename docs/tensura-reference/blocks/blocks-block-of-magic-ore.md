@@ -1,0 +1,120 @@
+---
+title: Block of Magic Ore
+description: Refining 1 Block of Magic Ore into 2 Pure Magisteel Ingots
+tags:
+- Pages_with_overridden_hardness
+- Non-renewable_resources
+- Stackable_resources
+---
+
+# Block of Magic Ore
+
+<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
+
+<div class="tensura-reference-article">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
+<div class="mcwiki-header infobox-title">Block of Magic Ore</div>
+<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<p>Block of Magic Ore
+</p>
+</div></div>
+<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Block of Magic Ore"><a href="./" title="Block of Magic Ore"></a></span></span></div></div></div>
+<table cellpadding="4" cellspacing="1" class="infobox-rows">
+<tbody><tr>
+<th><a class="new" href="https://tensura.wiki.gg/wiki/Renewable_resource?action=edit&amp;redlink=1" rel="nofollow" title="Renewable resource (page does not exist)">Renewable</a>
+</th>
+<td>
+<p>No
+</p>
+</td></tr>
+<tr>
+<th>Stackable
+</th>
+<td>
+<p>Yes (64)
+</p>
+</td></tr>
+<tr>
+<th>Tool
+</th>
+<td class="pixel-image">
+<p><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Netherite_Pickaxe" title="A Netherite pickaxe or better is required to mine this block"></a></span>
+</p>
+</td></tr>
+<tr>
+<th><a class="extiw" href="https://minecraft.wiki/w/Explosion#Blast_resistance" title="mcw:Explosion">Blast resistance</a>
+</th>
+<td>
+<p><a href="https://tensura.wiki.gg/wiki/Template:Blast_resistance_values#Missing_value" title="Template:Blast resistance values">?</a>
+</p>
+</td></tr>
+<tr>
+<th><a class="extiw" href="https://minecraft.wiki/w/Breaking#Blocks_by_hardness" title="mcw:Breaking">Hardness</a>
+</th>
+<td>
+<p><b><a href="https://tensura.wiki.gg/wiki/Template:Hardness_values#Missing_value" title="Template:Hardness values">?</a></b>
+</p>
+</td></tr>
+<tr>
+<th><a class="extiw" href="https://minecraft.wiki/w/Light" title="mcw:Light">Luminous</a>
+</th>
+<td>
+<p>No
+</p>
+</td></tr>
+<tr>
+<th><a class="extiw" href="https://minecraft.wiki/w/Opacity" title="mcw:Opacity">Transparent</a>
+</th>
+<td>
+<p>No
+</p>
+</td></tr>
+<tr>
+<th><a class="extiw" href="https://minecraft.wiki/w/Flammable" title="mcw:Flammable">Flammable</a>
+</th>
+<td>
+<p>No
+</p>
+</td></tr>
+<tr>
+<th>Catches fire from <a class="extiw" href="https://minecraft.wiki/w/lava" title="mcw:lava">lava</a>
+</th>
+<td>
+<p>No
+</p>
+</td></tr>
+</tbody></table>
+</div>
+
+
+<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
+<h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
+<table class="wikitable crafting" data-description="Crafting recipes">
+<tbody><tr>
+<th>Ingredients</th>
+<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
+</th></tr>
+<tr>
+<td><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard">Magic Ore Shard</a>
+</td>
+<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="../../magic/magic-ore-shard/" title="Magic Ore Shard"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Block of Magic Ore"><a href="./" title="Block of Magic Ore"></a></span></span></span></span></div>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<h3><span class="mw-headline" id="Refining">Refining</span></h3>
+<p>Refining 1 <span class="nowrap"><span class="sprite-file"><a href="./" title="Blocks/Block of Magic Ore"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">Block of Magic Ore</span></a></span> into 2 <span class="nowrap"><span class="sprite-file"><a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot"></a></span> <a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot"><span class="sprite-text">Pure Magisteel Ingots</span></a></span>
+</p>
+
+
+
+</div>
+</div>
+
+!!! note "Upstream media"
+    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+
+---
+
+## Source and licensing
+
+Base Tensura reference adapted from [Blocks/Block of Magic Ore](https://tensura.wiki.gg/wiki/Blocks/Block_of_Magic_Ore) on the Tensura: Reincarnated Wiki (revision `10770`, modified `2025-11-12T14:02:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

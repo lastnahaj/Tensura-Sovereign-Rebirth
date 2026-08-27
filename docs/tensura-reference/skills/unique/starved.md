@@ -1,0 +1,48 @@
+---
+title: Starved
+description: Consume all in your path or have your rampaging subordinates do it. Corrode your enemies, devour their strength, and add their abilities to your own.
+tags:
+- Unique_Skills
+- Plundering_Skills
+- Abilities/Skills/Starved
+---
+
+# Starved
+
+<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Unique Skills</span>
+
+**Also known as:** Abilities/Skills/Starved
+
+<div class="tensura-reference-article">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Consume all in your path or have your rampaging subordinates do it. Corrode your enemies, devour their strength, and add their abilities to your own.
+</p>
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Starved</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+50000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
+1000</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
+<a class="mw-redirect" href="../gluttony/" title="Abilities/Skills/Gluttony">Gluttony</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
+Use <a class="mw-redirect" href="../predator/" title="Abilities/Skills/Predator"> Predator</a> to predate a mob/player with <a class="mw-selflink selflink">Starved</a></div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
+<a href="../../../races/races-orc-lord/" title="Races/Orc Lord">Orc Lord</a></div></div></div></div>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p><br/>
+</p>
+<h3><span class="mw-headline" id="Active">Active</span></h3>
+<ul><li>[Active - Hold] <b>Corrosion</b>: Give user’s physical attack with a corrosion effect when this mode is in Slot. When activated while looking at nothing, costs 200 MP and deals 5 corrosion damage every 10 ticks to all enemies in a 10x10 radius. Enemies killed by this have their Intrinsic, Common, Extra, and Resist Skills taken by the player as well as have 20% (Configurable) of their ep added to the player's maximum. The other 50% is added to Stomach's energy storage. (25 to MP, 25 to AP) - (EP absorb only applies for the first target of that type using Starved)</li></ul>
+<ul><li>[Active - Press] <b>Stomach</b>: When activated, grants access to a spatial storage with the size of a chest with 6 rows. Items are able to be stacked to 128 instead of 64.</li></ul>
+<ul><li>[Active - Press] <b>Receive</b>: When activated while looking at a subordinate, Intrinsic, Common, Extra, and Resist skills owned by it are given to the player.</li></ul>
+<ul><li>[Active - Press] <b>Spiritual Domination</b>: Like Thought Communication + 1 additional command: Rampage. Activating Rampage command will give 5 minutes of <a href="../../../core-mechanics/effects-rampage/" title="Effects/Rampage">Rampage</a> effect to every subordinate in 30 block radius, activating again or using other commands will remove the effect.</li></ul>
+
+
+
+
+</div>
+</div>
+
+!!! note "Upstream media"
+    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+
+---
+
+## Source and licensing
+
+Base Tensura reference adapted from [Starved](https://tensura.wiki.gg/wiki/Starved) on the Tensura: Reincarnated Wiki (revision `12677`, modified `2026-05-01T20:30:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
