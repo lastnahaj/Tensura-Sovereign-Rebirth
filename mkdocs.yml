@@ -158,5 +158,4 @@ nav:
       - Upstream Attribution: project/upstream-attribution.md
       - Ingestion Coverage: project/ingestion-coverage.md
       - Reference:
-          - Tempest Protocol Quest Reference: reference/tempest-protocol-quest-reference.md
           - v0.1 Manifest Source: reference/v0.1-mod-manifest-source.md
