@@ -11,10 +11,28 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/low-quality-magic-crystal-block-20b438c949.png" alt="Low Quality Magic Crystal Block source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Low_Quality_Magic_Crystal_Block.png">Low Quality Magic Crystal Block.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Low Quality Magic Crystal Block</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Low Quality Magic Crystal Block</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Low_Quality_Magic_Crystal_Block.png"><img alt="Low Quality Magic Crystal Block.png: Infobox image for Low Quality Magic Crystal Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/low-quality-magic-crystal-block-20b438c949.png" width="150"/></a><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Low_Quality_Magic_Crystal_Block.png"><img alt="Low Quality Magic Crystal Block.png: Infobox image for Low Quality Magic Crystal Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/low-quality-magic-crystal-block-20b438c949.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Low Quality Magic Crystal Block
 </p>
 </div></div>
@@ -105,11 +123,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-kiln/">
+<img src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kiln</strong>
+<small>To activate, right click the Kiln to open the menu</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-magic-engine/">
+<img src="../../../assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Engine</strong>
+<small>To activate, you need to right click the magic engine to work.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-high-quality-magic-crystal-block/">
+<img src="../../../assets/upstream/tensura/items/high-quality-magic-crystal-block-b9d8f4e1dd.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Quality Magic Crystal Block</strong>
+<small>High Quality Magic Crystal Block</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-magic-ore/">
+<img src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Ore</strong>
+<small>Magic Ore : 3 Deepslate Magic Ore : 4.5</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Low Quality Magic Crystal Block](https://tensura.wiki.gg/wiki/Blocks/Low_Quality_Magic_Crystal_Block) on the Tensura: Reincarnated Wiki (revision `7427`, modified `2025-02-11T13:02:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Low_Quality_Magic_Crystal_Block.png">Low Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4109</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal_Block.png">Invicon Low Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6880</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+</ul>
+</details>

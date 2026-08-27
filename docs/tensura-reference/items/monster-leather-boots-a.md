@@ -13,17 +13,36 @@ tags:
 
 **Also known as:** Items/Armours/Monster Leather Boots (A)
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-boots-a-9cb8fd69d3.png" alt="Monster Leather Boots (A) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(A).png">Invicon Monster Leather Boots (A).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtainable through killing mobs while having Monster Leather Boots (B) in your offhand or equiped</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Monster_Leather_Boots_(A)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Monster Leather Boots (A)</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Boots_(A).png"><img alt="Monster Leather Boots (A).png: Infobox image for Monster Leather Boots (A) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/monster-leather-boots-a-3b6a18f035.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Boots_(A).png"><img alt="Monster Leather Boots (A).png: Infobox image for Monster Leather Boots (A) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/monster-leather-boots-a-3b6a18f035.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Monster Leather Boots (A)"><a href="./" title="Monster Leather Boots (A)"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -96,11 +115,59 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../monster-leather-special-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-special-a-3ce56eadd3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (Special A)</strong>
+<small>A Monster Leather of Rank-Special A</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-boots-b/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-boots-b-ba8d8f410d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Boots (B)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Boots (C) in your offhand or equiped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-d/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-d-9e5923616c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (D)</strong>
+<small>A Monster Leather of Rank-D</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-boots-c/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-boots-c-2ef6049123.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Boots (C)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Boots (D) in your offhand or equiped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Monster Leather Boots (A)](https://tensura.wiki.gg/wiki/Monster_Leather_Boots_(A)) on the Tensura: Reincarnated Wiki (revision `8119`, modified `2025-03-12T16:01:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(A).png">Invicon Monster Leather Boots (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6826</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Boots_(A).png">Monster Leather Boots (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7143</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
+</ul>
+</details>

@@ -9,10 +9,29 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-japanese-schematic-e8043b5437.png" alt="Japanese Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Japanese_Schematic.png">Invicon Japanese Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Found in Woodland Mansions &amp; Ancient Cities - 10% Chance</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Japanese Schematic</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Japanese_Sword_Schematic.png"><img alt="Japanese Sword Schematic.png: Infobox image for Japanese Schematic the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/japanese-sword-schematic-a535dae7fe.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Japanese_Sword_Schematic.png"><img alt="Japanese Sword Schematic.png: Infobox image for Japanese Schematic the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/japanese-sword-schematic-a535dae7fe.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Japanese Schematic"><a href="https://tensura.wiki.gg/wiki/Japanese_Schematic" title="Japanese Schematic"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -135,11 +154,112 @@ Allows Crafting of
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items/">
+<img src="../../../assets/upstream/tensura/items/gearicon-e9d6eade42.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Items</strong>
+<small>Tensura:Reincarnated adds a number of unique and interesting Items.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../kanabo/">
+<img src="../../../assets/upstream/tensura/items/invicon-kanabo-ec877d1f97.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kanabo</strong>
+<small>To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-iron-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Iron Gear Schematic</strong>
+<small>Obtained by picking up an Iron Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../knight-spider-carapace/">
+<img src="../../../assets/upstream/tensura/armor/invicon-knight-spider-carapace-889394c829.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Carapace</strong>
+<small>A strong armor from the body of a Knight Spider .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Japanese Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Japanese_Schematic) on the Tensura: Reincarnated Wiki (revision `13280`, modified `2026-06-27T10:24:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (58 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Japanese_Schematic.png">Invicon Japanese Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12038</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Japanese_Sword_Schematic.png">Japanese Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13192</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Katana.png">Invicon Wooden Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6778</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Katana.png">Invicon Stone Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6749</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Katana.png">Invicon Iron Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6570</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Katana.png">Invicon Silver Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Katana.png">Invicon Golden Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6521</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Katana.png">Invicon Diamond Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6496</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Katana.png">Invicon Netherite Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6653</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Katana.png">Invicon Low Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6595</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Katana.png">Invicon High Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6537</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Katana.png">Invicon Pure Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10266</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Katana.png">Invicon Orichalcum Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10297</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Katana.png">Invicon Mithril Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10327</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Katana.png">Invicon Adamantite Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10357</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Katana.png">Invicon HihiIrokane Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10387</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Kodachi.png">Invicon Wooden Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6779</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Kodachi.png">Invicon Stone Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6750</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Kodachi.png">Invicon Iron Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6571</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Kodachi.png">Invicon Silver Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6711</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Kodachi.png">Invicon Golden Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6522</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Kodachi.png">Invicon Diamond Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6497</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Kodachi.png">Invicon Netherite Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6654</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Kodachi.png">Invicon Low Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6596</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Kodachi.png">Invicon High Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6538</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Kodachi.png">Invicon Pure Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10267</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Kodachi.png">Invicon Orichalcum Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10298</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Kodachi.png">Invicon Mithril Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10328</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Kodachi.png">Invicon Adamantite Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10358</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Kodachi.png">Invicon HihiIrokane Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10388</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Tachi.png">Invicon Wooden Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6786</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Tachi.png">Invicon Stone Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6757</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Tachi.png">Invicon Iron Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6578</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Tachi.png">Invicon Silver Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Tachi.png">Invicon Golden Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6529</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Tachi.png">Invicon Diamond Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6504</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Tachi.png">Invicon Netherite Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6661</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Tachi.png">Invicon Low Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6608</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Tachi.png">Invicon High Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6550</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Tachi.png">Invicon Pure Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10268</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Tachi.png">Invicon Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10299</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Tachi.png">Invicon Mithril Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10329</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Tachi.png">Invicon Adamantite Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10359</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Tachi.png">Invicon HihiIrokane Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10389</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Odachi.png">Invicon Wooden Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6781</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Odachi.png">Invicon Stone Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6752</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Odachi.png">Invicon Iron Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6573</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Odachi.png">Invicon Silver Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6715</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Odachi.png">Invicon Golden Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6524</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Odachi.png">Invicon Diamond Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6499</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Odachi.png">Invicon Netherite Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6656</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Odachi.png">Invicon Low Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6600</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Odachi.png">Invicon High Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6542</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Odachi.png">Invicon Pure Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10269</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Odachi.png">Invicon Orichalcum Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10300</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Odachi.png">Invicon Mithril Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10330</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Odachi.png">Invicon Adamantite Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10360</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Odachi.png">Invicon HihiIrokane Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10390</li>
+</ul>
+</details>

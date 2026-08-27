@@ -14,11 +14,31 @@ tags:
 
 **Also known as:** Items/Schematics
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-battlewill-manual-1a31ecb7d9.png" alt="Learnable source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Battlewill_Manual.png">Invicon Battlewill Manual.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Battlewills are skills equal to magic that use aura instead of magicules. See Battlewill Manual for all possible battlewills</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Battlewills">Battlewills</a>
+<a href="#Magic_Tomes">Magic Tomes</a>
+<a href="#Schematics">Schematics</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Learnable?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -157,11 +177,94 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-kunai-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-kunai-schematic-6080250026.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Kunai Schematic</strong>
+<small>Found in Abandoned Mineshafts - 10% Chance</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-leather-gear-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-leather-gear-schematic-e7b5c26b4f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Leather Gear Schematic</strong>
+<small>Obtained by picking up leather</small>
+</span>
+</a>
+<a class="reference-related-card" href="../knight-spider-leg/">
+<img src="../../../assets/upstream/tensura/items/invicon-knight-spider-leg-707dd10237.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Leg</strong>
+<small>Killing/Defeating a Knight Spider</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-long-sword-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-long-sword-schematic-0225e6203c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Long Sword Schematic</strong>
+<small>Found in Dwarf Blacksmiths - 10% OR Found in Toolsmith Villager Houses - 20% Chance</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Learnable](https://tensura.wiki.gg/wiki/Items/Learnable) on the Tensura: Reincarnated Wiki (revision `13341`, modified `2026-08-01T18:39:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (40 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Battlewill_Manual.png">Invicon Battlewill Manual.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6452</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13290</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kunai_Schematic.png">Invicon Kunai Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12032</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Long_Sword_Schematic.png">Invicon Long Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12035</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Great_Sword_Schematic.png">Invicon Great Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12036</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Short_Sword_Schematic.png">Invicon Short Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12037</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Japanese_Schematic.png">Invicon Japanese Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12038</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Basic_Bow_Schematic.png">Basic Bow Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13210</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Shield_Schematic.png">Invicon Shield Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12039</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spear_Schematic.png">Invicon Spear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12040</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dagger_Schematic.png">Invicon Dagger Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12050</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spatial_Blade_Schematic.png">Invicon Spatial Blade Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12041</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Anti-Magic_Mask_Schematic.png">Invicon Anti-Magic Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12044</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pierrot_Mask_Schematic.png">Invicon Pierrot Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12042</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Web_Gun_Schematic.png">Invicon Web Gun Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12061</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Kodachi.gif">Kodachi.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2550</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Tachi.gif">Tachi.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2551</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Odachi.gif">Odachi.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2552</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Scythe.gif">Scythe.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2553</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Leather_Gear_Schematic.png">Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13276</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Gear_Schematic.png">Invicon Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12053</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Iron_Gear_Schematic.png">Iron Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2542</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Gold_Gear_Schematic.png">Gold Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2543</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Diamond_Gear_Schematic.png">Diamond Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2544</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Ant_Carapace_Gear_Schematic.png">Ant Carapace Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2545</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scalemail_Gear_Schematic.png">Invicon Serpent Scalemail Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12054</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Knight_Spider_Carapace_Gear_Schematic.png">Knight Spider Carapace Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2546</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Gear_Schematic.png">Invicon Armorsaurus Scalemail Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12263</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Gear_Schematic.png">Invicon Charybdis Scalemail Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12055</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12056</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Gear_Schematic.png">Invicon High Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12057</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Gear_Schematic.png">Invicon Pure Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12058</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Gear_Schematic.png">Mithril Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2547</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Gear_Schematic.png">Orichalcum Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2548</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Gear_Schematic.png">Invicon Adamantite Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12059</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hihi&#x27;Irokane_Gear_Schematic.png">Invicon Hihi&#x27;Irokane Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12060</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Gear_Schematic.png">Invicon Silver Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12062</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Bows_Schematic.png">Invicon Spider Bows Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12048</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dark_Set_Schematic.png">Invicon Dark Set Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12046</li>
+</ul>
+</details>

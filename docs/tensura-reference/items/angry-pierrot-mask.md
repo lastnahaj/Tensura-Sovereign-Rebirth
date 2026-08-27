@@ -13,17 +13,35 @@ tags:
 
 **Also known as:** Items/Armours/Angry Pierrot Mask
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-angry-pierrot-mask-96e248b73b.png" alt="Angry Pierrot Mask source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Angry_Pierrot_Mask.png">Invicon Angry Pierrot Mask.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the Angry Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Crafting">Crafting</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Angry_Pierrot_Mask?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Angry Pierrot Mask</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png"><img alt="Angry Pierrot Mask.png: Infobox image for Angry Pierrot Mask the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/angry-pierrot-mask-937fed0577.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png"><img alt="Angry Pierrot Mask.png: Infobox image for Angry Pierrot Mask the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/angry-pierrot-mask-937fed0577.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Angry Pierrot Mask"><a href="./" title="&amp;6Angry Pierrot Mask"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -87,11 +105,62 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../adamantite-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-adamantite-nugget-939d91c5c3.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Nugget</strong>
+<small>Smelting Adamantite armor/gear</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-ant-carapace-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ant Carapace Gear Schematic</strong>
+<small>Obtained by picking up a Giant Ant Carapace</small>
+</span>
+</a>
+<a class="reference-related-card" href="../adamantite-ingot/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-adamantite-ingot-5fa23b1df0.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Adamantite Ingot</strong>
+<small>Smelting Adamantite gear into nuggets and then crafting an ingot.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../armorsaurus-scale/">
+<img src="../../../assets/upstream/tensura/items/invicon-armorsaurus-scale-9b59b82750.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Armorsaurus Scale</strong>
+<small>An armor like scale from the skin of an Armorsaurus .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Angry Pierrot Mask](https://tensura.wiki.gg/wiki/Angry_Pierrot_Mask) on the Tensura: Reincarnated Wiki (revision `9450`, modified `2025-04-23T17:53:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (8 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Angry_Pierrot_Mask.png">Invicon Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6431</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png">Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6941</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Pierrot_Mask_Schematic.png">Pierrot Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13245</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Clay_Ball.gif">Invicon Clay Ball.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9266</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Dye.gif">Invicon Red Dye.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9267</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orange_Dye.png">Invicon Orange Dye.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10759</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blue_Dye.png">Invicon Blue Dye.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10755</li>
+</ul>
+</details>

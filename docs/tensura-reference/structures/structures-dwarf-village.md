@@ -10,11 +10,26 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="Dwarf Village source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Training Ground = Battlewill Master</p>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Dwarf_Village?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -54,8 +69,52 @@ Market: 1. Brewer 2. Butcher 3. Fletcher 4. Stoneworker
 </div>
 </div>
 
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Structures</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../structures-charybdis-cave/">
+<img src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Charybdis Cave</strong>
+<small>A rare structure able to spawn in many biomes across the overworld.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-goblin-village/">
+<img src="../../../assets/upstream/tensura/structures/small-goblin-village-35ad99e6a5.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Goblin Village</strong>
+<small>Inside the chief house there is a chest, in which the Short Sword Schematic can be found with a 25% chance.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-big-ruins/">
+<img src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Big Ruins</strong>
+<small>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-hell-gate/">
+<img src="../../../assets/upstream/tensura/structures/hell-gate-d975cc9cee.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hell Gate</strong>
+<small>A rare structure able to spawn in many biomes across the overworld as well as in the hell dimension.</small>
+</span>
+</a>
+</div>
+</section>
+
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Structures/Dwarf Village](https://tensura.wiki.gg/wiki/Structures/Dwarf_Village) on the Tensura: Reincarnated Wiki (revision `13320`, modified `2026-07-10T00:48:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+</ul>
+</details>

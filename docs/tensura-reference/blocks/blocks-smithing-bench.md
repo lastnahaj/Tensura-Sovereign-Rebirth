@@ -16,17 +16,39 @@ tags:
 
 **Also known as:** Smithing
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" alt="Smithing Bench source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png">Smithing Bench.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the gear created with the Smithing Bench is unlocked through Schematics .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Monster_Leather">Monster Leather</a>
+<a href="#Magisteel">Magisteel</a>
+<a href="#Monster_Drops">Monster Drops</a>
+<a href="#Special_Sets.2FItems">Special Sets/Items</a>
+<a href="#Basic_Material">Basic Material</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Smithing_Bench?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Smithing Bench</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png"><img alt="Smithing Bench.png: Infobox image for Smithing Bench the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" width="150"/></a><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png"><img alt="Smithing Bench.png: Infobox image for Smithing Bench the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Smithing Bench
 </p>
 </div></div>
@@ -505,11 +527,120 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-slime-chunk-block/">
+<img src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Slime Chunk Block</strong>
+<small>Upstream reference information for Slime Chunk Block.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../underworld-barrens/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Underworld Barrens</strong>
+<small>Daemons for days! Magicule Density - 104,000</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-silver-ore/">
+<img src="../../../assets/upstream/tensura/items/silver-ore-58a494883b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Silver Ore</strong>
+<small>Deepslate Silver Ore</small>
+</span>
+</a>
+<a class="reference-related-card" href="../underworld-red-sands/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Underworld Red Sands</strong>
+<small>I wonder why the sand is red.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Smithing Bench](https://tensura.wiki.gg/wiki/Blocks/Smithing_Bench) on the Tensura: Reincarnated Wiki (revision `13111`, modified `2026-06-15T12:16:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (66 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png">Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12929</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Crafting_Table.png">Invicon Crafting Table.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2951</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Table.png">Invicon Smithing Table.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2952</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oak_Planks.png">Invicon Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4438</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spruce_Planks.png">Invicon Spruce Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12934</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Birch_Planks.png">Invicon Birch Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12935</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Jungle_Planks.png">Invicon Jungle Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12933</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Acacia_Planks.png">Invicon Acacia Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12936</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dark_Oak_Planks.png">Invicon Dark Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12937</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mangrove_Planks.png">Invicon Mangrove Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12939</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cherry_Planks.png">Invicon Cherry Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12938</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pale_Oak_Planks.png">Invicon Pale Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12941</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bamboo_Planks.png">Invicon Bamboo Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12940</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(D).png">Invicon Monster Leather Leggings (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6843</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(D).png">Invicon Monster Leather Boots (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6824</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(C).png">Invicon Monster Leather Helmet (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6836</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(C).png">Invicon Monster Leather Chestplate (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6833</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(C).png">Invicon Monster Leather Leggings (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6839</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(C).png">Invicon Monster Leather Boots (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6827</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(B).png">Invicon Monster Leather (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6819</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(B).png">Invicon Monster Leather Helmet (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6834</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(B).png">Invicon Monster Leather Chestplate (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6829</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(B).png">Invicon Monster Leather Leggings (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6841</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(B).png">Invicon Monster Leather Boots (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6825</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(A).png">Invicon Monster Leather Helmet (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6838</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(A).png">Invicon Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6828</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(A).png">Invicon Monster Leather Leggings (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6840</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(A).png">Invicon Monster Leather Boots (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6826</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(Special_A).png">Invicon Monster Leather (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6822</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(Special_A).png">Invicon Monster Leather Helmet (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6837</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(Special_A).png">Invicon Monster Leather Chestplate (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6831</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(Special_A).png">Invicon Monster Leather Boots (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6823</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Tooth.png">Invicon Sissie Tooth.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Tooth_Pickaxe.png">Invicon Sissie Tooth Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Beast_Horn.png">Invicon Beast Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6453</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Beast_Horn_Spear.png">Invicon Beast Horn Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6454</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Unicorn_Horn.png">Invicon Unicorn Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6764</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Unicorn_Horn_Spear.png">Invicon Unicorn Horn Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6765</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Tail.png">Invicon Blade Tiger Tail.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6459</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Scythe.png">Invicon Blade Tiger Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6456</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6518</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6579</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kunai.png">Invicon Kunai.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6586</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Nugget.gif">Invicon Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9652</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Kunai.png">Invicon Pure Magisteel Kunai.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6677</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Steel_Thread.png">Invicon Steel Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6743</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Saddle.png">Invicon Monster Saddle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6648</li>
+</ul>
+</details>

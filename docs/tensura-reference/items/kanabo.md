@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-kanabo-ec877d1f97.png" alt="Kanabo source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Kanabo?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Kanabo</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Kanabo.png"><img alt="Kanabo.png: Infobox image for Kanabo the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/kanabo-f3c659f00b.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Kanabo.png"><img alt="Kanabo.png: Infobox image for Kanabo the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/kanabo-f3c659f00b.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Kanabo"><a href="./" title="Kanabo"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -94,11 +114,61 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-japanese-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-japanese-schematic-e8043b5437.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Japanese Schematic</strong>
+<small>Found in Woodland Mansions &amp; Ancient Cities - 10% Chance</small>
+</span>
+</a>
+<a class="reference-related-card" href="../knight-spider-carapace/">
+<img src="../../../assets/upstream/tensura/armor/invicon-knight-spider-carapace-889394c829.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Carapace</strong>
+<small>A strong armor from the body of a Knight Spider .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items/">
+<img src="../../../assets/upstream/tensura/items/gearicon-e9d6eade42.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Items</strong>
+<small>Tensura:Reincarnated adds a number of unique and interesting Items.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-knight-spider-carapace-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Knight Spider Carapace Gear Schematic</strong>
+<small>Obtained by picking up a Knight Spider Carapace</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Kanabo](https://tensura.wiki.gg/wiki/Kanabo) on the Tensura: Reincarnated Wiki (revision `13110`, modified `2026-06-15T12:13:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6579</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Kanabo.png">Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6518</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+</ul>
+</details>

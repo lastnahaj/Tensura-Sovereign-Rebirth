@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Armor</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-charybdis-scalemail-boots-d572fd4f22.png" alt="Charybdis Scale Boots source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Boots.png">Invicon Charybdis Scalemail Boots.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Killing/Defeating Charybdis</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Charybdis_Scalemail_Boots?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Charybdis Scalemail Boots</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Boots.png"><img alt="Charybdis Scalemail Boots.png: Infobox image for Charybdis Scalemail Boots the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/armor/charybdis-scalemail-boots-160142ae1e.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Boots.png"><img alt="Charybdis Scalemail Boots.png: Infobox image for Charybdis Scalemail Boots the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/charybdis-scalemail-boots-160142ae1e.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Charybdis Scalemail Boots"><a href="./" title="Charybdis Scalemail Boots"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -96,11 +115,59 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Armor</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../ant-carapace-leggings/">
+<img src="../../../assets/upstream/tensura/items/invicon-ant-carapace-leggings-c6c2a09a2f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ant Carapace Leggings</strong>
+<small>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../charybdis-scalemail-chestplate/">
+<img src="../../../assets/upstream/tensura/items/invicon-charybdis-scalemail-chestplate-d70923a577.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Charybdis Scale Chestplate</strong>
+<small>Killing/Defeating Charybdis</small>
+</span>
+</a>
+<a class="reference-related-card" href="../ant-carapace-helmet/">
+<img src="../../../assets/upstream/tensura/items/invicon-ant-carapace-helmet-c2c74d6e66.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ant Carapace Helmet</strong>
+<small>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../charybdis-scalemail-helmet/">
+<img src="../../../assets/upstream/tensura/items/invicon-charybdis-scalemail-helmet-935f476034.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Charybdis Scale Helmet</strong>
+<small>To craft the armor, one must have used a Charybdis Scalemail Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Charybdis Scalemail Boots](https://tensura.wiki.gg/wiki/Charybdis_Scalemail_Boots) on the Tensura: Reincarnated Wiki (revision `11995`, modified `2026-04-20T04:48:41Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Boots.png">Charybdis Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6981</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Boots.png">Invicon Charybdis Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6470</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
+</ul>
+</details>

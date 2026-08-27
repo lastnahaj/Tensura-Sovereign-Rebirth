@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-great-sword-22df449eef.png" alt="High Magisteel Great Sword source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Great_Sword.png">Invicon High Magisteel Great Sword.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtainable through killing mobs while having Low Magisteel Great Sword in your offhand or equipped</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Great_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Great Sword</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Great_Sword.png"><img alt="High Magisteel Great Sword.png: Infobox image for High Magisteel Great Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/weapons/high-magisteel-great-sword-2859c63248.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Great_Sword.png"><img alt="High Magisteel Great Sword.png: Infobox image for High Magisteel Great Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/high-magisteel-great-sword-2859c63248.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Great Sword"><a href="./" title="High Magisteel Great Sword"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -117,11 +137,62 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../gear-tachi/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Gear/Tachi</strong>
+<small>Tachi&#x27;s are the combination of the Japanese Schematic and the Long Sword Schematic which do mid-range damage, have…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-katana/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-katana-64f19eb6e2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Katana</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Katana in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../centipede-dagger/">
+<img src="../../../assets/upstream/tensura/items/invicon-centipede-dagger-44edb7a94a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Centipede Dagger</strong>
+<small>To craft the weapon, one must have used a ???. To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-kodachi/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-kodachi-3fbbff1de1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Kodachi</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Kodachi in your offhand or equipped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [High Magisteel Great Sword](https://tensura.wiki.gg/wiki/High_Magisteel_Great_Sword) on the Tensura: Reincarnated Wiki (revision `10450`, modified `2025-08-26T09:04:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (8 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Great_Sword.png">Invicon High Magisteel Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6534</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Great_Sword.png">High Magisteel Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7047</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Great_Sword.png">Invicon Low Magisteel Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6591</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Great_Sword.png">Invicon Pure Magisteel Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10265</li>
+</ul>
+</details>

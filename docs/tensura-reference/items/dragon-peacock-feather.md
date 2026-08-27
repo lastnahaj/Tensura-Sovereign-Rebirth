@@ -12,10 +12,29 @@ tags:
 
 **Also known as:** Items/Mob Drops/Dragon Peacock Feather
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-dragon-peacock-feather-b0a5d40758.png" alt="Dragon Peacock Feather source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A multicoloured feather plucked from a Dragon Peacock .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Dragon Peacock Feather</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Feather.png"><img alt="Dragon Peacock Feather.png: Infobox image for Dragon Peacock Feather the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/dragon-peacock-feather-0469a06157.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Feather.png"><img alt="Dragon Peacock Feather.png: Infobox image for Dragon Peacock Feather the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/dragon-peacock-feather-0469a06157.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Dragon Peacock Feather"><a href="./" title="Dragon Peacock Feather"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -75,11 +94,59 @@ A multicoloured feather plucked from a <a href="../../mobs/mobs-dragon-peacock/"
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../dragon-essence/">
+<img src="../../../assets/upstream/tensura/items/invicon-dragon-essence-f3d82f1b16.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dragon Essence</strong>
+<small>The overwhelming essence of a large and powerful beast.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dubious-food/">
+<img src="../../../assets/upstream/tensura/items/invicon-dubious-food-d8a4f06efb.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dubious Food</strong>
+<small>When eaten, the Dubious Food can give various effects based on an 80% chance per effect. These effects include:</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-diamond-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Diamond Gear Schematic</strong>
+<small>Obtained by picking up a Diamond</small>
+</span>
+</a>
+<a class="reference-related-card" href="../element-core-earth/">
+<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-earth-782ad983a1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Element Core (Earth)</strong>
+<small>There are 2 obtainment methods:</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Dragon Peacock Feather](https://tensura.wiki.gg/wiki/Dragon_Peacock_Feather) on the Tensura: Reincarnated Wiki (revision `9798`, modified `2025-06-01T14:31:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (5 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Feather.png">Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7017</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+</ul>
+</details>

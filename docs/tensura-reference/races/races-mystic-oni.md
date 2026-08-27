@@ -9,6 +9,25 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot; Mmhmm. I&#x27;m feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal &quot;</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Evolution">Evolution</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal</i>"
 </p>
@@ -46,6 +65,43 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-metal-slime/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Metal Slime</strong>
+<small>&quot; The Hardest Slime around &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-ogre/">
+<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ogre</strong>
+<small>&quot; WHAT&#x27;RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-merfolk-saint/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Merfolk Saint</strong>
+<small>&quot; They&#x27;re just making random names now &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-orc/">
+<img src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc</strong>
+<small>&quot; I wish you luck on this journey &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

@@ -9,10 +9,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-gear-schematic-b6e287a564.png" alt="Monster Leather Gear Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Gear_Schematic.png">Invicon Monster Leather Gear Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtained by picking up any Monster Leather</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+<a href="#Combinations">Combinations</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Monster Leather Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
 <a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Gear_Schematic.png" title="Monster Leather Gear Schematic.png">
-<img alt="Monster Leather Gear Schematic.png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/monster-leather-gear-schematic-a03fd968a7.png" width="270"/>
+<img alt="Monster Leather Gear Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/items/monster-leather-gear-schematic-a03fd968a7.png" width="270"/>
 </a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
@@ -379,11 +399,103 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../monster-leather-chestplate-special-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-chestplate-special-a-9fc5edcef9.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Chestplate (Special A)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Chestplate (A) in your offhand or equiped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-helmet-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-helmet-a-468f033582.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Helmet (A)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Helmet (B) in your offhand or equiped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-chestplate-d/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-chestplate-d-a6c562504d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Chestplate (D)</strong>
+<small>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-helmet-b/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-helmet-b-e39c487fe1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Helmet (B)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Helmet (C) in your offhand or equiped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Monster Leather Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Monster_Leather_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `13092`, modified `2026-06-15T09:56:25Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (49 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Gear_Schematic.png">Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13091</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Ingot.png">Invicon Iron Ingot.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12159</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_String.png">Invicon String.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12181</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Saddle.png">Invicon Saddle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12186</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Book.png">Invicon Book.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12183</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Leather.png">Invicon Leather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3708</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Leather_Horse_Armor.png">Invicon Leather Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12184</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Horse_Armor.png">Invicon Iron Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12185</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Horse_Armor.png">Invicon Gold Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13095</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(B).png">Invicon Monster Leather (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6819</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond.png">Invicon Diamond.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12193</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Horse_Armor.png">Invicon Diamond Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13094</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Nugget.gif">Invicon Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9652</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Steel_Thread.png">Invicon Steel Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6743</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Saddle.png">Invicon Monster Saddle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6648</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(D).png">Invicon Monster Leather Leggings (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6843</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(D).png">Invicon Monster Leather Boots (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6824</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(C).png">Invicon Monster Leather Helmet (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6836</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(C).png">Invicon Monster Leather Chestplate (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6833</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(C).png">Invicon Monster Leather Leggings (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6839</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(C).png">Invicon Monster Leather Boots (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6827</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(B).png">Invicon Monster Leather Helmet (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6834</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(B).png">Invicon Monster Leather Chestplate (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6829</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(B).png">Invicon Monster Leather Leggings (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6841</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(B).png">Invicon Monster Leather Boots (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6825</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(A).png">Invicon Monster Leather Helmet (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6838</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(A).png">Invicon Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6828</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(A).png">Invicon Monster Leather Leggings (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6840</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(A).png">Invicon Monster Leather Boots (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6826</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(Special_A).png">Invicon Monster Leather (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6822</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(Special_A).png">Invicon Monster Leather Helmet (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6837</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(Special_A).png">Invicon Monster Leather Chestplate (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6831</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(Special_A).png">Invicon Monster Leather Boots (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6823</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Gear_Schematic.png">Invicon Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12053</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12056</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+</ul>
+</details>

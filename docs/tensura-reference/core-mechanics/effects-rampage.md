@@ -8,6 +8,26 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Rampage is an effect that makes the edges of your screen turn reddish with red lines, as if seeing red, and deals damage when the duration is low.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Effect">Effect</a>
+<a href="#Causes">Causes</a>
+<a href="#Info">Info</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 Rampage is an effect that makes the edges of your screen turn reddish with red lines, as if seeing red, and deals damage when the duration is low.
@@ -43,6 +63,43 @@ Rampage is an effect that makes the edges of your screen turn reddish with red l
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../effects-petrification/">
+<img src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Petrification</strong>
+<small>The Basilisk tail ranged attack.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../reincarnation/">
+<img src="../../../assets/upstream/tensura/misc/reincarnation-aspectual-3691f06730.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Reincarnation</strong>
+<small>Who would&#x27;ve thought, the isekai mod has a reincarnation magic.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-paralysis/">
+<img src="../../../assets/upstream/tensura/misc/paralysis-effect-a225025ca2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Paralysis</strong>
+<small>Paralysis - decreases movement speed per level</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mechanics-reset-counter/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Reset Counter</strong>
+<small>This is a counting system for how many a player has Reset at the end of their playthrough.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

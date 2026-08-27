@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-sickle-20ff0a52a0.png" alt="High Magisteel Sickle source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Sickle.png">Invicon High Magisteel Sickle.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtainable through killing mobs while having Low Magisteel Sickle in your offhand or equipped</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Sickle?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Sickle</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Sickle.png"><img alt="High Magisteel Sickle.png: Infobox image for High Magisteel Sickle the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/weapons/high-magisteel-sickle-917d6ce545.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Sickle.png"><img alt="High Magisteel Sickle.png: Infobox image for High Magisteel Sickle the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/high-magisteel-sickle-917d6ce545.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Sickle"><a href="./" title="High Magisteel Sickle"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -128,11 +147,63 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../high-magisteel-short-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-short-sword-13aaab0af5.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Short Sword</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Short Sword in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-spear/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-spear-80a6d99908.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Spear</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Spear in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-scythe/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-scythe-64e155dfb2.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Scythe</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Scythe in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../high-magisteel-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-high-magisteel-sword-d3f6a76e36.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>High Magisteel Sword</strong>
+<small>Obtainable through killing mobs while having Low Magisteel Sword in your offhand or equipped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [High Magisteel Sickle](https://tensura.wiki.gg/wiki/High_Magisteel_Sickle) on the Tensura: Reincarnated Wiki (revision `13129`, modified `2026-06-21T19:37:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (9 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Sickle.png">Invicon High Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6547</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Sickle.png">High Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7061</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13079</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Sickle.png">Invicon Pure Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10276</li>
+</ul>
+</details>

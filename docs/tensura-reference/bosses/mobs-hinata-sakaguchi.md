@@ -11,8 +11,30 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Bosses</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png" alt="Hinata Sakaguchi source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Hinata_Sakaguchi.png">Hinata Sakaguchi.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A Rare otherworlder, One of the strongest bosses in the game at that. Hostile towards the &quot;majin&quot; race (because lore wise, hates monsters), neutral towards non majin</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#How_Aggro_works">How Aggro works</a>
+<a href="#Spawn">Spawn</a>
+<a href="#Phases">Phases</a>
+<a href="#Drops">Drops</a>
+<a href="#Tips">Tips</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Hinata Sakaguchi</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Hinata_Sakaguchi.png"><img alt="Hinata Sakaguchi.png" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Hinata Sakaguchi</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Hinata_Sakaguchi.png"><img alt="Hinata Sakaguchi.png" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 Plains · Snowy Plains · Sunflower Plains· Meadow · Desert · Badlands· Windswept Hills · Sparse Jungle · Savanna Plateau</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 3000</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
 3600</div></div><div class="druid-row druid-row-armor" data-druid-section-row="Stats"><div class="druid-label druid-label-armor">Armor</div><div class="druid-data druid-data-armor druid-data-nonempty">
@@ -73,8 +95,52 @@ Hostile towards the <a class="mw-redirect" href="../../core-mechanics/races-alig
 </div>
 </div>
 
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Bosses</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-gazel-dwargo/">
+<img src="../../../assets/upstream/tensura/bosses/gazel-dwargo-e8dd87d54e.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Gazel Dwargo</strong>
+<small>The king of the dwarves, One of the strongest bosses in the game with the sole exception of Hinata Sakaguchi of…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-ifrit/">
+<img src="../../../assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ifrit</strong>
+<small>The Greater Fire Spirit that is one of the many spirits that Hinata has, but also inhabits Shizu&#x27;s body.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-elemental-colossus/">
+<img src="../../../assets/upstream/tensura/bosses/elemental-colossus-585d09f9f5.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Elemental Colossus</strong>
+<small>The Fairy&#x27;s not gonna like this...</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-orc-disaster/">
+<img src="../../../assets/upstream/tensura/bosses/orc-disaster-02c11f1455.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster</strong>
+<small>A Boss that appears after an Orc Lord reaches 200k EP</small>
+</span>
+</a>
+</div>
+</section>
+
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mobs/Hinata Sakaguchi](https://tensura.wiki.gg/wiki/Mobs/Hinata_Sakaguchi) on the Tensura: Reincarnated Wiki (revision `13369`, modified `2026-08-17T15:38:24Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Hinata_Sakaguchi.png">Hinata Sakaguchi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4037</li>
+</ul>
+</details>

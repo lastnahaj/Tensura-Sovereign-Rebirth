@@ -8,6 +8,26 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Some items are eligible for evolution, that being Monster Leather, and Magisteel by default.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#MONSTER_LEATHER">MONSTER LEATHER</a>
+<a href="#MAGISTEEL">MAGISTEEL</a>
+<a href="#Evolution_Diagram">Evolution Diagram</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Some items are eligible for evolution, that being Monster Leather, and Magisteel by default.
 </p><p>Any gear can progress to the highest tier, although it might take a lot of grinding to get that far. To evolve this gear, simply use the item/wear it while killing creatures, and a small amount of EP will be added to the gear’s maximum. Once the gear’s EP gets over certain thresholds it’ll evolve. Those thresholds are:
@@ -35,6 +55,43 @@ Orichalcum -&gt; Hihi’irokane (750k EP)<br/>
 Tensura Gear Evolution 1.2.5 is TSR's authoritative equipment progression system. The assembled runtime loads its equipment overrides, while long-duration evolution, component retention, and multiplayer persistence remain release-candidate validation gates.
 
 **TSR guides:** [Gear Evolution](../../gear-evolution.md) · [Forging & Metalworks](../../forging-and-metalworks.md)
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../effects-fragility/">
+<img src="../../../assets/upstream/tensura/misc/fragility-25f543bd5b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Fragility</strong>
+<small>Each level of fragility increases damage taken</small>
+</span>
+</a>
+<a class="reference-related-card" href="../getting-started/">
+<img src="../../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Getting Started</strong>
+<small>When spawning in, a menu will pop up, showing races you can pick. Depending on what race you pick, the difficulty of…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-fear/">
+<img src="../../../assets/upstream/tensura/misc/fear-262c10c28a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Fear</strong>
+<small>Effect is given to entity&#x27;s using Coercion or any form of Haki .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mechanics-hardcore-race/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hardcore Race</strong>
+<small>Hardcore races is a gamerule which makes races significantly harder upon choosing them. The following occurs when…</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

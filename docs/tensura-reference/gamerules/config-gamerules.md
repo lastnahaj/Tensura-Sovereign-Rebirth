@@ -8,6 +8,24 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Gamerules</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Gamerules.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Tutorial_Video">Tutorial Video</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <h2><span class="mw-headline" id="Tutorial_Video">Tutorial Video</span></h2>

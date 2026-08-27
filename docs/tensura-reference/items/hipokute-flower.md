@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-hipokute-flower-d2d832901a.png" alt="Hipokute Flower source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by hipokute farming .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Hipokute_Flower?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Hipokute Flower</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png"><img alt="Hipokute Flower.png: Infobox image for Hipokute Flower the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/hipokute-flower-86122c07da.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png"><img alt="Hipokute Flower.png: Infobox image for Hipokute Flower the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/hipokute-flower-86122c07da.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Flower"><a href="./" title="Hipokute Flower"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -81,11 +100,62 @@ This is a better version of <span class="nowrap"><span class="sprite-file"><a hr
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../items-schematics-hihiirokane-gear-schematic/">
+<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>HihiIrokane Gear Schematic</strong>
+<small>Obtained by picking up an HihiIrokane Ingot</small>
+</span>
+</a>
+<a class="reference-related-card" href="../hipokute-grass/">
+<img src="../../../assets/upstream/tensura/items/invicon-hipokute-grass-2a7d33f577.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hipokute Grass</strong>
+<small>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../hihiirokane-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-hihiirokane-nugget-a9a6bb68cf.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hihi&#x27;irokane Nugget</strong>
+<small>Smelting hihi&#x27;irokane armor/gear</small>
+</span>
+</a>
+<a class="reference-related-card" href="../hipokute-seeds/">
+<img src="../../../assets/upstream/tensura/items/invicon-hipokute-seeds-b883efa2a7.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hipokute Seeds</strong>
+<small>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This whether naturally…</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Hipokute Flower](https://tensura.wiki.gg/wiki/Hipokute_Flower) on the Tensura: Reincarnated Wiki (revision `13311`, modified `2026-07-03T13:51:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (8 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png">Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7071</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png">Invicon Full Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6513</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4445</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle_of_Water.png">Invicon Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4381</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png">Invicon Vacuumed Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4356</li>
+</ul>
+</details>

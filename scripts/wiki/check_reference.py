@@ -14,6 +14,13 @@ ROOT = Path(__file__).resolve().parents[2]
 DOCS = ROOT / "docs"
 REFERENCE = DOCS / "tensura-reference"
 DATA = ROOT / "data"
+REFERENCE_SCRIPT = DOCS / "assets" / "javascripts" / "reference.js"
+REFERENCE_ART = (
+    DOCS / "assets" / "images" / "reference-races-evolution.png",
+    DOCS / "assets" / "images" / "reference-skills-magic.png",
+    DOCS / "assets" / "images" / "reference-bestiary.png",
+    DOCS / "assets" / "images" / "reference-world-equipment.png",
+)
 
 
 def load(name: str) -> dict:
@@ -25,6 +32,12 @@ def main() -> int:
     pages_manifest = load("upstream_tensura_pages.json")
     media_manifest = load("upstream_tensura_media.json")
     coverage = load("upstream_tensura_coverage.json")
+
+    if not REFERENCE_SCRIPT.is_file():
+        errors.append("Missing interactive reference script")
+    for asset in REFERENCE_ART:
+        if not asset.is_file():
+            errors.append(f"Missing reference artwork {asset.relative_to(ROOT)}")
 
     pages = pages_manifest.get("pages", [])
     skipped_pages = pages_manifest.get("skipped_pages", [])
@@ -74,6 +87,8 @@ def main() -> int:
         text = path.read_text(encoding="utf-8")
         if "## Source and licensing" not in text or record.get("source_url", "") not in text:
             errors.append(f"Missing source attribution in {local_page}")
+        if 'class="reference-overview ' not in text or 'class="tensura-reference-article"' not in text:
+            errors.append(f"Missing interactive article structure in {local_page}")
         if "tensura.wiki.gg/images/" in text or "tensura.wiki.gg/images\\" in text:
             errors.append(f"Hotlinked upstream image in {local_page}")
 
@@ -86,6 +101,12 @@ def main() -> int:
             errors.append(f"Incomplete license/source record for {record.get('source_title')}")
         if not record.get("used_on"):
             errors.append(f"Imported but unused media {record.get('source_title')}")
+
+    category_indexes = sorted(path for path in REFERENCE.rglob("index.md") if path != REFERENCE / "index.md")
+    for path in category_indexes:
+        text = path.read_text(encoding="utf-8")
+        if 'data-reference-directory=' not in text:
+            errors.append(f"Missing interactive directory structure in {path.relative_to(DOCS)}")
 
     markdown_link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
     html_link_re = re.compile(r"(?:href|src)=[\"']([^\"']+)[\"']", re.I)
@@ -110,8 +131,16 @@ def main() -> int:
             target = unquote(target.split("#", 1)[0].split("?", 1)[0])
             if not target:
                 continue
-            candidate = (page.with_suffix("") / target).resolve()
-            source_candidate = Path(str(candidate).rstrip("\\/") + ".md") if target.endswith("/") else candidate
+            rendered_dir = page.parent if page.name == "index.md" else page.with_suffix("")
+            candidate = (rendered_dir / target).resolve()
+            if target.endswith("/"):
+                source_candidate = (
+                    candidate / "index.md"
+                    if candidate.is_dir()
+                    else Path(str(candidate).rstrip("\\/") + ".md")
+                )
+            else:
+                source_candidate = candidate
             if not source_candidate.exists():
                 broken.append(f"{page.relative_to(ROOT)} -> missing rendered target {target}")
     errors.extend(broken)

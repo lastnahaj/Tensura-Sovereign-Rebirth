@@ -11,10 +11,28 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/block-of-mithril-8cc68878d7.png" alt="Block of Mithril source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Block_of_Mithril.png">Block of Mithril.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Upstream reference information for Block of Mithril.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of Mithril</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Mithril.png"><img alt="Block of Mithril.png: Infobox image for Block of Mithril the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-mithril-8cc68878d7.png" width="150"/></a><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Block_of_Mithril.png"><img alt="Block of Mithril.png: Infobox image for Block of Mithril the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/block-of-mithril-8cc68878d7.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of Mithril
 </p>
 </div></div>
@@ -105,11 +123,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-block-of-magic-ore/">
+<img src="../../../assets/upstream/tensura/items/block-of-magic-ore-6cbce396ad.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Magic Ore</strong>
+<small>Refining 1 Block of Magic Ore into 2 Pure Magisteel Ingots</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-orichalcum/">
+<img src="../../../assets/upstream/tensura/items/block-of-orichalcum-be6965d3f3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Orichalcum</strong>
+<small>Upstream reference information for Block of Orichalcum.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-low-magisteel/">
+<img src="../../../assets/upstream/tensura/items/block-of-low-magisteel-451583d302.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Low Magisteel</strong>
+<small>Block of Low Magisteel</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-pure-magisteel/">
+<img src="../../../assets/upstream/tensura/items/block-of-pure-magisteel-3b80aad5c6.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Pure Magisteel</strong>
+<small>Block of Pure Magisteel</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Block of Mithril](https://tensura.wiki.gg/wiki/Blocks/Block_of_Mithril) on the Tensura: Reincarnated Wiki (revision `7391`, modified `2025-02-10T14:01:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Block_of_Mithril.png">Block of Mithril.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3933</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Mithril.png">Invicon Block of Mithril.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6848</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Pickaxe.png">Invicon Netherite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5581</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
+</ul>
+</details>

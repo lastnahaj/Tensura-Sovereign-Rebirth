@@ -8,6 +8,21 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/misc/skilllearning-1f7be3df29.png" alt="Ability Usage source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:SkillLearning.png">SkillLearning.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Tensura: Reincarnated comes with many different ways of utilizing abilities.</p>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big>Tensura: Reincarnated comes with many different ways of utilizing abilities.</big></big>
 </p><p><br/>
@@ -16,14 +31,14 @@ tags: []
 <h1><span class="mw-headline" id="Learning">Learning</span></h1>
 <p><big><big>Before using an ability, you are required to learn it.</big></big>
 </p>
-<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png"><img class="thumbimage" data-file-height="276" data-file-width="463" decoding="async" height="276" src="../../../assets/upstream/tensura/misc/skilllearning-1f7be3df29.png" width="463"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png" title="Enlarge"></a></div>An unlearnt skill <b><a href="../../skills/common/strength/" title="Strength">Strength</a></b></div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png"><img class="thumbimage" data-file-height="276" data-file-width="463" decoding="async" height="276" loading="lazy" src="../../../assets/upstream/tensura/misc/skilllearning-1f7be3df29.png" width="463"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png" title="Enlarge"></a></div>An unlearnt skill <b><a href="../../skills/common/strength/" title="Strength">Strength</a></b></div></div></div>
 <p>Unlearnt abilities will show up in grey text in your Ability Menu, and you can hover on the progress bar to see how many points you have. The learning process is straight-forward: equip the ability in any slot and activate it with the corresponding keybind.
 </p><p><br/>
 A message will appear on the screen, saying that you've become closer to acquiring it.<br/>
-<a class="image" href="https://tensura.wiki.gg/wiki/File:StartLearning.png" title="Gaining Learning Points"><img alt="Gaining Learning Points" data-file-height="81" data-file-width="531" decoding="async" height="61" src="../../../assets/upstream/tensura/misc/startlearning-d3efca8879.png" width="400"/></a>
+<a class="image" href="https://tensura.wiki.gg/wiki/File:StartLearning.png" title="Gaining Learning Points"><img alt="Gaining Learning Points" data-file-height="81" data-file-width="531" decoding="async" height="61" loading="lazy" src="../../../assets/upstream/tensura/misc/startlearning-d3efca8879.png" width="400"/></a>
 </p><p><br/>
 Upon reaching 100 Learn Points, you will learn the ability and become able to use it. Its color in the Menu will also change depending on its type.<br/>
-<a class="image" href="https://tensura.wiki.gg/wiki/File:SkillLearnt.png" title="Skill Learnt"><img alt="Skill Learnt" data-file-height="229" data-file-width="525" decoding="async" height="174" src="../../../assets/upstream/tensura/misc/skilllearnt-a4b4ea1b83.png" width="400"/></a>
+<a class="image" href="https://tensura.wiki.gg/wiki/File:SkillLearnt.png" title="Skill Learnt"><img alt="Skill Learnt" data-file-height="229" data-file-width="525" decoding="async" height="174" loading="lazy" src="../../../assets/upstream/tensura/misc/skilllearnt-a4b4ea1b83.png" width="400"/></a>
 </p><p>Once you have learnt a skill. It will reduce your Max MP by a certain amount depending on the type of skill:
 </p>
 <ul><li>Common Skills cost 100 MP</li>
@@ -125,8 +140,54 @@ Much like learning, it also has abilities that speed up the process: <b><a href=
 </div>
 </div>
 
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-alignment/">
+<img src="../../../assets/upstream/tensura/items/marionette-heart-86fec963f8.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Alignment</strong>
+<small>A term for non-majin life forms that have achieved Saint level</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-awakening/">
+<img src="../../../assets/upstream/tensura/misc/tdlawakening-109254fb07.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Awakening</strong>
+<small>Awakening is a term used to refer to the process of becoming a higher form of existence</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-burden/">
+<img src="../../../assets/upstream/tensura/misc/burden-ca00c12a84.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Burden</strong>
+<small>Increases weight, preventing jumping</small>
+</span>
+</a>
+<a class="reference-related-card" href="../chantspeed/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Chant Speed</strong>
+<small>Chant speed is the amount of time it takes to cast spells. This cast time can be reduced and varies between spells.</small>
+</span>
+</a>
+</div>
+</section>
+
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mechanics/Ability Usage](https://tensura.wiki.gg/wiki/Mechanics/Ability_Usage) on the Tensura: Reincarnated Wiki (revision `13371`, modified `2026-08-20T11:28:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (3 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:SkillLearning.png">SkillLearning.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3115</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:StartLearning.png">StartLearning.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3116</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:SkillLearnt.png">SkillLearnt.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3118</li>
+</ul>
+</details>

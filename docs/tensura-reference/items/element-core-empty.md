@@ -9,10 +9,31 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-element-core-empty-db12bc067a.png" alt="Element Core (Empty) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Can be obtained by crafting</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+<a href="#Elemental_core_combinations">Elemental core combinations</a>
+<a href="#Combination_list">Combination list</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Element Core (Empty)</h2><figure class="pi-item pi-media pi-image" data-source="image">
 <a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Element_Core_(Empty).png" title="Element Core (Empty).png">
-<img alt="Element Core (Empty).png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/element-core-empty-1acc1aa7bb.png" width="270"/>
+<img alt="Element Core (Empty).png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/items/element-core-empty-1acc1aa7bb.png" width="270"/>
 </a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
@@ -682,11 +703,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../element-core-earth/">
+<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-earth-782ad983a1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Element Core (Earth)</strong>
+<small>There are 2 obtainment methods:</small>
+</span>
+</a>
+<a class="reference-related-card" href="../element-core-fire/">
+<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-fire-e17c190e3a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Element Core (Fire)</strong>
+<small>There are 2 obtainment methods:</small>
+</span>
+</a>
+<a class="reference-related-card" href="../dubious-food/">
+<img src="../../../assets/upstream/tensura/items/invicon-dubious-food-d8a4f06efb.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Dubious Food</strong>
+<small>When eaten, the Dubious Food can give various effects based on an 80% chance per effect. These effects include:</small>
+</span>
+</a>
+<a class="reference-related-card" href="../element-core-space/">
+<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-space-b5e3c3540e.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Element Core (Space)</strong>
+<small>There are 2 obtainment methods:</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Element Core (Empty)](https://tensura.wiki.gg/wiki/Element_Core_(Empty)) on the Tensura: Reincarnated Wiki (revision `13379`, modified `2026-08-22T13:02:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Element_Core_(Empty).png">Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3721</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
+</ul>
+</details>

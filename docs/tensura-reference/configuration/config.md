@@ -8,6 +8,26 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Configuration</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Configure Configure the Figure to Con</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Game_Rules">Game Rules</a>
+<a href="#Config_Folder">Config Folder</a>
+<a href="#Server_Config_Folder">Server Config Folder</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Configure Configure the Figure to Con
 </p><figure class="embedvideo" data-mw-iframeconfig='{"src":"https://www.youtube-nocookie.com/embed/0jtNGkpw7wE?autoplay=1"}' data-service="youtube">
@@ -57,6 +77,29 @@ tags: []
 TSR ships reviewed client/common configuration and validates clean reconstruction. Upstream defaults and TSR values must remain distinct; only settings backed by tracked configuration or runtime evidence are described as current TSR behavior.
 
 **TSR guides:** [Configuration Baseline](../../development/configuration-baseline.md) · [Configuration Specification](../../development/configuration-spec.md)
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Configuration</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../config-client/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Client</strong>
+<small>Switch to true for Spiders to have a more friendly appearance Default: false arachnophobiaMode = false wip wip wip wip…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../config-spawnrate-common/">
+<img src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spawnrate-Common</strong>
+<small>How many times will the entity attempt to spawn before failing 0 = disabled, 1 = guaranteed, higher = lower chance</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

@@ -9,6 +9,31 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A rare structure able to spawn in many biomes across the overworld, contains magic tomes of different elements depending on the biome.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Other_Loot">Other Loot</a>
+<a href="#Forest_Biome_Towers">Forest Biome Towers</a>
+<a href="#Desert_Biome_Towers">Desert Biome Towers</a>
+<a href="#Badland_Biome_Towers">Badland Biome Towers</a>
+<a href="#Miasmic_Plains_Biome_Towers">Miasmic Plains Biome Towers</a>
+<a href="#Snowy_Plains_Biome_Towers">Snowy Plains Biome Towers</a>
+<a href="#Dwarf_Mage_Tower_Loot">Dwarf Mage Tower Loot</a>
+<a href="#Can_Be_Found_In_All">Can Be Found In All</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Wizard Tower</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Wizard_tower.png" title="File:Wizard tower.png">File:Wizard tower.png</a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 Forests, deserts, badlands, miasmic plains, snowy plains</div></div></div></div>
@@ -138,6 +163,43 @@ Forests, deserts, badlands, miasmic plains, snowy plains</div></div></div></div>
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Structures</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../structures-ruins/">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Structures/Ruins</strong>
+<small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures/">
+<img src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Structures</strong>
+<small>Ant Nest Charybdis Cave Spider Nest</small>
+</span>
+</a>
+<a class="reference-related-card" href="../structures-spider-nest/">
+<img src="../../../assets/upstream/tensura/structures/spider-nest-9790343ea9.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Spider Nest</strong>
+<small>Inside are chests which can contain Sticky Cobweb , Steel Cobweb all Spider Bow variants, Web Gun Schematic , and…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../ruins/">
+<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Ruins</strong>
+<small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-odachi-15d5a75eef.png" alt="Low Magisteel Odachi source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Odachi.png">Invicon Low Magisteel Odachi.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Low_Magisteel_Odachi?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Low Magisteel Odachi</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Odachi.png"><img alt="Low Magisteel Odachi.png: Infobox image for Low Magisteel Odachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/weapons/low-magisteel-odachi-c5201ae388.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Odachi.png"><img alt="Low Magisteel Odachi.png: Infobox image for Low Magisteel Odachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/low-magisteel-odachi-c5201ae388.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Low Magisteel Odachi"><a href="./" title="Low Magisteel Odachi"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -115,11 +135,61 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../low-magisteel-long-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-low-magisteel-long-sword-613bb913fc.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Long Sword</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic and a Long Sword Schematic . To craft, you need…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-scythe/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-scythe-f7ebc7c150.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Scythe</strong>
+<small>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-kodachi/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-low-magisteel-kodachi-0d960e4a20.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Kodachi</strong>
+<small>To craft the weapon, one must have used the following schematics: Low Magisteel Gear Schematic , Short Sword Schematic…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-short-sword/">
+<img src="../../../assets/upstream/tensura/weapons/invicon-low-magisteel-short-sword-5881443d31.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Short Sword</strong>
+<small>To craft the weapon, one must have used Low Magisteel Gear Schematic and a Short Sword Schematic . To craft, you need…</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Low Magisteel Odachi](https://tensura.wiki.gg/wiki/Low_Magisteel_Odachi) on the Tensura: Reincarnated Wiki (revision `10439`, modified `2025-08-26T08:51:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Odachi.png">Invicon Low Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6600</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Odachi.png">Low Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7117</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Odachi.png">Invicon High Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6542</li>
+</ul>
+</details>

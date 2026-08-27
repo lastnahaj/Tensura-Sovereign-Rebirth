@@ -13,10 +13,29 @@ tags:
 
 **Also known as:** Items/Consumables/Cooked Sissie Fin
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-sissie-fin-7aaeeecaf5.png" alt="Cooked Sissie Fin source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Fin.png">Invicon Cooked Sissie Fin.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Cooking a Sissie Fin with a campfire, furnace, etc</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Cooked Sissie Fin</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Cooked_Sissie_Fin.png"><img alt="Cooked Sissie Fin.png: Infobox image for Cooked Sissie Fin the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/cooked-sissie-fin-310a4c6cf5.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Cooked_Sissie_Fin.png"><img alt="Cooked Sissie Fin.png: Infobox image for Cooked Sissie Fin the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/cooked-sissie-fin-310a4c6cf5.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Sissie Fin"><a href="./" title="Cooked Sissie Fin"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -71,7 +90,7 @@ tags:
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Sissie_Fin?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -81,11 +100,60 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../cooked-serpent-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-serpent-meat-9c55f10833.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Serpent Meat</strong>
+<small>Cooking a Raw Serpent Meat with a campfire, furnace, etc</small>
+</span>
+</a>
+<a class="reference-related-card" href="../cooked-sissie-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-sissie-meat-62ee328f87.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Sissie Meat</strong>
+<small>Cooking a Raw Sissie Meat with a campfire, furnace, etc</small>
+</span>
+</a>
+<a class="reference-related-card" href="../cooked-megalodon-meat/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-megalodon-meat-e3e87d1d5d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Megalodon Meat</strong>
+<small>Cooking a Raw Megalodon Meat with a campfire, furnace, etc</small>
+</span>
+</a>
+<a class="reference-related-card" href="../cooked-spear-toro-fin/">
+<img src="../../../assets/upstream/tensura/items/invicon-cooked-spear-toro-fin-441642b95a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Cooked Spear Toro Fin</strong>
+<small>Cooking a Spear Toro Fin with a campfire, furnace, etc</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Cooked Sissie Fin](https://tensura.wiki.gg/wiki/Cooked_Sissie_Fin) on the Tensura: Reincarnated Wiki (revision `9482`, modified `2025-04-23T18:09:28Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (6 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Fin.png">Invicon Cooked Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6484</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Cooked_Sissie_Fin.png">Cooked Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6994</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Fin.png">Invicon Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6724</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+</ul>
+</details>

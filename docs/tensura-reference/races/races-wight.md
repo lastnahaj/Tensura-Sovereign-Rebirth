@@ -9,6 +9,27 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>&quot;Wight So Serious?&quot; A Demi-Spiritual skeletal undead Monster Race that is highly weakened by sunlight.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Racial_Ability">Racial Ability</a>
+<a href="#Traits">Traits</a>
+<a href="#Evolutions">Evolutions</a>
+<a href="#Tutorial_Video">Tutorial Video</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big><i>"Wight So Serious?"</i></big></big>
 <br/>
@@ -91,6 +112,43 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-wicked-oni/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Wicked Oni</strong>
+<small>Death Oni - 400,000 EP</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-wight-king/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Wight King</strong>
+<small>&quot; King of the...I didn&#x27;t think about this one... &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-vampire-overcomer/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Vampire Overcomer</strong>
+<small>&quot; Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-vampire-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Vampire Lord</strong>
+<small>&quot; Lord of the Suckers &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

@@ -9,6 +9,26 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A race that can freely change bewteen their true animal form and a more human form. They possess immense physical prowess and regenerative capabilities that let them fight without rest.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Description">Description</a>
+<a href="#Evolution">Evolution</a>
+<a href="#Tutorial_Video">Tutorial Video</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>rawr</i>"
 </p>
@@ -70,6 +90,43 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Races</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../races-beast-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Beast Lord</strong>
+<small>Spirit Beast - 400,000 EP + Defeat 4 Bosses</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-daemon-lord/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Daemon Lord</strong>
+<small>&quot; Lord of the Matt Daemons &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-arch-daemon/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Arch Daemon</strong>
+<small>&quot; I hear you like to Arch it huh...? &quot;</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-death-oni/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Death Oni</strong>
+<small>&quot; Become Deaf itself. What? WHAT??? &quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

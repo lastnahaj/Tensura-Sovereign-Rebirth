@@ -11,17 +11,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="Low Magisteel Gear Schematic source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtained by picking up a Low Magisteel Ingot</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+<a href="#Combinations">Combinations</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Low Magisteel Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
 <a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png" title="Low Magisteel Gear Schematic.png">
-<img alt="Low Magisteel Gear Schematic.png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/low-magisteel-gear-schematic-af106f6883.png" width="270"/>
+<img alt="Low Magisteel Gear Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/items/low-magisteel-gear-schematic-af106f6883.png" width="270"/>
 </a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
@@ -264,11 +284,85 @@ Allows Crafting of the following items:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../low-magisteel-bone-golem/">
+<img src="../../../assets/upstream/tensura/items/low-magisteel-bone-golem-776e56d6d8.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Bone Golem</strong>
+<small>A golem resembling a skeleton made out of low magisteel. Allows the player to possess it and works as a physical body…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-ingot/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-ingot-a4fe39936f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Ingot</strong>
+<small>Smelting Magic Ore and Iron in Kiln Each Low Magisteel Ingot is made with 1 part Molten Magisteel and 8 parts Molten…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../items-schematics-long-sword-schematic/">
+<img src="../../../assets/upstream/tensura/items/invicon-long-sword-schematic-0225e6203c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Long Sword Schematic</strong>
+<small>Found in Dwarf Blacksmiths - 10% OR Found in Toolsmith Villager Houses - 20% Chance</small>
+</span>
+</a>
+<a class="reference-related-card" href="../low-magisteel-nugget/">
+<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-nugget-e863cc533c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Low Magisteel Nugget</strong>
+<small>Smelting Magic Ore and Iron in Kiln Each Low Magisteel Nugget is made with 1 part Molten Magisteel and 8 parts Molten…</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Low Magisteel Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `13088`, modified `2026-06-15T09:48:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (31 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png">Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13078</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warp_Core.png">Invicon Warp Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13086</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Core.png">Invicon Daemon Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13087</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6518</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6579</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sword.png">Invicon Low Magisteel Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6607</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Pickaxe.png">Invicon Low Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6601</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Axe.png">Invicon Low Magisteel Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6588</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Shovel.png">Invicon Low Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6604</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Hoe.png">Invicon Low Magisteel Hoe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13081</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13079</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Helmet.png">Invicon Low Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6592</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Chestplate.png">Invicon Low Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6590</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Leggings.png">Invicon Low Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6597</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Boots.png">Invicon Low Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6589</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Gear_Schematic.png">Invicon Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12053</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12056</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
+</ul>
+</details>

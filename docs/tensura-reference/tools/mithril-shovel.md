@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-shovel-f0efcac05e.png" alt="Mithril Shovel source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Shovel.png">Invicon Mithril Shovel.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mithril_Shovel?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Mithril Shovel</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Mithril_Shovel.png"><img alt="Mithril Shovel.png: Infobox image for Mithril Shovel the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/mithril-shovel-d3c5e4fdb6.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Mithril_Shovel.png"><img alt="Mithril Shovel.png: Infobox image for Mithril Shovel the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/mithril-shovel-d3c5e4fdb6.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Mithril Shovel"><a href="./" title="Mithril Shovel"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -104,11 +123,61 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Tools</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mithril-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-pickaxe-14b6d2e6c0.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Pickaxe</strong>
+<small>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-axe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-axe-c56fbacc88.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Axe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mithril-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-mithril-hoe-799a1235bd.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mithril Hoe</strong>
+<small>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-hoe-ff95a53d92.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Hoe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mithril Shovel](https://tensura.wiki.gg/wiki/Mithril_Shovel) on the Tensura: Reincarnated Wiki (revision `10648`, modified `2025-08-28T11:36:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Shovel.png">Invicon Mithril Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10335</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Shovel.png">Mithril Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10347</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Shovel.png">Invicon Adamantite Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10365</li>
+</ul>
+</details>

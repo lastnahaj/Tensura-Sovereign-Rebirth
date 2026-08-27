@@ -9,13 +9,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Commands</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="Commands source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>The Commands of Tensura: Reincarnated</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Get">Get</a>
+<a href="#Preset">Preset</a>
+<a href="#Set">Set</a>
+<a href="#Storage">Storage</a>
+<a href="#Toggle">Toggle</a>
+<a href="#Edit_player">Edit player</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big><big>The Commands of Tensura: Reincarnated</big></big>
 </p>
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Commands?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -250,3 +273,10 @@ TSR does not publish guessed LuckPerms nodes or command permissions. Operator re
 ## Source and licensing
 
 Base Tensura reference adapted from [Commands](https://tensura.wiki.gg/wiki/Commands) on the Tensura: Reincarnated Wiki (revision `10936`, modified `2026-01-03T13:35:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+</ul>
+</details>

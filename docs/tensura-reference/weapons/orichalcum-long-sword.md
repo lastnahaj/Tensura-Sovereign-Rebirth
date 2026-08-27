@@ -10,17 +10,37 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Weapons</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-long-sword-fc2d3ef6e2.png" alt="Orichalcum Long Sword source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Long_Sword.png">Invicon Orichalcum Long Sword.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Extra_Stats">Extra Stats</a>
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Orichalcum_Long_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Long Sword</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Long_Sword.png"><img alt="Orichalcum Long Sword.png: Infobox image for Orichalcum Long Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/weapons/orichalcum-long-sword-ead8da2240.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Long_Sword.png"><img alt="Orichalcum Long Sword.png: Infobox image for Orichalcum Long Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/orichalcum-long-sword-ead8da2240.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Orichalcum Long Sword"><a href="./" title="Orichalcum Long Sword"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -107,11 +127,61 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Weapons</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../orichalcum-kodachi/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-kodachi-9ea1ce115c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Kodachi</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-odachi/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-odachi-35c44df206.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Odachi</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-katana/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-katana-5d0cabe920.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Katana</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-scythe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-scythe-90a1d05df8.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Scythe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Orichalcum Long Sword](https://tensura.wiki.gg/wiki/Orichalcum_Long_Sword) on the Tensura: Reincarnated Wiki (revision `10901`, modified `2025-11-24T10:01:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (7 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Long_Sword.png">Invicon Orichalcum Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10295</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Long_Sword.png">Orichalcum Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10310</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Long_Sword.png">Invicon HihiIrokane Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10385</li>
+</ul>
+</details>

@@ -8,6 +8,25 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Hardcore races is a gamerule which makes races significantly harder upon choosing them. The following occurs when hardcore races is toggled on:</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Misc">Misc</a>
+<a href="#Affected_races">Affected races</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <h1><span class="mw-headline" id="About_Hardcore_Races">About Hardcore Races</span></h1>
@@ -44,6 +63,43 @@ tags: []
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../getting-started/">
+<img src="../../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Getting Started</strong>
+<small>When spawning in, a menu will pop up, showing races you can pick. Depending on what race you pick, the difficulty of…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mechanics-hipokute-farming/">
+<img src="../../../assets/upstream/tensura/items/hipokute-seeds-3b87e171fc.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hipokute Farming</strong>
+<small>Place down Hipokute Seeds</small>
+</span>
+</a>
+<a class="reference-related-card" href="../gear-evolution/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Gear Evolution</strong>
+<small>Some items are eligible for evolution, that being Monster Leather, and Magisteel by default.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effect-hypnosis/">
+<img src="../../../assets/upstream/tensura/misc/hyposis-ccf26aed93.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hypnosis</strong>
+<small>Has a 1% chance per level to cause the screen to randomly rotate every tick.</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

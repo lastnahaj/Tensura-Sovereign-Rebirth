@@ -11,8 +11,27 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Bosses</span>
 
+<section class="reference-overview reference-theme-bestiary">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif" alt="Ifrit source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Ifrit.gif">Ifrit.gif · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>The Greater Fire Spirit that is one of the many spirits that Hinata has, but also inhabits Shizu&#x27;s body.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Spawn">Spawn</a>
+<a href="#Drops">Drops</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Ifrit</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Ifrit.gif"><img alt="Ifrit.gif" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Ifrit</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Ifrit.gif"><img alt="Ifrit.gif" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 400</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
 800</div></div><div class="druid-row druid-row-armor" data-druid-section-row="Stats"><div class="druid-label druid-label-armor">Armor</div><div class="druid-data druid-data-armor druid-data-nonempty">
 5</div></div><div class="druid-row druid-row-minimum_ep" data-druid-section-row="Stats"><div class="druid-label druid-label-minimum_ep">Minimum EP</div><div class="druid-data druid-data-minimum_ep druid-data-nonempty">
@@ -47,11 +66,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Bosses</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../mobs-hinata-sakaguchi/">
+<img src="../../../assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Hinata Sakaguchi</strong>
+<small>A Rare otherworlder, One of the strongest bosses in the game at that. Hostile towards the &quot;majin&quot; race (because lore…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-orc-disaster/">
+<img src="../../../assets/upstream/tensura/bosses/orc-disaster-02c11f1455.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Disaster</strong>
+<small>A Boss that appears after an Orc Lord reaches 200k EP</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-gazel-dwargo/">
+<img src="../../../assets/upstream/tensura/bosses/gazel-dwargo-e8dd87d54e.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Gazel Dwargo</strong>
+<small>The king of the dwarves, One of the strongest bosses in the game with the sole exception of Hinata Sakaguchi of…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mobs-orc-lord/">
+<img src="../../../assets/upstream/tensura/bosses/orc-lord-136738ee9a.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orc Lord</strong>
+<small>&quot;Eat, kill, all to satisfy my hunger&quot;</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Mobs/Ifrit](https://tensura.wiki.gg/wiki/Mobs/Ifrit) on the Tensura: Reincarnated Wiki (revision `12410`, modified `2026-04-22T13:05:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Ifrit.gif">Ifrit.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2480</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Fire).png">Invicon Elemental Shard (Fire).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6811</li>
+</ul>
+</details>

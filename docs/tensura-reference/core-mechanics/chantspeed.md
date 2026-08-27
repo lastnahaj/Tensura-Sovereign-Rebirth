@@ -8,6 +8,24 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Core Mechanics</span>
 
+<section class="reference-overview reference-theme-evolution">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Chant speed is the amount of time it takes to cast spells. This cast time can be reduced and varies between spells.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Description">Description</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
@@ -44,6 +62,43 @@ tags: []
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Core Mechanics</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../effects-burden/">
+<img src="../../../assets/upstream/tensura/misc/burden-ca00c12a84.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Burden</strong>
+<small>Increases weight, preventing jumping</small>
+</span>
+</a>
+<a class="reference-related-card" href="../effects-corrosion/">
+<img src="../../../assets/upstream/tensura/misc/corrosion-effect-8c196c3b5b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Corrosion</strong>
+<small>Deals Corrosion damage over time like Poison and also degrades tools/armour at an increased rate. Used to obtain…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../races-awakening/">
+<img src="../../../assets/upstream/tensura/misc/tdlawakening-109254fb07.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Awakening</strong>
+<small>Awakening is a term used to refer to the process of becoming a higher form of existence</small>
+</span>
+</a>
+<a class="reference-related-card" href="../damage-types/">
+<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Damage Types</strong>
+<small>Energy Drain damage is applied when a damage source meets any of the following conditions:</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

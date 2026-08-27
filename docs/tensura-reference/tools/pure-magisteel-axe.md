@@ -10,17 +10,36 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-pure-magisteel-axe-ce042d429a.png" alt="Pure Magisteel Axe source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Axe.png">Invicon Pure Magisteel Axe.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Obtainable through killing mobs while having High Magisteel Axe in your offhand or equipped</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Axe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Pure Magisteel Axe</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Axe.png"><img alt="Pure Magisteel Axe.png: Infobox image for Pure Magisteel Axe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/pure-magisteel-axe-b2b9796b16.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Axe.png"><img alt="Pure Magisteel Axe.png: Infobox image for Pure Magisteel Axe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/pure-magisteel-axe-b2b9796b16.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Axe"><a href="./" title="Pure Magisteel Axe"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -107,11 +126,63 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Tools</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../orichalcum-shovel/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-shovel-c50af7a68d.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Shovel</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../pure-magisteel-hoe/">
+<img src="../../../assets/upstream/tensura/items/invicon-pure-magisteel-hoe-9172ca0469.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Pure Magisteel Hoe</strong>
+<small>Obtainable through killing mobs while having High Magisteel Hoe in your offhand or equipped</small>
+</span>
+</a>
+<a class="reference-related-card" href="../orichalcum-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-orichalcum-pickaxe-99d315e254.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Orichalcum Pickaxe</strong>
+<small>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</small>
+</span>
+</a>
+<a class="reference-related-card" href="../pure-magisteel-pickaxe/">
+<img src="../../../assets/upstream/tensura/items/invicon-pure-magisteel-pickaxe-2e42d4ce33.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Pure Magisteel Pickaxe</strong>
+<small>Obtainable through killing mobs while having High Magisteel Pickaxe in your offhand or equipped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Pure Magisteel Axe](https://tensura.wiki.gg/wiki/Pure_Magisteel_Axe) on the Tensura: Reincarnated Wiki (revision `13133`, modified `2026-06-21T19:39:34Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (9 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Axe.png">Invicon Pure Magisteel Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10273</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Axe.png">Pure Magisteel Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10284</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Axe.png">Invicon High Magisteel Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6531</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Axe.png">Invicon Adamantite Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10364</li>
+</ul>
+</details>

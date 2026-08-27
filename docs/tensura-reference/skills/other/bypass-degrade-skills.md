@@ -8,6 +8,26 @@ tags: []
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Other Skills</span>
 
+<section class="reference-overview reference-theme-abilities">
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
+<figcaption>Original TSR section artwork</figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>This page is an index of all skills that fall under this umbrella term of bypass/degrade skill. For specific information on which resistances or nulls they affect, please use the link to their page.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Important_Note">Important Note</a>
+<a href="#What_are_bypass.2Fdegrade_skills.3F">What are bypass/degrade skills?</a>
+<a href="#Skills">Skills</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <h2><span class="mw-headline" id="Important_Note">Important Note</span></h2>
@@ -44,6 +64,43 @@ tags: []
 
 </div>
 </div>
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Other Skills</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../anti-skill/">
+<img src="../../../../assets/upstream/tensura/skills/anti-skill-1b8c91940a.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Anti-Skill</strong>
+<small>Become immune to Magic, Skills, Skill Debuffs and Battlewill, destroy barriers and block skill usage of other entities</small>
+</span>
+</a>
+<a class="reference-related-card" href="../mastery-boost-skills/">
+<img src="../../../../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Mastery Boost Skills</strong>
+<small>Skills that can increase the mastery gain of other abilities.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../abilities/">
+<img src="../../../../assets/upstream/tensura/skills/skillicon-2d9be4e24c.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Abilities</strong>
+<small>The mod adds over 250 abilities in multiple categories, which can be seen below.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../skill-reset-scroll/">
+<img src="../../../../assets/upstream/tensura/skills/skill-reset-scroll-c223b0e86b.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Skill Reset Scroll</strong>
+<small>This scroll will not cover the cost for a new Unique Skill. Be careful or else you can end up with no Unique Skill…</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 

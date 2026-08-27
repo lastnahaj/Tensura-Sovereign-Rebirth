@@ -12,10 +12,29 @@ tags:
 
 **Also known as:** Items/Mob Drops/Monster Leather (D)
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-d-9e5923616c.png" alt="Monster Leather (D) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>A Monster Leather of Rank-D</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtaining">Obtaining</a>
+<a href="#Use">Use</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Monster Leather (D)</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_(D).png"><img alt="Monster Leather (D).png: Infobox image for Monster Leather (D) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/monster-leather-d-3532fe9169.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_(D).png"><img alt="Monster Leather (D).png: Infobox image for Monster Leather (D) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/monster-leather-d-3532fe9169.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Monster Leather (D)"><a href="./" title="Monster Leather (D)"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -154,11 +173,68 @@ The recipe is the same as the one of the leather of the vanilla game. It must be
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Items &amp; Materials</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../monster-leather-c/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-c-3654a97601.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (C)</strong>
+<small>A Monster Leather of Rank-C</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-special-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-special-a-3ce56eadd3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (Special A)</strong>
+<small>A Monster Leather of Rank-Special A</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-b/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-b-05262732b1.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather (B)</strong>
+<small>A Monster Leather of Rank-B</small>
+</span>
+</a>
+<a class="reference-related-card" href="../monster-leather-boots-a/">
+<img src="../../../assets/upstream/tensura/items/invicon-monster-leather-boots-a-9cb8fd69d3.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Monster Leather Boots (A)</strong>
+<small>Obtainable through killing mobs while having Monster Leather Boots (B) in your offhand or equiped</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Monster Leather (D)](https://tensura.wiki.gg/wiki/Monster_Leather_(D)) on the Tensura: Reincarnated Wiki (revision `9648`, modified `2025-05-29T21:12:23Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (14 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_(D).png">Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7154</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(D).png">Invicon Monster Leather Leggings (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6843</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(D).png">Invicon Monster Leather Boots (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6824</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Book.png">Invicon Book.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12183</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Leather.png">Invicon Leather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3708</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Leather_Horse_Armor.png">Invicon Leather Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12184</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Ingot.png">Invicon Iron Ingot.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12159</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Horse_Armor.png">Invicon Iron Horse Armor.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12185</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_String.png">Invicon String.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12181</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Saddle.png">Invicon Saddle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12186</li>
+</ul>
+</details>

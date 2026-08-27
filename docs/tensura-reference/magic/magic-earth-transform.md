@@ -13,8 +13,26 @@ tags:
 
 **Also known as:** Abilities/Skills/Magic Earth Transform
 
+<section class="reference-overview reference-theme-abilities">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/magic/magic-earth-transform-3db22a53eb.png" alt="Magic Earth Transform source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Magic_earth_transform.png">Magic earth transform.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Gain access to the intermediate Earth Spirit Magic and boost your earth attacks while buffing yourself and debuffing enemies.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Usage">Usage</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Magic Earth Transform</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_earth_transform.png"><img alt="Magic earth transform.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../assets/upstream/tensura/magic/magic-earth-transform-3db22a53eb.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Magic Earth Transform</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_earth_transform.png"><img alt="Magic earth transform.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-earth-transform-3db22a53eb.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -46,8 +64,52 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/earth-transform/" t
 </div>
 </div>
 
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Magic</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../magic-darkness-transform/">
+<img src="../../../assets/upstream/tensura/magic/magic-darkness-transform-abb938bb00.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Darkness Transform</strong>
+<small>Gain access to the intermediate Darkness Spirit Magic and boost your darkness attacks while buffing yourself and…</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-flame-transform/">
+<img src="../../../assets/upstream/tensura/magic/magic-flame-transform-1aaef66ff5.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Flame Transform</strong>
+<small>Gain access to Greater Flame Spirit Magic and boost your fire attacks while buffing yourself and debuffing enemies.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-bottle-of-water/">
+<img src="../../../assets/upstream/tensura/magic/magic-bottle-of-water-82466c164f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Bottle of Water</strong>
+<small>Right clicking water with an empty Magic Bottle</small>
+</span>
+</a>
+<a class="reference-related-card" href="../magic-jamming/">
+<img src="../../../assets/upstream/tensura/magic/magic-jamming-814637df1f.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Magic Jamming</strong>
+<small>Interferes with Skills, Magics, Flight and Transformations (with Mastery)</small>
+</span>
+</a>
+</div>
+</section>
+
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Magic Earth Transform](https://tensura.wiki.gg/wiki/Magic_Earth_Transform) on the Tensura: Reincarnated Wiki (revision `11327`, modified `2026-03-31T20:45:35Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Magic_earth_transform.png">Magic earth transform.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3350</li>
+</ul>
+</details>

@@ -11,10 +11,28 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/items/block-of-high-magisteel-f5b98585f9.png" alt="Block of High Magisteel source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Block_of_High_Magisteel.png">Block of High Magisteel.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>Block of High Magisteel</p>
+<nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#Obtainment">Obtainment</a>
+</nav>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of High Magisteel</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_High_Magisteel.png"><img alt="Block of High Magisteel.png: Infobox image for Block of High Magisteel the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-high-magisteel-f5b98585f9.png" width="150"/></a><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Block_of_High_Magisteel.png"><img alt="Block of High Magisteel.png: Infobox image for Block of High Magisteel the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/block-of-high-magisteel-f5b98585f9.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of High Magisteel
 </p>
 </div></div>
@@ -105,11 +123,58 @@ tags:
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
+!!! note "Unavailable upstream media"
+    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Blocks</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../blocks-block-of-adamantite/">
+<img src="../../../assets/upstream/tensura/items/block-of-adamantite-16d7fc960c.gif" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Adamantite</strong>
+<small>Upstream reference information for Block of Adamantite.</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-hihiirokane/">
+<img src="../../../assets/upstream/tensura/items/block-of-hihiirokane-d68dfb73aa.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Hihi&#x27;Irokane</strong>
+<small>Block of Hihi&#x27;irokane</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-low-magisteel/">
+<img src="../../../assets/upstream/tensura/items/block-of-low-magisteel-451583d302.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Low Magisteel</strong>
+<small>Block of Low Magisteel</small>
+</span>
+</a>
+<a class="reference-related-card" href="../blocks-block-of-magic-ore/">
+<img src="../../../assets/upstream/tensura/items/block-of-magic-ore-6cbce396ad.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Block of Magic Ore</strong>
+<small>Refining 1 Block of Magic Ore into 2 Pure Magisteel Ingots</small>
+</span>
+</a>
+</div>
+</section>
 
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Blocks/Block of High Magisteel](https://tensura.wiki.gg/wiki/Blocks/Block_of_High_Magisteel) on the Tensura: Reincarnated Wiki (revision `7389`, modified `2025-02-10T13:59:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (4 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:Block_of_High_Magisteel.png">Block of High Magisteel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3935</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_High_Magisteel.png">Invicon Block of High Magisteel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6902</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Pickaxe.png">Invicon Netherite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5581</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
+</ul>
+</details>

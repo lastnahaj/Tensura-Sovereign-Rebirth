@@ -9,11 +9,26 @@ tags:
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Configuration</span>
 
+<section class="reference-overview reference-theme-world">
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" alt="Spawnrate-Common source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png · CC BY-SA 4.0</a></figcaption>
+</figure>
+<div class="reference-overview-copy">
+<p class="reference-eyebrow">At a glance</p>
+<p>How many times will the entity attempt to spawn before failing 0 = disabled, 1 = guaranteed, higher = lower chance</p>
+<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
+<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
+<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
+</div>
+</div>
+</section>
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Config/Spawnrate-Common?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -737,8 +752,38 @@ tags:
 </div>
 </div>
 
+<section class="reference-related">
+<div class="reference-related-heading">
+<h2>Continue exploring</h2>
+<a href="../">Browse all Configuration</a>
+</div>
+<div class="reference-related-grid">
+<a class="reference-related-card" href="../config/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Configuration</strong>
+<small>Configure Configure the Figure to Con</small>
+</span>
+</a>
+<a class="reference-related-card" href="../config-client/">
+<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<span class="reference-related-copy">
+<strong>Client</strong>
+<small>Switch to true for Spiders to have a more friendly appearance Default: false arachnophobiaMode = false wip wip wip wip…</small>
+</span>
+</a>
+</div>
+</section>
+
 ---
 
 ## Source and licensing
 
 Base Tensura reference adapted from [Config/Spawnrate-Common](https://tensura.wiki.gg/wiki/Config/Spawnrate-Common) on the Tensura: Reincarnated Wiki (revision `9984`, modified `2025-06-30T18:27:42Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<details class="reference-media-credits">
+<summary>Media credits (1 source files)</summary>
+<ul>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
+</ul>
+</details>
