@@ -107,6 +107,21 @@ def main() -> int:
         text = path.read_text(encoding="utf-8")
         if 'data-reference-directory=' not in text:
             errors.append(f"Missing interactive directory structure in {path.relative_to(DOCS)}")
+        hero_title = re.search(
+            r'<header class="reference-directory-hero[^>]*>.*?<h1>([^<]+)</h1>',
+            text,
+            re.DOTALL,
+        )
+        card_titles = re.findall(
+            r'<div class="reference-card-copy">\s*<h2>([^<]+)</h2>',
+            text,
+        )
+        if hero_title and any(
+            html.unescape(card_title).strip().casefold()
+            == html.unescape(hero_title.group(1)).strip().casefold()
+            for card_title in card_titles
+        ):
+            errors.append(f"Directory repeats itself as a card in {path.relative_to(DOCS)}")
 
     markdown_link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
     html_link_re = re.compile(r"(?:href|src)=[\"']([^\"']+)[\"']", re.I)

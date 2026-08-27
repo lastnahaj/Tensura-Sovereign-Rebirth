@@ -1446,9 +1446,19 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
 def generate_category_index(category: str, records: list[dict[str, Any]]) -> str:
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
+    overview_records = [
+        record
+        for record in category_records
+        if normalize_title(record["display_title"]).casefold()
+        == normalize_title(title).casefold()
+    ]
+    overview_record = overview_records[0] if overview_records else None
     index_page = (PurePosixPath("tensura-reference") / category / "index.md").as_posix()
     hero_asset = rendered_asset_relative_url(index_page, visual_asset(category))
-    ordered = sorted(category_records, key=lambda item: item["display_title"].casefold())
+    ordered = sorted(
+        [record for record in category_records if record is not overview_record],
+        key=lambda item: item["display_title"].casefold(),
+    )
     letters = sorted(
         {
             record["display_title"][:1].upper()
@@ -1466,7 +1476,16 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         '<p class="reference-eyebrow">Tensura reference collection</p>',
         f"<h1>{html.escape(title)}</h1>",
         f"<p>{html.escape(description)}</p>",
+        '<div class="reference-directory-hero-actions">',
         f'<span class="reference-count"><strong>{len(ordered)}</strong> articles</span>',
+    ]
+    if overview_record:
+        lines.append(
+            f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, overview_record["local_page"])}">Read collection overview <span aria-hidden="true">→</span></a>'
+        )
+    lines.extend(
+        [
+        "</div>",
         "</div>",
         "</header>",
         '<div class="reference-directory-tools">',
@@ -1476,7 +1495,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         "</label>",
         '<div class="reference-letter-filters" aria-label="Filter by first letter">',
         '<button type="button" class="is-active" data-letter="all" aria-pressed="true">All</button>',
-    ]
+        ]
+    )
     for letter in letters:
         lines.append(
             f'<button type="button" data-letter="{html.escape(letter, quote=True)}" aria-pressed="false">{html.escape(letter)}</button>'
@@ -1530,7 +1550,12 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
 def generate_reference_index(
     siteinfo: dict[str, Any], records: list[dict[str, Any]], redirects: list[dict[str, Any]], media: list[dict[str, Any]]
 ) -> str:
-    category_counts = Counter(record["category"] for record in records)
+    category_counts = Counter(
+        record["category"]
+        for record in records
+        if normalize_title(record["display_title"]).casefold()
+        != normalize_title(CATEGORY_INFO[record["category"]][0]).casefold()
+    )
     imported_media = sum(record.get("import_status") == "imported" for record in media)
     lines = [
         "# Tensura: Reincarnated Reference",

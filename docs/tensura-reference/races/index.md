@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Races</h1>
 <p>Playable and documented race forms and their evolution data.</p>
-<span class="reference-count"><strong>69</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>68</strong> articles</span>
+<a class="reference-directory-overview-link" href="races/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -25,13 +28,12 @@
 <button type="button" data-letter="L" aria-pressed="false">L</button>
 <button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="O" aria-pressed="false">O</button>
-<button type="button" data-letter="R" aria-pressed="false">R</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 69 of 69 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 68 of 68 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ancient giant &quot; back in my days people were taller&#x27;&quot;">
@@ -745,19 +747,6 @@
 <div class="reference-card-copy">
 <h2>Orc Lord</h2>
 <p>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="R" data-search="races the many difference races of tensura: reincarnated">
-<a href="races/" aria-label="Open Races">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Races</h2>
-<p>The Many Difference Races of Tensura: Reincarnated</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

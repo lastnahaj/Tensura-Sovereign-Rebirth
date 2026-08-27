@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Blocks</h1>
 <p>Mechanically relevant blocks and block families.</p>
-<span class="reference-count"><strong>29</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>28</strong> articles</span>
+<a class="reference-directory-overview-link" href="blocks/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -25,7 +28,7 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 29 of 29 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 28 of 28 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="B" data-search="block of adamantite upstream reference information for block of adamantite.">
@@ -154,19 +157,6 @@
 <div class="reference-card-copy">
 <h2>Block of Silver</h2>
 <p>Upstream reference information for Block of Silver.</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="B" data-search="blocks palm log palm wood stripped palm log stripped palm wood palm planks palm stairs palm slab palm fence palm fence gate palm door palm trapdoor palm pressure plate palm…">
-<a href="blocks/" aria-label="Open Blocks">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/web-block-7bd2f0a513.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Blocks</h2>
-<p>Palm Log Palm Wood Stripped Palm Log Stripped Palm Wood Palm Planks Palm Stairs Palm Slab Palm Fence Palm Fence Gate Palm Door Palm Trapdoor Palm Pressure Plate Palm…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
