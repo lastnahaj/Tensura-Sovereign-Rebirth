@@ -2,6 +2,8 @@
 
 **Tensura: Ascension** owns the primary late-game Unique-to-Ultimate progression layer.
 
+The base mod's [Awakening](tensura-reference/core-mechanics/races-awakening.md) article is kept separate from this TSR addon layer.
+
 ## Intended progression
 
 **High EP**<br>

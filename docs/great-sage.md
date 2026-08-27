@@ -2,9 +2,11 @@
 
 Great Sage is a defining immersion and information system in TSR.
 
-## Planned configuration
+The base Unique Skill is documented in the local [Great Sage reference](tensura-reference/skills/unique/great-sage.md). This page covers TSR's addon and progression layer.
 
-Players must actually possess Great Sage before receiving its full functionality. The exact configuration key will be documented only after it is verified against the assembled pack.
+## Beta configuration status
+
+Great Sage 0.0.5 is installed and its generated client/common settings are tracked. The possession requirement is controlled by a world gamerule rather than the tracked TOML files. Automatic first-world enforcement remains **Under Validation** and is not presented as universally active.
 
 ## Features used by TSR
 

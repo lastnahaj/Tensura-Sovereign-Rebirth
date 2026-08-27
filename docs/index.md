@@ -11,21 +11,52 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 ### Reincarnate. Evolve. Build. Awaken. Rule.
 
-**Minecraft 1.21.1 · NeoForge · RPG · Civilization · Multiplayer**
+**Minecraft 1.21.1 · NeoForge 21.1.248 · Java 21 · Version 1 Beta**
 
 [Get Started](getting-started.md){ .md-button .md-button--primary }
-[Explore Progression](progression-overview.md){ .md-button }
-[View Mod Manifest](mod-manifest.md){ .md-button }
+[Search the Tensura Reference](tensura-reference/index.md){ .md-button }
+[Explore TSR Progression](progression-overview.md){ .md-button }
 
 </div>
 
 ---
 
-**Reincarnate. Evolve. Build. Awaken. Rule.**
-
 **Tensura: Sovereign Rebirth (TSR)** is a Minecraft **1.21.1 NeoForge** RPG/civilization modpack built around Tensura: Reincarnated. The pack is designed so that character progression, race evolution, skills, equipment, subordinates, guild progression, nation building, bosses, dimensions, prestige, and endgame awakening all feed into one coherent progression loop.
 
-> **Wiki status:** v0.1 design freeze. Exact registry IDs, permission nodes, quest detectors, recipes, and configuration values are documented only after they are verified against the assembled pack.
+<span class="tsr-status">Version 1 Beta</span>
+
+The wiki now combines a self-contained base Tensura reference with the verified TSR modpack layer. The current upstream snapshot contains **973 relevant articles**, **387 local redirect aliases**, and **zero failed article imports**. Media without clear File-page redistribution terms is intentionally omitted and reported instead of hotlinked.
+
+## Quick reference
+
+<div class="tsr-link-grid" markdown>
+
+- **[Getting Started](getting-started.md)**<br>
+  Reincarnation, starter policy, early resources, and first branches.
+- **[Races](tensura-reference/races/index.md)**<br>
+  All documented race forms plus verified evolution relationships.
+- **[Skills](tensura-reference/skills/other/index.md)**<br>
+  Intrinsic, Common, Extra, Unique, and resistance directories.
+- **[Magic](tensura-reference/magic/index.md)**<br>
+  Base spells, Battlewill, and TSR's external magic integration.
+- **[EP, Magicules & Aura](tensura-reference/core-mechanics/ep-magicule-aura.md)**<br>
+  Base resource mechanics with TSR version context.
+- **[Items & Equipment](tensura-reference/items/index.md)**<br>
+  Items, materials, weapons, armor, tools, and blocks.
+- **[Mobs & Bosses](tensura-reference/mobs/index.md)**<br>
+  Base entities alongside a separate TSR boss layer.
+- **[Quests & Campaign](campaign.md)**<br>
+  Actual implementation status for the planned eight-act campaign.
+- **[World & Nations](minecolonies-and-nations.md)**<br>
+  Terrain, structures, settlements, naming, and sovereignty.
+- **[Server Setup](server-administration.md)**<br>
+  Java, NeoForge, configuration, backups, and operations.
+- **[Compatibility](compatibility-matrix.md)**<br>
+  Installed, verified, blocked, and under-validation integrations.
+- **[Mod Manifest](mod-manifest.md)**<br>
+  Frozen design authority and current runtime dispositions.
+
+</div>
 
 ## What makes TSR different?
 
@@ -36,21 +67,6 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 - **Guided but not linear.** The planned campaign uses FTB Quests for the main story while optional branches cover building, dimensions, bosses, magic, exploration, and mastery.
 - **Multiplayer-ready design.** LuckPerms, FTB Teams/Chunks, Tensura FTB compatibility, grief logging, backups, profiling, and curated server-side optimization are part of the baseline.
 
-## Start here
-
-- [Getting Started](getting-started.md)
-- [Pack Overview](pack-overview.md)
-- [Progression Overview](progression-overview.md)
-- [Race & Evolution](race-and-evolution.md)
-- [Skills, EP & Magicules](skills-ep-and-magicules.md)
-- [Gear Evolution](gear-evolution.md)
-- [MineColonies & Nations](minecolonies-and-nations.md)
-- [Bosses & Dimensions](bosses-and-dimensions.md)
-- [Quests & Shop](quests-and-shop.md)
-- [Storage & Logistics](storage-and-logistics.md)
-- [Server Administration](server-administration.md)
-- [Mod Manifest](mod-manifest.md)
-
 ## Current project stage
 
-TSR is moving from **planning/design freeze** into **assembly and compatibility testing**. The v0.1 mod identities are frozen, but exact version locks for transitive libraries and selected test candidates will be finalized only after staged launch testing.
+The published build branch has passed runtime phases through **gear, forging, backpacks, physical storage, and terminal access**. Adventure, Terratonic world generation, decoration, multiplayer administration, client QoL, performance, exports, and the authored quest campaign remain staged or under validation. See the [Roadmap](roadmap.md) for exact status language.

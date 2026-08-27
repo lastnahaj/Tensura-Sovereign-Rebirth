@@ -2,17 +2,19 @@
 
 ## 1. Create your character
 
-TSR is built around Tensura's reincarnation and race systems. Your starting race is the beginning of a progression path, not a permanent power ceiling.
+TSR is built around Tensura's [Reincarnation](tensura-reference/core-mechanics/reincarnation.md) and [race](tensura-reference/races/index.md) systems. Your starting race is the beginning of a progression path, not a permanent power ceiling.
 
 Some extremely powerful race paths are intentionally **not available as ordinary random starter outcomes**. They are reserved for later progression so one lucky roll cannot invalidate the campaign.
 
 ## 2. Learn the three core resources
 
-- **EP / Existence Value** represents overall existence/power progression.
-- **Magicules** fuel much of Tensura's supernatural gameplay and are also integrated into selected external magic systems.
-- **Skills** define what your character can actually do. Skills can be acquired, mastered, evolved, retained through selected prestige systems, and used as requirements for higher progression.
+- **EP** is the base mod's broad progression and power indicator. See [Existence Points](tensura-reference/core-mechanics/existence-points.md) for the upstream mechanics and version context.
+- **Magicules and Aura** are distinct resources used by supernatural systems. See [EP, Magicule, Aura](tensura-reference/core-mechanics/ep-magicule-aura.md).
+- **Skills** define what your character can do. Browse the [skill directories](tensura-reference/skills/other/index.md) for individual effects and classifications.
 
 See [Skills, EP & Magicules](skills-ep-and-magicules.md).
+
+For the base mod's full opening flow, use the local [Getting Started reference](tensura-reference/core-mechanics/getting-started.md).
 
 ## 3. Do not rush the quest book
 

@@ -91,3 +91,139 @@
   background: rgba(51,214,255,.12);
   border: 1px solid rgba(51,214,255,.3);
 }
+
+.tsr-link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: .8rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.tsr-link-grid > ul {
+  display: contents;
+}
+
+.tsr-link-grid li {
+  list-style: none;
+  margin: 0;
+  padding: .9rem 1rem;
+  border: 1px solid rgba(51, 214, 255, .22);
+  border-radius: .7rem;
+  background: linear-gradient(145deg, rgba(21, 87, 213, .08), rgba(142, 76, 245, .06));
+}
+
+.reference-badge,
+.reference-category {
+  display: inline-block;
+  margin: 0 .35rem .6rem 0;
+  padding: .18rem .55rem;
+  border-radius: 999px;
+  font-size: .72rem;
+  font-weight: 750;
+  letter-spacing: .02em;
+}
+
+.reference-badge {
+  color: var(--tsr-gold);
+  background: rgba(240, 187, 75, .11);
+  border: 1px solid rgba(240, 187, 75, .3);
+}
+
+.reference-category {
+  color: var(--tsr-cyan);
+  background: rgba(51, 214, 255, .09);
+  border: 1px solid rgba(51, 214, 255, .24);
+}
+
+.tensura-reference-article {
+  display: flow-root;
+  margin-top: .8rem;
+}
+
+.tensura-reference-article .druid-container {
+  float: right;
+  width: min(22rem, 42%);
+  margin: 0 0 1rem 1.25rem;
+  overflow: hidden;
+  border: 1px solid rgba(51, 214, 255, .24);
+  border-radius: .75rem;
+  background: rgba(13, 49, 93, .08);
+  box-shadow: 0 .55rem 1.4rem rgba(0, 0, 0, .12);
+}
+
+.tensura-reference-article .druid-title {
+  padding: .7rem .9rem;
+  color: var(--tsr-gold);
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-align: center;
+  background: linear-gradient(120deg, rgba(21, 87, 213, .18), rgba(142, 76, 245, .14));
+}
+
+.tensura-reference-article .druid-main-image:empty,
+.tensura-reference-article .druid-section-container:empty {
+  display: none;
+}
+
+.tensura-reference-article .druid-section {
+  padding: .4rem .75rem;
+  font-weight: 800;
+  background: rgba(51, 214, 255, .08);
+  border-top: 1px solid rgba(51, 214, 255, .14);
+  border-bottom: 1px solid rgba(51, 214, 255, .14);
+}
+
+.tensura-reference-article .druid-row {
+  display: grid;
+  grid-template-columns: minmax(6.5rem, .8fr) minmax(0, 1.2fr);
+  gap: .65rem;
+  padding: .4rem .7rem;
+  border-bottom: 1px solid rgba(127, 147, 167, .13);
+}
+
+.tensura-reference-article .druid-label {
+  font-weight: 700;
+}
+
+.tensura-reference-article .navi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: .65rem;
+}
+
+.tensura-reference-article .navi-item {
+  padding: .65rem .8rem;
+  border: 1px solid rgba(51, 214, 255, .16);
+  border-radius: .55rem;
+}
+
+.tensura-reference-article table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.tensura-reference-article pre,
+.tensura-reference-article code {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+@media screen and (max-width: 48rem) {
+  .tensura-reference-article .druid-container {
+    float: none;
+    width: 100%;
+    margin: .5rem 0 1rem;
+  }
+
+  .tensura-reference-article .druid-row {
+    grid-template-columns: 1fr;
+    gap: .1rem;
+  }
+
+  .tsr-hero .md-button {
+    display: block;
+    margin: .45rem auto;
+    width: min(100%, 20rem);
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "overlays": {
+    "Getting Started": {
+      "status": "Version 1 Beta",
+      "content": "TSR uses the base reincarnation and race opening as the start of a larger progression campaign. The reviewed beta configuration prevents Tensura: Origins races from entering ordinary starting or random race pools, so high-tier addon paths do not bypass the opening progression.",
+      "links": [
+        {"label": "Getting Started", "target": "getting-started.md"},
+        {"label": "Progression Overview", "target": "progression-overview.md"},
+        {"label": "Race & Evolution", "target": "race-and-evolution.md"}
+      ]
+    },
+    "Existence Points": {
+      "status": "Under Validation",
+      "content": "EP remains a primary TSR progression measure. Installed compatibility and Ascension systems are used where they explicitly place external content on Tensura's scale, but TSR does not publish unverified custom thresholds or unsupported boss values.",
+      "links": [
+        {"label": "Skills, EP & Magicules", "target": "skills-ep-and-magicules.md"},
+        {"label": "Progression Overview", "target": "progression-overview.md"}
+      ]
+    },
+    "EP, Magicule, Aura": {
+      "status": "Under Validation",
+      "content": "TSR keeps EP, Magicules, and Aura as base Tensura resources. The installed Iron's Spells bridge is the pack's explicit external magic integration; exact balance and progression claims remain pending integrated gameplay validation.",
+      "links": [
+        {"label": "Skills, EP & Magicules", "target": "skills-ep-and-magicules.md"},
+        {"label": "TSR Magic", "target": "magic.md"}
+      ]
+    },
+    "Races/Alignment": {
+      "status": "Verified configuration",
+      "content": "TSR retains base alignment behavior while restricting exceptionally powerful addon race paths from ordinary starter selection. The imported upstream article provides the base rules; TSR's configured starter policy is documented separately.",
+      "links": [
+        {"label": "Race & Evolution", "target": "race-and-evolution.md"},
+        {"label": "Configuration Baseline", "target": "development/configuration-baseline.md"}
+      ]
+    },
+    "Races/Awakening": {
+      "status": "Layered progression",
+      "content": "Base Awakening remains distinct from TSR's installed Ascension and SlimeThrone progression layers. TSR documentation identifies which endgame claims are verified and which still require integrated gameplay testing.",
+      "links": [
+        {"label": "Ascension & Awakening", "target": "ascension-and-awakening.md"},
+        {"label": "Prestige & Soul Grade", "target": "prestige-and-soul-grade.md"}
+      ]
+    },
+    "Reincarnation": {
+      "status": "Base mechanic",
+      "content": "Reincarnation is the opening and replay foundation for TSR. The pack layers race restrictions, prestige, Soul Grade, and authored campaign guidance around the base mechanic without replacing its documented behavior.",
+      "links": [
+        {"label": "Getting Started", "target": "getting-started.md"},
+        {"label": "Race & Evolution", "target": "race-and-evolution.md"},
+        {"label": "Prestige & Soul Grade", "target": "prestige-and-soul-grade.md"}
+      ]
+    },
+    "Naming": {
+      "status": "Integrated progression",
+      "content": "TSR connects base Naming to Better Subordinates, guild and settlement progression, and the installed MineColonies bridge. Quest detection for subordinate milestones is not claimed until the relevant runtime events are verified.",
+      "links": [
+        {"label": "Subordinates & Naming", "target": "subordinates-and-naming.md"},
+        {"label": "MineColonies & Nations", "target": "minecolonies-and-nations.md"}
+      ]
+    },
+    "Great Sage": {
+      "status": "Under Validation",
+      "content": "Great Sage 0.0.5 is installed and its client/common configuration is tracked. The possession requirement is a world gamerule; automatic first-world enforcement remains a release gate, so the wiki does not yet present it as universally enforced.",
+      "links": [
+        {"label": "Great Sage", "target": "great-sage.md"},
+        {"label": "Configuration Baseline", "target": "development/configuration-baseline.md"}
+      ]
+    },
+    "Gear Evolution": {
+      "status": "Verified runtime; gameplay validation pending",
+      "content": "Tensura Gear Evolution 1.2.5 is TSR's authoritative equipment progression system. The assembled runtime loads its equipment overrides, while long-duration evolution, component retention, and multiplayer persistence remain release-candidate validation gates.",
+      "links": [
+        {"label": "Gear Evolution", "target": "gear-evolution.md"},
+        {"label": "Forging & Metalworks", "target": "forging-and-metalworks.md"}
+      ]
+    },
+    "Abilities/Skills": {
+      "status": "Controlled rewards",
+      "content": "TSR uses Tensura Skill Books as its controlled skill-reward layer. Natural Skill Books loot injection is disabled in the reviewed beta configuration; authored quest and boss rewards are added only after registry and detector validation.",
+      "links": [
+        {"label": "Skills, EP & Magicules", "target": "skills-ep-and-magicules.md"},
+        {"label": "Quest Implementation", "target": "quest-implementation.md"}
+      ]
+    },
+    "Abilities/Magics": {
+      "status": "Explicit integration",
+      "content": "Base Tensura magic remains the primary reference. TSR also installs Iron's Spells 'n Spellbooks with its dedicated Tensura bridge; the external system is documented as an integration, not as a replacement for base magic.",
+      "links": [
+        {"label": "TSR Magic", "target": "magic.md"},
+        {"label": "Compatibility Matrix", "target": "compatibility-matrix.md"}
+      ]
+    },
+    "Commands": {
+      "status": "Verification required",
+      "content": "TSR does not publish guessed LuckPerms nodes or command permissions. Operator requirements and non-OP behavior must be verified against the exact installed versions before TSR-specific permission guidance is promoted.",
+      "links": [
+        {"label": "Permissions", "target": "permissions.md"},
+        {"label": "Server Administration", "target": "server-administration.md"}
+      ]
+    },
+    "Config": {
+      "status": "Tracked baseline",
+      "content": "TSR ships reviewed client/common configuration and validates clean reconstruction. Upstream defaults and TSR values must remain distinct; only settings backed by tracked configuration or runtime evidence are described as current TSR behavior.",
+      "links": [
+        {"label": "Configuration Baseline", "target": "development/configuration-baseline.md"},
+        {"label": "Configuration Specification", "target": "development/configuration-spec.md"}
+      ]
+    },
+    "Config/Gamerules": {
+      "status": "Under Validation",
+      "content": "World-scoped gamerules are treated separately from tracked TOML files. In particular, automatic enforcement of Great Sage's possession rule remains a documented release gate until the pack-owned first-world policy layer is complete.",
+      "links": [
+        {"label": "Great Sage", "target": "great-sage.md"},
+        {"label": "Configuration Baseline", "target": "development/configuration-baseline.md"}
+      ]
+    }
+  }
+}

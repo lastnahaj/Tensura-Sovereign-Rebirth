@@ -1,5 +1,7 @@
 # Bosses & Dimensions
 
+Browse the local [Base Tensura Boss Directory](tensura-reference/bosses/index.md) first. External TSR bosses retain their source mod and are never presented as native Tensura content.
+
 ## Frozen adventure stack
 
 - Native Tensura bosses
@@ -28,3 +30,5 @@ These are not promoted into the production baseline until worldgen density, comb
 ## Worldgen policy
 
 TSR v0.1 intentionally avoids a broad biome-overhaul dependency. Tensura biomes and structures take priority over decorative biome count.
+
+The Version 1 Beta terrain target and its current validation state are documented under [World Generation](world-generation.md) and [TSR Structure Index](structures.md).

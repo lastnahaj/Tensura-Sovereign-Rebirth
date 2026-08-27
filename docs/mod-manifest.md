@@ -1,8 +1,10 @@
 # Mod Manifest
 
-**Freeze:** v0.1<br>
+**Pack stage:** Version 1 Beta<br>
+**Design freeze:** v0.1<br>
 **Minecraft:** 1.21.1<br>
-**Loader:** NeoForge<br>
+**Loader:** NeoForge 21.1.248<br>
+**Java:** 21<br>
 **Freeze date:** 2026-08-23
 
 - Baseline frozen entries: **90**
@@ -10,7 +12,17 @@
 - Optional entries: **1**
 - Rejected entries tracked: **20**
 
-> This page reflects the v0.1 design freeze. Entries marked `DEPENDENCY` or `Resolve current...` are finalized into exact version locks during staged assembly.
+> This page preserves the v0.1 design authority and records newer runtime dispositions where verified. A design entry is not an installed claim. The current published build branch contains 53 Packwiz mod references, two pack-owned compatibility artifacts, and one verified embedded Flywheel dependency through the completed Phase 4A layer; later working candidates remain Under Validation until their phase report passes.
+
+## Status rules
+
+| Status family | Meaning |
+|---|---|
+| `LOCK`, `PIN`, `DEPENDENCY` | Frozen design or required dependency; exact runtime status still follows phase evidence |
+| `LOCK-CONFIGURED`, recorded Phase pass | Present with reviewed configuration/startup evidence |
+| `TEST`, `TEST-*` | Candidate only; not a verified production inclusion |
+| `DEFERRED-BLOCKED` | Excluded from the active runtime because a specific blocker is reproduced |
+| `REMOVED` / Rejected | Intentionally outside TSR's architecture |
 
 ## Tensura Core
 

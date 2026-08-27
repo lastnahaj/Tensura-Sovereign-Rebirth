@@ -11,7 +11,15 @@ Always report:
 - whether the problem occurs on a fresh world
 - whether the issue reproduces without test/optional mods
 
-## Common areas to check
+## Player problems
+
+### Wrong Java or loader
+Confirm Java 21, Minecraft 1.21.1, and NeoForge 21.1.248 before changing mods or deleting configuration.
+
+### Quest or menu presentation
+The handcrafted campaign and FancyMenu/Drippy presentation are not complete in the current tracked beta. Missing planned presentation is not equivalent to a runtime corruption.
+
+## Server problems
 
 ### MineColonies/Tensura behavior
 Confirm the pinned MineColonies compatibility branch and required libraries have not been auto-updated independently.
@@ -30,3 +38,7 @@ Capture a spark profile before changing random optimization settings.
 
 ### Quest does not detect progress
 Do not force-complete it as a permanent fix. The detector/registry/API condition must be verified in the assembled pack.
+
+## Developer problems
+
+Registry construction failures, compatibility patches, and version-specific stack traces belong in [Compatibility Blockers](development/compatibility-blockers.md) and the subsystem phase reports, not in player-facing reference pages.
