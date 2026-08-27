@@ -16,7 +16,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Raw Spear Toro Meat</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Raw_Spear_Toro_Meat.png"><img alt="Raw Spear Toro Meat.png: Infobox image for Raw Spear Toro Meat the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/raw-spear-toro-meat-17565c0733.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Raw Spear Toro Meat"><a href="./" title="Raw Spear Toro Meat"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -73,7 +73,7 @@ tags:
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Spear_Toro_Meat?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>

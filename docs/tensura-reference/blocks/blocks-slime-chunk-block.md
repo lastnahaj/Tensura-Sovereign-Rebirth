@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Slime Chunk Block</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png"><img alt="Slime Chunk Block.png: Infobox image for Slime Chunk Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Slime Chunk Block
 </p>
 </div></div>

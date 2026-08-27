@@ -13,7 +13,7 @@ tags:
 **Also known as:** Flare Circle
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Flare Circle</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Flare Circle</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Flare_circle.png"><img alt="Flare circle.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../assets/upstream/tensura/magic/flare-circle-98e40d5a82.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Greater</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
 10,000 MP - 1000 MP every second held down</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 60 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -39,11 +39,8 @@ Owning <a class="mw-redirect" href="../magic-flame-transform/" title="Abilities/
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
-
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Abilities/Magics/Flare Circle](https://tensura.wiki.gg/wiki/Abilities/Magics/Flare_Circle) on the Tensura: Reincarnated Wiki (revision `12408`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Abilities/Magics/Flare Circle](https://tensura.wiki.gg/wiki/Abilities/Magics/Flare_Circle) on the Tensura: Reincarnated Wiki (revision `12408`, modified `2026-04-22T13:04:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

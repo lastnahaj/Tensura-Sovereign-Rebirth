@@ -76,4 +76,4 @@ TSR uses Tensura Skill Books as its controlled skill-reward layer. Natural Skill
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Abilities/Skills](https://tensura.wiki.gg/wiki/Abilities/Skills) on the Tensura: Reincarnated Wiki (revision `12857`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Abilities/Skills](https://tensura.wiki.gg/wiki/Abilities/Skills) on the Tensura: Reincarnated Wiki (revision `12857`, modified `2026-05-07T13:22:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

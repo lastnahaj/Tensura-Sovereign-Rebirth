@@ -19,7 +19,7 @@ tags: []
 <h3><span class="mw-headline" id="Seed">Seed</span></h3>
 <p>To Awaken, you need a Demon Lord Seed which is gained by having 200k EP and being a <a class="mw-redirect" href="../races-alignment/" title="Races/Majin">Majin</a>.
 </p>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:TDLEvo.png" title="Enlarge"></a></div>True Demon Lord Evolution</div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:TDLEvo.png"><img class="thumbimage" data-file-height="276" data-file-width="408" decoding="async" height="216" src="../../../assets/upstream/tensura/misc/tdlevo-84455d98bf.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:TDLEvo.png" title="Enlarge"></a></div>True Demon Lord Evolution</div></div></div>
 <h3><span class="mw-headline" id="Souls">Souls</span></h3>
 <p>Once you have the seed, you are able to gain souls.
 To gain souls, kill any Mob with EP,
@@ -28,7 +28,7 @@ To gain souls, kill any Mob with EP,
 <h3><span class="mw-headline" id="Awakening">Awakening</span></h3>
 <p>For the awakening you need 10,000 Souls (Default Value configurable via Gamerules), you can choose to awaken whenever you want but once your soul amount reaches 20,000 you will be forced into awakening (Default Value configurable via Gamerules)
 </p><p>A new Button will appear inside your Status Menu. Once clicked, it will announce in the chat that you have awoken as a True Demon Lord<br/>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:TDLAwakening.png"><img alt="TDLAwakening.png" data-file-height="21" data-file-width="530" decoding="async" height="21" src="../../../assets/upstream/tensura/misc/tdlawakening-109254fb07.png" width="530"/></a>
 </p>
 <h3><span class="mw-headline" id="Harvest_Festival">Harvest Festival</span></h3>
 <ul><li>A player evolving to True Demon Lord will go through a Harvest Festival upon activation, which will last 3 minutes and affect subordinates in a 30 block radius.
@@ -78,7 +78,7 @@ granting you the Hero Egg Instantly.
 <h3><span class="mw-headline" id="Egg">Egg</span></h3>
 <p>Acquire all 5 base element Greater Spirits (Fire, Water, Wind, Earth, Space) + a Greater Light or Greater Darkness spirit to Gain the Hero Egg (Configureable) - <b> Note - You must not be a Default <a class="mw-redirect" href="../races-alignment/" title="Races/Majin">Majin</a> race</b>
 </p><p>It will announce to you that you have obtained the Hero Egg.<br/>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:HeroEggObtain.png"><img alt="HeroEggObtain.png" data-file-height="22" data-file-width="243" decoding="async" height="22" src="../../../assets/upstream/tensura/misc/heroeggobtain-07d420aedc.png" width="243"/></a>
 </p>
 <h4><span class="mw-headline" id="Egg_-_Ability">Egg - Ability</span></h4>
 <p>You will also gain <a class="mw-redirect" href="../../skills/intrinsic/eye-of-truth/" title="Abilities/Skills/Eye Of Truth">Eye Of Truth</a>
@@ -115,7 +115,7 @@ granting you the Hero Egg Instantly.
 <p><i>Iron's Spells Compat</i>
 </p>
 <ul><li>Dead King</li></ul>
-<p>
+<p><a class="image" href="https://tensura.wiki.gg/wiki/File:THAwakening.png"><img alt="THAwakening.png" data-file-height="20" data-file-width="460" decoding="async" height="20" src="../../../assets/upstream/tensura/misc/thawakening-077b152286.png" width="460"/></a>
 </p>
 <h2><span class="mw-headline" id="Effects_2">Effects</span></h2>
 <p><br/>
@@ -151,9 +151,6 @@ granting you the Hero Egg Instantly.
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ## In Tensura: Sovereign Rebirth
 

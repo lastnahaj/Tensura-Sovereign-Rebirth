@@ -18,11 +18,11 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Labyrinth_Tree?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Labyrinth Tree</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
+<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Labyrinth Tree</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_tree.png"><img alt="Labyrinth tree.png" data-file-height="1024" data-file-width="1024" decoding="async" height="512" src="../../../assets/upstream/tensura/structures/labyrinth-tree-91af502379.png" width="512"/></a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 <a href="../../biomes/biomes-ancient-forest/" title="Biomes/Ancient Forest">Ancient Forest</a></div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div></div>
 
@@ -58,7 +58,7 @@ tags:
 <p>A <span class="nowrap"><span class="sprite-file"><a href="../../items/explorer-maps/" title="Labyrinth Explorer Map"></a></span> <a class="mw-redirect" href="../../items/explorer-maps/" title="Labyrinth Explorer Map"><span class="sprite-text">Labyrinth Explorer Map</span></a></span> can be acquired from a master level <a href="../../mobs/mobs-dwarf/" title="Mobs/Dwarf">Cartographer Dwarf</a>, which leads towards a nearby Labyrinth Tree.
 </p>
 <h1><span id="The_Labyrinth_.28dimension.29"></span><span class="mw-headline" id="The_Labyrinth_(dimension)">The Labyrinth (dimension)</span></h1>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png" title="Enlarge"></a></div>Arena in which you can fight the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png"><img class="thumbimage" data-file-height="1369" data-file-width="2543" decoding="async" height="172" src="../../../assets/upstream/tensura/structures/labyrinth-arena-8fd18214ea.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png" title="Enlarge"></a></div>Arena in which you can fight the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a></div></div></div>
 <p>Upon entry of the labyrinth one will face a big hallway, with a stair going upwards leading to the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a> spawn platform. <br/>
 </p><p>You <b>CANNOT</b> avoid the colossus and go behind it to get a spirit, a barrier will stop you
 </p><p>There are 2 outcomes once you face the colossus, each giving you the option to enter the labyrinth.
@@ -71,7 +71,7 @@ tags:
 </p><p>When the <code>respawncolossus</code> gamerule is active, this is not the case. You will <b>NOT</b> get a pure magisteel block for killing the colossus.
 </p>
 <h1><span class="mw-headline" id="Obtaining_spirits">Obtaining spirits</span></h1>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png" title="Enlarge"></a></div>The circular area on top is where the player can pray for spirits.</div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png"><img class="thumbimage" data-file-height="1369" data-file-width="1204" decoding="async" height="364" src="../../../assets/upstream/tensura/items/labyrinth-crystal-754c2177dd.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png" title="Enlarge"></a></div>The circular area on top is where the player can pray for spirits.</div></div></div>
 <p>After defeating (or dying to) the <a href="../../bosses/mobs-elemental-colossus/" title="Mobs/Elemental Colossus">Elemental Colossus</a>, one can go to the direction of the stairs leading upwards to the Praying platform and sneak on the Praying Path for 20 seconds for a chance to get a Spirit.
 </p><p>Once they either succeed or fail to get a Spirit, they will have a <b>20 minute cooldown on praying</b>, after the cooldown runs out, they can pray again, if players pray while they’re still on cooldown, they will get teleported to the entrance.
 </p>
@@ -217,11 +217,11 @@ These again can be summoned using <a href="../../magic/summon-greater-elemental/
 </p>
 <ul class="gallery mw-gallery-traditional">
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_hallway.png" title="Player starts in this hallway leading to the arena when they first enter the labyrinth."><img alt="Player starts in this hallway leading to the arena when they first enter the labyrinth." data-file-height="1369" data-file-width="2100" decoding="async" height="78" src="../../../assets/upstream/tensura/structures/labyrinth-hallway-10fc0a387d.png" width="120"/></a></div></div>
 <div class="gallerytext">Player starts in this hallway leading to the arena when they first enter the labyrinth.</div>
 </div></li>
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Labyrinth_spirits_praying.gif" title="Effects play when praying for spirits."><img alt="Effects play when praying for spirits." data-file-height="240" data-file-width="320" decoding="async" height="90" src="../../../assets/upstream/tensura/structures/labyrinth-spirits-praying-549685f3fa.gif" width="120"/></a></div></div>
 <div class="gallerytext">Effects play when praying for spirits.</div>
 </div></li>
 </ul>

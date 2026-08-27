@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Bosses</span>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Hinata Sakaguchi</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Hinata Sakaguchi</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Hinata_Sakaguchi.png"><img alt="Hinata Sakaguchi.png" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 Plains · Snowy Plains · Sunflower Plains· Meadow · Desert · Badlands· Windswept Hills · Sparse Jungle · Savanna Plateau</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 3000</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
 3600</div></div><div class="druid-row druid-row-armor" data-druid-section-row="Stats"><div class="druid-label druid-label-armor">Armor</div><div class="druid-data druid-data-armor druid-data-nonempty">
@@ -72,9 +72,6 @@ Hostile towards the <a class="mw-redirect" href="../../core-mechanics/races-alig
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

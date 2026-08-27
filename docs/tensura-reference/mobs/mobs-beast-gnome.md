@@ -11,7 +11,7 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Beast Gnome</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Beast Gnome</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Beast_gnome.gif"><img alt="Beast gnome.gif" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/mobs/beast-gnome-2bb5f938df.gif" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 <a class="external text" href="https://minecraft.wiki/w/Cave" rel="nofollow">Underground</a> · <a class="external text" href="https://minecraft.wiki/w/Badlands" rel="nofollow">Badlands</a></div></div><div class="druid-row druid-row-spawn_count" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-spawn_count">Spawn Count</div><div class="druid-data druid-data-spawn_count druid-data-nonempty">
 Singular</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 80</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
@@ -41,7 +41,7 @@ A medium spirit of earth, can be summoned using <a href="../../magic/summon-medi
 </p>
 <ul class="gallery mw-gallery-traditional">
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Beast_Gnome_Riding_Player.png" title="Beast Gnome riding a player"><img alt="Beast Gnome riding a player" data-file-height="991" data-file-width="702" decoding="async" height="120" src="../../../assets/upstream/tensura/mobs/beast-gnome-riding-player-e3c4fdc185.png" width="85"/></a></div></div>
 <div class="gallerytext">Beast Gnome riding a player</div>
 </div></li>
 </ul>

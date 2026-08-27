@@ -15,7 +15,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Charybdis Core</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png: Infobox image for Charybdis Core the item in Minecraft" class="pixel-image" data-file-height="500" data-file-width="500" decoding="async" height="160" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Charybdis Core"><a href="../../blocks/blocks-charybdis-core/" title="Charybdis Core"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

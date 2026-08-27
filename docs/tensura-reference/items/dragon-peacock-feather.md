@@ -15,7 +15,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Dragon Peacock Feather</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Feather.png"><img alt="Dragon Peacock Feather.png: Infobox image for Dragon Peacock Feather the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/dragon-peacock-feather-0469a06157.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Dragon Peacock Feather"><a href="./" title="Dragon Peacock Feather"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

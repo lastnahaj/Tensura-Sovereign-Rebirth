@@ -12,7 +12,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Ant Carapace Leggings</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Ant_Carapace_Leggings.png"><img alt="Ant Carapace Leggings.png: Infobox image for Ant Carapace Leggings the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/armor/ant-carapace-leggings-2e18a5a8be.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Ant Carapace Leggings"><a href="./" title="Ant Carapace Leggings"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -85,4 +85,4 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Ant Carapace Leggings](https://tensura.wiki.gg/wiki/Ant_Carapace_Leggings) on the Tensura: Reincarnated Wiki (revision `9830`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Ant Carapace Leggings](https://tensura.wiki.gg/wiki/Ant_Carapace_Leggings) on the Tensura: Reincarnated Wiki (revision `9830`, modified `2025-06-01T15:39:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

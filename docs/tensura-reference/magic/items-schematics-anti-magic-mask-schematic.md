@@ -12,7 +12,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Anti-Magic Mask Schematic</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Anti_Magic_Mask_Schematic.png"><img alt="Anti Magic Mask Schematic.png: Infobox image for Anti-Magic Mask Schematic the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/magic/anti-magic-mask-schematic-754e041fce.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Anti-Magic Mask Schematic"><a href="https://tensura.wiki.gg/wiki/Anti-Magic_Mask_Schematic" title="Anti-Magic Mask Schematic"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

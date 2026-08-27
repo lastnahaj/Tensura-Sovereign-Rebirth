@@ -12,7 +12,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Bone Golem</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_bone_golem.png"><img alt="adamantite_bone_golem.png: Infobox image for Adamantite Bone Golem the item in Minecraft" class="pixel-image" data-file-height="112" data-file-width="16" decoding="async" height="1120" src="../../../assets/upstream/tensura/items/adamantite-bone-golem-8562a7acd4.png" width="160"/></a></div>
 </div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -56,11 +56,8 @@ Allows the player to possess it and works as a physical body, can also be given 
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
-
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Adamantite Bone Golem](https://tensura.wiki.gg/wiki/Adamantite_Bone_Golem) on the Tensura: Reincarnated Wiki (revision `12914`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Adamantite Bone Golem](https://tensura.wiki.gg/wiki/Adamantite_Bone_Golem) on the Tensura: Reincarnated Wiki (revision `12914`, modified `2026-05-25T08:40:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

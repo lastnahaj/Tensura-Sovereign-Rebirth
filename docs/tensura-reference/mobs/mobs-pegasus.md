@@ -13,11 +13,11 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mobs/Pegasus?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Pegasus</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Pegasus</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Pegasus.png"><img alt="Pegasus.png" data-file-height="426" data-file-width="720" decoding="async" height="303" src="../../../assets/upstream/tensura/mobs/pegasus-ede3fdeeef.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 In a <a href="../../structures/structures-dwarf-village/" title="Structures/Dwarf Village">dwarf village</a></div></div><div class="druid-row druid-row-spawn_count" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-spawn_count">Spawn Count</div><div class="druid-data druid-data-spawn_count druid-data-nonempty">
 Singular</div></div></div></div>
 <p><br/>

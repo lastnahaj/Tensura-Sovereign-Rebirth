@@ -12,7 +12,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Short Sword Schematic</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Short_Sword_Schematic.png"><img alt="Short Sword Schematic.png: Infobox image for Short Sword Schematic the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/short-sword-schematic-da75434d98.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Short Sword Schematic"><a href="https://tensura.wiki.gg/wiki/Short_Sword_Schematic" title="Short Sword Schematic"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

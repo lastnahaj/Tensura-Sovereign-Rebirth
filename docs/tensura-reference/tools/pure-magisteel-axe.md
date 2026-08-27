@@ -14,13 +14,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Axe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Pure Magisteel Axe</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Axe.png"><img alt="Pure Magisteel Axe.png: Infobox image for Pure Magisteel Axe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/pure-magisteel-axe-b2b9796b16.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Axe"><a href="./" title="Pure Magisteel Axe"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

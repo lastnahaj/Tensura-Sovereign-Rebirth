@@ -11,7 +11,9 @@ tags:
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Element Core (Empty)</h2><figure class="pi-item pi-media pi-image" data-source="image">
-
+<a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Element_Core_(Empty).png" title="Element Core (Empty).png">
+<img alt="Element Core (Empty).png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/element-core-empty-1acc1aa7bb.png" width="270"/>
+</a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Common</div>

@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of Silver</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Silver.png"><img alt="Block of Silver.png: Infobox image for Block of Silver the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-silver-e8132f22d5.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of Silver
 </p>
 </div></div>

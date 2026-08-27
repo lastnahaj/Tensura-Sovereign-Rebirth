@@ -15,12 +15,14 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Low Magisteel Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
-
+<a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png" title="Low Magisteel Gear Schematic.png">
+<img alt="Low Magisteel Gear Schematic.png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/low-magisteel-gear-schematic-af106f6883.png" width="270"/>
+</a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Rare</div>

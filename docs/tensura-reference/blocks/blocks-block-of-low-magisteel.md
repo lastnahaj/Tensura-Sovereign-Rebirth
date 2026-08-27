@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of Low Magisteel</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Low_Magisteel.png"><img alt="Block of Low Magisteel.png: Infobox image for Block of Low Magisteel the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-low-magisteel-451583d302.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of Low Magisteel
 </p>
 </div></div>

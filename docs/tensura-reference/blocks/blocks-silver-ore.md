@@ -17,11 +17,11 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Silver Ore</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Silver_Ore.png"><img alt="Silver Ore.png: Infobox image for Silver Ore the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/silver-ore-58a494883b.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Silver Ore
 </p>
 </div></div>
-<div><div class="infobox-imagecaption">
+<div><a class="image" href="https://tensura.wiki.gg/wiki/File:Deepslate_Silver_Ore.png"><img alt="Deepslate Silver Ore.png: Infobox image for Silver Ore the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/deepslate-silver-ore-bcc93cdd8e.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Deepslate Silver Ore
 </p>
 </div></div>

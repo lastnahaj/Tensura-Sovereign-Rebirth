@@ -16,7 +16,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"> <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Races/Alignment?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -31,9 +31,9 @@ tags:
 <ul><li>Reach your third evolution on a race that isn't Majin by default = <a href="../../races/races-human-saint/" title="Races/Human Saint">Races/Human Saint</a> · <a href="../../races/races-elf-saint/" title="Races/Elf Saint">Races/Elf Saint</a> · <a href="../../races/races-dwarf-saint/" title="Races/Dwarf Saint">Races/Dwarf Saint</a> · <a href="../../races/races-merfolk-saint/" title="Races/Merfolk Saint">Races/Merfolk Saint</a> · <a href="../../races/races-hobgoblin-saint/" title="Races/Hobgoblin Saint">Races/Hobgoblin Saint</a> · <a href="../../races/races-mystic-oni/" title="Races/Mystic Oni">Races/Mystic Oni</a> · <a href="../../races/races-spirit-boar/" title="Races/Spirit Boar">Races/Spirit Boar</a> · <a href="../../races/races-spirit-bird/" title="Races/Spirit Bird">Races/Spirit Bird</a> · <a href="../../races/races-spirit-beast/" title="Races/Spirit Beast">Races/Spirit Beast</a> · <a href="../../races/races-true-dragonewt/" title="Races/True Dragonewt">Races/True Dragonewt</a></li></ul>
 <h2><span class="mw-headline" id="Status">Status</span></h2>
 <p><b>Holy is a status that is signified by the yellow race name in your stats menu</b></p><p>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:Holy.png"><img alt="Holy.png" data-file-height="133" data-file-width="387" decoding="async" height="133" src="../../../assets/upstream/tensura/misc/holy-fd67240b25.png" width="387"/></a>
 </p><ul><li>No longer requires air to breathe underwater</li>
-<li>Hunger stat does not go below 18 </li></ul>
+<li>Hunger stat does not go below 18 <a class="image" href="https://tensura.wiki.gg/wiki/File:Majinhunger.png"><img alt="Majinhunger.png" data-file-height="28" data-file-width="59" decoding="async" height="28" src="../../../assets/upstream/tensura/misc/majinhunger-71a0ce9361.png" width="59"/></a></li></ul>
 <h2><span class="mw-headline" id="Tags">Tags</span></h2>
 <ul><li>Holy Race is just a tag for race that gives you Holy status upon reaching your third evolution</li>
 <li>Holy Race Tag will lock away becoming a <a href="../races-awakening/" title="Races/Awakening">True Demon Lord</a> unless you are Chaos-aligned, via you or another player who has the unique skill <a class="mw-redirect" href="../../skills/unique/reverser/" title="Abilities/Skills/Reverser">Reverser</a></li></ul>
@@ -55,9 +55,9 @@ Majin can be acquired in 4 main ways
 </p>
 <h2><span class="mw-headline" id="Status_2">Status</span></h2>
 <p><b>Majin is a status that is signified by the purple race name in your stats menu</b></p><p>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:Majin.png"><img alt="Majin.png" data-file-height="130" data-file-width="444" decoding="async" height="130" src="../../../assets/upstream/tensura/misc/majin-77da757106.png" width="444"/></a>
 </p><ul><li>No longer requires air to breathe underwater</li>
-<li>Hunger stat does not go below 18 </li></ul>
+<li>Hunger stat does not go below 18 <a class="image" href="https://tensura.wiki.gg/wiki/File:Majinhunger.png"><img alt="Majinhunger.png" data-file-height="28" data-file-width="59" decoding="async" height="28" src="../../../assets/upstream/tensura/misc/majinhunger-71a0ce9361.png" width="59"/></a></li></ul>
 <h2><span class="mw-headline" id="Tag">Tag</span></h2>
 <ul><li>Majin Race is just a tag for race that gives you Majin status on acquiring the race</li>
 <li>Majin Race Tag will lock away becoming a <a href="../races-awakening/#True_Hero" title="Races/Awakening">True Hero</a> unless you are Chaos-aligned, via you or another player who has the unique skill <a class="mw-redirect" href="../../skills/unique/reverser/" title="Abilities/Skills/Reverser">Reverser</a></li>

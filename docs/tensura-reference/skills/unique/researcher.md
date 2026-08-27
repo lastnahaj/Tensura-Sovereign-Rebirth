@@ -17,13 +17,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Researcher?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <p>Study ancient magic tomes, reverse engineer them, and create wonders beyond imagination.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Researcher</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Researcher</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Researcher.png"><img alt="Researcher.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../../assets/upstream/tensura/skills/researcher-c7a21dbaa7.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 30000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -42,11 +42,11 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </p>
 <ul class="gallery mw-gallery-traditional">
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Researcher%26godlyartisan_menu_1.png" title="The first tab of the skill menu."><img alt="The first tab of the skill menu." data-file-height="693" data-file-width="779" decoding="async" height="107" src="../../../../assets/upstream/tensura/skills/researcher-godlyartisan-menu-1-12712e2018.png" width="120"/></a></div></div>
 <div class="gallerytext">The first tab of the skill menu.</div>
 </div></li>
 <li class="gallerybox"><div>
-<div class="thumb"><div></div></div>
+<div class="thumb"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Researcher%26godlyartisan_menu_2.png" title="The second tab of the skill menu."><img alt="The second tab of the skill menu." data-file-height="691" data-file-width="537" decoding="async" height="120" src="../../../../assets/upstream/tensura/skills/researcher-godlyartisan-menu-2-b166416cd8.png" width="93"/></a></div></div>
 <div class="gallerytext">The second tab of the skill menu.</div>
 </div></li>
 </ul>
@@ -56,9 +56,6 @@ Reincarnation/Skill Reroll</div></div></div></div>
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

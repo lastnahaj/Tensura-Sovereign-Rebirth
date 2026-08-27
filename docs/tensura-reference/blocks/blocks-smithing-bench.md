@@ -20,13 +20,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Smithing_Bench?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Smithing Bench</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png"><img alt="Smithing Bench.png: Infobox image for Smithing Bench the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Smithing Bench
 </p>
 </div></div>

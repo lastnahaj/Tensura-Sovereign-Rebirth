@@ -15,7 +15,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Embody malice and fight on the side of evil. Gain increased power from killing your foes, manipulate your enemies into joining your and empower your allies.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Villain</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Villain</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Villain.png"><img alt="Villain.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../../assets/upstream/tensura/skills/villain-5ce8fd7676.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 60000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -37,9 +37,6 @@ Reincarnation/Skill Reroll</div></div></div></div>
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

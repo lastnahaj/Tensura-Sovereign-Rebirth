@@ -2,9 +2,9 @@
 
 ## Version 1 (Beta) — Assembly
 
-- Added a generated, searchable Tensura: Reincarnated reference with 973 relevant canonical articles, 387 local aliases, category indexes, exact revision tracking, and per-page CC BY-SA attribution.
+- Added a generated, searchable Tensura: Reincarnated reference with 975 relevant canonical articles, 387 local aliases, category indexes, exact revision tracking, and per-page CC BY-SA attribution.
 - Added a repeatable, cached MediaWiki ingestion pipeline with content, redirect, media-license, category, link, and coverage manifests.
-- Audited 1,728 upstream media titles. No asset was redistributed because the individual File pages did not expose an explicit reusable license; 100 broken/deleted upstream file records are reported separately.
+- Audited 1,728 upstream media titles against the File-page CC BY-SA declaration and per-file exceptions; broken or deleted upstream file records are reported separately.
 - Added base-versus-TSR context, progression cross-links, race evolution relationship indexing, world-generation and structure status pages, campaign implementation status, and expanded FAQ guidance.
 - Deferred TR Addon 2.0.1 because its public NeoForge artifact cannot reliably complete dedicated-server mod construction against the ManasCore race and skill registries. It remains tracked as `DEFERRED-BLOCKED` and will be checked once more for an official compatible release before release candidate freeze.
 - Added the first core Tensura progression tranche and retained the official Unique Monsters 1.0.2 artifact with a narrow compatibility layer for deterministic ManasCore skill registration.

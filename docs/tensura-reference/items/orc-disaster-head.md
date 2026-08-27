@@ -16,7 +16,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orc Disaster Head</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orc_Disaster_Head.png"><img alt="Orc Disaster Head.png: Infobox image for Orc Disaster Head the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/orc-disaster-head-d23c9bda24.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Orc Disaster Head"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Invicon_Orc_Disaster_Head.gif" title="File:Invicon Orc Disaster Head.gif">&amp;6Orc Disaster Head</a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -58,9 +58,6 @@ Has 1000000 max EP
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

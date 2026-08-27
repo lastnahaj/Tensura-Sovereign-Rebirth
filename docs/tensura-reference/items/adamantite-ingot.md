@@ -18,13 +18,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Ingot?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Ingot</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Ingot.gif"><img alt="Adamantite Ingot.gif: Infobox image for Adamantite Ingot the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/adamantite-ingot-1d63f4e4e7.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Ingot"><a href="./" title="Adamantite Ingot"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -117,4 +117,4 @@ tags:
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Adamantite Ingot](https://tensura.wiki.gg/wiki/Adamantite_Ingot) on the Tensura: Reincarnated Wiki (revision `8743`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Adamantite Ingot](https://tensura.wiki.gg/wiki/Adamantite_Ingot) on the Tensura: Reincarnated Wiki (revision `8743`, modified `2025-03-12T22:25:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

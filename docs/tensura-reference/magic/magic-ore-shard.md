@@ -18,13 +18,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Magic_Ore_Shard?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Magic Ore Shard</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif"><img alt="Magic Ore Shard.gif: Infobox image for Magic Ore Shard the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" src="../../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Ore Shard"><a href="./" title="Magic Ore Shard"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<p>Obtained by mining  <a href="../../blocks/blocks-magic-ore/" title="Blocks/Magic Ore">Magic Ore</a> (or  <a href="../../blocks/blocks-magic-ore/" title="Blocks/Magic Ore">Deepslate Magic Ore</a>) with a Netherite Pickaxe <br/>
+<p>Obtained by mining <a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_Ore.png"><img alt="Magic Ore.png" data-file-height="300" data-file-width="300" decoding="async" height="30" src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png" width="30"/></a> <a href="../../blocks/blocks-magic-ore/" title="Blocks/Magic Ore">Magic Ore</a> (or <a class="image" href="https://tensura.wiki.gg/wiki/File:Deepslate_Magic_Ore.png"><img alt="Deepslate Magic Ore.png" data-file-height="300" data-file-width="300" decoding="async" height="30" src="../../../assets/upstream/tensura/items/deepslate-magic-ore-53c48a09a0.png" width="30"/></a> <a href="../../blocks/blocks-magic-ore/" title="Blocks/Magic Ore">Deepslate Magic Ore</a>) with a Netherite Pickaxe <br/>
 Or by slaying a <a href="../../mobs/mobs-metal-slime/" title="Mobs/Metal Slime">Metal Slime</a>
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
@@ -66,7 +66,7 @@ Or by slaying a <a href="../../mobs/mobs-metal-slime/" title="Mobs/Metal Slime">
 <p>Used to evolve from <a href="../../races/races-slime/" title="Races/Slime">Slime</a> to <a href="../../races/races-metal-slime/" title="Races/Metal Slime">Metal Slime</a> (requires 100 <span class="nowrap"><span class="sprite-file"><a href="./" title="Magic Ore Shard"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">Magic Ore</span></a></span>)
 </p>
 <h3><span class="mw-headline" id="Melting">Melting</span></h3>
-<p><br/>
+<p><a class="image" href="https://tensura.wiki.gg/wiki/File:MagicOreMelt.png" title="Melting Magic Ore in a Kiln"><img alt="Melting Magic Ore in a Kiln" data-file-height="250" data-file-width="367" decoding="async" height="250" src="../../../assets/upstream/tensura/magic/magicoremelt-a195ce8d26.png" width="367"/></a><br/>
 When smelted in the <a href="../../blocks/blocks-kiln/" title="Blocks/Kiln">Kiln</a>, you will get 0.25 molten magisteel
 </p>
 <h3><span class="mw-headline" id="Crafting_ingredient">Crafting ingredient</span></h3>

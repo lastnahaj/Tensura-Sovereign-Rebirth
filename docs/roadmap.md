@@ -9,8 +9,8 @@
 | Unique Monsters compatibility | Verified | Official artifact retained with required TSR lifecycle bridge and repeated cold-start matrix |
 | MineColonies and integrated magic | Verified startup; gameplay Under Validation | Client construction flow and server startup pass; long-running citizen/settlement play remains |
 | Gear, forging, backpacks, storage | Verified startup; gameplay Under Validation | Phase 4A client/server/configuration passes; evolution retention and multiplayer contention remain |
-| Upstream Tensura reference | Implemented | 986 articles discovered, 973 relevant pages imported, 13 non-content pages skipped, 0 page failures |
-| Upstream media | Blocked by licensing | 1,728 media titles discovered; no File page exposed an explicit reusable license |
+| Upstream Tensura reference | Implemented | 988 articles discovered, 975 relevant pages imported, 13 non-content pages skipped, 0 page failures |
+| Upstream media | Implemented | File-page CC BY-SA declaration verified; media imported with per-file exception checks and attribution records |
 | Terratonic terrain | Planned / Under Validation | Terralith, Tectonic, and required libraries are selected; world-generation phase report pending |
 | Adventure, bosses, dimensions | Planned / Under Validation | Selected targets still require a completed runtime and gameplay phase |
 | Curated structures | Planned / Under Validation | One-at-a-time density, collision, restart, and generation profiling required |

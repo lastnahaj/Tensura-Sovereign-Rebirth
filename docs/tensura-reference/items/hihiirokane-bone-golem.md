@@ -12,7 +12,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Hihiirokane Bone Golem</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hihiirokane_bone_golem.png"><img alt="hihiirokane_bone_golem.png: Infobox image for Hihiirokane Bone Golem the item in Minecraft" class="pixel-image" data-file-height="160" data-file-width="16" decoding="async" height="1600" src="../../../assets/upstream/tensura/items/hihiirokane-bone-golem-aff91127e7.png" width="160"/></a></div>
 </div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -56,9 +56,6 @@ Allows the player to possess it and works as a physical body, can also be given 
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

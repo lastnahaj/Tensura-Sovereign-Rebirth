@@ -2,7 +2,7 @@
 
 Magic systems, aspects, and individual spells.
 
-**143 upstream articles indexed.**
+**144 upstream articles indexed.**
 
 ## A
 
@@ -123,6 +123,7 @@ Magic systems, aspects, and individual spells.
 - [Magic Resistance](magic-resistance.md) — Magic Resistance is a Resistance Skill in Tensura: Reincarnated. When toggled, prevents Magic damage if it falls below 50% of your Max HP. If the attack is n…
 - [Magic Sense](magic-sense.md) — Use magicules to sense entities around you. as of 2.0.0.4 When pressed, grant the user Night Vision effect (Presense Sense level 0.5, no entity-highlight) ti…
 - [Magic Space Transform](magic-space-transform.md) — Gain access to Greater Space Spirit Magic and boost your spatial attacks while buffing yourself and debuffing enemies Grants access to Greater level of Space…
+- [Magic Staff Schematic](magic-staff-schematic.md) — Can be acquired from master magic trainer dwarves for 10 gold coins. Allows Crafting of Staves Low Magic Staff Medium Magic Staff High Magic Staff Staff of S…
 - [Magic Stone](magic-stone.md) — Can be obtained by crafting at a Smithing Bench To make multiple items such as:
 - [Magic Tome](magic-tome.md) — Found in:Wizard Tower Upon usage gives you the spell assigned to the tome if it has one
 - [Magic Wall](magic-wall.md) — Use pure magic to create a wall in front of you Creates a 4x4 wall made of barrier blocks that slows down entities that move through them by 50%. Reduce/nega…

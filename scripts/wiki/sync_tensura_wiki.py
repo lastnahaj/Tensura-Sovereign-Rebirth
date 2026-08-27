@@ -211,6 +211,23 @@ class ApiClient:
                     handle.write(chunk)
         temporary.replace(destination)
 
+    def get_text(self, url: str, cache_name: str) -> str:
+        cache_path = self.cache_root / cache_name
+        if cache_path.exists() and not self.refresh:
+            return cache_path.read_text(encoding="utf-8")
+        parsed = urlparse(url)
+        if parsed.scheme != "https" or parsed.hostname != "tensura.wiki.gg":
+            raise RuntimeError(f"Refusing unexpected page host: {url}")
+        elapsed = time.monotonic() - self.last_request
+        if elapsed < self.pace:
+            time.sleep(self.pace - elapsed)
+        response = self.session.get(url, timeout=(15, 90))
+        self.last_request = time.monotonic()
+        response.raise_for_status()
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(response.text, encoding="utf-8")
+        return response.text
+
 
 def chunks(values: list[Any], size: int) -> Iterable[list[Any]]:
     for offset in range(0, len(values), size):
@@ -646,7 +663,7 @@ def fetch_media_metadata(
                 "titles": "|".join(f"File:{title}" for title in title_batch),
                 "redirects": 1,
                 "prop": "imageinfo|revisions",
-                "iiprop": "url|size|mime|sha1|extmetadata|timestamp",
+                "iiprop": "url|size|mime|sha1|extmetadata|timestamp|user|comment",
                 "iiurlwidth": 1200,
                 "rvprop": "ids|timestamp|content",
                 "rvslots": "main",
@@ -675,6 +692,8 @@ def fetch_media_metadata(
                     "mime": image_info.get("mime"),
                     "sha1": image_info.get("sha1"),
                     "file_timestamp": image_info.get("timestamp"),
+                    "uploaded_by": image_info.get("user"),
+                    "upload_comment": image_info.get("comment"),
                     "file_revision_id": revision.get("revid"),
                     "file_modified": revision.get("timestamp"),
                     "extmetadata": image_info.get("extmetadata", {}),
@@ -690,7 +709,46 @@ def fetch_media_metadata(
     return records
 
 
-def determine_license(record: dict[str, Any]) -> tuple[str | None, str | None, str]:
+def verify_file_page_license(client: ApiClient, media_records: list[dict[str, Any]]) -> dict[str, str]:
+    candidates = sorted(
+        (record for record in media_records if record.get("source_url") and record.get("source_file_page")),
+        key=lambda record: (record.get("source_title") != "Skillicon.png", record.get("source_title", "")),
+    )
+    if not candidates:
+        raise RuntimeError("Cannot verify the upstream File-page media license")
+    page_html = ""
+    for sample in candidates[:20]:
+        try:
+            page_html = client.get_text(
+                sample["source_file_page"], "policy/file-page-license.html"
+            )
+            break
+        except requests.HTTPError as exc:
+            if exc.response is None or exc.response.status_code != 404:
+                raise
+    if not page_html:
+        raise RuntimeError("Could not load a live upstream File page to verify its media license")
+    soup = BeautifulSoup(page_html, "html.parser")
+    license_link = soup.select_one('link[rel="license"]')
+    footer = soup.select_one("#footer-info-copyright")
+    license_url = license_link.get("href", "") if license_link else ""
+    footer_text = " ".join(footer.get_text(" ", strip=True).split()) if footer else ""
+    if license_url.rstrip("/") != TEXT_LICENSE_URL.rstrip("/"):
+        raise RuntimeError("Upstream File pages do not expose the expected CC BY-SA 4.0 license link")
+    if not re.search(r"page content is under.+unless otherwise noted", footer_text, re.I):
+        raise RuntimeError("Upstream File-page license footer could not be verified")
+    return {
+        "name": "CC BY-SA 4.0",
+        "url": TEXT_LICENSE_URL,
+        "evidence": (
+            "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted"
+        ),
+    }
+
+
+def determine_license(
+    record: dict[str, Any], file_page_license: dict[str, str]
+) -> tuple[str | None, str | None, str]:
     metadata = record.get("extmetadata", {})
     candidates = " ".join(
         filter(
@@ -716,7 +774,11 @@ def determine_license(record: dict[str, Any]) -> tuple[str | None, str | None, s
                     "Public domain": "https://creativecommons.org/publicdomain/mark/1.0/",
                 }.get(canonical, "")
             return canonical, license_url or None, "Explicit reusable license on File page"
-    return None, None, "No explicit reusable license found on the upstream File page"
+    return (
+        file_page_license["name"],
+        file_page_license["url"],
+        file_page_license["evidence"],
+    )
 
 
 def safe_media_filename(title: str, sha1: str | None) -> str:
@@ -733,6 +795,7 @@ def prepare_media(
     client: ApiClient,
     media_records: list[dict[str, Any]],
     page_records: list[dict[str, Any]],
+    file_page_license: dict[str, str],
 ) -> tuple[list[dict[str, Any]], dict[str, dict[str, Any]], dict[str, int]]:
     used_on: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for page in page_records:
@@ -749,7 +812,7 @@ def prepare_media(
         primary_article_category = article_categories.most_common(1)[0][0] if article_categories else "other"
         media_category = MEDIA_CATEGORY_MAP.get(primary_article_category, "misc")
         record["category"] = media_category
-        license_name, license_url, license_reason = determine_license(record)
+        license_name, license_url, license_reason = determine_license(record, file_page_license)
         record["license"] = license_name
         record["license_url"] = license_url
         record["license_evidence"] = license_reason
@@ -783,7 +846,7 @@ def prepare_media(
                 record["local_path"] = local_path.as_posix()
                 record["download_url"] = source_url
                 record["import_status"] = "imported"
-                record["reason"] = "Explicitly reusable media imported"
+                record["reason"] = "Reusable File-page media imported with attribution"
             except Exception as exc:
                 record["import_status"] = "failed"
                 record["reason"] = str(exc)
@@ -1171,7 +1234,10 @@ def write_reports(
         {
             "source": WIKI_ROOT + "/",
             "synchronized_at": SYNCED_AT,
-            "policy": "Media is imported only when its File page exposes an explicit reusable license.",
+            "policy": (
+                "Media is imported under the upstream File-page CC BY-SA 4.0 declaration unless "
+                "the individual File page states restrictive or non-free terms."
+            ),
             "media": media_records,
         },
     )
@@ -1240,7 +1306,7 @@ def render_coverage_report(coverage: dict[str, Any]) -> str:
         f"| Images skipped due to licensing | {coverage['images_skipped_due_to_licensing']} |",
         f"| Images failed | {coverage['images_failed']} |",
         "",
-        "Images without an explicit reusable license on their individual upstream File page are not redistributed, even when the surrounding article is reusable under the wiki's general text license.",
+        "The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.",
         "",
         "## Link conversion",
         "",
@@ -1292,11 +1358,12 @@ Rebirth** heading.
 
 ## Media license policy
 
-Individual File pages can state different terms from the site-wide text
-license. The synchronizer queries each referenced File page, records its
-revision and extended license metadata, and downloads a file only when that page
-exposes an explicit reusable license. Missing or unclear licensing, fair-use
-claims, non-free terms, and restrictive notices cause the file to be skipped.
+The upstream File pages declare page content under
+[Creative Commons Attribution-ShareAlike 4.0]({TEXT_LICENSE_URL}) unless otherwise
+noted. The synchronizer verifies that File-page declaration, records each
+file's source page and revision, and checks its metadata and page text for
+exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
+file to be skipped.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in
@@ -1397,9 +1464,10 @@ def main() -> int:
         key=str.casefold,
     )
     media_records = fetch_media_metadata(client, image_titles)
+    file_page_license = verify_file_page_license(client, media_records)
     ensure_asset_root_clean()
     media_records, media_lookup, media_category_counts = prepare_media(
-        client, media_records, page_records
+        client, media_records, page_records, file_page_license
     )
 
     canonical_lookup = {

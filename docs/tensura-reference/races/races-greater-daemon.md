@@ -1,6 +1,6 @@
 ---
 title: Greater Daemon
-description: '"Huh? You think you''re something now? Get out my sight..." Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body''s EP (if any) and 40k AP. This will affect energy regeneration, naming, EP drop, gear, awakening/race evolution and many skills activation/acquirement...'
+description: '"Huh? You think you''re something now? Get out my sight..." Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body''s EP (if any) and 40k AP. This will affect energy regeneration, naming, EP drop, gear, awakening/race evolution and many skills activation/acquirement…'
 tags:
 - Races
 ---

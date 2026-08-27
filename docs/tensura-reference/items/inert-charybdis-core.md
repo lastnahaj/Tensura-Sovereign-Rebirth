@@ -10,7 +10,9 @@ tags: []
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Inert Charybdis Core</h2><figure class="pi-item pi-media pi-image" data-source="image">
-
+<a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core_Inert.png" title="Charybdis Core Inert.png">
+<img alt="Charybdis Core Inert.png" class="pi-image-thumbnail" height="270" src="../../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" width="270"/>
+</a>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Common</div>
@@ -33,15 +35,12 @@ tags: []
 <p>Once you have mastered <a href="../../skills/common/self-regeneration/" title="Self Regeneration">Self-Regeneration</a>, <a href="../../skills/extra/ultraspeed-regeneration/" title="Ultraspeed Regeneration">Ultraspeed-Regeneration</a> will be available to be learned.
 </p><p>If you have <a href="../../skills/unique/degenerate/" title="Degenerate">Degenerate</a> you can use Synthesize Mode on it and you will instantly acquire <a href="../../magic/magic-sense/" title="Magic Sense">Magic Sense</a> and <a href="../../skills/extra/ultraspeed-regeneration/" title="Ultraspeed Regeneration">Ultraspeed-Regeneration</a> without having to learn them, you will also receive 200k EP, along with the skills mentioned above.
 </p>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png" title="Enlarge"></a></div></div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png"><img alt="InactiveCharybdisCore.png" class="thumbimage" data-file-height="192" data-file-width="778" decoding="async" height="79" src="../../../assets/upstream/tensura/items/inactivecharybdiscore-02089b80df.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png" title="Enlarge"></a></div></div></div></div>
 
 
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

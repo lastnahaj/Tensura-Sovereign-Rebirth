@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of HihiIrokane</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_HihiIrokane.png"><img alt="Block of HihiIrokane.png: Infobox image for Block of HihiIrokane the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-hihiirokane-d68dfb73aa.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of Hihi'irokane
 </p>
 </div></div>

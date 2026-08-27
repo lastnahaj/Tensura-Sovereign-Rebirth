@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Quality Magic Crystal Block</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Quality_Magic_Crystal_Block.png"><img alt="High Quality Magic Crystal Block.png: Infobox image for High Quality Magic Crystal Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/high-quality-magic-crystal-block-b9d8f4e1dd.png" width="150"/></a><div class="infobox-imagecaption">
 <p>High Quality Magic Crystal Block
 </p>
 </div></div>

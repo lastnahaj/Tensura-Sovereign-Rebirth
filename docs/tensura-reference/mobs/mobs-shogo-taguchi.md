@@ -11,7 +11,7 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Shogo Taguchi</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Shogo Taguchi</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Shogo_Taguchi.png"><img alt="Shogo Taguchi.png" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/mobs/shogo-taguchi-6edfec27c6.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-biome">Biome</div><div class="druid-data druid-data-biome druid-data-nonempty">
 <a class="extiw" href="https://minecraft.wiki/w/Plains" title="mcw:Plains">Plains</a>, <a class="extiw" href="https://minecraft.wiki/w/Snowy_Plains" title="mcw:Snowy Plains">Snowy Plains</a>, <a class="extiw" href="https://minecraft.wiki/w/Sunflower_Plains" title="mcw:Sunflower Plains">Sunflower Plains</a> <a class="extiw" href="https://minecraft.wiki/w/Windswept_Hills" title="mcw:Windswept Hills">Windswept Hills</a>, <a class="extiw" href="https://minecraft.wiki/w/Mountain" title="mcw:Mountain">Mountains</a>, <a class="extiw" href="https://minecraft.wiki/w/Meadow" title="mcw:Meadow">Meadow</a> <a class="extiw" href="https://minecraft.wiki/w/Savanna" title="mcw:Savanna">Savanna</a>, <a class="extiw" href="https://minecraft.wiki/w/Desert" title="mcw:Desert">Desert</a>, <a class="extiw" href="https://minecraft.wiki/w/Badlands" title="mcw:Badlands">Badlands</a></div></div><div class="druid-row druid-row-spawn_count" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-spawn_count">Spawn Count</div><div class="druid-data druid-data-spawn_count druid-data-nonempty">
 Singular</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 200</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
@@ -32,9 +32,6 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

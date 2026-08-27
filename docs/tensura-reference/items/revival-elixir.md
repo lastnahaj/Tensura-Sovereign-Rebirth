@@ -10,7 +10,7 @@ tags: []
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="hide-content-template">
-<div class="center"><div class="floatnone"></div></div><br/>
+<div class="center"><div class="floatnone"><a class="image" href="https://tensura.wiki.gg/wiki/File:CS5.png"><img alt="Coming Soon" data-file-height="512" data-file-width="512" decoding="async" height="512" src="../../../assets/upstream/tensura/items/cs5-d00a5bad58.png" width="512"/></a></div></div><br/>
 <div>
 <p><big><big><b>This page is a Work In Progress!!!</b><br/></big></big>
 <big><b>Big Things Coming Soon!!</b></big>
@@ -21,9 +21,6 @@ tags: []
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

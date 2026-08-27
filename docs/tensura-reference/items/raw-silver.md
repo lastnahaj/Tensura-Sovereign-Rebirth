@@ -15,13 +15,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Silver?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Raw Silver</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Raw_Silver.png"><img alt="Raw Silver.png: Infobox image for Raw Silver the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/raw-silver-548d9b26f3.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Raw Silver"><a href="./" title="Raw Silver"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -53,7 +53,7 @@ tags:
 
 <h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
 <h3><span class="mw-headline" id="Mining">Mining</span></h3>
-<p>Obtained by mining  <a href="../../blocks/blocks-silver-ore/" title="Blocks/Silver Ore">Silver Ore</a> with a <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Stone_Pickaxe" title="Stone Pickaxe"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Stone_Pickaxe?action=edit&amp;redlink=1" rel="nofollow" title="Stone Pickaxe (page does not exist)"><span class="sprite-text">Stone Pickaxe</span></a></span> (or  <a href="../../blocks/blocks-silver-ore/" title="Blocks/Silver Ore">Deepslate Silver Ore</a> with an <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Iron_Pickaxe" title="Iron Pickaxe"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Iron_Pickaxe?action=edit&amp;redlink=1" rel="nofollow" title="Iron Pickaxe (page does not exist)"><span class="sprite-text">Iron Pickaxe</span></a></span>)  <br/>
+<p>Obtained by mining <a class="image" href="https://tensura.wiki.gg/wiki/File:Silver_Ore.png"><img alt="Silver Ore.png" data-file-height="300" data-file-width="300" decoding="async" height="30" src="../../../assets/upstream/tensura/items/silver-ore-58a494883b.png" width="30"/></a> <a href="../../blocks/blocks-silver-ore/" title="Blocks/Silver Ore">Silver Ore</a> with a <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Stone_Pickaxe" title="Stone Pickaxe"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Stone_Pickaxe?action=edit&amp;redlink=1" rel="nofollow" title="Stone Pickaxe (page does not exist)"><span class="sprite-text">Stone Pickaxe</span></a></span> (or <a class="image" href="https://tensura.wiki.gg/wiki/File:Deepslate_Silver_Ore.png"><img alt="Deepslate Silver Ore.png" data-file-height="300" data-file-width="300" decoding="async" height="30" src="../../../assets/upstream/tensura/items/deepslate-silver-ore-bcc93cdd8e.png" width="30"/></a> <a href="../../blocks/blocks-silver-ore/" title="Blocks/Silver Ore">Deepslate Silver Ore</a> with an <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Iron_Pickaxe" title="Iron Pickaxe"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Iron_Pickaxe?action=edit&amp;redlink=1" rel="nofollow" title="Iron Pickaxe (page does not exist)"><span class="sprite-text">Iron Pickaxe</span></a></span>)  <br/>
 </p>
 <h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
 <table class="wikitable crafting" data-description="Crafting recipes">

@@ -25,7 +25,7 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <span class="tsr-status">Version 1 Beta</span>
 
-The wiki now combines a self-contained base Tensura reference with the verified TSR modpack layer. The current upstream snapshot contains **973 relevant articles**, **387 local redirect aliases**, and **zero failed article imports**. Media without clear File-page redistribution terms is intentionally omitted and reported instead of hotlinked.
+The wiki combines a self-contained base Tensura reference with the verified TSR modpack layer. The current upstream snapshot contains **975 relevant articles**, **387 local redirect aliases**, and **zero failed article imports**. Source media is mirrored with File-page attribution and per-file license exception checks.
 
 ## Quick reference
 

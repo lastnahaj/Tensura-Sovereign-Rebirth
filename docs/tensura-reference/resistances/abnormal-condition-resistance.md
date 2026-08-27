@@ -13,7 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Abnormal Condition Resistance
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png"><img alt="Abnormal condition resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../assets/upstream/tensura/resistances/abnormal-condition-resistance-ff74fa2d2b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 700</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -37,11 +37,8 @@ Taking 15 points of damage from Fear, Insanity, Petrification</div></div></div><
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
-
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Abnormal Condition Resistance](https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance) on the Tensura: Reincarnated Wiki (revision `12896`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Abnormal Condition Resistance](https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance) on the Tensura: Reincarnated Wiki (revision `12896`, modified `2026-05-18T08:57:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

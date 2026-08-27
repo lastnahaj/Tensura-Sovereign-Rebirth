@@ -16,14 +16,14 @@ tags: []
 <h1><span class="mw-headline" id="Learning">Learning</span></h1>
 <p><big><big>Before using an ability, you are required to learn it.</big></big>
 </p>
-<div class="thumb tright"><div class="thumbinner"> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png" title="Enlarge"></a></div>An unlearnt skill <b><a href="../../skills/common/strength/" title="Strength">Strength</a></b></div></div></div>
+<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png"><img class="thumbimage" data-file-height="276" data-file-width="463" decoding="async" height="276" src="../../../assets/upstream/tensura/misc/skilllearning-1f7be3df29.png" width="463"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:SkillLearning.png" title="Enlarge"></a></div>An unlearnt skill <b><a href="../../skills/common/strength/" title="Strength">Strength</a></b></div></div></div>
 <p>Unlearnt abilities will show up in grey text in your Ability Menu, and you can hover on the progress bar to see how many points you have. The learning process is straight-forward: equip the ability in any slot and activate it with the corresponding keybind.
 </p><p><br/>
 A message will appear on the screen, saying that you've become closer to acquiring it.<br/>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:StartLearning.png" title="Gaining Learning Points"><img alt="Gaining Learning Points" data-file-height="81" data-file-width="531" decoding="async" height="61" src="../../../assets/upstream/tensura/misc/startlearning-d3efca8879.png" width="400"/></a>
 </p><p><br/>
 Upon reaching 100 Learn Points, you will learn the ability and become able to use it. Its color in the Menu will also change depending on its type.<br/>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:SkillLearnt.png" title="Skill Learnt"><img alt="Skill Learnt" data-file-height="229" data-file-width="525" decoding="async" height="174" src="../../../assets/upstream/tensura/misc/skilllearnt-a4b4ea1b83.png" width="400"/></a>
 </p><p>Once you have learnt a skill. It will reduce your Max MP by a certain amount depending on the type of skill:
 </p>
 <ul><li>Common Skills cost 100 MP</li>
@@ -124,9 +124,6 @@ Much like learning, it also has abilities that speed up the process: <b><a href=
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

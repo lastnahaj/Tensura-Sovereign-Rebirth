@@ -18,7 +18,7 @@ tags:
 </p>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Enchanted Silver Apple</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Enchanted_Silver_Apple.gif"><img alt="Enchanted Silver Apple.gif: Infobox image for Enchanted Silver Apple the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/items/enchanted-silver-apple-c9b73ccff5.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;dEnchanted Silver Apple"><a href="./" title="&amp;dEnchanted Silver Apple"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

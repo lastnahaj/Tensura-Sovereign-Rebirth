@@ -14,7 +14,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Block of Orichalcum</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Orichalcum.png"><img alt="Block of Orichalcum.png: Infobox image for Block of Orichalcum the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/block-of-orichalcum-be6965d3f3.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Block of Orichalcum
 </p>
 </div></div>

@@ -18,13 +18,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Explorer_Maps?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Explorer Maps</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png"><img alt="Invicon_Labyrinth_Explorer_Map.png: Infobox image for Explorer Maps the item in Minecraft" class="pixel-image" data-file-height="160" data-file-width="160" decoding="async" height="160" src="../../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" width="160"/></a></div>
 </div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>

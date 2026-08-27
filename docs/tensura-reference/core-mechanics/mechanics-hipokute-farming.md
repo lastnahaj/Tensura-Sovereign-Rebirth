@@ -11,11 +11,11 @@ tags: []
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><big>Grow that Grass</big>
 </p><p>Place down <span class="nowrap"><span class="sprite-file"><a href="../../items/hipokute-seeds/" title="Hipokute Seeds"></a></span> <a href="../../items/hipokute-seeds/" title="Hipokute Seeds"><span class="sprite-text">Hipokute Seeds</span></a></span><br/>
-<a href="../../items/hipokute-seeds/" title="Hipokute Seeds"></a>
+<a href="../../items/hipokute-seeds/" title="Hipokute Seeds"><img alt="Hipokute Seeds.png" data-file-height="512" data-file-width="512" decoding="async" height="64" src="../../../assets/upstream/tensura/items/hipokute-seeds-3b87e171fc.png" width="64"/></a>
 </p>
 <h2><span class="mw-headline" id="1.19.2">1.19.2</span></h2>
 <p>On random tick, in version 1.19.2, a hipokute seed has 10% chance to be grow into hipokute "small grass"<br/>
-
+<a class="image" href="https://tensura.wiki.gg/wiki/File:RenderHipokuteSmallGrass.png" title="Hipokute Small Grass"><img alt="Hipokute Small Grass" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/misc/renderhipokutesmallgrass-d2e0f0938a.png" width="150"/></a>
 </p><p><i>If planted in Hell, it becomes a 25% Chance to Grow into small grass</i>
 </p><p>In other 90%, it grows into vanilla <a class="extiw" href="https://minecraft.wiki/w/Wheat_Seeds" title="mcw:Wheat Seeds">Wheat</a> and grows like in vanilla.
 <i>75% In Hell</i>
@@ -29,8 +29,8 @@ tags: []
 </p>
 <hr/>
 <p>As "small grass", it has 50-50 chance to become Hipokute Grass or Hipokute Flower, regardless of the version.<br/>
-</p><p>
-
+</p><p><a class="image" href="https://tensura.wiki.gg/wiki/File:RenderHipokuteFlower.png" title="Hipokute Flower"><img alt="Hipokute Flower" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/misc/renderhipokuteflower-468eccb5ab.png" width="150"/></a>
+<a class="image" href="https://tensura.wiki.gg/wiki/File:RenderHipokuteStage2.png" title="Hipokute Grass"><img alt="Hipokute Grass" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/misc/renderhipokutestage2-a7de2a348c.png" width="150"/></a>
 </p><p><b>Hipokute Grass cannot become Hipokute Flower</b><br/>
 </p><p><br/>
 Right-clicking a Hipokute Flower will drop a <span class="nowrap"><span class="sprite-file"><a href="../../items/hipokute-flower/" title="Hipokute Flower"></a></span> <a href="../../items/hipokute-flower/" title="Hipokute Flower"><span class="sprite-text">Hipokute Flower</span></a></span>  and set the plant back to "small grass" which will restart the 50-50 Chance again. <br/>

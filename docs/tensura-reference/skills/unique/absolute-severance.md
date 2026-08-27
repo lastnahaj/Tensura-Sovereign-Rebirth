@@ -15,7 +15,7 @@ tags:
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Wield the power to cut through any who stand in your path, whether by coating your strikes or launching slashing projectiles that sever all in their path.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Absolute Severance</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Absolute Severance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Absolute_severance.png"><img alt="Absolute severance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../../assets/upstream/tensura/skills/absolute-severance-8e134814ba.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 60000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -38,11 +38,8 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
-
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Absolute Severance](https://tensura.wiki.gg/wiki/Absolute_Severance) on the Tensura: Reincarnated Wiki (revision `12685`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Absolute Severance](https://tensura.wiki.gg/wiki/Absolute_Severance) on the Tensura: Reincarnated Wiki (revision `12685`, modified `2026-05-04T22:25:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

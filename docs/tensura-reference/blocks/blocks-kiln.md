@@ -15,13 +15,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Kiln?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Kiln</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Kiln.png"><img alt="Kiln.png: Infobox image for Kiln the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Kiln
 </p>
 </div></div>
@@ -88,7 +88,7 @@ tags:
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <p><i>To activate, right click the Kiln to open the menu</i>
-</p><p>
+</p><p><a class="image" href="https://tensura.wiki.gg/wiki/File:Kiln_GUI.png" title="Kiln GUI"><img alt="Kiln GUI" data-file-height="333" data-file-width="503" decoding="async" height="333" src="../../../assets/upstream/tensura/items/kiln-gui-80a8a29c5e.png" width="503"/></a>
 </p><p><i>Middle Slot is for the Output, There are arrows either side to swap which item you wish to meld.</i>
 </p><p><i>Right Side - Top is for what you wish to Smelt</i>
 </p><p><i>Right Side - Bottom is for your fuel</i>

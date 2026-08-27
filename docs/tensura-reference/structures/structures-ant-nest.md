@@ -13,11 +13,11 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Ant_Nest?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Ant Nest</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
+<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Ant Nest</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Ant_nest.png"><img alt="Ant nest.png" data-file-height="1024" data-file-width="1024" decoding="async" height="512" src="../../../assets/upstream/tensura/structures/ant-nest-0412846ab7.png" width="512"/></a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 Savannah, Forest, Birch Forest</div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../mobs/mobs-giant-ant/" title="Mobs/Giant Ant">Giant Ant</a></div></div></div></div>
 <h1><span class="mw-headline" id="Ant_Nest">Ant Nest</span></h1>
@@ -26,9 +26,6 @@ Savannah, Forest, Birch Forest</div></div><div class="druid-row druid-row-mobs" 
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

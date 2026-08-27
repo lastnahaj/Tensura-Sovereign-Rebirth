@@ -14,13 +14,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Katana?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Katana</div>
-<div class="infobox-imagearea animated-container"><div></div>
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Katana.png"><img alt="Adamantite Katana.png: Infobox image for Adamantite Katana the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" src="../../../assets/upstream/tensura/weapons/adamantite-katana-40a45951eb.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Katana"><a href="./" title="Adamantite Katana"></a></span></span></div></div></div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -110,4 +110,4 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Adamantite Katana](https://tensura.wiki.gg/wiki/Adamantite_Katana) on the Tensura: Reincarnated Wiki (revision `10765`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Adamantite Katana](https://tensura.wiki.gg/wiki/Adamantite_Katana) on the Tensura: Reincarnated Wiki (revision `10765`, modified `2025-11-12T13:19:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

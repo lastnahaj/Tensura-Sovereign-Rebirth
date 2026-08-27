@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Falmuth Knight</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-spawn_count" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-spawn_count">Spawn Count</div><div class="druid-data druid-data-spawn_count druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-mob" id="druid-container-1"><div><div class="druid-title">Falmuth Knight</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Falmuth_Knight.png"><img alt="Falmuth Knight.png" data-file-height="454" data-file-width="389" decoding="async" height="598" src="../../../assets/upstream/tensura/mobs/falmuth-knight-35e7b1e387.png" width="512"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-spawn_count" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-spawn_count">Spawn Count</div><div class="druid-data druid-data-spawn_count druid-data-nonempty">
 9</div></div><div class="druid-row druid-row-identifier" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-identifier">Identifier</div><div class="druid-data druid-data-identifier druid-data-nonempty">
 tensura:falmuth_knight</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-health" data-druid-section-row="Stats"><div class="druid-label druid-label-health">Health</div><div class="druid-data druid-data-health druid-data-nonempty">
 50</div></div><div class="druid-row druid-row-spiritual_health" data-druid-section-row="Stats"><div class="druid-label druid-label-spiritual_health">Spiritual Health</div><div class="druid-data druid-data-spiritual_health druid-data-nonempty">
@@ -38,9 +38,6 @@ tensura:falmuth_knight</div></div></div><div class="druid-section-container"><di
 
 </div>
 </div>
-
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
 
 ---
 

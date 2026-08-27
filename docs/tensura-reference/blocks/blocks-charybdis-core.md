@@ -16,13 +16,13 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Charybdis_Core?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
 <div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Charybdis Core</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
+<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png: Infobox image for Charybdis Core the block in Minecraft" data-file-height="500" data-file-width="500" decoding="async" height="150" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Charybdis Core
 </p>
 </div></div>

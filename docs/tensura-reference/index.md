@@ -7,11 +7,11 @@ This generated library is the base-mod layer of the TSR wiki. It preserves the l
 
 ## Snapshot coverage
 
-- **Canonical articles imported:** 973
+- **Canonical articles imported:** 975
 - **Redirect aliases processed:** 387
-- **Media files discovered:** 1724
-- **Explicitly reusable media imported:** 0
-- **Upstream synchronization:** 2026-08-27T16:11:16Z
+- **Media files discovered:** 1726
+- **Explicitly reusable media imported:** 1623
+- **Upstream synchronization:** 2026-08-27T16:57:13Z
 - **Upstream MediaWiki:** MediaWiki 1.43.6
 
 ## Browse the reference
@@ -25,7 +25,7 @@ This generated library is the base-mod layer of the TSR wiki. It preserves the l
 - **[Ultimate Skills](skills/ultimate/index.md)** — 0 articles. Ultimate-class skills and related evolutions.
 - **[Other Skills](skills/other/index.md)** — 6 articles. Skills outside the primary class directories.
 - **[Resistances](resistances/index.md)** — 43 articles. Resistance, immunity, nullification, and cancellation abilities.
-- **[Magic](magic/index.md)** — 143 articles. Magic systems, aspects, and individual spells.
+- **[Magic](magic/index.md)** — 144 articles. Magic systems, aspects, and individual spells.
 - **[Battlewill](battlewill/index.md)** — 24 articles. Aura-powered Battlewill techniques and manuals.
 - **[Arts](arts/index.md)** — 0 articles. Documented Arts and their acquisition or mastery.
 - **[Mobs](mobs/index.md)** — 56 articles. The base mod's documented entity catalog.
@@ -42,7 +42,7 @@ This generated library is the base-mod layer of the TSR wiki. It preserves the l
 - **[Configuration](configuration/index.md)** — 3 articles. Base Tensura configuration reference.
 - **[Gamerules](gamerules/index.md)** — 1 articles. Tensura-specific gamerules and behavior.
 - **[Version History](version-history/index.md)** — 3 articles. Historical releases and upstream change records.
-- **[Other Reference](other/index.md)** — 0 articles. Additional maintained base-mod reference articles.
+- **[Other Reference](other/index.md)** — 1 articles. Additional maintained base-mod reference articles.
 
 ## TSR layer
 

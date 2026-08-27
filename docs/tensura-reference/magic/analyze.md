@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Analyze</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Analyze</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Analyze_aspectual.png"><img alt="Analyze aspectual.png" data-file-height="512" data-file-width="512" decoding="async" height="256" src="../../../assets/upstream/tensura/magic/analyze-aspectual-2e074195b5.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
 50 MP per second</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 40 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -38,11 +38,8 @@ Learning it from a tome</div></div></div></div>
 </div>
 </div>
 
-!!! note "Upstream media"
-    Some media shown by the source article is not redistributed here because its File page does not document a clearly reusable license. The exact source article remains linked below.
-
 ---
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Analyze](https://tensura.wiki.gg/wiki/Analyze) on the Tensura: Reincarnated Wiki (revision `11067`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Analyze](https://tensura.wiki.gg/wiki/Analyze) on the Tensura: Reincarnated Wiki (revision `11067`, modified `2026-03-22T16:37:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

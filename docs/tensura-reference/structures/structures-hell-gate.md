@@ -13,11 +13,11 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Hell_Gate?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Hell Gate</div></div><div class="druid-section-container"><div class="druid-main-image"></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
+<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Hell Gate</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Hell_gate.png"><img alt="Hell gate.png" data-file-height="1024" data-file-width="1024" decoding="async" height="512" src="../../../assets/upstream/tensura/structures/hell-gate-d975cc9cee.png" width="512"/></a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Savannah, Hell</div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../mobs/mobs-hound-dog/" title="Mobs/Hound Dog">Hound Dog</a>, <a href="../../mobs/mobs-megalodon/" title="Mobs/Megalodon">Megalodon</a></div></div></div></div>
 <p>A rare structure able to spawn in many biomes across the overworld as well as in the hell dimension.
