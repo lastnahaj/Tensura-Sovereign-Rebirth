@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Mobs</h1>
 <p>The base mod&#x27;s documented entity catalog.</p>
-<span class="reference-count"><strong>56</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>55</strong> articles</span>
+<a class="reference-directory-overview-link" href="mobs/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -33,7 +36,7 @@
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 56 of 56 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 55 of 55 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="aqua frog a medium spirit of water, can be summoned using summon medium elemental">
@@ -513,19 +516,6 @@
 <div class="reference-card-copy">
 <h2>Metal Slime</h2>
 <p>5 - 8 Magic Ore Shard (affected by looting) 1 High Quality Magic Crystal Can be tamed with Magic Ore or Pure Magisteel Nugget Slime mobs takes 50% of the input Physical…</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs very wip!!! the many mobs of tensura:reincarnated">
-<a href="mobs/" aria-label="Open Mobs">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs</h2>
-<p>Very WIP!!! The Many Mobs of Tensura:Reincarnated</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

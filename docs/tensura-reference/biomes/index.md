@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Biomes</h1>
 <p>Base Tensura biomes and biome-specific behavior.</p>
-<span class="reference-count"><strong>5</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>4</strong> articles</span>
+<a class="reference-directory-overview-link" href="biomes/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -18,7 +21,7 @@
 <button type="button" data-letter="A" aria-pressed="false">A</button>
 <button type="button" data-letter="B" aria-pressed="false">B</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 5 of 5 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 4 of 4 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ancient forest a rare biome with high magicule count, and home of the spirit tree .">
@@ -30,19 +33,6 @@
 <div class="reference-card-copy">
 <h2>Ancient Forest</h2>
 <p>A rare biome with high magicule count, and home of the Spirit Tree .</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="B" data-search="biomes ancient forest miasmic plains barren lands desert of death">
-<a href="biomes/" aria-label="Open Biomes">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip7-a00a58b38e.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Biomes</h2>
-<p>Ancient Forest Miasmic Plains Barren Lands Desert Of Death</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -543,6 +543,32 @@
   font-size: 1.1rem;
 }
 
+.reference-directory-hero-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .55rem;
+}
+
+.reference-directory-overview-link {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: .42rem .7rem;
+  border: 1px solid rgba(255, 255, 255, .24);
+  border-radius: 999px;
+  color: #fff !important;
+  font-size: .82rem;
+  font-weight: 750;
+  background: rgba(7, 17, 31, .46);
+  backdrop-filter: blur(10px);
+}
+
+.reference-directory-overview-link:hover {
+  border-color: rgba(51, 214, 255, .7);
+  background: rgba(20, 77, 126, .55);
+}
+
 .reference-directory-tools {
   position: sticky;
   z-index: 5;

@@ -22,7 +22,7 @@ This visual library is the base-mod layer of the TSR wiki. Start with a path bel
 <p>Choose a form, understand its requirements, and follow explicit race branches.</p>
 <div class="reference-path-links">
 <a href="core-mechanics/">Core Mechanics <span>34</span></a>
-<a href="races/">Races <span>69</span></a>
+<a href="races/">Races <span>68</span></a>
 </div>
 </div>
 </article>
@@ -40,7 +40,7 @@ This visual library is the base-mod layer of the TSR wiki. Start with a path bel
 <a href="skills/other/">Other Skills <span>6</span></a>
 <a href="resistances/">Resistances <span>43</span></a>
 <a href="magic/">Magic <span>144</span></a>
-<a href="battlewill/">Battlewill <span>24</span></a>
+<a href="battlewill/">Battlewill <span>23</span></a>
 <a href="arts/">Arts <span>0</span></a>
 </div>
 </div>
@@ -51,7 +51,7 @@ This visual library is the base-mod layer of the TSR wiki. Start with a path bel
 <h2>Bestiary &amp; Bosses</h2>
 <p>Meet the creatures, named threats, and major encounters documented upstream.</p>
 <div class="reference-path-links">
-<a href="mobs/">Mobs <span>56</span></a>
+<a href="mobs/">Mobs <span>55</span></a>
 <a href="bosses/">Bosses <span>13</span></a>
 </div>
 </div>
@@ -66,13 +66,13 @@ This visual library is the base-mod layer of the TSR wiki. Start with a path bel
 <a href="weapons/">Weapons <span>91</span></a>
 <a href="armor/">Armor <span>51</span></a>
 <a href="tools/">Tools <span>30</span></a>
-<a href="blocks/">Blocks <span>29</span></a>
-<a href="structures/">Structures <span>13</span></a>
-<a href="biomes/">Biomes <span>5</span></a>
+<a href="blocks/">Blocks <span>28</span></a>
+<a href="structures/">Structures <span>12</span></a>
+<a href="biomes/">Biomes <span>4</span></a>
 <a href="dimensions/">Dimensions <span>0</span></a>
-<a href="commands/">Commands <span>1</span></a>
-<a href="configuration/">Configuration <span>3</span></a>
-<a href="gamerules/">Gamerules <span>1</span></a>
+<a href="commands/">Commands <span>0</span></a>
+<a href="configuration/">Configuration <span>2</span></a>
+<a href="gamerules/">Gamerules <span>0</span></a>
 <a href="version-history/">Version History <span>3</span></a>
 <a href="other/">Other Reference <span>1</span></a>
 </div>

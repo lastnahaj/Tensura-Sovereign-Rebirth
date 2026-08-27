@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Structures</h1>
 <p>Base Tensura structures and generation information.</p>
-<span class="reference-count"><strong>13</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>12</strong> articles</span>
+<a class="reference-directory-overview-link" href="structures/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -26,7 +29,7 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 13 of 13 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 12 of 12 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ant nest upstream reference information for ant nest.">
@@ -155,19 +158,6 @@
 <div class="reference-card-copy">
 <h2>Spider Nest</h2>
 <p>Inside are chests which can contain Sticky Cobweb , Steel Cobweb all Spider Bow variants, Web Gun Schematic , and Spider Egg , among other loot.</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="S" data-search="structures ant nest charybdis cave spider nest">
-<a href="structures/" aria-label="Open Structures">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Structures</h2>
-<p>Ant Nest Charybdis Cave Spider Nest</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

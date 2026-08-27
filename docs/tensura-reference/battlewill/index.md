@@ -5,7 +5,10 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Battlewill</h1>
 <p>Aura-powered Battlewill techniques and manuals.</p>
-<span class="reference-count"><strong>24</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>23</strong> articles</span>
+<a class="reference-directory-overview-link" href="battlewill/">Read collection overview <span aria-hidden="true">→</span></a>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -29,7 +32,7 @@
 <button type="button" data-letter="R" aria-pressed="false">R</button>
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 24 of 24 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 23 of 23 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="air flight use your aura to propel you forward, and hover in air">
@@ -80,19 +83,6 @@
 <div class="reference-card-copy">
 <h2>Aura Sword</h2>
 <p>Coat your weapon in aura enhancing its blows</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="B" data-search="battlewill channel your will, converting magicules into aura">
-<a href="battlewill/" aria-label="Open Battlewill">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/battlewill/battlewill-88fcb5e3c2.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Battlewill</h2>
-<p>Channel your will, converting magicules into aura</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
