@@ -77,63 +77,58 @@ nav:
       - FAQ: faq.md
   - Tensura Reference:
       - Reference Home: tensura-reference/index.md
-      - Core Mechanics: tensura-reference/core-mechanics/index.md
+      - Core Mechanics:
+          - Base Mechanics: tensura-reference/core-mechanics/index.md
+          - Mysticism Mechanics: mysticism-reference/core-mechanics/index.md
       - Races:
-          - Race Directory: tensura-reference/races/index.md
-          - Evolution Relationships: tensura-reference/races/evolution-trees.md
+          - Base Races: tensura-reference/races/index.md
+          - Mysticism Races: mysticism-reference/races/index.md
+          - Base Evolution Relationships: tensura-reference/races/evolution-trees.md
+          - Mysticism Evolution Relationships: mysticism-reference/races/evolution-trees.md
       - Abilities:
-          - Skill Overview: tensura-reference/skills/other/index.md
-          - Intrinsic Skills: tensura-reference/skills/intrinsic/index.md
-          - Common Skills: tensura-reference/skills/common/index.md
-          - Extra Skills: tensura-reference/skills/extra/index.md
-          - Unique Skills: tensura-reference/skills/unique/index.md
-          - Ultimate Skills: tensura-reference/skills/ultimate/index.md
-          - Resistances: tensura-reference/resistances/index.md
-          - Magic: tensura-reference/magic/index.md
-          - Battlewill: tensura-reference/battlewill/index.md
-          - Arts: tensura-reference/arts/index.md
+          - Base Skill Overview: tensura-reference/skills/other/index.md
+          - Mysticism Skill Overview: mysticism-reference/skills/other/index.md
+          - Base Intrinsic Skills: tensura-reference/skills/intrinsic/index.md
+          - Mysticism Intrinsic Skills: mysticism-reference/skills/intrinsic/index.md
+          - Base Common Skills: tensura-reference/skills/common/index.md
+          - Base Extra Skills: tensura-reference/skills/extra/index.md
+          - Mysticism Extra Skills: mysticism-reference/skills/extra/index.md
+          - Base Unique Skills: tensura-reference/skills/unique/index.md
+          - Mysticism Unique Skills: mysticism-reference/skills/unique/index.md
+          - Base Ultimate Skills: tensura-reference/skills/ultimate/index.md
+          - Mysticism Ultimate Skills: mysticism-reference/skills/ultimate/index.md
+          - Base Resistances: tensura-reference/resistances/index.md
+          - Base Magic: tensura-reference/magic/index.md
+          - Mysticism Magic: mysticism-reference/magic/index.md
+          - Base Battlewill: tensura-reference/battlewill/index.md
+          - Base Arts: tensura-reference/arts/index.md
       - World:
-          - Mobs: tensura-reference/mobs/index.md
-          - Bosses: tensura-reference/bosses/index.md
-          - Structures: tensura-reference/structures/index.md
-          - Biomes: tensura-reference/biomes/index.md
-          - Dimensions: tensura-reference/dimensions/index.md
+          - Base Mobs: tensura-reference/mobs/index.md
+          - Mysticism Mobs: mysticism-reference/mobs/index.md
+          - Base Bosses: tensura-reference/bosses/index.md
+          - Base Structures: tensura-reference/structures/index.md
+          - Base Biomes: tensura-reference/biomes/index.md
+          - Mysticism Biomes: mysticism-reference/biomes/index.md
+          - Base Dimensions: tensura-reference/dimensions/index.md
+          - Mysticism Dimensions: mysticism-reference/dimensions/index.md
       - Equipment & Items:
-          - Items & Materials: tensura-reference/items/index.md
-          - Weapons: tensura-reference/weapons/index.md
-          - Armor: tensura-reference/armor/index.md
-          - Tools: tensura-reference/tools/index.md
-          - Blocks: tensura-reference/blocks/index.md
+          - Base Items & Materials: tensura-reference/items/index.md
+          - Mysticism Items & Materials: mysticism-reference/items/index.md
+          - Base Weapons: tensura-reference/weapons/index.md
+          - Mysticism Weapons: mysticism-reference/weapons/index.md
+          - Base Armor: tensura-reference/armor/index.md
+          - Base Tools: tensura-reference/tools/index.md
+          - Base Blocks: tensura-reference/blocks/index.md
+          - Mysticism Blocks: mysticism-reference/blocks/index.md
       - Technical Reference:
-          - Commands: tensura-reference/commands/index.md
-          - Configuration: tensura-reference/configuration/index.md
-          - Gamerules: tensura-reference/gamerules/index.md
-          - Version History: tensura-reference/version-history/index.md
-  - TR Mysticism Reference:
-      - Reference Home: mysticism-reference/index.md
-      - Core Mechanics: mysticism-reference/core-mechanics/index.md
-      - Races:
-          - Race Directory: mysticism-reference/races/index.md
-          - Evolution Relationships: mysticism-reference/races/evolution-trees.md
-      - Abilities:
-          - Skill Overview: mysticism-reference/skills/other/index.md
-          - Intrinsic Skills: mysticism-reference/skills/intrinsic/index.md
-          - Extra Skills: mysticism-reference/skills/extra/index.md
-          - Unique Skills: mysticism-reference/skills/unique/index.md
-          - Ultimate Skills: mysticism-reference/skills/ultimate/index.md
-          - Magic: mysticism-reference/magic/index.md
-      - World:
-          - Mobs: mysticism-reference/mobs/index.md
-          - Biomes: mysticism-reference/biomes/index.md
-          - Dimensions: mysticism-reference/dimensions/index.md
-      - Items & Technical:
-          - Items & Materials: mysticism-reference/items/index.md
-          - Weapons: mysticism-reference/weapons/index.md
-          - Blocks: mysticism-reference/blocks/index.md
-          - Commands: mysticism-reference/commands/index.md
-          - Configuration: mysticism-reference/configuration/index.md
-          - Version History: mysticism-reference/version-history/index.md
-          - Other Reference: mysticism-reference/other/index.md
+          - Base Commands: tensura-reference/commands/index.md
+          - Mysticism Commands: mysticism-reference/commands/index.md
+          - Base Configuration: tensura-reference/configuration/index.md
+          - Mysticism Configuration: mysticism-reference/configuration/index.md
+          - Base Gamerules: tensura-reference/gamerules/index.md
+          - Base Version History: tensura-reference/version-history/index.md
+          - Mysticism Version History: mysticism-reference/version-history/index.md
+          - Mysticism Other Reference: mysticism-reference/other/index.md
   - Character Progression:
       - Race & Evolution: race-and-evolution.md
       - Skills, EP & Magicules: skills-ep-and-magicules.md

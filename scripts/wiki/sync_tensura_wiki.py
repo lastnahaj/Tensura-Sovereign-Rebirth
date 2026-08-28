@@ -1689,19 +1689,72 @@ def generate_reference_index(
         != normalize_title(CATEGORY_INFO[record["category"]][0]).casefold()
     )
     imported_media = sum(record.get("import_status") == "imported" for record in media)
+
+    companion_records: list[dict[str, Any]] = []
+    companion_media: list[dict[str, Any]] = []
+    companion_coverage: dict[str, Any] = {}
+    if SOURCE_KEY == "tensura":
+        companion_pages_path = DATA_ROOT / "upstream_mysticism_pages.json"
+        companion_media_path = DATA_ROOT / "upstream_mysticism_media.json"
+        companion_coverage_path = DATA_ROOT / "upstream_mysticism_coverage.json"
+        if companion_pages_path.exists():
+            companion_records = json.loads(companion_pages_path.read_text(encoding="utf-8")).get("pages", [])
+        if companion_media_path.exists():
+            companion_media = json.loads(companion_media_path.read_text(encoding="utf-8")).get("media", [])
+        if companion_coverage_path.exists():
+            companion_coverage = json.loads(companion_coverage_path.read_text(encoding="utf-8"))
+
+    combined_reference = SOURCE_KEY == "tensura" and bool(companion_records)
+    companion_category_totals = Counter(record["category"] for record in companion_records)
+    companion_category_counts = Counter(
+        record["category"]
+        for record in companion_records
+        if normalize_title(record["display_title"]).casefold()
+        != normalize_title(CATEGORY_INFO[record["category"]][0]).casefold()
+    )
+    total_articles = len(records) + len(companion_records)
+    total_aliases = sum(item.get("status") == "processed" for item in redirects) + int(
+        companion_coverage.get("redirects_processed", 0)
+    )
+    total_media = imported_media + sum(item.get("import_status") == "imported" for item in companion_media)
+
+    reference_title = "Tensura Reference" if combined_reference else SOURCE_REFERENCE_TITLE
+    if combined_reference:
+        reference_intro = (
+            "This visual library combines the base Tensura and TR Mysticism collections in one reference experience. "
+            "Start with a path below, choose the source collection you need, then filter articles or open one for its "
+            "source imagery, at-a-glance summary, infobox, and expandable details."
+        )
+    elif SOURCE_KEY == "mysticism":
+        reference_intro = (
+            "This source view is part of the combined [Tensura Reference](../tensura-reference/index.md) and is adapted "
+            f"from the {SOURCE_WIKI_NAME}. Start with a path below, filter a collection, then open an article for its "
+            "source imagery, at-a-glance summary, infobox, and expandable details."
+        )
+    else:
+        reference_intro = (
+            f"This visual library is the {SOURCE_CONTEXT_LABEL} layer of the TSR wiki, adapted from the "
+            f"{SOURCE_WIKI_NAME}. Start with a path below, filter a collection, then open an article for its source "
+            "imagery, at-a-glance summary, infobox, and expandable details."
+        )
+
     lines = [
-        f"# {SOURCE_REFERENCE_TITLE}",
+        f"# {reference_title}",
         "",
-        f"This visual library is the {SOURCE_CONTEXT_LABEL} layer of the TSR wiki, adapted from the {SOURCE_WIKI_NAME}. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.",
+        reference_intro,
         "",
         "!!! warning \"Version context\"",
         "    Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.",
         "",
         '<div class="reference-metric-grid">',
-        f'<div><strong>{len(records)}</strong><span>articles</span></div>',
-        f'<div><strong>{sum(item.get("status") == "processed" for item in redirects)}</strong><span>local aliases</span></div>',
-        f'<div><strong>{imported_media}</strong><span>source images</span></div>',
-        f'<div><strong>{len(category_totals)}</strong><span>collections</span></div>',
+        f'<div><strong>{total_articles}</strong><span>articles</span></div>',
+        f'<div><strong>{total_aliases}</strong><span>local aliases</span></div>',
+        f'<div><strong>{total_media}</strong><span>source images</span></div>',
+        (
+            '<div><strong>2</strong><span>audited sources</span></div>'
+            if combined_reference
+            else f'<div><strong>{len(category_totals)}</strong><span>collections</span></div>'
+        ),
         "</div>",
         "",
         "## Choose a path",
@@ -1722,16 +1775,24 @@ def generate_reference_index(
             ]
         )
         for category in categories:
-            if not category_totals.get(category):
-                continue
             category_title = CATEGORY_INFO[category][0]
             target = (PurePosixPath(category) / "index.md").as_posix()
-            category_count = category_counts.get(category, 0)
-            count_label = str(category_count) if category_count else "Overview"
-            lines.append(
-                f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'
-                f"{html.escape(category_title)} <span>{count_label}</span></a>"
-            )
+            if category_totals.get(category):
+                category_count = category_counts.get(category, 0)
+                count_label = str(category_count) if category_count else "Overview"
+                link_label = f"Base {category_title}" if combined_reference else category_title
+                lines.append(
+                    f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'
+                    f"{html.escape(link_label)} <span>{count_label}</span></a>"
+                )
+            if combined_reference and companion_category_totals.get(category):
+                companion_count = companion_category_counts.get(category, 0)
+                companion_count_label = str(companion_count) if companion_count else "Overview"
+                companion_target = PurePosixPath("mysticism-reference") / target
+                lines.append(
+                    f'<a href="{rendered_page_relative_url(index_page, companion_target)}">'
+                    f"Mysticism {html.escape(category_title)} <span>{companion_count_label}</span></a>"
+                )
         lines.extend(["</div>", "</div>", "</article>"])
     lines.extend(
         [
@@ -1741,17 +1802,15 @@ def generate_reference_index(
             "",
             "Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated upstream pages include a TSR section only when a verified project-specific overlay exists.",
             "",
-            f"See [Upstream Attribution](../project/{ATTRIBUTION_REPORT.name}) and [Ingestion Coverage](../project/{COVERAGE_REPORT.name}) for licensing and audit details.",
-            "",
-        ]
-    )
-    companion_slug = "mysticism-reference" if SOURCE_KEY == "tensura" else "tensura-reference"
-    companion_label = "TR Mysticism Reference" if SOURCE_KEY == "tensura" else "Base Tensura Reference"
-    lines.extend(
-        [
-            "## Companion reference",
-            "",
-            f"Continue with the [{companion_label}](../{companion_slug}/index.md) for the other documented content layer.",
+            (
+                "See the base [Upstream Attribution](../project/upstream-attribution.md) and "
+                "[Ingestion Coverage](../project/ingestion-coverage.md), plus the Mysticism "
+                "[Upstream Attribution](../project/mysticism-upstream-attribution.md) and "
+                "[Ingestion Coverage](../project/mysticism-ingestion-coverage.md), for licensing and audit details."
+                if combined_reference
+                else f"See [Upstream Attribution](../project/{ATTRIBUTION_REPORT.name}) and "
+                f"[Ingestion Coverage](../project/{COVERAGE_REPORT.name}) for licensing and audit details."
+            ),
             "",
         ]
     )

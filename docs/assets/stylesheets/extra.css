@@ -345,6 +345,59 @@
   background: linear-gradient(135deg, var(--tsr-blue), #5842bd);
 }
 
+.collapsible-header {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0 0;
+  padding: .62rem .8rem;
+  border: 1px solid rgba(51, 214, 255, .2);
+  border-radius: .55rem;
+  color: var(--tsr-cyan);
+  font: inherit;
+  font-size: .84rem;
+  font-weight: 750;
+  text-align: left;
+  cursor: pointer;
+  background: rgba(7, 17, 31, .26);
+}
+
+.collapsible-header::after {
+  content: "＋";
+  color: var(--tsr-cyan);
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.collapsible-header[aria-expanded="true"] {
+  border-color: var(--tsr-cyan);
+  background: rgba(21, 87, 213, .16);
+}
+
+.collapsible-header[aria-expanded="true"]::after {
+  content: "−";
+}
+
+.collapsible-header:hover,
+.collapsible-header:focus-visible {
+  border-color: var(--tsr-cyan);
+  color: #fff;
+}
+
+.collapsible-content[hidden] {
+  display: none;
+}
+
+.collapsible-content {
+  margin: 0 0 .7rem;
+  padding: .1rem .8rem .2rem;
+  border-right: 1px solid rgba(51, 214, 255, .1);
+  border-bottom: 1px solid rgba(51, 214, 255, .1);
+  border-left: 1px solid rgba(51, 214, 255, .1);
+  border-radius: 0 0 .55rem .55rem;
+}
+
 .reference-section {
   clear: left;
   margin: .7rem 0;

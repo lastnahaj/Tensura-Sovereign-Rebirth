@@ -15,7 +15,6 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 [Get Started](getting-started.md){ .md-button .md-button--primary }
 [Search the Tensura Reference](tensura-reference/index.md){ .md-button }
-[Explore TR Mysticism](mysticism-reference/index.md){ .md-button }
 [Explore TSR Progression](progression-overview.md){ .md-button }
 
 </div>
@@ -26,7 +25,7 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <span class="tsr-status">Version 1 Beta</span>
 
-The wiki combines self-contained references for base Tensura and TR Mysticism with the verified TSR modpack layer. The current upstream snapshots contain **1,339 relevant articles**, **394 local redirect aliases**, **1,786 locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
+The wiki combines base Tensura and TR Mysticism in one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,339 relevant articles**, **394 local redirect aliases**, **1,786 locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
 
 ## Choose your path
 
@@ -38,8 +37,10 @@ The wiki combines self-contained references for base Tensura and TR Mysticism wi
 <h2>Reincarnate & Evolve</h2>
 <p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/races/">Races <span>68</span></a>
-<a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
+<a href="tensura-reference/races/">Base Races <span>68</span></a>
+<a href="mysticism-reference/races/">Mysticism Races <span>198</span></a>
+<a href="tensura-reference/races/evolution-trees/">Base evolution paths</a>
+<a href="mysticism-reference/races/evolution-trees/">Mysticism evolution paths</a>
 </div>
 </div>
 </article>
@@ -50,8 +51,10 @@ The wiki combines self-contained references for base Tensura and TR Mysticism wi
 <h2>Master Skills & Magic</h2>
 <p>Filter abilities, spells, resistances, and Battlewill by the way you want to build.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/skills/unique/">Unique Skills <span>58</span></a>
-<a href="tensura-reference/magic/">Magic <span>144</span></a>
+<a href="tensura-reference/skills/unique/">Base Unique Skills <span>58</span></a>
+<a href="mysticism-reference/skills/unique/">Mysticism Unique Skills <span>33</span></a>
+<a href="tensura-reference/magic/">Base Magic <span>144</span></a>
+<a href="mysticism-reference/skills/ultimate/">Mysticism Ultimate Skills <span>33</span></a>
 </div>
 </div>
 </article>
@@ -62,8 +65,9 @@ The wiki combines self-contained references for base Tensura and TR Mysticism wi
 <h2>Hunt & Conquer</h2>
 <p>Browse the animated bestiary and review major encounters before you challenge them.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/mobs/">Mobs <span>56</span></a>
-<a href="tensura-reference/bosses/">Bosses <span>13</span></a>
+<a href="tensura-reference/mobs/">Base Mobs <span>56</span></a>
+<a href="mysticism-reference/mobs/">Mysticism Mobs <span>5</span></a>
+<a href="tensura-reference/bosses/">Base Bosses <span>13</span></a>
 </div>
 </div>
 </article>
@@ -74,38 +78,9 @@ The wiki combines self-contained references for base Tensura and TR Mysticism wi
 <h2>Build a Sovereignty</h2>
 <p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/items/">Items <span>201</span></a>
-<a href="tensura-reference/structures/">Structures <span>13</span></a>
-</div>
-</div>
-</article>
-
-</div>
-
-## Explore TR Mysticism
-
-<div class="reference-path-grid">
-
-<article class="reference-path-card reference-theme-evolution">
-<img src="assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Mysticism Races</h2>
-<p>Browse the companion add-on's race forms, visual infoboxes, requirements, and evolution relationships.</p>
-<div class="reference-path-links">
-<a href="mysticism-reference/races/">Race Directory <span>198</span></a>
-<a href="mysticism-reference/races/evolution-trees/">Evolution paths</a>
-</div>
-</div>
-</article>
-
-<article class="reference-path-card reference-theme-abilities">
-<img src="assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Mysticism Skills</h2>
-<p>Explore the add-on's illustrated Intrinsic, Extra, Unique, Ultimate, and supporting skill collections.</p>
-<div class="reference-path-links">
-<a href="mysticism-reference/skills/unique/">Unique Skills <span>33</span></a>
-<a href="mysticism-reference/skills/ultimate/">Ultimate Skills <span>33</span></a>
+<a href="tensura-reference/items/">Base Items <span>201</span></a>
+<a href="mysticism-reference/biomes/">Mysticism Biomes <span>8</span></a>
+<a href="tensura-reference/structures/">Base Structures <span>13</span></a>
 </div>
 </div>
 </article>
