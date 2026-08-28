@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Common Skills</h1>
 <p>Common skills and broadly available abilities.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>16</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">

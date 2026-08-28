@@ -4,10 +4,9 @@
 <div class="reference-directory-hero-copy">
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Mobs</h1>
-<p>The base mod&#x27;s documented entity catalog.</p>
+<p>Documented entity catalog.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>55</strong> articles</span>
-<a class="reference-directory-overview-link" href="mobs/">Read collection overview <span aria-hidden="true">→</span></a>
+<span class="reference-count"><strong>60</strong> articles</span>
 </div>
 </div>
 </header>
@@ -36,9 +35,22 @@
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 55 of 55 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 60 of 60 articles</p>
 </div>
 <div class="reference-card-grid">
+<article class="reference-card" data-letter="A" data-search="ai hoshino whenever an otherworlder spawns, it has a 12.6% chance for it to be ai hoshino.">
+<a href="../../mysticism-reference/mobs/mobs-ai-hoshino/" aria-label="Open Ai Hoshino">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/mobs/ai-hoshino-65a24ab81d.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Ai Hoshino</h2>
+<p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Ai Hoshino.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="A" data-search="aqua frog a medium spirit of water, can be summoned using summon medium elemental">
 <a href="mobs-aqua-frog/" aria-label="Open Aqua Frog">
 <figure class="reference-card-media reference-card-media--source">
@@ -507,6 +519,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="memoires 0.1% chance to spawn in the elemental realm">
+<a href="../../mysticism-reference/mobs/mobs-memoires/" aria-label="Open Memoires">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/mobs/memoires-159c788bdb.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Memoires</h2>
+<p>0.1% Chance to spawn in the Elemental Realm</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="metal slime 5 - 8 magic ore shard (affected by looting) 1 high quality magic crystal can be tamed with magic ore or pure magisteel nugget slime mobs takes 50% of the input physical…">
 <a href="mobs-metal-slime/" aria-label="Open Metal Slime">
 <figure class="reference-card-media reference-card-media--source">
@@ -585,6 +610,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="O" data-search="okami a mob useful if player wants to be a tengu race.">
+<a href="../../mysticism-reference/mobs/mobs-okami/" aria-label="Open Okami">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/mobs/okami2-ff114baf03.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Okami</h2>
+<p>A mob useful if player wants to be a Tengu race.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="O" data-search="one eyed owl 1 eye of ender 0 - 1 invisible feather 1 low quality magic crystal">
 <a href="mobs-one-eyed-owl/" aria-label="Open One Eyed Owl">
 <figure class="reference-card-media reference-card-media--source">
@@ -633,6 +671,19 @@
 <div class="reference-card-copy">
 <h2>Salamander</h2>
 <p>A medium spirit of fire, can be summoned with Summon Medium Elemental</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="shadow imp a medium spirit of darkness.">
+<a href="../../mysticism-reference/mobs/mobs-shadow-imp/" aria-label="Open Shadow Imp">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/mobs/shadow-imp-376fb9721e.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Shadow Imp</h2>
+<p>A Medium Spirit of Darkness.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -750,6 +801,19 @@
 <div class="reference-card-copy">
 <h2>Winged Cat</h2>
 <p>A medium spirit of space, can be summoned with Summon Medium Elemental</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="W" data-search="winged lion a medium spirit of light.">
+<a href="../../mysticism-reference/mobs/mobs-winged-lion/" aria-label="Open Winged Lion">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/mobs/lion-model-59fe135718.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Winged Lion</h2>
+<p>A Medium Spirit of Light.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

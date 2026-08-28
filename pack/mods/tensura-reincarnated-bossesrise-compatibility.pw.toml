@@ -1,0 +1,13 @@
+name = "Tensura Reincarnated & Bosses'Rise Compatibility"
+filename = "bossesrisetensuracompat-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41d7333e6a829be7f1c5dd423ed511068c4fe07f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8644620
+project-id = 1651764

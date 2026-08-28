@@ -1503,6 +1503,36 @@ def load_overlays() -> dict[str, dict[str, Any]]:
     return {normalize_title(title): value for title, value in data.get("overlays", {}).items()}
 
 
+def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
+    data_stem = f"upstream_{source_key}"
+    pages_path = DATA_ROOT / f"{data_stem}_pages.json"
+    media_path = DATA_ROOT / f"{data_stem}_media.json"
+    coverage_path = DATA_ROOT / f"{data_stem}_coverage.json"
+    if not pages_path.exists():
+        return [], [], {}
+
+    records = json.loads(pages_path.read_text(encoding="utf-8")).get("pages", [])
+    media = json.loads(media_path.read_text(encoding="utf-8")).get("media", []) if media_path.exists() else []
+    coverage = json.loads(coverage_path.read_text(encoding="utf-8")) if coverage_path.exists() else {}
+    media_lookup = {
+        normalize_title(item["source_title"]): item
+        for item in media
+        if item.get("source_title")
+    }
+    attach_page_media(records, media_lookup)
+    for record in records:
+        local_page = DOCS / record["local_page"]
+        record["_html"] = local_page.read_text(encoding="utf-8") if local_page.exists() else ""
+    return records, media, coverage
+
+
+def combined_reference_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    if SOURCE_KEY != "tensura":
+        return records
+    companion_records, _, _ = load_reference_snapshot("mysticism")
+    return records + companion_records
+
+
 def extract_race_evolution(record: dict[str, Any]) -> dict[str, list[str]]:
     soup = BeautifulSoup(record["_html"], "html.parser")
     output: dict[str, list[str]] = {}
@@ -1524,7 +1554,13 @@ def extract_race_evolution(record: dict[str, Any]) -> dict[str, list[str]]:
 
 
 def generate_evolution_index(records: list[dict[str, Any]]) -> str:
-    race_records = [record for record in records if record["category"] == "races"]
+    race_title = normalize_title(CATEGORY_INFO["races"][0]).casefold()
+    race_records = [
+        record
+        for record in records
+        if record["category"] == "races"
+        and normalize_title(record["display_title"]).casefold() != race_title
+    ]
     sections = [
         "# Race Evolution Relationships",
         "",
@@ -1577,17 +1613,22 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         if normalize_title(record["display_title"]).casefold()
         == normalize_title(title).casefold()
     ]
-    overview_record = (
-        source_title_overviews[0]
-        if source_title_overviews
-        else display_title_overviews[0]
-        if display_title_overviews
-        else None
-    )
+    overview_records: list[dict[str, Any]] = []
+    seen_overview_pages: set[str] = set()
+    for record in source_title_overviews + display_title_overviews:
+        if record["local_page"] in seen_overview_pages:
+            continue
+        seen_overview_pages.add(record["local_page"])
+        overview_records.append(record)
+    overview_local_pages = {
+        record["local_page"] for record in overview_records
+    }
     index_page = (PurePosixPath(REFERENCE_SLUG) / category / "index.md").as_posix()
     hero_asset = rendered_asset_relative_url(index_page, visual_asset(category))
+    source_roots = {PurePosixPath(record["local_page"]).parts[0] for record in category_records}
+    combined_directory = len(source_roots) > 1
     ordered = sorted(
-        [record for record in category_records if record is not overview_record],
+        [record for record in category_records if record["local_page"] not in overview_local_pages],
         key=lambda item: item["display_title"].casefold(),
     )
     letters = sorted(
@@ -1610,10 +1651,15 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         '<div class="reference-directory-hero-actions">',
         f'<span class="reference-count"><strong>{len(ordered)}</strong> articles</span>',
     ]
-    if overview_record:
-        lines.append(
-            f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, overview_record["local_page"])}">Read collection overview <span aria-hidden="true">→</span></a>'
-        )
+    visible_overviews = (
+        overview_records if combined_directory and not ordered else overview_records[:1]
+    )
+    if not combined_directory or not ordered:
+        for position, overview_record in enumerate(visible_overviews):
+            label = "Read collection overview" if position == 0 else "Read additional overview"
+            lines.append(
+                f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, overview_record["local_page"])}">{label} <span aria-hidden="true">→</span></a>'
+            )
     lines.extend(
         [
         "</div>",
@@ -1694,21 +1740,14 @@ def generate_reference_index(
     companion_media: list[dict[str, Any]] = []
     companion_coverage: dict[str, Any] = {}
     if SOURCE_KEY == "tensura":
-        companion_pages_path = DATA_ROOT / "upstream_mysticism_pages.json"
-        companion_media_path = DATA_ROOT / "upstream_mysticism_media.json"
-        companion_coverage_path = DATA_ROOT / "upstream_mysticism_coverage.json"
-        if companion_pages_path.exists():
-            companion_records = json.loads(companion_pages_path.read_text(encoding="utf-8")).get("pages", [])
-        if companion_media_path.exists():
-            companion_media = json.loads(companion_media_path.read_text(encoding="utf-8")).get("media", [])
-        if companion_coverage_path.exists():
-            companion_coverage = json.loads(companion_coverage_path.read_text(encoding="utf-8"))
+        companion_records, companion_media, companion_coverage = load_reference_snapshot("mysticism")
 
     combined_reference = SOURCE_KEY == "tensura" and bool(companion_records)
-    companion_category_totals = Counter(record["category"] for record in companion_records)
-    companion_category_counts = Counter(
+    all_records = records + companion_records
+    all_category_totals = Counter(record["category"] for record in all_records)
+    all_category_counts = Counter(
         record["category"]
-        for record in companion_records
+        for record in all_records
         if normalize_title(record["display_title"]).casefold()
         != normalize_title(CATEGORY_INFO[record["category"]][0]).casefold()
     )
@@ -1721,8 +1760,8 @@ def generate_reference_index(
     reference_title = "Tensura Reference" if combined_reference else SOURCE_REFERENCE_TITLE
     if combined_reference:
         reference_intro = (
-            "This visual library combines the base Tensura and TR Mysticism collections in one reference experience. "
-            "Start with a path below, choose the source collection you need, then filter articles or open one for its "
+            "This visual library presents every imported Tensura article in one reference experience. "
+            "Start with a path below, filter the collection, then open an article for its "
             "source imagery, at-a-glance summary, infobox, and expandable details."
         )
     elif SOURCE_KEY == "mysticism":
@@ -1775,24 +1814,16 @@ def generate_reference_index(
             ]
         )
         for category in categories:
+            if not all_category_totals.get(category):
+                continue
             category_title = CATEGORY_INFO[category][0]
             target = (PurePosixPath(category) / "index.md").as_posix()
-            if category_totals.get(category):
-                category_count = category_counts.get(category, 0)
-                count_label = str(category_count) if category_count else "Overview"
-                link_label = f"Base {category_title}" if combined_reference else category_title
-                lines.append(
-                    f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'
-                    f"{html.escape(link_label)} <span>{count_label}</span></a>"
-                )
-            if combined_reference and companion_category_totals.get(category):
-                companion_count = companion_category_counts.get(category, 0)
-                companion_count_label = str(companion_count) if companion_count else "Overview"
-                companion_target = PurePosixPath("mysticism-reference") / target
-                lines.append(
-                    f'<a href="{rendered_page_relative_url(index_page, companion_target)}">'
-                    f"Mysticism {html.escape(category_title)} <span>{companion_count_label}</span></a>"
-                )
+            category_count = all_category_counts.get(category, 0)
+            count_label = str(category_count) if category_count else "Overview"
+            lines.append(
+                f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'
+                f"{html.escape(category_title)} <span>{count_label}</span></a>"
+            )
         lines.extend(["</div>", "</div>", "</article>"])
     lines.extend(
         [
@@ -1803,7 +1834,7 @@ def generate_reference_index(
             "Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated upstream pages include a TSR section only when a verified project-specific overlay exists.",
             "",
             (
-                "See the base [Upstream Attribution](../project/upstream-attribution.md) and "
+                "See the Tensura: Reincarnated [Upstream Attribution](../project/upstream-attribution.md) and "
                 "[Ingestion Coverage](../project/ingestion-coverage.md), plus the Mysticism "
                 "[Upstream Attribution](../project/mysticism-upstream-attribution.md) and "
                 "[Ingestion Coverage](../project/mysticism-ingestion-coverage.md), for licensing and audit details."
@@ -2069,6 +2100,32 @@ def normalize_generated_text(value: str) -> str:
     return "\n".join(line.rstrip() for line in value.splitlines()).rstrip() + "\n"
 
 
+def write_reference_indexes(
+    siteinfo: dict[str, Any],
+    page_records: list[dict[str, Any]],
+    redirect_records: list[dict[str, Any]],
+    media_records: list[dict[str, Any]],
+) -> None:
+    index_records = combined_reference_records(page_records)
+    for category in CATEGORY_ORDER:
+        index = REFERENCE_ROOT / Path(category) / "index.md"
+        index.parent.mkdir(parents=True, exist_ok=True)
+        index.write_text(
+            normalize_generated_text(generate_category_index(category, index_records)),
+            encoding="utf-8",
+        )
+    evolution_path = REFERENCE_ROOT / "races" / "evolution-trees.md"
+    evolution_path.write_text(
+        normalize_generated_text(generate_evolution_index(index_records)), encoding="utf-8"
+    )
+    (REFERENCE_ROOT / "index.md").write_text(
+        normalize_generated_text(
+            generate_reference_index(siteinfo, page_records, redirect_records, media_records)
+        ),
+        encoding="utf-8",
+    )
+
+
 def audit_generated_links(root: Path) -> list[str]:
     errors: list[str] = []
     markdown_link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
@@ -2124,9 +2181,34 @@ def main() -> int:
     parser.add_argument("--cache-dir", type=Path)
     parser.add_argument("--pace", type=float, default=0.18, help="Minimum seconds between requests")
     parser.add_argument("--limit", type=int, help="Development-only canonical article limit")
+    parser.add_argument(
+        "--rebuild-indexes-only",
+        action="store_true",
+        help="Rebuild generated collection indexes from the checked-in snapshots without network access",
+    )
     args = parser.parse_args()
 
     default_cache = configure_source(args.source)
+    if args.rebuild_indexes_only:
+        page_records, media_records, coverage = load_reference_snapshot(SOURCE_KEY)
+        if not page_records:
+            raise RuntimeError(f"No checked-in {SOURCE_KEY} reference snapshot is available")
+        redirect_records = [
+            {"status": "processed"}
+            for _ in range(int(coverage.get("redirects_processed", 0)))
+        ]
+        write_reference_indexes(
+            coverage.get("site_statistics", {}), page_records, redirect_records, media_records
+        )
+        generated_link_errors = audit_generated_links(REFERENCE_ROOT)
+        if generated_link_errors:
+            raise RuntimeError("\n".join(generated_link_errors[:40]))
+        print(
+            f"Rebuilt {SOURCE_KEY} reference indexes from {len(page_records)} checked-in articles",
+            flush=True,
+        )
+        return 0
+
     client = ApiClient(args.cache_dir or default_cache, refresh=args.refresh, pace=max(args.pace, 0.05))
     siteinfo = fetch_siteinfo(client)
     canonical = enumerate_pages(client, "nonredirects")
@@ -2192,23 +2274,7 @@ def main() -> int:
             encoding="utf-8",
         )
 
-    for category in CATEGORY_ORDER:
-        index = REFERENCE_ROOT / Path(category) / "index.md"
-        index.parent.mkdir(parents=True, exist_ok=True)
-        index.write_text(
-            normalize_generated_text(generate_category_index(category, page_records)),
-            encoding="utf-8",
-        )
-    evolution_path = REFERENCE_ROOT / "races" / "evolution-trees.md"
-    evolution_path.write_text(
-        normalize_generated_text(generate_evolution_index(page_records)), encoding="utf-8"
-    )
-    (REFERENCE_ROOT / "index.md").write_text(
-        normalize_generated_text(
-            generate_reference_index(siteinfo, page_records, redirect_records, media_records)
-        ),
-        encoding="utf-8",
-    )
+    write_reference_indexes(siteinfo, page_records, redirect_records, media_records)
     generated_link_errors = audit_generated_links(REFERENCE_ROOT)
     counters["broken_links_remaining"] = len(generated_link_errors)
 

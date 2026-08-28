@@ -1,0 +1,13 @@
+name = "Bosses'Rise - Epic Souls like boss fights"
+filename = "block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8123167
+project-id = 1314084

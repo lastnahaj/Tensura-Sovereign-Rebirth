@@ -4,10 +4,9 @@
 <div class="reference-directory-hero-copy">
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Configuration</h1>
-<p>Base Tensura configuration reference.</p>
+<p>Configuration reference.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>2</strong> articles</span>
-<a class="reference-directory-overview-link" href="config/">Read collection overview <span aria-hidden="true">→</span></a>
+<span class="reference-count"><strong>3</strong> articles</span>
 </div>
 </div>
 </header>
@@ -21,7 +20,7 @@
 <button type="button" data-letter="C" aria-pressed="false">C</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 2 of 2 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 3 of 3 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="C" data-search="client switch to true for spiders to have a more friendly appearance default: false arachnophobiamode = false wip wip wip wip wip wip">
@@ -33,6 +32,19 @@
 <div class="reference-card-copy">
 <h2>Client</h2>
 <p>Switch to true for Spiders to have a more friendly appearance Default: false arachnophobiaMode = false wip wip wip wip wip wip</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="C" data-search="config in order to access the config, first go to your modpack/profile&#x27;s directory (this is the one that contains folders for mods, logs, crash reports, the config, etc.) and…">
+<a href="../../mysticism-reference/configuration/config/" aria-label="Open Config">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Config</h2>
+<p>In order to access the config, first go to your modpack/profile&#x27;s directory (this is the one that contains folders for mods, logs, crash reports, the config, etc.) and…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

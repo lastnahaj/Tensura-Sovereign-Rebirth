@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
-<span class="reference-count"><strong>201</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>204</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -37,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 201 of 201 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 204 of 204 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1349,6 +1351,45 @@
 <div class="reference-card-copy">
 <h2>Items</h2>
 <p>Tensura:Reincarnated adds a number of unique and interesting Items.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="items mob drops ores">
+<a href="../../mysticism-reference/items/items/" aria-label="Open Items">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Items</h2>
+<p>Mob Drops Ores</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="items/mob drops cryptid essence flame essence ice essence lightning essence">
+<a href="../../mysticism-reference/items/items-mob-drops/" aria-label="Open Items/Mob Drops">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Items/Mob Drops</h2>
+<p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="items/ores ice essence">
+<a href="../../mysticism-reference/items/items-ores/" aria-label="Open Items/Ores">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Items/Ores</h2>
+<p>Ice Essence</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

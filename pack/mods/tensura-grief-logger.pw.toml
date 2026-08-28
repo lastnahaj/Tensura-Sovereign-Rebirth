@@ -1,0 +1,13 @@
+name = "Tensura: Grief Logger"
+filename = "trgrieflogger-neoforge-1.2.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "3ba7e304ad3dfff50dc01c26bd0e75ba37215612"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7918332
+project-id = 1501613

@@ -1,14 +1,13 @@
 # Unique Monsters
 
-Tensura: Unique Monsters adds rare enhanced monsters that make ordinary exploration less predictable.
+<span class="tsr-status">Deferred — not active</span>
 
-## TSR use
+Tensura: Unique Monsters is **not included in the playable beta runtime**. Its official 1.0.2 artifact can enter a reproducible parallel-construction race before the ManasCore skill registry is available, preventing a reliable dedicated-server start.
 
-- low enough spawn rates to make encounters meaningful,
-- utility/passive/citizen entities blacklisted,
-- bosses blacklisted unless explicitly tested,
-- selected dimensions may use custom rates.
+## What players should expect
 
-Great Sage/Appraisal-style analysis is intended to matter when encountering these threats.
+- No Unique Monsters spawns, progression, skills, rewards, or quests are claimed as active.
+- The diagnostic compatibility bridge is not distributed with the playable profile.
+- Boss and rare-encounter variety currently comes from the active or under-validation systems listed under [Bosses & Dimensions](bosses-and-dimensions.md).
 
-The planned FTB branch focuses on discovery, analysis, hunting different species, and defeating increasingly dangerous Unique Monsters.
+The original discovery-and-hunting concept remains a design record only. The mod can return only after an upstream lifecycle fix passes isolated construction, full-profile startup, restart, and gameplay tests. See [Unique Monsters Compatibility](development/unique-monsters-compatibility.md) for the reproduced blocker.

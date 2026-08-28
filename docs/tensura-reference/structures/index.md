@@ -4,7 +4,7 @@
 <div class="reference-directory-hero-copy">
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Structures</h1>
-<p>Base Tensura structures and generation information.</p>
+<p>Documented structures and generation information.</p>
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>12</strong> articles</span>
 <a class="reference-directory-overview-link" href="structures/">Read collection overview <span aria-hidden="true">→</span></a>

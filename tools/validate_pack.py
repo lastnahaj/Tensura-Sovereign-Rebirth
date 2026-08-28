@@ -23,6 +23,14 @@ PACK_OWNED_JARS = {
         "57155d3ffe03155029bb3c04b09fbb1b2a1e427cb9c5ef7f32a64af601d20514",
 }
 DIRECT_DEPENDENCIES = {
+    Path("mods/beyond-adventures.pw.toml"): {
+        "name": "Beyond Adventures",
+        "filename": "Beyond_Adventures-Neoforge-1.1.9.jar",
+        "side": "both",
+        "url": "https://cdn.modrinth.com/data/8gmeH2WM/versions/Ybm5N8pk/Beyond_Adventures-Neoforge-1.1.9.jar",
+        "hash-format": "sha512",
+        "hash": "db5951096dceba302ae36cea58d140c462fbe91b92948c7e57266e63988afb9a5ac584f7d7cacc8e5c5f7bdf69a12d32c8d1abd71dd9ac988264d3fe5e95876b",
+    },
     Path("mods/ponder.pw.toml"): {
         "name": "Ponder",
         "filename": "ponder-neoforge-1.0.81+mc1.21.1.jar",
@@ -85,6 +93,35 @@ REQUIRED_PHASE_4_CONFIGS = {
     Path("tenmetalworks-common.toml"),
     Path("toms_storage-common.toml"),
     Path("toms_storage-server.toml"),
+}
+EXPECTED_CLIENT_OPTIONS = {
+    "enableVsync": "false",
+    "gamma": "1.0",
+    "guiScale": "2",
+    "maxFps": "150",
+    "renderDistance": "8",
+    "simulationDistance": "8",
+    "bobView": "false",
+    "resourcePacks": "[]",
+    "incompatibleResourcePacks": "[]",
+    "key_tensura.keybinding.ability.slot_1": "key.keyboard.z",
+    "key_tensura.keybinding.ability.slot_2": "key.keyboard.x",
+    "key_tensura.keybinding.ability.slot_3": "key.keyboard.c",
+}
+UNBOUND_CLIENT_OPTIONS = {
+    "key_key.saveToolbarActivator",
+    "key_key.loadToolbarActivator",
+    "key_key.sophisticatedbackpacks.inventory_interaction",
+    "key_key.twilightforest.item_display_map_cycle",
+    "key_key.twilightforest.zoom",
+    "key_key.block_factorys_bosses.dodge_roll",
+    "key_key.silentgear.cycle.back",
+    "key_key.silentgear.cycle.next",
+    "key_key.silentgear.openItem",
+    "key_key.cataclysm.helmet_ability",
+    "key_gui.xaero_enlarge_map",
+    "key_key.legendary_monsters.fiery_boots_ability",
+    "key_key.legendary_monsters.helmet_ability",
 }
 
 
@@ -201,6 +238,22 @@ for path in config_files:
             json.loads(path.read_text(encoding="utf-8"))
     except (OSError, tomllib.TOMLDecodeError, json.JSONDecodeError) as exc:
         errors.append(f"Invalid config {path.relative_to(CONFIG)}: {exc}")
+
+client_options_path = PACK / "options.txt"
+try:
+    client_options = dict(
+        line.split(":", 1)
+        for line in client_options_path.read_text(encoding="utf-8").splitlines()
+        if ":" in line
+    )
+    for key, expected in EXPECTED_CLIENT_OPTIONS.items():
+        if client_options.get(key) != expected:
+            errors.append(f"Client option {key} must remain {expected!r}")
+    for key in sorted(UNBOUND_CLIENT_OPTIONS):
+        if client_options.get(key) != "key.keyboard.unknown":
+            errors.append(f"Conflicting client keybind must remain unbound: {key}")
+except OSError as exc:
+    errors.append(f"Missing client options baseline: {exc}")
 
 runtime_state = CONFIG / "stextras" / "internal" / "tensura_config_patcher_state.toml"
 if runtime_state.exists():

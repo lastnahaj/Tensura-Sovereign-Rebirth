@@ -1,0 +1,18 @@
+name = "Beyond Adventures"
+filename = "Beyond_Adventures-Neoforge-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "db5951096dceba302ae36cea58d140c462fbe91b92948c7e57266e63988afb9a5ac584f7d7cacc8e5c5f7bdf69a12d32c8d1abd71dd9ac988264d3fe5e95876b"
+mode = "url"
+url = "https://cdn.modrinth.com/data/8gmeH2WM/versions/Ybm5N8pk/Beyond_Adventures-Neoforge-1.1.9.jar"
+
+[update]
+[update.curseforge]
+file-id = 8634809
+project-id = 1490800
+
+[update.modrinth]
+mod-id = "8gmeH2WM"
+version = "Ybm5N8pk"

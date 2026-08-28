@@ -1,0 +1,2 @@
+# Set this to true only after reading and accepting https://aka.ms/MinecraftEULA
+eula=false

@@ -1,37 +1,51 @@
-# Unique Monsters Compatibility
+# Unique Monsters Compatibility Blocker
 
-Tensura: Unique Monsters 1.0.2 remains a required Version 1 (Beta) component. TSR uses the official CurseForge project 1489273, file 7844220 without modifying it.
+## Disposition
 
-| Artifact | Verification |
+Tensura: Unique Monsters 1.0.2 is `DEFERRED-BLOCKED` and is removed from the
+active Phase 2 runtime. It is not permanently rejected and has no replacement.
+The official CurseForge artifact remains preserved as a re-entry reference:
+
+| Field | Value |
 |---|---|
-| `tensurauniquemonsters-neoforge-1.0.2.jar` | SHA-1 `bb7e4098c776fd4d8eccaafd5d84c0e0520c57db`; SHA-256 `db73f98391ae96d9a267d2ee63c128e497b887ac00c74da9618cd6e0a271eea3` |
-| `tsr-unique-monsters-compat-1.0.0.jar` | 8,151 bytes; SHA-256 `e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65` |
+| CurseForge project | `1489273` |
+| CurseForge file | `7844220` |
+| Version | `1.0.2` |
+| SHA-1 | `0cbb72baaf6a7c7008043b99b299326417a53bce` |
+| SHA-256 | `38def0f47748e11a5d153a9dde57892c53f396a78dff97c9aaebf3ba631ece83` |
 
-## Root cause and correction
+## Reproducible failure
 
-Unique Monsters calls `ExtraSkills.init()` from `TRUniqueMobsRegistry.injectInit()` during parallel mod construction. That call can reach Architectury before ManasCore has made the `manascore_skill:skills` registrar reliably available, producing a construction-order failure.
+During parallel NeoForge construction, Unique Monsters can invoke
+`ExtraSkills.init()` before ManasCore has created the `manascore_skill:skills`
+registry. The result is a startup-order exception even though a warm or
+repeated start may appear to succeed. Those starts are not considered a fix.
 
-The TSR compatibility mod applies three narrow, required Mixins:
+The previously tested TSR lifecycle bridge was diagnostic only. Its JAR is not
+part of the release manifest and is not distributed.
 
-1. Redirect the single premature `ExtraSkills.init()` call in `TRUniqueMobsRegistry.injectInit()`.
-2. Capture ManasCore's real skill registrar and registry key at the tail of `SkillRegistry` class initialization, then invoke the original `ExtraSkills.init()` method exactly once.
-3. Return the captured registrar only for the `tr_unique_monsters` Architectury provider and the exact captured skill-registry key.
+### Preserved diagnostic findings
 
-The compatibility mod does not duplicate skill definitions. Common setup fails closed if either lifecycle hook changes or if the real registry does not contain `tr_unique_monsters:appraisal_eye`.
+The development bridge redirected the premature `ExtraSkills.init()` call,
+captured ManasCore's real skill registrar after `SkillRegistry` initialization,
+and returned that registrar only for the Unique Monsters provider. A diagnostic
+run with that bridge reached a clean world and restart, but this does not prove
+the published artifact is safe: the upstream constructor can still race before
+the bridge is available. The experiment therefore remains evidence for the
+blocker analysis, not a release fix. No patched upstream JAR or fork is
+published.
 
-## Validation
+## Re-entry criteria
 
-| Test | Result |
-|---|---|
-| Isolated foundation + Unique Monsters + compatibility mod, clean world | PASS |
-| Complete Phase 2A runtime, clean cold starts | PASS, 20/20 |
-| Complete Phase 2A runtime, new-world creation and Labyrinth generation | PASS |
-| Flushed save and clean shutdown | PASS, every cold run |
-| Warm restart of generated world | PASS |
-| Restart of existing Phase 2 world | PASS |
-| Appraisal Eye present in the real ManasCore skill registry | PASS, every cold run |
-| Registry-order, duplicate-registration, Mixin, and lifecycle exceptions | 0 in the final 20-run log set |
+An official Unique Monsters artifact may be reconsidered only after it corrects
+the registration lifecycle/dependency ordering and passes all of the following
+without a diagnostic patch:
 
-Earlier lifecycle-only hooks were rejected because registry construction and Architectury's shared custom-registry lookup could still race. A NewRegistryEvent hook was also rejected because the builder was not guaranteed to be initialized at that point. The final exact-provider bridge removes that remaining lookup race without sleeps, retries, or changes to either upstream JAR.
+1. isolated construction testing;
+2. repeated clean/cold complete Phase 2 starts;
+3. new-world creation;
+4. clean shutdown and restart; and
+5. verification that no registry-order exceptions occur.
 
-Any official Unique Monsters update must be tested first without the compatibility mod. The compatibility layer remains required until upstream registration ordering is corrected and the updated artifact passes the complete cold-start, world, shutdown, and restart matrix.
+Until then, the active pack contains neither Unique Monsters 1.0.2 nor the
+diagnostic compatibility JAR.

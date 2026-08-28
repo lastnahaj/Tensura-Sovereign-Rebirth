@@ -40,16 +40,16 @@ NEXT PHASE: Add frozen Tensura ecosystem addons in tested sub-batches
 
 ```text
 PHASE: 2A — Core Tensura progression addons
-STATUS: PASS
-ADDED: SlimeThrone Extras 2.1.2.1, Ascension 2.1.2, Mysticism 2.1.2, Origins 2.0.5, Better Subordinates 1.2.4, Modifications 1.0.1.1, Unique Monsters 1.0.2, TSR Unique Monsters Compat 1.0.0
-REMOVED: None
+STATUS: PASS WITH DEFERRED-BLOCKER
+ADDED: SlimeThrone Extras 2.1.2.1, Ascension 2.1.2, Mysticism 2.1.2, Origins 2.0.5, Better Subordinates 1.2.4, Modifications 1.0.1.1
+REMOVED: Unique Monsters 1.0.2 and the diagnostic TSR Unique Monsters Compat bridge after reproducible registration-order failures
 VERSION CHANGES: None
-DEPENDENCIES: TSR Unique Monsters Compat 1.0.0 is required with the exact official Unique Monsters 1.0.2 artifact
-CONFIGURATION: 109 generated mod configs promoted; mutable patcher state excluded; Origins starter-pool refresh disabled and no Origins race appears in ordinary starting/random pools
+DEPENDENCIES: No Unique Monsters dependency is active; the deferred artifact is tracked in the compatibility blocker report
+CONFIGURATION: 107 generated mod configs promoted; mutable patcher state excluded; Origins starter-pool refresh disabled and no Origins race appears in ordinary starting/random pools
 CLIENT START: Pack installation and metadata validation pass; authenticated graphical validation remains pending for the complete pack
 SERVER START: PASS — isolated construction, 20/20 clean full-runtime cold starts, warm restart, existing Phase 2 world restart, and fresh packaged-config cold/warm reconstruction
-TESTS: Exact artifact/hash verification; Packwiz/config validation; 109/109 packaged config reconstruction; new-world generation; flushed save; clean shutdown; restart; Unique Monsters Appraisal Eye registry verification on every clean cold start
-WARNINGS: Better Subordinates is excluded from CurseForge's third-party API and requires the verified official file when using Packwiz Installer; CurseForge launcher metadata remains authoritative
+TESTS: Exact artifact/hash verification; Packwiz/config validation; 107 active packaged configs reconstructed; new-world generation; flushed save; clean shutdown; restart
+WARNINGS: Better Subordinates is excluded from CurseForge's third-party API and requires the verified official file when using Packwiz Installer; CurseForge launcher metadata remains authoritative. Unique Monsters remains deferred-blocked pending an upstream lifecycle fix.
 KNOWN ISSUES: Remaining frozen Tensura addons have not yet entered this sub-batch
 COMMIT: Add core Tensura progression addons
 NEXT PHASE: Add the remaining frozen Tensura ecosystem addons in isolated sub-batches
@@ -110,4 +110,20 @@ WARNINGS: Four Silent Gear grip/binding KubeJS recipe parser warnings fall back 
 KNOWN ISSUES: Long-duration equipment evolution, foundry throughput, backpack component retention, and multiplayer storage contention remain integrated gameplay gates before release candidate freeze
 COMMIT: Add TSR gear and storage systems
 NEXT PHASE: Adventure, dimensions, decoration, terrain, and staged structure candidates
+```
+
+## Playable Beta Checkpoint
+
+```text
+PHASE: Playable beta assembly
+STATUS: PASS FOR PRIVATE BETA TESTING
+ADDED: Complete staged client/server profile, Beyond Adventures 1.1.9, stability defaults, FTB services, adventure/world systems, client QoL, FancyMenu/Drippy branding, and an 8-quest onboarding chapter
+REMOVED FROM ACTIVE PROFILE: TR Addon 2.0.1 and Unique Monsters 1.0.2 remain DEFERRED-BLOCKED; GriefLogger with its Tensura bridge and Ice & Fire with its Tensura bridge are jointly omitted only from playable staging after reproducible startup failures
+VERSION CHANGES: JEI advanced to 19.32.0.359 after the earlier baseline failed the assembled graphical client smoke
+CLIENT START: PASS — 125-JAR graphical runtime reached the branded main menu; no FancyMenu, Drippy, construction, or fatal markers remained in the final log scan
+SERVER START: PASS — 110-JAR clean-world start completed in 19.126 seconds, warm restart in 2.558 seconds, and the extracted delivery archive completed a separate clean-world start in 15.921 seconds
+QUESTS: PASS — all 8 onboarding quests loaded with the TSR background and clickable project-wiki crest
+EXPORTS: PASS — CurseForge launcher manifest, local Modrinth format, and deterministic dedicated-server archive validated; public Modrinth publication remains gated by third-party source and redistribution records
+KNOWN ISSUES: Extended multiplayer progression, claims/permissions, long-duration world generation, equipment persistence, and the full handcrafted campaign remain beta-test work
+NEXT PHASE: Distribute the private beta artifacts, collect multiplayer findings, and close release-candidate gameplay and publication gates
 ```

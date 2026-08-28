@@ -1,20 +1,23 @@
 # TSR Structure Index
 
-Base Tensura structures have their own [generated reference directory](tensura-reference/structures/index.md). This page tracks structures and world content added or affected by the TSR layer.
+Tensura structures have their own [generated reference directory](tensura-reference/structures/index.md). This page tracks structures and world content added or affected by the TSR layer.
 
 | Content | Source | Role | Dimension | Tensura integration | Status |
 |---|---|---|---|---|---|
-| Tensura structures and Labyrinth | Tensura: Reincarnated | Base progression, exploration, bosses | Base-mod dimensions and Overworld where defined | Native | Base runtime verified; structure coverage Under Validation |
+| Tensura structures and Labyrinth | Tensura: Reincarnated | Core progression, exploration, bosses | Mod-defined dimensions and the Overworld where defined | Native | Runtime verified; structure coverage Under Validation |
 | MineColonies settlements | MineColonies / Structurize | Player-built civilization | Player-selected settlement worlds | Tensura x MineColonies | Verified construction; long-running colony play Under Validation |
-| Cataclysm structures | L_Ender's Cataclysm | External boss progression | Mod-defined | Dedicated TSR loot/compatibility target | Planned / Under Validation |
-| Twilight Forest structures | The Twilight Forest | Dimension progression | Twilight Forest | Explicit EP/equipment compatibility target | Planned / Under Validation |
-| Aether structures | The Aether | Dimension progression | Aether | No general bridge claimed | Planned / Under Validation |
-| Ice & Fire structures | Ice & Fire Community Edition | Creatures, lairs, exploration | Mod-defined | Dedicated Tensura compatibility | Planned / Under Validation |
-| Curated structure candidates | Candidate process | Exploration variety | Candidate-defined | Not implied by inclusion | Planned |
+| Cataclysm structures | L_Ender's Cataclysm | External boss progression | Mod-defined | No general bridge claimed | Present; Under Validation |
+| Twilight Forest structures | The Twilight Forest | Dimension progression | Twilight Forest | No general bridge claimed | Present; Under Validation |
+| Aether structures | The Aether | Dimension progression | Aether | No general bridge claimed | Present; Under Validation |
+| Ice & Fire structures | Ice & Fire Community Edition | Creatures, lairs, exploration | Mod-defined | Compatibility bridge blocked | Omitted from playable profile |
+| Better Dungeons, Mineshafts, Strongholds, Nether Fortresses | YUNG's structure suite | Replace and expand major exploration landmarks | Vanilla dimensions | Not implied by inclusion | Present; Under Validation |
+| Repurposed Structures | Repurposed Structures | Familiar structure families across more biome contexts | Mod-defined | Not implied by inclusion | Present; Under Validation |
+| Sparse Structures | Sparse Structures | Global density control | World-generation policy | Not applicable | Present; Under Validation |
+| When Dungeons Arise | When Dungeons Arise | Large exploration dungeons | Mod-defined | Not implied by inclusion | Present; density/performance Under Validation |
 
 ## Separation rules
 
-- A base Tensura structure keeps its upstream source and mechanics.
+- A Tensura structure keeps its upstream source and mechanics.
 - An external structure is not called Tensura-integrated merely because its mod is present.
 - Candidate content stays out of Verified status until clean generation, restart, density, and performance gates pass.
 - Loot and boss rewards are not documented until their exact tables or runtime behavior are verified.

@@ -1,18 +1,24 @@
 # World Generation
 
-TSR separates the base mod's world content from the pack's broader terrain and structure policy.
+TSR keeps imported Tensura world documentation distinct from the pack's broader terrain and structure policy.
 
-## Base Tensura world
+## Tensura world content
 
 The local reference includes every maintained upstream article currently documented for [biomes](tensura-reference/biomes/index.md), [structures](tensura-reference/structures/index.md), [mobs](tensura-reference/mobs/index.md), and [bosses](tensura-reference/bosses/index.md). Those pages retain upstream version context and do not imply that every historical entry has been runtime-verified in TSR.
 
 ## Terratonic foundation
 
-<span class="tsr-status">Under Validation</span>
+<span class="tsr-status">Playable startup verified · gameplay under validation</span>
 
 The required Version 1 Beta terrain target combines **Terralith** and **Tectonic**, with **Lithostitched** where required by their exact artifacts. TSR refers to this pairing as its **Terratonic** foundation.
 
-The terrain stack is selected, but the repository does not yet contain a completed phase report for clean world creation, saved-world restart, representative biome coverage, or the complete structure stack on that terrain. Until those gates pass, Terratonic remains **Under Validation**, not Verified.
+The assembled profile has passed clean-world startup, save, shutdown, and warm restart. Extended exploration, representative biome coverage, density profiling, and the complete structure interaction matrix remain **Under Validation**.
+
+## Curated structure suite
+
+The active source profile includes four YUNG's replacements—Better Dungeons, Better Mineshafts, Better Strongholds, and Better Nether Fortresses—plus Repurposed Structures, Sparse Structures, and When Dungeons Arise. They appear together in the wiki because they share one exploration and density policy.
+
+These additions are installed, but none is described as Tensura-integrated merely because it can generate in the same world. When Dungeons Arise remains the highest-density candidate and needs the closest generation-cost and collision review.
 
 ## Structure policy
 

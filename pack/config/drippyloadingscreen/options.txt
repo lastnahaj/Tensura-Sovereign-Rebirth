@@ -1,0 +1,27 @@
+##[general]
+
+B:early_fade_out_elements = 'true';
+B:allow_universal_layouts = 'false';
+B:fade_out_loading_screen = 'true';
+B:wait_for_textures_in_loading = 'true';
+
+
+##[early_loading]
+
+B:early_loading_hide_logger = 'true';
+I:early_loading_bar_width = '420';
+I:early_loading_bar_height = '18';
+I:early_loading_bar_position_offset_x = '0';
+I:early_loading_bar_position_offset_y = '110';
+I:early_loading_logo_width = '420';
+I:early_loading_logo_height = '297';
+I:early_loading_logo_position_offset_x = '0';
+I:early_loading_logo_position_offset_y = '-25';
+B:early_loading_hide_logo = 'false';
+B:early_loading_hide_bar = 'false';
+S:early_loading_background_texture_path = '/config/fancymenu/assets/tsr_menu_background_v2.png';
+B:early_loading_background_preserve_aspect_ratio = 'true';
+S:early_loading_logo_texture_path = '/config/fancymenu/assets/tsr_logo.png';
+S:early_loading_window_title = 'Tensura: Sovereign Rebirth - Version 1 Beta';
+I:early_loading_window_width = '-1';
+I:early_loading_window_height = '-1';

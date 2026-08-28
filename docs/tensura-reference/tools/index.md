@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Tools</h1>
 <p>Tools and utility equipment.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>30</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">

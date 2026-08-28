@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Other Skills</h1>
 <p>Skills outside the primary class directories.</p>
-<span class="reference-count"><strong>6</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>8</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -20,7 +22,7 @@
 <button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 6 of 6 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 8 of 8 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="abilities the mod adds over 250 abilities in multiple categories, which can be seen below.">
@@ -32,6 +34,19 @@
 <div class="reference-card-copy">
 <h2>Abilities</h2>
 <p>The mod adds over 250 abilities in multiple categories, which can be seen below.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="A" data-search="abilities you only celebrate in the light because i allow it.">
+<a href="../../../mysticism-reference/skills/other/abilities/" aria-label="Open Abilities">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/races/skillicon-2d9be4e24c.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Abilities</h2>
+<p>You only celebrate in the light because I allow it.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -97,6 +112,19 @@
 <div class="reference-card-copy">
 <h2>Skills</h2>
 <p>Skills are formulas that, once etched onto the Soul, can be instinctively used without any practice, though their efficiency and effective use require varying amounts…</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="skills intrinsic skills extra skills unique skills">
+<a href="../../../mysticism-reference/skills/other/abilities-skills/" aria-label="Open Skills">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/intrinsic-570b969e7e.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Skills</h2>
+<p>Intrinsic Skills Extra Skills Unique Skills</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

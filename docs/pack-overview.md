@@ -4,7 +4,7 @@ TSR is organized around six connected progression pillars.
 
 ## Character
 
-**Tensura: Reincarnated** provides the foundational character system. SlimeThrone Extras, Ascension, Mysticism, Origins, Better Subordinates, Great Sage, Unique Monsters, Skill Books, and selected addons extend it.
+**Tensura: Reincarnated** provides the foundational character system. SlimeThrone Extras, Ascension, Mysticism, Origins, Better Subordinates, Great Sage, Skill Books, and selected addons extend it. TensuraMorph and ReMorphed provide the configured [mimicry path](mimicry-and-forms/index.md).
 
 ## Equipment
 
@@ -16,7 +16,7 @@ TSR is organized around six connected progression pillars.
 
 ## Adventure
 
-Cataclysm, Mowzie's Mobs, Ice & Fire CE, Twilight Forest, The Aether, native Tensura bosses, Unique Monsters, and Tensura boss structures form the main external adventure stack.
+Beyond Adventures, Bosses' Rise, Legendary Monsters, Cataclysm, Mowzie's Mobs, Twilight Forest, The Aether, and the native Tensura boss layer form the playable beta's [adventure stack](bosses-and-dimensions.md). Individual encounter balance and long-form progression remain under validation.
 
 ## Long-term progression
 
@@ -24,4 +24,6 @@ SlimeThrone Extras owns prestige, Soul Grade, racial prestige, and repeatable pr
 
 ## Multiplayer infrastructure
 
-LuckPerms, FTB Teams/Chunks/Quests, Tensura Compat: FTB, GriefLogger, Tensura Grief Logger, FTB Backups 3, spark, Chunky, and conservative server optimization are part of the server design.
+LuckPerms, FTB Teams/Chunks/Quests, Tensura Compat: FTB, FTB Backups 3, spark, Chunky, and conservative server optimization are part of the server design. GriefLogger and its Tensura bridge remain outside the playable profile until their reproduced startup failure is resolved.
+
+Use the [Mod Guide Directory](mod-guide-directory/index.md) to find every player-facing system by role rather than by dependency name.

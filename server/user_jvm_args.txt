@@ -1,0 +1,7 @@
+# TSR Version 1 Beta dedicated-server defaults.
+# Adjust Xms/Xmx together for the host's available memory; keep at least 2 GB free for the OS.
+-Xms2G
+-Xmx8G
+-XX:+UseG1GC
+-XX:MaxGCPauseMillis=200
+-XX:+ParallelRefProcEnabled

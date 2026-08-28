@@ -1,0 +1,204 @@
+{
+	autofocus_id: "75A5000000000101"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "sovereign_rebirth"
+	group: ""
+	icon: { id: "minecraft:nether_star" }
+	id: "75A5000000000001"
+	images: [
+		{
+			alpha: 65
+			height: 17.0d
+			image: "tsr:textures/gui/quests/sovereign_rebirth.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 4.0d
+			hover: ["Open the Tensura: Sovereign Rebirth Wiki"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: -4.5d
+		}
+	]
+	order_index: 0
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Welcome to &bTensura: Sovereign Rebirth&r."
+				""
+				"Reincarnate, evolve, build a nation, awaken your power, and rule a world packed with magic, bosses, dimensions, colonies, gear progression, and exploration."
+				""
+				"This opening path gets you safely established before the larger campaign expands."
+			]
+			icon: { id: "minecraft:nether_star" }
+			id: "75A5000000000101"
+			shape: "diamond"
+			size: 2.5d
+			tasks: [{
+				id: "75A5000000010101"
+				title: "Begin Sovereign Rebirth"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000101"]
+			description: [
+				"The crest above this chapter is a direct link to the TSR wiki."
+				""
+				"Use it for verified pack guidance, Tensura reference material, compatibility notes, and server information."
+				""
+				"Wiki: https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000000000102"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "75A5000000010102"
+				title: "Locate the Wiki Crest"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000102"]
+			description: [
+				"Every sovereign starts with raw materials. Gather wood while you learn your spawn area and watch for unfamiliar creatures."
+			]
+			icon: { id: "minecraft:oak_log" }
+			id: "75A5000000000103"
+			rewards: [{
+				count: 8
+				id: "75A5000000020103"
+				item: { count: 1, id: "minecraft:torch" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "75A5000000010103"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000103"]
+			description: [
+				"Craft a workbench and establish a small, well-lit shelter. The pack's progression is broad; a stable home base keeps your resources and respawn route under control."
+			]
+			icon: { id: "minecraft:crafting_table" }
+			id: "75A5000000000104"
+			rewards: [{
+				count: 8
+				id: "75A5000000020104"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			tasks: [{
+				id: "75A5000000010104"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000104"]
+			description: [
+				"Make storage before loot starts piling up. TSR includes expanded backpack, storage, and terminal systems; ordinary chests are the reliable first step."
+			]
+			icon: { id: "minecraft:chest" }
+			id: "75A5000000000105"
+			tasks: [{
+				count: 2L
+				id: "75A5000000010105"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000105"]
+			description: [
+				"Food is your first stability system. Secure a renewable source before long expeditions, boss hunts, or colony work."
+			]
+			icon: { id: "minecraft:bread" }
+			id: "75A5000000000106"
+			rewards: [{
+				id: "75A5000000020106"
+				item: { count: 1, id: "minecraft:compass" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "75A5000000010106"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000106"]
+			description: [
+				"Your Tensura race, skills, resistances, and evolution path define the character you are building. Read every new ability carefully and keep the wiki nearby when a mechanic is unfamiliar."
+				""
+				"Do not rush difficult encounters just because a new skill looks powerful."
+			]
+			icon: { id: "minecraft:experience_bottle" }
+			id: "75A5000000000107"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "75A5000000010107"
+				title: "Review Your Race and Skills"
+				type: "checkmark"
+			}]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000000000107"]
+			description: [
+				"The playable core is now open. Choose your next focus: explore structures and dimensions, develop magic, improve gear and storage, or begin nation building with MineColonies."
+				""
+				"The full campaign will expand these branches. For this beta test, report crashes, broken recipes, missing textures, and progression dead ends with the exact TSR build name."
+			]
+			icon: { id: "minecraft:filled_map" }
+			id: "75A5000000000108"
+			rewards: [{
+				count: 4
+				id: "75A5000000020108"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "75A5000000010108"
+				title: "Choose Your First Path"
+				type: "checkmark"
+			}]
+			x: 17.5d
+			y: -0.5d
+		}
+	]
+	title: "Sovereign Rebirth: First Steps"
+}
