@@ -1,6 +1,6 @@
 # TR Mysticism Reference
 
-This visual library is the companion add-on layer of the TSR wiki, adapted from the Tensura Reincarnated: Mysticism Wiki. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.
+This source view is part of the combined [Tensura Reference](../tensura-reference/index.md) and is adapted from the Tensura Reincarnated: Mysticism Wiki. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.
 
 !!! warning "Version context"
     Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.
@@ -76,7 +76,3 @@ This visual library is the companion add-on layer of the TSR wiki, adapted from 
 Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated upstream pages include a TSR section only when a verified project-specific overlay exists.
 
 See [Upstream Attribution](../project/mysticism-upstream-attribution.md) and [Ingestion Coverage](../project/mysticism-ingestion-coverage.md) for licensing and audit details.
-
-## Companion reference
-
-Continue with the [Base Tensura Reference](../tensura-reference/index.md) for the other documented content layer.

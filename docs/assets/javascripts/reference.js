@@ -68,13 +68,18 @@
     return details;
   }
 
-  function setupReadingMode(details) {
+  function setupReadingMode(details, legacyContents) {
     const buttons = Array.from(document.querySelectorAll(".reference-mode-button"));
     if (!buttons.length) return;
 
     const activate = (mode) => {
       details.forEach((section, index) => {
         section.open = mode === "full" || index < 2;
+      });
+      legacyContents.forEach((content) => {
+        content.hidden = mode !== "full";
+        const button = content.previousElementSibling;
+        button?.setAttribute("aria-expanded", String(mode === "full"));
       });
       buttons.forEach((button) => {
         const active = button.dataset.referenceMode === mode;
@@ -135,6 +140,32 @@
     });
   }
 
+  function setupLegacyCollapsibles(article) {
+    const contents = [];
+    const headers = Array.from(article.querySelectorAll(".collapsible-header"));
+    headers.forEach((header, index) => {
+      const content = header.nextElementSibling;
+      if (!content || !content.classList.contains("collapsible-content")) return;
+
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "collapsible-header";
+      button.innerHTML = header.innerHTML;
+      button.setAttribute("aria-expanded", "false");
+      if (!content.id) content.id = `reference-collapsible-${index}`;
+      button.setAttribute("aria-controls", content.id);
+      content.hidden = true;
+      button.addEventListener("click", () => {
+        const expanded = button.getAttribute("aria-expanded") === "true";
+        button.setAttribute("aria-expanded", String(!expanded));
+        content.hidden = expanded;
+      });
+      header.replaceWith(button);
+      contents.push(content);
+    });
+    return contents;
+  }
+
   function setupProgress(article) {
     document.querySelector(".reference-progress")?.remove();
     const progress = document.createElement("div");
@@ -158,7 +189,8 @@
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";
     const details = convertSections(article);
-    setupReadingMode(details);
+    const legacyContents = setupLegacyCollapsibles(article);
+    setupReadingMode(details, legacyContents);
     setupLightbox(document);
     setupProgress(article);
     revealHashTarget();
