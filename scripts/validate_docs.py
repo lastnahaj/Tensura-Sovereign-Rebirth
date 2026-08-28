@@ -24,7 +24,12 @@ def validate_candidate(md: Path, target: str, candidate: Path) -> None:
 
 for md in markdown_files:
     text = md.read_text(encoding="utf-8")
-    for target in link_re.findall(text):
+    markdown_source = "\n".join(
+        line
+        for line in text.splitlines()
+        if not (line.lstrip().startswith("<") and line.rstrip().endswith(">"))
+    )
+    for target in link_re.findall(markdown_source):
         target = target.strip().split()[0].strip('<>')
         if not target or target.startswith(("http://", "https://", "mailto:", "#")):
             continue
@@ -37,7 +42,7 @@ for md in markdown_files:
             continue
         target = unquote(target.split("#", 1)[0])
         is_generated = DOCS in md.parents and md.relative_to(DOCS).as_posix().startswith(
-            "tensura-reference/"
+            ("tensura-reference/", "mysticism-reference/")
         )
         is_rendered_route = (
             DOCS in md.parents and target.endswith("/") and not target.startswith("/")
@@ -82,7 +87,9 @@ for target in sorted(nav_targets):
 
 document_paths = {str(path.relative_to(DOCS)).replace("\\", "/") for path in DOCS.rglob("*.md")}
 handcrafted_paths = {
-    path for path in document_paths if not path.startswith("tensura-reference/")
+    path
+    for path in document_paths
+    if not path.startswith(("tensura-reference/", "mysticism-reference/"))
 }
 missing_from_nav = handcrafted_paths - nav_targets
 if missing_from_nav:

@@ -3,6 +3,7 @@
 ## Version 1 (Beta) — Assembly
 
 - Added a generated, searchable Tensura: Reincarnated reference with 975 relevant canonical articles, 387 local aliases, category indexes, exact revision tracking, and per-page CC BY-SA attribution.
+- Added a separate TR Mysticism companion reference with 364 relevant articles, 7 local aliases, 163 attributed source images, interactive directories, and race evolution indexing.
 - Added a repeatable, cached MediaWiki ingestion pipeline with content, redirect, media-license, category, link, and coverage manifests.
 - Audited 1,728 upstream media titles against the File-page CC BY-SA declaration and per-file exceptions; broken or deleted upstream file records are reported separately.
 - Rebuilt the reference experience with illustrated hubs, attributed source-media cards, live filtering, at-a-glance summaries, collapsible sections, image zoom, and related-article navigation.

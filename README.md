@@ -65,19 +65,20 @@ mkdocs serve
 
 Then open `http://127.0.0.1:8000/Tensura-Sovereign-Rebirth/`.
 
-## Tensura reference synchronization
+## Wiki reference synchronization
 
-The generated base-mod reference is sourced through the official Tensura wiki's MediaWiki API. Raw responses are cached under the ignored `.build/wiki-cache/` directory.
+The generated base-mod and TR Mysticism references are sourced through their official MediaWiki APIs. Raw responses are cached under ignored `.build/` directories.
 
 ```bash
 pip install -r requirements.txt -r requirements-wiki.txt
-python scripts/wiki/sync_tensura_wiki.py
+python scripts/wiki/sync_tensura_wiki.py --source tensura
+python scripts/wiki/sync_tensura_wiki.py --source mysticism
 python scripts/wiki/check_reference.py
 mkdocs build --strict
 python scripts/wiki/check_built_site.py
 ```
 
-The synchronizer records upstream revisions, categories, aliases, link conversions, and File-page licensing decisions. It never overwrites handcrafted TSR guides.
+The synchronizer records upstream revisions, categories, aliases, link conversions, and File-page licensing decisions for each collection. It never overwrites handcrafted TSR guides.
 
 ## Contributions and bug reports
 
