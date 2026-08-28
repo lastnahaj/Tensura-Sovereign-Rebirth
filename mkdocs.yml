@@ -154,6 +154,7 @@ nav:
           - Candidate Testing: development/candidate-testing.md
           - Unique Monsters Compatibility: development/unique-monsters-compatibility.md
           - Compatibility Blockers: development/compatibility-blockers.md
+          - Platform Availability: development/platform-availability.md
           - Phase Reports: development/phase-reports.md
   - Project:
       - Roadmap: roadmap.md
