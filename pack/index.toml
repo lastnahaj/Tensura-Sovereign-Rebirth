@@ -46,7 +46,7 @@ hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "edbb5d066c2b1670412880a1871a30fcaec6c0082cc041880b1a772632d882a3"
+hash = "d9c8372c894df79a1735df88e86d9b2c768bb8f158c170fb6c2ae61f59457bef"
 
 [[files]]
 file = "config/fancymenu/assets/tsr_icon.png"
@@ -61,8 +61,12 @@ file = "config/fancymenu/assets/tsr_menu_background.png"
 hash = "98c9b27018afd96885e8a803bcb82062f308812b939beeecf8b04f734c823222"
 
 [[files]]
+file = "config/fancymenu/assets/tsr_menu_background_v2.png"
+hash = "eba7e8bd2ce6463698e4da165f02a9214aa681907750b9bacbaa922a28315b78"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "3453cf08d859860189c60227e9484afb6ec9309616da9f7189089646e410902b"
+hash = "88f5d8b936d7d280b06bb0898324580693b9ff2502c3db66848704d5e6be316b"
 
 [[files]]
 file = "config/ftbbackups3-server.snbt"
@@ -1441,6 +1445,10 @@ metafile = true
 file = "mods/yungs-better-strongholds-neoforge.pw.toml"
 hash = "1dbfc17c73001270c3c1f60c02cd72b3f5652ff02557a5f0586fd638a083cd36"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "14c72240403f135adf396246416b76963e4d76cb8eff8f491519180ceda8e447"
 
 [[files]]
 file = "resourcepacks/.gitkeep"

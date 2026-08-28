@@ -51,6 +51,8 @@ The playable beta profile adds conservative defaults without enabling gameplay-a
 - FTB Backups 3 runs hourly, retains eight archives within a 25 GB ceiling, uses moderate compression, creates a shutdown backup, and reports progress only to administrators.
 - spark remains installed for on-demand diagnosis but its background profiler is disabled.
 - FTB Quests uses a 20-tick detection interval and team-shared rewards. The first playable chapter contains 8 linear onboarding quests, a custom TSR background, and a clickable crest linked to the project wiki.
+- First-launch client defaults use a 150 FPS cap, GUI scale 2, render and simulation distance 8, Bright brightness, disabled VSync, and disabled view bobbing. Tensura skill slots own Z/X/C; conflicting unmodified shortcuts from other mods are unbound while modified combinations remain available.
+- No optional resource pack is enabled in this checkpoint. Vanilla resources remain implicit, while TSR menu and quest visuals are supplied through FancyMenu and KubeJS assets.
 
 The configured server loaded the saved world, reported all 8 quests, created a shutdown backup, saved all dimensions, and exited cleanly.
 

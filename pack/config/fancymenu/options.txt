@@ -33,7 +33,7 @@ B:global_button_label_shadow = 'true';
 B:global_button_background_transparent = 'false';
 B:seamless_world_loading = 'false';
 S:global_background_panorama = '';
-S:global_menu_background_texture = '/config/fancymenu/assets/tsr_menu_background.png';
+S:global_menu_background_texture = '/config/fancymenu/assets/tsr_menu_background_v2.png';
 
 
 ##[multiplayer_screen]
