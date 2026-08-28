@@ -1,0 +1,75 @@
+{
+  "source": "https://trmysticism.wiki.gg/",
+  "synchronized_at": "2026-08-28T04:48:34Z",
+  "site_statistics": {
+    "pages": 894,
+    "articles": 376,
+    "edits": 3463,
+    "images": 173,
+    "users": 718641,
+    "activeusers": 5,
+    "admins": 5,
+    "jobs": 0,
+    "cirrussearch-article-words": 53571
+  },
+  "upstream_pages_discovered": 376,
+  "pages_considered_relevant": 364,
+  "pages_imported": 364,
+  "redirects_discovered": 9,
+  "redirects_processed": 7,
+  "redirects_skipped": 2,
+  "redirects_failed": 0,
+  "pages_skipped": 12,
+  "pages_failed": 0,
+  "images_discovered": 164,
+  "image_file_records_resolved": 164,
+  "images_imported": 163,
+  "images_skipped_due_to_licensing": 0,
+  "images_failed": 1,
+  "media_placements_imported": 399,
+  "media_placements_omitted": 88,
+  "internal_links_converted": 1312,
+  "broken_links_remaining": 0,
+  "content_categories": {
+    "biomes": 8,
+    "blocks": 2,
+    "commands": 1,
+    "configuration": 1,
+    "core-mechanics": 29,
+    "dimensions": 1,
+    "items": 3,
+    "magic": 3,
+    "mobs": 6,
+    "other": 8,
+    "races": 199,
+    "skills/extra": 11,
+    "skills/intrinsic": 20,
+    "skills/other": 2,
+    "skills/ultimate": 33,
+    "skills/unique": 33,
+    "version-history": 3,
+    "weapons": 1
+  },
+  "media_categories": {
+    "biomes": 19,
+    "items": 4,
+    "magic": 3,
+    "misc": 14,
+    "mobs": 5,
+    "races": 14,
+    "skills": 103,
+    "weapons": 2
+  },
+  "media_statuses": {
+    "failed": 1,
+    "imported": 163
+  },
+  "media_failures": [
+    {
+      "source_title": "Invicon Waltz.png",
+      "source_file_page": "https://trmysticism.wiki.gg/wiki/File:Invicon_Waltz.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    }
+  ],
+  "failures": []
+}

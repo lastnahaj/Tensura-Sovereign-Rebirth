@@ -27,9 +27,11 @@ Credit belongs to the authors and contributors of **Silent Gear**, **Silent Lib*
 
 The complete design inventory also records independent projects for bosses, dimensions, terrain, structures, building, quests, administration, UI, and performance. Their current Version 1 Beta disposition is listed in the [Mod Manifest](mod-manifest.md); staged or candidate status is not represented as verified inclusion.
 
-## Tensura wiki reference
+## Tensura wiki references
 
 The generated base reference is adapted from the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and its contributors under CC BY-SA 4.0. Every generated article records its exact source page and revision. See [Upstream Attribution](project/upstream-attribution.md) and [Ingestion Coverage](project/ingestion-coverage.md).
+
+The generated companion reference is adapted from the [Tensura Reincarnated: Mysticism Wiki](https://trmysticism.wiki.gg/) and its contributors under CC BY-SA 4.0. It uses the same per-article revision tracking and media review. See [Mysticism Attribution](project/mysticism-upstream-attribution.md) and [Mysticism Ingestion Coverage](project/mysticism-ingestion-coverage.md).
 
 Upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. Imported media retains its source File page and revision record; files with restrictive exceptions are excluded.
 

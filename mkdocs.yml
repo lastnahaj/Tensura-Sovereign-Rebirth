@@ -109,6 +109,31 @@ nav:
           - Configuration: tensura-reference/configuration/index.md
           - Gamerules: tensura-reference/gamerules/index.md
           - Version History: tensura-reference/version-history/index.md
+  - TR Mysticism Reference:
+      - Reference Home: mysticism-reference/index.md
+      - Core Mechanics: mysticism-reference/core-mechanics/index.md
+      - Races:
+          - Race Directory: mysticism-reference/races/index.md
+          - Evolution Relationships: mysticism-reference/races/evolution-trees.md
+      - Abilities:
+          - Skill Overview: mysticism-reference/skills/other/index.md
+          - Intrinsic Skills: mysticism-reference/skills/intrinsic/index.md
+          - Extra Skills: mysticism-reference/skills/extra/index.md
+          - Unique Skills: mysticism-reference/skills/unique/index.md
+          - Ultimate Skills: mysticism-reference/skills/ultimate/index.md
+          - Magic: mysticism-reference/magic/index.md
+      - World:
+          - Mobs: mysticism-reference/mobs/index.md
+          - Biomes: mysticism-reference/biomes/index.md
+          - Dimensions: mysticism-reference/dimensions/index.md
+      - Items & Technical:
+          - Items & Materials: mysticism-reference/items/index.md
+          - Weapons: mysticism-reference/weapons/index.md
+          - Blocks: mysticism-reference/blocks/index.md
+          - Commands: mysticism-reference/commands/index.md
+          - Configuration: mysticism-reference/configuration/index.md
+          - Version History: mysticism-reference/version-history/index.md
+          - Other Reference: mysticism-reference/other/index.md
   - Character Progression:
       - Race & Evolution: race-and-evolution.md
       - Skills, EP & Magicules: skills-ep-and-magicules.md
@@ -157,5 +182,7 @@ nav:
       - Credits: credits.md
       - Upstream Attribution: project/upstream-attribution.md
       - Ingestion Coverage: project/ingestion-coverage.md
+      - Mysticism Attribution: project/mysticism-upstream-attribution.md
+      - Mysticism Ingestion Coverage: project/mysticism-ingestion-coverage.md
       - Reference:
           - v0.1 Manifest Source: reference/v0.1-mod-manifest-source.md

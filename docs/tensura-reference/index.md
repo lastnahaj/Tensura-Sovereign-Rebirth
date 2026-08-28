@@ -85,3 +85,7 @@ This visual library is the base-mod layer of the TSR wiki. Start with a path bel
 Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated base pages include a TSR section only when a verified project-specific overlay exists.
 
 See [Upstream Attribution](../project/upstream-attribution.md) and [Ingestion Coverage](../project/ingestion-coverage.md) for licensing and audit details.
+
+## Companion reference
+
+Continue with the [TR Mysticism Reference](../mysticism-reference/index.md) for the companion add-on's races, skills, mobs, biomes, items, and mechanics.

@@ -29,17 +29,73 @@ from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parents[2]
 DOCS = ROOT / "docs"
-REFERENCE_ROOT = DOCS / "tensura-reference"
-ASSET_ROOT = DOCS / "assets" / "upstream" / "tensura"
 DATA_ROOT = ROOT / "data"
+SOURCE_KEY = "tensura"
+REFERENCE_SLUG = "tensura-reference"
+DATA_STEM = "upstream_tensura"
+SOURCE_WIKI_NAME = "Tensura: Reincarnated Wiki"
+SOURCE_REFERENCE_TITLE = "Tensura: Reincarnated Reference"
+SOURCE_BADGE = "Base Tensura reference"
+SOURCE_CONTEXT_LABEL = "base-mod"
+REFERENCE_ROOT = DOCS / REFERENCE_SLUG
+ASSET_ROOT = DOCS / "assets" / "upstream" / SOURCE_KEY
+ATTRIBUTION_REPORT = DOCS / "project" / "upstream-attribution.md"
+COVERAGE_REPORT = DOCS / "project" / "ingestion-coverage.md"
 DEFAULT_CACHE = ROOT / ".build" / "wiki-cache"
 API_URL = "https://tensura.wiki.gg/api.php"
 WIKI_ROOT = "https://tensura.wiki.gg"
+SOURCE_EXCLUDED_TITLES: set[str] = set()
 TEXT_LICENSE_URL = "https://creativecommons.org/licenses/by-sa/4.0/"
 USER_AGENT = (
     "TSRWikiIngest/1.0 "
     "(+https://github.com/lastnahaj/Tensura-Sovereign-Rebirth)"
 )
+
+
+def configure_source(source: str) -> Path:
+    global SOURCE_KEY, REFERENCE_SLUG, DATA_STEM, SOURCE_WIKI_NAME
+    global SOURCE_REFERENCE_TITLE, SOURCE_BADGE, SOURCE_CONTEXT_LABEL
+    global REFERENCE_ROOT, ASSET_ROOT, ATTRIBUTION_REPORT, COVERAGE_REPORT
+    global API_URL, WIKI_ROOT, SOURCE_EXCLUDED_TITLES
+
+    if source == "tensura":
+        SOURCE_KEY = "tensura"
+        REFERENCE_SLUG = "tensura-reference"
+        DATA_STEM = "upstream_tensura"
+        SOURCE_WIKI_NAME = "Tensura: Reincarnated Wiki"
+        SOURCE_REFERENCE_TITLE = "Tensura: Reincarnated Reference"
+        SOURCE_BADGE = "Base Tensura reference"
+        SOURCE_CONTEXT_LABEL = "base-mod"
+        API_URL = "https://tensura.wiki.gg/api.php"
+        WIKI_ROOT = "https://tensura.wiki.gg"
+        ATTRIBUTION_REPORT = DOCS / "project" / "upstream-attribution.md"
+        COVERAGE_REPORT = DOCS / "project" / "ingestion-coverage.md"
+        SOURCE_EXCLUDED_TITLES = set()
+        cache = ROOT / ".build" / "wiki-cache"
+    elif source == "mysticism":
+        SOURCE_KEY = "mysticism"
+        REFERENCE_SLUG = "mysticism-reference"
+        DATA_STEM = "upstream_mysticism"
+        SOURCE_WIKI_NAME = "Tensura Reincarnated: Mysticism Wiki"
+        SOURCE_REFERENCE_TITLE = "TR Mysticism Reference"
+        SOURCE_BADGE = "TR Mysticism reference"
+        SOURCE_CONTEXT_LABEL = "companion add-on"
+        API_URL = "https://trmysticism.wiki.gg/api.php"
+        WIKI_ROOT = "https://trmysticism.wiki.gg"
+        ATTRIBUTION_REPORT = DOCS / "project" / "mysticism-upstream-attribution.md"
+        COVERAGE_REPORT = DOCS / "project" / "mysticism-ingestion-coverage.md"
+        SOURCE_EXCLUDED_TITLES = {
+            "archive/skills/abilities",
+            "category",
+            "example character",
+        }
+        cache = ROOT / ".build" / "wiki-cache-mysticism"
+    else:
+        raise ValueError(f"Unsupported source: {source}")
+
+    REFERENCE_ROOT = DOCS / REFERENCE_SLUG
+    ASSET_ROOT = DOCS / "assets" / "upstream" / SOURCE_KEY
+    return cache
 SYNCED_AT = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace(
     "+00:00", "Z"
 )
@@ -58,21 +114,21 @@ CATEGORY_INFO: dict[str, tuple[str, str]] = {
     "magic": ("Magic", "Magic systems, aspects, and individual spells."),
     "battlewill": ("Battlewill", "Aura-powered Battlewill techniques and manuals."),
     "arts": ("Arts", "Documented Arts and their acquisition or mastery."),
-    "mobs": ("Mobs", "The base mod's documented entity catalog."),
-    "bosses": ("Bosses", "Boss encounters documented by the base mod."),
+    "mobs": ("Mobs", "Documented entity catalog."),
+    "bosses": ("Bosses", "Documented boss encounters."),
     "items": ("Items & Materials", "Materials, consumables, drops, and special items."),
     "weapons": ("Weapons", "Documented weapons and combat equipment."),
     "armor": ("Armor", "Documented armor pieces and sets."),
     "tools": ("Tools", "Tools and utility equipment."),
     "blocks": ("Blocks", "Mechanically relevant blocks and block families."),
-    "structures": ("Structures", "Base Tensura structures and generation information."),
-    "biomes": ("Biomes", "Base Tensura biomes and biome-specific behavior."),
+    "structures": ("Structures", "Documented structures and generation information."),
+    "biomes": ("Biomes", "Documented biomes and biome-specific behavior."),
     "dimensions": ("Dimensions", "Dimensions, portals, access, and world content."),
     "commands": ("Commands", "Player and administrator command reference."),
-    "configuration": ("Configuration", "Base Tensura configuration reference."),
+    "configuration": ("Configuration", "Configuration reference."),
     "gamerules": ("Gamerules", "Tensura-specific gamerules and behavior."),
     "version-history": ("Version History", "Historical releases and upstream change records."),
-    "other": ("Other Reference", "Additional maintained base-mod reference articles."),
+    "other": ("Other Reference", "Additional maintained reference articles."),
 }
 
 CATEGORY_ORDER = list(CATEGORY_INFO)
@@ -215,12 +271,14 @@ CORE_MECHANIC_TERMS = {
 }
 
 NON_CONTENT_CATEGORIES = {
+    "Candidates_for_deletion",
     "Crafting_Table_templates",
     "Lua-based_templates",
     "Main_page_boxes",
     "Table_templates",
     "Templates_with_no_documentation",
     "Tensura:_Reincarnated_Wiki",
+    "Tensura_Reincarnated:_Mysticism_Wiki",
 }
 
 ALLOWED_LICENSE_PATTERNS: tuple[tuple[re.Pattern[str], str], ...] = (
@@ -305,7 +363,7 @@ class ApiClient:
         if cache_path.exists() and not self.refresh:
             return cache_path.read_text(encoding="utf-8")
         parsed = urlparse(url)
-        if parsed.scheme != "https" or parsed.hostname != "tensura.wiki.gg":
+        if parsed.scheme != "https" or parsed.hostname != urlparse(WIKI_ROOT).hostname:
             raise RuntimeError(f"Refusing unexpected page host: {url}")
         elapsed = time.monotonic() - self.last_request
         if elapsed < self.pace:
@@ -505,17 +563,31 @@ def classify_article(title: str, categories: list[str]) -> str:
     combined = f"{normalized_title} {category_text}"
     leaf = title_parts[-1]
 
-    if re.match(r"^\d+\.\d+(?:\.\d+)?\s", title) or "version history" in combined:
+    if (
+        re.match(r"^\d+\.\d+(?:\.\d+)?\s", title)
+        or "version history" in combined
+        or title_parts[0] == "version"
+    ):
         return "version-history"
     if (
         leaf in CORE_MECHANIC_TERMS
-        or normalized_title in {"ep, magicule, aura", "getting started"}
+        or normalized_title
+        in {
+            "compatibility system",
+            "ep, magicule, aura",
+            "getting started",
+            "soul quality",
+        }
         or leaf in {"chantspeed", "damage types", "dodging", "engravings", "gear evolution", "trading"}
         or title_parts[0] in {"mechanics", "effects", "effect"}
         or any(term in category_text for term in ("mechanic", "progression"))
     ):
         return "core-mechanics"
-    if title_parts[0] in {"races", "race"} or re.search(r"\braces?\b", category_text):
+    if (
+        title_parts[0] in {"races", "race"}
+        or normalized_title in {"angel", "insect"}
+        or re.search(r"\braces?\b", category_text)
+    ):
         return "races"
     if title_parts[0] in {"mobs", "entities"}:
         return "bosses" if "boss" in combined else "mobs"
@@ -531,11 +603,15 @@ def classify_article(title: str, categories: list[str]) -> str:
         return "blocks"
     if title_parts[0] == "structures":
         return "structures"
+    if title_parts[0] == "structures and biomes":
+        return "biomes" if "biome" in leaf else "structures"
     if leaf == "ruins":
         return "structures"
     if title_parts[0] == "biomes":
         return "biomes"
     if title_parts[0] == "dimensions":
+        return "dimensions"
+    if normalized_title == "spirit realm":
         return "dimensions"
     if "battlewill" in combined:
         return "battlewill"
@@ -621,6 +697,8 @@ def classify_article(title: str, categories: list[str]) -> str:
 
 
 def non_content_reason(title: str, categories: list[str], description: str) -> str | None:
+    if normalize_title(title) in SOURCE_EXCLUDED_TITLES:
+        return "Wiki-management, archive, or example content rather than maintained mod reference"
     if normalize_title(title) == "crafting/doc":
         return "Template documentation rather than player-facing mod information"
     matched = sorted(NON_CONTENT_CATEGORIES.intersection(categories))
@@ -637,15 +715,40 @@ def build_page_records(
     records: list[dict[str, Any]] = []
     skipped: list[dict[str, Any]] = []
     occupied: dict[tuple[str, str], int] = {}
+    preferred_case_variant: dict[str, tuple[str, int]] = {}
+    for article in parsed_articles:
+        listing = article["listing"]
+        revision = revisions.get(listing["pageid"], {})
+        rank = (revision.get("modified") or "", listing["pageid"])
+        key = normalize_title(listing["title"])
+        if key not in preferred_case_variant or rank > preferred_case_variant[key]:
+            preferred_case_variant[key] = rank
+
     for article in parsed_articles:
         listing = article["listing"]
         parse_data = article["parse"]
         categories = category_names(parse_data)
         properties = parse_data.get("properties", {})
         description = " ".join(strip_html(properties.get("description")).split())
+        revision = revisions.get(listing["pageid"], {})
+        preferred_rank = preferred_case_variant[normalize_title(listing["title"])]
+        current_rank = (revision.get("modified") or "", listing["pageid"])
+        if current_rank != preferred_rank:
+            skipped.append(
+                {
+                    "source_title": listing["title"],
+                    "source_url": wiki_url(listing["title"]),
+                    "page_id": listing["pageid"],
+                    "revision_id": parse_data.get("revid") or revision.get("revision_id"),
+                    "upstream_modified": revision.get("modified"),
+                    "upstream_categories": categories,
+                    "import_status": "skipped",
+                    "reason": "Older case-only duplicate of another canonical article",
+                }
+            )
+            continue
         reason = non_content_reason(listing["title"], categories, description)
         if reason:
-            revision = revisions.get(listing["pageid"], {})
             skipped.append(
                 {
                     "source_title": listing["title"],
@@ -665,9 +768,8 @@ def build_page_records(
         if key in occupied:
             slug = f"{slug}-{listing['pageid']}"
         occupied[(primary_category, slug)] = listing["pageid"]
-        local_page = PurePosixPath("tensura-reference") / primary_category / f"{slug}.md"
+        local_page = PurePosixPath(REFERENCE_SLUG) / primary_category / f"{slug}.md"
         display_title = strip_html(parse_data.get("displaytitle")) or listing["title"].split("/")[-1]
-        revision = revisions.get(listing["pageid"], {})
         records.append(
             {
                 "source_title": listing["title"],
@@ -688,6 +790,21 @@ def build_page_records(
                 "_properties": properties,
             }
         )
+    source_title_owners = {
+        (record["category"], normalize_title(record["source_title"].split("/")[-1])): record[
+            "page_id"
+        ]
+        for record in records
+    }
+    for record in records:
+        source_leaf = record["source_title"].split("/")[-1]
+        display_key = (record["category"], normalize_title(record["display_title"]))
+        if (
+            normalize_title(record["display_title"]) != normalize_title(source_leaf)
+            and source_title_owners.get(display_key) not in {None, record["page_id"]}
+        ):
+            record["display_title"] = source_leaf
+
     return records, skipped
 
 
@@ -919,7 +1036,7 @@ def prepare_media(
             record["reason"] = license_reason
         else:
             filename = safe_media_filename(record["source_title"], record.get("sha1"))
-            local_path = PurePosixPath("assets") / "upstream" / "tensura" / media_category / filename
+            local_path = PurePosixPath("assets") / "upstream" / SOURCE_KEY / media_category / filename
             destination = DOCS / Path(local_path.as_posix())
             source_url = record["source_url"]
             if (
@@ -1198,7 +1315,7 @@ def yaml_front_matter(record: dict[str, Any], aliases: list[str]) -> str:
     tags = list(dict.fromkeys(record["upstream_categories"] + aliases))
     metadata = {
         "title": record["display_title"],
-        "description": record["description"] or f"Base Tensura reference for {record['display_title']}.",
+        "description": record["description"] or f"{SOURCE_BADGE} for {record['display_title']}.",
         "tags": tags[:80],
     }
     return "---\n" + yaml.safe_dump(
@@ -1216,7 +1333,7 @@ def render_page(
 ) -> str:
     lines = [yaml_front_matter(record, aliases), f"# {record['display_title']}", ""]
     lines.append(
-        '<span class="reference-badge">Base Tensura reference</span> '
+        f'<span class="reference-badge">{html.escape(SOURCE_BADGE)}</span> '
         f'<span class="reference-category">{CATEGORY_INFO[record["category"]][0]}</span>'
     )
     lines.append("")
@@ -1316,7 +1433,7 @@ def render_page(
 
     if related:
         category_index = (
-            PurePosixPath("tensura-reference") / record["category"] / "index.md"
+            PurePosixPath(REFERENCE_SLUG) / record["category"] / "index.md"
         ).as_posix()
         lines.extend(
             [
@@ -1351,8 +1468,8 @@ def render_page(
     revision_text = f"revision `{record['revision_id']}`" if record.get("revision_id") else "current recorded revision"
     modified_text = f", modified `{record['upstream_modified']}`" if record.get("upstream_modified") else ""
     lines.append(
-        f"Base Tensura reference adapted from [{record['source_title']}]({record['source_url']}) "
-        f"on the Tensura: Reincarnated Wiki ({revision_text}{modified_text}). "
+        f"{SOURCE_BADGE} adapted from [{record['source_title']}]({record['source_url']}) "
+        f"on the {SOURCE_WIKI_NAME} ({revision_text}{modified_text}). "
         f"Adapted text is available under [CC BY-SA 4.0]({TEXT_LICENSE_URL})."
     )
     lines.append("")
@@ -1377,6 +1494,8 @@ def render_page(
 
 
 def load_overlays() -> dict[str, dict[str, Any]]:
+    if SOURCE_KEY != "tensura":
+        return {}
     path = DATA_ROOT / "tsr-wiki-overlays.json"
     if not path.exists():
         return {}
@@ -1419,7 +1538,7 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
             continue
         relationship_count += sum(len(values) for values in relationships.values())
         relative = os.path.relpath(
-            record["local_page"], "tensura-reference/races"
+            record["local_page"], f"{REFERENCE_SLUG}/races"
         ).replace("\\", "/")
         sections.extend([f"## [{record['display_title']}]({relative})", ""])
         for label, values in relationships.items():
@@ -1446,14 +1565,26 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
 def generate_category_index(category: str, records: list[dict[str, Any]]) -> str:
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
-    overview_records = [
+    source_title_overviews = [
+        record
+        for record in category_records
+        if normalize_title(record["source_title"].split("/")[-1]).casefold()
+        == normalize_title(title).casefold()
+    ]
+    display_title_overviews = [
         record
         for record in category_records
         if normalize_title(record["display_title"]).casefold()
         == normalize_title(title).casefold()
     ]
-    overview_record = overview_records[0] if overview_records else None
-    index_page = (PurePosixPath("tensura-reference") / category / "index.md").as_posix()
+    overview_record = (
+        source_title_overviews[0]
+        if source_title_overviews
+        else display_title_overviews[0]
+        if display_title_overviews
+        else None
+    )
+    index_page = (PurePosixPath(REFERENCE_SLUG) / category / "index.md").as_posix()
     hero_asset = rendered_asset_relative_url(index_page, visual_asset(category))
     ordered = sorted(
         [record for record in category_records if record is not overview_record],
@@ -1550,6 +1681,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
 def generate_reference_index(
     siteinfo: dict[str, Any], records: list[dict[str, Any]], redirects: list[dict[str, Any]], media: list[dict[str, Any]]
 ) -> str:
+    category_totals = Counter(record["category"] for record in records)
     category_counts = Counter(
         record["category"]
         for record in records
@@ -1558,25 +1690,25 @@ def generate_reference_index(
     )
     imported_media = sum(record.get("import_status") == "imported" for record in media)
     lines = [
-        "# Tensura: Reincarnated Reference",
+        f"# {SOURCE_REFERENCE_TITLE}",
         "",
-        "This visual library is the base-mod layer of the TSR wiki. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.",
+        f"This visual library is the {SOURCE_CONTEXT_LABEL} layer of the TSR wiki, adapted from the {SOURCE_WIKI_NAME}. Start with a path below, filter a collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.",
         "",
         "!!! warning \"Version context\"",
-        "    Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. A base article is not proof that a historical feature is active in TSR's frozen runtime.",
+        "    Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.",
         "",
         '<div class="reference-metric-grid">',
         f'<div><strong>{len(records)}</strong><span>articles</span></div>',
         f'<div><strong>{sum(item.get("status") == "processed" for item in redirects)}</strong><span>local aliases</span></div>',
         f'<div><strong>{imported_media}</strong><span>source images</span></div>',
-        f'<div><strong>{len(CATEGORY_ORDER)}</strong><span>collections</span></div>',
+        f'<div><strong>{len(category_totals)}</strong><span>collections</span></div>',
         "</div>",
         "",
         "## Choose a path",
         "",
         '<div class="reference-path-grid">',
     ]
-    index_page = "tensura-reference/index.md"
+    index_page = f"{REFERENCE_SLUG}/index.md"
     for group, path_title, path_description, categories in REFERENCE_PATHS:
         group_asset = rendered_asset_relative_url(index_page, VISUAL_ASSETS[group])
         lines.extend(
@@ -1590,11 +1722,15 @@ def generate_reference_index(
             ]
         )
         for category in categories:
+            if not category_totals.get(category):
+                continue
             category_title = CATEGORY_INFO[category][0]
             target = (PurePosixPath(category) / "index.md").as_posix()
+            category_count = category_counts.get(category, 0)
+            count_label = str(category_count) if category_count else "Overview"
             lines.append(
-                f'<a href="{rendered_page_relative_url(index_page, PurePosixPath("tensura-reference") / target)}">'
-                f"{html.escape(category_title)} <span>{category_counts.get(category, 0)}</span></a>"
+                f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'
+                f"{html.escape(category_title)} <span>{count_label}</span></a>"
             )
         lines.extend(["</div>", "</div>", "</article>"])
     lines.extend(
@@ -1603,9 +1739,19 @@ def generate_reference_index(
             "",
             "## TSR layer",
             "",
-            "Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated base pages include a TSR section only when a verified project-specific overlay exists.",
+            "Use the main TSR guides for installed-mod status, configured values, compatibility, quests, progression, world generation, storage, and server behavior. Generated upstream pages include a TSR section only when a verified project-specific overlay exists.",
             "",
-            "See [Upstream Attribution](../project/upstream-attribution.md) and [Ingestion Coverage](../project/ingestion-coverage.md) for licensing and audit details.",
+            f"See [Upstream Attribution](../project/{ATTRIBUTION_REPORT.name}) and [Ingestion Coverage](../project/{COVERAGE_REPORT.name}) for licensing and audit details.",
+            "",
+        ]
+    )
+    companion_slug = "mysticism-reference" if SOURCE_KEY == "tensura" else "tensura-reference"
+    companion_label = "TR Mysticism Reference" if SOURCE_KEY == "tensura" else "Base Tensura Reference"
+    lines.extend(
+        [
+            "## Companion reference",
+            "",
+            f"Continue with the [{companion_label}](../{companion_slug}/index.md) for the other documented content layer.",
             "",
         ]
     )
@@ -1642,7 +1788,7 @@ def write_reports(
         for record in page_records
     ]
     write_json(
-        DATA_ROOT / "upstream_tensura_pages.json",
+        DATA_ROOT / f"{DATA_STEM}_pages.json",
         {
             "source": WIKI_ROOT + "/",
             "text_license": "CC BY-SA 4.0",
@@ -1655,7 +1801,7 @@ def write_reports(
         },
     )
     write_json(
-        DATA_ROOT / "upstream_tensura_media.json",
+        DATA_ROOT / f"{DATA_STEM}_media.json",
         {
             "source": WIKI_ROOT + "/",
             "synchronized_at": SYNCED_AT,
@@ -1694,15 +1840,24 @@ def write_reports(
         "content_categories": dict(sorted(category_counts.items())),
         "media_categories": media_category_counts,
         "media_statuses": dict(sorted(media_status_counts.items())),
+        "media_failures": [
+            {
+                "source_title": record.get("source_title"),
+                "source_file_page": record.get("source_file_page"),
+                "reason": record.get("reason"),
+            }
+            for record in media_records
+            if record.get("import_status") == "failed"
+        ],
         "failures": failed_pages,
     }
-    write_json(DATA_ROOT / "upstream_tensura_coverage.json", coverage)
+    write_json(DATA_ROOT / f"{DATA_STEM}_coverage.json", coverage)
     return coverage
 
 
 def render_coverage_report(coverage: dict[str, Any]) -> str:
     lines = [
-        "# Tensura Wiki Ingestion Coverage",
+        f"# {SOURCE_WIKI_NAME} Ingestion Coverage",
         "",
         f"**Snapshot:** `{coverage['synchronized_at']}`  ",
         f"**Source:** [{coverage['source']}]({coverage['source']})",
@@ -1748,14 +1903,22 @@ def render_coverage_report(coverage: dict[str, Any]) -> str:
     lines.extend(["", "## Media categories", "", "| Category | Discovered files |", "|---|---:|"])
     for category, count in coverage["media_categories"].items():
         lines.append(f"| {category.replace('-', ' ').title()} | {count} |")
+    media_failures = coverage.get("media_failures", [])
+    if media_failures:
+        lines.extend(["", "## Media exceptions", ""])
+        for record in media_failures:
+            source_title = record.get("source_title") or "Unknown File record"
+            source_page = record.get("source_file_page")
+            label = f"[{source_title}]({source_page})" if source_page else f"`{source_title}`"
+            lines.append(f"- {label} — {record.get('reason') or 'Import failed'}")
     lines.extend(
         [
             "",
             "## Machine-readable reports",
             "",
-            "- `data/upstream_tensura_pages.json`",
-            "- `data/upstream_tensura_media.json`",
-            "- `data/upstream_tensura_coverage.json`",
+            f"- `data/{DATA_STEM}_pages.json`",
+            f"- `data/{DATA_STEM}_media.json`",
+            f"- `data/{DATA_STEM}_coverage.json`",
             "",
         ]
     )
@@ -1766,10 +1929,10 @@ def render_attribution(siteinfo: dict[str, Any]) -> str:
     rights = siteinfo.get("rightsinfo", {})
     license_text = rights.get("text", "Creative Commons Attribution-ShareAlike 4.0 License")
     license_url = rights.get("url", TEXT_LICENSE_URL)
-    return f"""# Upstream Attribution
+    return f"""# {SOURCE_WIKI_NAME} Attribution
 
-The generated **Tensura: Reincarnated Reference** is adapted from the
-[Tensura: Reincarnated Wiki]({WIKI_ROOT}/), synchronized on `{SYNCED_AT}`.
+The generated **{SOURCE_REFERENCE_TITLE}** is adapted from the
+[{SOURCE_WIKI_NAME}]({WIKI_ROOT}/), synchronized on `{SYNCED_AT}`.
 Each generated article links to its exact source page and records the upstream
 revision ID and modified timestamp used by the synchronizer.
 
@@ -1777,7 +1940,7 @@ revision ID and modified timestamp used by the synchronizer.
 
 The upstream site's MediaWiki rights metadata identifies its reusable text as
 [{license_text}]({license_url}). Adapted upstream text in
-`docs/tensura-reference/` remains available under the same license. TSR-specific
+`docs/{REFERENCE_SLUG}/` remains available under the same license. TSR-specific
 guidance is layered separately and identified by the **In Tensura: Sovereign
 Rebirth** heading.
 
@@ -1792,12 +1955,12 @@ file to be skipped.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in
-`data/upstream_tensura_media.json`.
+`data/{DATA_STEM}_media.json`.
 
 ## Separation from TSR
 
-Tensura: Sovereign Rebirth did not create Tensura: Reincarnated or the upstream
-wiki. Base-mod facts retain their upstream version context. TSR runtime claims
+Tensura: Sovereign Rebirth did not create the upstream mod or wiki. Upstream
+facts retain their original version context. TSR runtime claims
 come from the frozen manifest, installed artifacts, tracked configuration, and
 recorded validation evidence in this repository.
 """
@@ -1853,7 +2016,12 @@ def audit_generated_links(root: Path) -> list[str]:
     html_link_re = re.compile(r"(?:href|src)=[\"']([^\"']+)[\"']", re.I)
     for page in sorted(root.rglob("*.md")):
         text = page.read_text(encoding="utf-8")
-        for raw_target in markdown_link_re.findall(text):
+        markdown_source = "\n".join(
+            line
+            for line in text.splitlines()
+            if not (line.lstrip().startswith("<") and line.rstrip().endswith(">"))
+        )
+        for raw_target in markdown_link_re.findall(markdown_source):
             target = html.unescape(raw_target).strip().split()[0].strip("<>")
             if not target or target.startswith(("http://", "https://", "mailto:", "#", "data:")):
                 continue
@@ -1887,13 +2055,20 @@ def audit_generated_links(root: Path) -> list[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--source",
+        choices=("tensura", "mysticism"),
+        default="tensura",
+        help="Upstream wiki collection to synchronize",
+    )
     parser.add_argument("--refresh", action="store_true", help="Ignore cached API responses and media")
-    parser.add_argument("--cache-dir", type=Path, default=DEFAULT_CACHE)
+    parser.add_argument("--cache-dir", type=Path)
     parser.add_argument("--pace", type=float, default=0.18, help="Minimum seconds between requests")
     parser.add_argument("--limit", type=int, help="Development-only canonical article limit")
     args = parser.parse_args()
 
-    client = ApiClient(args.cache_dir, refresh=args.refresh, pace=max(args.pace, 0.05))
+    default_cache = configure_source(args.source)
+    client = ApiClient(args.cache_dir or default_cache, refresh=args.refresh, pace=max(args.pace, 0.05))
     siteinfo = fetch_siteinfo(client)
     canonical = enumerate_pages(client, "nonredirects")
     redirects = enumerate_pages(client, "redirects")
@@ -1990,12 +2165,11 @@ def main() -> int:
         media_category_counts,
         len(image_titles),
     )
-    project_root = DOCS / "project"
-    project_root.mkdir(parents=True, exist_ok=True)
-    (project_root / "upstream-attribution.md").write_text(
+    ATTRIBUTION_REPORT.parent.mkdir(parents=True, exist_ok=True)
+    ATTRIBUTION_REPORT.write_text(
         normalize_generated_text(render_attribution(siteinfo)), encoding="utf-8"
     )
-    (project_root / "ingestion-coverage.md").write_text(
+    COVERAGE_REPORT.write_text(
         normalize_generated_text(render_coverage_report(coverage)), encoding="utf-8"
     )
 
