@@ -16,3 +16,6 @@ __pycache__/
 *.jar
 !compat/**/gradle/wrapper/gradle-wrapper.jar
 !pack/mods/tsr-unique-monsters-compat-*.jar
+# Diagnostic Unique Monsters compatibility artifact; never ship or publish.
+/pack/mods/tsr-unique-monsters-compat-1.0.0.jar
+/dist/

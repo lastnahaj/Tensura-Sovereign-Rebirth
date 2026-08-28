@@ -1,0 +1,13 @@
+name = "Tensura Compat: FTB"
+filename = "tensura_ftb-neoforge-2.0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea4f9553ab772aef245cf705dd559340e3c51202"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8375576
+project-id = 1501493

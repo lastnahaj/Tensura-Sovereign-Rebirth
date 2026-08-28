@@ -1,0 +1,18 @@
+name = "Entity Culling Fabric/Forge"
+filename = "entityculling-neoforge-1.10.5-mc1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf"
+mode = "url"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+
+[update]
+[update.curseforge]
+file-id = 8287097
+project-id = 448233
+
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "5zRIon6w"

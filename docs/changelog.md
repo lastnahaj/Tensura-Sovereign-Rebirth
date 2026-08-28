@@ -10,11 +10,18 @@
 - Rebuilt the reference experience with illustrated hubs, attributed source-media cards, live filtering, at-a-glance summaries, collapsible sections, image zoom, and related-article navigation.
 - Added base-versus-TSR context, progression cross-links, race evolution relationship indexing, world-generation and structure status pages, campaign implementation status, and expanded FAQ guidance.
 - Deferred TR Addon 2.0.1 because its public NeoForge artifact cannot reliably complete dedicated-server mod construction against the ManasCore race and skill registries. It remains tracked as `DEFERRED-BLOCKED` and will be checked once more for an official compatible release before release candidate freeze.
-- Added the first core Tensura progression tranche and retained the official Unique Monsters 1.0.2 artifact with a narrow compatibility layer for deterministic ManasCore skill registration.
+- Added the first core Tensura progression tranche and recorded the required ManasCore integration checks.
+- Deferred Unique Monsters 1.0.2 after a reproducible ManasCore skill-registry construction race. The diagnostic compatibility JAR is not included or distributed; re-entry requires an official lifecycle fix and the complete cold-start/world/restart matrix.
 - Added Great Sage, TenSura Guild, Skill Books, Utilities Manager, the complete boss layer, and the TensuraMorph/ReMorphed integration stack with reviewed client and server configuration.
 - Added the pinned MineColonies nation-building branch, Iron's Spells integration, and mage-citizen compatibility with conservative colony, schematic, griefing, and experimental-feature defaults.
 - Added the complete Gear Evolution, forging, backpack, physical storage, and terminal-access layer with conservative foundry, scan, and wireless limits.
 - Added a narrow Silent Gear Metalworks compatibility layer for runtimes without Silent Gems and pinned Ponder explicitly for deterministic client setup while retaining Productive Metalworks' verified embedded Flywheel.
+- Added a playable beta test profile with separate client and server targets, conservative stability defaults, and an 8-quest branded onboarding path with a direct wiki link.
+- Documented and jointly omitted the frozen GriefLogger bridge pair and Ice & Fire compatibility pair from the playable test profile after reproducible startup failures. Their locked source-manifest entries remain unchanged pending project-owner direction.
+- Added the official Beyond Adventures 1.1.9 NeoForge artifact with matching Modrinth and CurseForge identities and a SHA-512 lock. The playable server profile passes clean-world startup, the authored 8-quest load, save, clean shutdown, and warm restart with the addon active.
+- Added custom FancyMenu and Drippy loading presentation using the TSR menu artwork and logo, then passed a graphical main-menu smoke test.
+- Updated JEI to 19.32.0.359 after the earlier baseline failed the assembled client smoke test.
+- Produced separate private-beta CurseForge client, Modrinth client, and ready-to-run dedicated-server formats with deterministic checksums and archive validation.
 
 ## TSR v0.1 — Design Freeze
 

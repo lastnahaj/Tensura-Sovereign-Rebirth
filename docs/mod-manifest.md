@@ -36,8 +36,8 @@
 | Tensura: Origins | 2.0.5 | LOCK-GATED | Not available as an ordinary random starting race; high-tier race paths are late-game gated. |
 | Tensura: Better Subordinates | 1.2.4 | LOCK |  |
 | Tensura Modifications | 1.0.1.1 | LOCK |  |
-| Tensura: Unique Monsters | 1.0.2 | LOCK | Required with TSR Unique Monsters Compat 1.0.0. Retain the exact official CurseForge artifact unmodified. |
-| TSR Unique Monsters Compat | 1.0.0 | DEPENDENCY | Required while Tensura: Unique Monsters 1.0.2 is active; corrects its ManasCore skill-registry construction ordering without modifying the upstream artifact. |
+| Tensura: Unique Monsters | 1.0.2 | DEFERRED-BLOCKED | Reproducible startup-order race can invoke `ExtraSkills.init()` before the ManasCore `manascore_skill:skills` registry exists during parallel construction. No replacement is active; see the compatibility blocker report. |
+| TSR Unique Monsters Compat | 1.0.0 | DEFERRED-UNUSED | Diagnostic lifecycle bridge retained only as a development reference; its JAR is not part of the active pack and is not distributed. |
 | Great Sage | 0.0.5 | LOCK | Configure `needGreatSage=true`. |
 | TenSura Guild | 1.0.1.2 | LOCK |  |
 | Tensura Skill Books | 2.2.1 | LOCK | Primary controlled skill-reward system. |
@@ -96,6 +96,7 @@
 
 | Mod | Version | Status | Notes |
 |---|---|---|---|
+| Beyond Adventures | 1.1.9 | VERIFIED-STARTUP | Official NeoForge artifact is pinned to Modrinth version `Ybm5N8pk` and CurseForge project/file `1490800 / 8634809`. The playable profile passed a clean dedicated-server world start, 8-quest load, save, shutdown, and warm restart with terrain griefing disabled for companion skills. |
 | L_Ender's Cataclysm | 3.33 | LOCK |  |
 | Mowzie's Mobs | 1.8.2 | LOCK |  |
 | IceAndFire Community Edition | 2.1.1 | LOCK |  |
@@ -144,7 +145,7 @@
 |---|---|---|---|
 | Tensura Skill Wiki | 1.0.2.4 | LOCK-CLIENT |  |
 | TenSura Evolution UI | 1.0.0.3 | LOCK-CLIENT |  |
-| JEI | 19.27.0.336 baseline | LOCK-CLIENT | Use stable baseline first; only advance after compatibility smoke test. |
+| JEI | 19.32.0.359 | LOCK-CLIENT | Updated after the earlier baseline failed the assembled graphical client smoke; the selected build reached the branded main menu cleanly. |
 | Jade | 15.10.6 | LOCK-CLIENT | Configure so it does not spoil Great Sage/Appraisal mechanics. |
 | Xaero's Minimap | 26.4.2 | LOCK-CLIENT |  |
 | Xaero's World Map | 1.45.0 | LOCK-CLIENT |  |

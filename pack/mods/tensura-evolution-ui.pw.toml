@@ -1,0 +1,13 @@
+name = "TenSura Evolution UI"
+filename = "tensura_trepu-1.0.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e94b9a81f02c36d58e07a888bf356c14871d0be5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8245633
+project-id = 1560818

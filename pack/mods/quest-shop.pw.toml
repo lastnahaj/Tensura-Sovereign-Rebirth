@@ -1,0 +1,13 @@
+name = "Quest Shop"
+filename = "questshop-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71e976d4bda21309e7673ed5e2e9181fef0c6d28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7016106
+project-id = 1338320

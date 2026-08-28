@@ -1,0 +1,13 @@
+name = "Tensura Compat: Ice & Fire"
+filename = "tensura_iaf-neoforge-2.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b06a236af15e5579400750439ab8fc1c13cb5383"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7905387
+project-id = 1140209

@@ -1,0 +1,13 @@
+name = "Tensura: Cataclysm Loot"
+filename = "Tensura-Cataclysm Loot 1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e759fc389c40da81692d3d8957f96c1d16a3517"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7862363
+project-id = 1463855

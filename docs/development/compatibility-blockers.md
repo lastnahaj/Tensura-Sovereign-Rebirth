@@ -66,3 +66,39 @@ TR Addon immediately registers content into ManasCore custom registries from its
 - Restore it only after both the isolated dedicated-server test and the complete Phase 2 startup pass.
 
 Until those gates pass, TR Addon remains `DEFERRED-BLOCKED` and absent from the active client and server runtime.
+
+## Tensura: Unique Monsters 1.0.2
+
+- **Status:** `DEFERRED-BLOCKED`
+- **Runtime disposition:** Removed from the active Phase 2 client and server runtime
+- **Replacement:** None
+- **CurseForge project/file:** `1489273 / 7844220`
+- **SHA-1:** `0cbb72baaf6a7c7008043b99b299326417a53bce`
+- **SHA-256:** `38def0f47748e11a5d153a9dde57892c53f396a78dff97c9aaebf3ba631ece83`
+
+The official artifact can invoke `ExtraSkills.init()` during parallel mod
+construction before ManasCore has created the `manascore_skill:skills` registry.
+The resulting registry-order exception is reproducible; successful warm or
+repeated starts are not considered a resolution. The previously tested
+TSR lifecycle bridge was diagnostic only and is neither indexed nor distributed.
+
+Re-entry requires a newer official artifact that corrects the registration
+lifecycle/dependency ordering and passes isolated construction, repeated clean
+cold Phase 2 starts, new-world creation, clean shutdown/restart, and a scan with
+no registry-order exceptions. The full report is preserved in
+`development/unique-monsters-compatibility.md`.
+
+## Version 1 Beta playable profile
+
+The playable beta test profile is a diagnostic export of the frozen design manifest. It does not amend the locked source manifest. Two additional frozen subsystem pairs are omitted from this profile because the exact pinned artifacts prevent startup:
+
+| Pair | Runtime result | Playable-profile disposition |
+|---|---|---|
+| GriefLogger 1.2.7 + Tensura: Grief Logger 1.2.1 | GriefLogger's `MixinBucketItem` fails its required `onLiquidPlaced` injection during bootstrap. | Both server-side files are omitted together. FTB Backups 3 remains active; no replacement logger was added. |
+| IceAndFire Community Edition 2.1.1 + Tensura Compat: Ice & Fire 2.0.0.1 | The compatibility mixin references the removed `com.iafenvoy.iceandfire.registry.IafStatusEffects` class and its former Architectury registry descriptor. | Both files are omitted together. No patch or substitute was distributed. |
+
+The exact pinned artifacts remain in the Packwiz source and retain their frozen status. Restoring either pair requires project-owner direction after a compatible official artifact is identified and passes isolated construction, the complete server startup gate, world creation, client join, save, and restart.
+
+### Playable-profile validation
+
+With only those two blocker pairs omitted, the assembled server reached `Done` on a new world, generated the Tensura dimensions, saved every dimension, stopped cleanly, reloaded the saved world, and stopped cleanly again. A later restart loaded the reviewed stability defaults and the FTB Quests onboarding chapter with 8 quests.

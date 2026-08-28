@@ -1,0 +1,13 @@
+name = "Tensura Reincarnated & Legendary Monsters Compatibility"
+filename = "lmtensuracompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9ddda4dbb6aee2b3c83afeaf7239f8a85019b5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8645965
+project-id = 1652024

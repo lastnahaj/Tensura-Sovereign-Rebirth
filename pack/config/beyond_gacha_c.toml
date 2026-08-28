@@ -1,0 +1,13 @@
+[targeting]
+# Characters remain player-selectable while the deployment cap limits entity load.
+targetMode = 3
+maxCharactersDeployed = 3
+cosmeticCuties = false
+removeData = true
+# Pack policy: companion skills must not damage terrain.
+gachaCharacterGriefing = false
+
+[general]
+openUIMode = 1
+enableDailyPopup = true
+buyCoinsLink = "https://trbeyond.com/store/3095036"

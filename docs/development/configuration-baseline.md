@@ -4,7 +4,12 @@ Configuration is promoted and tested with each subsystem. A phase does not pass 
 
 ## Phase 2A baseline
 
-The initial Tensura progression runtime generated 109 mod configuration files. The pack includes the complete Tensura, Mysticism, SlimeThrone Extras, Ascension, Origins, Better Subordinates, Modifications, Unique Monsters, and TerraBlender trees.
+The initial Tensura progression runtime generated 109 mod configuration files;
+107 remain active after the Unique Monsters defer. The
+active pack includes the complete Tensura, Mysticism, SlimeThrone Extras,
+Ascension, Origins, Better Subordinates, Modifications, and TerraBlender trees.
+Unique Monsters' generated configuration is retained only as deferred
+development evidence and is not an active runtime dependency.
 
 TSR intentionally excludes NeoForge's machine-local `fml.toml`, `neoforge-common.toml`, and `neoforge-server.toml` defaults. It also excludes `stextras/internal/tensura_config_patcher_state.toml`, which records mutable first-run migration state rather than a pack policy.
 
@@ -15,7 +20,12 @@ The following design rule is enforced in the pack validator:
 - SlimeThrone Extras' supported starter races and skill remain in the generated Tensura pools.
 - The reviewed configuration tree must be present in the Packwiz index.
 
-A clean reconstruction verified all 14 Phase 2A runtime artifacts and all 109 packaged configs before launch. The reconstructed server passed new-world creation, a flushed save, clean shutdown, and warm restart. The only files created outside the packaged tree were NeoForge's three machine defaults and SlimeThrone Extras' expected internal patcher state; no packaged setting changed semantically.
+A clean reconstruction verified the 12 active Phase 2A runtime artifacts and all
+107 active packaged configs before launch. The reconstructed server passed
+new-world creation, a flushed save, clean shutdown, and warm restart. The only
+files created outside the packaged tree were NeoForge's three machine defaults
+and SlimeThrone Extras' expected internal patcher state; no packaged setting
+changed semantically.
 
 ## Complete Phase 2 baseline
 
@@ -31,6 +41,18 @@ The following progression rules are locked in the packaged configuration:
 The complete 24-artifact Phase 2 runtime passed five repeated clean-world dedicated-server starts after configuration, a warm restart, and an offline graphical client start through renderer, resource reload, and sound-engine initialization. NeoForge did not generate any world-scoped server config files for this layer, so no Phase 2 file belongs in `defaultconfigs`; that tree is populated when later server-scoped configuration owners enter the runtime.
 
 Additional frozen settings are activated when their owning systems enter the runtime. These include automatic Great Sage gamerule enforcement, controlled Waystones travel, Quest Shop currency sources, Jade information limits, and conservative ServerCore behavior. Each setting receives a fresh-install regression test before its subsystem is accepted.
+
+## Playable beta stability baseline
+
+The playable beta profile adds conservative defaults without enabling gameplay-altering entity activation ranges or dynamic mob-cap scaling:
+
+- ServerCore prevents players from moving into unloaded chunks while retaining its safe synchronous-load reduction and ticking-chunk cache.
+- Dedicated-server defaults use view distance 8, simulation distance 6, synchronous chunk writes, and a 120-second watchdog ceiling for heavy modded generation.
+- FTB Backups 3 runs hourly, retains eight archives within a 25 GB ceiling, uses moderate compression, creates a shutdown backup, and reports progress only to administrators.
+- spark remains installed for on-demand diagnosis but its background profiler is disabled.
+- FTB Quests uses a 20-tick detection interval and team-shared rewards. The first playable chapter contains 8 linear onboarding quests, a custom TSR background, and a clickable crest linked to the project wiki.
+
+The configured server loaded the saved world, reported all 8 quests, created a shutdown backup, saved all dimensions, and exited cleanly.
 
 ## Phase 3 baseline
 

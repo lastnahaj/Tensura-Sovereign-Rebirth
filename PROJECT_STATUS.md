@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Version 1 Beta — Phase 4A complete; later phases staged**
+**Version 1 Beta — playable beta checkpoint assembled**
 
 ## Frozen
 
@@ -20,14 +20,19 @@
 
 - NeoForge 21.1.248 / Java 21 runtime foundation
 - Core Tensura progression addons and configuration reconstruction
-- Required Unique Monsters lifecycle compatibility
+- Unique Monsters compatibility disposition recorded as deferred-blocked; no diagnostic bridge is active
 - MineColonies and Iron's Spells construction/configuration baseline
 - Gear Evolution, forging, backpacks, Sophisticated Storage, and terminal-only Tom's startup baseline
+- Separate CurseForge client, local Modrinth client, and ready-to-run dedicated-server packages
+- Full playable-profile dedicated-server clean start, save, shutdown, and warm restart
+- Extracted server-package clean-world startup and shutdown
+- Full assembled graphical client main-menu startup with FancyMenu and Drippy branding
+- Eight onboarding quests with custom background and a clickable project-wiki crest
+- Beyond Adventures 1.1.9 active in the tested client and server profile
 - Complete upstream article discovery and generated reference: 986 discovered, 973 relevant imported, 13 non-content skipped, 0 page failures
 
 ## Pending assembly validation
 
-- Client/server-only split
 - Gear Evolution item-component persistence
 - Ascension external boss scaling
 - Tom's terminal-only recipe hiding
@@ -39,11 +44,12 @@
 - Multiplayer profiling and ServerCore tuning
 - Terralith/Tectonic terrain and structure stack
 - Adventure bosses and dimensions
-- FancyMenu/Drippy client branding
-- CurseForge and Modrinth clean import validation
+- Public Modrinth redistribution/source audit; the current `.mrpack` is for private local import only
+- Launcher UI import checks for both client formats on tester machines
 
 ## Quest implementation gate
 
-Do not generate the final FTB Quest files until the assembled instance is available for registry/API inspection.
-
-The handcrafted campaign remains Planned; tracked pack source contains no completed campaign files.
+The assembled instance now contains a tested 8-quest onboarding chapter with a
+custom background and direct wiki link. The full 8-act handcrafted campaign
+remains planned and must be expanded against the assembled registries without
+inventing unsupported task or reward types.

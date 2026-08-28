@@ -23,6 +23,14 @@ PACK_OWNED_JARS = {
         "57155d3ffe03155029bb3c04b09fbb1b2a1e427cb9c5ef7f32a64af601d20514",
 }
 DIRECT_DEPENDENCIES = {
+    Path("mods/beyond-adventures.pw.toml"): {
+        "name": "Beyond Adventures",
+        "filename": "Beyond_Adventures-Neoforge-1.1.9.jar",
+        "side": "both",
+        "url": "https://cdn.modrinth.com/data/8gmeH2WM/versions/Ybm5N8pk/Beyond_Adventures-Neoforge-1.1.9.jar",
+        "hash-format": "sha512",
+        "hash": "db5951096dceba302ae36cea58d140c462fbe91b92948c7e57266e63988afb9a5ac584f7d7cacc8e5c5f7bdf69a12d32c8d1abd71dd9ac988264d3fe5e95876b",
+    },
     Path("mods/ponder.pw.toml"): {
         "name": "Ponder",
         "filename": "ponder-neoforge-1.0.81+mc1.21.1.jar",
