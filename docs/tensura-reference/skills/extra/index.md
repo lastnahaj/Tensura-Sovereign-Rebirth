@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Extra Skills</h1>
 <p>Extra-class skills and their documented progressions.</p>
-<span class="reference-count"><strong>52</strong> articles</span>
+<div class="reference-directory-hero-actions">
+<span class="reference-count"><strong>63</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
@@ -26,12 +28,13 @@
 <button type="button" data-letter="I" aria-pressed="false">I</button>
 <button type="button" data-letter="L" aria-pressed="false">L</button>
 <button type="button" data-letter="M" aria-pressed="false">M</button>
+<button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 52 of 52 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 63 of 63 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="all seeing eye go into a 3rd person mode, which increases your pov and grants movement and action buffs as well as an upgrade to presence sense.">
@@ -112,6 +115,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="C" data-search="cryogenic cessation command your absolute authority over deceleration, allowing you to freeze all enemies with ice and spew superchilled ice. additionally, freeze the surroundings into ice.">
+<a href="../../../mysticism-reference/skills/extra/cryogenic-cessation/" aria-label="Open Cryogenic Cessation">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/cryogenic-cessation-26c3f34c65.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Cryogenic Cessation</h2>
+<p>Command your absolute authority over Deceleration, allowing you to freeze all enemies with ice and spew superchilled ice. Additionally, freeze the surroundings into ice.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="D" data-search="danger sense receive a mental warning when entities with hostile intent enter your proximity.">
 <a href="danger-sense/" aria-label="Open Danger Sense">
 <figure class="reference-card-media reference-card-media--source">
@@ -121,6 +137,32 @@
 <div class="reference-card-copy">
 <h2>Danger Sense</h2>
 <p>Receive a mental warning when entities with hostile intent enter your proximity.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="D" data-search="darkness domination boosts the power of darkness abilities by a great amount.">
+<a href="../../../mysticism-reference/skills/extra/darkness-domination/" aria-label="Open Darkness Domination">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/darkness-domination-84886c8b10.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Darkness Domination</h2>
+<p>Boosts the power of Darkness abilities by a great amount.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="D" data-search="darkness manipulation boosts the power of darkness abilities by a decent amount.">
+<a href="../../../mysticism-reference/skills/extra/darkness-manipulation/" aria-label="Open Darkness Manipulation">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/darkness-manipulation-a0346e00a2.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Darkness Manipulation</h2>
+<p>Boosts the power of Darkness abilities by a decent amount.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -281,6 +323,32 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="I" data-search="ice domination boosts the power of ice abilities by a great amount.">
+<a href="../../../mysticism-reference/skills/extra/ice-domination/" aria-label="Open Ice Domination">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Ice Domination</h2>
+<p>Boosts the power of Ice abilities by a great amount.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="ice manipulation boosts the power of ice abilities by a decent amount.">
+<a href="../../../mysticism-reference/skills/extra/ice-manipulation/" aria-label="Open Ice Manipulation">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Ice Manipulation</h2>
+<p>Boosts the power of Ice abilities by a decent amount.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="I" data-search="infinite regeneration use your massive amount of magicules to instantly regenerate from all but the most grievous of injuries.">
 <a href="infinite-regeneration/" aria-label="Open Infinite Regeneration">
 <figure class="reference-card-media reference-card-media--source">
@@ -303,6 +371,45 @@
 <div class="reference-card-copy">
 <h2>Law Manipulation</h2>
 <p>Manipulate the laws and aspects of the world itself using your vast knowledge of multiple aspects</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="L" data-search="light and heat domination (remove this once finalized)">
+<a href="../../../mysticism-reference/skills/extra/light-and-heat-domination/" aria-label="Open Light and Heat Domination">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/light-and-head-domination-e894ad941a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Light and Heat Domination</h2>
+<p>(Remove this once finalized)</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="L" data-search="light domination boost the power of light abilities by a great amount.">
+<a href="../../../mysticism-reference/skills/extra/light-domination/" aria-label="Open Light Domination">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Light Domination</h2>
+<p>Boost the power of Light abilities by a great amount.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="L" data-search="light manipulation boosts the power of light abilities by a decent amount">
+<a href="../../../mysticism-reference/skills/extra/light-manipulation/" aria-label="Open Light Manipulation">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Light Manipulation</h2>
+<p>Boosts the power of Light abilities by a decent amount</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -359,6 +466,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="mana manipulation have an unparalled control over magicules, and interfere with your enemies&#x27; spells.">
+<a href="../../../mysticism-reference/skills/extra/mana-manipulation/" aria-label="Open Mana Manipulation">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/mana-manipulation-e8636f0c23.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Mana Manipulation</h2>
+<p>Have an unparalled control over magicules, and interfere with your enemies&#x27; spells.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="molecular manipulation use your intricate knowledge and power over the building blocks of the world to obtain blocks and move entities">
 <a href="molecular-manipulation/" aria-label="Open Molecular Manipulation">
 <figure class="reference-card-media reference-card-media--source">
@@ -394,6 +514,19 @@
 <div class="reference-card-copy">
 <h2>Multilayer Barrier</h2>
 <p>Protect yourself with a multitude of powerful defensive barriers</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="P" data-search="profaned prominence command your absolute authority over acceleration, allowing you to inflict all enemies with fire and spew superheated flames. additionally, melt the surroundings into…">
+<a href="../../../mysticism-reference/skills/extra/profaned-prominence/" aria-label="Open Profaned Prominence">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Profaned Prominence</h2>
+<p>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated flames. Additionally, melt the surroundings into…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -628,6 +761,19 @@
 <div class="reference-card-copy">
 <h2>Universal Perception</h2>
 <p>Combine all magic, sound and heat senses to detect entities around.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="W" data-search="water and thunder domination boost the power of lightning and water abilities by a great amount.">
+<a href="../../../mysticism-reference/skills/extra/water-and-thunder-domination/" aria-label="Open Water and Thunder Domination">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/skills/water-and-thunder-domination-c9c8910084.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Water and Thunder Domination</h2>
+<p>Boost the power of Lightning and water abilities by a great amount.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Weapons</h1>
 <p>Documented weapons and combat equipment.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>91</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">

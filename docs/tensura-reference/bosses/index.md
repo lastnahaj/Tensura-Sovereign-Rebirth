@@ -4,8 +4,10 @@
 <div class="reference-directory-hero-copy">
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Bosses</h1>
-<p>Boss encounters documented by the base mod.</p>
+<p>Documented boss encounters.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>13</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">

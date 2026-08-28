@@ -8,6 +8,7 @@
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>0</strong> articles</span>
 <a class="reference-directory-overview-link" href="commands/">Read collection overview <span aria-hidden="true">→</span></a>
+<a class="reference-directory-overview-link" href="../../mysticism-reference/commands/commands/">Read additional overview <span aria-hidden="true">→</span></a>
 </div>
 </div>
 </header>

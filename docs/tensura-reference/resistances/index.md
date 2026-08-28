@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Resistances</h1>
 <p>Resistance, immunity, nullification, and cancellation abilities.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>43</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">

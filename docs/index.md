@@ -25,7 +25,7 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <span class="tsr-status">Version 1 Beta</span>
 
-The wiki combines base Tensura and TR Mysticism in one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,339 relevant articles**, **394 local redirect aliases**, **1,786 locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
+The wiki presents its imported Tensura material as one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,339 relevant articles**, **394 local redirect aliases**, **1,786 locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
 
 ## Choose your path
 
@@ -37,10 +37,8 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 <h2>Reincarnate & Evolve</h2>
 <p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/races/">Base Races <span>68</span></a>
-<a href="mysticism-reference/races/">Mysticism Races <span>198</span></a>
-<a href="tensura-reference/races/evolution-trees/">Base evolution paths</a>
-<a href="mysticism-reference/races/evolution-trees/">Mysticism evolution paths</a>
+<a href="tensura-reference/races/">Races <span>266</span></a>
+<a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
 </div>
 </div>
 </article>
@@ -51,10 +49,9 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 <h2>Master Skills & Magic</h2>
 <p>Filter abilities, spells, resistances, and Battlewill by the way you want to build.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/skills/unique/">Base Unique Skills <span>58</span></a>
-<a href="mysticism-reference/skills/unique/">Mysticism Unique Skills <span>33</span></a>
-<a href="tensura-reference/magic/">Base Magic <span>144</span></a>
-<a href="mysticism-reference/skills/ultimate/">Mysticism Ultimate Skills <span>33</span></a>
+<a href="tensura-reference/skills/unique/">Unique Skills <span>91</span></a>
+<a href="tensura-reference/skills/ultimate/">Ultimate Skills <span>33</span></a>
+<a href="tensura-reference/magic/">Magic <span>147</span></a>
 </div>
 </div>
 </article>
@@ -65,9 +62,8 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 <h2>Hunt & Conquer</h2>
 <p>Browse the animated bestiary and review major encounters before you challenge them.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/mobs/">Base Mobs <span>56</span></a>
-<a href="mysticism-reference/mobs/">Mysticism Mobs <span>5</span></a>
-<a href="tensura-reference/bosses/">Base Bosses <span>13</span></a>
+<a href="tensura-reference/mobs/">Mobs <span>60</span></a>
+<a href="tensura-reference/bosses/">Bosses <span>13</span></a>
 </div>
 </div>
 </article>
@@ -78,9 +74,9 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 <h2>Build a Sovereignty</h2>
 <p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/items/">Base Items <span>201</span></a>
-<a href="mysticism-reference/biomes/">Mysticism Biomes <span>8</span></a>
-<a href="tensura-reference/structures/">Base Structures <span>13</span></a>
+<a href="tensura-reference/items/">Items <span>204</span></a>
+<a href="tensura-reference/biomes/">Biomes <span>12</span></a>
+<a href="tensura-reference/structures/">Structures <span>12</span></a>
 </div>
 </div>
 </article>
@@ -93,18 +89,20 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 
 - **[Getting Started](getting-started.md)**<br>
   Reincarnation, starter policy, early resources, and first branches.
+- **[Mod Guide Directory](mod-guide-directory/index.md)**<br>
+  Visual routes through every major player-facing mod family in the beta.
 - **[Races](tensura-reference/races/index.md)**<br>
   All documented race forms plus verified evolution relationships.
 - **[Skills](tensura-reference/skills/other/index.md)**<br>
   Intrinsic, Common, Extra, Unique, and resistance directories.
 - **[Magic](tensura-reference/magic/index.md)**<br>
-  Base spells, Battlewill, and TSR's external magic integration.
+  Spells, Battlewill, and TSR's external magic integration.
 - **[EP, Magicules & Aura](tensura-reference/core-mechanics/ep-magicule-aura.md)**<br>
-  Base resource mechanics with TSR version context.
+  Core resource mechanics with TSR version context.
 - **[Items & Equipment](tensura-reference/items/index.md)**<br>
   Items, materials, weapons, armor, tools, and blocks.
 - **[Mobs & Bosses](tensura-reference/mobs/index.md)**<br>
-  Base entities alongside a separate TSR boss layer.
+  Tensura entities alongside the broader TSR boss layer.
 - **[Quests & Campaign](campaign.md)**<br>
   Actual implementation status for the planned eight-act campaign.
 - **[World & Nations](minecolonies-and-nations.md)**<br>
@@ -129,4 +127,4 @@ The wiki combines base Tensura and TR Mysticism in one reference experience alon
 
 ## Current project stage
 
-The published build branch has passed runtime phases through **gear, forging, backpacks, physical storage, and terminal access**. Adventure, Terratonic world generation, decoration, multiplayer administration, client QoL, performance, exports, and the authored quest campaign remain staged or under validation. See the [Roadmap](roadmap.md) for exact status language.
+The playable beta has passed clean client and server startup with its assembled adventure, world, building, multiplayer, interface, and performance layers. Extended gameplay, multiplayer progression, structure density, equipment persistence, permissions, and the complete handcrafted campaign remain under validation. See the [Roadmap](roadmap.md) for exact status language.

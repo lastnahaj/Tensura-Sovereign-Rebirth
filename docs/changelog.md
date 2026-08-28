@@ -2,6 +2,7 @@
 
 ## Version 1 (Beta) — Assembly
 
+- Unified races, abilities, evolution relationships, mobs, biomes, and other imported material into one reference hierarchy, then added visual player guides for the beta's major mod systems and corrected inactive-content status pages.
 - Added a generated, searchable Tensura: Reincarnated reference with 975 relevant canonical articles, 387 local aliases, category indexes, exact revision tracking, and per-page CC BY-SA attribution.
 - Integrated 364 TR Mysticism articles, 7 local aliases, 163 attributed source images, interactive directories, and race evolution indexing into the main Tensura reference experience.
 - Restored working keyboard-accessible disclosure controls for imported article sections such as Getting Started.

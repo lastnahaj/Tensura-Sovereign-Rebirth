@@ -5,7 +5,9 @@
 <p class="reference-eyebrow">Tensura reference collection</p>
 <h1>Arts</h1>
 <p>Documented Arts and their acquisition or mastery.</p>
+<div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>0</strong> articles</span>
+</div>
 </div>
 </header>
 <div class="reference-directory-tools">
