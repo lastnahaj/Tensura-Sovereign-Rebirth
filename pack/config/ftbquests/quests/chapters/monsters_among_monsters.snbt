@@ -1,0 +1,180 @@
+{
+	autofocus_id: "75A5030100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "monsters_among_monsters"
+	group: ""
+	icon: { id: "minecraft:bow" }
+	id: "75A5030000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_0_welcome_otherworlder.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 3
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5020100000008"]
+			description: [
+				"Open the Tensura Guild interface and review available progression. Guild work is a guided route into combat without replacing the main campaign."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5030100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5030200000001"
+				title: "Review Guild Progression"
+				type: "checkmark"
+			}]
+			title: "Answer the Guild"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000001"]
+			description: [
+				"Craft Nature's Compass and use it carefully. Repeated long-range searches can be expensive while the server is generating terrain."
+			]
+			icon: { id: "naturescompass:naturescompass" }
+			id: "75A5030100000002"
+			tasks: [{
+				id: "75A5030200000002"
+				count: 1L
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			title: "Find the Wilds"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000002"]
+			description: [
+				"Craft or acquire a Waystone before distant expeditions. Activate routes deliberately instead of erasing exploration with unrestricted travel."
+			]
+			icon: { id: "waystones:waystone" }
+			id: "75A5030100000003"
+			tasks: [{
+				id: "75A5030200000003"
+				count: 1L
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			title: "Mark the Road Home"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000003"]
+			description: [
+				"Open a generated Lootr container with a teammate and confirm that each player receives a separate inventory."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5030100000004"
+			tasks: [{
+				id: "75A5030200000004"
+				title: "Verify a Lootr Container"
+				type: "checkmark"
+			}]
+			title: "Loot for Everyone"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000004"]
+			description: [
+				"Review Beyond Adventures missions and contracts. They provide repeatable adventure work but do not replace TSR's authored campaign."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5030100000005"
+			tasks: [{
+				id: "75A5030200000005"
+				title: "Review an Adventure Contract"
+				type: "checkmark"
+			}]
+			title: "Accept a Contract"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000005"]
+			description: [
+				"Bring food, ranged options, spare equipment, and a retreat route before challenging a named or structure boss."
+			]
+			icon: { id: "minecraft:arrow" }
+			id: "75A5030100000006"
+			tasks: [{
+				id: "75A5030200000006"
+				count: 32L
+				item: { count: 1, id: "minecraft:arrow" }
+				type: "item"
+			}]
+			title: "Prepare the Hunt"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000006"]
+			description: [
+				"Defeat one representative external boss appropriate to your current power. Record missing loot, progression dead ends, or terrain damage as beta findings."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5030100000007"
+			tasks: [{
+				id: "75A5030200000007"
+				title: "Defeat a Representative Boss"
+				type: "checkmark"
+			}]
+			title: "Challenge a Greater Foe"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5030100000007"]
+			description: [
+				"Store the rewards, repair equipment, and verify the world saves cleanly before beginning a new progression branch."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5030100000008"
+			rewards: [{
+				count: 1
+				id: "75A5030300000008"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5030200000008"
+				title: "Complete the First Hunt"
+				type: "checkmark"
+			}]
+			title: "Return With Proof"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 3 — Monsters Among Monsters"
+}

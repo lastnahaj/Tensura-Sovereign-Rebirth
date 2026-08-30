@@ -1,0 +1,5 @@
+id = "magic_bullet_acceleration"
+baseValue = 3.0
+valuePerRefinement = 1.0
+#Max Refinement -1 is no max
+maxRefinement = 3

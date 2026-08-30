@@ -1,0 +1,23 @@
+loot_changes = ["artifacts:artifact"]
+
+[artifacts]
+	random_refinement_upgrades = true
+	max_grade_1_artifacts = -1
+
+[grade1]
+	EPGain = 0.02
+	MaxRefinement = 3.0
+	StartingEp = 225000.0
+	EffectUnlockEp = [225000.0, 1000000.0, 5000000.0]
+
+[grade2]
+	EPGain = 0.02
+	MaxRefinement = 5.0
+	StartingEp = 52000.0
+	EffectUnlockEp = [52000.0, 225000.0]
+
+[grade3]
+	EPGain = 0.02
+	MaxRefinement = 10.0
+	StartingEp = 52000.0
+	EffectUnlockEp = [52000.0]

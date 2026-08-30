@@ -1,0 +1,5 @@
+id = "hell_flare_amplification"
+baseValue = 0.5
+valuePerRefinement = 0.1
+#Max Refinement -1 is no max
+maxRefinement = -1

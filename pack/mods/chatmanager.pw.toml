@@ -1,0 +1,13 @@
+name = "ChatManager"
+filename = "chatmanager-NEOFORGE-1.21.1-1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2012afa0072a985baac2c7ca9e8584a734bccd09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6913055
+project-id = 1298988

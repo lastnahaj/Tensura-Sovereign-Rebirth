@@ -1,0 +1,5 @@
+id = "demonic_awareness"
+baseValue = 2.0
+valuePerRefinement = 1.0
+#Max Refinement -1 is no max
+maxRefinement = -1

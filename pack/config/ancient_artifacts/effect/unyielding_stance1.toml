@@ -1,0 +1,5 @@
+id = "unyielding_stance1"
+baseValue = 5.0
+valuePerRefinement = 0.5
+#Max Refinement -1 is no max
+maxRefinement = -1

@@ -1,0 +1,3 @@
+loot_id = "artifacts:artifact"
+chance = 0.05
+itemWeights = ["ancient_artifacts:shadowbind_bracelet:1", "ancient_artifacts:lion_emblem:1", "ancient_artifacts:war_pendant:4", "ancient_artifacts:crimson_mizuhiki:4", "ancient_artifacts:amulet_of_the_sylphs:4", "ancient_artifacts:titanstride_greaves:10", "ancient_artifacts:magicule_conduit_belt:10"]

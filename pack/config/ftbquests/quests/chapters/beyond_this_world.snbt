@@ -1,0 +1,181 @@
+{
+	autofocus_id: "75A5050100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "beyond_this_world"
+	group: ""
+	icon: { id: "twilightforest:magic_map" }
+	id: "75A5050000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_4_birth_of_a_nation.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 5
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5040100000008"]
+			description: [
+				"Carry food, blocks, a recovery plan, and a marked return route before crossing a dimension boundary."
+			]
+			icon: { id: "minecraft:compass" }
+			id: "75A5050100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5050200000001"
+				count: 1L
+				item: { count: 1, id: "minecraft:compass" }
+				type: "item"
+			}]
+			title: "Pack for Another World"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000001"]
+			description: [
+				"Construct and activate a Twilight Forest portal, then confirm the dimension loads without registry or terrain-generation errors."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5050100000002"
+			tasks: [{
+				id: "75A5050200000002"
+				title: "Enter the Twilight Forest"
+				type: "checkmark"
+			}]
+			title: "Enter the Twilight"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000002"]
+			description: [
+				"Craft a Twilight Forest Magic Map and use it to select a progression-appropriate destination."
+			]
+			icon: { id: "twilightforest:magic_map" }
+			id: "75A5050100000003"
+			tasks: [{
+				id: "75A5050200000003"
+				count: 1L
+				item: { count: 1, id: "twilightforest:magic_map" }
+				type: "item"
+			}]
+			title: "Map the Forest"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000003"]
+			description: [
+				"Construct an Aether portal and verify entry, return travel, and player inventory persistence."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5050100000004"
+			tasks: [{
+				id: "75A5050200000004"
+				title: "Enter the Aether"
+				type: "checkmark"
+			}]
+			title: "Climb Into the Aether"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000004"]
+			description: [
+				"Activate a Waystone or establish another safe route near a validated dimension hub."
+			]
+			icon: { id: "waystones:waystone" }
+			id: "75A5050100000005"
+			tasks: [{
+				id: "75A5050200000005"
+				count: 1L
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			title: "Secure the Crossing"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000005"]
+			description: [
+				"Explore one curated structure without assuming every container or encounter is balanced for your current race."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5050100000006"
+			tasks: [{
+				id: "75A5050200000006"
+				title: "Explore a Curated Structure"
+				type: "checkmark"
+			}]
+			title: "Structures Worth Finding"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000006"]
+			description: [
+				"Carry an ordinary map as a record of the routes and settlements around your established portals."
+			]
+			icon: { id: "minecraft:map" }
+			id: "75A5050100000007"
+			tasks: [{
+				id: "75A5050200000007"
+				count: 1L
+				item: { count: 1, id: "minecraft:map" }
+				type: "item"
+			}]
+			title: "Chart the Unknown"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5050100000007"]
+			description: [
+				"Return to the primary base, unload safely, and confirm all visited dimensions survive a clean server restart."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5050100000008"
+			rewards: [{
+				count: 4
+				id: "75A5050300000008"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5050200000008"
+				title: "Complete a Dimensional Round Trip"
+				type: "checkmark"
+			}]
+			title: "Home Through the Gate"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 5 — Beyond This World"
+}

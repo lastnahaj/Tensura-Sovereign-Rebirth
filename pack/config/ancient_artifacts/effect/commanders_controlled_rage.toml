@@ -1,0 +1,6 @@
+bonusThresholdPerRefinement = 0.05
+magiculePercentForNextIncrease = 0.25
+magiculeCostReductionPerIncrease = 0.1
+#Max Refinement -1 is no max
+max_refinements = 3
+mastery_unlock = true

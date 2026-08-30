@@ -1,0 +1,5 @@
+id = "windborne_movement"
+baseValue = 0.15
+valuePerRefinement = 0.05
+#Max Refinement -1 is no max
+maxRefinement = -1

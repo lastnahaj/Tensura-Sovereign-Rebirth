@@ -1,0 +1,5 @@
+id = "prediction_evasion"
+baseValue = 0.05
+valuePerRefinement = 0.0133
+#Max Refinement -1 is no max
+maxRefinement = -1

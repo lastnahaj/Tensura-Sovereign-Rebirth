@@ -1,0 +1,13 @@
+name = "FTB Chunks x Xaero's Map Compat"
+filename = "ftbxaerocompat-neoforge-1.1.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6923ae95bdde32d8b504364ea125969cc7d6cb2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8103626
+project-id = 1357724

@@ -1,0 +1,5 @@
+health_percent_for_activate = 0.25
+base_value = 0.15
+value_per_refinement = 0.025
+#Max Refinement -1 is no max
+max_refinements = 2

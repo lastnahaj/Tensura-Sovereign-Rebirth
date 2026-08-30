@@ -246,6 +246,12 @@
     ],
     "Adventure, Bosses & World": [
       {
+        "name": "Artifacts",
+        "version": "13.2.3",
+        "status": "VERIFIED-STARTUP",
+        "notes": "Active beta candidate. Clean-world and saved-world server starts plus graphical client construction passed; loot density and equipment progression remain under gameplay validation."
+      },
+      {
         "name": "L_Ender's Cataclysm",
         "version": "3.33",
         "status": "LOCK"
@@ -298,6 +304,12 @@
         "name": "Supplementaries",
         "version": "3.9.1",
         "status": "LOCK"
+      },
+      {
+        "name": "Supplementaries Squared",
+        "version": "1.21-1.2.18",
+        "status": "VERIFIED-STARTUP",
+        "notes": "Active beta candidate using the existing Supplementaries and Moonlight dependency stack; clean-world, saved-world, and graphical client construction passed."
       },
       {
         "name": "Amendments",
@@ -528,9 +540,9 @@
       },
       {
         "name": "Tensura: Ancient Artifacts",
-        "version": "Resolve current 1.21.1 release",
-        "status": "TEST",
-        "notes": "Keep only if artifacts complement rather than replace Gear Evolution."
+        "version": "1.0.3",
+        "status": "VERIFIED-STARTUP",
+        "notes": "Active beta candidate. Clean-world and saved-world server starts plus graphical client construction passed; Gear Evolution overlap remains under gameplay validation."
       },
       {
         "name": "Tensura Plundering",

@@ -1,0 +1,5 @@
+id = "quick_movement"
+baseValue = 0.01
+valuePerRefinement = 0.01
+#Max Refinement -1 is no max
+maxRefinement = 9

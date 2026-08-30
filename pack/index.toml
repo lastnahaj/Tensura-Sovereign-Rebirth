@@ -29,6 +29,98 @@ file = "config/almostunified/unification/materials.json"
 hash = "5335759f34951d85b337a06665060e6031ea3f34c5b18a4646a65a99a5dd09ed"
 
 [[files]]
+file = "config/ancient_artifacts/effect/beast_aura.toml"
+hash = "73398b01e8e37f1511efcbfa7131f767cbf283a27cb7cf684811b06ce0b6a063"
+
+[[files]]
+file = "config/ancient_artifacts/effect/commanders_controlled_rage.toml"
+hash = "9bf68687e215d25865d861c05d275eacfada5179a1806997d6080c7c0eb6bd59"
+
+[[files]]
+file = "config/ancient_artifacts/effect/current_mastery.toml"
+hash = "9edd40c745f064fb0cd1217e8a32cc29ba45f7448ab272da742f41981caab3d6"
+
+[[files]]
+file = "config/ancient_artifacts/effect/demonic_awareness.toml"
+hash = "a27d7e4e13d2703d27ae9e6554deacbea3928eefff7e1d05f5eca455f163c179"
+
+[[files]]
+file = "config/ancient_artifacts/effect/flow_of_mastery.toml"
+hash = "0b04526418b32ee54d0bc00b33d0cf4a944a73c829ff57a15fbc81b3a403b02e"
+
+[[files]]
+file = "config/ancient_artifacts/effect/hell_flare_amplification.toml"
+hash = "c06c0d251d2b2ac427e9e89830ca5f0d8cb4e29479987347271730b887b1dcb1"
+
+[[files]]
+file = "config/ancient_artifacts/effect/kings_awakening.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ancient_artifacts/effect/magic_bullet_acceleration.toml"
+hash = "12b7a1e489aa06ca89db6e8650c112f3ba1f2e6c445bfbe1e0ab406f004f4a25"
+
+[[files]]
+file = "config/ancient_artifacts/effect/magicule_efficiency.toml"
+hash = "23a6d85b5231f14acae29475f08f4afa7990d1c1a8b2eb43dd9fad5fc1adaae7"
+
+[[files]]
+file = "config/ancient_artifacts/effect/ogres_wrath.toml"
+hash = "ab6648b6fa71b9ffdd8eff47035a9228381ba49f8a8a5a9f503bb44bd08932eb"
+
+[[files]]
+file = "config/ancient_artifacts/effect/prediction_evasion.toml"
+hash = "c4432ee35ce792cc80f253895fb2dad51fcd9ed45f2de1c8f217b3b5695d49f7"
+
+[[files]]
+file = "config/ancient_artifacts/effect/quick_movement.toml"
+hash = "bd5e9d35551dac78ca95abc662257fa5db909e5920a81e1644f8afc62a555a34"
+
+[[files]]
+file = "config/ancient_artifacts/effect/rapid_incantation.toml"
+hash = "11e3db53ce4c3dbe8caf28d92a88f33a2e66c1d8709e350614e4ea9681efd6b7"
+
+[[files]]
+file = "config/ancient_artifacts/effect/rising_inferno.toml"
+hash = "b028a51dcabe6ab970dd8a7bd5b2e1148138fa9af04ef4b7fb74710e62fd4f07"
+
+[[files]]
+file = "config/ancient_artifacts/effect/sovereign_wind.toml"
+hash = "b411a8e28778da77921d7ae28172329b286c7347d150c3fccdf21d32b4a035b2"
+
+[[files]]
+file = "config/ancient_artifacts/effect/unyielding_stance1.toml"
+hash = "57688c13408048b9ddd114bcf607f818dc47c01cee2d812511ba1bd64572febb"
+
+[[files]]
+file = "config/ancient_artifacts/effect/unyielding_stance2.toml"
+hash = "3fbfc68e2acd039bc796aab0e64e09548121b15735e3cf16e57e07e257f29f40"
+
+[[files]]
+file = "config/ancient_artifacts/effect/windborne_movement.toml"
+hash = "180ff8a3f40a7b39fb9d65cb83c30fe5f850f70efd49b703cc2196813d9c47a0"
+
+[[files]]
+file = "config/ancient_artifacts/loot/artifacts/artifact.toml"
+hash = "f6bbb1dd3fa409194e496f9ebeae39d3cce5aac9414a98af6e8ba261a1e1a215"
+
+[[files]]
+file = "config/ancient_artifacts/main_config.toml"
+hash = "701229168cccd2332ba868aecc7cd2a07edee395976a61f13abfe678b228d656"
+
+[[files]]
+file = "config/artifacts/client.toml"
+hash = "fcc980a4e12e76dc42a3bc27db9fe237f628c63e2544048802b239a2a989c44c"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "5011e7ea4ac490dbdc54a857259911719727befdf5de498ed4779b26239863a3"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "85218a5af8b311d663c58a6c9b69c98eebd92fb8d1b8aaffab4118aa22519cdf"
+
+[[files]]
 file = "config/beyond_gacha_c.toml"
 hash = "894ad3fc143265dab91b8dc1bf5123a7416436860d116fccfbd959e27482374a"
 
@@ -77,8 +169,36 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/beyond_this_world.snbt"
+hash = "7e2e1bb2b70925f1ca0f7e1041bd139092670775449aff28f06fdaba5356a581"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/birth_of_a_nation.snbt"
+hash = "e3e8be338147883d8e65adb8ad3541409a5a373a74c3d099a9780e7e24ecd0bb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/monsters_among_monsters.snbt"
+hash = "031298048f5bc712d7ea12c718d4813041fc6c532cbdd16a73188d5381c41148"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/paths_of_power.snbt"
+hash = "3aed23c45d4cf405a92f26c9bb7a0d21df91f15c7b183ed8b19d5358792ac14e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/reincarnated.snbt"
+hash = "c86128d5403898e82372897d2c176716fc300134ea7d061b8b51c54627e92720"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/sovereign_rebirth.snbt"
-hash = "2146887c31086e9f50a439d21a51d5adba9a0852cc5d1aa15fddd78403002635"
+hash = "394f97b25131b504357c5a956f0c0d82200f275e85983fc476caf64c283d5c78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_harvest_festival.snbt"
+hash = "370145c9c415c97773f8f0053f71f2c23b04d3a6f093a85eed3f820e8860b9d1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome_otherworlder.snbt"
+hash = "1085cbbdf350851e1c5e14c79c6a60884ff3c093b069b795d55f15d3e7314635"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -344,6 +464,10 @@ hash = "9f21b9bfabb8627d103c56b8a7227a61c87ed6b980cb50e6d1269ad3095288d0"
 [[files]]
 file = "config/structurize-server.toml"
 hash = "1d2f3c37e7a9f1d326ef013a02a50d7092cd13271a56f1db9154501bda3812d7"
+
+[[files]]
+file = "config/suppsquared-common.toml"
+hash = "a3440b61fdcd1dabfd525863005b3da7b281aab793a9a15ffa94d69b34f46449"
 
 [[files]]
 file = "config/tenmetalworks-common.toml"
@@ -706,6 +830,14 @@ file = "config/walkers.json5"
 hash = "e85d0a0651e65adc3c05b37c1c3c21dfe733f81e6fbf2e227c00cae770db2859"
 
 [[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "ce568a1519a10f63e0bb8bb72fd6ed5528c9d97c79adfe1f9139a59c74e7466b"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "540cbd7efff89950084cfbf2aae2d8663023f75c41642b1da610a8470cfece9b"
+
+[[files]]
 file = "datapacks/.gitkeep"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
@@ -716,6 +848,14 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "kubejs/.gitkeep"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "kubejs/assets/tsr/textures/gui/quests/act_0_welcome_otherworlder.png"
+hash = "149d35c418919159781a8cdbd1f97286034b00d2b4ae9600672cee8b00553bc9"
+
+[[files]]
+file = "kubejs/assets/tsr/textures/gui/quests/act_4_birth_of_a_nation.png"
+hash = "eba7e8bd2ce6463698e4da165f02a9214aa681907750b9bacbaa922a28315b78"
 
 [[files]]
 file = "kubejs/assets/tsr/textures/gui/quests/sovereign_rebirth.png"
@@ -803,8 +943,28 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "66229b1f7491add697cf741db5a2cf0ef473e737c947306775bfcd4314a608b4"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "c9ca58da328803c75d127a2e5ef13af178a4d62333387ba28d1ca69d1bfb696f"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
-hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
+hash = "d4e79bdcdf1547cfea12cdbf45db9736d4445da02f217e7a029b20041df23350"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "c7f2396a687a762ee446f0d088c3a8e026c81455bdc426f139b48aaab8e0415d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cf7414e441490b991e95709fc0eee2cacb354b791e6cd99c338d22e0b590f9e4"
 metafile = true
 
 [[files]]
@@ -818,8 +978,18 @@ hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "88cfeff853050caeb50c1f21e4001524351a58195bc8ae4d14068ad7e1461329"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "41679608577cd9aadf512999bdeb4690bce62393bdab682ec9c5cc306650c947"
+metafile = true
+
+[[files]]
+file = "mods/chatmanager.pw.toml"
+hash = "f470e94639855cac68bb414da67e9475410ec767785efaffeb65f7db5b1d2a5c"
 metafile = true
 
 [[files]]
@@ -829,12 +999,22 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b5a5b8dd97deb4151c54e5306a1ddae91fbbb75b3b79bb6e36ea7a1c9a7b57df"
+hash = "8d4795719200ac0e1ec58ade7af7fa1bc071f2508cfef73f964ef21c008e05f9"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
@@ -845,6 +1025,16 @@ metafile = true
 [[files]]
 file = "mods/craftedcore.pw.toml"
 hash = "4ecd48b799c8939ca070ee73a942d0dc7511b8fa8f431c1c281941e87859f485"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "27830c59583692b259277b23140638faf38d9d52dd8330873811d391de716fee"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
 metafile = true
 
 [[files]]
@@ -868,13 +1058,38 @@ hash = "03c4409fbfe50658d18f1905fd242da50e629eec03fd1b7a7075103a1486b045"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a1bc53c1d737b672c7a8984e77a80bd3ae1ec360eefbca2ad475cba07208e102"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "491e5bffdc5a4d1b8e052965d6a7b354fd83631e6543cd7fd9d717ae0918792a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e85ed25d2cca6e50e99de1445c9920480cad687f5b4a501192ebbdc99bcf183c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "404be790faacc930e00196b7d077eaf311157172bed1e20459ca27aade1374bf"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "c15365dda37f7178bf6f3b549e5e2c5e885d30271245c01aa6b48d1d4fcd41ec"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "bd214d34acf7fc40be2df4dafd5980e6fe21f326e42dd5379201eb5aff8fb2d3"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "dc17b7f74f1bae1fc85b048075ca57c92050ba9287b9f410b2b9bed0e13d568c"
 metafile = true
 
 [[files]]
@@ -928,6 +1143,16 @@ hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xaero-compat.pw.toml"
+hash = "6d497cf1f97553b3150dd14f0c42b063cfcacc2bdf0d34631702b19351763e53"
+metafile = true
+
+[[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "01290866d0c405f7b637961b71b13f36124c897e1f4fc748951a3eaa671dd082"
 metafile = true
@@ -963,6 +1188,16 @@ hash = "c6b149c13f5fe279a776cc73491396b250538a1f5a9ef212ca8ef5a9db1284e1"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f3b6a7834b045ff7d2067c9aac2d767de0e5ff9b6e5c86dedffca71ceddf4c8c"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "8c993cd5fa5c6408c2f78fc9a54f1c932dd57b8f58beddaf66cc766a3f90767e"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "1b23f5a7defc103d67d16db0053ff2f6240436bb0d682f760865b590e3416a65"
 metafile = true
@@ -988,13 +1223,23 @@ hash = "a3d803079f7cba47f9d6bf728198f2c335a13938ef50bbdaa3f7ae2457bef58d"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "ecc893f10bd3b4f29921e8baaeaf41ad9dd6febb47b49327a19f3b50edd2a784"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "063ca44fd575d69ecf5459873cc477ab19a29efb97351ba1f4bf622e36b28043"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "05aa5d04a38f1c1829e39056462b003a8cd313e22c5cd9e015a8bb413a14fdc7"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+hash = "e3f44993f114ae6e21f51ad43f234cc6245b2fc7ed4f6a186dcdbe3f6b53cbe8"
 metafile = true
 
 [[files]]
@@ -1103,6 +1348,11 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "459e01b45906491202c8214ad6dc386923d8d3acd48a9049e6ee6873310fef42"
+metafile = true
+
+[[files]]
 file = "mods/nightmare-utils.pw.toml"
 hash = "eeb8ab00a38d1d01348414a52c567676679d45e9168150f5a36c7f2eef752e68"
 metafile = true
@@ -1115,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "d1809bfbd83586f64ade4c22a7074572fa489805c7c1c2d3d653a8eadb32c65d"
 metafile = true
 
 [[files]]
@@ -1134,12 +1389,17 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+hash = "e98b10cfad1f1bcefede0d3ef09fa3b5f9c67b3ac0a191ac682bc6cf9c5a9dcc"
 metafile = true
 
 [[files]]
 file = "mods/productive-metalworks.pw.toml"
 hash = "694d12649998576224bbaa1b13939e1fd6e099320d73a0c5304e442f3c037652"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "364789ac23f5a2a3b5395b944168e350166f3d55f90331307ced12fe348ee897"
 metafile = true
 
 [[files]]
@@ -1159,7 +1419,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
+hash = "82bec0b1c82f0441c1c18de02bacb23cdbe2524acdf3bab2416017ec2517d65b"
 metafile = true
 
 [[files]]
@@ -1193,8 +1453,18 @@ hash = "6dd42e13f022e995360a4dd25b588b019ca5923170c7a44c174cde8832ca5ebe"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bd798ce13773f000ba4e17e1c578a4e37643884307bdfccfc53bab2fef27e715"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f64a57085ad571fec5fa79b9e3ca06ed73439e514440692a9df6e5a368216219"
 metafile = true
 
 [[files]]
@@ -1210,6 +1480,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "1e4dd7bcdaa5fa5c66ebb3d10ed34992c8009294b048eaaa310377f10e1a733d"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "68bcb76d5fdc1441e6a926b132f2e0b5ebbdce7503e9ec5021d6a63015431352"
 metafile = true
 
 [[files]]
@@ -1230,6 +1505,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "4cb932e43288a08c2cab16fd2c8c4973967ea6964d656172d18c47184436cdb0"
 metafile = true
 
 [[files]]
@@ -1388,6 +1668,25 @@ hash = "9a37b73309ab863349a61484ff125e3e266827e0741804aecc00da910357dd3f"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "b8c857559d3f0d64034f1cdac447ad180680a93118f8c1e760c329e0653d778d"
+metafile = true
+
+[[files]]
+file = "mods/tr-ancient-artifacts.pw.toml"
+hash = "e6a86400b168265ab56e008ca39e5fc1e2a3a138aa57ca6ccb127bb83106527e"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "619d2081dd5407958de638c698be1584e47aa85ff76225e65b6705d71171ef0e"
+metafile = true
+
+[[files]]
+file = "mods/tsr-client-stability-1.0.0.jar"
+hash = "e044e888ca8169681c02453daa5969771a519e8c169cd1ed990edea71f2d251e"
+
+[[files]]
 file = "mods/tsr-sgear-metalworks-compat-1.0.0.jar"
 hash = "57155d3ffe03155029bb3c04b09fbb1b2a1e427cb9c5ef7f32a64af601d20514"
 
@@ -1409,6 +1708,11 @@ metafile = true
 [[files]]
 file = "mods/woodwalkers.pw.toml"
 hash = "09345b00123e1beeef3e2507d73ba8d5536547f202eee4e7b38d0b9e031c93cf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "34afd2415c4af0b94514b40b1c3ac391ed523fc978b40a3398a30551c118075a"
 metafile = true
 
 [[files]]
@@ -1448,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "14c72240403f135adf396246416b76963e4d76cb8eff8f491519180ceda8e447"
+hash = "926705a3bc70403c1550f400fe8e44b8b5054f8d49fb16cfc0b228af65645e1d"
 
 [[files]]
 file = "resourcepacks/.gitkeep"

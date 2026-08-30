@@ -1,0 +1,5 @@
+id = "rapid_incantation"
+baseValue = 0.1
+valuePerRefinement = 0.02
+#Max Refinement -1 is no max
+maxRefinement = -1

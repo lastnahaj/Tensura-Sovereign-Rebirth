@@ -1,0 +1,4 @@
+base_value = 0.5
+value_per_refinement = 0.05
+#Max Refinement -1 is no max
+max_refinements = -1

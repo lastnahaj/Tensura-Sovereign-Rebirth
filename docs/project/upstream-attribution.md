@@ -1,7 +1,7 @@
 # Upstream Attribution
 
 The generated **Tensura: Reincarnated Reference** is adapted from the
-[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-08-27T17:20:50Z`.
+[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-08-27T23:22:44Z`.
 Each generated article links to its exact source page and records the upstream
 revision ID and modified timestamp used by the synchronizer.
 

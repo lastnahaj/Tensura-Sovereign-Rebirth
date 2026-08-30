@@ -1,0 +1,5 @@
+id = "sovereign_wind"
+baseValue = 0.25
+valuePerRefinement = 0.05
+#Max Refinement -1 is no max
+maxRefinement = -1

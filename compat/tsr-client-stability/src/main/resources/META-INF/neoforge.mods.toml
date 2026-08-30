@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "tsr_client_stability"
+version = "1.0.0"
+displayName = "TSR Client Stability"
+authors = "TSR Team"
+description = '''
+Client startup compatibility and persistence fixes for Tensura: Sovereign Rebirth.
+'''
+
+[[dependencies.tsr_client_stability]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.248]"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.tsr_client_stability]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "CLIENT"
+
+[[mixins]]
+config = "tsr_client_stability.mixins.json"

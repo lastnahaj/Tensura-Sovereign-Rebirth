@@ -11,8 +11,9 @@
 - Test candidates: **12**
 - Optional entries: **1**
 - Rejected entries tracked: **20**
+- Active post-freeze additions: **3**
 
-> This page preserves the v0.1 design authority and records newer runtime dispositions where verified. A design entry is not an installed claim. The current published build branch contains 53 Packwiz mod references, two pack-owned compatibility artifacts, and one verified embedded Flywheel dependency through the completed Phase 4A layer; later working candidates remain Under Validation until their phase report passes.
+> This page preserves the v0.1 design authority and records newer runtime dispositions where verified. A design entry is not an installed claim. Active candidates remain under gameplay validation after their construction gates pass.
 
 ## Status rules
 
@@ -96,6 +97,7 @@
 
 | Mod | Version | Status | Notes |
 |---|---|---|---|
+| Artifacts | 13.2.3 | VERIFIED-STARTUP | Exact official NeoForge artifact is available on both distribution platforms. Clean-world construction, save, restart, shutdown, and graphical client loading pass; loot density and Gear Evolution overlap remain under gameplay validation. |
 | Beyond Adventures | 1.1.9 | VERIFIED-STARTUP | Official NeoForge artifact is pinned to Modrinth version `Ybm5N8pk` and CurseForge project/file `1490800 / 8634809`. The playable profile passed a clean dedicated-server world start, 8-quest load, save, shutdown, and warm restart with terrain griefing disabled for companion skills. |
 | L_Ender's Cataclysm | 3.33 | LOCK |  |
 | Mowzie's Mobs | 1.8.2 | LOCK |  |
@@ -112,6 +114,7 @@
 | Mod | Version | Status | Notes |
 |---|---|---|---|
 | Supplementaries | 3.9.1 | LOCK |  |
+| Supplementaries Squared | 1.21-1.2.18 | VERIFIED-STARTUP | Uses the existing Supplementaries and Moonlight stack. Clean-world construction, save, restart, shutdown, dynamic resource generation, and graphical client loading pass. |
 | Amendments | 2.1.7 | LOCK |  |
 | FramedBlocks | 10.6.1 | LOCK |  |
 | Macaw's Furniture | 3.4.1 | LOCK |  |
@@ -149,6 +152,7 @@
 | Jade | 15.10.6 | LOCK-CLIENT | Configure so it does not spoil Great Sage/Appraisal mechanics. |
 | Xaero's Minimap | 26.4.2 | LOCK-CLIENT |  |
 | Xaero's World Map | 1.45.0 | LOCK-CLIENT |  |
+| FTB Chunks x Xaero's Map Compat | 1.1.4 | LOCK-CLIENT | Official NeoForge 1.21.1 file `8103626` (`1357724`); shows FTB claims and claim-edit controls on Xaero's maps. The project publishes on CurseForge only, so Modrinth export records it as a CurseForge-sourced client dependency. |
 | Mouse Tweaks | 2.26.1 | LOCK-CLIENT |  |
 | Inventory Essentials | 21.1.17 | LOCK-CLIENT |  |
 | Controlling | 19.0.4 | LOCK-CLIENT |  |
@@ -174,7 +178,7 @@
 | When Dungeons Arise | 2.1.68 | TEST | Strong thematic fit and present in the Tempest Protocol reference quest structure; must pass worldgen density/performance tests. |
 | You're in Grave Danger (YIGD) | 2.0.13 | TEST | Verify death/restoration preserves all Tensura, Gear Evolution and accessory/component state. |
 | Tensura: Virtuoso | 2.0.0.1 | TEST | Good skill diversity; audit incomplete/nonfunctional item content and balance first. |
-| Tensura: Ancient Artifacts | Resolve current 1.21.1 release | TEST | Keep only if artifacts complement rather than replace Gear Evolution. |
+| Tensura: Ancient Artifacts | 1.0.3 | VERIFIED-STARTUP | Exact official NeoForge artifact is available on both distribution platforms. Construction gates pass; artifact progression and Gear Evolution overlap remain under gameplay validation. |
 | Tensura Plundering | Resolve current 1.21.1 release | TEST | Audit skill-farm exploits with named mobs, citizens and subordinates. |
 | Tensura Naturesaura + Nature's Aura | Resolve current 1.21.1 releases | TEST | Include only if it adds world flavor without creating a competing mandatory magic progression. |
 | TNO / Neo Otherworld Compatibility Fix | Resolve current 1.21.1 release | TEST-COMPAT-ONLY | Use only if compatibility fixes are needed and overlapping backpack/progression content can be disabled. |

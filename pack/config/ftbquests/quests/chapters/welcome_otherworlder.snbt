@@ -1,0 +1,193 @@
+{
+	autofocus_id: "75A5000100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "welcome_otherworlder"
+	group: ""
+	icon: { id: "minecraft:nether_star" }
+	id: "75A5000000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_0_welcome_otherworlder.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 0
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Begin the guided TSR campaign and confirm that you can open and navigate the quest book."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5000200000001"
+				title: "Begin Sovereign Rebirth"
+				type: "checkmark"
+			}]
+			title: "A New World"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000001"]
+			description: [
+				"The crest above every chapter opens the TSR wiki. Use it for pack-specific guidance and the imported Tensura reference."
+				""
+				"Wiki: https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000100000002"
+			tasks: [{
+				id: "75A5000200000002"
+				title: "Locate the Wiki Crest"
+				type: "checkmark"
+			}]
+			title: "The Sovereign Archive"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000002"]
+			description: [
+				"Review the default controls before danger finds you. Tensura skill slots use Z, X, and C; the player list remains on Tab; conflicting optional controls begin unbound."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000100000003"
+			tasks: [{
+				id: "75A5000200000003"
+				title: "Review Controls and Video Settings"
+				type: "checkmark"
+			}]
+			title: "Take Control"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000003"]
+			description: [
+				"Create or join an FTB Team before shared progression begins. Team membership controls shared quest credit and works alongside the claim system."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000100000004"
+			tasks: [{
+				id: "75A5000200000004"
+				title: "Create or Join an FTB Team"
+				type: "checkmark"
+			}]
+			title: "Travel Together"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000004"]
+			description: [
+				"Open the Xaero map and confirm the FTB claim overlay. Claim only the chunks your group needs so shared servers retain room to grow."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5000100000005"
+			tasks: [{
+				id: "75A5000200000005"
+				title: "Create a Test Claim"
+				type: "checkmark"
+			}]
+			title: "Claim Your Ground"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000005"]
+			description: [
+				"Gather enough wood for tools, storage, and a safe starting shelter."
+			]
+			icon: { id: "minecraft:oak_log" }
+			id: "75A5000100000006"
+			rewards: [{
+				count: 16
+				id: "75A5000300000006"
+				item: { count: 1, id: "minecraft:torch" }
+				type: "item"
+			}]
+			tasks: [{
+				id: "75A5000200000006"
+				count: 16L
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			title: "First Materials"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000006"]
+			description: [
+				"Craft a workbench. Most TSR systems branch from ordinary survival crafting, so this remains the first reliable progression checkpoint."
+			]
+			icon: { id: "minecraft:crafting_table" }
+			id: "75A5000100000007"
+			rewards: [{
+				count: 8
+				id: "75A5000300000007"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			tasks: [{
+				id: "75A5000200000007"
+				count: 1L
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			title: "A Place to Work"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5000100000007"]
+			description: [
+				"Place light, storage, and a respawn point. A stable base is more valuable than rushing an unknown boss or dimension."
+			]
+			icon: { id: "minecraft:white_bed" }
+			id: "75A5000100000008"
+			rewards: [{
+				count: 4
+				id: "75A5000300000008"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5000200000008"
+				count: 1L
+				item: { count: 1, id: "minecraft:white_bed" }
+				type: "item"
+			}]
+			title: "Safe Before Strong"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 0 — Welcome, Otherworlder"
+}

@@ -1,0 +1,4 @@
+max_refinements = -1
+ap_max_usage_increase_per_refinement = 2000
+ap_max_usage_mastered = 10000
+ap_max_usage = 6000

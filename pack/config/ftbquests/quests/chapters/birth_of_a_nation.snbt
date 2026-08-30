@@ -1,0 +1,181 @@
+{
+	autofocus_id: "75A5040100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "birth_of_a_nation"
+	group: ""
+	icon: { id: "minecolonies:blockhuttownhall" }
+	id: "75A5040000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_4_birth_of_a_nation.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 4
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5030100000008"]
+			description: [
+				"Survey flat space, nearby resources, travel routes, and claimed boundaries before placing a colony. Leave enough room for roads and future districts."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5040100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5040200000001"
+				title: "Choose a Colony Site"
+				type: "checkmark"
+			}]
+			title: "Choose the Heartland"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000001"]
+			description: [
+				"Craft the Structurize Build Tool used by MineColonies to preview and place schematics."
+			]
+			icon: { id: "structurize:sceptergold" }
+			id: "75A5040100000002"
+			tasks: [{
+				id: "75A5040200000002"
+				count: 1L
+				item: { count: 1, id: "structurize:sceptergold" }
+				type: "item"
+			}]
+			title: "The Builder's Scepter"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000002"]
+			description: [
+				"Prepare a Supply Camp to establish the colony's first protected foothold."
+			]
+			icon: { id: "minecolonies:supplycampdeployer" }
+			id: "75A5040100000003"
+			tasks: [{
+				id: "75A5040200000003"
+				count: 1L
+				item: { count: 1, id: "minecolonies:supplycampdeployer" }
+				type: "item"
+			}]
+			title: "Supply the First Settlers"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000003"]
+			description: [
+				"Craft and place the Town Hall through the Build Tool. Confirm its preview fits inside the intended claim area before committing."
+			]
+			icon: { id: "minecolonies:blockhuttownhall" }
+			id: "75A5040100000004"
+			tasks: [{
+				id: "75A5040200000004"
+				count: 1L
+				item: { count: 1, id: "minecolonies:blockhuttownhall" }
+				type: "item"
+			}]
+			title: "Raise the Town Hall"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000004"]
+			description: [
+				"Build a Farmer's Delight Cooking Pot as an early communal food-production milestone."
+			]
+			icon: { id: "farmersdelight:cooking_pot" }
+			id: "75A5040100000005"
+			tasks: [{
+				id: "75A5040200000005"
+				count: 1L
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			title: "Feed a Growing People"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000005"]
+			description: [
+				"Give citizens safe paths, housing, food, and physical storage before expanding population or defenses."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5040100000006"
+			tasks: [{
+				id: "75A5040200000006"
+				title: "Stabilize Colony Logistics"
+				type: "checkmark"
+			}]
+			title: "Roads, Beds, Storage"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000006"]
+			description: [
+				"Align the colony footprint with FTB claims and team access. Test a teammate's allowed interaction without granting operator status."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5040100000007"
+			tasks: [{
+				id: "75A5040200000007"
+				title: "Verify Team Colony Access"
+				type: "checkmark"
+			}]
+			title: "Borders With Meaning"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5040100000007"]
+			description: [
+				"Complete a stable first district and review Tensura x MineColonies reputation and citizen integration without enabling experimental warfare systems."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5040100000008"
+			rewards: [{
+				count: 8
+				id: "75A5040300000008"
+				item: { count: 1, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5040200000008"
+				title: "Establish the First District"
+				type: "checkmark"
+			}]
+			title: "From Colony to Nation"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 4 — Birth of a Nation"
+}

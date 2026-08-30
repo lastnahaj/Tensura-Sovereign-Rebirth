@@ -23,6 +23,7 @@ The project combines character evolution, skills, Great Sage, Gear Evolution, su
 - [Mod Manifest](docs/mod-manifest.md)
 - [Compatibility Matrix](docs/compatibility-matrix.md)
 - [Roadmap](docs/roadmap.md)
+- [Build handoff](CODEX_HANDOFF.md)
 
 ## Project status
 

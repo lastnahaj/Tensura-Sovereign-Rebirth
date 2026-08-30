@@ -20,9 +20,14 @@
 - Added a playable beta test profile with separate client and server targets, conservative stability defaults, and an 8-quest branded onboarding path with a direct wiki link.
 - Documented and jointly omitted the frozen GriefLogger bridge pair and Ice & Fire compatibility pair from the playable test profile after reproducible startup failures. Their locked source-manifest entries remain unchanged pending project-owner direction.
 - Added the official Beyond Adventures 1.1.9 NeoForge artifact with matching Modrinth and CurseForge identities and a SHA-512 lock. The playable server profile passes clean-world startup, the authored 8-quest load, save, clean shutdown, and warm restart with the addon active.
+- Added FTB Chunks x Xaero's Map Compat 1.1.4 to the client profile so FTB claims are visible and editable from Xaero's minimap/world map. The official NeoForge 1.21.1 CurseForge artifact is pinned separately from the server runtime.
 - Added custom FancyMenu and Drippy loading presentation using the TSR menu artwork and logo, then passed a graphical main-menu smoke test.
+- Replaced the stretched menu artwork with a native widescreen background and added first-launch client defaults for stable video settings, Tensura Z/X/C skill controls, and an empty optional resource-pack selection.
 - Updated JEI to 19.32.0.359 after the earlier baseline failed the assembled client smoke test.
 - Produced separate private-beta CurseForge client, Modrinth client, and ready-to-run dedicated-server formats with deterministic checksums and archive validation.
+- Added Artifacts 13.2.3, Supplementaries Squared 1.21-1.2.18, and Tensura: Ancient Artifacts 1.0.3 using exact official CurseForge and Modrinth identities. The full runtime passes clean-world creation, 64-quest loading, save, shutdown, saved-world restart, and graphical client construction with all three active.
+- Added generated configuration baselines for the three artifact/decorative additions and reduced Artifacts campsite generation attempts from 40 to 16 per chunk for the beta stability profile.
+- Added `CODEX_HANDOFF.md` with the reproducible beta state, verified test evidence, deferred blockers, platform audit, and remaining release-candidate gates.
 
 ## TSR v0.1 — Design Freeze
 

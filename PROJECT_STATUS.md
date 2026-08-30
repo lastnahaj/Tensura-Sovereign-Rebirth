@@ -16,7 +16,7 @@
 - Documentation structure
 - Integrated Tensura reference architecture
 
-## Verified through current published build branch
+## Verified through current build branch
 
 - NeoForge 21.1.248 / Java 21 runtime foundation
 - Core Tensura progression addons and configuration reconstruction
@@ -27,8 +27,13 @@
 - Full playable-profile dedicated-server clean start, save, shutdown, and warm restart
 - Extracted server-package clean-world startup and shutdown
 - Full assembled graphical client main-menu startup with FancyMenu and Drippy branding
-- Eight onboarding quests with custom background and a clickable project-wiki crest
+- Eight authored quest chapters (64 quests) with custom backgrounds and a
+  clickable project-wiki crest
 - Beyond Adventures 1.1.9 active in the tested client and server profile
+- Artifacts 13.2.3, Supplementaries Squared 1.21-1.2.18, and Tensura: Ancient
+  Artifacts 1.0.3 active in the tested client and server profile
+- Client keybinding persistence across two clean restarts, using the
+  `tsr-client-stability` compatibility JAR
 - Complete upstream article discovery and generated reference: 986 discovered, 973 relevant imported, 13 non-content skipped, 0 page failures
 
 ## Pending assembly validation
@@ -46,10 +51,13 @@
 - Adventure bosses and dimensions
 - Public Modrinth redistribution/source audit; the current `.mrpack` is for private local import only
 - Launcher UI import checks for both client formats on tester machines
+- Colony addon platform audit: Lunara Colonies is ready for artifact staging;
+  JadeColonies, Minecolonies Questline, and Stylecolonies remain
+  `MODRINTH-PENDING`
 
 ## Quest implementation gate
 
-The assembled instance now contains a tested 8-quest onboarding chapter with a
-custom background and direct wiki link. The full 8-act handcrafted campaign
-remains planned and must be expanded against the assembled registries without
-inventing unsupported task or reward types.
+The assembled instance now contains eight authored quest chapters (64 quests)
+with custom backgrounds and direct wiki links. The full 8-act handcrafted
+campaign remains planned and must be expanded against the assembled registries
+without inventing unsupported task or reward types.

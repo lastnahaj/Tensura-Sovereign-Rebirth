@@ -1,0 +1,183 @@
+{
+	autofocus_id: "75A5020100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "paths_of_power"
+	group: ""
+	icon: { id: "minecraft:enchanting_table" }
+	id: "75A5020000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_0_welcome_otherworlder.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 2
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5010100000008"]
+			description: [
+				"Open Great Sage and learn which information it can provide. Voice input remains disabled by default for privacy and stability."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5020100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5020200000001"
+				title: "Open Great Sage"
+				type: "checkmark"
+			}]
+			title: "Consult Great Sage"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000001"]
+			description: [
+				"Keep books available for recipes, enchantments, skill notes, and the broader magic branch."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5020100000002"
+			tasks: [{
+				id: "75A5020200000002"
+				count: 4L
+				item: { count: 1, id: "minecraft:book" }
+				type: "item"
+			}]
+			title: "Record What You Learn"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000002"]
+			description: [
+				"Build an enchanting table as the vanilla foundation beneath TSR's wider magic and equipment systems."
+			]
+			icon: { id: "minecraft:enchanting_table" }
+			id: "75A5020100000003"
+			tasks: [{
+				id: "75A5020200000003"
+				count: 1L
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			title: "An Arcane Foundation"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000003"]
+			description: [
+				"Prepare a dependable weapon before testing new skills. Use the combat style that supports your race and specialization."
+			]
+			icon: { id: "minecraft:iron_sword" }
+			id: "75A5020100000004"
+			tasks: [{
+				id: "75A5020200000004"
+				count: 1L
+				item: { count: 1, id: "minecraft:iron_sword" }
+				type: "item"
+			}]
+			title: "A Weapon You Trust"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000004"]
+			description: [
+				"Craft a Sophisticated Backpack. It is TSR's personal storage layer and can grow without replacing your base storage."
+			]
+			icon: { id: "sophisticatedbackpacks:backpack" }
+			id: "75A5020100000005"
+			tasks: [{
+				id: "75A5020200000005"
+				count: 1L
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			title: "Carry Your Journey"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000005"]
+			description: [
+				"Craft a Sophisticated Storage chest for organized base inventory. Physical storage remains distinct from terminal access."
+			]
+			icon: { id: "sophisticatedstorage:chest" }
+			id: "75A5020100000006"
+			tasks: [{
+				id: "75A5020200000006"
+				count: 1L
+				item: { count: 1, id: "sophisticatedstorage:chest" }
+				type: "item"
+			}]
+			title: "Build Real Storage"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000006"]
+			description: [
+				"Craft Tom's Storage Terminal. TSR keeps Tom's as a terminal and network-access layer rather than a second physical storage family."
+			]
+			icon: { id: "toms_storage:storage_terminal" }
+			id: "75A5020100000007"
+			tasks: [{
+				id: "75A5020200000007"
+				count: 1L
+				item: { count: 1, id: "toms_storage:storage_terminal" }
+				type: "item"
+			}]
+			title: "One Network, Many Chests"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5020100000007"]
+			description: [
+				"Review your skills, magic, gear, backpack, and storage plan together. Avoid upgrades that skip the progression path you actually want to test."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5020100000008"
+			rewards: [{
+				count: 1
+				id: "75A5020300000008"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5020200000008"
+				title: "Confirm Your Power Build"
+				type: "checkmark"
+			}]
+			title: "Power With Purpose"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 2 — Paths of Power"
+}

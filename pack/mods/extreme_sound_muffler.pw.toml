@@ -1,0 +1,17 @@
+name = "Extreme sound muffler"
+filename = "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/m5je0Rop/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar"
+hash-format = "sha512"
+hash = "9938bb092ce3e2742281d972da9d509ad39b0c52590d33c4d8dc4759f3494f21bab0e30e3ccc096bf0b7af9cdb17182ad24c20ea20510767208eff14ad9fda93"
+
+[update]
+[update.modrinth]
+mod-id = "5IIKsxiL"
+version = "m5je0Rop"
+
+[update.curseforge]
+file-id = 7895926
+project-id = 363363

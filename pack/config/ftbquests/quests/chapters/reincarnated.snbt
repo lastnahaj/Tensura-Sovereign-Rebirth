@@ -1,0 +1,188 @@
+{
+	autofocus_id: "75A5010100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "reincarnated"
+	group: ""
+	icon: { id: "minecraft:experience_bottle" }
+	id: "75A5010000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_0_welcome_otherworlder.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 1
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5000100000008"]
+			description: [
+				"Read your race description, innate resistances, Magicule behavior, and visible evolution requirements before choosing a long-term direction."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5010100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5010200000001"
+				title: "Review Your Race"
+				type: "checkmark"
+			}]
+			title: "Know Your Race"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000001"]
+			description: [
+				"Open the Tensura interfaces and read every starting skill. A new ability can change combat, movement, survival, or evolution requirements."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5010100000002"
+			tasks: [{
+				id: "75A5010200000002"
+				title: "Review Your Starting Skills"
+				type: "checkmark"
+			}]
+			title: "Name Your Power"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000002"]
+			description: [
+				"Secure food before pursuing EP, structures, or long-distance exploration."
+			]
+			icon: { id: "minecraft:bread" }
+			id: "75A5010100000003"
+			tasks: [{
+				id: "75A5010200000003"
+				count: 8L
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			title: "Sustainable Life"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000003"]
+			description: [
+				"Build a dependable mining tool and gather stone, coal, and shelter materials."
+			]
+			icon: { id: "minecraft:stone_pickaxe" }
+			id: "75A5010100000004"
+			rewards: [{
+				count: 8
+				id: "75A5010300000004"
+				item: { count: 1, id: "minecraft:coal" }
+				type: "item"
+			}]
+			tasks: [{
+				id: "75A5010200000004"
+				count: 1L
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			title: "Tools of This World"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000004"]
+			description: [
+				"Tensura power does not replace ordinary protection. Gather iron for armor, utility blocks, and early machines."
+			]
+			icon: { id: "minecraft:iron_ingot" }
+			id: "75A5010100000005"
+			tasks: [{
+				id: "75A5010200000005"
+				count: 16L
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			title: "Magicules Need Armor"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000005"]
+			description: [
+				"Carry a shield while learning hostile mob and skill behavior. Defensive timing matters more than raw damage early on."
+			]
+			icon: { id: "minecraft:shield" }
+			id: "75A5010100000006"
+			tasks: [{
+				id: "75A5010200000006"
+				count: 1L
+				item: { count: 1, id: "minecraft:shield" }
+				type: "item"
+			}]
+			title: "Stand Your Ground"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000006"]
+			description: [
+				"Earn ordinary experience while watching how EP, Magicules, resistances, and skills progress independently."
+			]
+			icon: { id: "minecraft:experience_bottle" }
+			id: "75A5010100000007"
+			tasks: [{
+				id: "75A5010200000007"
+				count: 1L
+				item: { count: 1, id: "minecraft:experience_bottle" }
+				type: "item"
+			}]
+			title: "Experience the World"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5010100000007"]
+			description: [
+				"Select a first focus: skills and magic, equipment, guild missions, exploration, or nation building. Optional branches can be revisited later."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5010100000008"
+			rewards: [{
+				count: 8
+				id: "75A5010300000008"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5010200000008"
+				title: "Choose Your First Specialization"
+				type: "checkmark"
+			}]
+			title: "Choose a Direction"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 1 — Reincarnated"
+}

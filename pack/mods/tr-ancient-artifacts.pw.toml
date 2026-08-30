@@ -1,0 +1,17 @@
+name = "Tensura: Ancient Artifacts"
+filename = "AncientArtifacts-neoforge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UJOmjHfx/versions/x4wUUuXz/AncientArtifacts-neoforge-1.0.3.jar"
+hash-format = "sha512"
+hash = "81ce83402bf9aee7ac152093d0c1677e073db51ec7b7dab8ebe86a07b3d0f5bdd295ce5bc74189a544e93e5b284a9610fc63f8e5d4304c7b925fdf6257ebdf3d"
+
+[update]
+[update.modrinth]
+mod-id = "UJOmjHfx"
+version = "x4wUUuXz"
+
+[update.curseforge]
+file-id = 8585634
+project-id = 1603667

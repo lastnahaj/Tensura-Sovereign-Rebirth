@@ -1,0 +1,6 @@
+max_stack = 0.2
+increase_per_stack = 0.01
+time_till_next_stack = 3.0
+time_reduction_per_refine = 0.25
+#Max Refinement -1 is no max
+max_refinements = 2

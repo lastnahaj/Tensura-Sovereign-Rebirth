@@ -1,0 +1,2 @@
+# TSR HUD layout: Xaero's Minimap anchored to the top-right corner.
+module;id=xaerominimap:minimap;x=0;y=0;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;

@@ -15,7 +15,7 @@ from pathlib import Path
 
 READY = re.compile(r"Done \(([0-9.]+)s\)! For help")
 QUESTS = re.compile(
-    r"Loaded\s+1\s+(?:chapter\s+)?groups?,\s+1\s+chapters?,\s+([0-9]+)\s+quests?",
+    r"Loaded\s+[0-9]+\s+(?:chapter\s+)?groups?,\s+[0-9]+\s+chapters?,\s+([0-9]+)\s+quests?",
     re.I,
 )
 FATAL_MARKERS = (
@@ -115,6 +115,14 @@ def main() -> int:
         raise RuntimeError("Forbidden playable-profile mods are present: " + ", ".join(forbidden))
     if not any("beyond_adventures-neoforge-1.1.9.jar" == name for name in mod_names):
         raise RuntimeError("Beyond Adventures 1.1.9 is missing")
+    required_additions = (
+        "artifacts-neoforge-13.2.3.jar",
+        "suppsquared-neoforge-1.21-1.2.18.jar",
+        "ancientartifacts-neoforge-1.0.3.jar",
+    )
+    missing_additions = sorted(name for name in required_additions if name not in mod_names)
+    if missing_additions:
+        raise RuntimeError("Requested beta additions are missing: " + ", ".join(missing_additions))
 
     log_path.parent.mkdir(parents=True, exist_ok=True)
     command = [

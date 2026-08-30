@@ -1,0 +1,5 @@
+id = "flow_of_mastery"
+baseValue = 1.0
+valuePerRefinement = 0.1
+#Max Refinement -1 is no max
+maxRefinement = -1

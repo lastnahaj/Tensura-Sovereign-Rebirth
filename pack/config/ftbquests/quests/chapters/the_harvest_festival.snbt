@@ -1,0 +1,181 @@
+{
+	autofocus_id: "75A5060100000001"
+	default_hide_dependency_lines: false
+	default_min_width: 260
+	default_quest_shape: "circle"
+	filename: "the_harvest_festival"
+	group: ""
+	icon: { id: "minecraft:nether_star" }
+	id: "75A5060000000001"
+	images: [
+		{
+			alpha: 45
+			height: 17.0d
+			image: "tsr:textures/gui/quests/act_4_birth_of_a_nation.png"
+			order: -10
+			rotation: 0.0d
+			width: 30.0d
+			x: 9.625d
+			y: 2.5d
+		}
+		{
+			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			height: 3.0d
+			hover: ["Open the TSR Wiki and Tensura Reference"]
+			image: "tsr:textures/gui/quests/wiki_crest.png"
+			order: 5
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.25d
+			y: -4.5d
+		}
+	]
+	order_index: 6
+	progression_mode: "linear"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["75A5050100000008"]
+			description: [
+				"Read the current Demon Lord, Hero, soul, and awakening requirements in the TSR wiki before pursuing an irreversible progression milestone."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5060100000001"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5060200000001"
+				title: "Review Awakening Requirements"
+				type: "checkmark"
+			}]
+			title: "Understand Awakening"
+			x: 0.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000001"]
+			description: [
+				"Gather Blaze Rods for brewing, Eyes of Ender, and late-game preparation."
+			]
+			icon: { id: "minecraft:blaze_rod" }
+			id: "75A5060100000002"
+			tasks: [{
+				id: "75A5060200000002"
+				count: 8L
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			title: "Fire of the Nether"
+			x: 2.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000002"]
+			description: [
+				"Gather three Wither Skeleton Skulls and prepare a controlled arena away from claims and colony infrastructure."
+			]
+			icon: { id: "minecraft:wither_skeleton_skull" }
+			id: "75A5060100000003"
+			tasks: [{
+				id: "75A5060200000003"
+				count: 3L
+				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+				type: "item"
+			}]
+			title: "Skulls of the Withered"
+			x: 5.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000003"]
+			description: [
+				"Defeat the Wither and recover a Nether Star without allowing the fight to destroy another player's work."
+			]
+			icon: { id: "minecraft:nether_star" }
+			id: "75A5060100000004"
+			tasks: [{
+				id: "75A5060200000004"
+				count: 1L
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			title: "A Star Is Born"
+			x: 8.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000004"]
+			description: [
+				"Prepare Eyes of Ender for the route to the End and keep replacements for losses during travel."
+			]
+			icon: { id: "minecraft:ender_eye" }
+			id: "75A5060100000005"
+			tasks: [{
+				id: "75A5060200000005"
+				count: 12L
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			title: "Find the Stronghold"
+			x: 11.00d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000005"]
+			description: [
+				"Confirm the exact soul and alignment requirements for your path. Quest rewards never sell completed awakenings or Ultimate Skills."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5060100000006"
+			tasks: [{
+				id: "75A5060200000006"
+				title: "Verify Your Soul Progress"
+				type: "checkmark"
+			}]
+			title: "Souls Are Not Currency"
+			x: 13.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000006"]
+			description: [
+				"Coordinate awakening tests with teammates so witness, reward, announcement, and protected-area behavior can be observed safely."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5060100000007"
+			tasks: [{
+				id: "75A5060200000007"
+				title: "Prepare a Safe Awakening Test"
+				type: "checkmark"
+			}]
+			title: "Witness and Consequence"
+			x: 16.50d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A5060100000007"]
+			description: [
+				"Reach the appropriate awakening milestone for your chosen path and record the resulting race, skills, stats, and persistence after restart."
+			]
+			icon: { id: "minecraft:book" }
+			id: "75A5060100000008"
+			rewards: [{
+				count: 2
+				id: "75A5060300000008"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "75A5060200000008"
+				title: "Complete an Awakening Milestone"
+				type: "checkmark"
+			}]
+			title: "The Festival Begins"
+			x: 19.25d
+			y: -0.5d
+		}
+	]
+	title: "Act 6 — The Harvest Festival"
+}

@@ -17,10 +17,10 @@ EXPECTED = {
     "neoforge": "21.1.248",
 }
 PACK_OWNED_JARS = {
-    Path("pack/mods/tsr-unique-monsters-compat-1.0.0.jar"):
-        "e5b9799bb648d1933c7e50b980ecbfc4a8bc24e91008f46380133d49a85a5a65",
     Path("pack/mods/tsr-sgear-metalworks-compat-1.0.0.jar"):
         "57155d3ffe03155029bb3c04b09fbb1b2a1e427cb9c5ef7f32a64af601d20514",
+    Path("pack/mods/tsr-client-stability-1.0.0.jar"):
+        "e044e888ca8169681c02453daa5969771a519e8c169cd1ed990edea71f2d251e",
 }
 DIRECT_DEPENDENCIES = {
     Path("mods/beyond-adventures.pw.toml"): {
@@ -104,24 +104,88 @@ EXPECTED_CLIENT_OPTIONS = {
     "bobView": "false",
     "resourcePacks": "[]",
     "incompatibleResourcePacks": "[]",
+    "key_key.playerlist": "key.keyboard.tab",
     "key_tensura.keybinding.ability.slot_1": "key.keyboard.z",
     "key_tensura.keybinding.ability.slot_2": "key.keyboard.x",
     "key_tensura.keybinding.ability.slot_3": "key.keyboard.c",
+    "key_tensura.keybinding.next_mode": "key.keyboard.grave.accent",
+    "key_key.sophisticatedbackpacks.open_backpack": "key.keyboard.o",
+    "key_key.walkers": "key.keyboard.h",
+    "key_key.irons_spellbooks.spell_wheel": "key.keyboard.k",
+    "key_key.irons_spellbooks.spellbook_cast": "key.keyboard.j",
+    "key_key.greatsage.menu": "key.keyboard.g",
+    "key_key.greatsage.assess": "key.keyboard.comma",
+    "key_key.greatsage.scan": "key.keyboard.period",
+    "key_key.toms_storage.open_terminal": "key.keyboard.apostrophe",
 }
 UNBOUND_CLIENT_OPTIONS = {
     "key_key.saveToolbarActivator",
     "key_key.loadToolbarActivator",
     "key_key.sophisticatedbackpacks.inventory_interaction",
+    "key_key.sophisticatedbackpacks.toggle_upgrade_1",
+    "key_key.sophisticatedbackpacks.toggle_upgrade_2",
+    "key_key.sophisticatedcore.transfer_to_storage",
+    "key_key.sophisticatedcore.transfer_to_inventory",
     "key_key.twilightforest.item_display_map_cycle",
     "key_key.twilightforest.zoom",
+    "key_key.twilightforest.swap_hotbar",
+    "key_supplementaries.keybind.quiver",
     "key_key.block_factorys_bosses.dodge_roll",
     "key_key.silentgear.cycle.back",
     "key_key.silentgear.cycle.next",
     "key_key.silentgear.openItem",
+    "key_key.walkers_ability",
+    "key_key.walkers_variants",
+    "key_key.aether.invisibility_toggle.desc",
+    "key_key.cataclysm.ability",
     "key_key.cataclysm.helmet_ability",
+    "key_key.cataclysm.chestplate_ability",
+    "key_key.cataclysm.boots_ability",
+    "key_key.curios.open.desc",
+    "key_accessories.key.open_accessories_screen",
+    "key_nightmareutils.keybinding.ability.deep_slot_a",
+    "key_nightmareutils.keybinding.ability.deep_slot_b",
+    "key_nightmareutils.keybinding.ability.deep_slot_c",
+    "key_key.tensura_minecolonies.open_roster",
+    "key_framedblocks.key.update_cull",
+    "key_key.kubejs.kubedex",
+    "key_key.ftbchunks.map",
+    "key_gui.xaero_open_settings",
+    "key_gui.xaero_minimap_settings",
+    "key_gui.xaero_new_waypoint",
+    "key_gui.xaero_waypoints_key",
     "key_gui.xaero_enlarge_map",
+    "key_gui.xaero_instant_waypoint",
     "key_key.legendary_monsters.fiery_boots_ability",
+    "key_key.legendary_monsters.mossy_chestplate_ability",
+    "key_key.legendary_monsters.roar_ability",
     "key_key.legendary_monsters.helmet_ability",
+    "key_key.jei.cheatOneItem",
+    "key_key.jei.cheatOneItem2",
+    "key_key.jei.cheatItemStack",
+    "key_key.jei.cheatItemStack2",
+    "key_key.jei.toggleCheatModeConfigButton",
+    "key_key.jei.toggleHideIngredient",
+    "key_key.jei.toggleWildcardHideIngredient",
+    "key_key.ftbquests.gui.extended_info",
+    "key_key.ftbquests.gui_editor.undo",
+    "key_key.ftbquests.gui_editor.redo",
+    "key_key.ftbquests.gui_editor.select_all",
+    "key_key.ftbquests.gui_editor.select_none",
+    "key_key.ftbquests.gui_editor.delete",
+    "key_key.ftbquests.gui_editor.force_delete",
+    "key_key.ftbquests.gui_editor.toggle_crosshairs",
+    "key_key.ftbquests.gui_editor.copy",
+    "key_key.ftbquests.gui_editor.paste",
+    "key_key.ftbquests.gui_editor.reward_tables",
+    "key_key.ftbquests.gui_editor.reload_theme",
+    "key_key.ftbquests.gui_quest_panel.edit_title",
+    "key_key.ftbquests.gui_quest_panel.edit_subtitle",
+    "key_key.ftbquests.gui_quest_panel.edit_desc",
+    "key_key.ftbquests.gui_quest_panel.add_page_break",
+    "key_key.ftbquests.gui_quest_panel.add_line",
+    "key_key.ftbquests.gui_quest_panel.add_image",
+    "key_key.ftbquests.gui_quest_panel.edit_quest_props",
 }
 
 
@@ -254,6 +318,22 @@ try:
             errors.append(f"Conflicting client keybind must remain unbound: {key}")
 except OSError as exc:
     errors.append(f"Missing client options baseline: {exc}")
+
+xaero_profile_path = CONFIG / "xaero" / "minimap" / "profiles" / "default.cfg"
+try:
+    xaero_profile = xaero_profile_path.read_text(encoding="utf-8")
+    if not re.search(r"^minimap_shape\s*=\s*1\s*$", xaero_profile, re.MULTILINE):
+        errors.append("Xaero's Minimap default profile must use the circular shape (minimap_shape = 1)")
+except OSError as exc:
+    errors.append(f"Missing Xaero's Minimap default profile: {exc}")
+
+xaero_hud_path = CONFIG / "xaerohud.txt"
+try:
+    xaero_hud = xaero_hud_path.read_text(encoding="utf-8")
+    if not re.search(r"module;id=xaerominimap:minimap;[^\n]*fromRight=true;", xaero_hud):
+        errors.append("Xaero's Minimap HUD layout must be anchored from the right")
+except OSError as exc:
+    errors.append(f"Missing Xaero HUD layout baseline: {exc}")
 
 runtime_state = CONFIG / "stextras" / "internal" / "tensura_config_patcher_state.toml"
 if runtime_state.exists():
