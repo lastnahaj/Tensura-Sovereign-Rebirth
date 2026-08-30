@@ -1,0 +1,16 @@
+name = "Dark Utilities"
+filename = "darkutils-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/L3pCjw49/darkutils-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "2e3e4cf3c2ff72d72dc89843846df42f8468424f44796639f4dd473e94b8f749e447fdaa7dc1af27aa673c3d163e9965754dd095d88be2d0ca1064d5b74c84d4"
+
+[update]
+[update.modrinth]
+mod-id = "CkqTAIaP"
+version = "L3pCjw49"
+[update.curseforge]
+file-id = 7336064
+project-id = 242195

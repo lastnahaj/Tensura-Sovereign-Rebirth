@@ -11,7 +11,6 @@ hash = "bdf105e505c9e6ae85d8df63ec47cdba59adac6727ef32d15aa13ed0ce3881e3d1fe076c
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "9Q9EA4jQ"
-
 [update.curseforge]
 file-id = 8177588
 project-id = 915902

@@ -3,11 +3,14 @@ filename = "supplementaries-1.21.1-3.9.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d7684ee80a2760380e4561802dd452737b2693ce"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/6vwrAvXf/supplementaries-1.21.1-3.9.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b72fad1d77d6d9dd536ce008f23a9014f4d47231ebf5c4e7d5c23156243f5135eacaf34b2d022a028412ffe5e803081b48abdf3ed61951c6930ad463633c9abb"
 
 [update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "6vwrAvXf"
 [update.curseforge]
 file-id = 8682869
 project-id = 412082

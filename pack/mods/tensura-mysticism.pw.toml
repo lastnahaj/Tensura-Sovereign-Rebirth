@@ -3,11 +3,14 @@ filename = "mysticism-neoforge-2.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cca1bd878b46c21ddbbf507bd4489fbb217899c7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bjvFzLV3/versions/FuZwNIyc/mysticism-neoforge-2.1.2.jar"
+hash-format = "sha512"
+hash = "22738c4dc55ee49dcfe57308a2eb60b21872e0cf8d66dcc9414fde757e95b2059220e8e682b833d2bbd2bcad451f8a7062927140052ee65b151207d1fe7d46e1"
 
 [update]
+[update.modrinth]
+mod-id = "bjvFzLV3"
+version = "FuZwNIyc"
 [update.curseforge]
 file-id = 8379529
 project-id = 1148149

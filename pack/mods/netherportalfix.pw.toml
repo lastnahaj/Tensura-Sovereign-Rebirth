@@ -1,6 +1,6 @@
 name = "NetherPortalFix"
 filename = "netherportalfix-neoforge-1.21.1-21.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar"
@@ -11,7 +11,6 @@ hash = "be26c53b4e7aa9dc27b05fe4cafdd120a3d1356410b35d25381d473bd9a7aa19ce6cec1b
 [update.modrinth]
 mod-id = "nPZr02ET"
 version = "O09BGtgh"
-
 [update.curseforge]
 file-id = 5623547
 project-id = 241160

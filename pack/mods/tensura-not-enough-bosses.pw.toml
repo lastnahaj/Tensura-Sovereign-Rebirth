@@ -3,11 +3,14 @@ filename = "tensura_neb-neoforge-2.0.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "253f960b9967d3c950cc5e4325b9fd00c8983418"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ODKaullJ/versions/yCLL5TdC/tensura_neb-neoforge-2.0.0.3.jar"
+hash-format = "sha512"
+hash = "5ed40aaaf21acadb0dfd14ae920029038e3c68e127b35a50cc258e594eb1d15bebe33ddd1a62621f42b7b4d18efe2391c232b62f7da2130a6004955c727825be"
 
 [update]
+[update.modrinth]
+mod-id = "ODKaullJ"
+version = "yCLL5TdC"
 [update.curseforge]
 file-id = 8022509
 project-id = 1230585

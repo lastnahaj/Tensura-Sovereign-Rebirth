@@ -1,0 +1,16 @@
+name = "TAB"
+filename = "TAB v5.5.0 1.20.5 - 1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gG7VFbG0/versions/7TrBCyBl/TAB%20v5.5.0%201.20.5%20-%201.21.1.jar"
+hash-format = "sha512"
+hash = "719d868ff4b2029a45121e6dc4f836318faef7b3e6063a8e464d9edf4ca2de00a9574a2b8cfde05e65e267378da4a8abe7e91240bf3a3dec693babe9acfe1446"
+
+[update]
+[update.modrinth]
+mod-id = "gG7VFbG0"
+version = "7TrBCyBl"
+[update.curseforge]
+file-id = 7659430
+project-id = 1232967

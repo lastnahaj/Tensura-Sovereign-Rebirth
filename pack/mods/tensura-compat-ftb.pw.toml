@@ -3,11 +3,14 @@ filename = "tensura_ftb-neoforge-2.0.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ea4f9553ab772aef245cf705dd559340e3c51202"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/UNCI38gZ/versions/ydPx4R4m/tensura_ftb-neoforge-2.0.0.4.jar"
+hash-format = "sha512"
+hash = "edc11cc0f761bb9476e94524ab4cfd1e9c31815b06ee640c6a9a56c354ab461f3ce64d2a2aa64cbf2ebfa65f1695bcca2ac1982b258ae693c2f0e3879c8e7d6f"
 
 [update]
+[update.modrinth]
+mod-id = "UNCI38gZ"
+version = "ydPx4R4m"
 [update.curseforge]
 file-id = 8375576
 project-id = 1501493

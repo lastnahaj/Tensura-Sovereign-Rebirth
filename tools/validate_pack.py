@@ -39,7 +39,22 @@ DIRECT_DEPENDENCIES = {
         "hash-format": "sha256",
         "hash": "b94099a82d51fa378f6ce30d788ca3f8cf0699fe16bbb536b516b03025301a42",
     },
+    Path("mods/tab.pw.toml"): {
+        "name": "TAB",
+        "filename": "TAB v5.5.0 1.20.5 - 1.21.1.jar",
+        "side": "server",
+        "url": "https://cdn.modrinth.com/data/gG7VFbG0/versions/7TrBCyBl/TAB%20v5.5.0%201.20.5%20-%201.21.1.jar",
+        "hash-format": "sha512",
+        "hash": "719d868ff4b2029a45121e6dc4f836318faef7b3e6063a8e464d9edf4ca2de00a9574a2b8cfde05e65e267378da4a8abe7e91240bf3a3dec693babe9acfe1446",
+    },
 }
+FORBIDDEN_SHIPPING_IDENTIFIERS = (
+    "tensura-trainer",
+    "tensura trainer",
+    "1399544",
+    "c2me-neoforge",
+    "tensura_fancymenu",
+)
 ALLOWED_TOOL_JARS = {
     Path("compat/tsr-unique-monsters-compat/gradle/wrapper/gradle-wrapper.jar"),
 }
@@ -277,6 +292,15 @@ for relative, expected in DIRECT_DEPENDENCIES.items():
     }
     if actual != expected:
         errors.append(f"Direct dependency lock changed: {relative}")
+
+for metadata_path in sorted((PACK / "mods").glob("*.pw.toml")):
+    metadata_text = metadata_path.read_text(encoding="utf-8").lower()
+    forbidden = [value for value in FORBIDDEN_SHIPPING_IDENTIFIERS if value in metadata_text]
+    if forbidden:
+        errors.append(
+            f"Non-shipping mod leaked into metadata {metadata_path.relative_to(PACK)}: "
+            + ", ".join(forbidden)
+        )
 
 config_files = [path for path in CONFIG.rglob("*") if path.is_file()]
 if len(config_files) < 159:

@@ -3,11 +3,14 @@ filename = "tensura_better_subs-neoforge-1.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "02050bcde1c13051c76781e6ec8e826204b4ead0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1aD7nY4F/versions/YEHpTlnx/tensura_better_subs-neoforge-1.2.4.jar"
+hash-format = "sha512"
+hash = "daddc36f517fbfa46cc0053dc730c08e763859bfb7b22ce354f3dc47af7a201a563e69ca78721935b5c930a7b012766fe5009a0a9e1456c283158d4c636bcb82"
 
 [update]
+[update.modrinth]
+mod-id = "1aD7nY4F"
+version = "YEHpTlnx"
 [update.curseforge]
 file-id = 8414486
 project-id = 1489224

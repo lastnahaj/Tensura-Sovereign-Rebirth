@@ -11,7 +11,6 @@ hash = "05b5cdad948d1735eab7a67a16aaf32814678c392014ec2ada61b8341c0ed1c1ac181cab
 [update.modrinth]
 mod-id = "iHLDc0eo"
 version = "uPFbnD32"
-
 [update.curseforge]
 file-id = 8576077
 project-id = 1637623

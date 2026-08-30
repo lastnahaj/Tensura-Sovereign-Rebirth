@@ -1,0 +1,13 @@
+name = "Minecolonies Questline"
+filename = "minecolonies-questline-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b4706e0d72a57523158769af9ca7a0c45fae5a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6958285
+project-id = 1326883

@@ -1,0 +1,16 @@
+name = "Runelic"
+filename = "runelic-neoforge-1.21.1-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4Xi5huA/versions/M8UE4SZz/runelic-neoforge-1.21.1-21.1.5.jar"
+hash-format = "sha512"
+hash = "5eae16a1d9e232ce6d0eac8621b63b0ea9092ea2b6b118e29f05be77daefc4cc0fb457b46fab11d270f413314de30205571909db1228d7e16b9655754f2d4550"
+
+[update]
+[update.modrinth]
+mod-id = "P4Xi5huA"
+version = "M8UE4SZz"
+[update.curseforge]
+file-id = 7115350
+project-id = 393149

@@ -56,14 +56,14 @@
       {
         "name": "Tensura: Unique Monsters",
         "version": "1.0.2",
-        "status": "LOCK",
-        "notes": "Required with TSR Unique Monsters Compat 1.0.0. Retain the exact official CurseForge artifact unmodified."
+        "status": "DEFERRED-BLOCKED",
+        "notes": "Reproducible startup-order race can invoke ExtraSkills.init() before the ManasCore skill registry exists during parallel construction. Re-entry requires an official lifecycle fix and the full isolated, cold-start, world, and restart test matrix."
       },
       {
         "name": "TSR Unique Monsters Compat",
         "version": "1.0.0",
-        "status": "DEPENDENCY",
-        "notes": "Required while Tensura: Unique Monsters 1.0.2 is active; corrects its ManasCore skill-registry construction ordering without modifying the upstream artifact."
+        "status": "DEFERRED-UNUSED",
+        "notes": "Diagnostic lifecycle bridge retained only as a development reference. Its JAR is not active or distributed."
       },
       {
         "name": "Great Sage",

@@ -3,11 +3,14 @@ filename = "block_factorys_bosses-2.1.2-neo-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "249a5f2ba43fd341d4a2831691c154d92aa5a12d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/q2bV1Tm1/versions/lE9PF6Wp/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+hash-format = "sha512"
+hash = "9a2b58bd7c15c15f089d87bdd1ac5b8cccaeab6a28518b9a10336e811334aba7e42c9cae7733a5fd7125ebce28554b0dea530cb7f86ecb85617203d948590344"
 
 [update]
+[update.modrinth]
+mod-id = "q2bV1Tm1"
+version = "lE9PF6Wp"
 [update.curseforge]
 file-id = 8123167
 project-id = 1314084

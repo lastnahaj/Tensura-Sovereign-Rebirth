@@ -3,11 +3,14 @@ filename = "craftedcore-5.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4215877e2366d0be5e159470b6ecdce33d34a0fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/i3N5JzAi/craftedcore-5.8.2.jar"
+hash-format = "sha512"
+hash = "d70b829b5693982f459db0b763eb9e8bce0c484903e8ee170917cdbda41f1df5b4d578582c07c1638822655f2f3b0f6915155fc134a6ca750a423083f9002dd2"
 
 [update]
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "i3N5JzAi"
 [update.curseforge]
 file-id = 7575403
 project-id = 923377

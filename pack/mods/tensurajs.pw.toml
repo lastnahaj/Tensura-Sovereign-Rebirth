@@ -1,0 +1,13 @@
+name = "TenSuraJS"
+filename = "tensura_kubejs-1.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55866ee7ae25df70725efef3884ff2e14bb14afc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8404046
+project-id = 1604504

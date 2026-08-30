@@ -3,11 +3,14 @@ filename = "remorphed-4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3ef42d5e63e9da8c9a845f1c14656950476c0309"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/JcEPAMP3/remorphed-4.2.jar"
+hash-format = "sha512"
+hash = "0283d0144fbaf33986053255fdf41aab7f1c3f239b0a5d29ef57838e9dd781e5d378b47d88e0aec69e446997f6df8a0065881f7cab62d98cb1a7a6ba6d2cc4fe"
 
 [update]
+[update.modrinth]
+mod-id = "8aeV5uJW"
+version = "JcEPAMP3"
 [update.curseforge]
 file-id = 5755692
 project-id = 950721

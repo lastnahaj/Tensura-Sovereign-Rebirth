@@ -1,6 +1,6 @@
 name = "KleeSlabs"
 filename = "kleeslabs-neoforge-1.21.1-21.1.11.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/p2xTwdDd/kleeslabs-neoforge-1.21.1-21.1.11.jar"
@@ -11,7 +11,6 @@ hash = "d0294689ed20082d04fc88d8a2fda7ec08211f51b9358ed4feff14a13604d36a9cbc35ca
 [update.modrinth]
 mod-id = "7uh75ruZ"
 version = "p2xTwdDd"
-
 [update.curseforge]
 file-id = 8163148
 project-id = 241895

@@ -1,0 +1,16 @@
+name = "Reintegrated: Chipped"
+filename = "reintegrated_chipped-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Rel2hNl/versions/L60LNn5J/reintegrated_chipped-1.0.0.jar"
+hash-format = "sha512"
+hash = "842fab7544199accebde2e33872439e4f1858d590edd651f90a7147914763f59dc1c25c179809c80161ebc78cd12bef3b847ac385780e5edc950c1503fb2fe78"
+
+[update]
+[update.modrinth]
+mod-id = "5Rel2hNl"
+version = "L60LNn5J"
+[update.curseforge]
+file-id = 6220344
+project-id = 1205717

@@ -3,11 +3,14 @@ filename = "tensura_iron_spells-neoforge-2.0.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "95e23b46acd164ced704613c2d373a7a6515fc74"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fQk5qi9V/versions/CTs63gMe/tensura_iron_spells-neoforge-2.0.0.0.jar"
+hash-format = "sha512"
+hash = "0595607e16a1f511a0dcf728a85453ce16038d7b5d4371d7324215447a0583d620218b872d17ee1d277cef7cdd8edf6fb8e27017f43488d58b27794b6ecf52a1"
 
 [update]
+[update.modrinth]
+mod-id = "fQk5qi9V"
+version = "CTs63gMe"
 [update.curseforge]
 file-id = 7905400
 project-id = 1140214

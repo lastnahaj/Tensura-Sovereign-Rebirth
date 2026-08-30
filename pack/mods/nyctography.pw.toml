@@ -1,0 +1,16 @@
+name = "Nyctography"
+filename = "nyctography-neoforge-1.21.1-21.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ViRnT7xw/versions/9wjJOAoA/nyctography-neoforge-1.21.1-21.1.8.jar"
+hash-format = "sha512"
+hash = "808b69a1c15c44fca7f8f2eaa4d8a728a8b08b73adecda9a482734cde616b6f8c3a7896b57bf395f19ed896880e1f48611f0560414ba12fa10cbf42bd6f99754"
+
+[update]
+[update.modrinth]
+mod-id = "ViRnT7xw"
+version = "9wjJOAoA"
+[update.curseforge]
+file-id = 7864313
+project-id = 1126493

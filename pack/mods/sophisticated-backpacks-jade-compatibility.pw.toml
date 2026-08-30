@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks / Jade | Compatibility"
+filename = "jade-sophisticated-backpacks-1.21.1-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9215de639a384b2017e2ec40610ca59562bf1e44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8734110
+project-id = 1668275

@@ -3,11 +3,14 @@ filename = "lithostitched-1.8.0+beta4-neoforge-21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0edda78ec8500143cca898881c476b2b04dac75a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/81DDKTGJ/lithostitched-1.8.0%2Bbeta4-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "f2bdbdd662d02d4357616a744f80edc14ae6ef866920ad6c177eba676a6591026d3bcf2241a05424f084c4bdad3a2bd00055daede58c5d06265d03add72769b3"
 
 [update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "81DDKTGJ"
 [update.curseforge]
 file-id = 8660310
 project-id = 936015

@@ -1,0 +1,13 @@
+name = "Jade / Farmers Delight | Compatibility"
+filename = "jade-farmers-delight-compat-1.21.1-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23decefd58bc20dbb6cc7c50a8c0e0659fff74fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8710272
+project-id = 1664189

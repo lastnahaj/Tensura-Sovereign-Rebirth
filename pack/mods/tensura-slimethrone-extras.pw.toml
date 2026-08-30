@@ -3,11 +3,14 @@ filename = "SlimeThroneExtras-neoforge-2.1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "506354ffcf888c573440cee273f49aa7d72a340c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PcmQvtAt/versions/8u8FzhZK/SlimeThroneExtras-neoforge-2.1.2.1.jar"
+hash-format = "sha512"
+hash = "db0e61bdf2ace391cea164d73d9852a4b868006fc0505efd8b275cb183cd304746b37cea2933e0054592137ba1b720782fe1e23b6b0a025263b1e2b974a26969"
 
 [update]
+[update.modrinth]
+mod-id = "PcmQvtAt"
+version = "8u8FzhZK"
 [update.curseforge]
 file-id = 8313927
 project-id = 1249067

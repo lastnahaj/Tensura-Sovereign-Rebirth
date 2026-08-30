@@ -3,11 +3,14 @@ filename = "lootr-neoforge-1.21.1-1.11.38.124.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e31c1ec4604ce2c902e8abe64dd3a7ee18860ddc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/Trh49IZt/lootr-neoforge-1.21.1-1.11.38.124.jar"
+hash-format = "sha512"
+hash = "b425225f416e1810146eae2cddaf178042756e21a2401f33704dcde8409b16db21b87f81121aae962d62b9bd94d227a8b393da352b04fdbcbc5ef575dce13c86"
 
 [update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "Trh49IZt"
 [update.curseforge]
 file-id = 8695784
 project-id = 361276

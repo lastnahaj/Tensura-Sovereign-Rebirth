@@ -1,0 +1,2941 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-30",
+  "runtime_reference_count": 209,
+  "active_reference_count": 206,
+  "excluded_reference_count": 3,
+  "imported_metadata_count": 0,
+  "updated_metadata_count": 0,
+  "active_cross_platform_exception_count": 75,
+  "server_requirements": [
+    {
+      "name": "FTB Essentials",
+      "filename": "ftb-essentials-neoforge-2101.1.10.jar",
+      "side": "both"
+    },
+    {
+      "name": "TAB",
+      "filename": "TAB v5.5.0 1.20.5 - 1.21.1.jar",
+      "side": "server",
+      "curseforge": {
+        "project_id": 1232967,
+        "file_id": 7659430
+      },
+      "modrinth": {
+        "project_id": "gG7VFbG0",
+        "version_id": "7TrBCyBl"
+      }
+    }
+  ],
+  "required_pack_additions": [
+    {
+      "name": "TSR Client Stability",
+      "filename": "tsr-client-stability-1.0.0.jar",
+      "side": "client",
+      "sha256": "e044e888ca8169681c02453daa5969771a519e8c169cd1ed990edea71f2d251e"
+    }
+  ],
+  "entries": [
+    {
+      "name": "AlmostUnified",
+      "filename": "almostunified-neoforge-1.21.1-1.4.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 633823,
+        "file_id": 8127603
+      },
+      "modrinth": {
+        "project_id": "sdaSaQEz",
+        "version_id": "e8iYxxI3"
+      }
+    },
+    {
+      "name": "Amendments",
+      "filename": "amendments-neoforge-1.21-2.1.7.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 896746,
+        "file_id": 8415430
+      },
+      "modrinth": {
+        "project_id": "6iTJugQR",
+        "version_id": "BoGvkmKs"
+      }
+    },
+    {
+      "name": "Ancient Artifacts",
+      "filename": "AncientArtifacts-neoforge-1.0.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1603667,
+        "file_id": 8585634
+      },
+      "modrinth": {
+        "project_id": "UJOmjHfx",
+        "version_id": "x4wUUuXz"
+      }
+    },
+    {
+      "name": "Apothic Spawners",
+      "filename": "ApothicSpawners-1.21.1-1.4.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 986583,
+        "file_id": 8469405
+      },
+      "modrinth": {
+        "project_id": "DfxVkOAO",
+        "version_id": "pWfxcfO2"
+      }
+    },
+    {
+      "name": "AppleSkin",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 248787,
+        "file_id": 7854442
+      },
+      "modrinth": {
+        "project_id": "EsAfCjCV",
+        "version_id": "uAKA6Laj"
+      }
+    },
+    {
+      "name": "Architectury",
+      "filename": "architectury-13.0.11-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 419699,
+        "file_id": 8492726
+      },
+      "modrinth": {
+        "project_id": "lhGA9TYQ",
+        "version_id": "1IiqEQGl"
+      }
+    },
+    {
+      "name": "Artifacts",
+      "filename": "artifacts-neoforge-13.2.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 312353,
+        "file_id": 8683747
+      },
+      "modrinth": {
+        "project_id": "P0Mu4wcQ",
+        "version_id": "aE1GPGY4"
+      }
+    },
+    {
+      "name": "Ascension",
+      "filename": "ascension-2.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1505110,
+        "file_id": 8060740
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Athena",
+      "filename": "athena-neoforge-1.21.1-4.0.6.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 841890,
+        "file_id": 8061947
+      },
+      "modrinth": {
+        "project_id": "b1ZV3DIJ",
+        "version_id": "dJgL278E"
+      }
+    },
+    {
+      "name": "Bad Packets",
+      "filename": "badpackets-neo-0.8.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 615134,
+        "file_id": 6067146
+      },
+      "modrinth": {
+        "project_id": "ftdbN0KK",
+        "version_id": "RNyYl9M3"
+      }
+    },
+    {
+      "name": "Balm",
+      "filename": "balm-neoforge-1.21.1-21.0.65.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 531761,
+        "file_id": 8645517
+      },
+      "modrinth": {
+        "project_id": "MBAkmtvl",
+        "version_id": "KgypwTqX"
+      }
+    },
+    {
+      "name": "Better Advanced Tooltips",
+      "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1637623,
+        "file_id": 8576077
+      },
+      "modrinth": {
+        "project_id": "iHLDc0eo",
+        "version_id": "uPFbnD32"
+      }
+    },
+    {
+      "name": "BetterF3",
+      "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 401648,
+        "file_id": 5873258
+      },
+      "modrinth": {
+        "project_id": "8shC1gFX",
+        "version_id": "maXNB1dn"
+      }
+    },
+    {
+      "name": "Beyond Adventures",
+      "filename": "Beyond_Adventures-Neoforge-1.1.9.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1490800,
+        "file_id": 8634809
+      },
+      "modrinth": {
+        "project_id": "8gmeH2WM",
+        "version_id": "Ybm5N8pk"
+      }
+    },
+    {
+      "name": "Bookshelf",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 228525,
+        "file_id": 7606240
+      },
+      "modrinth": {
+        "project_id": "uy4Cnpcm",
+        "version_id": "1sdJl7J1"
+      }
+    },
+    {
+      "name": "Bosses'Rise",
+      "filename": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1314084,
+        "file_id": 8123167
+      },
+      "modrinth": {
+        "project_id": "q2bV1Tm1",
+        "version_id": "lE9PF6Wp"
+      }
+    },
+    {
+      "name": "Bosses'Rise x Tensura Compatibility",
+      "filename": "bossesrisetensuracompat-1.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1651764,
+        "file_id": 8644620
+      },
+      "modrinth": null
+    },
+    {
+      "name": "ChatManager",
+      "filename": "chatmanager-NEOFORGE-1.21.1-1.3.7.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1298988,
+        "file_id": 6913055
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Chipped",
+      "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 456956,
+        "file_id": 5813117
+      },
+      "modrinth": {
+        "project_id": "BAscRYKm",
+        "version_id": "eqVowbGc"
+      }
+    },
+    {
+      "name": "Cloth Config v15 API",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 348521,
+        "file_id": 5729127
+      },
+      "modrinth": {
+        "project_id": "9s6osm5g",
+        "version_id": "izKINKFg"
+      }
+    },
+    {
+      "name": "Clumps",
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 256717,
+        "file_id": 5623731
+      },
+      "modrinth": {
+        "project_id": "Wnxd13zP",
+        "version_id": "jo7lDoK4"
+      }
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+      "pack_status": "DEFERRED-BLOCKED",
+      "reason": "Clean dedicated-server shutdown hangs with the tested alpha artifact.",
+      "side": null,
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 533097,
+        "file_id": 8646869
+      },
+      "modrinth": {
+        "project_id": "COlSi5iR",
+        "version_id": "kvrPcTsz"
+      }
+    },
+    {
+      "name": "Configured",
+      "filename": "configured-neoforge-1.21.1-2.6.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 457570,
+        "file_id": 7276577
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Connectivity Mod",
+      "filename": "connectivity-1.21.1-7.6.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 470193,
+        "file_id": 7367221
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Controlling",
+      "filename": "Controlling-neoforge-1.21.1-19.0.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 250398,
+        "file_id": 6085646
+      },
+      "modrinth": {
+        "project_id": "xv94TkTM",
+        "version_id": "zPQmabzR"
+      }
+    },
+    {
+      "name": "CraftedCore",
+      "filename": "craftedcore-5.8.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 923377,
+        "file_id": 7575403
+      },
+      "modrinth": {
+        "project_id": "Dg7PHdkJ",
+        "version_id": "i3N5JzAi"
+      }
+    },
+    {
+      "name": "Crafting Tweaks",
+      "filename": "craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 233071,
+        "file_id": 8697050
+      },
+      "modrinth": {
+        "project_id": "DMu0oBKf",
+        "version_id": "IhkQpEve"
+      }
+    },
+    {
+      "name": "Cupboard mod",
+      "filename": "cupboard-1.21.1-4.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 326652,
+        "file_id": 8749806
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 309927,
+        "file_id": 6529130
+      },
+      "modrinth": {
+        "project_id": "vvuO3ImH",
+        "version_id": "yohfFbgD"
+      }
+    },
+    {
+      "name": "DarkUtilities",
+      "filename": "darkutils-neoforge-1.21.1-21.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 242195,
+        "file_id": 7336064
+      },
+      "modrinth": {
+        "project_id": "CkqTAIaP",
+        "version_id": "L3pCjw49"
+      }
+    },
+    {
+      "name": "Distant Horizons",
+      "filename": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 508933,
+        "file_id": 8389148
+      },
+      "modrinth": {
+        "project_id": "uCdwusMi",
+        "version_id": "ZpKb4kZp"
+      }
+    },
+    {
+      "name": "Domum Ornamentum",
+      "filename": "domum-ornamentum-1.0.231-main.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 527361,
+        "file_id": 7789217
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Dynamic FPS",
+      "filename": "dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 335493,
+        "file_id": 7413010
+      },
+      "modrinth": {
+        "project_id": "LQ3K71Q1",
+        "version_id": "MHg23IvY"
+      }
+    },
+    {
+      "name": "Easy Anvils",
+      "filename": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 682567,
+        "file_id": 5733955
+      },
+      "modrinth": {
+        "project_id": "OZBR5JT5",
+        "version_id": "fSQSKhdF"
+      }
+    },
+    {
+      "name": "EnchantmentDescriptions",
+      "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 250419,
+        "file_id": 8693034
+      },
+      "modrinth": {
+        "project_id": "UVtY3ZAC",
+        "version_id": "IktklYWh"
+      }
+    },
+    {
+      "name": "Entity Model Features",
+      "filename": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 844662,
+        "file_id": 8063559
+      },
+      "modrinth": {
+        "project_id": "4I1XuqiY",
+        "version_id": "PAYgk63v"
+      }
+    },
+    {
+      "name": "Entity Texture Features",
+      "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 568563,
+        "file_id": 7930620
+      },
+      "modrinth": {
+        "project_id": "BVzZfTc1",
+        "version_id": "YEMROAHv"
+      }
+    },
+    {
+      "name": "EntityCulling",
+      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 448233,
+        "file_id": 8287097
+      },
+      "modrinth": {
+        "project_id": "NNAgCjsB",
+        "version_id": "5zRIon6w"
+      }
+    },
+    {
+      "name": "EpheroLib",
+      "filename": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 885449,
+        "file_id": 5872111
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Euphoria Patcher",
+      "filename": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 915902,
+        "file_id": 8177588
+      },
+      "modrinth": {
+        "project_id": "4H6sumDB",
+        "version_id": "9Q9EA4jQ"
+      }
+    },
+    {
+      "name": "Extreme Sound Muffler",
+      "filename": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 363363,
+        "file_id": 7895926
+      },
+      "modrinth": {
+        "project_id": "5IIKsxiL",
+        "version_id": "m5je0Rop"
+      }
+    },
+    {
+      "name": "FTB Chunks",
+      "filename": "ftb-chunks-neoforge-2101.1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 314906,
+        "file_id": 8520252
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Chunks x Xaero's Map Compat",
+      "filename": "ftbxaerocompat-neoforge-1.1.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1357724,
+        "file_id": 8103626
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Essentials",
+      "filename": "ftb-essentials-neoforge-2101.1.10.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 410811,
+        "file_id": 8442866
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Library",
+      "filename": "ftb-library-neoforge-2101.1.35.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 404465,
+        "file_id": 8569579
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Quests",
+      "filename": "ftb-quests-neoforge-2101.1.34.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 289412,
+        "file_id": 8730556
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Teams",
+      "filename": "ftb-teams-neoforge-2101.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 404468,
+        "file_id": 8724782
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB Ultimine",
+      "filename": "ftb-ultimine-neoforge-2101.1.15.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 386134,
+        "file_id": 8231400
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FTB XMod Compat",
+      "filename": "ftb-xmod-compat-neoforge-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 889915,
+        "file_id": 8653466
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Farmer's Delight",
+      "filename": "FarmersDelight-1.21.1-1.3.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 398521,
+        "file_id": 8672744
+      },
+      "modrinth": {
+        "project_id": "R2OftAxM",
+        "version_id": "wpkbWnVh"
+      }
+    },
+    {
+      "name": "FarmersStructures",
+      "filename": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1088877,
+        "file_id": 8130121
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Fast Item Frames",
+      "filename": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1210171,
+        "file_id": 6963018
+      },
+      "modrinth": {
+        "project_id": "FsoeTIV0",
+        "version_id": "gAkkWcSn"
+      }
+    },
+    {
+      "name": "Ferrite Core",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 429235,
+        "file_id": 7524151
+      },
+      "modrinth": {
+        "project_id": "uXXizFIs",
+        "version_id": "x7kQWVju"
+      }
+    },
+    {
+      "name": "Forgematica",
+      "filename": "forgematica-0.4.2+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 912441,
+        "file_id": 8385520
+      },
+      "modrinth": {
+        "project_id": "dCKRaeBC",
+        "version_id": "71jxaAwz"
+      }
+    },
+    {
+      "name": "Forgematica Printer",
+      "filename": "NeoForgematicaPrinter-0.1.0+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1487788,
+        "file_id": 7766770
+      },
+      "modrinth": null
+    },
+    {
+      "name": "FramedBlocks",
+      "filename": "FramedBlocks-10.6.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 441647,
+        "file_id": 8349218
+      },
+      "modrinth": {
+        "project_id": "wbgfS34j",
+        "version_id": "FBXGqSP5"
+      }
+    },
+    {
+      "name": "Fusion",
+      "filename": "fusion-1.3.14a-neoforge-mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 854949,
+        "file_id": 8721879
+      },
+      "modrinth": {
+        "project_id": "p19vrgc2",
+        "version_id": "LlLqATR6"
+      }
+    },
+    {
+      "name": "GeckoLib 4",
+      "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 388172,
+        "file_id": 8350073
+      },
+      "modrinth": {
+        "project_id": "8BmcQJ2H",
+        "version_id": "tPkJmim6"
+      }
+    },
+    {
+      "name": "Great Sage",
+      "filename": "greatsage-0.0.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1635097,
+        "file_id": 8640889
+      },
+      "modrinth": null
+    },
+    {
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 686911,
+        "file_id": 8664218
+      },
+      "modrinth": {
+        "project_id": "5ZwdcRci",
+        "version_id": "B2MHnfkW"
+      }
+    },
+    {
+      "name": "Inventory Essentials",
+      "filename": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 368825,
+        "file_id": 8362286
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Iris",
+      "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 455508,
+        "file_id": 8242804
+      },
+      "modrinth": {
+        "project_id": "YL57xq9U",
+        "version_id": "KduFYu4t"
+      }
+    },
+    {
+      "name": "Iron Furnaces",
+      "filename": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 237664,
+        "file_id": 7034259
+      },
+      "modrinth": {
+        "project_id": "yPlaLxD1",
+        "version_id": "WZ25JeYB"
+      }
+    },
+    {
+      "name": "Iron's Lib",
+      "filename": "irons_lib-1.21.1-2.1.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1492763,
+        "file_id": 8364894
+      },
+      "modrinth": {
+        "project_id": "9nfaJPtX",
+        "version_id": "sQyzhxuH"
+      }
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "filename": "irons_spellbooks-1.21.1-3.16.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 855414,
+        "file_id": 8680204
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Item Peek",
+      "filename": "itempeek-mc1.21.1-1.2.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1467647,
+        "file_id": 8591085
+      },
+      "modrinth": {
+        "project_id": "CTkjyW90",
+        "version_id": "661CpDr9"
+      }
+    },
+    {
+      "name": "Jade",
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 324717,
+        "file_id": 8591319
+      },
+      "modrinth": {
+        "project_id": "nvQzSEkH",
+        "version_id": "eYz2YBGT"
+      }
+    },
+    {
+      "name": "Jade Addons",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 583345,
+        "file_id": 6315149
+      },
+      "modrinth": {
+        "project_id": "xuDOzCLy",
+        "version_id": "Z9s9lM56"
+      }
+    },
+    {
+      "name": "Jade Farmer's Delight Compat",
+      "filename": "jade-farmers-delight-compat-1.21.1-neoforge-1.0.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1664189,
+        "file_id": 8710272
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Jade Sophisticated Backpacks Compat",
+      "filename": "jade-sophisticated-backpacks-1.21.1-neoforge-1.0.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1668275,
+        "file_id": 8734110
+      },
+      "modrinth": null
+    },
+    {
+      "name": "JadeColonies",
+      "filename": "jadecolonies-1.21.1-1.6.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 882310,
+        "file_id": 5721338
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Jupiter",
+      "filename": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1072905,
+        "file_id": 7738312
+      },
+      "modrinth": {
+        "project_id": "XbiLGMMU",
+        "version_id": "Jpcw76rq"
+      }
+    },
+    {
+      "name": "Just Enough Items",
+      "filename": "jei-1.21.1-neoforge-19.32.0.359.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 238222,
+        "file_id": 8392171
+      },
+      "modrinth": {
+        "project_id": "u6dRKJwZ",
+        "version_id": "MAi4uKUF"
+      }
+    },
+    {
+      "name": "Just Enough Resources",
+      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 240630,
+        "file_id": 6506298
+      },
+      "modrinth": {
+        "project_id": "uEfK2CXF",
+        "version_id": "TgNFki8j"
+      }
+    },
+    {
+      "name": "KleeSlabs",
+      "filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 241895,
+        "file_id": 8163148
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Konkrete",
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 410295,
+        "file_id": 5453385
+      },
+      "modrinth": {
+        "project_id": "J81TRJWm",
+        "version_id": "stJDU839"
+      }
+    },
+    {
+      "name": "KubeJS",
+      "filename": "kubejs-neoforge-2101.7.2-build.374.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 238086,
+        "file_id": 8715199
+      },
+      "modrinth": null
+    },
+    {
+      "name": "L_Ender's Cataclysm 1.21.1",
+      "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 551586,
+        "file_id": 8706841
+      },
+      "modrinth": {
+        "project_id": "46KJle7n",
+        "version_id": "mYBUDZWl"
+      }
+    },
+    {
+      "name": "Legendary Monsters x Tensura Compat",
+      "filename": "lmtensuracompat-1.0.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1652024,
+        "file_id": 8645965
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Lithostitched",
+      "filename": "lithostitched-1.8.0+beta4-neoforge-21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 936015,
+        "file_id": 8660310
+      },
+      "modrinth": {
+        "project_id": "XaDC71GB",
+        "version_id": "81DDKTGJ"
+      }
+    },
+    {
+      "name": "LootJS",
+      "filename": "lootjs-neoforge-1.21.1-3.7.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 570630,
+        "file_id": 8009262
+      },
+      "modrinth": {
+        "project_id": "fJFETWDN",
+        "version_id": "5AZDyUSn"
+      }
+    },
+    {
+      "name": "Lootintegrations mod",
+      "filename": "lootintegrations-1.21.1-4.7.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 580689,
+        "file_id": 6640970
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Lootr",
+      "filename": "lootr-neoforge-1.21.1-1.11.38.124.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 361276,
+        "file_id": 8695784
+      },
+      "modrinth": {
+        "project_id": "EltpO5cN",
+        "version_id": "Trh49IZt"
+      }
+    },
+    {
+      "name": "Lunara Colonies",
+      "filename": "neoforge-lunara-colonies-1.21.1.28.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1409914,
+        "file_id": 8523314
+      },
+      "modrinth": null
+    },
+    {
+      "name": "MaFgLib",
+      "filename": "mafglib-0.4.3+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 910766,
+        "file_id": 7493644
+      },
+      "modrinth": {
+        "project_id": "SKI34J7B",
+        "version_id": "CgDQ0u0Q"
+      }
+    },
+    {
+      "name": "Macaw's Bridges",
+      "filename": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 351725,
+        "file_id": 7627896
+      },
+      "modrinth": {
+        "project_id": "GURcjz8O",
+        "version_id": "aQ7rY7ng"
+      }
+    },
+    {
+      "name": "Macaw's Doors",
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 378646,
+        "file_id": 7618651
+      },
+      "modrinth": {
+        "project_id": "kNxa8z3e",
+        "version_id": "u7BRX44F"
+      }
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "filename": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 453925,
+        "file_id": 7308338
+      },
+      "modrinth": {
+        "project_id": "GmwLse2I",
+        "version_id": "jVdb0r4W"
+      }
+    },
+    {
+      "name": "Macaw's Furniture",
+      "filename": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 359540,
+        "file_id": 7255584
+      },
+      "modrinth": {
+        "project_id": "dtWC90iB",
+        "version_id": "Z5V3Ps7S"
+      }
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "filename": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 502372,
+        "file_id": 7304075
+      },
+      "modrinth": {
+        "project_id": "w4an97C2",
+        "version_id": "5U2kQZIL"
+      }
+    },
+    {
+      "name": "Macaw's Roofs",
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 352039,
+        "file_id": 6494399
+      },
+      "modrinth": {
+        "project_id": "B8jaH3P1",
+        "version_id": "jiXRXiSt"
+      }
+    },
+    {
+      "name": "Macaw's Stairs and Balconies",
+      "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1119394,
+        "file_id": 7317479
+      },
+      "modrinth": {
+        "project_id": "iP3wH1ha",
+        "version_id": "4t8L0dGP"
+      }
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "filename": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 400933,
+        "file_id": 7256148
+      },
+      "modrinth": {
+        "project_id": "n2fvCDlM",
+        "version_id": "StnP0RNi"
+      }
+    },
+    {
+      "name": "Macaw's Windows",
+      "filename": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 363569,
+        "file_id": 7317672
+      },
+      "modrinth": {
+        "project_id": "C7I0BCni",
+        "version_id": "rQUE4LCz"
+      }
+    },
+    {
+      "name": "ManasCore",
+      "filename": "manascore-neoforge-4.0.0.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 619025,
+        "file_id": 8022425
+      },
+      "modrinth": {
+        "project_id": "wRRSWpd1",
+        "version_id": "yhLQMaxS"
+      }
+    },
+    {
+      "name": "Material Backpack Evolution Fix",
+      "filename": "tensura_backpack_items-1.0.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1545102,
+        "file_id": 8099939
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Melody",
+      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 938643,
+        "file_id": 5453382
+      },
+      "modrinth": {
+        "project_id": "CVT4pFB2",
+        "version_id": "efcdRVZP"
+      }
+    },
+    {
+      "name": "MineColonies",
+      "filename": "minecolonies-1.1.1319-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 245506,
+        "file_id": 8138370
+      },
+      "modrinth": null
+    },
+    {
+      "name": "MineColonies: Jade crops",
+      "filename": "mcjadecrops-1.1.1300.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1537128,
+        "file_id": 8057200
+      },
+      "modrinth": {
+        "project_id": "UXA4S4VR",
+        "version_id": "XaTfkhAN"
+      }
+    },
+    {
+      "name": "Minecolonies Mages (Iron's Spells Integration)",
+      "filename": "minecolonies-mages-v2.3-neoforge-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1506482,
+        "file_id": 8441293
+      },
+      "modrinth": null
+    },
+    {
+      "name": "ModernFix",
+      "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 790626,
+        "file_id": 8459650
+      },
+      "modrinth": {
+        "project_id": "nmDcB62a",
+        "version_id": "VsJnrw8k"
+      }
+    },
+    {
+      "name": "Moog's Structure Lib",
+      "filename": "MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1337167,
+        "file_id": 8731537
+      },
+      "modrinth": {
+        "project_id": "1oUDhxuy",
+        "version_id": "3AOwEzBy"
+      }
+    },
+    {
+      "name": "MoogsEndStructures",
+      "filename": "MoogsEndStructures-1.21-2.0.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 892382,
+        "file_id": 8128039
+      },
+      "modrinth": {
+        "project_id": "r4PuRGfV",
+        "version_id": "JW80uvhz"
+      }
+    },
+    {
+      "name": "MoogsSoaringStructures",
+      "filename": "MoogsSoaringStructures-1.21-2.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1040210,
+        "file_id": 8128062
+      },
+      "modrinth": {
+        "project_id": "RJCLIx7k",
+        "version_id": "i1RQPVjQ"
+      }
+    },
+    {
+      "name": "MoogsTemplesReimagined",
+      "filename": "MoogsTemplesReimagined-1.21-1.1.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1339737,
+        "file_id": 8373992
+      },
+      "modrinth": {
+        "project_id": "UNanzCXS",
+        "version_id": "pI3PZZrR"
+      }
+    },
+    {
+      "name": "Moonlight Lib",
+      "filename": "moonlight-1.21.1-3.5.2-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 499980,
+        "file_id": 8749776
+      },
+      "modrinth": {
+        "project_id": "twkfQtEc",
+        "version_id": "dOMcBcAi"
+      }
+    },
+    {
+      "name": "More Culling",
+      "filename": "moreculling-neoforge-1.21.1-1.0.9.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 630104,
+        "file_id": 8563409
+      },
+      "modrinth": {
+        "project_id": "51shyZVL",
+        "version_id": "cJQs4xht"
+      }
+    },
+    {
+      "name": "Mouse Tweaks",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 60089,
+        "file_id": 5637846
+      },
+      "modrinth": {
+        "project_id": "aC3cM3Vq",
+        "version_id": "9I21YYxf"
+      }
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "filename": "mowziesmobs-1.21.1-1.8.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 250498,
+        "file_id": 7760267
+      },
+      "modrinth": {
+        "project_id": "BFbX9xcm",
+        "version_id": "xgAXTl17"
+      }
+    },
+    {
+      "name": "Multi-Piston",
+      "filename": "multipiston-1.2.51-1.21.1-snapshot.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 303278,
+        "file_id": 5783614
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Nature's Compass",
+      "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 252848,
+        "file_id": 7892954
+      },
+      "modrinth": {
+        "project_id": "fPetb5Kh",
+        "version_id": "nFniEtJV"
+      }
+    },
+    {
+      "name": "NetherPortalFix",
+      "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 241160,
+        "file_id": 5623547
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Nightmare Utils",
+      "filename": "nightmareutils-0.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1525266,
+        "file_id": 8679395
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Nyctography",
+      "filename": "nyctography-neoforge-1.21.1-21.1.8.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1126493,
+        "file_id": 7864313
+      },
+      "modrinth": {
+        "project_id": "ViRnT7xw",
+        "version_id": "9wjJOAoA"
+      }
+    },
+    {
+      "name": "OpenLoader",
+      "filename": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 354339,
+        "file_id": 6546293
+      },
+      "modrinth": {
+        "project_id": "KwWsINvD",
+        "version_id": "Szobbnyh"
+      }
+    },
+    {
+      "name": "Pick Up Notifier",
+      "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 351441,
+        "file_id": 6409785
+      },
+      "modrinth": {
+        "project_id": "ZX66K16c",
+        "version_id": "5NZounJc"
+      }
+    },
+    {
+      "name": "PigPen",
+      "filename": "pigpen-neoforge-1.21.1-21.1.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 396234,
+        "file_id": 7864177
+      },
+      "modrinth": {
+        "project_id": "2xZPITh8",
+        "version_id": "Lzdj6xkS"
+      }
+    },
+    {
+      "name": "Placebo",
+      "filename": "Placebo-1.21.1-9.9.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 283644,
+        "file_id": 8463693
+      },
+      "modrinth": {
+        "project_id": "tCkE8p2N",
+        "version_id": "1Ypo4tf4"
+      }
+    },
+    {
+      "name": "Player Animator",
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 658587,
+        "file_id": 7389814
+      },
+      "modrinth": {
+        "project_id": "gedNE4y2",
+        "version_id": "HJZB6bmA"
+      }
+    },
+    {
+      "name": "Polymorph",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 388800,
+        "file_id": 6794589
+      },
+      "modrinth": {
+        "project_id": "tagwiZkJ",
+        "version_id": "VEburL70"
+      }
+    },
+    {
+      "name": "Ponder",
+      "filename": "ponder-neoforge-1.0.81+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "PACK-OWNED-OR-UNRESOLVED",
+      "curseforge": null,
+      "modrinth": null
+    },
+    {
+      "name": "PrickleMC",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1023259,
+        "file_id": 6961457
+      },
+      "modrinth": {
+        "project_id": "aaRl8GiW",
+        "version_id": "EE1FHDyD"
+      }
+    },
+    {
+      "name": "Productive Metalworks",
+      "filename": "productivemetalworks-1.21.1-1.15.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1184570,
+        "file_id": 8558526
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Puzzles Lib",
+      "filename": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 495476,
+        "file_id": 8251525
+      },
+      "modrinth": {
+        "project_id": "QAGBst4M",
+        "version_id": "5A6wiMVf"
+      }
+    },
+    {
+      "name": "Quest Installer",
+      "filename": "minecolonies-questline-1.21.1-1.1.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1326883,
+        "file_id": 6958285
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Quest Shop",
+      "filename": "questshop-1.3.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1338320,
+        "file_id": 7016106
+      },
+      "modrinth": {
+        "project_id": "LdUMtD9A",
+        "version_id": "aVWmLb1H"
+      }
+    },
+    {
+      "name": "ReMorphed",
+      "filename": "remorphed-4.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 950721,
+        "file_id": 5755692
+      },
+      "modrinth": {
+        "project_id": "8aeV5uJW",
+        "version_id": "JcEPAMP3"
+      }
+    },
+    {
+      "name": "Rechiseled",
+      "filename": "rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 558998,
+        "file_id": 8301793
+      },
+      "modrinth": {
+        "project_id": "B0g2vT6l",
+        "version_id": "S5FnErRw"
+      }
+    },
+    {
+      "name": "Rechiseled: Chipped",
+      "filename": "rechiseled_chipped-2.0-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1007578,
+        "file_id": 7524185
+      },
+      "modrinth": {
+        "project_id": "ryYcxeeA",
+        "version_id": "UEdISMbk"
+      }
+    },
+    {
+      "name": "Reintegrated Chipped",
+      "filename": "reintegrated_chipped-1.0.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1205717,
+        "file_id": 6220344
+      },
+      "modrinth": {
+        "project_id": "5Rel2hNl",
+        "version_id": "L60LNn5J"
+      }
+    },
+    {
+      "name": "Repurposed Structures",
+      "filename": "repurposed_structures-7.5.22+1.21.1-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 368293,
+        "file_id": 8688394
+      },
+      "modrinth": {
+        "project_id": "QDNS5oAT",
+        "version_id": "8duZuWci"
+      }
+    },
+    {
+      "name": "Resourceful Lib",
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 570073,
+        "file_id": 5973188
+      },
+      "modrinth": {
+        "project_id": "G1hIVOrD",
+        "version_id": "x99nCLTm"
+      }
+    },
+    {
+      "name": "Rhino",
+      "filename": "rhino-2101.2.7-build.81.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 416294,
+        "file_id": 7104526
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Runelic",
+      "filename": "runelic-neoforge-1.21.1-21.1.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 393149,
+        "file_id": 7115350
+      },
+      "modrinth": {
+        "project_id": "P4Xi5huA",
+        "version_id": "M8UE4SZz"
+      }
+    },
+    {
+      "name": "Searchables",
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 858542,
+        "file_id": 5831692
+      },
+      "modrinth": {
+        "project_id": "fuuu3xnx",
+        "version_id": "iEE85X0w"
+      }
+    },
+    {
+      "name": "Silent Gear",
+      "filename": "silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 297039,
+        "file_id": 8095210
+      },
+      "modrinth": {
+        "project_id": "73mSSnCf",
+        "version_id": "VRVOMdub"
+      }
+    },
+    {
+      "name": "Silent Gear Jade Tiers",
+      "filename": "silentgear_jade_tiers-1.11.1-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1563627,
+        "file_id": 8218712
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Silent Gear Metalworks",
+      "filename": "sgearmetalworks-1.21.1-1.5.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1199188,
+        "file_id": 7897500
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Silent Lib",
+      "filename": "silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 242998,
+        "file_id": 7935618
+      },
+      "modrinth": {
+        "project_id": "BQhuHQo4",
+        "version_id": "xavD8Lt3"
+      }
+    },
+    {
+      "name": "Simple Voice Chat",
+      "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 416089,
+        "file_id": 8601207
+      },
+      "modrinth": {
+        "project_id": "9eGKb6K1",
+        "version_id": "2s7zUspF"
+      }
+    },
+    {
+      "name": "Skill Study Books",
+      "filename": "tensura_skill_books-neoforge-2.2.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1418495,
+        "file_id": 8472566
+      },
+      "modrinth": null
+    },
+    {
+      "name": "SlimeThroneExtras",
+      "filename": "SlimeThroneExtras-neoforge-2.1.2.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1249067,
+        "file_id": 8313927
+      },
+      "modrinth": {
+        "project_id": "PcmQvtAt",
+        "version_id": "8u8FzhZK"
+      }
+    },
+    {
+      "name": "SmartBrainLib",
+      "filename": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 661293,
+        "file_id": 7055149
+      },
+      "modrinth": {
+        "project_id": "PuyPazRT",
+        "version_id": "O5EpeqI3"
+      }
+    },
+    {
+      "name": "Sodium",
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 394468,
+        "file_id": 8756580
+      },
+      "modrinth": {
+        "project_id": "AANobbMI",
+        "version_id": "uMOpc5uV"
+      }
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 422301,
+        "file_id": 8687841
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Sophisticated Core",
+      "filename": "sophisticatedcore-1.21.1-1.4.89.2291.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 618298,
+        "file_id": 8687802
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Sophisticated Storage",
+      "filename": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 619320,
+        "file_id": 8687896
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 535489,
+        "file_id": 7032247
+      },
+      "modrinth": null
+    },
+    {
+      "name": "SparseStructures",
+      "filename": "sparsestructures-neoforge-1.21.1-3.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 911437,
+        "file_id": 6456912
+      },
+      "modrinth": {
+        "project_id": "qwvI41y9",
+        "version_id": "MoJZpi20"
+      }
+    },
+    {
+      "name": "Spud's Shops",
+      "filename": "spudaciousshops-1.9.10.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1388652,
+        "file_id": 8404840
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Structurize",
+      "filename": "structurize-1.0.830-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 298744,
+        "file_id": 8138382
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Stylecolonies",
+      "filename": "stylecolonies-1.15.58-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 827507,
+        "file_id": 8688839
+      },
+      "modrinth": null
+    },
+    {
+      "name": "SuperMartijn642's Config Library",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 438332,
+        "file_id": 5546996
+      },
+      "modrinth": {
+        "project_id": "LN9BxssP",
+        "version_id": "qKL9jM75"
+      }
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "filename": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 454372,
+        "file_id": 8623666
+      },
+      "modrinth": {
+        "project_id": "rOUBggPv",
+        "version_id": "81s25oaA"
+      }
+    },
+    {
+      "name": "Supplementaries",
+      "filename": "supplementaries-1.21.1-3.9.1-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 412082,
+        "file_id": 8682869
+      },
+      "modrinth": {
+        "project_id": "fFEIiSDQ",
+        "version_id": "6vwrAvXf"
+      }
+    },
+    {
+      "name": "Supplementaries Squared",
+      "filename": "suppsquared-neoforge-1.21-1.2.18.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 838411,
+        "file_id": 8268988
+      },
+      "modrinth": null
+    },
+    {
+      "name": "TSR Silent Gear Metalworks Compat",
+      "filename": "tsr-sgear-metalworks-compat-1.0.0.jar",
+      "pack_status": "ACTIVE-PACK-OWNED",
+      "side": "both",
+      "platform_status": "PACK-OWNED",
+      "curseforge": null,
+      "modrinth": null
+    },
+    {
+      "name": "Tectonic",
+      "filename": "tectonic-3.0.26-neoforge-21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 686836,
+        "file_id": 8360847
+      },
+      "modrinth": {
+        "project_id": "lWDHr9jE",
+        "version_id": "vNrkxC3z"
+      }
+    },
+    {
+      "name": "TenSura Compat: FTB",
+      "filename": "tensura_ftb-neoforge-2.0.0.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1501493,
+        "file_id": 8375576
+      },
+      "modrinth": {
+        "project_id": "UNCI38gZ",
+        "version_id": "ydPx4R4m"
+      }
+    },
+    {
+      "name": "TenSura Compat: Iron's Spells 'n Spellbooks",
+      "filename": "tensura_iron_spells-neoforge-2.0.0.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1140214,
+        "file_id": 7905400
+      },
+      "modrinth": {
+        "project_id": "fQk5qi9V",
+        "version_id": "CTs63gMe"
+      }
+    },
+    {
+      "name": "TenSura: Not Enough Bosses",
+      "filename": "tensura_neb-neoforge-2.0.0.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1230585,
+        "file_id": 8022509
+      },
+      "modrinth": {
+        "project_id": "ODKaullJ",
+        "version_id": "yCLL5TdC"
+      }
+    },
+    {
+      "name": "Tensura Boss Structure",
+      "filename": "tensura_boss_structure-1.0.3.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1448822,
+        "file_id": 8614357
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura Compat: FancyMenu",
+      "filename": "tensura_fancymenu-neoforge-1.21.1-0.1.1-beta.jar.disabled",
+      "pack_status": "DISABLED-NOT-SHIPPED",
+      "reason": "The runtime reference has this compatibility addon disabled.",
+      "side": null,
+      "platform_status": "PACK-OWNED-OR-UNRESOLVED",
+      "curseforge": null,
+      "modrinth": null
+    },
+    {
+      "name": "Tensura Guild",
+      "filename": "tensura_guild-1.0.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1595198,
+        "file_id": 8594606
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura Kubejs",
+      "filename": "tensura_kubejs-1.0.0.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1604504,
+        "file_id": 8404046
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura MineColonies Integration",
+      "filename": "tensura_minecolonies-0.2.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1574897,
+        "file_id": 8579563
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura Modifications",
+      "filename": "tensura_epfix-1.0.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1509667,
+        "file_id": 8534933
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura Skill Trainer",
+      "filename": "tensura-trainer-neoforge-2.0.5.jar",
+      "pack_status": "USER-OPTIONAL-NOT-SHIPPED",
+      "reason": "Player-managed optional mod; excluded from all distributed profiles.",
+      "side": null,
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1399544,
+        "file_id": 8494688
+      },
+      "modrinth": {
+        "project_id": "b9IitaD6",
+        "version_id": "B5xy35rr"
+      }
+    },
+    {
+      "name": "Tensura Utilities Manager",
+      "filename": "tensura_utilities_manager-neoforge-1.0.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1584653,
+        "file_id": 8318684
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura: All the Adventure",
+      "filename": "tensura_all_the_adventure-0.0.0.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1672789,
+        "file_id": 8762722
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura: Better Subordinates",
+      "filename": "tensura_better_subs-neoforge-1.2.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1489224,
+        "file_id": 8414486
+      },
+      "modrinth": {
+        "project_id": "1aD7nY4F",
+        "version_id": "YEHpTlnx"
+      }
+    },
+    {
+      "name": "Tensura: Gear Evolution",
+      "filename": "gearevolution-1.2.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1501711,
+        "file_id": 8705119
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura: Metalworks",
+      "filename": "tenmetalworks-neoforge-1.0.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1580262,
+        "file_id": 8302946
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura: Mysticism",
+      "filename": "mysticism-neoforge-2.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1148149,
+        "file_id": 8379529
+      },
+      "modrinth": {
+        "project_id": "bjvFzLV3",
+        "version_id": "FuZwNIyc"
+      }
+    },
+    {
+      "name": "Tensura: Origins",
+      "filename": "trorigins-neoforge-2.0.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1230188,
+        "file_id": 8576396
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tensura: Reincarnated",
+      "filename": "tensura-neoforge-2.0.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 643695,
+        "file_id": 8665599
+      },
+      "modrinth": null
+    },
+    {
+      "name": "TensuraMorph",
+      "filename": "tensuramorph-1.0.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1602263,
+        "file_id": 8432718
+      },
+      "modrinth": null
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 940057,
+        "file_id": 6054947
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Terralith",
+      "filename": "Terralith_1.21.x_v2.6.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 513688,
+        "file_id": 8222737
+      },
+      "modrinth": {
+        "project_id": "8oi3bsk5",
+        "version_id": "IY93YaEe"
+      }
+    },
+    {
+      "name": "The Aether",
+      "filename": "aether-1.21.1-1.5.10-neoforge.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 255308,
+        "file_id": 7043502
+      },
+      "modrinth": null
+    },
+    {
+      "name": "The Twilight Forest",
+      "filename": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 227639,
+        "file_id": 7797302
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Tom's Simple Storage Mod",
+      "filename": "toms_storage-1.21-2.4.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 378609,
+        "file_id": 8501301
+      },
+      "modrinth": {
+        "project_id": "XZNI4Cpy",
+        "version_id": "QQqFyS6K"
+      }
+    },
+    {
+      "name": "Torchmaster",
+      "filename": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 254268,
+        "file_id": 7197218
+      },
+      "modrinth": {
+        "project_id": "Tl8ESrhX",
+        "version_id": "PhWXajPC"
+      }
+    },
+    {
+      "name": "TrashSlot",
+      "filename": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 235577,
+        "file_id": 8163135
+      },
+      "modrinth": null
+    },
+    {
+      "name": "UI Library Mod",
+      "filename": "blockui-1.0.209-1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 522992,
+        "file_id": 7541336
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Uranus",
+      "filename": "uranus-3.0-beta.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1010827,
+        "file_id": 8682870
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Walkers",
+      "filename": "walkers-5.8.12.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 868922,
+        "file_id": 8609662
+      },
+      "modrinth": null
+    },
+    {
+      "name": "Waystones",
+      "filename": "waystones-neoforge-1.21.1-21.1.41.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 245755,
+        "file_id": 8645538
+      },
+      "modrinth": {
+        "project_id": "LOpKHB2A",
+        "version_id": "fxszxKRW"
+      }
+    },
+    {
+      "name": "Waystones2Waypoints2",
+      "filename": "xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 887484,
+        "file_id": 7976140
+      },
+      "modrinth": {
+        "project_id": "7mLhyqIY",
+        "version_id": "k8wIAiWT"
+      }
+    },
+    {
+      "name": "When Dungeons Arise",
+      "filename": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 442508,
+        "file_id": 7150870
+      },
+      "modrinth": {
+        "project_id": "8DfbfASn",
+        "version_id": "XIRJSFQ0"
+      }
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 263420,
+        "file_id": 8449819
+      },
+      "modrinth": {
+        "project_id": "1bokaNcj",
+        "version_id": "JXvcT1hp"
+      }
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 317780,
+        "file_id": 8698659
+      },
+      "modrinth": {
+        "project_id": "NcUtCpym",
+        "version_id": "fOv9QzLO"
+      }
+    },
+    {
+      "name": "YUNG's API",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015100,
+        "file_id": 8702150
+      },
+      "modrinth": {
+        "project_id": "Ua7DFN59",
+        "version_id": "K3Dp2T0P"
+      }
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015112,
+        "file_id": 5954804
+      },
+      "modrinth": {
+        "project_id": "o1C1Dkj5",
+        "version_id": "D6aZn0Em"
+      }
+    },
+    {
+      "name": "YUNG's Better End Island",
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015127,
+        "file_id": 6300968
+      },
+      "modrinth": {
+        "project_id": "2BwBOmBQ",
+        "version_id": "I52NZ1qK"
+      }
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015096,
+        "file_id": 5812193
+      },
+      "modrinth": {
+        "project_id": "HjmxVlSr",
+        "version_id": "Go3nbneL"
+      }
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses",
+      "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015118,
+        "file_id": 6606621
+      },
+      "modrinth": {
+        "project_id": "Z2mXHnxP",
+        "version_id": "iopJiJQp"
+      }
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015105,
+        "file_id": 6272264
+      },
+      "modrinth": {
+        "project_id": "kidLKymU",
+        "version_id": "8U0dIfSM"
+      }
+    },
+    {
+      "name": "YUNG's Bridges",
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015149,
+        "file_id": 5812553
+      },
+      "modrinth": {
+        "project_id": "Ht4BfYp6",
+        "version_id": "urkCzBf6"
+      }
+    },
+    {
+      "name": "YUNG's Cave Biomes",
+      "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1111586,
+        "file_id": 6913179
+      },
+      "modrinth": {
+        "project_id": "cs7iGVq1",
+        "version_id": "HYGqXWqQ"
+      }
+    },
+    {
+      "name": "YUNG's Extras",
+      "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1015146,
+        "file_id": 5812546
+      },
+      "modrinth": {
+        "project_id": "ZYgyPyfq",
+        "version_id": "N2EpMhR7"
+      }
+    },
+    {
+      "name": "biomemusic mod",
+      "filename": "biomemusic-1.21.1-4.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 840873,
+        "file_id": 8318257
+      },
+      "modrinth": null
+    },
+    {
+      "name": "foxablazeaqzl's Built-in Tensura Skill Wiki",
+      "filename": "foxablazeaqzl_wiki-1.0.2.4.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1570862,
+        "file_id": 8595115
+      },
+      "modrinth": null
+    },
+    {
+      "name": "legendary_monsters",
+      "filename": "legendary_monsters-2.2.2 MC 1.21.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 944035,
+        "file_id": 8715533
+      },
+      "modrinth": {
+        "project_id": "9d9Bkqva",
+        "version_id": "sHmtzdVi"
+      }
+    },
+    {
+      "name": "lionfishapi",
+      "filename": "lionfishapi-3.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 1001614,
+        "file_id": 8345326
+      },
+      "modrinth": {
+        "project_id": "FoVacERa",
+        "version_id": "fTRMVgyZ"
+      }
+    },
+    {
+      "name": "lootintegrations_moog mod",
+      "filename": "lootintegrations_moog-2.1.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1152715,
+        "file_id": 8328790
+      },
+      "modrinth": null
+    },
+    {
+      "name": "lootintegrations_yungs mod",
+      "filename": "lootintegrations_yungs-1.6.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1012211,
+        "file_id": 8323152
+      },
+      "modrinth": null
+    },
+    {
+      "name": "o\u03c9o",
+      "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "pack_status": "ACTIVE",
+      "side": "both",
+      "platform_status": "BOTH-PINNED",
+      "curseforge": {
+        "project_id": 532610,
+        "file_id": 6785734
+      },
+      "modrinth": {
+        "project_id": "ccKDOlHs",
+        "version_id": "NMCHU6DZ"
+      }
+    },
+    {
+      "name": "tensura evolution ui",
+      "filename": "tensura_trepu-1.0.0.2.jar",
+      "pack_status": "ACTIVE",
+      "side": "client",
+      "platform_status": "CURSEFORGE-ONLY",
+      "curseforge": {
+        "project_id": 1560818,
+        "file_id": 8245633
+      },
+      "modrinth": null
+    }
+  ]
+}

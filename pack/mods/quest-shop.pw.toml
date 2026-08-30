@@ -3,11 +3,14 @@ filename = "questshop-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "71e976d4bda21309e7673ed5e2e9181fef0c6d28"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LdUMtD9A/versions/aVWmLb1H/questshop-1.3.0.jar"
+hash-format = "sha512"
+hash = "92e94d03dca5bd830f75dc74f832552be6f3b54a2154e21552f09c390450983eeb8be2afafc0c9fa9ce5614678d04807a0a17ca49a3f7a1946f76fad796362a3"
 
 [update]
+[update.modrinth]
+mod-id = "LdUMtD9A"
+version = "aVWmLb1H"
 [update.curseforge]
 file-id = 7016106
 project-id = 1338320

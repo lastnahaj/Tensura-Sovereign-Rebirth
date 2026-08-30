@@ -1,0 +1,16 @@
+name = "ItemPeek"
+filename = "itempeek-mc1.21.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CTkjyW90/versions/661CpDr9/itempeek-mc1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "ea5890127151b8a4e7c8985ddcabcc023ed749844a1c294a1feed8c0cc13002f1e148eaa7ca4d5824d6b316128124ce79a1a1f3114d533c2c8006c32cb077974"
+
+[update]
+[update.modrinth]
+mod-id = "CTkjyW90"
+version = "661CpDr9"
+[update.curseforge]
+file-id = 8591085
+project-id = 1467647

@@ -3,11 +3,14 @@ filename = "legendary_monsters-2.2.2 MC 1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8910859ba94190dd8cbc8c2c1e2f07562db729b4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9d9Bkqva/versions/sHmtzdVi/legendary_monsters-2.2.2%20MC%201.21.1.jar"
+hash-format = "sha512"
+hash = "b7c4a811dba7aa0fdd813605277fd9a6bfcc4b971c4b592dfed13e99b96f0dc5fb9c13290080b4a7660e920003d3070861348aef5853a208d0e91521ee943a6d"
 
 [update]
+[update.modrinth]
+mod-id = "9d9Bkqva"
+version = "sHmtzdVi"
 [update.curseforge]
 file-id = 8715533
 project-id = 944035

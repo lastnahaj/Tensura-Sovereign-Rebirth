@@ -1,0 +1,13 @@
+name = "Spud's Shop (Fork)"
+filename = "spudaciousshops-1.9.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6f3d4e5618d0230fdad95f1b668f62250abc8fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8404840
+project-id = 1388652

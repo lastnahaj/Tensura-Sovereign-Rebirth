@@ -1,0 +1,13 @@
+name = "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures"
+filename = "lootintegrations_moog-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9eff22d61cfa3612b488b796046d3a0c4aa18cb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8328790
+project-id = 1152715

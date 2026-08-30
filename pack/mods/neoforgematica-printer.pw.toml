@@ -1,0 +1,13 @@
+name = "NeoForgematica Printer"
+filename = "NeoForgematicaPrinter-0.1.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c7a6365b1521f74012c6525b6c120605d053d76a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7766770
+project-id = 1487788

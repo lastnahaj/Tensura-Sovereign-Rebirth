@@ -1,0 +1,16 @@
+name = "MineColonies: Jade crops addon"
+filename = "mcjadecrops-1.1.1300.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UXA4S4VR/versions/XaTfkhAN/mcjadecrops-1.1.1300.jar"
+hash-format = "sha512"
+hash = "dc8d6c4d9ca60aa1a587f5b02fce7c079355f62317dbbf9e4c0d98a9de14af262a52b1f4d9f7a986b2fea235e9a35c02e34b3ed070562b688c3fcf6ab3f0e51b"
+
+[update]
+[update.modrinth]
+mod-id = "UXA4S4VR"
+version = "XaTfkhAN"
+[update.curseforge]
+file-id = 8057200
+project-id = 1537128

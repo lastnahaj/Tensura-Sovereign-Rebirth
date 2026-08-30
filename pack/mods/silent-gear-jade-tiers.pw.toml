@@ -1,0 +1,13 @@
+name = "Silent Gear Jade Tiers"
+filename = "silentgear_jade_tiers-1.11.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7115c8b46327ff0dab1d11d8f7e46150d7d32fd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8218712
+project-id = 1563627

@@ -3,11 +3,14 @@ filename = "manascore-neoforge-4.0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f11a0062d7829e26a8705183762a5e0f2d022dd3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wRRSWpd1/versions/yhLQMaxS/manascore-neoforge-4.0.0.2.jar"
+hash-format = "sha512"
+hash = "2e9ae47175df3f4c28132cc04269405e65fc131aa405f8160cce4082e41797d47c3d8080f96d86a83b7cddb4ea390b8c688184961307b7499ba30062e7d5e7a7"
 
 [update]
+[update.modrinth]
+mod-id = "wRRSWpd1"
+version = "yhLQMaxS"
 [update.curseforge]
 file-id = 8022425
 project-id = 619025
