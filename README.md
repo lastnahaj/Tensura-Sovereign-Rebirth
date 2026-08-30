@@ -27,11 +27,19 @@ The project combines character evolution, skills, Great Sage, Gear Evolution, su
 
 ## Project status
 
-**Version 1 Beta — staged assembly**
+**Version 1 Beta — playable beta checkpoint**
 
-The mod identities and major system ownership decisions are frozen. Runtime phases through core Tensura, civilization/magic, gear, forging, backpacks, physical storage, and terminal access have recorded passes. Later adventure, world, multiplayer, client, performance, export, and campaign gates remain staged or under validation.
+The assembled client and dedicated-server profiles have passed clean startup,
+world creation, save, shutdown, warm restart, graphical client, quest loading,
+archive, and keybind-persistence gates. Progression balance, multiplayer
+permissions, claim protection, long-duration world generation, and late-game
+boss scaling remain active beta-test targets.
 
-Current campaign target: **8 Acts · 32 Chapters · ~512 handcrafted FTB Quests**, in addition to SlimeThrone Extras' own repeatable/prestige systems.
+The current beta loads **nine chapters and 140 FTB Quests entries**: eight
+TSR-authored act chapters plus the active MineColonies integration chapter.
+The long-term campaign target remains **8 Acts · 32 Chapters · ~512
+handcrafted FTB Quests**, in addition to SlimeThrone Extras' own
+repeatable/prestige systems.
 
 ## Core design rules
 
@@ -50,6 +58,7 @@ Current campaign target: **8 Acts · 32 Chapters · ~512 handcrafted FTB Quests*
 .github/          GitHub Actions and issue forms
 data/             Machine-readable project manifests
 docs/             Documentation source for GitHub Pages
+publishing/       Storefront descriptions and release-upload copy
 scripts/          Repository validation tools
 mkdocs.yml        Documentation site configuration
 requirements.txt  Documentation build dependency

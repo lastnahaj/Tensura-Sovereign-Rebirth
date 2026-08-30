@@ -1,8 +1,8 @@
 # Tensura: Sovereign Rebirth — Build Handoff
 
-This file is the machine-readable starting point for the next maintainer or
-Codex task. It describes the repository state on `build/version-1-beta`, the
-tested artifacts, and the remaining release gates.
+This file is the machine-readable starting point for the next maintenance
+pass. It describes the repository state on `build/version-1-beta`, the tested
+artifacts, and the remaining release gates.
 
 ## Project target
 
@@ -100,7 +100,7 @@ publication blocked pending a permitted source.
 Set-Location pack
 ..\.build\tools\packwiz\packwiz.exe refresh
 Set-Location ..
-$py = 'C:\Users\LastN\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe'
+$py = (Resolve-Path '.venv\Scripts\python.exe').Path
 & $py tools\validate_pack.py
 & $py tools\validate_config_reconstruction.py
 ```

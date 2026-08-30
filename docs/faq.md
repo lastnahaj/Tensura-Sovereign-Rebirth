@@ -18,7 +18,11 @@ The frozen mod set and its compatibility stack target NeoForge. TSR is not a Fab
 
 ## What does Version 1 Beta mean?
 
-It means the pack is in staged assembly and validation. Core Tensura, civilization/magic, gear, forging, backpacks, storage, and terminal systems have recorded runtime passes. Later world, multiplayer, client, performance, export, campaign, and release-candidate gates remain incomplete.
+It is a playable testing checkpoint. The assembled client and server have
+passed clean startup, world creation, save, shutdown, warm restart, graphical
+client, quest loading, archive, and changed-key persistence tests. Progression
+balance, multiplayer permissions, claim protection, long-duration world
+generation, and late-game boss scaling remain beta targets.
 
 ## Is Apotheosis included?
 
@@ -54,7 +58,12 @@ Sophisticated Backpacks owns personal storage; Sophisticated Storage owns physic
 
 ## How do quests work? Is the campaign finished?
 
-FTB Quests owns the planned eight-act handcrafted campaign, while SlimeThrone owns its separate repeatable/prestige ecosystem. The handcrafted quest files do not yet exist in tracked pack source, so the campaign is **Planned**, not implemented. See [Campaign](campaign.md).
+FTB Quests owns the handcrafted campaign, while SlimeThrone owns its separate
+repeatable/prestige ecosystem. The current beta loads eight TSR-authored act
+chapters plus the MineColonies integration chapter, for 140 loaded FTB Quests
+entries with custom backgrounds and wiki links. Reward balance, multiplayer
+pacing, verified task detectors, and expansion toward the full campaign remain
+in progress. See [Campaign](campaign.md).
 
 ## Is MineColonies required?
 
