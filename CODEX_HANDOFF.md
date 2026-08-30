@@ -20,23 +20,30 @@ tested artifacts, and the remaining release gates.
 - Artifacts `13.2.3`, Supplementaries Squared `1.21-1.2.18`, and Tensura:
   Ancient Artifacts `1.0.3` are active with exact Modrinth checksum pins and
   matching CurseForge project/file identities.
-- The client profile contains 156 JARs; the server profile contains 129 JARs.
+- The expanded client profile contains 209 JARs; the dedicated-server profile
+  contains 175 JARs.
 - `pack/config/` contains reviewed defaults, including client video/input
   settings, Xaero map defaults, Tensura skill controls, server stability
   baselines, artifact configs, and the authored FTB Quests files.
-- The quest content currently loads 8 chapters and 64 quests. Custom quest
+- The quest content currently loads 9 chapters and 140 quests. Eight act
+  chapters are authored by TSR and the ninth comes from the active MineColonies
+  quest integration. Custom quest
   backgrounds are under `pack/kubejs/assets/tsr/textures/gui/quests/`.
 - FancyMenu/Drippy presentation assets and the widescreen TSR menu are in the
   client profile. The graphical smoke test passes.
 - The keybinding persistence fix is the active
   `compat/tsr-client-stability/` JAR. The old KubeJS keybinding workaround is
   not active. Two full client restarts have preserved changed and unbound keys.
-- Dedicated-server cold and warm runs with the three artifact additions pass
-  clean-world construction, quest loading, save, shutdown, and restart. Logs:
-  `.build/test-logs/three-artifacts-server-cold.log` and
-  `.build/test-logs/three-artifacts-server-warm.log`.
-- The active client graphical smoke log is
-  `.build/client-playable-beta-rc/client-smoke-console.log`.
+- Expanded dedicated-server cold and warm runs pass clean-world construction,
+  140-quest loading, save, shutdown, and restart. Logs:
+  `.build/test-logs/server-expanded-cold-2.log` and
+  `.build/test-logs/server-expanded-warm.log`.
+- The extracted 175-mod delivery ZIP also passes clean-world startup, save, and
+  shutdown; see `.build/test-logs/server-expanded-package-smoke.log`.
+- The expanded client graphical smoke log is
+  `.build/client-expanded-beta/client-smoke-console.log`. A changed FTB Chunks
+  map key survived two complete restarts before the test runtime was restored
+  to the distributed unbound default.
 
 ## Deferred or excluded from the active runtime
 
@@ -46,6 +53,8 @@ tested artifacts, and the remaining release gates.
   construction can call `ExtraSkills.init()` before the ManasCore skill
   registry exists. No diagnostic bridge or patched JAR is distributed.
 - The C2ME alpha artifact is deferred after a clean-shutdown hang.
+- Tensura Skill Trainer `2.0.5` is player-managed optional content and is not
+  shipped in any client or server artifact.
 - Frozen Ice & Fire and GriefLogger compatibility pairs remain documented but
   are omitted from the playable profile after reproducible startup failures.
 - No unofficial fork or patched upstream artifact is part of the pack.
@@ -58,18 +67,11 @@ tests described there.
 
 `docs/development/platform-availability.md` records platform identity and
 redistribution status separately from runtime compatibility. The active source
-has 165 Packwiz mod metadata files, 164 CurseForge identities, and 36 exact
-Modrinth project/version identities. The private beta Modrinth export remains
-for local tester import until every active entry has a public Modrinth source
-or documented redistribution permission.
-
-The latest colony audit found:
-
-- Lunara Colonies has matching 1.21.1 NeoForge listings on both platforms, but
-  its artifact still needs to be downloaded, checksum-pinned, and tested.
-- JadeColonies, Minecolonies Questline, and Stylecolonies have verified
-  CurseForge 1.21.1 NeoForge files but no located official Modrinth artifact;
-  they are not active in the dual-platform pack.
+has 217 Packwiz mod metadata files, 216 CurseForge identities, and 141 Modrinth
+identities. The reconciled 209-file reference has 206 active files and three
+explicit exclusions. The private Modrinth import is valid for testers, while
+73 active reference files remain CurseForge-native and keep public Modrinth
+publication blocked pending a permitted source.
 
 ## Remaining work before release candidate freeze
 

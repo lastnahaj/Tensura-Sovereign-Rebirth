@@ -28,6 +28,11 @@
 - Added Artifacts 13.2.3, Supplementaries Squared 1.21-1.2.18, and Tensura: Ancient Artifacts 1.0.3 using exact official CurseForge and Modrinth identities. The full runtime passes clean-world creation, 64-quest loading, save, shutdown, saved-world restart, and graphical client construction with all three active.
 - Added generated configuration baselines for the three artifact/decorative additions and reduced Artifacts campsite generation attempts from 40 to 16 per chunk for the beta stability profile.
 - Added `CODEX_HANDOFF.md` with the reproducible beta state, verified test evidence, deferred blockers, platform audit, and remaining release-candidate gates.
+- Reconciled the 209-file launcher reference into the reproducible Packwiz source, activated the requested structure, colony, decoration, loot, Jade, and performance additions, and recorded exact provider identities and public-platform exceptions.
+- Added FTB Essentials and server-only TAB 5.5.0 to the tested administration profile.
+- Kept Tensura Skill Trainer 2.0.5 player-managed and excluded it from every distributed client and server artifact.
+- Added a generated Runelic default to prevent its first-run parallel config creation race.
+- Passed the expanded 175-mod server cold start, 140-quest load, save, clean shutdown, and warm restart; passed the 209-mod graphical client startup and a changed-key persistence test across two complete restarts.
 
 ## TSR v0.1 — Design Freeze
 

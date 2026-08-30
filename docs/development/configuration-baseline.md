@@ -50,15 +50,15 @@ The playable beta profile adds conservative defaults without enabling gameplay-a
 - Dedicated-server defaults use view distance 8, simulation distance 6, synchronous chunk writes, and a 120-second watchdog ceiling for heavy modded generation.
 - FTB Backups 3 runs hourly, retains eight archives within a 25 GB ceiling, uses moderate compression, creates a shutdown backup, and reports progress only to administrators.
 - spark remains installed for on-demand diagnosis but its background profiler is disabled.
-- FTB Quests uses a 20-tick detection interval and team-shared rewards. The first playable chapter contains 8 linear onboarding quests, a custom TSR background, and a clickable crest linked to the project wiki.
+- FTB Quests uses a 20-tick detection interval and team-shared rewards. The eight authored act chapters use custom TSR backgrounds and direct project-wiki links. With the active MineColonies quest integration, the tested server loads 9 chapters and 140 quests.
 - First-launch client defaults use a 150 FPS cap, GUI scale 2, render and simulation distance 8, Bright brightness, disabled VSync, and disabled view bobbing. Tensura skill slots exclusively own Z/X/C. Core interfaces and abilities use unique defaults: Tensura mode on grave accent, backpack on O, forms on H, Iron's spell casting/wheel on J/K, Great Sage on G/comma/period, and the wireless terminal on apostrophe.
 - TAB is reserved for the vanilla player list. FTB Quests keeps its TAB and Shift+TAB chapter navigation contextual to the quest screen, so it does not compete with the global player-list binding.
 - Secondary gear abilities, redundant map and inventory shortcuts, pack-authoring controls, quest editor actions, cache/debug actions, and JEI cheat/edit actions are unbound. Players can opt into a secondary action later without inheriting a collision-heavy default profile.
-- A versioned KubeJS client policy reapplies these mappings after NeoForge has registered every mod key and records a per-profile marker, avoiding the late-registration overwrite that affects a partial options file.
+- The pack-owned TSR Client Stability JAR protects the existing `options.txt` mappings during NeoForge's early option load and reloads the preserved values after late mod key registration. An FTB Chunks map-key change survived two complete expanded-client restarts.
 - Xaero's Minimap defaults to a circular map anchored in the top-right HUD corner through its packaged client profile and HUD layout policy.
 - No optional resource pack is enabled in this checkpoint. Vanilla resources remain implicit, while TSR menu and quest visuals are supplied through FancyMenu and KubeJS assets.
 
-The configured server loaded the saved world, reported all 8 quests, created a shutdown backup, saved all dimensions, and exited cleanly.
+The expanded configured server loaded 9 chapters and 140 quests, saved all dimensions, exited cleanly, and passed a warm restart. A generated Runelic configuration is shipped to avoid its reproducible first-run parallel file-creation race.
 
 ## Phase 3 baseline
 

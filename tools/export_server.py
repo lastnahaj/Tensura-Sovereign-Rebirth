@@ -16,11 +16,14 @@ ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "pack"
 SERVER = ROOT / "server"
 FIXED_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
-EXPECTED_MOD_COUNT = 110
+EXPECTED_MOD_COUNT = 175
 FORBIDDEN_MOD_PATTERNS = (
     "traddon",
     "tensurauniquemonsters",
     "tsr-unique-monsters-compat",
+    "tensura-trainer",
+    "c2me-neoforge",
+    "tensura_fancymenu",
     "grieflogger",
     "trgrieflogger",
     "iceandfire",
@@ -43,6 +46,16 @@ EXCLUSIONS = (
         "system": "Tensura: Unique Monsters 1.0.2",
         "status": "DEFERRED-BLOCKED",
         "reason": "ManasCore skill registry construction race",
+    },
+    {
+        "system": "Tensura Skill Trainer 2.0.5",
+        "status": "USER-OPTIONAL-NOT-SHIPPED",
+        "reason": "player-managed optional mod",
+    },
+    {
+        "system": "C2ME 0.4.0-alpha.0.120",
+        "status": "DEFERRED-BLOCKED",
+        "reason": "clean dedicated-server shutdown hang",
     },
     {
         "system": "GriefLogger + Tensura: Grief Logger",
