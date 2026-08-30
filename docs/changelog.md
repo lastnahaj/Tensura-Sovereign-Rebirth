@@ -1,5 +1,18 @@
 # Changelog
 
+## Version 1.0.0 Beta 2 — Spawn Density
+
+- Reduced the shared natural monster cap from 70 to 48 and changed natural
+  monster attempts from every tick to every two ticks.
+- Reduced passive, ambient, aquatic, and Aether spawn caps and shortened their
+  non-persistent despawn ranges.
+- Enforced bounded mobcap headroom for zombie reinforcements, portal spawns,
+  monster spawners, and infested-effect silverfish.
+- Reduced natural Tensura creature frequency across the complete spawn table
+  while retaining every progression species.
+- Reduced Mysticism Okami natural spawns from a 1-in-8 to a 1-in-24 chance.
+- Preserved boss, quest, dimension, and structure availability.
+
 ## Version 1 (Beta) — Assembly
 
 - Unified races, abilities, evolution relationships, mobs, biomes, and other imported material into one reference hierarchy, then added visual player guides for the beta's major mod systems and corrected inactive-content status pages.

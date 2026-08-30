@@ -4,4 +4,4 @@
 	#One of how many chances for Memoires to spawn.
 	memoiresChance = 1000
 	#One of how many chances for an Okami to spawn.
-	okamiChance = 8
+	okamiChance = 24

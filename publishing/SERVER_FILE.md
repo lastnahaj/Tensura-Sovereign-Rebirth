@@ -2,9 +2,9 @@
 
 ## Short additional-file description
 
-Ready-to-run dedicated server for Tensura: Sovereign Rebirth 1.0.0 Beta 1.
+Ready-to-run dedicated server for Tensura: Sovereign Rebirth 1.0.0 Beta 2.
 Requires 64-bit Java 21 and acceptance of the Minecraft EULA. This is the
-matching server package for the 1.0.0-beta.1 client.
+matching server package for the 1.0.0-beta.2 client.
 
 ## Installation
 

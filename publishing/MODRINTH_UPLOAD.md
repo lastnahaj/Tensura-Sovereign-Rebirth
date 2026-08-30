@@ -31,11 +31,11 @@ Leave the source URL empty while the repository remains private.
 
 ## Version fields
 
-**Primary file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.1-Playable-Modrinth.mrpack`
+**Primary file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.2-Playable-Modrinth.mrpack`
 
-**Version name:** Tensura: Sovereign Rebirth 1.0.0 Beta 1
+**Version name:** Tensura: Sovereign Rebirth 1.0.0 Beta 2
 
-**Version number:** `1.0.0-beta.1`
+**Version number:** `1.0.0-beta.2`
 
 **Version type:** Beta
 
@@ -47,7 +47,7 @@ Leave the source URL empty while the repository remains private.
 
 **Featured:** No, until beta feedback confirms the release candidate.
 
-**Changelog:** Paste `RELEASE_NOTES_1.0.0-beta.1.md`.
+**Changelog:** Paste `RELEASE_NOTES_1.0.0-beta.2.md`.
 
 ## Public publication gate
 

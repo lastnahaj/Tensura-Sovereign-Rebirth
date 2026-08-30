@@ -36,6 +36,9 @@
   `tsr-client-stability` compatibility JAR
 - Expanded 209-mod graphical client startup with Skill Trainer intentionally absent
 - FTB Essentials and server-only TAB active in the tested server profile
+- Beta 2 spawn-density baseline: reduced shared natural mobcaps, reduced
+  Tensura and Mysticism natural spawn chances, and successful 175-mod cold and
+  warm dedicated-server validation with all 140 quests loaded
 - Complete upstream article discovery and generated reference: 986 discovered, 973 relevant imported, 13 non-content skipped, 0 page failures
 
 ## Pending assembly validation

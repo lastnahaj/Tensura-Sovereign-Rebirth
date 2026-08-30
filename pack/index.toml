@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "939c126bba54ce9a3c91505b099d1db00ab94012c39f6f6b23310227e45f0e89"
+hash = "311f37686de96503916a4b6d6ca937577a4572758846c8861d53f2b363ce5b9c"
 
 [[files]]
 file = "config/almostunified/debug.json"
@@ -274,7 +274,7 @@ hash = "6ce8279a1d60870a17ebc3d7e53b66f9d8e1b4f609a4634de25d10e2b92bb9a0"
 
 [[files]]
 file = "config/mysticism/entity/spawn_rate_config.toml"
-hash = "8bc583d89972fc261ab0201112180847ac29bcee62b523c36c2782bec8c63811"
+hash = "3f8de405133fdf9cdffd4f4f02ea3e5d5b0ea5db684a752988ece7039c1e21b9"
 
 [[files]]
 file = "config/mysticism/general.toml"
@@ -391,7 +391,7 @@ hash = "9b3a763eeedb80615637927be16dbdf588b80211fc78a549d5867191be605e1d"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "5a231999e1eea053ba637dd8ae7d5c29213366c98f2b4c374491e52613318118"
+hash = "e7d76cee1c67b5924ee2fdecc38b294c878baa36a03f13bdc48cb6be0dc01e50"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
@@ -595,7 +595,7 @@ hash = "d9f8e841fc4f75ce4e9dbd8dae57bca6a07b405861eacc61a0f71a0bb1c97dea"
 
 [[files]]
 file = "config/tensura/entity/spawn_rate_config.toml"
-hash = "8e831d058142b5ca31083a21e34c491ec2bb089e8b39143ae811ae713bcb2845"
+hash = "1071d3abe594a7fd15f197a8b8a8fcb084d6b0f482aba16ea28af398aea4e7c6"
 
 [[files]]
 file = "config/tensura/iron_spell_config.toml"

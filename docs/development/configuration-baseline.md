@@ -60,6 +60,22 @@ The playable beta profile adds conservative defaults without enabling gameplay-a
 
 The expanded configured server loaded 9 chapters and 140 quests, saved all dimensions, exited cleanly, and passed a warm restart. A generated Runelic configuration is shipped to avoid its reproducible first-run parallel file-creation race.
 
+## Spawn-density baseline
+
+Version 1 Beta 2 reduces natural-entity pressure without removing any
+progression species. ServerCore lowers the shared monster cap from 70 to 48,
+runs natural monster attempts every two ticks, reduces passive, ambient, water,
+and Aether category caps, and enforces bounded capacity for reinforcements,
+portal spawns, monster spawners, and the infested effect. Tensura's natural mob
+chance denominators are approximately doubled, with the most common Direwolf,
+Armorsaurus, Orc, and Slime entries reduced further. Mysticism Okami spawns move
+from a 1-in-8 to a 1-in-24 chance.
+
+The baseline changes density only. No Tensura species, external boss,
+dimension encounter, or quest requirement is disabled. Existing persistent
+mobs are not deleted; the reduced density becomes visible as old natural mobs
+despawn and new spawn cycles use the updated settings.
+
 ## Phase 3 baseline
 
 The civilization and magic layer expands the reviewed tree to 141 files. It adds MineColonies, Structurize, Tensura x MineColonies, MineColonies Mages, Iron's Spells, Curios, and Nightmare Utils configuration.

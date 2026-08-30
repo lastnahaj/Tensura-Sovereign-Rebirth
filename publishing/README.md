@@ -1,7 +1,7 @@
 # Publishing Kit
 
 This directory contains the copy and release metadata for publishing **Tensura:
-Sovereign Rebirth 1.0.0-beta.1**. The copy is written for Minecraft 1.21.1,
+Sovereign Rebirth 1.0.0-beta.2**. The copy is written for Minecraft 1.21.1,
 NeoForge 21.1.248, and Java 21.
 
 ## Paste-ready files
@@ -11,7 +11,8 @@ NeoForge 21.1.248, and Java 21.
 - `CURSEFORGE_UPLOAD.md` — CurseForge project fields, file metadata, and
   moderator notes.
 - `MODRINTH_UPLOAD.md` — Modrinth project/version fields and publication gate.
-- `RELEASE_NOTES_1.0.0-beta.1.md` — public beta changelog.
+- `RELEASE_NOTES_1.0.0-beta.2.md` — current public beta changelog.
+- `RELEASE_NOTES_1.0.0-beta.1.md` — initial beta changelog.
 - `QUEST_STATUS.md` — exact playable-beta quest scope and remaining campaign
   work.
 - `SERVER_FILE.md` — server additional-file description and installation copy.

@@ -217,7 +217,7 @@ except (OSError, tomllib.TOMLDecodeError) as exc:
 
 if pack.get("pack-format") != "packwiz:1.1.0":
     errors.append(f"Unexpected pack format: {pack.get('pack-format')!r}")
-if pack.get("version") != "1.0.0-beta.1":
+if pack.get("version") != "1.0.0-beta.2":
     errors.append(f"Unexpected pack version: {pack.get('version')!r}")
 
 versions = pack.get("versions", {})

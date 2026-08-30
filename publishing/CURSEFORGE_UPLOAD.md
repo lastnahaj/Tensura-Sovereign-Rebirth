@@ -26,9 +26,9 @@ project owner must confirm this selection before submission.
 
 ## Main client file
 
-**Upload file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.1-Playable-CurseForge.zip`
+**Upload file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.2-Playable-CurseForge.zip`
 
-**Display name:** Tensura: Sovereign Rebirth 1.0.0 Beta 1 — Client
+**Display name:** Tensura: Sovereign Rebirth 1.0.0 Beta 2 — Client
 
 **Release type:** Beta
 
@@ -36,7 +36,7 @@ project owner must confirm this selection before submission.
 
 **Mod loader:** NeoForge
 
-**File changelog:** Paste `RELEASE_NOTES_1.0.0-beta.1.md`.
+**File changelog:** Paste `RELEASE_NOTES_1.0.0-beta.2.md`.
 
 **File description:** Playable Version 1 Beta client for Minecraft 1.21.1 and
 NeoForge 21.1.248. Requires Java 21; 8 GB client memory is recommended. Use the
@@ -46,9 +46,9 @@ matching server additional file for dedicated hosting.
 
 Attach the dedicated-server ZIP to the client beta as an **Additional File**.
 
-**Upload file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.1-Playable-Server.zip`
+**Upload file:** `Tensura-Sovereign-Rebirth-1.0.0-beta.2-Playable-Server.zip`
 
-**Display name:** Tensura: Sovereign Rebirth 1.0.0 Beta 1 — Server
+**Display name:** Tensura: Sovereign Rebirth 1.0.0 Beta 2 — Server
 
 **File type:** Server Pack
 
