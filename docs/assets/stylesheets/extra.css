@@ -441,6 +441,334 @@
   border-radius: .65rem;
 }
 
+.embedvideo {
+  position: relative;
+  width: min(100%, 46rem);
+  margin: 1rem auto;
+  overflow: hidden;
+  border: 1px solid rgba(51, 214, 255, .38);
+  border-radius: .72rem;
+  background: linear-gradient(145deg, rgba(7, 17, 31, .98), rgba(21, 87, 213, .18));
+  box-shadow: 0 .8rem 2rem rgba(0, 0, 0, .2);
+}
+
+.embedvideo-wrapper,
+.embedvideo-consent,
+.embedvideo-overlay {
+  min-height: 14rem;
+}
+
+.embedvideo-loader,
+.embedvideo-privacyNotice {
+  display: grid;
+  min-height: 14rem;
+  place-content: center;
+  gap: .65rem;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+.embedvideo-loader {
+  cursor: pointer;
+}
+
+.embedvideo-loader::before {
+  display: grid;
+  width: 4rem;
+  height: 4rem;
+  margin: 0 auto .25rem;
+  place-content: center;
+  border: 1px solid rgba(51, 214, 255, .7);
+  border-radius: 50%;
+  color: #fff;
+  font-size: 1.55rem;
+  content: "▶";
+  background: rgba(21, 87, 213, .5);
+  box-shadow: 0 0 1.4rem rgba(51, 214, 255, .24);
+}
+
+.embedvideo-loader:hover,
+.embedvideo-loader:focus-visible {
+  outline: 2px solid var(--tsr-cyan);
+  outline-offset: -2px;
+  background: rgba(51, 214, 255, .07);
+}
+
+.embedvideo-loader__fakeButton,
+.embedvideo-loader__service {
+  font-weight: 800;
+}
+
+.embedvideo-loader__fakeButton {
+  color: var(--tsr-cyan);
+  font-size: 1rem;
+}
+
+.embedvideo-privacyNotice.hidden,
+.embedvideo-loader[hidden] {
+  display: none;
+}
+
+.embedvideo-privacyNotice__buttons {
+  display: flex;
+  justify-content: center;
+  gap: .6rem;
+  margin-top: .3rem;
+}
+
+.embedvideo-privacyNotice__buttons button {
+  padding: .5rem .85rem;
+  border: 1px solid rgba(51, 214, 255, .42);
+  border-radius: .45rem;
+  color: inherit;
+  cursor: pointer;
+  background: rgba(21, 87, 213, .2);
+}
+
+.embedvideo-privacyNotice__buttons button:hover,
+.embedvideo-privacyNotice__buttons button:focus-visible {
+  border-color: var(--tsr-cyan);
+  color: #fff;
+}
+
+.embedvideo.is-loaded,
+.embedvideo.is-loaded iframe {
+  aspect-ratio: 16 / 9;
+}
+
+.embedvideo.is-loaded iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.reference-video-unavailable {
+  padding: .8rem 1rem;
+  border-left: .2rem solid var(--tsr-gold);
+  color: var(--md-default-fg-color--light);
+  background: rgba(255, 204, 102, .06);
+}
+
+.modlist-hero {
+  display: grid;
+  grid-template-columns: minmax(12rem, 34%) minmax(0, 1fr);
+  min-height: 15rem;
+  margin: 0 0 1rem;
+  overflow: hidden;
+  border: 1px solid rgba(51, 214, 255, .22);
+  border-radius: .9rem;
+  background: linear-gradient(135deg, rgba(7, 17, 31, .98), rgba(21, 87, 213, .16));
+}
+
+.modlist-hero > img {
+  width: 100%;
+  height: 100%;
+  min-height: 15rem;
+  object-fit: cover;
+}
+
+.modlist-hero > div {
+  align-self: center;
+  padding: 1.25rem 1.45rem;
+}
+
+.modlist-hero h2 {
+  margin: .2rem 0 .5rem;
+  color: var(--tsr-cyan);
+  font-size: clamp(1.45rem, 3vw, 2.25rem);
+}
+
+.current-modlist {
+  margin-top: 1rem;
+}
+
+.current-modlist-tools {
+  position: sticky;
+  z-index: 5;
+  top: 2.45rem;
+  margin-bottom: 1rem;
+  padding: .85rem;
+  border: 1px solid rgba(51, 214, 255, .2);
+  border-radius: .75rem;
+  background: color-mix(in srgb, var(--md-default-bg-color) 94%, transparent);
+  backdrop-filter: blur(12px);
+}
+
+.current-modlist-tools label,
+.current-modlist-tools label > span {
+  display: block;
+}
+
+.current-modlist-tools label > span {
+  margin-bottom: .35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}
+
+.current-modlist-search {
+  width: 100%;
+  padding: .68rem .8rem;
+  border: 1px solid rgba(51, 214, 255, .3);
+  border-radius: .5rem;
+  color: inherit;
+  font: inherit;
+  background: rgba(7, 17, 31, .12);
+}
+
+.current-modlist-search:focus {
+  border-color: var(--tsr-cyan);
+  outline: 2px solid rgba(51, 214, 255, .18);
+}
+
+.current-modlist-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .38rem;
+  margin-top: .65rem;
+}
+
+.current-modlist-filters button {
+  padding: .35rem .6rem;
+  border: 1px solid rgba(51, 214, 255, .22);
+  border-radius: 999px;
+  color: inherit;
+  cursor: pointer;
+  background: rgba(21, 87, 213, .08);
+}
+
+.current-modlist-filters button:hover,
+.current-modlist-filters button:focus-visible,
+.current-modlist-filters button.is-active {
+  border-color: var(--tsr-cyan);
+  color: #fff;
+  background: rgba(21, 87, 213, .44);
+}
+
+.current-modlist-status {
+  margin: .65rem 0 0;
+  color: var(--md-default-fg-color--light);
+  font-size: .78rem;
+}
+
+.current-modlist-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .65rem;
+}
+
+.current-mod-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  padding: .8rem;
+  border: 1px solid rgba(51, 214, 255, .15);
+  border-radius: .68rem;
+  background: linear-gradient(145deg, rgba(21, 87, 213, .06), rgba(142, 76, 245, .035));
+}
+
+.current-mod-card:hover {
+  border-color: rgba(51, 214, 255, .48);
+  transform: translateY(-1px);
+}
+
+.current-mod-card[hidden] {
+  display: none;
+}
+
+.current-mod-card h2 {
+  margin: 0 0 .55rem;
+  color: var(--md-default-fg-color);
+  font-size: .93rem;
+  line-height: 1.25;
+}
+
+.current-mod-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem;
+}
+
+.current-mod-version,
+.current-mod-group {
+  display: inline-flex;
+  padding: .2rem .42rem;
+  border-radius: .32rem;
+  font-size: .68rem;
+}
+
+.current-mod-version {
+  color: var(--tsr-cyan);
+  background: rgba(51, 214, 255, .08);
+}
+
+.current-mod-group {
+  color: var(--tsr-gold);
+  background: rgba(255, 204, 102, .08);
+}
+
+.current-mod-actions {
+  margin-top: auto;
+  padding-top: .72rem;
+  font-size: .74rem;
+}
+
+.current-mod-actions span {
+  color: var(--md-default-fg-color--light);
+}
+
+.current-mod-card details {
+  margin-top: .5rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .7rem;
+}
+
+.current-mod-card details summary {
+  cursor: pointer;
+}
+
+.current-mod-card details code {
+  display: block;
+  margin-top: .4rem;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+.current-modlist-empty {
+  padding: 1rem;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+}
+
+@media (max-width: 60rem) {
+  .current-modlist-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 38rem) {
+  .modlist-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .modlist-hero > img {
+    height: 11rem;
+    min-height: 0;
+  }
+
+  .current-modlist-tools {
+    position: static;
+  }
+
+  .current-modlist-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .tensura-reference-article img[data-reference-zoom] {
   cursor: zoom-in;
 }

@@ -56,6 +56,7 @@ The playable profile contains far more than the two upstream article collections
 <a href="../magic/">Magic</a>
 <a href="../storage-and-logistics/">Storage</a>
 <a href="../quests-and-shop/">Quests & shop</a>
+<a href="../current-modlist/">Search all 249 mods</a>
 </div>
 </div>
 </article>

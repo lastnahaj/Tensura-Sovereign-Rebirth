@@ -17,7 +17,7 @@ The project combines character evolution, skills, Great Sage, Gear Evolution, su
 
 ## Documentation
 
-- **Documentation site:** https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/
+- **Documentation site:** https://tsr.infinitegamingservers.com/
 - [Getting Started](docs/getting-started.md)
 - [Progression Overview](docs/progression-overview.md)
 - [Mod Manifest](docs/mod-manifest.md)
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-Then open `http://127.0.0.1:8000/Tensura-Sovereign-Rebirth/`.
+Then open `http://127.0.0.1:8000/`.
 
 ## Wiki reference synchronization
 

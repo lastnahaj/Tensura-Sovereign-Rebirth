@@ -60,6 +60,7 @@ extra_css:
 
 extra_javascript:
   - assets/javascripts/reference.js
+  - assets/javascripts/modlist.js
 
 extra:
   social:
@@ -73,6 +74,7 @@ nav:
       - Getting Started: getting-started.md
       - Pack Overview: pack-overview.md
       - Mod Guide Directory: mod-guide-directory/index.md
+      - Current Modlist: current-modlist.md
       - Progression Overview: progression-overview.md
       - TSR Progression Differences: tsr-vs-base-tensura.md
       - FAQ: faq.md

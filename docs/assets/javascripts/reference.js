@@ -166,6 +166,71 @@
     return contents;
   }
 
+  function setupVideos(article) {
+    article.querySelectorAll("figure.embedvideo").forEach((figure) => {
+      if (figure.dataset.referenceVideoReady === "true") return;
+      figure.dataset.referenceVideoReady = "true";
+
+      let source;
+      try {
+        const config = JSON.parse(figure.dataset.mwIframeconfig || "{}");
+        source = new URL(config.src || "");
+      } catch (_) {
+        source = null;
+      }
+
+      const videoId = source?.pathname.match(/^\/embed\/([A-Za-z0-9_-]{11})$/)?.[1];
+      if (source?.hostname !== "www.youtube-nocookie.com" || !videoId) {
+        figure.replaceWith(Object.assign(document.createElement("p"), {
+          className: "reference-video-unavailable",
+          textContent: "The source page does not provide a valid tutorial video.",
+        }));
+        return;
+      }
+
+      const loader = figure.querySelector(".embedvideo-loader");
+      const notice = figure.querySelector(".embedvideo-privacyNotice");
+      const continueButton = figure.querySelector(".embedvideo-privacyNotice__continue");
+      const dismissButton = figure.querySelector(".embedvideo-privacyNotice__dismiss");
+      if (!loader || !notice || !continueButton || !dismissButton) return;
+
+      loader.tabIndex = 0;
+      loader.setAttribute("aria-label", "Load YouTube privacy notice");
+      notice.classList.add("hidden");
+
+      const showNotice = () => {
+        loader.hidden = true;
+        notice.classList.remove("hidden");
+        continueButton.focus();
+      };
+      loader.addEventListener("click", showNotice);
+      loader.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          showNotice();
+        }
+      });
+
+      continueButton.addEventListener("click", () => {
+        const iframe = document.createElement("iframe");
+        iframe.src = source.href;
+        iframe.title = "YouTube tutorial video";
+        iframe.loading = "lazy";
+        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+        iframe.referrerPolicy = "strict-origin-when-cross-origin";
+        iframe.allowFullscreen = true;
+        figure.replaceChildren(iframe);
+        figure.classList.add("is-loaded");
+      });
+
+      dismissButton.addEventListener("click", () => {
+        notice.classList.add("hidden");
+        loader.hidden = false;
+        loader.focus();
+      });
+    });
+  }
+
   function setupProgress(article) {
     document.querySelector(".reference-progress")?.remove();
     const progress = document.createElement("div");
@@ -190,6 +255,7 @@
     article.dataset.referenceReady = "true";
     const details = convertSections(article);
     const legacyContents = setupLegacyCollapsibles(article);
+    setupVideos(article);
     setupReadingMode(details, legacyContents);
     setupLightbox(document);
     setupProgress(article);

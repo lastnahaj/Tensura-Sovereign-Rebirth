@@ -1,0 +1,1997 @@
+{
+  "schema_version": 1,
+  "captured_on": "2026-08-31",
+  "minecraft": "1.21.1",
+  "loader": "NeoForge",
+  "profile": "current-client-snapshot",
+  "mod_count": 249,
+  "mods": [
+    {
+      "name": "AlmostUnified",
+      "version": "1.21.1-1.4.2",
+      "filename": "almostunified-neoforge-1.21.1-1.4.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/633823",
+      "curseforge_project_id": 633823
+    },
+    {
+      "name": "Amendments",
+      "version": "1.21-2.1.7",
+      "filename": "amendments-neoforge-1.21-2.1.7.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/896746",
+      "curseforge_project_id": 896746
+    },
+    {
+      "name": "Ancient Artifacts",
+      "version": "1.0.0",
+      "filename": "AncientArtifacts-neoforge-1.0.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1603667",
+      "curseforge_project_id": 1603667
+    },
+    {
+      "name": "Apothic Spawners",
+      "version": "1.4.0",
+      "filename": "ApothicSpawners-1.21.1-1.4.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/986583",
+      "curseforge_project_id": 986583
+    },
+    {
+      "name": "AppleSkin",
+      "version": "3.0.9+mc1.21",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/248787",
+      "curseforge_project_id": 248787
+    },
+    {
+      "name": "Architectury",
+      "version": "13.0.11",
+      "filename": "architectury-13.0.11-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/419699",
+      "curseforge_project_id": 419699
+    },
+    {
+      "name": "Artifacts",
+      "version": "13.2.3",
+      "filename": "artifacts-neoforge-13.2.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/312353",
+      "curseforge_project_id": 312353
+    },
+    {
+      "name": "Ascension",
+      "version": "1.0.0",
+      "filename": "ascension-2.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1505110",
+      "curseforge_project_id": 1505110
+    },
+    {
+      "name": "Athena",
+      "version": "4.0.6",
+      "filename": "athena-neoforge-1.21.1-4.0.6.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/841890",
+      "curseforge_project_id": 841890
+    },
+    {
+      "name": "Bad Packets",
+      "version": "0.8.2",
+      "filename": "badpackets-neo-0.8.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/615134",
+      "curseforge_project_id": 615134
+    },
+    {
+      "name": "Balm",
+      "version": "21.0.65",
+      "filename": "balm-neoforge-1.21.1-21.0.65.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/531761",
+      "curseforge_project_id": 531761
+    },
+    {
+      "name": "Better Advanced Tooltips",
+      "version": "2101.1.0-build.5",
+      "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1637623",
+      "curseforge_project_id": 1637623
+    },
+    {
+      "name": "BetterF3",
+      "version": "11.0.3",
+      "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/401648",
+      "curseforge_project_id": 401648
+    },
+    {
+      "name": "Beyond Adventures",
+      "version": "1.0.0",
+      "filename": "Beyond_Adventures-Neoforge-1.1.9.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1490800",
+      "curseforge_project_id": 1490800
+    },
+    {
+      "name": "Biome Spawn Point",
+      "version": "2.4",
+      "filename": "biomespawnpoint-1.21.1-2.4.jar",
+      "enabled": true,
+      "source_url": "https://serilum.com/mod/biome-spawn-point"
+    },
+    {
+      "name": "Bookshelf",
+      "version": "21.1.81",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/228525",
+      "curseforge_project_id": 228525
+    },
+    {
+      "name": "Boss Checklist",
+      "version": "5.2.0",
+      "filename": "boss_checklist-neoforge-5.2.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1355708",
+      "curseforge_project_id": 1355708
+    },
+    {
+      "name": "Boss Checklist Addon Example",
+      "version": "1.0.0",
+      "filename": "addon-tensura_checklist.jar",
+      "enabled": true,
+      "source_url": null
+    },
+    {
+      "name": "Bosses'Rise",
+      "version": "2.1.2",
+      "filename": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1314084",
+      "curseforge_project_id": 1314084
+    },
+    {
+      "name": "Bosses'Rise x Tensura Compatibility",
+      "version": "1.1.0",
+      "filename": "bossesrisetensuracompat-1.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1651764",
+      "curseforge_project_id": 1651764
+    },
+    {
+      "name": "Byzantine",
+      "version": "51",
+      "filename": "Byzantine-1.21.1-51.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/974855",
+      "curseforge_project_id": 974855
+    },
+    {
+      "name": "ChatManager",
+      "version": "1.3.7",
+      "filename": "chatmanager-NEOFORGE-1.21.1-1.3.7.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1298988",
+      "curseforge_project_id": 1298988
+    },
+    {
+      "name": "Chipped",
+      "version": "4.0.2",
+      "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/456956",
+      "curseforge_project_id": 456956
+    },
+    {
+      "name": "Cloth Config v15 API",
+      "version": "15.0.140",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/348521",
+      "curseforge_project_id": 348521
+    },
+    {
+      "name": "Clumps",
+      "version": "19.0.0.1",
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/256717",
+      "curseforge_project_id": 256717
+    },
+    {
+      "name": "Collective",
+      "version": "8.39",
+      "filename": "collective-1.21.1-8.39.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/342584",
+      "curseforge_project_id": 342584
+    },
+    {
+      "name": "Compass to Map: Xaero's Minimap & Explorer's Compass & Nature's Compass Addon",
+      "version": "0.1.1",
+      "filename": "c2mx-neoforge-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1551920",
+      "curseforge_project_id": 1551920
+    },
+    {
+      "name": "Configured",
+      "version": "2.6.3",
+      "filename": "configured-neoforge-1.21.1-2.6.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/457570",
+      "curseforge_project_id": 457570
+    },
+    {
+      "name": "Connectivity Mod",
+      "version": "7.6",
+      "filename": "connectivity-1.21.1-7.6.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/470193",
+      "curseforge_project_id": 470193
+    },
+    {
+      "name": "Construction Wands Revived",
+      "version": "4.0.4",
+      "filename": "ConstructionWandsRevived-1.21.1-4.0.4-NeoForge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1395288",
+      "curseforge_project_id": 1395288
+    },
+    {
+      "name": "Controlling",
+      "version": "19.0.4",
+      "filename": "Controlling-neoforge-1.21.1-19.0.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/250398",
+      "curseforge_project_id": 250398
+    },
+    {
+      "name": "CraftedCore",
+      "version": "5.8.2",
+      "filename": "craftedcore-5.8.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/923377",
+      "curseforge_project_id": 923377
+    },
+    {
+      "name": "Crafting Tweaks",
+      "version": "21.1.11",
+      "filename": "craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/233071",
+      "curseforge_project_id": 233071
+    },
+    {
+      "name": "Create",
+      "version": "6.0.10",
+      "filename": "create-1.21.1-6.0.10.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/328085",
+      "curseforge_project_id": 328085
+    },
+    {
+      "name": "Create & Minecolones",
+      "version": "1.5",
+      "filename": "createminecolonies-1.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1550673",
+      "curseforge_project_id": 1550673
+    },
+    {
+      "name": "Create Contraption Terminals",
+      "version": "1.4.0",
+      "filename": "createcontraptionterminals-1.21-1.4.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1059879",
+      "curseforge_project_id": 1059879
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "version": "1.7.0",
+      "filename": "createaddition-1.7.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/439890",
+      "curseforge_project_id": 439890
+    },
+    {
+      "name": "Create Deco",
+      "version": "2.1.3",
+      "filename": "createdeco-2.1.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/509285",
+      "curseforge_project_id": 509285
+    },
+    {
+      "name": "Create Encased",
+      "version": "1.9.0-ht3",
+      "filename": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/829380",
+      "curseforge_project_id": 829380
+    },
+    {
+      "name": "Create Slice & Dice",
+      "version": "4.3.3",
+      "filename": "sliceanddice-4.3.3-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/659674",
+      "curseforge_project_id": 659674
+    },
+    {
+      "name": "Create: Connected",
+      "version": "1.3.2-mc1.21.1",
+      "filename": "create_connected-1.3.2-mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/947914",
+      "curseforge_project_id": 947914
+    },
+    {
+      "name": "Create: Copycats+",
+      "version": "3.0.8+mc.1.21.1-neoforge",
+      "filename": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/968398",
+      "curseforge_project_id": 968398
+    },
+    {
+      "name": "Cupboard mod",
+      "version": "4.1",
+      "filename": "cupboard-1.21.1-4.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/326652",
+      "curseforge_project_id": 326652
+    },
+    {
+      "name": "Curios API",
+      "version": "9.5.1+1.21.1",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/309927",
+      "curseforge_project_id": 309927
+    },
+    {
+      "name": "DarkUtilities",
+      "version": "21.1.1",
+      "filename": "darkutils-neoforge-1.21.1-21.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/242195",
+      "curseforge_project_id": 242195
+    },
+    {
+      "name": "Deeper and Darker",
+      "version": "1.4.1",
+      "filename": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/659011",
+      "curseforge_project_id": 659011
+    },
+    {
+      "name": "Distant Horizons",
+      "version": "3.2.0-b",
+      "filename": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/508933",
+      "curseforge_project_id": 508933
+    },
+    {
+      "name": "Domum Ornamentum",
+      "version": "1.0.231",
+      "filename": "domum-ornamentum-1.0.231-main.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/527361",
+      "curseforge_project_id": 527361
+    },
+    {
+      "name": "Dynamic FPS",
+      "version": "3.11.3",
+      "filename": "dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/335493",
+      "curseforge_project_id": 335493
+    },
+    {
+      "name": "Easy Anvils",
+      "version": "21.1.0",
+      "filename": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/682567",
+      "curseforge_project_id": 682567
+    },
+    {
+      "name": "EnchantmentDescriptions",
+      "version": "21.1.11",
+      "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/250419",
+      "curseforge_project_id": 250419
+    },
+    {
+      "name": "End Remastered",
+      "version": "6.3.0",
+      "filename": "endrem-neoforge-1.21.1-6.3.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/404183",
+      "curseforge_project_id": 404183
+    },
+    {
+      "name": "End Remastered Additions",
+      "version": "1.1.2",
+      "filename": "endrem_additions-neoforge-1.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1365790",
+      "curseforge_project_id": 1365790
+    },
+    {
+      "name": "Entity Model Features",
+      "version": "3.2.4",
+      "filename": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/844662",
+      "curseforge_project_id": 844662
+    },
+    {
+      "name": "Entity Texture Features",
+      "version": "7.1",
+      "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/568563",
+      "curseforge_project_id": 568563
+    },
+    {
+      "name": "EntityCulling",
+      "version": "1.10.5",
+      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/448233",
+      "curseforge_project_id": 448233
+    },
+    {
+      "name": "EpheroLib",
+      "version": "1.2.0",
+      "filename": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/885449",
+      "curseforge_project_id": 885449
+    },
+    {
+      "name": "Eternal Starlight",
+      "version": "0.9.0+1.21.1+neoforge",
+      "filename": "eternalstarlight-0.9.0+1.21.1+neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1080592",
+      "curseforge_project_id": 1080592
+    },
+    {
+      "name": "Eternal Starlight's Delight",
+      "version": "1.3.0",
+      "filename": "eternal_starlight_delight-neoforge-1.3.0.jar",
+      "enabled": true,
+      "source_url": "https://github.com/Minor2CCh/EternalStarlightDelight"
+    },
+    {
+      "name": "Euphoria Patcher",
+      "version": "1.9.3-r5.8.1-neoforge",
+      "filename": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/915902",
+      "curseforge_project_id": 915902
+    },
+    {
+      "name": "Explorer's Compass",
+      "version": "1.21.1-3.4.0-neoforge",
+      "filename": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/491794",
+      "curseforge_project_id": 491794
+    },
+    {
+      "name": "Extreme Sound Muffler",
+      "version": "3.56",
+      "filename": "ExtremeSoundMuffler-3.56_NeoForge-1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/363363",
+      "curseforge_project_id": 363363
+    },
+    {
+      "name": "FTB Chunks",
+      "version": "2101.1.21",
+      "filename": "ftb-chunks-neoforge-2101.1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/314906",
+      "curseforge_project_id": 314906
+    },
+    {
+      "name": "FTB Chunks x Xaero's Map Compat",
+      "version": "1.1.4",
+      "filename": "ftbxaerocompat-neoforge-1.1.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1357724",
+      "curseforge_project_id": 1357724
+    },
+    {
+      "name": "FTB Essentials",
+      "version": "2101.1.10",
+      "filename": "ftb-essentials-neoforge-2101.1.10.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/410811",
+      "curseforge_project_id": 410811
+    },
+    {
+      "name": "FTB Library",
+      "version": "2101.1.35",
+      "filename": "ftb-library-neoforge-2101.1.35.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/404465",
+      "curseforge_project_id": 404465
+    },
+    {
+      "name": "FTB Quest for When Dungeons Arise",
+      "version": "1.0.0",
+      "filename": "wda_questline-1.21.1-1.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1340230",
+      "curseforge_project_id": 1340230
+    },
+    {
+      "name": "FTB Quests",
+      "version": "2101.1.34",
+      "filename": "ftb-quests-neoforge-2101.1.34.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/289412",
+      "curseforge_project_id": 289412
+    },
+    {
+      "name": "FTB Teams",
+      "version": "2101.1.11",
+      "filename": "ftb-teams-neoforge-2101.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/404468",
+      "curseforge_project_id": 404468
+    },
+    {
+      "name": "FTB Ultimine",
+      "version": "2101.1.15",
+      "filename": "ftb-ultimine-neoforge-2101.1.15.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/386134",
+      "curseforge_project_id": 386134
+    },
+    {
+      "name": "FTB XMod Compat",
+      "version": "21.1.11",
+      "filename": "ftb-xmod-compat-neoforge-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/889915",
+      "curseforge_project_id": 889915
+    },
+    {
+      "name": "Farmer's Delight",
+      "version": "1.3.3",
+      "filename": "FarmersDelight-1.21.1-1.3.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/398521",
+      "curseforge_project_id": 398521
+    },
+    {
+      "name": "FarmersStructures",
+      "version": "1.0.6",
+      "filename": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1088877",
+      "curseforge_project_id": 1088877
+    },
+    {
+      "name": "Fast Item Frames",
+      "version": "21.1.6",
+      "filename": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1210171",
+      "curseforge_project_id": 1210171
+    },
+    {
+      "name": "Ferrite Core",
+      "version": "7.0.3",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/429235",
+      "curseforge_project_id": 429235
+    },
+    {
+      "name": "Forgematica",
+      "version": "0.4.2+mc1.21.1",
+      "filename": "forgematica-0.4.2+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/912441",
+      "curseforge_project_id": 912441
+    },
+    {
+      "name": "Forgematica Printer",
+      "version": "0.1.0+mc1.21.1",
+      "filename": "NeoForgematicaPrinter-0.1.0+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1487788",
+      "curseforge_project_id": 1487788
+    },
+    {
+      "name": "FramedBlocks",
+      "version": "10.6.1",
+      "filename": "FramedBlocks-10.6.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/441647",
+      "curseforge_project_id": 441647
+    },
+    {
+      "name": "Fusion",
+      "version": "1.3.14+a",
+      "filename": "fusion-1.3.14a-neoforge-mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/854949",
+      "curseforge_project_id": 854949
+    },
+    {
+      "name": "GeckoLib 4",
+      "version": "4.9.2",
+      "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/388172",
+      "curseforge_project_id": 388172
+    },
+    {
+      "name": "Great Sage",
+      "version": "0.0.5",
+      "filename": "greatsage-0.0.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1635097",
+      "curseforge_project_id": 1635097
+    },
+    {
+      "name": "Ice And Fire Community Edition",
+      "version": "2.0-beta.7",
+      "filename": "IceAndFireCE-2.0-beta.7-1.21.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1040076",
+      "curseforge_project_id": 1040076
+    },
+    {
+      "name": "ImmediatelyFast",
+      "version": "1.6.12+1.21.1",
+      "filename": "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/686911",
+      "curseforge_project_id": 686911
+    },
+    {
+      "name": "Inventory Essentials",
+      "version": "21.1.17",
+      "filename": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/368825",
+      "curseforge_project_id": 368825
+    },
+    {
+      "name": "Iris",
+      "version": "1.8.14-beta.1+mc1.21.1",
+      "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/455508",
+      "curseforge_project_id": 455508
+    },
+    {
+      "name": "Iris Flywheel Compat",
+      "version": "2.4.0",
+      "filename": "iris-flywheel-compat-NeoForge-2.4.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/659897",
+      "curseforge_project_id": 659897
+    },
+    {
+      "name": "Iron Furnaces",
+      "version": "4.3.2",
+      "filename": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/237664",
+      "curseforge_project_id": 237664
+    },
+    {
+      "name": "Iron's Lib",
+      "version": "1.21.1-2.1.0",
+      "filename": "irons_lib-1.21.1-2.1.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1492763",
+      "curseforge_project_id": 1492763
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "version": "1.21.1-3.16.3",
+      "filename": "irons_spellbooks-1.21.1-3.16.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/855414",
+      "curseforge_project_id": 855414
+    },
+    {
+      "name": "Item Peek",
+      "version": "1.2.0",
+      "filename": "itempeek-mc1.21.1-1.2.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1467647",
+      "curseforge_project_id": 1467647
+    },
+    {
+      "name": "Jade",
+      "version": "15.10.6+neoforge",
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/324717",
+      "curseforge_project_id": 324717
+    },
+    {
+      "name": "Jade Addons",
+      "version": "6.1.0+neoforge",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/583345",
+      "curseforge_project_id": 583345
+    },
+    {
+      "name": "Jade Farmer's Delight Compat",
+      "version": "NONE",
+      "filename": "jade-farmers-delight-compat-1.21.1-neoforge-1.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1664189",
+      "curseforge_project_id": 1664189
+    },
+    {
+      "name": "Jade Sophisticated Backpacks Compat",
+      "version": "1.0.2",
+      "filename": "jade-sophisticated-backpacks-1.21.1-neoforge-1.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1668275",
+      "curseforge_project_id": 1668275
+    },
+    {
+      "name": "JadeColonies",
+      "version": "1.6.0",
+      "filename": "jadecolonies-1.21.1-1.6.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/882310",
+      "curseforge_project_id": 882310
+    },
+    {
+      "name": "Jupiter",
+      "version": "2.3.7",
+      "filename": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1072905",
+      "curseforge_project_id": 1072905
+    },
+    {
+      "name": "Just Enough Items",
+      "version": "19.32.0.359",
+      "filename": "jei-1.21.1-neoforge-19.32.0.359.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/238222",
+      "curseforge_project_id": 238222
+    },
+    {
+      "name": "Just Enough Mekanism Multiblocks",
+      "version": "7.18",
+      "filename": "JustEnoughMekanismMultiblocks-1.21.1-7.18.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/898746",
+      "curseforge_project_id": 898746
+    },
+    {
+      "name": "Just Enough Resources",
+      "version": "1.6.0.17",
+      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/240630",
+      "curseforge_project_id": 240630
+    },
+    {
+      "name": "KleeSlabs",
+      "version": "21.1.11",
+      "filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/241895",
+      "curseforge_project_id": 241895
+    },
+    {
+      "name": "Konkrete",
+      "version": "1.9.9",
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/410295",
+      "curseforge_project_id": 410295
+    },
+    {
+      "name": "Kotlin for Forge",
+      "version": "8335665",
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/351264",
+      "curseforge_project_id": 351264
+    },
+    {
+      "name": "KubeJS",
+      "version": "2101.7.2-build.374",
+      "filename": "kubejs-neoforge-2101.7.2-build.374.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/238086",
+      "curseforge_project_id": 238086
+    },
+    {
+      "name": "L_Ender's Cataclysm 1.21.1",
+      "version": "3.33",
+      "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/551586",
+      "curseforge_project_id": 551586
+    },
+    {
+      "name": "Legendary Monsters x Tensura Compat",
+      "version": "1.0.0",
+      "filename": "lmtensuracompat-1.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1652024",
+      "curseforge_project_id": 1652024
+    },
+    {
+      "name": "Lithostitched",
+      "version": "1.8.0+beta4",
+      "filename": "lithostitched-1.8.0+beta4-neoforge-21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/936015",
+      "curseforge_project_id": 936015
+    },
+    {
+      "name": "LootJS",
+      "version": "1.21.1-3.7.0",
+      "filename": "lootjs-neoforge-1.21.1-3.7.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/570630",
+      "curseforge_project_id": 570630
+    },
+    {
+      "name": "Lootintegrations mod",
+      "version": "4.7",
+      "filename": "lootintegrations-1.21.1-4.7.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/580689",
+      "curseforge_project_id": 580689
+    },
+    {
+      "name": "Lootr",
+      "version": "1.21.1-1.11.38.124",
+      "filename": "lootr-neoforge-1.21.1-1.11.38.124.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/361276",
+      "curseforge_project_id": 361276
+    },
+    {
+      "name": "Lunara Colonies",
+      "version": "1.21.1.28",
+      "filename": "neoforge-lunara-colonies-1.21.1.28.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1409914",
+      "curseforge_project_id": 1409914
+    },
+    {
+      "name": "MaFgLib",
+      "version": "0.4.3+mc1.21.1",
+      "filename": "mafglib-0.4.3+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/910766",
+      "curseforge_project_id": 910766
+    },
+    {
+      "name": "Macaw's Bridges",
+      "version": "3.1.2",
+      "filename": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/351725",
+      "curseforge_project_id": 351725
+    },
+    {
+      "name": "Macaw's Doors",
+      "version": "1.1.5",
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/378646",
+      "curseforge_project_id": 378646
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "version": "1.2.1",
+      "filename": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/453925",
+      "curseforge_project_id": 453925
+    },
+    {
+      "name": "Macaw's Furniture",
+      "version": "3.4.1",
+      "filename": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/359540",
+      "curseforge_project_id": 359540
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "version": "1.1.5",
+      "filename": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/502372",
+      "curseforge_project_id": 502372
+    },
+    {
+      "name": "Macaw's Roofs",
+      "version": "2.3.2",
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/352039",
+      "curseforge_project_id": 352039
+    },
+    {
+      "name": "Macaw's Stairs and Balconies",
+      "version": "1.0.2",
+      "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1119394",
+      "curseforge_project_id": 1119394
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "version": "1.1.5",
+      "filename": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/400933",
+      "curseforge_project_id": 400933
+    },
+    {
+      "name": "Macaw's Windows",
+      "version": "2.4.2",
+      "filename": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/363569",
+      "curseforge_project_id": 363569
+    },
+    {
+      "name": "ManasCore",
+      "version": "4.0.0.2",
+      "filename": "manascore-neoforge-4.0.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/619025",
+      "curseforge_project_id": 619025
+    },
+    {
+      "name": "Material Backpack Evolution Fix",
+      "version": "1.0.4",
+      "filename": "tensura_backpack_items-1.0.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1545102",
+      "curseforge_project_id": 1545102
+    },
+    {
+      "name": "Mekanism",
+      "version": "10.7.19",
+      "filename": "Mekanism-1.21.1-10.7.19.85.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/268560",
+      "curseforge_project_id": 268560
+    },
+    {
+      "name": "Mekanism: Generators",
+      "version": "10.7.19",
+      "filename": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/268566",
+      "curseforge_project_id": 268566
+    },
+    {
+      "name": "Melody",
+      "version": "1.0.10",
+      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/938643",
+      "curseforge_project_id": 938643
+    },
+    {
+      "name": "MineColonies",
+      "version": "1.1.1319-1.21.1",
+      "filename": "minecolonies-1.1.1319-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/245506",
+      "curseforge_project_id": 245506
+    },
+    {
+      "name": "MineColonies: Jade crops",
+      "version": "1.1.1300",
+      "filename": "mcjadecrops-1.1.1300.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1537128",
+      "curseforge_project_id": 1537128
+    },
+    {
+      "name": "Minecolonies Mages (Iron's Spells Integration)",
+      "version": "2.3",
+      "filename": "minecolonies-mages-v2.3-neoforge-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1506482",
+      "curseforge_project_id": 1506482
+    },
+    {
+      "name": "ModernFix",
+      "version": "5.27.20+mc1.21.1",
+      "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/790626",
+      "curseforge_project_id": 790626
+    },
+    {
+      "name": "Moog's Structure Lib",
+      "version": "3.1.2",
+      "filename": "MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1337167",
+      "curseforge_project_id": 1337167
+    },
+    {
+      "name": "MoogsEndStructures",
+      "version": "2.0.3",
+      "filename": "MoogsEndStructures-1.21-2.0.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/892382",
+      "curseforge_project_id": 892382
+    },
+    {
+      "name": "MoogsSoaringStructures",
+      "version": "2.1.2",
+      "filename": "MoogsSoaringStructures-1.21-2.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1040210",
+      "curseforge_project_id": 1040210
+    },
+    {
+      "name": "MoogsTemplesReimagined",
+      "version": "1.1.3",
+      "filename": "MoogsTemplesReimagined-1.21-1.1.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1339737",
+      "curseforge_project_id": 1339737
+    },
+    {
+      "name": "Moonlight Lib",
+      "version": "1.21.1-3.5.2",
+      "filename": "moonlight-1.21.1-3.5.2-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/499980",
+      "curseforge_project_id": 499980
+    },
+    {
+      "name": "More Culling",
+      "version": "1.0.9",
+      "filename": "moreculling-neoforge-1.21.1-1.0.9.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/630104",
+      "curseforge_project_id": 630104
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "2.26.1",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/60089",
+      "curseforge_project_id": 60089
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "version": "1.8.2",
+      "filename": "mowziesmobs-1.21.1-1.8.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/250498",
+      "curseforge_project_id": 250498
+    },
+    {
+      "name": "Multi-Piston",
+      "version": "1.2.51-1.21.1-snapshot",
+      "filename": "multipiston-1.2.51-1.21.1-snapshot.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/303278",
+      "curseforge_project_id": 303278
+    },
+    {
+      "name": "Nature's Compass",
+      "version": "1.21.1-3.4.0-neoforge",
+      "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/252848",
+      "curseforge_project_id": 252848
+    },
+    {
+      "name": "NetherPortalFix",
+      "version": "21.1.1",
+      "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/241160",
+      "curseforge_project_id": 241160
+    },
+    {
+      "name": "Nightmare Utils",
+      "version": "0.1.0",
+      "filename": "nightmareutils-0.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1525266",
+      "curseforge_project_id": 1525266
+    },
+    {
+      "name": "Nyctography",
+      "version": "21.1.8",
+      "filename": "nyctography-neoforge-1.21.1-21.1.8.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1126493",
+      "curseforge_project_id": 1126493
+    },
+    {
+      "name": "OctoLib",
+      "version": "0.6.2",
+      "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/916747",
+      "curseforge_project_id": 916747
+    },
+    {
+      "name": "OpenLoader",
+      "version": "21.1.5",
+      "filename": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/354339",
+      "curseforge_project_id": 354339
+    },
+    {
+      "name": "Paxi",
+      "version": "1.21.1-NeoForge-5.1.3",
+      "filename": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015157",
+      "curseforge_project_id": 1015157
+    },
+    {
+      "name": "Pick Up Notifier",
+      "version": "21.1.1",
+      "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/351441",
+      "curseforge_project_id": 351441
+    },
+    {
+      "name": "PigPen",
+      "version": "21.1.5",
+      "filename": "pigpen-neoforge-1.21.1-21.1.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/396234",
+      "curseforge_project_id": 396234
+    },
+    {
+      "name": "Placebo",
+      "version": "9.9.2",
+      "filename": "Placebo-1.21.1-9.9.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/283644",
+      "curseforge_project_id": 283644
+    },
+    {
+      "name": "Player Animator",
+      "version": "2.0.4+1.21.1",
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/658587",
+      "curseforge_project_id": 658587
+    },
+    {
+      "name": "Polymorph",
+      "version": "1.1.0+1.21.1",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/388800",
+      "curseforge_project_id": 388800
+    },
+    {
+      "name": "PrickleMC",
+      "version": "21.1.11",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1023259",
+      "curseforge_project_id": 1023259
+    },
+    {
+      "name": "Productive Metalworks",
+      "version": "1.21.1-1.15.1",
+      "filename": "productivemetalworks-1.21.1-1.15.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1184570",
+      "curseforge_project_id": 1184570
+    },
+    {
+      "name": "Puzzles Lib",
+      "version": "21.1.52",
+      "filename": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/495476",
+      "curseforge_project_id": 495476
+    },
+    {
+      "name": "Quest Installer",
+      "version": "1.0.0",
+      "filename": "minecolonies-questline-1.21.1-1.1.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1326883",
+      "curseforge_project_id": 1326883
+    },
+    {
+      "name": "Quest Shop",
+      "version": "1.3.0",
+      "filename": "questshop-1.3.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1338320",
+      "curseforge_project_id": 1338320
+    },
+    {
+      "name": "ReMorphed",
+      "version": "4.2",
+      "filename": "remorphed-4.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/950721",
+      "curseforge_project_id": 950721
+    },
+    {
+      "name": "Rechiseled",
+      "version": "1.2.5",
+      "filename": "rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/558998",
+      "curseforge_project_id": 558998
+    },
+    {
+      "name": "Rechiseled: Chipped",
+      "version": "1.3",
+      "filename": "rechiseled_chipped-2.0-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1007578",
+      "curseforge_project_id": 1007578
+    },
+    {
+      "name": "Rechiseled: Create",
+      "version": "1.1.1",
+      "filename": "rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/888624",
+      "curseforge_project_id": 888624
+    },
+    {
+      "name": "Reintegrated Chipped",
+      "version": "1.0.0",
+      "filename": "reintegrated_chipped-1.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1205717",
+      "curseforge_project_id": 1205717
+    },
+    {
+      "name": "Relics",
+      "version": "0.12.8",
+      "filename": "relics-1.21.1-0.12.8.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/445274",
+      "curseforge_project_id": 445274
+    },
+    {
+      "name": "Relics Tensura EP Compat",
+      "version": "1.0.0",
+      "filename": "relics-tensura-ep-compat-1.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1655129",
+      "curseforge_project_id": 1655129
+    },
+    {
+      "name": "Repurposed Structures",
+      "version": "7.5.22+1.21.1-neoforge",
+      "filename": "repurposed_structures-7.5.22+1.21.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/368293",
+      "curseforge_project_id": 368293
+    },
+    {
+      "name": "Resourceful Lib",
+      "version": "3.0.12",
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/570073",
+      "curseforge_project_id": 570073
+    },
+    {
+      "name": "Rhino",
+      "version": "2101.2.7-build.81",
+      "filename": "rhino-2101.2.7-build.81.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/416294",
+      "curseforge_project_id": 416294
+    },
+    {
+      "name": "Runelic",
+      "version": "21.1.5",
+      "filename": "runelic-neoforge-1.21.1-21.1.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/393149",
+      "curseforge_project_id": 393149
+    },
+    {
+      "name": "Searchables",
+      "version": "1.0.2",
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/858542",
+      "curseforge_project_id": 858542
+    },
+    {
+      "name": "Silent Gear",
+      "version": "4.2.1.1",
+      "filename": "silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/297039",
+      "curseforge_project_id": 297039
+    },
+    {
+      "name": "Silent Gear Jade Tiers",
+      "version": "1.11.1",
+      "filename": "silentgear_jade_tiers-1.11.1-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1563627",
+      "curseforge_project_id": 1563627
+    },
+    {
+      "name": "Silent Gear Metalworks",
+      "version": "1.21.1-1.5.0",
+      "filename": "sgearmetalworks-1.21.1-1.5.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1199188",
+      "curseforge_project_id": 1199188
+    },
+    {
+      "name": "Silent Lib",
+      "version": "10.6.0",
+      "filename": "silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/242998",
+      "curseforge_project_id": 242998
+    },
+    {
+      "name": "Simple Voice Chat",
+      "version": "1.21.1-2.6.22",
+      "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/416089",
+      "curseforge_project_id": 416089
+    },
+    {
+      "name": "Skill Study Books",
+      "version": "2.2.1",
+      "filename": "tensura_skill_books-neoforge-2.2.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1418495",
+      "curseforge_project_id": 1418495
+    },
+    {
+      "name": "SlimeThroneExtras",
+      "version": "2.1.2.1",
+      "filename": "SlimeThroneExtras-neoforge-2.1.2.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1249067",
+      "curseforge_project_id": 1249067
+    },
+    {
+      "name": "SmartBrainLib",
+      "version": "1.16.11",
+      "filename": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/661293",
+      "curseforge_project_id": 661293
+    },
+    {
+      "name": "Sodium",
+      "version": "0.8.13+mc1.21.1",
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/394468",
+      "curseforge_project_id": 394468
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "version": "3.25.78",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/422301",
+      "curseforge_project_id": 422301
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "version": "0.1.8",
+      "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1238567",
+      "curseforge_project_id": 1238567
+    },
+    {
+      "name": "Sophisticated Core",
+      "version": "1.4.89",
+      "filename": "sophisticatedcore-1.21.1-1.4.89.2291.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/618298",
+      "curseforge_project_id": 618298
+    },
+    {
+      "name": "Sophisticated Storage",
+      "version": "1.5.91",
+      "filename": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/619320",
+      "curseforge_project_id": 619320
+    },
+    {
+      "name": "Sophisticated Storage Create Integration",
+      "version": "0.1.21",
+      "filename": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1226755",
+      "curseforge_project_id": 1226755
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "version": "1.21.1-1.5.1",
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/535489",
+      "curseforge_project_id": 535489
+    },
+    {
+      "name": "SparseStructures",
+      "version": "3.0",
+      "filename": "sparsestructures-neoforge-1.21.1-3.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/911437",
+      "curseforge_project_id": 911437
+    },
+    {
+      "name": "Spud's Shops",
+      "version": "1.9.10",
+      "filename": "spudaciousshops-1.9.10.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1388652",
+      "curseforge_project_id": 1388652
+    },
+    {
+      "name": "Structurize",
+      "version": "1.0.830-1.21.1",
+      "filename": "structurize-1.0.830-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/298744",
+      "curseforge_project_id": 298744
+    },
+    {
+      "name": "Stylecolonies",
+      "version": "1.15.58-1.21.1",
+      "filename": "stylecolonies-1.15.58-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/827507",
+      "curseforge_project_id": 827507
+    },
+    {
+      "name": "SuperMartijn642's Config Library",
+      "version": "1.1.8",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/438332",
+      "curseforge_project_id": 438332
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "version": "1.1.24",
+      "filename": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/454372",
+      "curseforge_project_id": 454372
+    },
+    {
+      "name": "Supplementaries",
+      "version": "1.21.1-3.9.1",
+      "filename": "supplementaries-1.21.1-3.9.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/412082",
+      "curseforge_project_id": 412082
+    },
+    {
+      "name": "Supplementaries Squared",
+      "version": "1.21-1.2.18",
+      "filename": "suppsquared-neoforge-1.21-1.2.18.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/838411",
+      "curseforge_project_id": 838411
+    },
+    {
+      "name": "TSR Client Stability",
+      "version": "1.0.0",
+      "filename": "tsr-client-stability-1.0.0.jar",
+      "enabled": true,
+      "source_url": null
+    },
+    {
+      "name": "TSR Silent Gear Metalworks Compat",
+      "version": "1.0.0",
+      "filename": "tsr-sgear-metalworks-compat-1.0.0.jar",
+      "enabled": true,
+      "source_url": null
+    },
+    {
+      "name": "Tectonic",
+      "version": "3.0.26",
+      "filename": "tectonic-3.0.26-neoforge-21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/686836",
+      "curseforge_project_id": 686836
+    },
+    {
+      "name": "TenSura Compat: FTB",
+      "version": "2.0.0.4",
+      "filename": "tensura_ftb-neoforge-2.0.0.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1501493",
+      "curseforge_project_id": 1501493
+    },
+    {
+      "name": "TenSura Compat: Ice and Fire",
+      "version": "2.0.0.1",
+      "filename": "tensura_iaf-neoforge-2.0.0.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1140209",
+      "curseforge_project_id": 1140209
+    },
+    {
+      "name": "TenSura Compat: Iron's Spells 'n Spellbooks",
+      "version": "2.0.0.0",
+      "filename": "tensura_iron_spells-neoforge-2.0.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1140214",
+      "curseforge_project_id": 1140214
+    },
+    {
+      "name": "TenSura: Not Enough Bosses",
+      "version": "2.0.0.3",
+      "filename": "tensura_neb-neoforge-2.0.0.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1230585",
+      "curseforge_project_id": 1230585
+    },
+    {
+      "name": "Tensura Bestiary",
+      "version": "0.0.0.1",
+      "filename": "tensura_bestiary-0.0.0.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1663734",
+      "curseforge_project_id": 1663734
+    },
+    {
+      "name": "Tensura Boss Structure",
+      "version": "1.0.3.3",
+      "filename": "tensura_boss_structure-1.0.3.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1448822",
+      "curseforge_project_id": 1448822
+    },
+    {
+      "name": "Tensura Guild",
+      "version": "1.0.1.2",
+      "filename": "tensura_guild-1.0.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1595198",
+      "curseforge_project_id": 1595198
+    },
+    {
+      "name": "Tensura Kubejs",
+      "version": "1.0.0.0",
+      "filename": "tensura_kubejs-1.0.0.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1604504",
+      "curseforge_project_id": 1604504
+    },
+    {
+      "name": "Tensura Lower",
+      "version": "0.0.0.2",
+      "filename": "tensura_lower-0.0.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1627175",
+      "curseforge_project_id": 1627175
+    },
+    {
+      "name": "Tensura Magic Growth",
+      "version": "1.0.6",
+      "filename": "tensura_magic_growth-1.0.6.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1504033",
+      "curseforge_project_id": 1504033
+    },
+    {
+      "name": "Tensura MineColonies Integration",
+      "version": "0.2.2",
+      "filename": "tensura_minecolonies-0.2.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1574897",
+      "curseforge_project_id": 1574897
+    },
+    {
+      "name": "Tensura Modifications",
+      "version": "1.0.1.1",
+      "filename": "tensura_epfix-1.0.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1509667",
+      "curseforge_project_id": 1509667
+    },
+    {
+      "name": "Tensura Utilities Manager",
+      "version": "1.0.1",
+      "filename": "tensura_utilities_manager-neoforge-1.0.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1584653",
+      "curseforge_project_id": 1584653
+    },
+    {
+      "name": "Tensura: All the Adventure",
+      "version": "0.0.0.3",
+      "filename": "tensura_all_the_adventure-0.0.0.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1672789",
+      "curseforge_project_id": 1672789
+    },
+    {
+      "name": "Tensura: Better Subordinates",
+      "version": "1.2.4",
+      "filename": "tensura_better_subs-neoforge-1.2.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1489224",
+      "curseforge_project_id": 1489224
+    },
+    {
+      "name": "Tensura: Gear Evolution",
+      "version": "1.2.5",
+      "filename": "gearevolution-1.2.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1501711",
+      "curseforge_project_id": 1501711
+    },
+    {
+      "name": "Tensura: Magicule Engineering",
+      "version": "1.1.3",
+      "filename": "tensura_magicule_engineering-1.1.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1648960",
+      "curseforge_project_id": 1648960
+    },
+    {
+      "name": "Tensura: Metalworks",
+      "version": "1.0.4",
+      "filename": "tenmetalworks-neoforge-1.0.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1580262",
+      "curseforge_project_id": 1580262
+    },
+    {
+      "name": "Tensura: Mysticism",
+      "version": "2.1.2",
+      "filename": "mysticism-neoforge-2.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1148149",
+      "curseforge_project_id": 1148149
+    },
+    {
+      "name": "Tensura: Origins",
+      "version": "2.0.5",
+      "filename": "trorigins-neoforge-2.0.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1230188",
+      "curseforge_project_id": 1230188
+    },
+    {
+      "name": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "filename": "tensura-neoforge-2.0.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/643695",
+      "curseforge_project_id": 643695
+    },
+    {
+      "name": "TensuraMorph",
+      "version": "1.0.0",
+      "filename": "tensuramorph-1.0.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1602263",
+      "curseforge_project_id": 1602263
+    },
+    {
+      "name": "TensuraUniqueMonsters",
+      "version": "1.0.2",
+      "filename": "tensurauniquemonsters-neoforge-1.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1489273",
+      "curseforge_project_id": 1489273
+    },
+    {
+      "name": "TerraBlender",
+      "version": "4.1.0.8",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/940057",
+      "curseforge_project_id": 940057
+    },
+    {
+      "name": "Terralith",
+      "version": "2.6.2",
+      "filename": "Terralith_1.21.x_v2.6.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/513688",
+      "curseforge_project_id": 513688
+    },
+    {
+      "name": "The Aether",
+      "version": "1.5.10",
+      "filename": "aether-1.21.1-1.5.10-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/255308",
+      "curseforge_project_id": 255308
+    },
+    {
+      "name": "The Twilight Forest",
+      "version": "4.8.3345",
+      "filename": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/227639",
+      "curseforge_project_id": 227639
+    },
+    {
+      "name": "Tom's Simple Storage Mod",
+      "version": "2.4.1",
+      "filename": "toms_storage-1.21-2.4.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/378609",
+      "curseforge_project_id": 378609
+    },
+    {
+      "name": "Torchmaster",
+      "version": "21.1.9",
+      "filename": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/254268",
+      "curseforge_project_id": 254268
+    },
+    {
+      "name": "TrashSlot",
+      "version": "21.1.11",
+      "filename": "trashslot-neoforge-1.21.1-21.1.11.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/235577",
+      "curseforge_project_id": 235577
+    },
+    {
+      "name": "UI Library Mod",
+      "version": "1.0.209-1.21.1",
+      "filename": "blockui-1.0.209-1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/522992",
+      "curseforge_project_id": 522992
+    },
+    {
+      "name": "Uranus",
+      "version": "2.4.1-bugfix",
+      "filename": "uranus-2.4.1-bugfix-1.21.1-neoforge.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1010827",
+      "curseforge_project_id": 1010827
+    },
+    {
+      "name": "Walkers",
+      "version": "5.8.12",
+      "filename": "walkers-5.8.12.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/868922",
+      "curseforge_project_id": 868922
+    },
+    {
+      "name": "Waystones",
+      "version": "21.1.41",
+      "filename": "waystones-neoforge-1.21.1-21.1.41.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/245755",
+      "curseforge_project_id": 245755
+    },
+    {
+      "name": "Waystones2Waypoints2",
+      "version": "2.1.0",
+      "filename": "xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/887484",
+      "curseforge_project_id": 887484
+    },
+    {
+      "name": "When Dungeons Arise",
+      "version": "2.1.68",
+      "filename": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/442508",
+      "curseforge_project_id": 442508
+    },
+    {
+      "name": "Xaero's Minimap",
+      "version": "26.4.2",
+      "filename": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/263420",
+      "curseforge_project_id": 263420
+    },
+    {
+      "name": "Xaero's World Map",
+      "version": "1.45.0",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/317780",
+      "curseforge_project_id": 317780
+    },
+    {
+      "name": "YUNG's API",
+      "version": "1.21.1-NeoForge-5.1.8",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015100",
+      "curseforge_project_id": 1015100
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "version": "1.21.1-NeoForge-5.1.4",
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015112",
+      "curseforge_project_id": 1015112
+    },
+    {
+      "name": "YUNG's Better End Island",
+      "version": "1.21.1-NeoForge-3.1.2",
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015127",
+      "curseforge_project_id": 1015127
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "version": "1.21.1-NeoForge-5.1.1",
+      "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015096",
+      "curseforge_project_id": 1015096
+    },
+    {
+      "name": "YUNG's Better Nether Fortresses",
+      "version": "1.21.1-NeoForge-3.1.5",
+      "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015118",
+      "curseforge_project_id": 1015118
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "version": "1.21.1-NeoForge-5.1.3",
+      "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015105",
+      "curseforge_project_id": 1015105
+    },
+    {
+      "name": "YUNG's Bridges",
+      "version": "1.21.1-NeoForge-5.1.1",
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015149",
+      "curseforge_project_id": 1015149
+    },
+    {
+      "name": "YUNG's Cave Biomes",
+      "version": "1.21.1-NeoForge-3.1.1",
+      "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1111586",
+      "curseforge_project_id": 1111586
+    },
+    {
+      "name": "YUNG's Extras",
+      "version": "1.21.1-NeoForge-5.1.1",
+      "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1015146",
+      "curseforge_project_id": 1015146
+    },
+    {
+      "name": "biomemusic mod",
+      "version": "4.1",
+      "filename": "biomemusic-1.21.1-4.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/840873",
+      "curseforge_project_id": 840873
+    },
+    {
+      "name": "foxablazeaqzl's Built-in Tensura Skill Wiki",
+      "version": "1.0.2.4",
+      "filename": "foxablazeaqzl_wiki-1.0.2.4.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1570862",
+      "curseforge_project_id": 1570862
+    },
+    {
+      "name": "legendary_monsters",
+      "version": "1.21.1",
+      "filename": "legendary_monsters-2.2.2 MC 1.21.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/944035",
+      "curseforge_project_id": 944035
+    },
+    {
+      "name": "lionfishapi",
+      "version": "3.1",
+      "filename": "lionfishapi-3.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1001614",
+      "curseforge_project_id": 1001614
+    },
+    {
+      "name": "lootintegrations_moog mod",
+      "version": "1",
+      "filename": "lootintegrations_moog-2.1.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1152715",
+      "curseforge_project_id": 1152715
+    },
+    {
+      "name": "lootintegrations_yungs mod",
+      "version": "1",
+      "filename": "lootintegrations_yungs-1.6.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1012211",
+      "curseforge_project_id": 1012211
+    },
+    {
+      "name": "o\u03c9o",
+      "version": "0.12.15.5-beta.1+1.21",
+      "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/532610",
+      "curseforge_project_id": 532610
+    },
+    {
+      "name": "reliquified_artifacts",
+      "version": "1.0.8",
+      "filename": "reliquified_artifacts-1.21.1-1.0.8.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1100379",
+      "curseforge_project_id": 1100379
+    },
+    {
+      "name": "tensura evolution ui",
+      "version": "1.0.0.2",
+      "filename": "tensura_trepu-1.0.0.2.jar",
+      "enabled": true,
+      "source_url": "https://www.curseforge.com/projects/1560818",
+      "curseforge_project_id": 1560818
+    }
+  ]
+}
