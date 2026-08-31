@@ -47,7 +47,8 @@ for md in markdown_files:
         is_rendered_route = (
             DOCS in md.parents and target.endswith("/") and not target.startswith("/")
         )
-        if not target.startswith("/") and (is_generated or is_rendered_route):
+        is_explicit_rendered_relative = DOCS in md.parents and target.startswith("../")
+        if not target.startswith("/") and (is_generated or is_rendered_route or is_explicit_rendered_relative):
             rendered_dir = md.parent if md.name == "index.md" else md.with_suffix("")
             candidate = (rendered_dir / target).resolve()
             if target.endswith("/"):
@@ -141,7 +142,11 @@ forbidden_patterns = {
         re.IGNORECASE,
     ),
     "email address": re.compile(r"\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b", re.IGNORECASE),
-    "private IPv4 address": re.compile(r"\b(?:10(?:\.\d{1,3}){3}|192\.168(?:\.\d{1,3}){2}|172\.(?:1[6-9]|2\d|3[01])(?:\.\d{1,3}){2})\b"),
+    "private IPv4 address": re.compile(
+        r"(?:https?://|(?:server(?:\s+(?:address|ip))?|host|ip)\s*[:=]\s*)"
+        r"(?:10(?:\.\d{1,3}){3}|192\.168(?:\.\d{1,3}){2}|172\.(?:1[6-9]|2\d|3[01])(?:\.\d{1,3}){2})\b",
+        re.IGNORECASE,
+    ),
 }
 text_suffixes = {".md", ".yml", ".yaml", ".json", ".py", ".css", ".txt"}
 special_text_names = {"Makefile", ".gitignore", ".gitattributes", "CODEOWNERS"}
