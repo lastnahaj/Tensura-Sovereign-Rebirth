@@ -81,7 +81,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a class="reference-related-card" href="../stag-beetle-saint/">
 <img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Stag Beetle Saint</strong>
+<strong>Stag Beetle Savant</strong>
 <small>Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
@@ -96,7 +96,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Stag Beetle Insectar</strong>
-<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Saint = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2 –…</small>
+<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Savant = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../star-guitar-wolf/">

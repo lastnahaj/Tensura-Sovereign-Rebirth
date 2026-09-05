@@ -38,7 +38,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Element_Core_(Space)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -99,7 +99,7 @@ Effects: Grants a special attack that fires a arching space projectile dealing 2
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Element_Core_(Space)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -158,7 +158,7 @@ Base Tensura reference adapted from [Element Core (Space)](https://tensura.wiki.
 <details class="reference-media-credits">
 <summary>Media credits (4 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Space).gif">Elemental Core (Space).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2369</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Space).png">Invicon Elemental Shard (Space).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6808</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>

@@ -78,11 +78,11 @@ Lightning Soul Insects</div></div></div></div>
 <small>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../paralysis-transform/">
-<img src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../mithril-strength/">
+<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Paralysis Transform</strong>
-<small>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</small>
+<strong>Mithril Strength</strong>
+<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>

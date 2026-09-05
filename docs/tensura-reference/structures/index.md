@@ -48,7 +48,7 @@
 <article class="reference-card" data-letter="B" data-search="big ruins common structure that spawns in the hell dimension, can have buried treasures and | suspicious sand nearby">
 <a href="structures-big-ruins/" aria-label="Open Big Ruins">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/wip6-89383a8117.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -74,7 +74,7 @@
 <article class="reference-card" data-letter="D" data-search="dwarf village training ground = battlewill master">
 <a href="structures-dwarf-village/" aria-label="Open Dwarf Village">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -139,7 +139,7 @@
 <article class="reference-card" data-letter="R" data-search="ruins common structure that spawns in the hell dimension, can have | suspicious sand or | suspicious gravel nearby">
 <a href="ruins/" aria-label="Open Ruins">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">

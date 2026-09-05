@@ -153,7 +153,7 @@ Allows Crafting of
 </span>
 </a>
 <a class="reference-related-card" href="../greater-holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs7-845df8aa69.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Greater Holy Water</strong>
 <small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>

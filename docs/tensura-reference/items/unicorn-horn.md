@@ -101,7 +101,7 @@ An ethereal horn from a <a href="../../mobs/mobs-unicorn/" title="Mobs/Unicorn">
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../unbound-tome/">
-<img src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Unbound Tome</strong>
 <small>Can only be Found not Crafted.</small>

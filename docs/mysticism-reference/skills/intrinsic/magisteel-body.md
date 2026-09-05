@@ -83,11 +83,11 @@ Elementals With Golem bodies</div></div></div></div>
 <small>Burst forth with great speed and power, enhancing your abilities for a short period of time.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../paralysis-transform/">
-<img src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../mithril-strength/">
+<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Paralysis Transform</strong>
-<small>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</small>
+<strong>Mithril Strength</strong>
+<small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lethal-poison/">
@@ -97,11 +97,11 @@ Elementals With Golem bodies</div></div></div></div>
 <small>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../poison-transform/">
-<img src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../paralysis-transform/">
+<img src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Poison Transform</strong>
-<small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>
+<strong>Paralysis Transform</strong>
+<small>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</small>
 </span>
 </a>
 </div>

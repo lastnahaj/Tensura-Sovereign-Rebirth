@@ -34,7 +34,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wooden_Long_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -174,7 +174,7 @@ Base Tensura reference adapted from [Wooden Long Sword](https://tensura.wiki.gg/
 <summary>Media credits (14 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Long_Sword.png">Invicon Wooden Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6780</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Wooden_Long_Sword.png">Wooden Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7297</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oak_Planks.png">Invicon Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4438</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spruce_Planks.png">Invicon Spruce Planks.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12934</li>

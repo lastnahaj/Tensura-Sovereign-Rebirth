@@ -1,6 +1,6 @@
 ---
 title: Tempest Serpent
-description: 1 - 6 Serpent Scale 1 - 4 Raw Serpent Meat 1 High Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord • Shizu • Supermassive Slime • Sylphide • Undine • War GnomeNormal MobsAqua Frog • Arch...
+description: Has a powerful melee-range physical attack that inflicts Fatal Poison II that is used in tandem with Poisonous Breath. Good for working towards both Physical and Poison resistances. 1 - 6 Serpent Scale 1 - 4 Raw Serpent Meat 1 High Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis...
 tags: []
 ---
 
@@ -15,7 +15,7 @@ tags: []
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>1 - 6 Serpent Scale 1 - 4 Raw Serpent Meat 1 High Quality Magic Crystal</p>
+<p>Has a powerful melee-range physical attack that inflicts Fatal Poison II that is used in tandem with Poisonous Breath . Good for working towards both Physical and Poison resistances.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Drops">Drops</a>
 </nav>
@@ -38,6 +38,7 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 <a class="mw-redirect" href="../../skills/intrinsic/poisonous-breath/" title="Abilities/Skills/Poisonous Breath">Poisonous Breath</a></div></div><div class="druid-row druid-row-extra_skills druid-collapsed" data-druid-section-row="Skills"><div class="druid-label druid-label-extra_skills">Extra</div><div class="druid-data druid-data-extra_skills druid-data-nonempty">
 <a class="mw-redirect" href="../../skills/extra/sense-heat-source/" title="Abilities/Skills/Sense Heat Source">Sense Heat Source</a></div></div></div></div>
 <p><br/>
+</p><p>Has a powerful melee-range physical attack that inflicts <a href="../../core-mechanics/effects-fatal-poison/" title="Effects/Fatal Poison">Fatal Poison II</a> that is used in tandem with <a class="mw-redirect" href="../../skills/intrinsic/poisonous-breath/" title="Abilities/Skills/Poisonous Breath">Poisonous Breath</a>. Good for working towards both <a href="../../resistances/physical-attack-resistance/" title="Physical Attack Resistance">Physical</a> and <a href="../../resistances/poison-resistance/" title="Poison Resistance">Poison</a> resistances.
 </p>
 <h2><span class="mw-headline" id="Drops">Drops</span></h2>
 <ul><li>1 - 6 <span class="nowrap"><span class="sprite-file"><a href="../../items/serpent-scale/" title="Serpent Scale"></a></span> <a href="../../items/serpent-scale/" title="Serpent Scale"><span class="sprite-text">Serpent Scale</span></a></span></li>
@@ -94,7 +95,7 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Mobs/Tempest Serpent](https://tensura.wiki.gg/wiki/Mobs/Tempest_Serpent) on the Tensura: Reincarnated Wiki (revision `9601`, modified `2025-05-26T07:37:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Mobs/Tempest Serpent](https://tensura.wiki.gg/wiki/Mobs/Tempest_Serpent) on the Tensura: Reincarnated Wiki (revision `13425`, modified `2026-09-05T14:46:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (4 source files)</summary>

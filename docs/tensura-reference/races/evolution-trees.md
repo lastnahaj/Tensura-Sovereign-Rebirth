@@ -950,7 +950,7 @@ This directory reproduces only evolution relationships explicitly exposed by the
 
 - **Previous:** Stag Beetle
 
-## [Stag Beetle Saint](../../mysticism-reference/races/stag-beetle-saint.md)
+## [Stag Beetle Savant](../../mysticism-reference/races/stag-beetle-saint.md)
 
 - **Previous:** Stag Beetle Insectar
 

@@ -43,15 +43,18 @@ True</div></div></div><div class="druid-section-container"><div data-druid-secti
 Reincarnation/Reroll</div></div></div></div>
 
 <h2><span class="mw-headline" id="Compatibility_System">Compatibility System</span></h2>
-<p>If you rolled the Unique Skills <a class="text" href="./">Captivator</a> or <a class="external text" href="https://tensura.wiki.gg/wiki/Bewilder">Bewilder</a>, you are compatible with the other skill in this set, giving you a 5% chance to obtain the other Unique Skill from the respective skill holder.
+<p><b> (ONLY AVAILABLE ON 1.19.2) </b>
+<br/>
+If you rolled the Unique Skills <a class="text" href="./">Captivator</a> or <a class="external text" href="https://tensura.wiki.gg/wiki/Bewilder">Bewilder</a>, you are compatible with the other skill in this set, giving you a 5% chance to obtain the other Unique Skill from the respective skill holder.
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, True] Fever Pitch - After using Performance, switch to the Truth mode, and vice versa.</li></ul>
+<ul><li>[Passive, In Slot] Natural Charisma - The user passively gains Hero of the Village 5.</li></ul>
 <p><br/>
 </p>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
-<ul><li>[Active, Held] Performance - Charm all non-allied entities in your presence in a 20 block radius, costing 250 MP/s to use. This Charm will wear off after 30 seconds and cannot be re-applied. Upon completing your performance, [Fever Pitch] activates. Addtionally, go on a 60 second cooldown. (I think the charm on this mode is bugged atm but do let me know)</li></ul>
+<ul><li>[Active, Held] Performance - Charm all non-allied entities in your presence in a 20 block radius, costing 250 MP/s to use. This Charm will wear off after 30 seconds and cannot be re-applied. Upon completing your performance, [Fever Pitch] activates. Addtionally, go on a 60 second cooldown.</li></ul>
 <ul><li><ul><li>All entities allied to you will gain Inspiration instead.</li></ul></li></ul>
 <p>The maximum time you can Perform for is 15 seconds.
 </p>
@@ -109,7 +112,7 @@ Reincarnation/Reroll</div></div></div></div>
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Captivator](https://trmysticism.wiki.gg/wiki/Captivator) on the Tensura Reincarnated: Mysticism Wiki (revision `3454`, modified `2026-08-16T22:29:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+TR Mysticism reference adapted from [Captivator](https://trmysticism.wiki.gg/wiki/Captivator) on the Tensura Reincarnated: Mysticism Wiki (revision `3471`, modified `2026-09-05T15:58:37Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (2 source files)</summary>

@@ -1,16 +1,16 @@
 {
   "source": "https://tensura.wiki.gg/",
-  "synchronized_at": "2026-08-27T17:20:50Z",
+  "synchronized_at": "2026-09-05T22:07:55Z",
   "site_statistics": {
-    "pages": 3973,
+    "pages": 3972,
     "articles": 988,
-    "edits": 13398,
+    "edits": 13425,
     "images": 2017,
-    "users": 718281,
-    "activeusers": 16,
+    "users": 759014,
+    "activeusers": 20,
     "admins": 11,
-    "jobs": 0,
-    "cirrussearch-article-words": 90007
+    "jobs": 11,
+    "cirrussearch-article-words": 90807
   },
   "upstream_pages_discovered": 988,
   "pages_considered_relevant": 975,
@@ -22,13 +22,13 @@
   "pages_skipped": 13,
   "pages_failed": 0,
   "images_discovered": 1728,
-  "image_file_records_resolved": 1726,
-  "images_imported": 1623,
+  "image_file_records_resolved": 1724,
+  "images_imported": 1621,
   "images_skipped_due_to_licensing": 0,
   "images_failed": 103,
   "media_placements_imported": 1333,
   "media_placements_omitted": 5028,
-  "internal_links_converted": 9121,
+  "internal_links_converted": 9132,
   "broken_links_remaining": 0,
   "content_categories": {
     "armor": 51,
@@ -61,8 +61,8 @@
     "battlewill": 23,
     "biomes": 4,
     "bosses": 12,
-    "items": 936,
-    "magic": 156,
+    "items": 935,
+    "magic": 155,
     "misc": 30,
     "mobs": 82,
     "races": 10,
@@ -73,7 +73,524 @@
   },
   "media_statuses": {
     "failed": 103,
-    "imported": 1623
+    "imported": 1621
   },
+  "media_failures": [
+    {
+      "source_title": "20260506071042!chunkedupload 1f6e64406292.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506071042!chunkedupload_1f6e64406292.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070947!chunkedupload 0a3e20dfe331.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070947!chunkedupload_0a3e20dfe331.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070831!chunkedupload be5bd664a59d.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070831!chunkedupload_be5bd664a59d.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070740!chunkedupload 89a2ecae46c6.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070740!chunkedupload_89a2ecae46c6.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070646!chunkedupload 41edaeff4876.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070646!chunkedupload_41edaeff4876.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070603!chunkedupload 7c2f8e9ffa15.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070603!chunkedupload_7c2f8e9ffa15.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070511!chunkedupload 0c7d8267b16d.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070511!chunkedupload_0c7d8267b16d.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070341!chunkedupload 6f287d5c3655.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070341!chunkedupload_6f287d5c3655.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "20260506070200!chunkedupload 924fd934dd96.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:20260506070200!chunkedupload_924fd934dd96.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Ancient forest.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Ancient_forest.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Barren lands.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Barren_lands.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Big ruins.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Big_ruins.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Bricks Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Bricks_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Bricks Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Bricks_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Bricks Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Bricks_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Brick Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Brick_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Brick Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Brick_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Stone.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Stone.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Cream Labyrinth Bricks Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Bricks_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Stone.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Stone.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Bricks Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Bricks_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Bricks Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Bricks_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Bricks Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Bricks_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Bricks Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Bricks_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Bricks.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Bricks.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Brick Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Brick_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dark Labyrinth Brick Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dark_Labyrinth_Brick_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Desert of death.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Desert_of_death.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Dwarf village.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Dwarf_village.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "HihiIrokane Nugget.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:HihiIrokane_Nugget.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Adamantite leggings.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_leggings.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Baffledill.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Baffledill.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Bulldeer Beef.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Bulldeer_Beef.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Bulldeer Beef.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Bulldeer_Beef.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Elemental Core (Fire).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Core_(Fire).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Element Core (Wind).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Wind).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Element Core (Water).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Water).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Element Core (Space).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Space).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Element Core (Fire).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Fire).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Element Core (Earth).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Earth).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Feather.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Feather.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Eye of Ender.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Eye_of_Ender.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Ender Pearl.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Ender_Pearl.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Elemental Core (Wind).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Core_(Wind).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Elemental Core (Water).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Core_(Water).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Elemental Core (Space).gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Core_(Space).gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Golden Horse Armor.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Golden_Horse_Armor.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Gold Nugget.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Gold_Nugget.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Iron Nugget.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Iron_Nugget.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Orc Disaster Head.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Orc_Disaster_Head.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Random Tome.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Random_Tome.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Spellbinding Table.gif",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Spellbinding_Table.gif",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Invicon Unbound tome.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Unbound_tome.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lamp.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lamp.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Crystal.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Crystal.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Bricks Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Bricks_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Bricks Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Bricks_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Bricks Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Bricks_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Bricks Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Bricks_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Bricks.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Bricks.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Brick Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Brick_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Brick Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Brick_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Praying Path.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Praying_Path.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lit Lamp Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lit_Lamp_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lit Lamp Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lit_Lamp_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lit Lamp Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lit_Lamp_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lit Lamp Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lit_Lamp_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lit Lamp.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lit_Lamp.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Light Path Stairs.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Light_Path_Stairs.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Light Path Slab.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Light_Path_Slab.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Light Path.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Light_Path.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lamp Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lamp_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lamp Top Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lamp_Top_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lamp Bottom Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lamp_Bottom_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Lamp Bottom Left.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Lamp_Bottom_Left.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Labyrinth Stone Top Right.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Labyrinth_Stone_Top_Right.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Miasmic plains.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Miasmic_plains.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Mithril Nugget.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Mithril_Nugget.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Ruins.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Ruins.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Underworld spikes.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Underworld_spikes.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Underworld red sands.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Underworld_red_sands.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Underworld barrens.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Underworld_barrens.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Webbed Stone Brick Wall.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Webbed_Stone_Brick_Wall.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Webbed Cobblestone Wall.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Webbed_Cobblestone_Wall.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    },
+    {
+      "source_title": "Wizard tower.png",
+      "source_file_page": "https://tensura.wiki.gg/wiki/File:Wizard_tower.png",
+      "reason": "No downloadable file URL returned by MediaWiki"
+    }
+  ],
   "failures": []
 }

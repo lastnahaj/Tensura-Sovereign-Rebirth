@@ -35,7 +35,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Kodachi?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -175,7 +175,7 @@ Base Tensura reference adapted from [Pure Magisteel Kodachi](https://tensura.wik
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Kodachi.png">Invicon Pure Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10267</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Kodachi.png">Pure Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10288</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Kodachi.png">Invicon High Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6538</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

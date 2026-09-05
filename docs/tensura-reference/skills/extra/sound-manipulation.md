@@ -54,7 +54,7 @@ Master 3 Wind/Sound skills</div></div></div></div>
 <p><br/>
 </p>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive - Toggle] Increases Sonic Damage by 1.5x. Doesn't stack with <a class="mw-redirect" href="../sound-domination/" title="Abilities/Skills/Sound Domination">Sound Domination</a>. Cannot be detected by Sense Soundwave or Sculks and Wardens.</li></ul>
+<ul><li>[Passive - Toggle] Increases Sonic Damage by 1.5x. Doesn't stack with <a class="mw-redirect" href="../sound-domination/" title="Abilities/Skills/Sound Domination">Sound Domination</a>. Cannot be detected by Sense Soundwave or Sculks and Wardens. Gains mastery when Sonic abilties are used (e.g. <a href="../../common/coercion/" title="Coercion">Coercion</a> and <a href="../../common/voice-cannon/" title="Voice Cannon">Voice Cannon</a>)</li></ul>
 
 
 
@@ -103,7 +103,7 @@ Master 3 Wind/Sound skills</div></div></div></div>
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Sound Manipulation](https://tensura.wiki.gg/wiki/Sound_Manipulation) on the Tensura: Reincarnated Wiki (revision `13347`, modified `2026-08-07T00:12:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Sound Manipulation](https://tensura.wiki.gg/wiki/Sound_Manipulation) on the Tensura: Reincarnated Wiki (revision `13412`, modified `2026-09-01T05:59:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

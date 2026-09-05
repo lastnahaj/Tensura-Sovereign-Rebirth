@@ -52,7 +52,7 @@
 <article class="reference-card" data-letter="S" data-search="spawnrate-common how many times will the entity attempt to spawn before failing 0 = disabled, 1 = guaranteed, higher = lower chance">
 <a href="config-spawnrate-common/" aria-label="Open Spawnrate-Common">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">

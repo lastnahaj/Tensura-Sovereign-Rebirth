@@ -34,7 +34,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Grimoire(A)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -98,7 +98,7 @@ Cooldown = 15 ticks<br/>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../greater-holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs7-845df8aa69.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Greater Holy Water</strong>
 <small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>

@@ -34,7 +34,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Short_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -187,7 +187,7 @@ Base Tensura reference adapted from [High Magisteel Short Sword](https://tensura
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Short_Sword.png">Invicon High Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6545</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Short_Sword.png">High Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7059</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Short_Sword.png">Invicon Low Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6603</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

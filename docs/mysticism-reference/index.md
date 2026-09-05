@@ -6,7 +6,7 @@ This source view is part of the combined [Tensura Reference](../tensura-referenc
     Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.
 
 <div class="reference-metric-grid">
-<div><strong>364</strong><span>articles</span></div>
+<div><strong>365</strong><span>articles</span></div>
 <div><strong>7</strong><span>local aliases</span></div>
 <div><strong>163</strong><span>source images</span></div>
 <div><strong>18</strong><span>collections</span></div>
@@ -32,7 +32,7 @@ This source view is part of the combined [Tensura Reference](../tensura-referenc
 <h2>Skills &amp; Arcana</h2>
 <p>Explore abilities by class, magical system, resistance, and combat discipline.</p>
 <div class="reference-path-links">
-<a href="skills/intrinsic/">Intrinsic Skills <span>20</span></a>
+<a href="skills/intrinsic/">Intrinsic Skills <span>21</span></a>
 <a href="skills/extra/">Extra Skills <span>11</span></a>
 <a href="skills/unique/">Unique Skills <span>33</span></a>
 <a href="skills/ultimate/">Ultimate Skills <span>33</span></a>

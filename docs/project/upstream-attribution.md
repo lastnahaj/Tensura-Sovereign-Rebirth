@@ -1,7 +1,7 @@
-# Upstream Attribution
+# Tensura: Reincarnated Wiki Attribution
 
 The generated **Tensura: Reincarnated Reference** is adapted from the
-[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-08-27T17:20:50Z`.
+[Tensura: Reincarnated Wiki](https://tensura.wiki.gg/), synchronized on `2026-09-05T22:07:55Z`.
 Each generated article links to its exact source page and records the upstream
 revision ID and modified timestamp used by the synchronizer.
 
@@ -28,7 +28,7 @@ path, and page associations are stored in
 
 ## Separation from TSR
 
-Tensura: Sovereign Rebirth did not create Tensura: Reincarnated or the upstream
-wiki. Base-mod facts retain their upstream version context. TSR runtime claims
+Tensura: Sovereign Rebirth did not create the upstream mod or wiki. Upstream
+facts retain their original version context. TSR runtime claims
 come from the frozen manifest, installed artifacts, tracked configuration, and
 recorded validation evidence in this repository.

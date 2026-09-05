@@ -11,7 +11,7 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="Commands source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="Commands source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
@@ -38,7 +38,7 @@ tags:
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Commands?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>

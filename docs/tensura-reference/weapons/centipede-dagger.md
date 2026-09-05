@@ -34,7 +34,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Centipede_Dagger?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -169,7 +169,7 @@ Base Tensura reference adapted from [Centipede Dagger](https://tensura.wiki.gg/w
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Dagger.png">Invicon Centipede Dagger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6465</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Centipede_Dagger.png">Centipede Dagger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6975</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Stinger.png">Invicon Centipede Stinger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6466</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

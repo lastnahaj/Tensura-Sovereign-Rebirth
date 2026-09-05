@@ -45,7 +45,8 @@ Taking over 20 damage at once from any source of Magic damage.</div></div></div>
 If the attack is not below 50% of your Max HP the damage will be halved.
 </p>
 <h2><span class="mw-headline" id="Tips">Tips</span></h2>
-<ul><li>Go to the Spirit Tree and get someone to hit you with a weapon that has the Magic Weapon engraving on it, or can drop the weapon for a mob to pick up and hit you with it.</li></ul>
+<ul><li>Go to the Spirit Tree and get someone to hit you with a weapon that has the Magic Weapon engraving on it, or can drop the weapon for a mob to pick up and hit you with it.</li>
+<li>Daemons in the Underworld use exclusively Magic attacks with varying elements. You can reach the Underworld with the <a href="../../structures/structures-hell-gate/" title="Structures/Hell Gate">Structures/Hell Gate</a>.</li></ul>
 <p><br/>
 <br/>
 </p>
@@ -97,7 +98,7 @@ If the attack is not below 50% of your Max HP the damage will be halved.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Magic Resistance](https://tensura.wiki.gg/wiki/Magic_Resistance) on the Tensura: Reincarnated Wiki (revision `12495`, modified `2026-04-24T09:40:08Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Magic Resistance](https://tensura.wiki.gg/wiki/Magic_Resistance) on the Tensura: Reincarnated Wiki (revision `13426`, modified `2026-09-05T14:52:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

@@ -36,7 +36,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Monster_Leather_Leggings_(Special_A)?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -162,7 +162,7 @@ Base Tensura reference adapted from [Monster Leather Leggings (Special A)](https
 <summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Leggings_(Special_A).png">Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7164</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(Special_A).png">Invicon Monster Leather (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6822</li>

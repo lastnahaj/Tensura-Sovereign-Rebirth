@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-description: Take care of yourself, you non bathing wiki goer! Reduces the rate that hunger/saturation decreases down by 80% (1/5x) of its original amount for 500 seconds. Grants a slight health regen effect (1HP every 2 seconds). Doesn't need a magic circle. Increases duration to 5000 seconds View or edit this templateMagicView...
+description: Take care of yourself, you non bathing wiki goer! Reduces the rate that hunger/saturation decreases down by 80% (1/5x) of its original amount for 500 seconds. Grants a slight health regen effect (1HP every 2 seconds). Doesn't need a magic circle. Mastery is gained while the Healthcare status effect is...
 tags:
 - Aspectual_Magic
 ---
@@ -40,7 +40,8 @@ Learning it from a tome</div></div></div></div>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p><br/>
 </p>
-<ul><li>Reduces the rate that hunger/saturation decreases down by 80% (1/5x) of its original amount for 500 seconds. Grants a slight health regen effect (1HP every 2 seconds). Doesn't need a magic circle.</li></ul>
+<ul><li>Reduces the rate that hunger/saturation decreases down by 80% (1/5x) of its original amount for 500 seconds. Grants a slight health regen effect (1HP every 2 seconds). Doesn't need a magic circle.</li>
+<li>Mastery is gained while the Healthcare status effect is present.</li></ul>
 <h2><span class="mw-headline" id="Mastery_Bonus">Mastery Bonus</span></h2>
 <p><br/>
 </p>
@@ -96,7 +97,7 @@ Learning it from a tome</div></div></div></div>
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Healthcare](https://tensura.wiki.gg/wiki/Healthcare) on the Tensura: Reincarnated Wiki (revision `11057`, modified `2026-03-22T16:19:35Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Healthcare](https://tensura.wiki.gg/wiki/Healthcare) on the Tensura: Reincarnated Wiki (revision `13403`, modified `2026-08-31T07:38:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

@@ -1,6 +1,6 @@
 ---
 title: Magic Staff Schematic
-description: Can be acquired from master magic trainer dwarves for 10 gold coins. Allows Crafting of Staves Low Magic Staff Medium Magic Staff High Magic Staff Staff of Slime
+description: Can be acquired from master magic trainer dwarves for 10 gold coins. Allows Crafting of Stafs Low Magic Staff Medium Magic Staff High Magic Staff Staff of Slime
 tags: []
 ---
 
@@ -51,7 +51,7 @@ tags: []
 <p><br/>
 Allows Crafting of
 </p>
-<div class="collapsible-header"><code><b>Staves</b></code></div>
+<div class="collapsible-header"><code><b>Stafs</b></code></div>
 <div class="collapsible-content">
 <h4><span class="mw-headline" id="Staff">Staff</span></h4>
 <ul><li><span class="nowrap"><span class="sprite-file"><a href="../low-magic-staff/" title="Low Magic Staff"></a></span> <a href="../low-magic-staff/" title="Low Magic Staff"><span class="sprite-text">Low Magic Staff</span></a></span></li>
@@ -109,7 +109,7 @@ Allows Crafting of
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Magic Staff Schematic](https://tensura.wiki.gg/wiki/Magic_Staff_Schematic) on the Tensura: Reincarnated Wiki (revision `13394`, modified `2026-08-26T07:58:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Magic Staff Schematic](https://tensura.wiki.gg/wiki/Magic_Staff_Schematic) on the Tensura: Reincarnated Wiki (revision `13424`, modified `2026-09-04T14:19:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (5 source files)</summary>

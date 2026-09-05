@@ -71,11 +71,11 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 <small>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../magisteel-body/">
-<img src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../mithril-strength/">
+<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Magisteel Body</strong>
-<small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>
+<strong>Mithril Strength</strong>
+<small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spark/">

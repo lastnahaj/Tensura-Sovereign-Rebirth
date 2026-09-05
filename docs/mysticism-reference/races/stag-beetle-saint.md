@@ -1,5 +1,5 @@
 ---
-title: Stag Beetle Saint
+title: Stag Beetle Savant
 description: Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
 - Work_in_Progress
@@ -8,13 +8,13 @@ tags:
 - Abilities_changed_in_1.19.2
 ---
 
-# Stag Beetle Saint
+# Stag Beetle Savant
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Stag Beetle Saint source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Stag Beetle Savant source reference" loading="eager" decoding="async">
 <figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
@@ -39,7 +39,7 @@ tags:
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Stag Beetle Saint</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Stag Beetle Savant</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 1500</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 3800</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 2.0</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -77,7 +77,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Stag Beetle Insectar</strong>
-<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Saint = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2 –…</small>
+<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Savant = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../star-blaze-wolf/">
@@ -108,7 +108,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Stag Beetle Saint](https://trmysticism.wiki.gg/wiki/Stag_Beetle_Saint) on the Tensura Reincarnated: Mysticism Wiki (revision `2737`, modified `2026-02-20T22:09:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+TR Mysticism reference adapted from [Stag Beetle Saint](https://trmysticism.wiki.gg/wiki/Stag_Beetle_Saint) on the Tensura Reincarnated: Mysticism Wiki (revision `3473`, modified `2026-09-05T18:21:37Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

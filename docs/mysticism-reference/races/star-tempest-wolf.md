@@ -56,7 +56,7 @@ Easy</div></div></div><div class="druid-section-container"><div data-druid-secti
 Yes</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Spiritual">Spiritual</div><div class="druid-data druid-data-Spiritual druid-data-nonempty">
 No</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
-<a class="external text" href="https://tensura.wiki.gg/wiki/Godwolf_Sense">Godwolf Sense</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Black_Lightning">Black Lightning</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
+<a class="external text" href="https://tensura.wiki.gg/wiki/Godwolf_Sense">Godwolf Sense</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Black_Lightning">Black Lightning,</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Ultra-Instinct">Ultra Instinct</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a class="text" href="../tempest-wolf/">Tempest Wolf</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a class="text" href="../divine-wolf/">Divine Wolf</a></div></div></div></div>
 <h2><span class="mw-headline" id="Racial_Ability">Racial Ability</span></h2>
@@ -113,7 +113,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Star Tempest Wolf](https://trmysticism.wiki.gg/wiki/Star_Tempest_Wolf) on the Tensura Reincarnated: Mysticism Wiki (revision `2742`, modified `2026-02-20T22:10:10Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+TR Mysticism reference adapted from [Star Tempest Wolf](https://trmysticism.wiki.gg/wiki/Star_Tempest_Wolf) on the Tensura Reincarnated: Mysticism Wiki (revision `3464`, modified `2026-09-04T05:40:13Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

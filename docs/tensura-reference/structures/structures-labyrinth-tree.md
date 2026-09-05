@@ -43,7 +43,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Labyrinth_Tree?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -293,7 +293,7 @@ Small chance to obtain spirit level, magics and manipulation will become availab
 </span>
 </a>
 <a class="reference-related-card" href="../ruins/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>
@@ -314,7 +314,7 @@ Base Tensura reference adapted from [Structures/Labyrinth Tree](https://tensura.
 <li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_tree.png">Labyrinth tree.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9068</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_hallway.png">Labyrinth hallway.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_spirits_praying.gif">Labyrinth spirits praying.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9097</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png">Invicon Labyrinth Explorer Map.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9943</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_arena.png">Labyrinth arena.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9092</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Labyrinth_crystal.png">Labyrinth crystal.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9093</li>

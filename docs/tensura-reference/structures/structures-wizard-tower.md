@@ -178,7 +178,7 @@ Forests, deserts, badlands, miasmic plains, snowy plains</div></div></div></div>
 </span>
 </a>
 <a class="reference-related-card" href="../structures/">
-<img src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Structures</strong>
 <small>Ant Nest Charybdis Cave Spider Nest</small>
@@ -192,7 +192,7 @@ Forests, deserts, badlands, miasmic plains, snowy plains</div></div></div></div>
 </span>
 </a>
 <a class="reference-related-card" href="../ruins/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>

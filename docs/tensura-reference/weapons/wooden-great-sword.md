@@ -34,7 +34,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wooden_Great_Sword?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -174,7 +174,7 @@ Base Tensura reference adapted from [Wooden Great Sword](https://tensura.wiki.gg
 <summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Great_Sword.png">Invicon Wooden Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6777</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Wooden_Great_Sword.png">Wooden Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7294</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oak_Planks.png">Invicon Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4438</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

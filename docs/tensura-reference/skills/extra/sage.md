@@ -38,7 +38,7 @@ Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-se
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
-<a class="external text" href="https://minecraft.fandom.com/wiki/Evoker" rel="nofollow">Evoker</a></div></div><div class="druid-row druid-row-CombinationofSkills" data-druid-section-row="Obtaining"><div class="druid-label druid-label-CombinationofSkills">Combination of Skills</div><div class="druid-data druid-data-CombinationofSkills druid-data-nonempty">
+<a class="external text" href="https://minecraft.wiki/w/Evoker" rel="nofollow">Evoker</a></div></div><div class="druid-row druid-row-CombinationofSkills" data-druid-section-row="Obtaining"><div class="druid-label druid-label-CombinationofSkills">Combination of Skills</div><div class="druid-data druid-data-CombinationofSkills druid-data-nonempty">
 Master 20 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Magics</a>/<a class="mw-redirect" href="https://tensura.wiki.gg/wiki/Abilities/Battlewills" title="Abilities/Battlewills">Battlewills</a></div></div></div></div>
 <p>Increase the speed at which you learn and master skills, magic and arts.
 </p>
@@ -102,7 +102,7 @@ Master 20 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Ma
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Sage](https://tensura.wiki.gg/wiki/Sage) on the Tensura: Reincarnated Wiki (revision `12875`, modified `2026-05-08T14:33:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Sage](https://tensura.wiki.gg/wiki/Sage) on the Tensura: Reincarnated Wiki (revision `13402`, modified `2026-08-31T06:20:14Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

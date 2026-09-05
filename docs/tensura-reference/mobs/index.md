@@ -766,7 +766,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="tempest serpent 1 - 6 serpent scale 1 - 4 raw serpent meat 1 high quality magic crystal">
+<article class="reference-card" data-letter="T" data-search="tempest serpent has a powerful melee-range physical attack that inflicts fatal poison ii that is used in tandem with poisonous breath . good for working towards both physical and…">
 <a href="mobs-tempest-serpent/" aria-label="Open Tempest Serpent">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/mobs/tempest-serpent-0f2b8cbdf3.png" alt="" loading="lazy" decoding="async">
@@ -774,7 +774,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Tempest Serpent</h2>
-<p>1 - 6 Serpent Scale 1 - 4 Raw Serpent Meat 1 High Quality Magic Crystal</p>
+<p>Has a powerful melee-range physical attack that inflicts Fatal Poison II that is used in tandem with Poisonous Breath . Good for working towards both Physical and…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

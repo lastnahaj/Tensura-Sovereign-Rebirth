@@ -356,7 +356,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="U" data-search="underworld barrens magicule density - 104,000">
+<article class="reference-card" data-letter="U" data-search="underworld barrens daemons for days! magicule density - 104,000">
 <a href="underworld-barrens/" aria-label="Open Underworld Barrens">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
@@ -364,7 +364,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Barrens</h2>
-<p>Magicule Density - 104,000</p>
+<p>Daemons for days! Magicule Density - 104,000</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -395,7 +395,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="U" data-search="underworld spikes magicule density - 103,000">
+<article class="reference-card" data-letter="U" data-search="underworld spikes spiky magicule density - 103,000">
 <a href="underworld-spikes/" aria-label="Open Underworld Spikes">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
@@ -403,7 +403,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Spikes</h2>
-<p>Magicule Density - 103,000</p>
+<p>Spiky Magicule Density - 103,000</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

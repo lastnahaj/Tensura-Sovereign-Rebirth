@@ -6,7 +6,7 @@
 <h1>Intrinsic Skills</h1>
 <p>Intrinsic racial and species-linked skills.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>51</strong> articles</span>
+<span class="reference-count"><strong>52</strong> articles</span>
 </div>
 </div>
 </header>
@@ -35,7 +35,7 @@
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 51 of 51 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 52 of 52 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="absorb &amp; dissolve dissolve specific items to instantly consume them.">
@@ -450,6 +450,19 @@
 <div class="reference-card-copy">
 <h2>Magisteel Body</h2>
 <p>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="mithril strength (remove this once finalized)">
+<a href="../../../mysticism-reference/skills/intrinsic/mithril-strength/" aria-label="Open Mithril Strength">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Mithril Strength</h2>
+<p>(Remove this once finalized)</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

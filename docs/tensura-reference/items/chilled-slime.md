@@ -37,7 +37,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Chilled_Slime?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -176,7 +176,7 @@ Base Tensura reference adapted from [Chilled Slime](https://tensura.wiki.gg/wiki
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime.png">Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6985</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Half_Hunger_(icon).png">Half Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7508</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Snowball.png">Invicon Snowball.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7449</li>

@@ -78,7 +78,7 @@ Neutral</div></div></div></div>
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Mechanics</strong>
 <small>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP…</small>

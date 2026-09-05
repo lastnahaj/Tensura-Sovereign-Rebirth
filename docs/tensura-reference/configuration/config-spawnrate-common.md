@@ -11,8 +11,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" alt="Spawnrate-Common source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" alt="Spawnrate-Common source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -28,7 +28,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Config/Spawnrate-Common?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -784,6 +784,6 @@ Base Tensura reference adapted from [Config/Spawnrate-Common](https://tensura.wi
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 </ul>
 </details>

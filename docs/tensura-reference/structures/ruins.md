@@ -12,8 +12,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="Ruins source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="Ruins source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -32,7 +32,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Ruins?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -78,7 +78,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../structures/">
-<img src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Structures</strong>
 <small>Ant Nest Charybdis Cave Spider Nest</small>
@@ -96,6 +96,6 @@ Base Tensura reference adapted from [Ruins](https://tensura.wiki.gg/wiki/Ruins) 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 </ul>
 </details>

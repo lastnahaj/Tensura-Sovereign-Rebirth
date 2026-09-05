@@ -2305,7 +2305,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="stag beetle insectar fantasy soul insect = 400,000 ep + [magic jamming] stag beetle saint = 400,000 ep + 4 boss kills 1.21.1 – ??? 1.19.2 – added to the game.">
+<article class="reference-card" data-letter="S" data-search="stag beetle insectar fantasy soul insect = 400,000 ep + [magic jamming] stag beetle savant = 400,000 ep + 4 boss kills 1.21.1 – ??? 1.19.2 – added to the game.">
 <a href="stag-beetle-insectar/" aria-label="Open Stag Beetle Insectar">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
@@ -2313,19 +2313,19 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Stag Beetle Insectar</h2>
-<p>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Saint = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2 – Added to the game.</p>
+<p>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Savant = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2 – Added to the game.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="stag beetle saint divine stag beetle = 2m ep 1.21.1 – ??? 1.19.2 – added to the game.">
-<a href="stag-beetle-saint/" aria-label="Open Stag Beetle Saint">
+<article class="reference-card" data-letter="S" data-search="stag beetle savant divine stag beetle = 2m ep 1.21.1 – ??? 1.19.2 – added to the game.">
+<a href="stag-beetle-saint/" aria-label="Open Stag Beetle Savant">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Stag Beetle Saint</h2>
+<h2>Stag Beetle Savant</h2>
 <p>Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

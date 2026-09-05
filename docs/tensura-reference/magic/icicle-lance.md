@@ -34,7 +34,7 @@ Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-ro
 850 MP</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 50 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
-Greater</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
+Greater Daemon</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Learning it from a tome</div></div></div></div>
 <p>Create a lance out of ice and throw it at the target
 </p>
@@ -99,7 +99,7 @@ Learning it from a tome</div></div></div></div>
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Icicle Lance](https://tensura.wiki.gg/wiki/Icicle_Lance) on the Tensura: Reincarnated Wiki (revision `11053`, modified `2026-03-22T16:09:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Icicle Lance](https://tensura.wiki.gg/wiki/Icicle_Lance) on the Tensura: Reincarnated Wiki (revision `13413`, modified `2026-09-01T18:07:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

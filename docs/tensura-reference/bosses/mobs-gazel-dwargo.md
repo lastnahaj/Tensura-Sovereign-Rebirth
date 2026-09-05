@@ -91,7 +91,7 @@ Hostile towards those who enter his chamber to challenge him and those who are c
 <img src="../../../assets/upstream/tensura/bosses/elemental-colossus-585d09f9f5.gif" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Elemental Colossus</strong>
-<small>The Fairy&#x27;s not gonna like this...</small>
+<small>The Elemental Colossus is a heavily armored melee boss that can both fight nearby targets and rapidly close large…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-hinata-sakaguchi/">

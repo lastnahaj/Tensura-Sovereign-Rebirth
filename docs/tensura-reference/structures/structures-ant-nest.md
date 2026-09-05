@@ -28,7 +28,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Ant_Nest?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -49,7 +49,7 @@ Savannah, Forest, Birch Forest</div></div><div class="druid-row druid-row-mobs" 
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../structures-big-ruins/">
-<img src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Big Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</small>
@@ -63,7 +63,7 @@ Savannah, Forest, Birch Forest</div></div><div class="druid-row druid-row-mobs" 
 </span>
 </a>
 <a class="reference-related-card" href="../structures-dwarf-village/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Dwarf Village</strong>
 <small>Training Ground = Battlewill Master</small>
@@ -89,6 +89,6 @@ Base Tensura reference adapted from [Structures/Ant Nest](https://tensura.wiki.g
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Ant_nest.png">Ant nest.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9075</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 </ul>
 </details>

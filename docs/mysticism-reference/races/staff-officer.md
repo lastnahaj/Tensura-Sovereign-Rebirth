@@ -107,7 +107,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 <img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Stag Beetle Insectar</strong>
-<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Saint = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2 –…</small>
+<small>Fantasy Soul Insect = 400,000 Ep + [Magic Jamming] Stag Beetle Savant = 400,000 Ep + 4 Boss Kills 1.21.1 – ??? 1.19.2…</small>
 </span>
 </a>
 </div>

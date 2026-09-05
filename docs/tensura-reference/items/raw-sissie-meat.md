@@ -92,7 +92,7 @@ tags:
 <div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Sissie_Meat?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -157,6 +157,6 @@ Base Tensura reference adapted from [Raw Sissie Meat](https://tensura.wiki.gg/wi
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Meat.png">Invicon Cooked Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6485</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 </ul>
 </details>

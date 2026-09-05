@@ -73,7 +73,7 @@ Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Savannah, Hell
 </span>
 </a>
 <a class="reference-related-card" href="../structures-dwarf-village/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Dwarf Village</strong>
 <small>Training Ground = Battlewill Master</small>

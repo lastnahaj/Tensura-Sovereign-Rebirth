@@ -46,7 +46,7 @@ Reincarnation / Skill Reroll</div></div></div></div>
 </p>
 <ul><li>Become <a href="../../../core-mechanics/races-awakening/#Blessed" title="Races/Awakening">Blessed</a> upon obtaining Chosen One</li></ul>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive - True] <b>Hero’s Beacon</b> (Unlocked with Mastery): All Skills, and Battlewill owned by a subordinate become the player's when they are killed (does not count if they are killed by the user).</li></ul>
+<ul><li>[Passive - True] <b>Hero’s Beacon</b> (Unlocked with Mastery): All Skills, and Battlewill owned by a subordinate become the player's when they are killed (does not count if they are killed by the user and MP obtain cost applies for all abilities).</li></ul>
 <ul><li>[Passive - Toggle] <b>Hero’s Action</b> : Hero of the Village V Effect</li></ul>
 <ul><li>[Passive - In Slot] <b>Hero’s Blessing</b> : Grants a permanent Luck 5 effect. The player and their allies have a 100% critical hit rate and a 10% auto-dodge chance.</li></ul>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
@@ -100,7 +100,7 @@ Reincarnation / Skill Reroll</div></div></div></div>
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Chosen One](https://tensura.wiki.gg/wiki/Chosen_One) on the Tensura: Reincarnated Wiki (revision `12687`, modified `2026-05-04T22:25:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Chosen One](https://tensura.wiki.gg/wiki/Chosen_One) on the Tensura: Reincarnated Wiki (revision `13416`, modified `2026-09-02T16:57:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

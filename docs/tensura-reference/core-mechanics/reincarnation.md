@@ -20,7 +20,6 @@ tags:
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
-<a href="#Notes">Notes</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
@@ -46,8 +45,6 @@ Learning it from a tome</div></div></div></div>
 <p><br/>
 </p>
 <ul><li>Allows non-standard races to be selected.</li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span></h2>
-<ul><li>Compared to the Race Reset Scroll you keep your awakening status and most of your MP/AP.</li></ul>
 <table class="wikitable pixel-image" data-description="History"><tbody><tr class="collapsible collapsible-rows"><th colspan="8">1.21.1</th></tr><tr><th colspan="4" rowspan="1"><a class="new" href="https://tensura.wiki.gg/wiki/1.21.1_2.0.0.0?action=edit&amp;redlink=1" rel="nofollow" title="1.21.1 2.0.0.0 (page does not exist)">2.0.0.0</a></th><td>Added</td></tr></tbody></table>
 <p><br/>
 </p>
@@ -107,7 +104,7 @@ Reincarnation is the opening and replay foundation for TSR. The pack layers race
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Reincarnation](https://tensura.wiki.gg/wiki/Reincarnation) on the Tensura: Reincarnated Wiki (revision `13393`, modified `2026-08-25T17:37:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Reincarnation](https://tensura.wiki.gg/wiki/Reincarnation) on the Tensura: Reincarnated Wiki (revision `13419`, modified `2026-09-04T14:08:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

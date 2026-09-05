@@ -548,7 +548,7 @@
 <article class="reference-card" data-letter="M" data-search="mechanics ability usage dodging engravings gear evolution hipokute farming naming praying reputation reset scrolls trading ep, magicule and aura">
 <a href="mechanics/" aria-label="Open Mechanics">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/armor/wip3-a83b464c87.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">

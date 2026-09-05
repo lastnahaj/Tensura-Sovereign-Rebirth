@@ -32,7 +32,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Lizardman_Village?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -92,7 +92,7 @@ Swamp, Mangrove Swamp</div></div><div class="druid-row druid-row-mobs" data-drui
 </span>
 </a>
 <a class="reference-related-card" href="../ruins/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>

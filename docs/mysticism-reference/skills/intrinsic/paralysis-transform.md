@@ -57,11 +57,11 @@ Paralysis Soul Insect</div></div></div></div>
 <a href="../">Browse all Intrinsic Skills</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../magisteel-body/">
-<img src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../mithril-strength/">
+<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Magisteel Body</strong>
-<small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>
+<strong>Mithril Strength</strong>
+<small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-transform/">
@@ -71,11 +71,11 @@ Paralysis Soul Insect</div></div></div></div>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../lightning-mode/">
-<img src="../../../../assets/upstream/mysticism/skills/lightning-mode-70097842da.png" alt="" loading="lazy" decoding="async">
+<a class="reference-related-card" href="../magisteel-body/">
+<img src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Lightning Mode</strong>
-<small>Burst forth with great speed and power, enhancing your abilities for a short period of time.</small>
+<strong>Magisteel Body</strong>
+<small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../relapse/">

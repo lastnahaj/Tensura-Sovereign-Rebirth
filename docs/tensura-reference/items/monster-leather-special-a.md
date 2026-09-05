@@ -69,6 +69,9 @@ A <b>Monster Leather</b> of Rank-Special A
 <h3><span class="mw-headline" id="Mob_Drops">Mob Drops</span></h3>
 <p>There are currently no mobs that drop Monster Leather (Special A).
 </p>
+<h3><span class="mw-headline" id="Decrafting">Decrafting</span></h3>
+<p>Even though there are no mobs that drop Monster Leather (Special A) you can obtain the item by evolving a coin pouch to (Special A) then decrafting it with the unique skill <a class="mw-redirect" href="../../skills/unique/degenerate/" title="Abilities/Skills/Degenerate">Degenerate</a>.
+</p>
 <h2><span class="mw-headline" id="Use">Use</span></h2>
 <h3><span class="mw-headline" id="Warning">Warning</span></h3>
 <p>Due to the item being unobtainable, these armors can only be unlocked with <a href="../../core-mechanics/gear-evolution/" title="Gear Evolution">Gear Evolution</a>
@@ -175,7 +178,7 @@ The recipe is the same as the one of the leather of the vanilla game. It can als
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Monster Leather (Special A)](https://tensura.wiki.gg/wiki/Monster_Leather_(Special_A)) on the Tensura: Reincarnated Wiki (revision `9641`, modified `2025-05-29T20:47:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Monster Leather (Special A)](https://tensura.wiki.gg/wiki/Monster_Leather_(Special_A)) on the Tensura: Reincarnated Wiki (revision `13401`, modified `2026-08-31T04:31:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (6 source files)</summary>

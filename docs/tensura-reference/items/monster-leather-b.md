@@ -69,7 +69,8 @@ A <b>Monster Leather</b> of Rank-B
 <h3><span class="mw-headline" id="Mob_Drops">Mob Drops</span></h3>
 <p>Dropped by the following mob:
 </p>
-<ul><li><a href="../../mobs/mobs-unicorn/" title="Mobs/Unicorn">Unicorn</a></li></ul>
+<ul><li><a href="../../mobs/mobs-unicorn/" title="Mobs/Unicorn">Unicorn</a></li>
+<li><a href="../../mobs/mobs-basilisk/" title="Mobs/Basilisk">Basilisk</a></li></ul>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
 <p>Can be used to create an armor of Monster Leather of Rank-B.
@@ -216,7 +217,7 @@ The recipe is the same as the one of the leather of the vanilla game. It can als
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Monster Leather (B)](https://tensura.wiki.gg/wiki/Monster_Leather_(B)) on the Tensura: Reincarnated Wiki (revision `9761`, modified `2025-06-01T11:30:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Monster Leather (B)](https://tensura.wiki.gg/wiki/Monster_Leather_(B)) on the Tensura: Reincarnated Wiki (revision `13400`, modified `2026-08-31T04:22:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (11 source files)</summary>

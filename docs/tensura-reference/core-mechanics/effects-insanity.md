@@ -28,7 +28,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Effects/Insanity?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -73,7 +73,7 @@ Level 2+ - If in shadow/darkness, will take Physical damage and Spiritual damage
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Mechanics</strong>
 <small>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP…</small>
@@ -92,6 +92,6 @@ Base Tensura reference adapted from [Effects/Insanity](https://tensura.wiki.gg/w
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Insanity.png">Insanity.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 10687</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 </ul>
 </details>

@@ -1,7 +1,7 @@
 # Tensura Reincarnated: Mysticism Wiki Attribution
 
 The generated **TR Mysticism Reference** is adapted from the
-[Tensura Reincarnated: Mysticism Wiki](https://trmysticism.wiki.gg/), synchronized on `2026-08-28T04:48:34Z`.
+[Tensura Reincarnated: Mysticism Wiki](https://trmysticism.wiki.gg/), synchronized on `2026-09-05T21:59:40Z`.
 Each generated article links to its exact source page and records the upstream
 revision ID and modified timestamp used by the synchronizer.
 

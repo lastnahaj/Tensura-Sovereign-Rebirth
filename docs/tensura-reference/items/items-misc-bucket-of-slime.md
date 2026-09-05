@@ -36,7 +36,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Misc/Bucket_of_Slime?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -97,7 +97,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../bulldeer-milk-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Bulldeer Milk Bucket</strong>
 <small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
@@ -129,7 +129,7 @@ Base Tensura reference adapted from [Items/Misc/Bucket of Slime](https://tensura
 <details class="reference-media-credits">
 <summary>Media credits (2 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Bucket_of_Slime.png">Bucket of Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7898</li>
 </ul>
 </details>

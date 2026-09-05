@@ -626,7 +626,7 @@ This directory reproduces only evolution relationships explicitly exposed by the
 
 - **Previous:** Stag Beetle
 
-## [Stag Beetle Saint](stag-beetle-saint.md)
+## [Stag Beetle Savant](stag-beetle-saint.md)
 
 - **Previous:** Stag Beetle Insectar
 
@@ -716,4 +716,4 @@ This directory reproduces only evolution relationships explicitly exposed by the
 
 ---
 
-Generated from `199` imported race articles; `217` explicit relationship values indexed.
+Generated from `198` imported race articles; `217` explicit relationship values indexed.

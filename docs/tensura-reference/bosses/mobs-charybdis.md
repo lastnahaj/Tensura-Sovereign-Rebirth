@@ -85,7 +85,7 @@ A mob that only appears once the <a href="../../items/charybdis-core/" title="Ch
 <img src="../../../assets/upstream/tensura/bosses/elemental-colossus-585d09f9f5.gif" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Elemental Colossus</strong>
-<small>The Fairy&#x27;s not gonna like this...</small>
+<small>&quot;The Fairy&#x27;s not gonna like this...&quot;</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-gazel-dwargo/">

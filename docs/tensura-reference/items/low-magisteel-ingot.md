@@ -37,7 +37,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Low_Magisteel_Ingot?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -302,7 +302,7 @@ Base Tensura reference adapted from [Low Magisteel Ingot](https://tensura.wiki.g
 <summary>Media credits (18 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Ingot.png">Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7111</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Nugget.png">Invicon Low Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6599</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Low_Magisteel.png">Invicon Block of Low Magisteel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6855</li>

@@ -33,7 +33,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/HihiIrokane_Pickaxe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -174,7 +174,7 @@ Base Tensura reference adapted from [HihiIrokane Pickaxe](https://tensura.wiki.g
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Pickaxe.png">Invicon HihiIrokane Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10393</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Pickaxe.png">HihiIrokane Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10412</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Pickaxe.png">Invicon Adamantite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10363</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

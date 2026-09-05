@@ -28,7 +28,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Spider_Nest?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -56,14 +56,14 @@ Plains, Dark Forest</div></div><div class="druid-row druid-row-mobs" data-druid-
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../ruins/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</small>
 </span>
 </a>
 <a class="reference-related-card" href="../structures/">
-<img src="../../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Structures</strong>
 <small>Ant Nest Charybdis Cave Spider Nest</small>
@@ -97,6 +97,6 @@ Base Tensura reference adapted from [Structures/Spider Nest](https://tensura.wik
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Spider_nest.png">Spider nest.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9079</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Spider_nest_inside.png">Spider nest inside.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9099</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 </ul>
 </details>

@@ -33,7 +33,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Shovel?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -176,7 +176,7 @@ Base Tensura reference adapted from [Pure Magisteel Shovel](https://tensura.wiki
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Shovel.png">Invicon Pure Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10274</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Shovel.png">Pure Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10279</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Shovel.png">Invicon High Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6546</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

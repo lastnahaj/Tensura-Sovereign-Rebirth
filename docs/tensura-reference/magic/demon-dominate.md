@@ -52,7 +52,7 @@ Learning it from a tome</div></div></div></div>
 <p><br/>
 </p>
 <h2><span class="mw-headline" id="Notes">Notes</span></h2>
-<ul><li>Cannot be learned before obtaining Dominate</li></ul>
+<ul><li>Cannot be learned before obtaining <a href="../dominate/" title="Dominate">Dominate</a></li></ul>
 <p><br/>
 </p>
 <table class="wikitable pixel-image" data-description="History"><tbody><tr class="collapsible collapsible-rows"><th colspan="8">1.21.1</th></tr><tr><th colspan="4" rowspan="1"><a class="new" href="https://tensura.wiki.gg/wiki/1.21.1_2.0.0.0?action=edit&amp;redlink=1" rel="nofollow" title="1.21.1 2.0.0.0 (page does not exist)">2.0.0.0</a></th><td>Added</td></tr></tbody></table>
@@ -106,7 +106,7 @@ Learning it from a tome</div></div></div></div>
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Demon Dominate](https://tensura.wiki.gg/wiki/Demon_Dominate) on the Tensura: Reincarnated Wiki (revision `13342`, modified `2026-08-01T22:44:31Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Base Tensura reference adapted from [Demon Dominate](https://tensura.wiki.gg/wiki/Demon_Dominate) on the Tensura: Reincarnated Wiki (revision `13417`, modified `2026-09-02T21:36:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>

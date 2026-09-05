@@ -1,15 +1,15 @@
 # Tensura Reincarnated: Mysticism Wiki Ingestion Coverage
 
-**Snapshot:** `2026-08-28T04:48:34Z`
+**Snapshot:** `2026-09-05T21:59:40Z`
 **Source:** [https://trmysticism.wiki.gg/](https://trmysticism.wiki.gg/)
 
 ## Article coverage
 
 | Measure | Count |
 |---|---:|
-| Canonical pages discovered | 376 |
-| Pages considered relevant | 364 |
-| Pages imported/adapted | 364 |
+| Canonical pages discovered | 377 |
+| Pages considered relevant | 365 |
+| Pages imported/adapted | 365 |
 | Redirects processed | 7 |
 | Redirects skipped as non-content | 2 |
 | Redirects failed | 0 |
@@ -23,7 +23,7 @@
 | Images discovered | 164 |
 | Distinct File records resolved | 164 |
 | Images imported | 163 |
-| Imported image placements | 399 |
+| Imported image placements | 400 |
 | Images skipped due to licensing | 0 |
 | Images failed | 1 |
 
@@ -31,7 +31,7 @@ The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise
 
 ## Link conversion
 
-- Internal links converted to local TSR reference pages: **1312**
+- Internal links converted to local TSR reference pages: **1315**
 - Broken local links remaining: **0**
 
 ## Content categories
@@ -50,7 +50,7 @@ The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise
 | Other Reference | 8 |
 | Races | 199 |
 | Extra Skills | 11 |
-| Intrinsic Skills | 20 |
+| Intrinsic Skills | 21 |
 | Other Skills | 2 |
 | Ultimate Skills | 33 |
 | Unique Skills | 33 |

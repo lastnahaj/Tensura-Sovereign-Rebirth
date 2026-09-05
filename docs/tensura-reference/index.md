@@ -6,9 +6,9 @@ This visual library presents every imported Tensura article in one reference exp
     Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.
 
 <div class="reference-metric-grid">
-<div><strong>1339</strong><span>articles</span></div>
+<div><strong>1340</strong><span>articles</span></div>
 <div><strong>394</strong><span>local aliases</span></div>
-<div><strong>1786</strong><span>source images</span></div>
+<div><strong>1784</strong><span>source images</span></div>
 <div><strong>2</strong><span>audited sources</span></div>
 </div>
 
@@ -32,7 +32,7 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>Skills &amp; Arcana</h2>
 <p>Explore abilities by class, magical system, resistance, and combat discipline.</p>
 <div class="reference-path-links">
-<a href="skills/intrinsic/">Intrinsic Skills <span>51</span></a>
+<a href="skills/intrinsic/">Intrinsic Skills <span>52</span></a>
 <a href="skills/common/">Common Skills <span>16</span></a>
 <a href="skills/extra/">Extra Skills <span>63</span></a>
 <a href="skills/unique/">Unique Skills <span>91</span></a>

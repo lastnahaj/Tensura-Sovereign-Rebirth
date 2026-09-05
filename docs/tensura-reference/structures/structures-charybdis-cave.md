@@ -28,7 +28,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Charybdis_Cave?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -52,14 +52,14 @@ Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Forests, Jungl
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../structures-big-ruins/">
-<img src="../../../assets/upstream/tensura/weapons/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Big Ruins</strong>
 <small>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</small>
 </span>
 </a>
 <a class="reference-related-card" href="../structures-dwarf-village/">
-<img src="../../../assets/upstream/tensura/items/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Dwarf Village</strong>
 <small>Training Ground = Battlewill Master</small>
@@ -92,7 +92,7 @@ Base Tensura reference adapted from [Structures/Charybdis Cave](https://tensura.
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_cave.png">Charybdis cave.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9072</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png">Charybdis cave charybdis room.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9073</li>
 </ul>

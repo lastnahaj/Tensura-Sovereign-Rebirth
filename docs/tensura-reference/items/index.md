@@ -266,7 +266,7 @@
 <article class="reference-card" data-letter="B" data-search="bulldeer milk bucket this page is a work in progress!!! big things coming soon!!">
 <a href="bulldeer-milk-bucket/" aria-label="Open Bulldeer Milk Bucket">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -994,7 +994,7 @@
 <article class="reference-card" data-letter="G" data-search="greater holy water this page is a work in progress!!! big things coming soon!!">
 <a href="greater-holy-water/" aria-label="Open Greater Holy Water">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs7-845df8aa69.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -2606,7 +2606,7 @@
 <article class="reference-card" data-letter="U" data-search="unbound tome can only be found not crafted.">
 <a href="unbound-tome/" aria-label="Open Unbound Tome">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip4-1a799741e7.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">

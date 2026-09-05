@@ -61,7 +61,7 @@ tags: []
 <img src="../../../assets/upstream/tensura/mobs/tempest-serpent-0f2b8cbdf3.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Tempest Serpent</strong>
-<small>1 - 6 Serpent Scale 1 - 4 Raw Serpent Meat 1 High Quality Magic Crystal</small>
+<small>Has a powerful melee-range physical attack that inflicts Fatal Poison II that is used in tandem with Poisonous Breath…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-winged-cat/">

@@ -862,6 +862,7 @@ def fetch_media_metadata(
     client: ApiClient, image_titles: list[str]
 ) -> list[dict[str, Any]]:
     records: list[dict[str, Any]] = []
+    seen_files: set[tuple[str, Any]] = set()
     for batch_number, title_batch in enumerate(chunks(image_titles, 20)):
         data = client.get_json(
             {
@@ -882,6 +883,16 @@ def fetch_media_metadata(
             title = page.get("title", "")
             if title.lower().startswith("file:"):
                 title = title[5:]
+            identity = (
+                ("page", page.get("pageid"))
+                if page.get("pageid")
+                else ("title", normalize_title(title))
+            )
+            # Multiple requested aliases can resolve to the same File page. Keep
+            # one provenance record and one local asset for that upstream file.
+            if identity in seen_files:
+                continue
+            seen_files.add(identity)
             image_info = (page.get("imageinfo") or [{}])[0]
             revision = (page.get("revisions") or [{}])[0]
             content = revision.get("slots", {}).get("main", {}).get("content", "")

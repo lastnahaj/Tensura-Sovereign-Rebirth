@@ -33,7 +33,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip3-a83b464c87.png" width="110"/></a>
+<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Hoe?action=edit">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
@@ -157,7 +157,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </span>
 </a>
 <a class="reference-related-card" href="../caster-tools-tutorial/">
-<img src="../../../assets/upstream/tensura/items/wip12-9b79032338.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Caster Tools Tutorial</strong>
 <small>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.</small>
@@ -176,7 +176,7 @@ Base Tensura reference adapted from [Adamantite Hoe](https://tensura.wiki.gg/wik
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Hoe.png">Invicon Adamantite Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10366</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
+<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Hoe.png">Adamantite Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10372</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Hoe.png">Invicon Pure Magisteel Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10275</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

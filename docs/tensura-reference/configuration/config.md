@@ -92,7 +92,7 @@ TSR ships reviewed client/common configuration and validates clean reconstructio
 </span>
 </a>
 <a class="reference-related-card" href="../config-spawnrate-common/">
-<img src="../../../assets/upstream/tensura/weapons/wip8-07d11235b3.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Spawnrate-Common</strong>
 <small>How many times will the entity attempt to spawn before failing 0 = disabled, 1 = guaranteed, higher = lower chance</small>
