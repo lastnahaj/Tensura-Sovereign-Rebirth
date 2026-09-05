@@ -19,7 +19,7 @@
 			y: 2.5d
 		}
 		{
-			click: "https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+			click: "https://tsr.infinitegamingservers.com/"
 			height: 4.0d
 			hover: ["Open the Tensura: Sovereign Rebirth Wiki"]
 			image: "tsr:textures/gui/quests/wiki_crest.png"
@@ -61,7 +61,7 @@
 				""
 				"Use it for verified pack guidance, Tensura reference material, compatibility notes, and server information."
 				""
-				"Wiki: https://lastnahaj.github.io/Tensura-Sovereign-Rebirth/"
+				"Wiki: https://tsr.infinitegamingservers.com/"
 			]
 			icon: { id: "minecraft:book" }
 			id: "75A5000000000102"
