@@ -61,6 +61,8 @@ extra_css:
 extra_javascript:
   - assets/javascripts/reference.js
   - assets/javascripts/modlist.js
+  - assets/javascripts/server-status.js
+  - assets/javascripts/onboarding.js
 
 extra:
   social:

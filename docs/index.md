@@ -25,7 +25,39 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <span class="tsr-status">Version 1 Beta</span>
 
-The wiki presents its imported Tensura material as one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,339 relevant articles**, **394 local redirect aliases**, **1,786 locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
+The wiki presents its imported Tensura material as one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,340 relevant articles**, **394 local redirect aliases**, **1,784 unique locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
+
+<section class="server-pulse" data-server-status data-server-address="tsr.infinitegamingservers.com" aria-labelledby="home-realm-status-title">
+  <div class="server-pulse-heading">
+    <div>
+      <p class="reference-eyebrow">Live realm</p>
+      <h2 id="home-realm-status-title">See who is online before you join</h2>
+    </div>
+    <span class="server-state" data-status-label>Checking…</span>
+  </div>
+  <p class="server-address"><span>Join address</span><strong>tsr.infinitegamingservers.com</strong></p>
+  <div class="server-stat-grid">
+    <div><strong data-status-online>—</strong><span>Online</span></div>
+    <div><strong data-status-max>—</strong><span>Capacity</span></div>
+    <div><strong data-status-version>—</strong><span>Version</span></div>
+  </div>
+  <p class="server-message" data-status-message>Requesting the latest cached public server status.</p>
+  <ul class="server-player-list" data-status-players aria-label="Publicly reported online players"><li class="server-player-empty">Checking the public player sample…</li></ul>
+  <div class="server-pulse-actions">
+    <button type="button" data-copy-server>Copy server address</button>
+    <button type="button" data-status-refresh>Refresh status</button>
+    <span data-status-updated aria-live="polite"></span>
+  </div>
+  <p class="server-fine-print">Public status can be cached for up to five minutes. Names appear only when the server shares a player sample.</p>
+</section>
+
+## New here? Start with one useful hour
+
+<div class="homepage-first-hour">
+  <a href="getting-started/#your-first-hour"><strong>1 · Understand your character</strong><span>Read your reincarnation, race, resources, and controls.</span></a>
+  <a href="getting-started/#field-checklist"><strong>2 · Secure your foothold</strong><span>Track shelter, team, claim, and safety tasks in a local checklist.</span></a>
+  <a href="getting-started/#choose-a-path-not-a-class"><strong>3 · Pick a direction</strong><span>Evolve, explore, engineer, or begin a nation without locking into a class.</span></a>
+</div>
 
 ## Choose your path
 
