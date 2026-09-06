@@ -27,30 +27,6 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 The wiki presents its imported Tensura material as one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,340 relevant articles**, **394 local redirect aliases**, **1,784 unique locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
 
-<section class="server-pulse" data-server-status data-server-address="tsr.infinitegamingservers.com" aria-labelledby="home-realm-status-title">
-  <div class="server-pulse-heading">
-    <div>
-      <p class="reference-eyebrow">Live realm</p>
-      <h2 id="home-realm-status-title">See who is online before you join</h2>
-    </div>
-    <span class="server-state" data-status-label>Checking…</span>
-  </div>
-  <p class="server-address"><span>Join address</span><strong>tsr.infinitegamingservers.com</strong></p>
-  <div class="server-stat-grid">
-    <div><strong data-status-online>—</strong><span>Online</span></div>
-    <div><strong data-status-max>—</strong><span>Capacity</span></div>
-    <div><strong data-status-version>—</strong><span>Version</span></div>
-  </div>
-  <p class="server-message" data-status-message>Requesting the latest cached public server status.</p>
-  <ul class="server-player-list" data-status-players aria-label="Publicly reported online players"><li class="server-player-empty">Checking the public player sample…</li></ul>
-  <div class="server-pulse-actions">
-    <button type="button" data-copy-server>Copy server address</button>
-    <button type="button" data-status-refresh>Refresh status</button>
-    <span data-status-updated aria-live="polite"></span>
-  </div>
-  <p class="server-fine-print">Public status can be cached for up to five minutes. Names appear only when the server shares a player sample.</p>
-</section>
-
 ## New here? Start with one useful hour
 
 <div class="homepage-first-hour">
@@ -69,7 +45,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <h2>Reincarnate & Evolve</h2>
 <p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/races/">Races <span>266</span></a>
+<a href="tensura-reference/races/">Races <span>272</span></a>
 <a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
 </div>
 </div>
@@ -81,8 +57,8 @@ The wiki presents its imported Tensura material as one reference experience alon
 <h2>Master Skills & Magic</h2>
 <p>Filter abilities, spells, resistances, and Battlewill by the way you want to build.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/skills/unique/">Unique Skills <span>91</span></a>
-<a href="tensura-reference/skills/ultimate/">Ultimate Skills <span>33</span></a>
+<a href="tensura-reference/skills/unique/">Unique Skills <span>100</span></a>
+<a href="tensura-reference/skills/ultimate/">Ultimate Skills <span>38</span></a>
 <a href="tensura-reference/magic/">Magic <span>147</span></a>
 </div>
 </div>

@@ -17,32 +17,6 @@ description: A visual first-hour guide to joining TSR, surviving reincarnation, 
 </div>
 </div>
 
-<section class="server-pulse" data-server-status data-server-address="tsr.infinitegamingservers.com" aria-labelledby="realm-status-title">
-  <div class="server-pulse-heading">
-    <div>
-      <p class="reference-eyebrow">Live realm</p>
-      <h2 id="realm-status-title">Who is adventuring right now?</h2>
-    </div>
-    <span class="server-state" data-status-label>Checking…</span>
-  </div>
-  <p class="server-address"><span>Join address</span><strong>tsr.infinitegamingservers.com</strong></p>
-  <div class="server-stat-grid">
-    <div><strong data-status-online>—</strong><span>Online</span></div>
-    <div><strong data-status-max>—</strong><span>Capacity</span></div>
-    <div><strong data-status-version>—</strong><span>Version</span></div>
-  </div>
-  <p class="server-message" data-status-message>Requesting the latest cached public server status.</p>
-  <ul class="server-player-list" data-status-players aria-label="Publicly reported online players">
-    <li class="server-player-empty">Checking the public player sample…</li>
-  </ul>
-  <div class="server-pulse-actions">
-    <button type="button" data-copy-server>Copy server address</button>
-    <button type="button" data-status-refresh>Refresh status</button>
-    <span data-status-updated aria-live="polite"></span>
-  </div>
-  <p class="server-fine-print">Status is provided by the public Minecraft status service and may be cached for up to five minutes. Player names appear only when the server shares a public sample.</p>
-</section>
-
 ## Your first hour
 
 <div class="first-hour-route" id="your-first-hour">
@@ -152,6 +126,16 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
     </div>
   </div>
 </section>
+
+## From first foothold to awakening
+
+Once food, shelter, controls, and claims are handled, use this three-part route instead of grinding without a target:
+
+<div class="progression-preview-grid">
+<a href="../tensura-reference/races/evolution-trees/"><img src="../assets/ascension/races/monkey.jpg" alt="A celestial monkey warrior"><span><b>1 · Map your race</b>Open the full evolution family, compare every stage, and note EP, status, naming, or essence gates.</span></a>
+<a href="../tensura-reference/skills/ascension/"><img src="../assets/ascension/skills/magicule_attunement.png" alt="Magicule Attunement icon"><span><b>2 · Map your skills</b>Follow mastery unlocks forward so Energy Charge, Magicule progression, and eligible Uniques do not become dead ends.</span></a>
+<a href="../ascension-and-awakening/"><img src="../assets/ascension/mechanics/ultimate_catalyst_recipe.png" alt="Ultimate Catalyst recipe"><span><b>3 · Prepare the ritual</b>Build the altar, craft a catalyst, meet the universal gates, and evolve a mastered Unique into its mapped Ultimate.</span></a>
+</div>
 
 ## When you are stuck
 

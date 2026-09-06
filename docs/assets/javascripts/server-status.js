@@ -1,6 +1,62 @@
 (() => {
   const API_ROOT = "https://api.mcsrvstat.us/3/";
 
+  function createRailPanel() {
+    const existing = document.querySelector(".tsr-live-realm-item");
+    if (existing) return existing.querySelector("[data-server-status]");
+
+    const navList = document.querySelector(".md-sidebar--primary .md-nav--primary > .md-nav__list");
+    if (!navList) return null;
+
+    // Reference articles share their collection's navigation context.
+    if (!navList.querySelector(".md-nav__item--active")) {
+      const current = location.pathname;
+      const match = [...navList.querySelectorAll("a.md-nav__link[href]")]
+        .filter((link) => {
+          const path = new URL(link.href).pathname;
+          return path !== "/" && current.startsWith(path);
+        })
+        .sort((a, b) => new URL(b.href).pathname.length - new URL(a.href).pathname.length)[0];
+      let parent = match?.closest(".md-nav__item");
+      while (parent && navList.contains(parent)) {
+        parent.classList.add("md-nav__item--active");
+        const toggle = parent.querySelector(":scope > .md-nav__toggle");
+        if (toggle) toggle.checked = true;
+        parent = parent.parentElement?.closest(".md-nav__item");
+      }
+    }
+
+    const item = document.createElement("li");
+    item.className = "md-nav__item tsr-live-realm-item";
+    item.innerHTML = `
+      <section class="server-pulse server-pulse--rail" data-server-status data-server-address="tsr.infinitegamingservers.com" aria-labelledby="rail-realm-status-title">
+        <div class="server-pulse-heading">
+          <p class="reference-eyebrow">Live realm</p>
+          <span class="server-state" data-status-label>Checking…</span>
+        </div>
+        <p class="server-address"><span>Join address</span><strong>tsr.infinitegamingservers.com</strong></p>
+        <div class="server-stat-grid">
+          <div><strong data-status-online>—</strong><span>Online</span></div>
+          <div><strong data-status-max>—</strong><span>Capacity</span></div>
+          <div><strong data-status-version>—</strong><span>Version</span></div>
+        </div>
+        <p class="server-message" id="rail-realm-status-title" data-status-message>Requesting the latest cached public server status.</p>
+        <ul class="server-player-list" data-status-players aria-label="Publicly reported online players"><li class="server-player-empty">Checking the public player sample…</li></ul>
+        <div class="server-pulse-actions">
+          <button type="button" data-copy-server>Copy server address</button>
+          <button type="button" data-status-refresh>Refresh status</button>
+          <span data-status-updated aria-live="polite"></span>
+        </div>
+        <p class="server-fine-print">Public status may be cached for five minutes. Names appear only when the server shares them.</p>
+      </section>`;
+
+    const homeItem = navList.firstElementChild;
+    homeItem?.classList.add("tsr-home-nav-item");
+    if (homeItem) homeItem.insertAdjacentElement("afterend", item);
+    else navList.appendChild(item);
+    return item.querySelector("[data-server-status]");
+  }
+
   const setText = (root, selector, value) => {
     const target = root.querySelector(selector);
     if (target) target.textContent = value;
@@ -132,6 +188,7 @@
   }
 
   function boot() {
+    createRailPanel();
     document.querySelectorAll("[data-server-status]").forEach(setupPanel);
   }
 
