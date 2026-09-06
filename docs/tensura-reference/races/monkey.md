@@ -1,0 +1,22 @@
+---
+title: Monkey Evolution
+description: Complete Monkey-to-Sun Wukong evolution map, stage stats, and skills.
+---
+
+<section class="race-family-hero">
+<img src="../../../assets/ascension/races/monkey.jpg" alt="A celestial monkey warrior carrying a golden staff above mountain temples">
+<div><p class="reference-eyebrow">Race family · six stages</p><h1>Monkey evolution</h1><p>A direct martial path from agile survivor to the holy Sun Wukong.</p></div>
+</section>
+
+<nav class="evolution-map" aria-label="Monkey evolution path">
+<a href="#monkey">Monkey</a><span>→</span><a href="#monkey-warrior">Monkey Warrior</a><span>→</span><a href="#monkey-martial-artist">Monkey Martial Artist</a><span>→</span><a href="#monkey-king">Monkey King</a><span>→</span><a href="#divine-king">Divine King</a><span>→</span><a href="#sun-wukong">Sun Wukong</a>
+</nav>
+
+<div class="race-stage-grid">
+<article class="race-stage-card" id="monkey"><p class="race-stage-kicker">Base race · Easy · Default</p><h2>Monkey</h2><div class="race-stats"><span><b>100</b> HP</span><span><b>140</b> SHP</span><span><b>+10%</b> Speed</span><span><b>+4</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Physical Attack Resistance</dd><dt>Learnable</dt><dd><a href="../../skills/ascension/#intimidating-roar">Intimidating Roar</a></dd><dt>Requirement</dt><dd>Starting form; no additional requirement documented.</dd></dl><p class="race-card-route"><span>Start</span><a href="#monkey-warrior">Next: Monkey Warrior →</a></p></article>
+<article class="race-stage-card" id="monkey-warrior"><p class="race-stage-kicker">Stage 2 · Easy · Default</p><h2>Monkey Warrior</h2><div class="race-stats"><span><b>215</b> HP</span><span><b>255</b> SHP</span><span><b>+15%</b> Speed</span><span><b>+6</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Strength</dd><dt>Learnable</dt><dd>None</dd><dt>Requirement</dt><dd>Evolve from Monkey; no additional requirement documented.</dd></dl><p class="race-card-route"><a href="#monkey">← Monkey</a><a href="#monkey-martial-artist">Monkey Martial Artist →</a></p></article>
+<article class="race-stage-card" id="monkey-martial-artist"><p class="race-stage-kicker">Stage 3 · Intermediate · Default</p><h2>Monkey Martial Artist</h2><div class="race-stats"><span><b>375</b> HP</span><span><b>2,190</b> SHP</span><span><b>+25%</b> Speed</span><span><b>+9</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Body Armor</dd><dt>Learnable</dt><dd>Haki, Ultra Instinct</dd><dt>Requirement</dt><dd>Evolve from Monkey Warrior; no additional requirement documented.</dd></dl><p class="race-card-route"><a href="#monkey-warrior">← Monkey Warrior</a><a href="#monkey-king">Monkey King →</a></p></article>
+<article class="race-stage-card" id="monkey-king"><p class="race-stage-kicker">Stage 4 · Intermediate · Default</p><h2>Monkey King</h2><div class="race-stats"><span><b>560</b> HP</span><span><b>3,300</b> SHP</span><span><b>+35%</b> Speed</span><span><b>+12</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Beast Transformation</dd><dt>Learnable</dt><dd>Sacred Haki, Magic Sense</dd><dt>Requirement</dt><dd>Evolve from Monkey Martial Artist; no additional requirement documented.</dd></dl><p class="race-card-route"><a href="#monkey-martial-artist">← Monkey Martial Artist</a><a href="#divine-king">Divine King →</a></p></article>
+<article class="race-stage-card" id="divine-king"><p class="race-stage-kicker">Stage 5 · Hard · Holy</p><h2>Divine King</h2><div class="race-stats"><span><b>790</b> HP</span><span><b>4,680</b> SHP</span><span><b>+45%</b> Speed</span><span><b>+15</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Divine Ki Release</dd><dt>Learnable</dt><dd>Hero Haki, Multilayer Barrier, Ultraspeed Regeneration</dd><dt>Requirement</dt><dd>Evolve from Monkey King; no additional requirement documented.</dd></dl><p class="race-card-route"><a href="#monkey-king">← Monkey King</a><a href="#sun-wukong">Sun Wukong →</a></p></article>
+<article class="race-stage-card" id="sun-wukong"><p class="race-stage-kicker">Final stage · Extreme · Holy</p><h2>Sun Wukong</h2><div class="race-stats"><span><b>1,155</b> HP</span><span><b>6,870</b> SHP</span><span><b>+60%</b> Speed</span><span><b>+18</b> ATK</span></div><dl><dt>Intrinsic</dt><dd>Titanification</dd><dt>Learnable</dt><dd>Infinite Regeneration, Majesty</dd><dt>Requirement</dt><dd>Evolve from Divine King; no additional requirement documented.</dd></dl><p class="race-card-route"><a href="#divine-king">← Divine King</a><span>Final evolution</span></p></article>
+</div>

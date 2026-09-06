@@ -6,7 +6,7 @@
 <h1>Intrinsic Skills</h1>
 <p>Intrinsic racial and species-linked skills.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>52</strong> articles</span>
+<span class="reference-count"><strong>54</strong> articles</span>
 </div>
 </div>
 </header>
@@ -35,7 +35,7 @@
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 52 of 52 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 54 of 54 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="absorb &amp; dissolve dissolve specific items to instantly consume them.">
@@ -47,6 +47,19 @@
 <div class="reference-card-copy">
 <h2>Absorb &amp; Dissolve</h2>
 <p>Dissolve specific items to instantly consume them.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="A" data-search="angel wings sustained flight intrinsic to the angel race line.">
+<a href="../ascension/#angel-wings" aria-label="Open Angel Wings">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/angel_wings.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Angel Wings</h2>
+<p>Sustained flight intrinsic to the Angel race line.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -567,6 +580,19 @@
 <div class="reference-card-copy">
 <h2>Scale Armor</h2>
 <p>Like the lizardmen, move through water and mud with no penalties while receiving a slight defense buff.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="sharpened claws kitsune claw damage with a mastered upgrade.">
+<a href="../ascension/#sharpened-claws" aria-label="Open Sharpened Claws">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/sharpened_claws.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Sharpened Claws</h2>
+<p>Kitsune claw damage with a mastered upgrade.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -6,7 +6,7 @@
 <h1>Unique Skills</h1>
 <p>Unique-class skills and their documented mechanics.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>91</strong> articles</span>
+<span class="reference-count"><strong>100</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 91 of 91 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 100 of 100 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="absolute severance wield the power to cut through any who stand in your path, whether by coating your strikes or launching slashing projectiles that sever all in their path.">
@@ -103,6 +103,19 @@
 <div class="reference-card-copy">
 <h2>Bewilder</h2>
 <p>Use this skill to manipulate friends and foes,compelling them to act according to your will.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="B" data-search="bubble majin reflect, store, absorb—and awaken the evil majin.">
+<a href="../ascension/#bubble-majin" aria-label="Open Bubble Majin">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/bubble_majin.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Bubble Majin</h2>
+<p>Reflect, store, absorb—and awaken The Evil Majin.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -289,6 +302,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="D" data-search="deus sanguis vampiric transformation, bleeding, and health drain.">
+<a href="../ascension/#deus-sanguis" aria-label="Open Deus Sanguis">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/deus_sanguis.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Deus Sanguis</h2>
+<p>Vampiric transformation, bleeding, and health drain.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="D" data-search="divine berserker empower your body by a massive amount but beware the aftereffects.">
 <a href="divine-berserker/" aria-label="Open Divine Berserker">
 <figure class="reference-card-media reference-card-media--source">
@@ -298,6 +324,19 @@
 <div class="reference-card-copy">
 <h2>Divine Berserker</h2>
 <p>Empower your body by a massive amount but beware the aftereffects.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="D" data-search="dragon slayer build dragon power and awaken the slayer of dragons.">
+<a href="../ascension/#dragon-slayer" aria-label="Open Dragon Slayer">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/dragon_slayer.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Dragon Slayer</h2>
+<p>Build dragon power and awaken The Slayer of Dragons.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -350,6 +389,19 @@
 <div class="reference-card-copy">
 <h2>Envy</h2>
 <p>Absorb strength from enemies, buff yourself and debilitate your enemies.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="E" data-search="eye of mind analyze, copy, debuff, and fire a scaling death ray.">
+<a href="../ascension/#eye-of-mind" aria-label="Open Eye of Mind">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/eye_of_mind.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Eye of Mind</h2>
+<p>Analyze, copy, debuff, and fire a scaling death ray.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -471,6 +523,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="G" data-search="great mage master magic study and awaken the timeless mage.">
+<a href="../ascension/#great-mage" aria-label="Open Great Mage">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/great_mage.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Great Mage</h2>
+<p>Master magic study and awaken The Timeless Mage.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="G" data-search="great sage improve your cognitive skills to learn and cast faster, become able to appraise targets and use analysis to copy skills and process materials to craft or replicate…">
 <a href="great-sage/" aria-label="Open Great Sage">
 <figure class="reference-card-media reference-card-media--source">
@@ -536,6 +601,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="I" data-search="imprisoned jester deal spirit damage and awaken the unbound jester.">
+<a href="../ascension/#imprisoned-jester" aria-label="Open Imprisoned Jester">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/imprisoned_jester.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Imprisoned Jester</h2>
+<p>Deal spirit damage and awaken The Unbound Jester.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="I" data-search="infinity prison trap enemies in an unbreakable dimensional cage or shield yourself from any threat with your dimensional barrier. gain access to spatial storage.">
 <a href="infinity-prison/" aria-label="Open Infinity Prison">
 <figure class="reference-card-media reference-card-media--source">
@@ -558,6 +636,19 @@
 <div class="reference-card-copy">
 <h2>Inverse</h2>
 <p>W.I.P</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="K" data-search="king of curses cursed slashes, fire, and malevolent shrine.">
+<a href="../ascension/#king-of-curses" aria-label="Open King of Curses">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/king_of_curses.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>King of Curses</h2>
+<p>Cursed slashes, fire, and Malevolent Shrine.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -913,6 +1004,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="S" data-search="sealer capture power and awaken the one who seals.">
+<a href="../ascension/#sealer" aria-label="Open Sealer">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/sealer.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Sealer</h2>
+<p>Capture power and awaken The One Who Seals.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="S" data-search="seeker your curiosity drives you to seek the truths of this world and learn as much as possible about it">
 <a href="seeker/" aria-label="Open Seeker">
 <figure class="reference-card-media reference-card-media--source">
@@ -1104,6 +1208,19 @@
 <div class="reference-card-copy">
 <h2>Thrower</h2>
 <p>Use your skill and your precision to throw anything and deal massive damage. You can even shove air or push back your foes.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="trash gamer exploit duplication, random buffs, and a risky prodigy state.">
+<a href="../ascension/#trash-gamer" aria-label="Open Trash Gamer">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/trash_gamer.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Trash Gamer</h2>
+<p>Exploit duplication, random buffs, and a risky Prodigy state.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -22,7 +22,7 @@ This visual library presents every imported Tensura article in one reference exp
 <p>Choose a form, understand its requirements, and follow explicit race branches.</p>
 <div class="reference-path-links">
 <a href="core-mechanics/">Core Mechanics <span>63</span></a>
-<a href="races/">Races <span>266</span></a>
+<a href="races/">Races <span>272</span></a>
 </div>
 </div>
 </article>
@@ -32,15 +32,15 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>Skills &amp; Arcana</h2>
 <p>Explore abilities by class, magical system, resistance, and combat discipline.</p>
 <div class="reference-path-links">
-<a href="skills/intrinsic/">Intrinsic Skills <span>52</span></a>
-<a href="skills/common/">Common Skills <span>16</span></a>
-<a href="skills/extra/">Extra Skills <span>63</span></a>
-<a href="skills/unique/">Unique Skills <span>91</span></a>
-<a href="skills/ultimate/">Ultimate Skills <span>33</span></a>
+<a href="skills/intrinsic/">Intrinsic Skills <span>54</span></a>
+<a href="skills/common/">Common Skills <span>19</span></a>
+<a href="skills/extra/">Extra Skills <span>75</span></a>
+<a href="skills/unique/">Unique Skills <span>100</span></a>
+<a href="skills/ultimate/">Ultimate Skills <span>38</span></a>
 <a href="skills/other/">Other Skills <span>8</span></a>
 <a href="resistances/">Resistances <span>43</span></a>
 <a href="magic/">Magic <span>147</span></a>
-<a href="battlewill/">Battlewill <span>23</span></a>
+<a href="battlewill/">Battlewill <span>26</span></a>
 </div>
 </div>
 </article>

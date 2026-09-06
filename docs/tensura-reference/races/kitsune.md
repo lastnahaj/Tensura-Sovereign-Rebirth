@@ -1,0 +1,15 @@
+---
+title: Kitsune Evolution
+description: Complete Kitsune-to-Nine Tail Fox evolution map, requirements, stats, and skills.
+---
+
+<section class="race-family-hero"><img src="../../../assets/ascension/races/kitsune.jpg" alt="A luminous nine-tailed fox in a moonlit shrine"><div><p class="reference-eyebrow">Race family · four stages</p><h1>Kitsune evolution</h1><p>A swift fox-spirit route that grows from three tails to a holy nine-tailed form.</p></div></section>
+
+<nav class="evolution-map" aria-label="Kitsune evolution path"><a href="#kitsune">Kitsune</a><span>→</span><a href="#three-tail-fox">Three Tail Fox</a><span>→</span><a href="#six-tail-fox">Six Tail Fox</a><span>→</span><a href="#nine-tail-fox">Nine Tail Fox</a></nav>
+
+<div class="race-stage-grid">
+<article class="race-stage-card" id="kitsune"><p class="race-stage-kicker">Base race · Intermediate · Default</p><h2>Kitsune</h2><div class="race-stats"><span><b>+128</b> Max HP</span><span><b>+15%</b> Speed</span><span><b>+5</b> ATK</span></div><dl><dt>Skills</dt><dd>Beast Transformation, Charm, <a href="../../skills/ascension/#sharpened-claws">Sharpened Claws</a></dd><dt>Learnable</dt><dd>Magic Sense, Danger Sense, Farsight</dd><dt>Requirement</dt><dd>Starting form.</dd></dl><p class="race-card-route"><span>Start</span><a href="#three-tail-fox">Three Tail Fox →</a></p></article>
+<article class="race-stage-card" id="three-tail-fox"><p class="race-stage-kicker">Stage 2 · Intermediate · Default</p><h2>Three Tail Fox</h2><div class="race-stats"><span><b>+328</b> Max HP</span><span><b>+25%</b> Speed</span><span><b>+8</b> ATK</span></div><dl><dt>Skills</dt><dd>Same as Kitsune</dd><dt>Learnable</dt><dd>Magic Aura, Self Regen, Mana Manipulation, Snake Eye</dd><dt>Requirement</dt><dd>Kitsune + 150,000 EP + be named</dd></dl><p class="race-card-route"><a href="#kitsune">← Kitsune</a><a href="#six-tail-fox">Six Tail Fox →</a></p></article>
+<article class="race-stage-card" id="six-tail-fox"><p class="race-stage-kicker">Stage 3 · Hard · Holy</p><h2>Six Tail Fox</h2><div class="race-stats"><span><b>+578</b> Max HP</span><span><b>+35%</b> Speed</span><span><b>+12</b> ATK</span></div><dl><dt>Skill</dt><dd>Divine Ki Release</dd><dt>Learnable</dt><dd>Ultraspeed Regen, Spatial Motion, Thought Acceleration, Sacred Haki</dd><dt>Requirement</dt><dd>Three Tail Fox + 150,000 EP + be named</dd></dl><p class="race-card-route"><a href="#three-tail-fox">← Three Tail Fox</a><a href="#nine-tail-fox">Nine Tail Fox →</a></p></article>
+<article class="race-stage-card" id="nine-tail-fox"><p class="race-stage-kicker">Final stage · Extreme · Holy</p><h2>Nine Tail Fox</h2><div class="race-stats"><span><b>+928</b> Max HP</span><span><b>+50%</b> Speed</span><span><b>+16</b> ATK</span></div><dl><dt>Skill</dt><dd>Light Transform</dd><dt>Learnable</dt><dd>Infinite Regen, Majesty</dd><dt>Requirement</dt><dd>Six Tail Fox + 400,000 EP</dd></dl><p class="race-card-route"><a href="#six-tail-fox">← Six Tail Fox</a><span>Final evolution</span></p></article>
+</div>

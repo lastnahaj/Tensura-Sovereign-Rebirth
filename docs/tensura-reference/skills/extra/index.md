@@ -6,7 +6,7 @@
 <h1>Extra Skills</h1>
 <p>Extra-class skills and their documented progressions.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>63</strong> articles</span>
+<span class="reference-count"><strong>75</strong> articles</span>
 </div>
 </div>
 </header>
@@ -34,7 +34,7 @@
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 63 of 63 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 75 of 75 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="all seeing eye go into a 3rd person mode, which increases your pov and grants movement and action buffs as well as an upgrade to presence sense.">
@@ -63,6 +63,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="A" data-search="angel wings sustained flight for the angel race line.">
+<a href="../ascension/#angel-wings" aria-label="Open Angel Wings">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/angel_wings.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Angel Wings</h2>
+<p>Sustained flight for the Angel race line.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="B" data-search="black flame command the tempest infused flames to spew out black flames at your enemies or even shoot deadly fireballs and hell flares.">
 <a href="black-flame/" aria-label="Open Black Flame">
 <figure class="reference-card-media reference-card-media--source">
@@ -85,6 +98,32 @@
 <div class="reference-card-copy">
 <h2>Black Lightning</h2>
 <p>Shoot black lightning at varying strength, or summon a massive storm which attacks any non-allied mobs. A short range plasma blast can also be used to melt even the…</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="B" data-search="blockade suppress an enemy&#x27;s regeneration skills.">
+<a href="../ascension/#blockade" aria-label="Open Blockade">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/blockade.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Blockade</h2>
+<p>Suppress an enemy&#x27;s regeneration skills.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="B" data-search="blood frenzy trade health for stronger, faster attacks.">
+<a href="../ascension/#blood-frenzy" aria-label="Open Blood Frenzy">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/blood_frenzy.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Blood Frenzy</h2>
+<p>Trade health for stronger, faster attacks.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -310,6 +349,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="H" data-search="hell passage open a route to hell and back.">
+<a href="../ascension/#hell-passage" aria-label="Open Hell Passage">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/hell_passage.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Hell Passage</h2>
+<p>Open a route to Hell and back.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="H" data-search="hero haki use your hero aura to inspire your allies and terrify your enemies.">
 <a href="hero-haki/" aria-label="Open Hero Haki">
 <figure class="reference-card-media reference-card-media--source">
@@ -319,6 +371,19 @@
 <div class="reference-card-copy">
 <h2>Hero Haki</h2>
 <p>Use your Hero Aura to inspire your allies and terrify your enemies.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="H" data-search="hyperbolic passage enter the 3× ep training dimension.">
+<a href="../ascension/#hyperbolic-passage" aria-label="Open Hyperbolic Passage">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/hyperbolic_passage.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Hyperbolic Passage</h2>
+<p>Enter the 3× EP training dimension.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -358,6 +423,19 @@
 <div class="reference-card-copy">
 <h2>Infinite Regeneration</h2>
 <p>Use your massive amount of magicules to instantly regenerate from all but the most grievous of injuries.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="intimidating roar inflict fear and weakness in an 8-block area.">
+<a href="../ascension/#intimidating-roar" aria-label="Open Intimidating Roar">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/intimidating_roar.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Intimidating Roar</h2>
+<p>Inflict Fear and Weakness in an 8-block area.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -436,6 +514,58 @@
 <div class="reference-card-copy">
 <h2>Lightning Manipulation</h2>
 <p>Boosts Lightning skills by a decent amount</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magic scribe create compatible iron&#x27;s spells scrolls.">
+<a href="../ascension/#magic-scribe" aria-label="Open Magic Scribe">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magic_scribe.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Scribe</h2>
+<p>Create compatible Iron&#x27;s Spells scrolls.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magicule attunement first step in the linked magicule regeneration chain.">
+<a href="../ascension/#magicule-attunement" aria-label="Open Magicule Attunement">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magicule_attunement.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magicule Attunement</h2>
+<p>First step in the linked Magicule regeneration chain.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magicule dominion final documented magicule regeneration upgrade.">
+<a href="../ascension/#magicule-dominion" aria-label="Open Magicule Dominion">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magicule_dominion.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magicule Dominion</h2>
+<p>Final documented Magicule regeneration upgrade.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magicule resonance master attunement to reach the middle upgrade.">
+<a href="../ascension/#magicule-resonance" aria-label="Open Magicule Resonance">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magicule_resonance.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magicule Resonance</h2>
+<p>Master Attunement to reach the middle upgrade.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -527,6 +657,19 @@
 <div class="reference-card-copy">
 <h2>Profaned Prominence</h2>
 <p>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated flames. Additionally, melt the surroundings into…</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="P" data-search="purple lightning daemon dragon lightning that bypasses darkness resistance.">
+<a href="../ascension/#purple-lightning" aria-label="Open Purple Lightning">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/purple_lightning.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Purple Lightning</h2>
+<p>Daemon Dragon lightning that bypasses Darkness Resistance.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -722,6 +865,19 @@
 <div class="reference-card-copy">
 <h2>Thought Acceleration</h2>
 <p>Increase the speed at which you think to cast magic more quickly as well as to increase your reaction speed</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="toxic skin poison enemies that strike you in melee.">
+<a href="../ascension/#toxic-skin" aria-label="Open Toxic Skin">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/toxic_skin.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Toxic Skin</h2>
+<p>Poison enemies that strike you in melee.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

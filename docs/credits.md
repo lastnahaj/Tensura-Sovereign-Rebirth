@@ -37,6 +37,10 @@ Upstream File pages declare page content under CC BY-SA 4.0 unless otherwise not
 
 ## TSR identity
 
+Ascension skill icons, Ultimate icons, and crafting illustrations credit the
+[Tensura: Ascension project and its contributors](https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions).
+The race-family banners are TSR concept artwork, not screenshots of in-game models.
+
 **Tensura: Sovereign Rebirth**
 
 *Reincarnate. Evolve. Build. Awaken. Rule.*

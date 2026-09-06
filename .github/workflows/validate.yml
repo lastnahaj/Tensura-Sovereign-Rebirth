@@ -38,3 +38,6 @@ jobs:
 
       - name: Validate rendered site links
         run: python scripts/wiki/check_built_site.py
+
+      - name: Validate progression destinations
+        run: python scripts/wiki/check_progression.py

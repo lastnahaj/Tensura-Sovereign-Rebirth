@@ -6,7 +6,7 @@
 <h1>Common Skills</h1>
 <p>Common skills and broadly available abilities.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>16</strong> articles</span>
+<span class="reference-count"><strong>19</strong> articles</span>
 </div>
 </div>
 </header>
@@ -21,6 +21,7 @@
 <button type="button" data-letter="F" aria-pressed="false">F</button>
 <button type="button" data-letter="G" aria-pressed="false">G</button>
 <button type="button" data-letter="H" aria-pressed="false">H</button>
+<button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="R" aria-pressed="false">R</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
@@ -28,7 +29,7 @@
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 16 of 16 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 19 of 19 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="C" data-search="coercion unleash a deafening roar in front of you scaring any afflicted entities.">
@@ -109,6 +110,32 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="magicule nourishment convert magicules into hunger.">
+<a href="../ascension/#magicule-nourishment" aria-label="Open Magicule Nourishment">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magicule_nourishment.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magicule Nourishment</h2>
+<p>Convert Magicules into Hunger.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magnetized vacuum spend magicules to pull nearby items.">
+<a href="../ascension/#magnetized-vacuum" aria-label="Open Magnetized Vacuum">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/magnetized_vacuum.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magnetized Vacuum</h2>
+<p>Spend Magicules to pull nearby items.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="P" data-search="paralysis empower your attacks with the effect of paralysis, with mastery you can do this automatically.">
 <a href="paralysis/" aria-label="Open Paralysis">
 <figure class="reference-card-media reference-card-media--source">
@@ -131,6 +158,19 @@
 <div class="reference-card-copy">
 <h2>Poison</h2>
 <p>Empower your attacks with the effect of Poison, with mastery you can do this automatically.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="P" data-search="prickly hands apply bleeding with every melee hit.">
+<a href="../ascension/#prickly-hands" aria-label="Open Prickly Hands">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/skills/prickly_hands.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Prickly Hands</h2>
+<p>Apply Bleeding with every melee hit.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -57,7 +57,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="E" data-search="elemental colossus &quot;the fairy&#x27;s not gonna like this...&quot;">
+<article class="reference-card" data-letter="E" data-search="elemental colossus the elemental colossus is a heavily armored melee boss that can both fight nearby targets and rapidly close large distances. its attacks include melee strikes, a…">
 <a href="mobs-elemental-colossus/" aria-label="Open Elemental Colossus">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/bosses/elemental-colossus-585d09f9f5.gif" alt="" loading="lazy" decoding="async">
@@ -65,7 +65,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Colossus</h2>
-<p>&quot;The Fairy&#x27;s not gonna like this...&quot;</p>
+<p>The Elemental Colossus is a heavily armored melee boss that can both fight nearby targets and rapidly close large distances. Its attacks include melee strikes, a…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

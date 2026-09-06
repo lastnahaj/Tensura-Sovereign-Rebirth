@@ -63,6 +63,8 @@ extra_javascript:
   - assets/javascripts/modlist.js
   - assets/javascripts/server-status.js
   - assets/javascripts/onboarding.js
+  - assets/javascripts/ascension.js
+  - assets/javascripts/progression.js
 
 extra:
   social:
@@ -122,6 +124,7 @@ nav:
       - Great Sage: great-sage.md
       - Prestige & Soul Grade: prestige-and-soul-grade.md
       - Ascension & Awakening: ascension-and-awakening.md
+      - Hyperbolic Chamber: hyperbolic-chamber.md
   - Equipment & Magic:
       - Gear Evolution: gear-evolution.md
       - Forging & Metalworks: forging-and-metalworks.md

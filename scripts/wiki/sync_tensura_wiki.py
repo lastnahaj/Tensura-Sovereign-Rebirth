@@ -1541,7 +1541,26 @@ def combined_reference_records(records: list[dict[str, Any]]) -> list[dict[str, 
     if SOURCE_KEY != "tensura":
         return records
     companion_records, _, _ = load_reference_snapshot("mysticism")
-    return records + companion_records
+    return records + companion_records + supplementary_records()
+
+
+def supplementary_records() -> list[dict[str, Any]]:
+    """Include maintained references in the same directories as imported articles."""
+    if SOURCE_KEY != "tensura":
+        return []
+    path = DATA_ROOT / "ascension_reference.json"
+    if not path.exists():
+        return []
+    records = []
+    for entry in json.loads(path.read_text(encoding="utf-8"))["entries"]:
+        records.append({
+            **entry,
+            "source_title": entry["display_title"],
+            "_html": f'<p>{html.escape(entry["summary"])}</p>',
+            "_primary_media": {"local_path": entry["asset"]},
+            "_supplementary": True,
+        })
+    return records
 
 
 def extract_race_evolution(record: dict[str, Any]) -> dict[str, list[str]]:
@@ -1553,7 +1572,7 @@ def extract_race_evolution(record: dict[str, Any]) -> dict[str, list[str]]:
         if not label_node or not data_node:
             continue
         label = " ".join(label_node.get_text(" ", strip=True).split())
-        if not re.search(r"evolution|evolves|previous|predecessor|successor|harvest|awakening|naming", label, re.I):
+        if not re.search(r"evolution|evolves|previous|next|predecessor|successor|harvest|awakening|nam(?:ing|ed)", label, re.I):
             continue
         values = [" ".join(anchor.get_text(" ", strip=True).split()) for anchor in data_node.find_all("a")]
         if not values:
@@ -1578,6 +1597,25 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
         "This directory reproduces only evolution relationships explicitly exposed by the upstream race infoboxes. It does not infer branches from similar names.",
         "",
     ]
+    families = [record for record in records if record.get("_supplementary") and record["category"] == "races"]
+    if families:
+        sections.extend(["## Complete race family maps", "", '<div class="race-map-directory">'])
+        for family in families:
+            target = rendered_page_relative_url(f"{REFERENCE_SLUG}/races/evolution-trees.md", family["local_page"])
+            sections.append(f'<a href="{target}"><strong>{html.escape(family["display_title"])}</strong><span>{html.escape(family["summary"])}</span></a>')
+        sections.extend(["</div>", ""])
+    title_map: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for candidate in race_records:
+        title_map[normalize_title(candidate["display_title"]).casefold()].append(candidate)
+
+    def linked_value(value: str, current: dict[str, Any]) -> str:
+        matches = title_map.get(normalize_title(value).casefold(), [])
+        same_source = [item for item in matches if item["local_page"].split("/")[0] == current["local_page"].split("/")[0]]
+        matches = same_source or matches
+        if len(matches) != 1:
+            return value
+        target = os.path.relpath(matches[0]["local_page"], f"{REFERENCE_SLUG}/races").replace("\\", "/")
+        return f"[{value}]({target})"
     relationship_count = 0
     for record in sorted(race_records, key=lambda item: item["display_title"].casefold()):
         relationships = extract_race_evolution(record)
@@ -1589,7 +1627,7 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
         ).replace("\\", "/")
         sections.extend([f"## [{record['display_title']}]({relative})", ""])
         for label, values in relationships.items():
-            sections.append(f"- **{label}:** {', '.join(values)}")
+            sections.append(f"- **{label}:** {', '.join(linked_value(value, record) for value in values)}")
         sections.append("")
     if relationship_count == 0:
         sections.extend(
@@ -1710,7 +1748,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         lines.extend(
             [
                 f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',
-                f'<a href="{rendered_page_relative_url(index_page, record["local_page"])}" aria-label="Open {html.escape(record["display_title"], quote=True)}">',
+                f'<a href="{rendered_page_relative_url(index_page, record["local_page"])}{("#" + record["fragment"]) if record.get("fragment") else ""}" aria-label="Open {html.escape(record["display_title"], quote=True)}">',
                 f'<figure class="reference-card-media {media_class}">',
                 f'<img src="{html.escape(card_asset_url, quote=True)}" alt="" loading="lazy" decoding="async">',
                 f"<figcaption>{source_label}</figcaption>",
@@ -1754,7 +1792,7 @@ def generate_reference_index(
         companion_records, companion_media, companion_coverage = load_reference_snapshot("mysticism")
 
     combined_reference = SOURCE_KEY == "tensura" and bool(companion_records)
-    all_records = records + companion_records
+    all_records = records + companion_records + supplementary_records()
     all_category_totals = Counter(record["category"] for record in all_records)
     all_category_counts = Counter(
         record["category"]
@@ -2072,8 +2110,15 @@ def ensure_generated_roots_clean() -> None:
     docs_resolved = DOCS.resolve()
     if docs_resolved not in reference_resolved.parents:
         raise RuntimeError(f"Unsafe generated reference path: {reference_resolved}")
-    if REFERENCE_ROOT.exists():
-        shutil.rmtree(REFERENCE_ROOT)
+    manifest_path = DATA_ROOT / f"upstream_{SOURCE_KEY}_pages.json"
+    if manifest_path.exists():
+        previous = json.loads(manifest_path.read_text(encoding="utf-8")).get("pages", [])
+        for record in previous:
+            target = (DOCS / record["local_page"]).resolve()
+            if reference_resolved not in target.parents:
+                raise RuntimeError(f"Generated page escaped reference root: {record['local_page']}")
+            if target.is_file():
+                target.unlink()
     REFERENCE_ROOT.mkdir(parents=True, exist_ok=True)
 
 
@@ -2211,6 +2256,8 @@ def main() -> int:
         write_reference_indexes(
             coverage.get("site_statistics", {}), page_records, redirect_records, media_records
         )
+        from sync_progression import OUTPUT as progression_output, build as build_progression
+        write_json(progression_output, build_progression())
         generated_link_errors = audit_generated_links(REFERENCE_ROOT)
         if generated_link_errors:
             raise RuntimeError("\n".join(generated_link_errors[:40]))
@@ -2308,6 +2355,8 @@ def main() -> int:
     COVERAGE_REPORT.write_text(
         normalize_generated_text(render_coverage_report(coverage)), encoding="utf-8"
     )
+    from sync_progression import OUTPUT as progression_output, build as build_progression
+    write_json(progression_output, build_progression())
 
     print(
         "Generated reference: "

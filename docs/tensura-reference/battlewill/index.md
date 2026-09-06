@@ -6,7 +6,7 @@
 <h1>Battlewill</h1>
 <p>Aura-powered Battlewill techniques and manuals.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>23</strong> articles</span>
+<span class="reference-count"><strong>26</strong> articles</span>
 <a class="reference-directory-overview-link" href="battlewill/">Read collection overview <span aria-hidden="true">→</span></a>
 </div>
 </div>
@@ -30,9 +30,10 @@
 <button type="button" data-letter="O" aria-pressed="false">O</button>
 <button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="R" aria-pressed="false">R</button>
+<button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 23 of 23 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 26 of 26 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="air flight use your aura to propel you forward, and hover in air">
@@ -178,6 +179,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="E" data-search="energy charge convert magicules into aura and unlock maximum charge.">
+<a href="../skills/ascension/#energy-charge" aria-label="Open Energy Charge">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/skills/energy_charge.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Energy Charge</h2>
+<p>Convert Magicules into Aura and unlock Maximum Charge.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="F" data-search="formhide match your aura to the surroundings, which makes you imperceptible.">
 <a href="formhide/" aria-label="Open Formhide">
 <figure class="reference-card-media reference-card-media--source">
@@ -239,6 +253,19 @@
 <div class="reference-card-copy">
 <h2>Magic Bullet</h2>
 <p>Gather your aura into a powerful blast</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="maximum charge the mastered upgrade unlocked from energy charge.">
+<a href="../skills/ascension/#maximum-charge" aria-label="Open Maximum Charge">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/skills/maximum_charge.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Maximum Charge</h2>
+<p>The mastered upgrade unlocked from Energy Charge.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -317,6 +344,19 @@
 <div class="reference-card-copy">
 <h2>Roaring Lion Punch</h2>
 <p>Focus your aura into a fearsome blow with the regalness of a lion</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="shadow dummy fight a clone of your own stats for training rewards.">
+<a href="../skills/ascension/#shadow-dummy" aria-label="Open Shadow Dummy">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/skills/shadow_dummy.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Shadow Dummy</h2>
+<p>Fight a clone of your own stats for training rewards.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

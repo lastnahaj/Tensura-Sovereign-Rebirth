@@ -6,7 +6,7 @@
 <h1>Races</h1>
 <p>Playable and documented race forms and their evolution data.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>266</strong> articles</span>
+<span class="reference-count"><strong>272</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,10 +39,10 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Y" aria-pressed="false">Y</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 266 of 266 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 272 of 272 articles</p>
 </div>
 <div class="reference-card-grid">
-<article class="reference-card" data-letter="A" data-search="ancient giant &quot; back in my days people were taller&#x27;&quot;">
+<article class="reference-card" data-letter="A" data-search="ancient giant an ancient version of giants, more primitive but far stronger">
 <a href="races-ancient-giant/" aria-label="Open Ancient Giant">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -50,7 +50,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ancient Giant</h2>
-<p>&quot; Back in my days people were taller&#x27;&quot;</p>
+<p>An ancient version of giants, more primitive but far stronger</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -64,6 +64,19 @@
 <div class="reference-card-copy">
 <h2>Angel</h2>
 <p>Angel Fallen Angel Phantom</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="A" data-search="angel evolution follow both seraphim branches through cosmic or chaotic deity.">
+<a href="angel/" aria-label="Open Angel evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/angel.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Angel evolution</h2>
+<p>Follow both Seraphim branches through Cosmic or Chaotic Deity.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -861,7 +874,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="divine giant &quot; that one 6&#x27;4 nonchalant friend&#x27;&quot;">
+<article class="reference-card" data-letter="D" data-search="divine giant the final evolution of a giant, which increases their ability to grow bigger exponentially">
 <a href="races-divine-giant/" aria-label="Open Divine Giant">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -869,7 +882,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Divine Giant</h2>
-<p>&quot; That one 6&#x27;4 nonchalant friend&#x27;&quot;</p>
+<p>The final evolution of a giant, which increases their ability to grow bigger exponentially</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1004,7 +1017,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="divine skeleton &quot; even divinity won&#x27;t save your bony ahh &quot;">
+<article class="reference-card" data-letter="D" data-search="divine skeleton no effects while in sunlight">
 <a href="races-divine-skeleton/" aria-label="Open Divine Skeleton">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -1012,7 +1025,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Divine Skeleton</h2>
-<p>&quot; Even Divinity won&#x27;t save your bony ahh &quot;</p>
+<p>No effects while in Sunlight</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1078,6 +1091,19 @@
 <div class="reference-card-copy">
 <h2>Divine Yellow Centipede</h2>
 <p>1.21.1 – ??? 1.19.2 – Added to the game.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="D" data-search="djinn evolution map all ten stages and every essence threshold.">
+<a href="djinn/" aria-label="Open Djinn evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/djinn.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Djinn evolution</h2>
+<p>Map all ten stages and every essence threshold.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1537,6 +1563,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="F" data-search="frog evolution compare the venom lord and bog ancient branches.">
+<a href="frog/" aria-label="Open Frog evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/frog.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Frog evolution</h2>
+<p>Compare the Venom Lord and Bog Ancient branches.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="F" data-search="frostcoil sea serpent frostwrought leviathan - have 2m ep, mastered water domination and dragon ear. 1.21.1 – ??? 1.19.2 – added to the game.">
 <a href="../../mysticism-reference/races/frostcoil-sea-serpent/" aria-label="Open Frostcoil Sea Serpent">
 <figure class="reference-card-media reference-card-media--source">
@@ -1576,6 +1615,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="G" data-search="gazer evolution trace the six-stage majin path to death tyrant.">
+<a href="gazer/" aria-label="Open Gazer evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/gazer.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Gazer evolution</h2>
+<p>Trace the six-stage Majin path to Death Tyrant.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="G" data-search="general spiritual being. 235k minimum ep if evolved from field officer requires a body. respawn in hell. staff officer - 800k ep as a general. 1.21.1 – ported 1.19.2 – added to…">
 <a href="../../mysticism-reference/races/general/" aria-label="Open General">
 <figure class="reference-card-media reference-card-media--source">
@@ -1589,7 +1641,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="ghoul &quot; brains~~ lookin ahh... &quot;">
+<article class="reference-card" data-letter="G" data-search="ghoul a vampiric thrall brought about by blood raise, highly weakened by sunlight.">
 <a href="races-ghoul/" aria-label="Open Ghoul">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
@@ -1597,7 +1649,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ghoul</h2>
-<p>&quot; Brains~~ Lookin ahh... &quot;</p>
+<p>A Vampiric thrall brought about by Blood Raise, highly weakened by sunlight.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1667,7 +1719,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="greater daemon &quot; huh? you think you&#x27;re something now? get out my sight... &quot;">
+<article class="reference-card" data-letter="G" data-search="greater daemon daemon going to a physical world without a name or awakening will get their ep limited at 100k mp + summon body&#x27;s ep (if any) and 40k ap. this will affect energy…">
 <a href="races-greater-daemon/" aria-label="Open Greater Daemon">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -1675,7 +1727,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Greater Daemon</h2>
-<p>&quot; Huh? You think you&#x27;re something now? Get out my sight... &quot;</p>
+<p>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body&#x27;s EP (if any) and 40k AP. This will affect energy…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1953,6 +2005,19 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="K" data-search="kitsune evolution follow the named fox-spirit route to nine tail fox.">
+<a href="kitsune/" aria-label="Open Kitsune evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/kitsune.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Kitsune evolution</h2>
+<p>Follow the named fox-spirit route to Nine Tail Fox.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="K" data-search="knight spider knight spider insectar - acquire 100k ep.">
 <a href="../../mysticism-reference/races/knight-spider/" aria-label="Open Knight Spider">
 <figure class="reference-card-media reference-card-media--source">
@@ -2005,7 +2070,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="lesser daemon &quot; lowly daemon scum &quot;">
+<article class="reference-card" data-letter="L" data-search="lesser daemon the lowest level of the daemon race. they spontaneously come into existence within the daemon realm, where they slowly accumulate experience from fighting and being…">
 <a href="races-lesser-daemon/" aria-label="Open Lesser Daemon">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -2013,7 +2078,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Lesser Daemon</h2>
-<p>&quot; Lowly Daemon Scum &quot;</p>
+<p>The lowest level of the daemon race. They spontaneously come into existence within the Daemon Realm, where they slowly accumulate experience from fighting and being…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2148,7 +2213,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="lizardman &quot; leezard..? lizurd..? lizzy..! &quot;">
+<article class="reference-card" data-letter="L" data-search="lizardman a race of scaled people descended from dragons. their webbed feet give them an advantage in wet terrain.">
 <a href="races-lizardman/" aria-label="Open Lizardman">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/mobs/lizardman-8656387a04.png" alt="" loading="lazy" decoding="async">
@@ -2156,7 +2221,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Lizardman</h2>
-<p>&quot; Leezard..? Lizurd..? Lizzy..! &quot;</p>
+<p>A race of scaled people descended from dragons. Their webbed feet give them an advantage in wet terrain.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2265,7 +2330,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="merfolk &quot; i&#x27;m under da water... blub &quot;">
+<article class="reference-card" data-letter="M" data-search="merfolk a sprite race descended from water elementals. their fish-like bodies give them an insurmountable advantage in water.">
 <a href="races-merfolk/" aria-label="Open Merfolk">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -2273,7 +2338,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Merfolk</h2>
-<p>&quot; I&#x27;m under da water... blub &quot;</p>
+<p>A sprite race descended from water elementals. Their fish-like bodies give them an insurmountable advantage in water.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2326,6 +2391,19 @@
 <div class="reference-card-copy">
 <h2>Molten Spirit Wolf</h2>
 <p>(Remove this once finalized)</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="monkey evolution compare every stage from monkey to sun wukong.">
+<a href="monkey/" aria-label="Open Monkey evolution">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/ascension/races/monkey.jpg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Monkey evolution</h2>
+<p>Compare every stage from Monkey to Sun Wukong.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2473,7 +2551,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="O" data-search="ogre &quot; what&#x27;re doin in ma swamp?! huh? what do you mean wrong ogre? &quot;">
+<article class="reference-card" data-letter="O" data-search="ogre a sprite race descended from fire elementals. they possess immense physical capabilities and a strong japanese lineage.">
 <a href="races-ogre/" aria-label="Open Ogre">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
@@ -2481,12 +2559,12 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ogre</h2>
-<p>&quot; WHAT&#x27;RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? &quot;</p>
+<p>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="O" data-search="orc &quot; i wish you luck on this journey &quot;">
+<article class="reference-card" data-letter="O" data-search="orc a race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two. their physical strength is greater than average but…">
 <a href="races-orc/" aria-label="Open Orc">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
@@ -2494,7 +2572,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orc</h2>
-<p>&quot; I wish you luck on this journey &quot;</p>
+<p>A race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two. Their physical strength is greater than average but…</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2941,7 +3019,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="slime charge up a super slime jump">
+<article class="reference-card" data-letter="S" data-search="slime a spectral race of monsters that lacks intelligence and ambition. they&#x27;re usually passive but are incredibly ruthless once provoked.">
 <a href="races-slime/" aria-label="Open Slime">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
@@ -2949,7 +3027,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Slime</h2>
-<p>Charge up a super slime jump</p>
+<p>A Spectral race of monsters that lacks intelligence and ambition. They&#x27;re usually passive but are incredibly ruthless once provoked.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -3058,7 +3136,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="spirit skeleton &quot; spooky scary... sometimes the jokes write themselves. &quot;">
+<article class="reference-card" data-letter="S" data-search="spirit skeleton fragility i, weakness i in sunlight">
 <a href="races-spirit-skeleton/" aria-label="Open Spirit Skeleton">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -3066,7 +3144,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spirit Skeleton</h2>
-<p>&quot; Spooky Scary... Sometimes the jokes write themselves. &quot;</p>
+<p>Fragility I, Weakness I in Sunlight</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -3435,7 +3513,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="W" data-search="wight king &quot; king of the...i didn&#x27;t think about this one... &quot;">
+<article class="reference-card" data-letter="W" data-search="wight king fragility ii, weakness ii, mining fatigue ii, slowness ii in sunlight">
 <a href="races-wight-king/" aria-label="Open Wight King">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
@@ -3443,7 +3521,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wight King</h2>
-<p>&quot; King of the...I didn&#x27;t think about this one... &quot;</p>
+<p>Fragility II, Weakness II, Mining Fatigue II, Slowness II in Sunlight</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

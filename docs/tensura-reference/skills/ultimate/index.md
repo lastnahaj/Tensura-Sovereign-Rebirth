@@ -6,7 +6,7 @@
 <h1>Ultimate Skills</h1>
 <p>Ultimate-class skills and related evolutions.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>33</strong> articles</span>
+<span class="reference-count"><strong>38</strong> articles</span>
 </div>
 </div>
 </header>
@@ -33,7 +33,7 @@
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="X" aria-pressed="false">X</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 33 of 33 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 38 of 38 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adephaga, lord of devouring &quot;you are no god... but i shall feast upon your essence regardless!&quot; ...now, where have you heard that from?">
@@ -396,6 +396,71 @@
 <div class="reference-card-copy">
 <h2>Takemikazuchi, Lord of Combat</h2>
 <p>Become the ruler of physical combat. Gain increased reaction speed and attack speed while channeling all your power into melee attacks, and accelerate to lightspeed…</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="the evil majin bubble majin&#x27;s ultimate evolution.">
+<a href="ascension-ultimates/#the-evil-majin" aria-label="Open The Evil Majin">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/ultimates/the_evil_majin.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>The Evil Majin</h2>
+<p>Bubble Majin&#x27;s Ultimate evolution.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="the one who seals sealer&#x27;s ultimate evolution.">
+<a href="ascension-ultimates/#the-one-who-seals" aria-label="Open The One Who Seals">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/ultimates/the_one_who_seals.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>The One Who Seals</h2>
+<p>Sealer&#x27;s Ultimate evolution.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="the slayer of dragons dragon slayer&#x27;s ultimate evolution.">
+<a href="ascension-ultimates/#the-slayer-of-dragons" aria-label="Open The Slayer of Dragons">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/ultimates/the_slayer_of_dragons.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>The Slayer of Dragons</h2>
+<p>Dragon Slayer&#x27;s Ultimate evolution.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="the timeless mage great mage&#x27;s ultimate evolution.">
+<a href="ascension-ultimates/#the-timeless-mage" aria-label="Open The Timeless Mage">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/ultimates/the_timeless_mage.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>The Timeless Mage</h2>
+<p>Great Mage&#x27;s Ultimate evolution.</p>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="T" data-search="the unbound jester imprisoned jester&#x27;s ultimate evolution.">
+<a href="ascension-ultimates/#the-unbound-jester" aria-label="Open The Unbound Jester">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/ascension/ultimates/the_unbound_jester.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>The Unbound Jester</h2>
+<p>Imprisoned Jester&#x27;s Ultimate evolution.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
