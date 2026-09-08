@@ -21,14 +21,22 @@
     const title = document.createElement("strong");
     title.textContent = node.title;
     const description = document.createElement("small");
-    description.textContent = edge.requirements.join(" · ") || edge.kinds.join(" · ");
-    copy.append(title, description);
+    const requirements = edge.requirements.filter((text) => text.trim().toLowerCase() !== node.title.trim().toLowerCase());
+    description.textContent = requirements.join(" · ") || edge.kinds.join(" · ");
+    copy.append(title);
+    if (node.verification === "reference-build-only") {
+      const status = document.createElement("small");
+      status.className = "skill-reference-status";
+      status.textContent = "Server build match pending";
+      copy.append(status);
+    }
+    copy.append(description);
     link.append(copy);
     return link;
   }
 
   async function boot() {
-    const article = document.querySelector(".tensura-reference-article");
+    const article = document.querySelector(".tensura-reference-article, .maintained-skill-article");
     if (!article || document.querySelector(".reference-progression")) return;
     graphRequest ||= fetch(dataUrl).then((response) => {
       if (!response.ok) throw new Error("Progression reference unavailable");

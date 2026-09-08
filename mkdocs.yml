@@ -89,12 +89,13 @@ nav:
           - Race Directory: tensura-reference/races/index.md
           - Evolution Relationships: tensura-reference/races/evolution-trees.md
       - Abilities:
-          - Skill Overview: tensura-reference/skills/other/index.md
+          - Skill Overview: tensura-reference/skills/index.md
           - Intrinsic Skills: tensura-reference/skills/intrinsic/index.md
           - Common Skills: tensura-reference/skills/common/index.md
           - Extra Skills: tensura-reference/skills/extra/index.md
           - Unique Skills: tensura-reference/skills/unique/index.md
           - Ultimate Skills: tensura-reference/skills/ultimate/index.md
+          - Other Skills: tensura-reference/skills/other/index.md
           - Resistances: tensura-reference/resistances/index.md
           - Magic: tensura-reference/magic/index.md
           - Battlewill: tensura-reference/battlewill/index.md

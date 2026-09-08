@@ -10,10 +10,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Core Mechanics</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="Lightning Mode source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:EffectPlaceholder.png">EffectPlaceholder.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/icons/skills/mysticism-lightning_mode.svg" alt="Lightning Mode emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Lightning Mode is an effect that...</p>
@@ -33,11 +30,11 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
 <table border="0" cellpadding="0">
 <tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
+<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
 </td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt" id="druid-container-1"><div><div class="druid-title">Lightning Mode</div></div><div class="druid-section-container"><div class="druid-main-image"><div><a class="image" href="https://trmysticism.wiki.gg/wiki/File:EffectPlaceholder.png"><img alt="EffectPlaceholder.png" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" width="512"/></a></div></div></div><div class="druid-section-container"><div class="druid-row druid-row-source" data-druid-section-row="main"><div class="druid-label druid-label-source">Sources</div><div class="druid-data druid-data-source druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt" id="druid-container-1"><div><div class="druid-title">Lightning Mode</div></div><div class="druid-section-container"><div class="druid-main-image"><div><a class="image" href="https://trmysticism.wiki.gg/wiki/File:EffectPlaceholder.png"></a></div></div></div><div class="druid-section-container"><div class="druid-row druid-row-source" data-druid-section-row="main"><div class="druid-label druid-label-source">Sources</div><div class="druid-data druid-data-source druid-data-nonempty">
 See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div></div>
 <p>Lightning Mode is an effect that...
 </p>
@@ -71,14 +68,14 @@ See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div><
 </span>
 </a>
 <a class="reference-related-card" href="../effects-imbalanced/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Imbalanced</strong>
 <small>See Countering effect</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Mechanics</strong>
 <small>These Mechanics are mechanics added by this mod:</small>

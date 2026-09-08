@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Apply various debuffs on targets on sight.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,9 +31,14 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong>
+<a class="extiw external" href="https://ice-and-fire-mod.fandom.com/wiki/Gorgon" rel="nofollow" title="iaf:Gorgon">Gorgon</a> (Requires Ice and Fire Compat)</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Snake Eye</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Snake_eye.png"><img alt="Snake eye.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/snake-eye-c89478214a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Snake Eye</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Snake_eye.png"><img alt="Snake eye.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/snake-eye-c89478214a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
@@ -61,28 +67,28 @@ Costs 80 MP every second, While held down and looking at a mob within 20 blocks 
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../shadow-motion/">
-<img src="../../../../assets/upstream/tensura/skills/shadow-motion-225f9f35e6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/shadow-motion-225f9f35e6.png"/>
 <span class="reference-related-copy">
 <strong>Shadow Motion</strong>
 <small>Melt into the shadows and move unseen by all but the most keen observers</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sound-domination/">
-<img src="../../../../assets/upstream/tensura/skills/sound-domination-dcaa2c5b51.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sound-domination-dcaa2c5b51.png"/>
 <span class="reference-related-copy">
 <strong>Sound Domination</strong>
 <small>Boosts sound skills by a large amount</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sense-soundwave/">
-<img src="../../../../assets/upstream/tensura/skills/sense-soundwave-67f30c3853.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sense-soundwave-67f30c3853.png"/>
 <span class="reference-related-copy">
 <strong>Sense Soundwave</strong>
 <small>Empower your ears to precisely locate any nearby entities</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sound-manipulation/">
-<img src="../../../../assets/upstream/tensura/skills/sound-manipulation-2d8078d04e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sound-manipulation-2d8078d04e.png"/>
 <span class="reference-related-copy">
 <strong>Sound Manipulation</strong>
 <small>Boosts sound skills by a decent amount</small>

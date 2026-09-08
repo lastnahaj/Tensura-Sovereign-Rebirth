@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Once a day, draw out your monstrous potential to double your EP and to boost your physical prowess. Doing this will leave a temporary toll on your body.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,17 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Intrinsic Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Intrinsic Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong>
+<a class="new" href="https://tensura.wiki.gg/wiki/Mobs/Dragonewt?action=edit&amp;redlink=1" rel="nofollow" title="Mobs/Dragonewt (page does not exist)">Dragonewt</a></li><li><strong>Race:</strong>
+<a href="../../../races/races-dragonewt/" title="Races/Dragonewt">Dragonewt</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Once a day, draw out your monstrous potential to double your EP and to boost your physical prowess. Doing this will leave a temporary toll on your body.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Dragon Mode</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Dragon_mode.png"><img alt="Dragon mode.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/dragon-mode-7e0b783311.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Dragon Mode</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Dragon_mode.png"><img alt="Dragon mode.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/dragon-mode-7e0b783311.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
 <a class="new" href="https://tensura.wiki.gg/wiki/Mobs/Dragonewt?action=edit&amp;redlink=1" rel="nofollow" title="Mobs/Dragonewt (page does not exist)">Dragonewt</a></div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
@@ -68,28 +75,28 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dragon-eye/">
-<img src="../../../../assets/upstream/tensura/skills/dragon-eye-d380ec2668.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/dragon-eye-d380ec2668.png"/>
 <span class="reference-related-copy">
 <strong>Dragon Eye</strong>
 <small>Use your powerful sight to access the power of any entities and see in the far distance.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dragon-skin/">
-<img src="../../../../assets/upstream/tensura/skills/dragon-skin-0748ddfcf1.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/dragon-skin-0748ddfcf1.png"/>
 <span class="reference-related-copy">
 <strong>Dragon Skin</strong>
 <small>Transform your skin into scales which become tougher as you gain more EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dragon-ear/">
-<img src="../../../../assets/upstream/tensura/skills/dragon-ear-08a1c03a41.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/dragon-ear-08a1c03a41.png"/>
 <span class="reference-related-copy">
 <strong>Dragon Ear</strong>
 <small>Use your sensitive hearing to precisely pin the location of any nearby mobs which make sound.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../drain/">
-<img src="../../../../assets/upstream/tensura/skills/drain-3be3171129.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/drain-3be3171129.png"/>
 <span class="reference-related-copy">
 <strong>Drain</strong>
 <small>Steal the vitality of your opponent and temporarily transform this skill into one of theirs to potentially turn the…</small>

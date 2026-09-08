@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Ame-no-Uzume-no-Mikoto, Lord of Entertainment
 description: You've managed to transcend the limits of your innate abilities. Now borrowing the name of a deity, make the audience smile. Enrapture them and captivate. You are an entertainer, and they are your hopeless fans.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Ame-no-Uzume-no-Mikoto, Lord of Entertainment
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -39,10 +45,10 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 500K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a href="../../unique/captivator/" title="Captivator">Captivator</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Bewilder">Bewilder</a></div></div></div></div>
+<a href="../../unique/captivator/" title="Captivator">Captivator</a>, <a class="external text" href="../../../../tensura-reference/skills/unique/bewilder/">Bewilder</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Compatibility_System">Compatibility System</span></h2>
-<p>If you rolled the Unique Skills <a class="text" href="../../unique/captivator/">Captivator</a> or <a class="external text" href="https://tensura.wiki.gg/wiki/Bewilder">Bewilder</a>, you are compatible with the other skill in this set, giving you a 5% chance to obtain the other Unique Skill from the respective skill holder.
+<p>If you rolled the Unique Skills <a class="text" href="../../unique/captivator/">Captivator</a> or <a class="external text" href="../../../../tensura-reference/skills/unique/bewilder/">Bewilder</a>, you are compatible with the other skill in this set, giving you a 5% chance to obtain the other Unique Skill from the respective skill holder.
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -77,42 +83,7 @@ True · Toggle</div></div></div><div class="druid-section-container"><div data-d
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../amaterasu/">
-<img src="../../../../assets/upstream/mysticism/skills/amaterasu-8dc95c6a4f.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Amaterasu, Lord of Shimmering Flame</strong>
-<small>Command not just your troops, but the essence of Fire and Flames itself. A mark truly worthy of a warrior of your…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antaeus/">
-<img src="../../../../assets/upstream/mysticism/skills/antaeus-aafa376928.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antaeus, Lord Of Opposition</strong>
-<small>Gravity and the forces of attraction bend to your every whim. Some could even say you are limitless.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../adephaga/">
-<img src="../../../../assets/upstream/mysticism/skills/adephaga-248b23e88a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Adephaga, Lord Of Devouring</strong>
-<small>&quot;You are no god... but I shall feast upon your essence regardless!&quot; ...Now, where have you heard that from?</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antevorta/">
-<img src="../../../../assets/upstream/mysticism/skills/antevorta-37ec35c721.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antevorta, Lord Of Predictions</strong>
-<small>The future belongs to you alone. Seize your opportunities and let none go to waste.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Susano'o, Lord of Tyranny
 description: Bend reality to ensure your enemies meet their demise. Break every obstacle and twist the fabric of existence itself. Regard all phenomena null and crumble all into dust.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Susano'o, Lord of Tyranny
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -39,7 +45,7 @@ Japanese Folklore</div></div><div class="druid-row druid-row-ObtainCost" data-dr
 750K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cook">Cook</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/cook/">Cook</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -65,42 +71,7 @@ Toggle · In-Slot</div></div></div><div class="druid-section-container"><div dat
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../sephirot/">
-<img src="../../../../assets/upstream/mysticism/skills/sephirot-41771f8516.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sephirot, Lord Of Life</strong>
-<small>Play with the fickle force of Life like it was thread on the water. Gain control over the ethereal forces of life and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../takemikazuchi/">
-<img src="../../../../assets/upstream/mysticism/skills/takemikazuchi-e51e4bdc75.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Takemikazuchi, Lord of Combat</strong>
-<small>Become the ruler of physical combat. Gain increased reaction speed and attack speed while channeling all your power…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../satanael/">
-<img src="../../../../assets/upstream/mysticism/skills/satanael-9168eacff1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Satanael, Lord of Wrath</strong>
-<small>The world bows to your endless Wrath. Unleash pure unbridled rage and use it to get infinitely stronger the longer…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tsukuyomi/">
-<img src="../../../../assets/upstream/mysticism/skills/tsukuyomi-4caed5d950.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Tsukuyomi, Lord of Moon Shadow</strong>
-<small>Manipulate perception and move beyond time and space. Manifest countless forms that copy your skills, control minds…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

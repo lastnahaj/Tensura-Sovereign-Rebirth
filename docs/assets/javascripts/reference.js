@@ -6,7 +6,7 @@
     directory.dataset.referenceReady = "true";
 
     const input = directory.querySelector(".reference-filter-input");
-    const buttons = Array.from(directory.querySelectorAll("[data-letter]"));
+    const buttons = Array.from(directory.querySelectorAll(".reference-letter-filters [data-letter]"));
     const cards = Array.from(directory.querySelectorAll(".reference-card"));
     const status = directory.querySelector(".reference-filter-status");
     const empty = directory.querySelector(".reference-no-results");
@@ -22,7 +22,7 @@
         card.hidden = !show;
         if (show) visible += 1;
       });
-      if (status) status.textContent = `Showing ${visible} of ${cards.length} articles`;
+      if (status) status.textContent = `Showing ${visible} of ${cards.length} ${directory.dataset.referenceUnit || "articles"}`;
       if (empty) empty.hidden = visible !== 0;
     };
 
@@ -38,6 +38,7 @@
         applyFilter();
       });
     });
+    applyFilter();
   }
 
   function convertSections(article) {

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Vainglory
 description: You, the one who conquers this sacred land, in control over both Shadow and Light. May all your enemies bow before the might of your Shadow Army.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Vainglory
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,7 +44,7 @@ Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-s
 100K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a href="../plunderer/" title="Plunderer">Plunderer</a> and <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Shadow_Motion">Shadow Motion</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
+<a href="../plunderer/" title="Plunderer">Plunderer</a> and <a class="external text" href="../../../../tensura-reference/skills/extra/shadow-motion/">Shadow Motion</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../../ultimate/laverna/" title="Laverna">Laverna, Lord Of Vainglory</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
@@ -67,35 +73,28 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../the-balance/">
-<img src="../../../../assets/upstream/mysticism/skills/the-balance-a9587972a4.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>The Balance</strong>
-<small>Upstream reference information for The Balance.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../victorious-harbinger/">
-<img src="../../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-victorious_harbinger.svg"/>
 <span class="reference-related-copy">
 <strong>Victorious Harbinger</strong>
 <small>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../subjugator/">
-<img src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>
 </span>
 </a>
 <a class="reference-related-card" href="../zekrom/">
-<img src="../../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-zekrom.svg"/>
 <span class="reference-related-copy">
 <strong>Zekrom</strong>
-<small>&quot;You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path…</small>
+<small>"You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path…</small>
 </span>
 </a>
 </div>

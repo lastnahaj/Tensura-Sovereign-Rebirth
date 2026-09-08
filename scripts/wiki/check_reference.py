@@ -134,7 +134,7 @@ def validate_collection(spec: dict[str, str], errors: list[str]) -> dict[str, in
     category_indexes = sorted(path for path in reference.rglob("index.md") if path != reference / "index.md")
     for path in category_indexes:
         text = path.read_text(encoding="utf-8")
-        if 'data-reference-directory=' not in text:
+        if 'data-reference-directory=' not in text and 'reference-skill-hub' not in text:
             errors.append(f"{label}: missing interactive directory structure in {path.relative_to(DOCS)}")
         hero_title = re.search(
             r'<header class="reference-directory-hero[^>]*>.*?<h1>([^<]+)</h1>',

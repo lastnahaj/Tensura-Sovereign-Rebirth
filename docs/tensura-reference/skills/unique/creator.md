@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Create Unique Skills and use them for a limited amount of time.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Skills_available_through_Skill_Creation:">Skills available through Skill Creation:</a>
 </nav>
@@ -31,11 +32,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Create Unique Skills and use them for a limited amount of time.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Creator</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Creator.png"><img alt="Creator.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/creator-251c7216e7.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Creator</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Creator.png"><img alt="Creator.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/creator-251c7216e7.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 75000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Reincarnation/Skill Reroll</div></div></div></div>
@@ -105,28 +111,28 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../cook/">
-<img src="../../../../assets/upstream/tensura/skills/cook-7a1fc4b7fc.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/cook-7a1fc4b7fc.png"/>
 <span class="reference-related-copy">
 <strong>Cook</strong>
 <small>Bend reality to ensure your enemies meet their demise by ignoring their dodge and barriers.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../degenerate/">
-<img src="../../../../assets/upstream/tensura/skills/degenerate-35b31c97b1.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/degenerate-35b31c97b1.png"/>
 <span class="reference-related-copy">
 <strong>Degenerate</strong>
 <small>Craft, decraft, customize items and absorb strength from weakened enemies.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../commander/">
-<img src="../../../../assets/upstream/tensura/skills/commander-190bf0abec.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/commander-190bf0abec.png"/>
 <span class="reference-related-copy">
 <strong>Commander</strong>
 <small>Lead the charge with your allies. Empower yourself and your allies to give yourself an overwhelming advantage.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-berserker/">
-<img src="../../../../assets/upstream/tensura/skills/divine-berserker-735c6a2d0b.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/divine-berserker-735c6a2d0b.png"/>
 <span class="reference-related-copy">
 <strong>Divine Berserker</strong>
 <small>Empower your body by a massive amount but beware the aftereffects.</small>

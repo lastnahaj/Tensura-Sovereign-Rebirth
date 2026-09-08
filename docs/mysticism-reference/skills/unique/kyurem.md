@@ -12,14 +12,12 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" alt="Kyurem source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Kyurem.png">Kyurem.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-kyurem.svg" alt="Kyurem emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything to reclaim your other parts.&quot;</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Version_history">Version history</a>
 </nav>
@@ -30,15 +28,20 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../../../tensura-reference/skills/unique/">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Reroll, To acquire if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> Or <a href="../zekrom/" title="Zekrom">Zekrom</a>. Additionally, you need 100k EP, as well as consume 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/ice-essence/" title="Ice Essence"></a></span> <a href="../../../other/ice-essence/" title="Ice Essence"><span class="sprite-text">Ice Essences</span></a></span> and 10 <span class="nowrap"><span class="sprite-file"><a href="../../../../tensura-reference/items/dragon-essence/"></a></span> <a class="external text" href="../../../../tensura-reference/items/dragon-essence/"><span class="sprite-text">Dragon Essences</span></a></span>.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything to reclaim your other parts."
 </p>
-<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Kyurem</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Kyurem.png"><img alt="Kyurem.png" data-file-height="128" data-file-width="128" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Kyurem</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Kyurem.png"><img alt="Kyurem.png" data-file-height="128" data-file-width="128" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 64.6K</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 In Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
-Reincarnation/Reroll, To acquire if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> Or <a href="../zekrom/" title="Zekrom">Zekrom</a>. Additionally, you need 100k EP, as well as consume 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/ice-essence/" title="Ice Essence"></a></span> <a href="../../../other/ice-essence/" title="Ice Essence"><span class="sprite-text">Ice Essences</span></a></span> and 10 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Dragon_Essence"></a></span> <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Essence"><span class="sprite-text">Dragon Essences</span></a></span>.</div></div></div></div>
+Reincarnation/Reroll, To acquire if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> Or <a href="../zekrom/" title="Zekrom">Zekrom</a>. Additionally, you need 100k EP, as well as consume 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/ice-essence/" title="Ice Essence"></a></span> <a href="../../../other/ice-essence/" title="Ice Essence"><span class="sprite-text">Ice Essences</span></a></span> and 10 <span class="nowrap"><span class="sprite-file"><a href="../../../../tensura-reference/items/dragon-essence/"></a></span> <a class="external text" href="../../../../tensura-reference/items/dragon-essence/"><span class="sprite-text">Dragon Essences</span></a></span>.</div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -71,32 +74,25 @@ Reincarnation/Reroll, To acquire if you didn't start with it, you must have eith
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../inverse/">
-<img src="../../../../assets/upstream/mysticism/skills/inverse-8f8d5c05b3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Inverse</strong>
-<small>W.I.P</small>
-</span>
-</a>
 <a class="reference-related-card" href="../malleable/">
-<img src="../../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-malleable.svg"/>
 <span class="reference-related-copy">
 <strong>Malleable</strong>
 <small>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hidden-ruler/">
-<img src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../melancholy/">
-<img src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>

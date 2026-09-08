@@ -12,14 +12,12 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" alt="Phaser source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Phaser.png">Phaser.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-phaser.svg" alt="Phaser emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Version_history">Version history</a>
 </nav>
@@ -30,11 +28,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../../../tensura-reference/skills/unique/">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"When a man learns to love, he must also bear the risk of carrying hate"
 </p>
-<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Phaser</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Phaser.png"><img alt="Phaser.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Phaser</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Phaser.png"><img alt="Phaser.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 72K</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True, Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -81,32 +84,25 @@ Will build up the counter if this is triggered.
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../melancholy/">
-<img src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../plunderer/">
-<img src="../../../../assets/upstream/mysticism/skills/plunderer-73d4381059.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Plunderer</strong>
-<small>Blend the shadows together for a perfect mix of discord and harmony. Rule over them and destroy all who dare to…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../malleable/">
-<img src="../../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-malleable.svg"/>
 <span class="reference-related-copy">
 <strong>Malleable</strong>
 <small>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../provider/">
-<img src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-provider.svg"/>
 <span class="reference-related-copy">
 <strong>Provider</strong>
 <small>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</small>

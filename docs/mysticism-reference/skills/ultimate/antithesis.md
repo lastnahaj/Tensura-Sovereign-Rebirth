@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Antithesis, Lord of Inversion
 description: W.I.P
 tags:
@@ -10,6 +12,10 @@ tags:
 # Antithesis, Lord of Inversion
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -61,42 +67,7 @@ True · In-Slot</div></div></div><div class="druid-section-container"><div data-
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../antevorta/">
-<img src="../../../../assets/upstream/mysticism/skills/antevorta-37ec35c721.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antevorta, Lord Of Predictions</strong>
-<small>The future belongs to you alone. Seize your opportunities and let none go to waste.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../apollo/">
-<img src="../../../../assets/upstream/mysticism/skills/apollo-85a666f85d.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Apollo, Lord Of Music</strong>
-<small>Sing the songs of war, death and destruction. Use sound to create super powerful blasts which ignore armor. Fine tune…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antaeus/">
-<img src="../../../../assets/upstream/mysticism/skills/antaeus-aafa376928.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antaeus, Lord Of Opposition</strong>
-<small>Gravity and the forces of attraction bend to your every whim. Some could even say you are limitless.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../asmodeus/">
-<img src="../../../../assets/upstream/mysticism/skills/asmodeus-22487b719d.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Asmodeus, Lord of Lust</strong>
-<small>Upstream reference information for Asmodeus, Lord of Lust.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Use magicules to strengthen your muscles.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,18 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Common Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Common Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>EP:</strong>
+3,000</li><li><strong>Copying/Stealing:</strong>
+<a class="external text" href="https://minecraft.fandom.com/wiki/Iron%20Golem?so=search" rel="nofollow">Iron Golem</a>, <a href="../../../bosses/mobs-orc-lord/" title="Mobs/Orc Lord">Orc Lord</a>/<a href="../../../bosses/mobs-orc-disaster/" title="Mobs/Orc Disaster">Disaster</a></li><li><strong>Race:</strong>
+<a href="../../../races/races-ogre/" title="Races/Ogre">Ogre</a>, <a href="../../../races/races-ghoul/" title="Races/Ghoul">Ghoul</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Use magicules to strengthen your muscles.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Strength</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Strength.png"><img alt="Strength.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/strength-419c38a709.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Common Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Strength</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Strength.png"><img alt="Strength.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/strength-419c38a709.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Common Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -60,28 +68,28 @@ Toggle (Mastered)</div></div></div><div class="druid-section-container"><div dat
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../self-regeneration/">
-<img src="../../../../assets/upstream/tensura/skills/self-regeneration-e5a1e8ed3e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/self-regeneration-e5a1e8ed3e.png"/>
 <span class="reference-related-copy">
 <strong>Self Regeneration</strong>
 <small>Speed up your body’s natural regeneration to increase your survivability.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../telepathy/">
-<img src="../../../../assets/upstream/tensura/skills/telepathy-52925b42cd.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/telepathy-52925b42cd.png"/>
 <span class="reference-related-copy">
 <strong>Telepathy</strong>
 <small>Give orders to tames when looking at them through commands.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../ranged-barrier/">
-<img src="../../../../assets/upstream/tensura/skills/ranged-barrier-83184a5927.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/ranged-barrier-83184a5927.png"/>
 <span class="reference-related-copy">
 <strong>Ranged Barrier</strong>
 <small>Place down differently sized barriers which block enemies in or out. Strong attacks or special effects can still…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../thought-communication/">
-<img src="../../../../assets/upstream/tensura/skills/thought-communication-a98ea8e225.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/thought-communication-a98ea8e225.png"/>
 <span class="reference-related-copy">
 <strong>Thought Communication</strong>
 <small>Send commands to nearby allies and become able to have them attack players.</small>

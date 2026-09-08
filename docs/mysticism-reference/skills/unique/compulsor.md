@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Compulsor
 description: WIP
 tags:
@@ -10,6 +12,10 @@ tags:
 # Compulsor
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -65,32 +71,32 @@ Reincarnation/Reroll</div></div></div></div>
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../coalescence/">
-<img src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-coalescence.svg"/>
 <span class="reference-related-copy">
 <strong>Coalescence</strong>
 <small>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</small>
 </span>
 </a>
 <a class="reference-related-card" href="../constant/">
-<img src="../../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-constant.svg"/>
 <span class="reference-related-copy">
 <strong>Constant</strong>
 <small>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../captivator/">
-<img src="../../../../assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-captivator.svg"/>
 <span class="reference-related-copy">
 <strong>Captivator</strong>
 <small>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corroder/">
-<img src="../../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corroder.svg"/>
 <span class="reference-related-copy">
 <strong>Corroder</strong>
 <small>Corroder? More toxic than my ex somehow</small>

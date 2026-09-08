@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Laverna, Lord Of Vainglory
 description: Is this the domain of the one who is regarded as the ruler of the Shadows? Perhaps it is. But only you know the real answer. Something deep inside of you stirs. Let it out, and consume all.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Laverna, Lord Of Vainglory
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -65,42 +71,7 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../invictus/">
-<img src="../../../../assets/upstream/mysticism/skills/invictus-bc6a1e3fc5.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Invictus, Lord Of Victory</strong>
-<small>You are deemed god&#x27;s chosen warrior, an emperor who does not know the meaning of loss, a being whose very presence…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../mephisto/">
-<img src="../../../../assets/upstream/mysticism/skills/mephisto-d9b9ec60e9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mephisto, Lord Of Fantasy</strong>
-<small>The over-arching Lord of Fantasy is able to destroy all and pull them into a world where the user&#x27;s desires come first…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ignis/">
-<img src="../../../../assets/upstream/mysticism/skills/ignis-50f4c96ead.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ignis, Lord of Explosions</strong>
-<small>Harness the power of fire and destruction to dominate your surroundings.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../oizys/">
-<img src="../../../../assets/upstream/mysticism/skills/oizys-bb0f400250.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Oizys, Lord Of Melancholy</strong>
-<small>The overwhelming grief of the sins of transgressions long past have come back to haunt you. Will you make the right…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

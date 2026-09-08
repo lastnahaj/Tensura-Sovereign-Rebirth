@@ -10,14 +10,12 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png" alt="Coalescence source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Coalescence.png">Coalescence.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-coalescence.svg" alt="Coalescence emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -27,11 +25,18 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../../../tensura-reference/skills/unique/">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong>
+/</li><li><strong>Race:</strong>
+/</li><li><strong>Other:</strong>
+/</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later
 </p>
-<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Coalescence</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Coalescence.png"><img alt="Coalescence.png" data-file-height="128" data-file-width="128" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Coalescence</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Coalescence.png"><img alt="Coalescence.png" data-file-height="128" data-file-width="128" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 90K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
@@ -64,32 +69,25 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../captivator/">
-<img src="../../../../assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-captivator.svg"/>
 <span class="reference-related-copy">
 <strong>Captivator</strong>
 <small>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../compulsor/">
-<img src="../../../../assets/upstream/mysticism/skills/compulsor-07eb2a68aa.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Compulsor</strong>
-<small>WIP</small>
-</span>
-</a>
 <a class="reference-related-card" href="../butcher/">
-<img src="../../../../assets/upstream/mysticism/skills/butcher-3f2223ab91.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-butcher.svg"/>
 <span class="reference-related-copy">
 <strong>Butcher</strong>
 <small>Oh, your heart, Aortic work of art, My love, my knife</small>
 </span>
 </a>
 <a class="reference-related-card" href="../constant/">
-<img src="../../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-constant.svg"/>
 <span class="reference-related-copy">
 <strong>Constant</strong>
 <small>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</small>

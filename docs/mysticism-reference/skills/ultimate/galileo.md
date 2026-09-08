@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Galileo, Lord of Observation
 description: The true-sight of one who has mastered their instincts, able to notice all at a moment's glance. Petrify your enemies and turn them into dust. Nothing escapes your watchful eye.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Galileo, Lord of Observation
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -45,9 +51,9 @@ Mastery Over <a class="external text" href="https://tensurareincarnated.wiki.gg/
 <ul><li>[Passive, In Slot] <b>Instinctual Avoidance</b> - 80% (100% on mastery) chance to dodge melee attacks. 100% chance to avoid thrown projectiles (arrows, kunai, etc).</li></ul>
 <ul><li>[Passive, In Slot] <b>True Sight</b> - All Blindness, Darkness or Nausea effects are unable to be applied to you.</li></ul>
 <ul><li>[Passive, In Slot] <b>Journeyman's Instinct</b> - Ignore the dodge chance of any entity, as well as preserve your dodge chance should it be ignored.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Danger_Sense"><b>Danger Sense</b></a> - Alarm the player should a mob lock onto them with a bell noise.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/danger-sense/"><b>Danger Sense</b></a> - Alarm the player should a mob lock onto them with a bell noise.</li></ul>
 <ul><li>[Passive, Toggle] <b>Presence Detection</b> - Highlights all mobs in a 50x50 area in blue, even invisible ones or ones under the effect of concealing abilities.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
 <ul><li>[Requires Mastery, Passive, Toggle] <b>Thought Acceleration</b> - Increases your reaction speed even further!</li></ul>
 <p>If an entity attacks you while possessing [Unpredictability], you preserve a 25% chance of dodging them.
 <br/>
@@ -74,42 +80,7 @@ Mastery Over <a class="external text" href="https://tensurareincarnated.wiki.gg/
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../dionysus/">
-<img src="../../../../assets/upstream/mysticism/skills/dionysus-2762dae7cd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Dionysus, Lord of Crashing</strong>
-<small>The true essence of the destroyer. Decimate and remove all threats from existence and delete chunks with your…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../gilgamesh/">
-<img src="../../../../assets/upstream/mysticism/skills/gilgamesh-f97b6f514b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Gilgamesh, Lord Of Treasures</strong>
-<small>There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../bushyasta/">
-<img src="../../../../assets/upstream/mysticism/skills/bushyasta-af1014b4c9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Bushyasta, Lord Of Stagnation</strong>
-<small>The antithesis to progress, you cause the world to cease all change around you, locking your enemies in temporal…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hades/">
-<img src="../../../../assets/upstream/mysticism/skills/hades-ccef86f6d3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hades, Lord of Death</strong>
-<small>Destroy all, kill all. Your reputation as the Visage of Death precedes you. Execute your enemies with clones and…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -22,6 +22,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Boosts Water skills by a large amount</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -31,9 +32,14 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Mastered <a class="mw-redirect" href="../water-manipulation/" title="Abilities/Skills/Water Manipulation">Water Manipulation</a> + 400,000 EP</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Water Domination</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Water_domination.png"><img alt="Water domination.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/water-domination-4dfc7710d0.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Water Domination</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Water_domination.png"><img alt="Water domination.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/water-domination-4dfc7710d0.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -67,28 +73,28 @@ Mastered <a class="mw-redirect" href="../water-manipulation/" title="Abilities/S
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../universal-perception/">
-<img src="../../../../assets/upstream/tensura/skills/universal-perception-0e42f18792.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/universal-perception-0e42f18792.png"/>
 <span class="reference-related-copy">
 <strong>Universal Perception</strong>
 <small>Combine all magic, sound and heat senses to detect entities around.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../water-manipulation/">
-<img src="../../../../assets/upstream/tensura/skills/water-manipulation-6d445f21b4.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/water-manipulation-6d445f21b4.png"/>
 <span class="reference-related-copy">
 <strong>Water Manipulation</strong>
 <small>Boosts Water skills by a decent amount</small>
 </span>
 </a>
 <a class="reference-related-card" href="../ultraspeed-regeneration/">
-<img src="../../../../assets/upstream/tensura/skills/ultraspeed-regeneration-861dd513ea.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/ultraspeed-regeneration-861dd513ea.png"/>
 <span class="reference-related-copy">
 <strong>Ultraspeed Regeneration</strong>
 <small>Use your massive amount of magicules to instantly regenerate from all but the most grievous of injuries.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../weather-domination/">
-<img src="../../../../assets/upstream/tensura/skills/weather-domination-95f8a873e9.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/weather-domination-95f8a873e9.png"/>
 <span class="reference-related-copy">
 <strong>Weather Domination</strong>
 <small>Use Magicules to manipulate the weather with a higher efficiency.</small>

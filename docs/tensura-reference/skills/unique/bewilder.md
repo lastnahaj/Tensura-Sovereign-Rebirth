@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Use this skill to manipulate friends and foes,compelling them to act according to your will.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Use this skill to manipulate friends and foes,compelling them to act according to your will.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Bewilder</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Bewilder.png"><img alt="Bewilder.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/bewilder-11d2090ec0.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Bewilder</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Bewilder.png"><img alt="Bewilder.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/bewilder-11d2090ec0.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 30000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 None</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
@@ -64,28 +70,28 @@ All activations are accompanied by a screech sound effect - Doesn’t work on Sp
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../berserker/">
-<img src="../../../../assets/upstream/tensura/skills/berserker-6e3ba65a97.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/berserker-6e3ba65a97.png"/>
 <span class="reference-related-copy">
 <strong>Berserker</strong>
-<small>Feed on your enemies&#x27; defeat. Gain EP from kills, destroy equipment faster, and boost your physical stats based on…</small>
+<small>Feed on your enemies' defeat. Gain EP from kills, destroy equipment faster, and boost your physical stats based on…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../chef/">
-<img src="../../../../assets/upstream/tensura/skills/chef-cc146bcafe.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/chef-cc146bcafe.png"/>
 <span class="reference-related-copy">
 <strong>Chef</strong>
 <small>Purify and renew. Remove all negative effects and restore vitality to those under your care.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../berserk/">
-<img src="../../../../assets/upstream/tensura/skills/berserk-c34438bb6a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/berserk-c34438bb6a.png"/>
 <span class="reference-related-copy">
 <strong>Berserk</strong>
 <small>Massively empower your body and infuse it with a flame aura. Allows you to go into a risky but overwhelmingly powerful…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../chosen-one/">
-<img src="../../../../assets/upstream/tensura/skills/chosen-one-b886bc9fd0.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/chosen-one-b886bc9fd0.png"/>
 <span class="reference-related-copy">
 <strong>Chosen One</strong>
 <small>Radiate authority and charisma to force fear into the hearts of your enemies and to make them follow you instead…</small>

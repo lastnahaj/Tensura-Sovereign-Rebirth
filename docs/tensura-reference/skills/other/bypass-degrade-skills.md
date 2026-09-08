@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Bypass/Degrade Skills
 description: This page is an index of all skills that fall under this umbrella term of bypass/degrade skill. For specific information on which resistances or nulls they affect, please use the link to their page. Bypass and degrade skills are able to bypass resistances and degrade nullifications to resistances. Absolute...
 tags: []
@@ -7,6 +9,10 @@ tags: []
 # Bypass/Degrade Skills
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Other Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This is a guide, not an individual skill.</p><a href="../../">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--theme">
@@ -72,31 +78,10 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../anti-skill/">
-<img src="../../../../assets/upstream/tensura/skills/anti-skill-1b8c91940a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/anti-skill-1b8c91940a.png"/>
 <span class="reference-related-copy">
 <strong>Anti-Skill</strong>
 <small>Become immune to Magic, Skills, Skill Debuffs and Battlewill, destroy barriers and block skill usage of other entities</small>
-</span>
-</a>
-<a class="reference-related-card" href="../mastery-boost-skills/">
-<img src="../../../../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mastery Boost Skills</strong>
-<small>Skills that can increase the mastery gain of other abilities.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../abilities/">
-<img src="../../../../assets/upstream/tensura/skills/skillicon-2d9be4e24c.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Abilities</strong>
-<small>The mod adds over 250 abilities in multiple categories, which can be seen below.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../skill-reset-scroll/">
-<img src="../../../../assets/upstream/tensura/skills/skill-reset-scroll-c223b0e86b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Skill Reset Scroll</strong>
-<small>This scroll will not cover the cost for a new Unique Skill. Be careful or else you can end up with no Unique Skill…</small>
 </span>
 </a>
 </div>

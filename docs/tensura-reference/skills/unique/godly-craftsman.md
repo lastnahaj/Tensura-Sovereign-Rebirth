@@ -22,6 +22,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Utilize your years of experience to create masterpieces with ease and engrave your weapons for terrifying efficiency.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Curse_Engravings">Curse Engravings</a>
 <a href="#Footnotes">Footnotes</a>
@@ -33,11 +34,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Mastering <a class="mw-redirect" href="../researcher/" title="Abilities/Skills/Researcher">Researcher</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Utilize your years of experience to create masterpieces with ease and engrave your weapons for terrifying efficiency.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Godly Craftsman</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Godly_craftsman.png"><img alt="Godly craftsman.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/godly-craftsman-ef9544404b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Godly Craftsman</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Godly_craftsman.png"><img alt="Godly craftsman.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/godly-craftsman-ef9544404b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 60000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 None</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
@@ -153,28 +159,28 @@ The same as <a class="mw-redirect" href="../researcher/" title="Abilities/Skills
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../gluttony/">
-<img src="../../../../assets/upstream/tensura/skills/gluttony-5f0be0e086.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/gluttony-5f0be0e086.png"/>
 <span class="reference-related-copy">
 <strong>Gluttony</strong>
 <small>Absorb all in your path. None can win. Receive and provide skills, gain access to a spatial storage and mimic entities.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../gourmand/">
-<img src="../../../../assets/upstream/tensura/skills/gourmand-f1ee574e80.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/gourmand-f1ee574e80.png"/>
 <span class="reference-related-copy">
 <strong>Gourmand</strong>
 <small>Feast upon the energy of your opponents. Steal Magicules with your attacks and grow stronger by devouring the power of…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../fusionist/">
-<img src="../../../../assets/upstream/tensura/skills/fusionist-55ce8ec3c6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/fusionist-55ce8ec3c6.png"/>
 <span class="reference-related-copy">
 <strong>Fusionist</strong>
 <small>Turn the world into a weapon, absorb the environment to create powerful mines and grenades.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../gourmet/">
-<img src="../../../../assets/upstream/tensura/skills/gourmet-e20cbf7201.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/gourmet-e20cbf7201.png"/>
 <span class="reference-related-copy">
 <strong>Gourmet</strong>
 <small>Absorb your enemies, gain new powers, and break down anything that stands in your way.</small>

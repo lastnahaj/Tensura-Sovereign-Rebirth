@@ -9,7 +9,7 @@ tags:
 
 # Magic Light Transform
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
+<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Extra Skills</span>
 
 **Also known as:** Abilities/Skills/Magic Light Transform
 
@@ -22,6 +22,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Gain access to Greater Light Spirit Magic and boost your light attacks while buffing yourself and debuffing enemies.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -31,9 +32,14 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../skills/extra/">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Mastered <a class="mw-redirect" href="../../skills/intrinsic/light-transform/" title="Abilities/Skills/Light Transform">Light Transform</a> + 400,000 EP</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Magic Light Transform</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_light_transform.png"><img alt="Magic light transform.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-light-transform-9f1477bc7e.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Magic Light Transform</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_light_transform.png"><img alt="Magic light transform.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-light-transform-9f1477bc7e.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
@@ -67,32 +73,32 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/light-transform/" t
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Magic</a>
+<a href="../../skills/extra/">Browse all Extra Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../magic-jamming/">
-<img src="../../../assets/upstream/tensura/magic/magic-jamming-814637df1f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-jamming-814637df1f.png"/>
 <span class="reference-related-copy">
 <strong>Magic Jamming</strong>
 <small>Interferes with Skills, Magics, Flight and Transformations (with Mastery)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magic-nullification/">
-<img src="../../../assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png"/>
 <span class="reference-related-copy">
 <strong>Magic Nullification</strong>
 <small>!!! Unobtainable without cheats !!!</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magic-flame-transform/">
-<img src="../../../assets/upstream/tensura/magic/magic-flame-transform-1aaef66ff5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-flame-transform-1aaef66ff5.png"/>
 <span class="reference-related-copy">
 <strong>Magic Flame Transform</strong>
 <small>Gain access to Greater Flame Spirit Magic and boost your fire attacks while buffing yourself and debuffing enemies.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magic-ore-shard/">
-<img src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png"/>
 <span class="reference-related-copy">
 <strong>Magic Ore Shard</strong>
 <small>Obtained by mining Magic Ore (or Deepslate Magic Ore ) with a Netherite Pickaxe Or by slaying a Metal Slime</small>

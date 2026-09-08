@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Summon Wasp
 description: Spawn Army Wasps straight from your womb. Is that too graphic? Well, it is.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Summon Wasp
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -55,32 +61,32 @@ Queen Wasp and Higher</div></div></div></div>
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Intrinsic Skills</a>
+<a href="../../../../tensura-reference/skills/intrinsic/">Browse all Intrinsic Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../spark/">
-<img src="../../../../assets/upstream/mysticism/skills/spark-ae86cc4417.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-spark.svg"/>
 <span class="reference-related-copy">
 <strong>Spark</strong>
-<small>Light your fists and weaponry ablaze.&quot;</small>
+<small>Light your fists and weaponry ablaze."</small>
 </span>
 </a>
 <a class="reference-related-card" href="../tenacity/">
-<img src="../../../../assets/upstream/mysticism/skills/missing-model-inventory-je2-7c0a10e5b2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-tenacity.svg"/>
 <span class="reference-related-copy">
 <strong>Tenacity</strong>
 <small>Become tenacious and repair your body. Since magic and mana itself has rejected you, utilise your pure aura alone.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../relapse/">
-<img src="../../../../assets/upstream/mysticism/skills/relapse-757e4d38bd.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-relapse.svg"/>
 <span class="reference-related-copy">
 <strong>Relapse</strong>
 <small>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-transform/">
-<img src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-poison_transform.svg"/>
 <span class="reference-related-copy">
 <strong>Poison Transform</strong>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>

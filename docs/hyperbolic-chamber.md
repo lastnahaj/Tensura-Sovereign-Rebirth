@@ -9,7 +9,7 @@ description: How to enter Ascension's dangerous training dimension and use its t
 
 ## How to enter
 
-1. Master **Gate** and **Sacred Haki** to obtain [Hyperbolic Passage](tensura-reference/skills/ascension.md#hyperbolic-passage).
+1. Master **Gate** and **Sacred Haki** to obtain [Hyperbolic Passage](tensura-reference/skills/extra/hyperbolic-passage.md).
 2. Equip Hyperbolic Passage and use it to open the route into the chamber.
 3. Bring enough Magicule to withstand the environment and a dependable way home.
 

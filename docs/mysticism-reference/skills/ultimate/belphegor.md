@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Belphegor, Lord of Sloth
 description: Your enemies falls to their knees around you, unable to support your aura of stillness.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Belphegor, Lord of Sloth
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -43,7 +49,7 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive - True] <b>Lord of Sloth</b>: Upon acquiring the skill, turn the user into a majin if they aren't already one, or if they aren't chaos aligned.</li></ul>
-<ul><li>[Passive - Toggle] <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a>: Increase magic casting speed multiplier by 2, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</li></ul>
+<ul><li>[Passive - Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a>: Increase magic casting speed multiplier by 2, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</li></ul>
 <ul><li>[Passive - Toggle] <b>Phantasmal Strike</b>: Applies an effect that deals 5% of the target's spiritual HP (10 when mastered) + 100 spiritual damage to the users attacks.</li></ul>
 <p><br/>
 </p>
@@ -64,42 +70,7 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../beelzebub/">
-<img src="../../../../assets/upstream/mysticism/skills/beelzebub-329e0e714b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Beelzebub, Lord Of Gourmet</strong>
-<small>Damn, so hungry bring me nuggets</small>
-</span>
-</a>
-<a class="reference-related-card" href="../bushyasta/">
-<img src="../../../../assets/upstream/mysticism/skills/bushyasta-af1014b4c9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Bushyasta, Lord Of Stagnation</strong>
-<small>The antithesis to progress, you cause the world to cease all change around you, locking your enemies in temporal…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../asmodeus/">
-<img src="../../../../assets/upstream/mysticism/skills/asmodeus-22487b719d.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Asmodeus, Lord of Lust</strong>
-<small>Upstream reference information for Asmodeus, Lord of Lust.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../dionysus/">
-<img src="../../../../assets/upstream/mysticism/skills/dionysus-2762dae7cd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Dionysus, Lord of Crashing</strong>
-<small>The true essence of the destroyer. Decimate and remove all threats from existence and delete chunks with your…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

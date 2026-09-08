@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Sariel, Lord Of Hope
 description: A beacon of unwavering hope and heroism, inspiring allies and unleashing divine resolve to shape destiny.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Sariel, Lord Of Hope
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -75,42 +81,7 @@ If the target possesses an Ultimate Skill, they will be protected from instant d
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../sandalphon/">
-<img src="../../../../assets/upstream/mysticism/skills/sandalphon-03d1cf55d0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sandalphon, Lord Of Condemnation</strong>
-<small>Serve as the hammer of Justice, delivering retribution upon those who have defied it.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../satanael/">
-<img src="../../../../assets/upstream/mysticism/skills/satanael-9168eacff1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Satanael, Lord of Wrath</strong>
-<small>The world bows to your endless Wrath. Unleash pure unbridled rage and use it to get infinitely stronger the longer…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../pernida/">
-<img src="../../../../assets/upstream/mysticism/skills/pernida-d43613bb66.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Pernida, Lord Of Compliance</strong>
-<small>The Left Hand of God</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sephirot/">
-<img src="../../../../assets/upstream/mysticism/skills/sephirot-41771f8516.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sephirot, Lord Of Life</strong>
-<small>Play with the fickle force of Life like it was thread on the water. Gain control over the ethereal forces of life and…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

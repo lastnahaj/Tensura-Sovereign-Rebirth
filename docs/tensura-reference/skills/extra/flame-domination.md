@@ -22,6 +22,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Boosts the power of fire skills by a large amount.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -31,11 +32,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Mastered <a class="mw-redirect" href="../flame-manipulation/" title="Abilities/Skills/Flame Manipulation">Flame Manipulation</a> + 400,000 EP</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Boosts the power of fire skills by a large amount.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Flame Domination</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Flame_domination.png"><img alt="Flame domination.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/flame-domination-0821399091.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Flame Domination</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Flame_domination.png"><img alt="Flame domination.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/flame-domination-0821399091.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -65,28 +71,28 @@ Mastered <a class="mw-redirect" href="../flame-manipulation/" title="Abilities/S
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../earth-manipulation/">
-<img src="../../../../assets/upstream/tensura/skills/earth-manipulation-6b05493b28.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/earth-manipulation-6b05493b28.png"/>
 <span class="reference-related-copy">
 <strong>Earth Manipulation</strong>
 <small>Boosts the power of Earth abilities by a decent amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../flame-manipulation/">
-<img src="../../../../assets/upstream/tensura/skills/flame-manipulation-39ef1ccc7f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/flame-manipulation-39ef1ccc7f.png"/>
 <span class="reference-related-copy">
 <strong>Flame Manipulation</strong>
 <small>Boosts the power of fire skills by a decent amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth-domination/">
-<img src="../../../../assets/upstream/tensura/skills/earth-domination-f19574bee0.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/earth-domination-f19574bee0.png"/>
 <span class="reference-related-copy">
 <strong>Earth Domination</strong>
 <small>Boosts the power of Earth skills by a large amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../godwolf-sense/">
-<img src="../../../../assets/upstream/tensura/skills/godwolf-sense-6cdc4c44ab.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/godwolf-sense-6cdc4c44ab.png"/>
 <span class="reference-related-copy">
 <strong>Godwolf Sense</strong>
 <small>Improve your senses to be able to see in the dark or even spot invisible entities nearby.</small>

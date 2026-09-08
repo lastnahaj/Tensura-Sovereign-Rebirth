@@ -24,12 +24,15 @@ def route(page: str) -> str:
 def build() -> dict:
     nodes = {}
     documents = {}
+    document_sources = {}
     titles = {}
-    for source in ("tensura", "mysticism"):
-        manifest = json.loads((ROOT / "data" / f"upstream_{source}_pages.json").read_text(encoding="utf-8"))
+    from skill_catalogue import ACTIVE, nightmares_manifest
+    manifests = {source: json.loads((ROOT / "data" / f"upstream_{source}_pages.json").read_text(encoding="utf-8")) for source in ("tensura", "mysticism")}
+    manifests["nightmares"] = nightmares_manifest()
+    for source, manifest in manifests.items():
         for record in manifest["pages"]:
             category = record["category"]
-            if category not in {"races", "battlewill", "magic"} and not category.startswith("skills/"):
+            if category not in {"races", "battlewill", "magic", "resistances"} and not category.startswith("skills/"):
                 continue
             page = record["local_page"]
             key = route(page)
@@ -39,7 +42,8 @@ def build() -> dict:
             asset = posixpath.normpath(posixpath.join(key, overview["src"])) if overview else ""
             nodes[key] = {"title": record["display_title"], "image": asset, "category": category}
             documents[key] = soup
-            titles.setdefault((source + "-reference", record["display_title"].casefold()), []).append(key)
+            document_sources[key] = source
+            titles.setdefault((source, record["display_title"].casefold()), []).append(key)
 
     edges = {}
 
@@ -75,7 +79,7 @@ def build() -> dict:
                     values.append(target)
             if not values:
                 for value in re.split(r"[,·/]|\bor\b", data.get_text(" ", strip=True)):
-                    choices = titles.get((key.split("/")[0], value.strip().casefold()), [])
+                    choices = titles.get((document_sources[key], value.strip().casefold()), [])
                     if len(choices) == 1:
                         values.append(choices[0])
             for target in values:
@@ -83,7 +87,7 @@ def build() -> dict:
                 if not same_kind:
                     continue
                 if previous or combination:
-                    connect(target, key, "Mastery / combination" if combination else "Evolution", data.get_text(" ", strip=True) if combination else "")
+                    connect(target, key, "Mastery / combination" if combination else "Evolution", data.get_text(" ", strip=True))
                 else:
                     connect(key, target, label)
 
@@ -91,6 +95,8 @@ def build() -> dict:
     for entry in extra["entries"]:
         key = route(entry["local_page"]) + ("#" + entry["fragment"] if entry["fragment"] else "")
         nodes[key] = {"title": entry["display_title"], "image": entry["asset"], "category": entry["category"]}
+    for entry in json.loads((ROOT / "data/skill_reference.json").read_text(encoding="utf-8"))["entries"]:
+        nodes[route(entry["local_page"])] = {"title": entry["display_title"], "image": entry["asset"], "category": entry["category"]}
     for page in extra["pages"]:
         soup = BeautifulSoup((DOCS / page).read_text(encoding="utf-8"), "html.parser")
         family_route = route(page)
@@ -101,17 +107,17 @@ def build() -> dict:
             start = family_route + "#" + card["id"]
             links = card.select(".race-card-route > :last-child a[href], .race-card-route > a:last-child[href]")
             for link in links:
-                target = family_route + link["href"]
+                parsed = urlsplit(link["href"])
+                target = posixpath.normpath(posixpath.join(family_route, parsed.path)).rstrip("/") + "/#" + parsed.fragment
                 connect(start, target, "Evolution")
 
-    skill = "tensura-reference/skills/ascension/#"
-    ultimate = "tensura-reference/skills/ultimate/ascension-ultimates/#"
-    connect(skill + "energy-charge", skill + "maximum-charge", "Mastery")
-    connect(skill + "energy-charge", skill + "magicule-attunement", "Mastery / combination", "Master Energy Charge, possess unmastered Haki, and reach 20,000 EP.")
-    connect(skill + "magicule-attunement", skill + "magicule-resonance", "Mastery")
-    connect(skill + "magicule-resonance", skill + "magicule-dominion", "Mastery")
+    skill = {Path(entry["local_page"]).stem: route(entry["local_page"]) for entry in extra["entries"] if entry["category"] != "races"}
+    connect(skill["energy-charge"], skill["maximum-charge"], "Mastery")
+    connect(skill["energy-charge"], skill["magicule-attunement"], "Mastery / combination", "Master Energy Charge, possess unmastered Haki, and reach 20,000 EP.")
+    connect(skill["magicule-attunement"], skill["magicule-resonance"], "Mastery")
+    connect(skill["magicule-resonance"], skill["magicule-dominion"], "Mastery")
     for start, end in (("great-mage", "the-timeless-mage"), ("imprisoned-jester", "the-unbound-jester"), ("bubble-majin", "the-evil-majin"), ("dragon-slayer", "the-slayer-of-dragons"), ("sealer", "the-one-who-seals")):
-        connect(skill + start, ultimate + end, "Ultimate awakening", "Master the Unique and satisfy the altar's universal and Ultimate-specific gates.")
+        connect(skill[start], skill[end], "Ultimate awakening", "Master the Unique and satisfy the altar's universal and Ultimate-specific gates.")
     for start, end, requirement in (
         ("tensura-reference/magic/magic-jamming/", "blockade", "Master Magic Jamming and kill 30 Vexes."),
         ("tensura-reference/magic/gate/", "hyperbolic-passage", "Master Gate and Sacred Haki."),
@@ -119,8 +125,21 @@ def build() -> dict:
         ("tensura-reference/skills/extra/sacred-haki/", "hyperbolic-passage", "Master Sacred Haki and Gate."),
         ("tensura-reference/skills/extra/demon-lord-haki/", "hell-passage", "Master Gate while Demon Lord Haki is active."),
     ):
-        connect(start, skill + end, "Unlock requirement", requirement)
-    return {"nodes": nodes, "edges": sorted(edges.values(), key=lambda edge: (edge["from"], edge["to"]))}
+        connect(start, skill[end], "Unlock requirement", requirement)
+    from skill_catalogue import catalogue
+    policy = catalogue()
+    for page, decision in policy["pages"].items():
+        key = route(page)
+        if decision["status"] not in ACTIVE:
+            nodes.pop(key, None)
+        elif key in nodes:
+            nodes[key]["category"] = decision["category"]
+            if decision["namespace"] in {"mysticism", "trnightmare"}:
+                nodes[key]["image"] = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
+            if decision["status"] == "reference":
+                nodes[key]["verification"] = "reference-build-only"
+    current_edges = [edge for edge in edges.values() if edge["from"] in nodes and edge["to"] in nodes]
+    return {"nodes": nodes, "edges": sorted(current_edges, key=lambda edge: (edge["from"], edge["to"]))}
 
 
 def main() -> int:

@@ -11,7 +11,7 @@ description: A visual first-hour guide to joining TSR, surviving reincarnation, 
 <h1>Begin your sovereign story</h1>
 <p>Join the realm, understand your reincarnation, secure a home, and choose the first path that sounds fun. This guide turns your opening hour into a few useful decisions.</p>
 <div class="onboarding-hero-actions">
-<a class="md-button md-button--primary" href="#your-first-hour">Start the first-hour route</a>
+<a class="md-button md-button--primary" href="./#your-first-hour">Start the first-hour route</a>
 <a class="md-button" href="../current-modlist/">Browse the current modlist</a>
 </div>
 </div>
@@ -133,7 +133,7 @@ Once food, shelter, controls, and claims are handled, use this three-part route 
 
 <div class="progression-preview-grid">
 <a href="../tensura-reference/races/evolution-trees/"><img src="../assets/ascension/races/monkey.jpg" alt="A celestial monkey warrior"><span><b>1 · Map your race</b>Open the full evolution family, compare every stage, and note EP, status, naming, or essence gates.</span></a>
-<a href="../tensura-reference/skills/ascension/"><img src="../assets/ascension/skills/magicule_attunement.png" alt="Magicule Attunement icon"><span><b>2 · Map your skills</b>Follow mastery unlocks forward so Energy Charge, Magicule progression, and eligible Uniques do not become dead ends.</span></a>
+<a href="../tensura-reference/skills/"><img src="../assets/ascension/skills/magicule_attunement.png" alt="Magicule Attunement icon"><span><b>2 · Map your skills</b>Follow mastery unlocks forward so Energy Charge, Magicule progression, and eligible Uniques do not become dead ends.</span></a>
 <a href="../ascension-and-awakening/"><img src="../assets/ascension/mechanics/ultimate_catalyst_recipe.png" alt="Ultimate Catalyst recipe"><span><b>3 · Prepare the ritual</b>Build the altar, craft a catalyst, meet the universal gates, and evolve a mastered Unique into its mapped Ultimate.</span></a>
 </div>
 

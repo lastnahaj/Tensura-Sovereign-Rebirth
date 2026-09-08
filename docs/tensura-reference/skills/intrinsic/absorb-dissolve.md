@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Dissolve specific items to instantly consume them.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Consumable_Stuff">Consumable Stuff</a>
 </nav>
@@ -31,11 +32,17 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Intrinsic Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Intrinsic Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong>
+<a href="../../../mobs/mobs-slime/" title="Mobs/Slime">Slime</a></li><li><strong>Race:</strong>
+<a href="../../../races/races-slime/" title="Races/Slime">Slime</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Dissolve specific items to instantly consume them.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Absorb &amp; Dissolve</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Absorb_and_dissolve.png"><img alt="Absorb and dissolve.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/absorb-and-dissolve-7e27621142.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Absorb &amp; Dissolve</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Absorb_and_dissolve.png"><img alt="Absorb and dissolve.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/absorb-and-dissolve-7e27621142.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Copying/Stealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Copying/Stealing">Copying/Stealing</div><div class="druid-data druid-data-Copying/Stealing druid-data-nonempty">
 <a href="../../../mobs/mobs-slime/" title="Mobs/Slime">Slime</a></div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
@@ -113,28 +120,28 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../beast-transformation/">
-<img src="../../../../assets/upstream/tensura/skills/beast-transformation-a316085e95.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/beast-transformation-a316085e95.png"/>
 <span class="reference-related-copy">
 <strong>Beast Transformation</strong>
 <small>Transform into a beast to restore your vitality and boost your physical body. The transformation will grant great…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../blood-mist/">
-<img src="../../../../assets/upstream/tensura/skills/blood-mist-a9e2a024f6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/blood-mist-a9e2a024f6.png"/>
 <span class="reference-related-copy">
 <strong>Blood Mist</strong>
 <small>Spill your own blood to summon a mist which steals the vitality of your enemies and can be blown up to harm any nearby…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../body-armor/">
-<img src="../../../../assets/upstream/tensura/skills/body-armor-047828140c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/body-armor-047828140c.png"/>
 <span class="reference-related-copy">
 <strong>Body Armor</strong>
 <small>Protect yourself from harm by summoning armoursaurus scales around your body.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../charm/">
-<img src="../../../../assets/upstream/tensura/skills/charm-d93cc8d78e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/charm-d93cc8d78e.png"/>
 <span class="reference-related-copy">
 <strong>Charm</strong>
 <small>Use your inherent power to turn your opponents neutral or to temporarily dominate weak opponents.</small>

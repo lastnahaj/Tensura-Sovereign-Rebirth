@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Amaterasu, Lord of Shimmering Flame
 description: Command not just your troops, but the essence of Fire and Flames itself. A mark truly worthy of a warrior of your caliber.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Amaterasu, Lord of Shimmering Flame
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -42,9 +48,9 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Universal_Perception"><b>Universal Perception</b></a> - Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
-<ul><li>[Passive, in Slot] <a class="external text" href="https://tensura.wiki.gg/wiki/Demon_Lord_Haki"><b>Demon Lord Haki Coating</b></a> - Bypass all resistances and degrade nullifications to resistances.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/universal-perception/"><b>Universal Perception</b></a> - Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
+<ul><li>[Passive, in Slot] <a class="external text" href="../../../../tensura-reference/skills/extra/demon-lord-haki/"><b>Demon Lord Haki Coating</b></a> - Bypass all resistances and degrade nullifications to resistances.</li></ul>
 <ul><li>[Passive, Toggle] <b>Will Control</b> - All subordinates in your vicinity gain Inspiration 2 (+60% Stat boost). Increases to Inspiration 4 (+120% Stat boost) on mastery.</li></ul>
 <ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Spacial_Domination"><b>Spatial Domination (4x)</b></a> (upgrades to <b>Spacetime Manipulation</b> on mastery)</li></ul>
 <ul><li>[Mastery, True Passive] <b>Spacetime Manipulation</b> - Ignore slowing effects and infinite prison.</li></ul>
@@ -52,10 +58,10 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </p>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
 <ul><li>[Active] <b>Will Control</b> - Charm.</li></ul>
-<ul><li>[Active] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Communication"><b>Thought Communication</b></a> - Targetting: From commander.</li></ul>
-<ul><li>[Active] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Communication"><b>Thought Communication</b></a> - Movement: From commander.</li></ul>
-<ul><li>[Active] <a class="external text" href="https://tensura.wiki.gg/wiki/Multilayer_Barrier"><b>Multilayer Barrier</b></a> - Equip yourself with a barrier that acts as additional HP.</li></ul>
-<ul><li>[Art, requires Learning] (Requires <a class="external text" href="https://tensura.wiki.gg/wiki/Haze"><b>Battlewill: Haze</b></a>) <a class="external text" href="https://tensura.wiki.gg/wiki/Black_Flame"><b>Haze: Black Flame</b></a> - Coat yourself in Black Flame and Haze, becoming invisible while held and setting mobs around you ablaze with Black Flames. Costs: 5K MP.</li></ul>
+<ul><li>[Active] <a class="external text" href="../../../../tensura-reference/skills/common/thought-communication/"><b>Thought Communication</b></a> - Targetting: From commander.</li></ul>
+<ul><li>[Active] <a class="external text" href="../../../../tensura-reference/skills/common/thought-communication/"><b>Thought Communication</b></a> - Movement: From commander.</li></ul>
+<ul><li>[Active] <a class="external text" href="../../../../tensura-reference/skills/extra/multilayer-barrier/"><b>Multilayer Barrier</b></a> - Equip yourself with a barrier that acts as additional HP.</li></ul>
+<ul><li>[Art, requires Learning] (Requires <a class="external text" href="../../../../tensura-reference/battlewill/haze/"><b>Battlewill: Haze</b></a>) <a class="external text" href="../../../../tensura-reference/skills/extra/black-flame/"><b>Haze: Black Flame</b></a> - Coat yourself in Black Flame and Haze, becoming invisible while held and setting mobs around you ablaze with Black Flames. Costs: 5K MP.</li></ul>
 <ul><li>[Art, requires Learning] (<b>Haze: Black Flame</b> must be mastered before it becomes available.) <b>Prominence Acceleration</b> - Coat yourself in Black Flame and Demon Lord Haki, dashing forward and dealing (300 + User’s Base Attack) x 3 (x5 with mastery). Costs: 250K MP &amp; 250K AP.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>
@@ -67,42 +73,7 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../adephaga/">
-<img src="../../../../assets/upstream/mysticism/skills/adephaga-248b23e88a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Adephaga, Lord Of Devouring</strong>
-<small>&quot;You are no god... but I shall feast upon your essence regardless!&quot; ...Now, where have you heard that from?</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ame-no-uzume-no-mikoto/">
-<img src="../../../../assets/upstream/mysticism/skills/ame-no-uzume-no-mikoto-acting-5c85b321e2.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ame-no-Uzume-no-Mikoto, Lord of Entertainment</strong>
-<small>You&#x27;ve managed to transcend the limits of your innate abilities. Now borrowing the name of a deity, make the audience…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antaeus/">
-<img src="../../../../assets/upstream/mysticism/skills/antaeus-aafa376928.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antaeus, Lord Of Opposition</strong>
-<small>Gravity and the forces of attraction bend to your every whim. Some could even say you are limitless.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antevorta/">
-<img src="../../../../assets/upstream/mysticism/skills/antevorta-37ec35c721.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antevorta, Lord Of Predictions</strong>
-<small>The future belongs to you alone. Seize your opportunities and let none go to waste.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

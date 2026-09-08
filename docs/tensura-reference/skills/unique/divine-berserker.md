@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Empower your body by a massive amount but beware the aftereffects.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+<a href="../../../races/races-divine-fighter/" title="Races/Divine Fighter">Divine Fighter</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Empower your body by a massive amount but beware the aftereffects.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Divine Berserker</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Divine_berserker.png"><img alt="Divine berserker.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/divine-berserker-735c6a2d0b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Divine Berserker</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Divine_berserker.png"><img alt="Divine berserker.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/divine-berserker-735c6a2d0b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 60000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 None</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
@@ -57,28 +63,28 @@ None</div></div></div><div class="druid-section-container"><div data-druid-secti
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../degenerate/">
-<img src="../../../../assets/upstream/tensura/skills/degenerate-35b31c97b1.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/degenerate-35b31c97b1.png"/>
 <span class="reference-related-copy">
 <strong>Degenerate</strong>
 <small>Craft, decraft, customize items and absorb strength from weakened enemies.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../engorger/">
-<img src="../../../../assets/upstream/tensura/skills/engorger-34ee66a2e2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/engorger-34ee66a2e2.png"/>
 <span class="reference-related-copy">
 <strong>Engorger</strong>
 <small>Increase your size and boost your physical stats.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../creator/">
-<img src="../../../../assets/upstream/tensura/skills/creator-251c7216e7.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/creator-251c7216e7.png"/>
 <span class="reference-related-copy">
 <strong>Creator</strong>
 <small>Create Unique Skills and use them for a limited amount of time.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../envy/">
-<img src="../../../../assets/upstream/tensura/skills/envy-56ec3becb6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/envy-56ec3becb6.png"/>
 <span class="reference-related-copy">
 <strong>Envy</strong>
 <small>Absorb strength from enemies, buff yourself and debilitate your enemies.</small>

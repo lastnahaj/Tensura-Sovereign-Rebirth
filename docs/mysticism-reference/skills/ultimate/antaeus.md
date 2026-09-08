@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Antaeus, Lord Of Opposition
 description: Gravity and the forces of attraction bend to your every whim. Some could even say you are limitless.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Antaeus, Lord Of Opposition
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -43,8 +49,8 @@ Mastery Over <a class="external text" href="https://tensurareincarnated.wiki.gg/
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, Toggle] <b>Limitless</b> - All projectiles will be halted two blocks from the user, and the user is also immune to all projectiles provided they are not magic. Additionally, no entity can walk in a one block radius from the user, and the user becomes immune to fall damage. Susanoo’s Fantasy Destruction will bypass Limitless.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a> - Increase magic casting speed multiplier by 2, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Universal_Perception"><b>Universal Perception</b></a> -  Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a> - Increase magic casting speed multiplier by 2, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/universal-perception/"><b>Universal Perception</b></a> -  Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
 <ul><li>[Passive, True] <b>True Gravity Domination</b> - Player’s flight is not affected by magic jamming.</li></ul>
 <p><br/>
 </p>
@@ -73,42 +79,7 @@ Mastery Over <a class="external text" href="https://tensurareincarnated.wiki.gg/
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../ame-no-uzume-no-mikoto/">
-<img src="../../../../assets/upstream/mysticism/skills/ame-no-uzume-no-mikoto-acting-5c85b321e2.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ame-no-Uzume-no-Mikoto, Lord of Entertainment</strong>
-<small>You&#x27;ve managed to transcend the limits of your innate abilities. Now borrowing the name of a deity, make the audience…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antevorta/">
-<img src="../../../../assets/upstream/mysticism/skills/antevorta-37ec35c721.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antevorta, Lord Of Predictions</strong>
-<small>The future belongs to you alone. Seize your opportunities and let none go to waste.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../amaterasu/">
-<img src="../../../../assets/upstream/mysticism/skills/amaterasu-8dc95c6a4f.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Amaterasu, Lord of Shimmering Flame</strong>
-<small>Command not just your troops, but the essence of Fire and Flames itself. A mark truly worthy of a warrior of your…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antithesis/">
-<img src="../../../../assets/upstream/mysticism/skills/antithesis-2df7b7f87b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antithesis, Lord of Inversion</strong>
-<small>W.I.P</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

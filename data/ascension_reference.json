@@ -1,14 +1,45 @@
 {
   "version": 1,
   "pages": [
+    "tensura-reference/battlewill/energy-charge.md",
+    "tensura-reference/battlewill/maximum-charge.md",
+    "tensura-reference/battlewill/shadow-dummy.md",
     "tensura-reference/races/angel.md",
     "tensura-reference/races/djinn.md",
     "tensura-reference/races/frog.md",
     "tensura-reference/races/gazer.md",
     "tensura-reference/races/kitsune.md",
     "tensura-reference/races/monkey.md",
-    "tensura-reference/skills/ascension.md",
-    "tensura-reference/skills/ultimate/ascension-ultimates.md"
+    "tensura-reference/skills/common/magicule-nourishment.md",
+    "tensura-reference/skills/common/magnetized-vacuum.md",
+    "tensura-reference/skills/common/prickly-hands.md",
+    "tensura-reference/skills/extra/blockade.md",
+    "tensura-reference/skills/extra/blood-frenzy.md",
+    "tensura-reference/skills/extra/hell-passage.md",
+    "tensura-reference/skills/extra/hyperbolic-passage.md",
+    "tensura-reference/skills/extra/intimidating-roar.md",
+    "tensura-reference/skills/extra/magic-scribe.md",
+    "tensura-reference/skills/extra/magicule-attunement.md",
+    "tensura-reference/skills/extra/magicule-dominion.md",
+    "tensura-reference/skills/extra/magicule-resonance.md",
+    "tensura-reference/skills/extra/purple-lightning.md",
+    "tensura-reference/skills/extra/toxic-skin.md",
+    "tensura-reference/skills/intrinsic/angel-wings.md",
+    "tensura-reference/skills/intrinsic/sharpened-claws.md",
+    "tensura-reference/skills/ultimate/the-evil-majin.md",
+    "tensura-reference/skills/ultimate/the-one-who-seals.md",
+    "tensura-reference/skills/ultimate/the-slayer-of-dragons.md",
+    "tensura-reference/skills/ultimate/the-timeless-mage.md",
+    "tensura-reference/skills/ultimate/the-unbound-jester.md",
+    "tensura-reference/skills/unique/bubble-majin.md",
+    "tensura-reference/skills/unique/deus-sanguis.md",
+    "tensura-reference/skills/unique/dragon-slayer.md",
+    "tensura-reference/skills/unique/eye-of-mind.md",
+    "tensura-reference/skills/unique/great-mage.md",
+    "tensura-reference/skills/unique/imprisoned-jester.md",
+    "tensura-reference/skills/unique/king-of-curses.md",
+    "tensura-reference/skills/unique/sealer.md",
+    "tensura-reference/skills/unique/trash-gamer.md"
   ],
   "entries": [
     {
@@ -62,272 +93,272 @@
     {
       "category": "skills/intrinsic",
       "display_title": "Angel Wings",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "angel-wings",
+      "local_page": "tensura-reference/skills/intrinsic/angel-wings.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/angel_wings.png",
       "summary": "Sustained flight intrinsic to the Angel race line."
     },
     {
       "category": "skills/intrinsic",
       "display_title": "Sharpened Claws",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "sharpened-claws",
+      "local_page": "tensura-reference/skills/intrinsic/sharpened-claws.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/sharpened_claws.png",
       "summary": "Kitsune claw damage with a mastered upgrade."
     },
     {
       "category": "skills/common",
       "display_title": "Magicule Nourishment",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magicule-nourishment",
+      "local_page": "tensura-reference/skills/common/magicule-nourishment.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magicule_nourishment.png",
       "summary": "Convert Magicules into Hunger."
     },
     {
       "category": "skills/common",
       "display_title": "Magnetized Vacuum",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magnetized-vacuum",
+      "local_page": "tensura-reference/skills/common/magnetized-vacuum.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magnetized_vacuum.png",
       "summary": "Spend Magicules to pull nearby items."
     },
     {
       "category": "skills/common",
       "display_title": "Prickly Hands",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "prickly-hands",
+      "local_page": "tensura-reference/skills/common/prickly-hands.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/prickly_hands.png",
       "summary": "Apply Bleeding with every melee hit."
     },
     {
       "category": "skills/extra",
       "display_title": "Angel Wings",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "angel-wings",
+      "local_page": "tensura-reference/skills/intrinsic/angel-wings.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/angel_wings.png",
       "summary": "Sustained flight for the Angel race line."
     },
     {
       "category": "skills/extra",
       "display_title": "Blockade",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "blockade",
+      "local_page": "tensura-reference/skills/extra/blockade.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/blockade.png",
       "summary": "Suppress an enemy's regeneration skills."
     },
     {
       "category": "skills/extra",
       "display_title": "Blood Frenzy",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "blood-frenzy",
+      "local_page": "tensura-reference/skills/extra/blood-frenzy.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/blood_frenzy.png",
       "summary": "Trade health for stronger, faster attacks."
     },
     {
       "category": "skills/extra",
       "display_title": "Hell Passage",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "hell-passage",
+      "local_page": "tensura-reference/skills/extra/hell-passage.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/hell_passage.png",
       "summary": "Open a route to Hell and back."
     },
     {
       "category": "skills/extra",
       "display_title": "Hyperbolic Passage",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "hyperbolic-passage",
+      "local_page": "tensura-reference/skills/extra/hyperbolic-passage.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/hyperbolic_passage.png",
       "summary": "Enter the 3× EP training dimension."
     },
     {
       "category": "skills/extra",
       "display_title": "Intimidating Roar",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "intimidating-roar",
+      "local_page": "tensura-reference/skills/extra/intimidating-roar.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/intimidating_roar.png",
       "summary": "Inflict Fear and Weakness in an 8-block area."
     },
     {
       "category": "skills/extra",
       "display_title": "Magic Scribe",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magic-scribe",
+      "local_page": "tensura-reference/skills/extra/magic-scribe.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magic_scribe.png",
       "summary": "Create compatible Iron's Spells scrolls."
     },
     {
       "category": "skills/extra",
       "display_title": "Magicule Attunement",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magicule-attunement",
+      "local_page": "tensura-reference/skills/extra/magicule-attunement.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magicule_attunement.png",
       "summary": "First step in the linked Magicule regeneration chain."
     },
     {
       "category": "skills/extra",
       "display_title": "Magicule Resonance",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magicule-resonance",
+      "local_page": "tensura-reference/skills/extra/magicule-resonance.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magicule_resonance.png",
       "summary": "Master Attunement to reach the middle upgrade."
     },
     {
       "category": "skills/extra",
       "display_title": "Magicule Dominion",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "magicule-dominion",
+      "local_page": "tensura-reference/skills/extra/magicule-dominion.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/magicule_dominion.png",
       "summary": "Final documented Magicule regeneration upgrade."
     },
     {
       "category": "skills/extra",
       "display_title": "Purple Lightning",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "purple-lightning",
+      "local_page": "tensura-reference/skills/extra/purple-lightning.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/purple_lightning.png",
       "summary": "Daemon Dragon lightning that bypasses Darkness Resistance."
     },
     {
       "category": "skills/extra",
       "display_title": "Toxic Skin",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "toxic-skin",
+      "local_page": "tensura-reference/skills/extra/toxic-skin.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/toxic_skin.png",
       "summary": "Poison enemies that strike you in melee."
     },
     {
       "category": "skills/unique",
       "display_title": "Bubble Majin",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "bubble-majin",
+      "local_page": "tensura-reference/skills/unique/bubble-majin.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/bubble_majin.png",
       "summary": "Reflect, store, absorb—and awaken The Evil Majin."
     },
     {
       "category": "skills/unique",
       "display_title": "Deus Sanguis",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "deus-sanguis",
+      "local_page": "tensura-reference/skills/unique/deus-sanguis.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/deus_sanguis.png",
       "summary": "Vampiric transformation, bleeding, and health drain."
     },
     {
       "category": "skills/unique",
       "display_title": "Dragon Slayer",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "dragon-slayer",
+      "local_page": "tensura-reference/skills/unique/dragon-slayer.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/dragon_slayer.png",
       "summary": "Build dragon power and awaken The Slayer of Dragons."
     },
     {
       "category": "skills/unique",
       "display_title": "Eye of Mind",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "eye-of-mind",
+      "local_page": "tensura-reference/skills/unique/eye-of-mind.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/eye_of_mind.png",
       "summary": "Analyze, copy, debuff, and fire a scaling death ray."
     },
     {
       "category": "skills/unique",
       "display_title": "Great Mage",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "great-mage",
+      "local_page": "tensura-reference/skills/unique/great-mage.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/great_mage.png",
       "summary": "Master magic study and awaken The Timeless Mage."
     },
     {
       "category": "skills/unique",
       "display_title": "Imprisoned Jester",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "imprisoned-jester",
+      "local_page": "tensura-reference/skills/unique/imprisoned-jester.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/imprisoned_jester.png",
       "summary": "Deal spirit damage and awaken The Unbound Jester."
     },
     {
       "category": "skills/unique",
       "display_title": "King of Curses",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "king-of-curses",
+      "local_page": "tensura-reference/skills/unique/king-of-curses.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/king_of_curses.png",
       "summary": "Cursed slashes, fire, and Malevolent Shrine."
     },
     {
       "category": "skills/unique",
       "display_title": "Sealer",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "sealer",
+      "local_page": "tensura-reference/skills/unique/sealer.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/sealer.png",
       "summary": "Capture power and awaken The One Who Seals."
     },
     {
       "category": "skills/unique",
       "display_title": "Trash Gamer",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "trash-gamer",
+      "local_page": "tensura-reference/skills/unique/trash-gamer.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/trash_gamer.png",
       "summary": "Exploit duplication, random buffs, and a risky Prodigy state."
     },
     {
       "category": "skills/ultimate",
       "display_title": "The Evil Majin",
-      "local_page": "tensura-reference/skills/ultimate/ascension-ultimates.md",
-      "fragment": "the-evil-majin",
+      "local_page": "tensura-reference/skills/ultimate/the-evil-majin.md",
+      "fragment": "",
       "asset": "assets/ascension/ultimates/the_evil_majin.png",
       "summary": "Bubble Majin's Ultimate evolution."
     },
     {
       "category": "skills/ultimate",
       "display_title": "The One Who Seals",
-      "local_page": "tensura-reference/skills/ultimate/ascension-ultimates.md",
-      "fragment": "the-one-who-seals",
+      "local_page": "tensura-reference/skills/ultimate/the-one-who-seals.md",
+      "fragment": "",
       "asset": "assets/ascension/ultimates/the_one_who_seals.png",
       "summary": "Sealer's Ultimate evolution."
     },
     {
       "category": "skills/ultimate",
       "display_title": "The Slayer of Dragons",
-      "local_page": "tensura-reference/skills/ultimate/ascension-ultimates.md",
-      "fragment": "the-slayer-of-dragons",
+      "local_page": "tensura-reference/skills/ultimate/the-slayer-of-dragons.md",
+      "fragment": "",
       "asset": "assets/ascension/ultimates/the_slayer_of_dragons.png",
       "summary": "Dragon Slayer's Ultimate evolution."
     },
     {
       "category": "skills/ultimate",
       "display_title": "The Timeless Mage",
-      "local_page": "tensura-reference/skills/ultimate/ascension-ultimates.md",
-      "fragment": "the-timeless-mage",
+      "local_page": "tensura-reference/skills/ultimate/the-timeless-mage.md",
+      "fragment": "",
       "asset": "assets/ascension/ultimates/the_timeless_mage.png",
       "summary": "Great Mage's Ultimate evolution."
     },
     {
       "category": "skills/ultimate",
       "display_title": "The Unbound Jester",
-      "local_page": "tensura-reference/skills/ultimate/ascension-ultimates.md",
-      "fragment": "the-unbound-jester",
+      "local_page": "tensura-reference/skills/ultimate/the-unbound-jester.md",
+      "fragment": "",
       "asset": "assets/ascension/ultimates/the_unbound_jester.png",
       "summary": "Imprisoned Jester's Ultimate evolution."
     },
     {
       "category": "battlewill",
       "display_title": "Energy Charge",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "energy-charge",
+      "local_page": "tensura-reference/battlewill/energy-charge.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/energy_charge.png",
       "summary": "Convert Magicules into Aura and unlock Maximum Charge."
     },
     {
       "category": "battlewill",
       "display_title": "Maximum Charge",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "maximum-charge",
+      "local_page": "tensura-reference/battlewill/maximum-charge.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/maximum_charge.png",
       "summary": "The mastered upgrade unlocked from Energy Charge."
     },
     {
       "category": "battlewill",
       "display_title": "Shadow Dummy",
-      "local_page": "tensura-reference/skills/ascension.md",
-      "fragment": "shadow-dummy",
+      "local_page": "tensura-reference/battlewill/shadow-dummy.md",
+      "fragment": "",
       "asset": "assets/ascension/skills/shadow_dummy.png",
       "summary": "Fight a clone of your own stats for training rewards."
     }

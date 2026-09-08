@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Sandalphon, Lord Of Condemnation
 description: Serve as the hammer of Justice, delivering retribution upon those who have defied it.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Sandalphon, Lord Of Condemnation
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -63,42 +69,7 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../pernida/">
-<img src="../../../../assets/upstream/mysticism/skills/pernida-d43613bb66.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Pernida, Lord Of Compliance</strong>
-<small>The Left Hand of God</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sariel/">
-<img src="../../../../assets/upstream/mysticism/skills/sariel-06287d156e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sariel, Lord Of Hope</strong>
-<small>A beacon of unwavering hope and heroism, inspiring allies and unleashing divine resolve to shape destiny.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../oizys/">
-<img src="../../../../assets/upstream/mysticism/skills/oizys-bb0f400250.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Oizys, Lord Of Melancholy</strong>
-<small>The overwhelming grief of the sins of transgressions long past have come back to haunt you. Will you make the right…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../satanael/">
-<img src="../../../../assets/upstream/mysticism/skills/satanael-9168eacff1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Satanael, Lord of Wrath</strong>
-<small>The world bows to your endless Wrath. Unleash pure unbridled rage and use it to get infinitely stronger the longer…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -22,7 +22,7 @@ This visual library presents every imported Tensura article in one reference exp
 <p>Choose a form, understand its requirements, and follow explicit race branches.</p>
 <div class="reference-path-links">
 <a href="core-mechanics/">Core Mechanics <span>63</span></a>
-<a href="races/">Races <span>272</span></a>
+<a href="races/">Race families <span>35</span></a>
 </div>
 </div>
 </article>

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Gatekeeper
 description: Wield the authority of kings and command treasures beyond mortal reach. Summon divine armaments from the vault, binding foes in chains of judgment while asserting dominion over all.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Gatekeeper
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -77,35 +83,28 @@ Mastered - 7 portals.
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../gardener/">
-<img src="../../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-gardener.svg"/>
 <span class="reference-related-copy">
 <strong>Gardener</strong>
 <small>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hidden-ruler/">
-<img src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../engineer/">
-<img src="../../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-engineer.svg"/>
 <span class="reference-related-copy">
 <strong>Engineer</strong>
 <small>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../inverse/">
-<img src="../../../../assets/upstream/mysticism/skills/inverse-8f8d5c05b3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Inverse</strong>
-<small>W.I.P</small>
 </span>
 </a>
 </div>

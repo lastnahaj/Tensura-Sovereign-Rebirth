@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Hades, Lord of Death
 description: Destroy all, kill all. Your reputation as the Visage of Death precedes you. Execute your enemies with clones and strong, stacking debuffs, including one that can double all damage taken.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Hades, Lord of Death
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -42,8 +48,8 @@ Toggle · In-Slot</div></div></div><div class="druid-section-container"><div dat
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Universal_Perception"><b>Universal Perception</b></a> - Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/universal-perception/"><b>Universal Perception</b></a> - Enhance your senses to the point of detecting heat, sounds and magicules at an enhanced level.</li></ul>
 <ul><li>[Passive, In Slot] <b>Stench of Death</b> - The user passively adds STRONG debuffs to their melee attacks. All clones follow suit. Debuffs are added based on the mastery of Hades. These effects BYPASS Nullifications! (Bugged ability in versions prior to 1.0.0.5.1)</li></ul>
 <p><br/>
 </p>
@@ -77,42 +83,7 @@ Toggle · In-Slot</div></div></div><div class="druid-section-container"><div dat
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../gilgamesh/">
-<img src="../../../../assets/upstream/mysticism/skills/gilgamesh-f97b6f514b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Gilgamesh, Lord Of Treasures</strong>
-<small>There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../heracles/">
-<img src="../../../../assets/upstream/mysticism/skills/heracles-7d22ad0e27.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Heracles, Lord Of The Hunt</strong>
-<small>Breathe. One misstep and your power... Breathe. It could even slay a God. Breathe.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../galileo/">
-<img src="../../../../assets/upstream/mysticism/skills/galileo-5af79aee12.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Galileo, Lord of Observation</strong>
-<small>The true-sight of one who has mastered their instincts, able to notice all at a moment&#x27;s glance. Petrify your enemies…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ignis/">
-<img src="../../../../assets/upstream/mysticism/skills/ignis-50f4c96ead.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ignis, Lord of Explosions</strong>
-<small>Harness the power of fire and destruction to dominate your surroundings.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -22,6 +22,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Shoot a fiery projectile or summon a short-ranged fire storm which will damage all nearby entities</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -31,11 +32,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Master <a class="mw-redirect" href="../flame-manipulation/" title="Abilities/Skills/Flame Manipulation">Flame Manipulation</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Shoot a fiery projectile or summon a short-ranged fire storm which will damage all nearby entities
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Heat Wave</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Heat_wave.png"><img alt="Heat wave.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/heat-wave-195a9849b9.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Heat Wave</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Heat_wave.png"><img alt="Heat wave.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/heat-wave-195a9849b9.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
@@ -59,28 +65,28 @@ Master <a class="mw-redirect" href="../flame-manipulation/" title="Abilities/Ski
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../haki/">
-<img src="../../../../assets/upstream/tensura/skills/haki-389d3d015a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/haki-389d3d015a.png"/>
 <span class="reference-related-copy">
 <strong>Haki</strong>
 <small>Project your aura to cow nearby foes into submission.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../heavenly-eye/">
-<img src="../../../../assets/upstream/tensura/skills/heavenly-eye-c8e63ee013.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/heavenly-eye-c8e63ee013.png"/>
 <span class="reference-related-copy">
 <strong>Heavenly Eye</strong>
 <small>Project your otherworldly gaze to see all nearby entities and partially ignore dodging abilities.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../gravity-manipulation/">
-<img src="../../../../assets/upstream/tensura/skills/gravity-manipulation-02deaa5b3c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/gravity-manipulation-02deaa5b3c.png"/>
 <span class="reference-related-copy">
 <strong>Gravity Manipulation</strong>
 <small>Boosts Gravity skills by a decent amount and allows you to fly without hindrance.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hero-haki/">
-<img src="../../../../assets/upstream/tensura/skills/hero-haki-48aa72466a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/hero-haki-48aa72466a.png"/>
 <span class="reference-related-copy">
 <strong>Hero Haki</strong>
 <small>Use your Hero Aura to inspire your allies and terrify your enemies.</small>

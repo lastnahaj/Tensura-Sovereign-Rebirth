@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "registry_id": "mysticism:gravity_flux",
+      "display_title": "Gravity Flux",
+      "category": "skills/extra",
+      "local_page": "tensura-reference/skills/extra/gravity-flux.md",
+      "asset": "assets/icons/skills/mysticism-gravity_flux.svg",
+      "summary": "Disrupt a target with fluctuating gravity or Burden.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529"
+    },
+    {
+      "registry_id": "mysticism:clangorous_soul",
+      "display_title": "Clangorous Soul",
+      "category": "skills/intrinsic",
+      "local_page": "tensura-reference/skills/intrinsic/clangorous-soul.md",
+      "asset": "assets/icons/skills/mysticism-clangorous_soul.svg",
+      "summary": "An area taunt granted by the Hardshell Ant evolution line.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529"
+    },
+    {
+      "registry_id": "mysticism:fourth_wall",
+      "display_title": "Fourth Wall",
+      "category": "skills/unique",
+      "local_page": "tensura-reference/skills/unique/fourth-wall.md",
+      "asset": "assets/icons/skills/mysticism-fourth_wall.svg",
+      "summary": "Toggle a learning and mastery gain attribute bonus.",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529"
+    }
+  ]
+}

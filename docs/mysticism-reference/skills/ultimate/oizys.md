@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Oizys, Lord Of Melancholy
 description: The overwhelming grief of the sins of transgressions long past have come back to haunt you. Will you make the right choice this time?
 tags:
@@ -10,6 +12,10 @@ tags:
 # Oizys, Lord Of Melancholy
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -62,42 +68,7 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../mephisto/">
-<img src="../../../../assets/upstream/mysticism/skills/mephisto-d9b9ec60e9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mephisto, Lord Of Fantasy</strong>
-<small>The over-arching Lord of Fantasy is able to destroy all and pull them into a world where the user&#x27;s desires come first…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../pernida/">
-<img src="../../../../assets/upstream/mysticism/skills/pernida-d43613bb66.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Pernida, Lord Of Compliance</strong>
-<small>The Left Hand of God</small>
-</span>
-</a>
-<a class="reference-related-card" href="../laverna/">
-<img src="../../../../assets/upstream/mysticism/skills/laverna-13620a2ce7.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Laverna, Lord Of Vainglory</strong>
-<small>Is this the domain of the one who is regarded as the ruler of the Shadows? Perhaps it is. But only you know the real…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sandalphon/">
-<img src="../../../../assets/upstream/mysticism/skills/sandalphon-03d1cf55d0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sandalphon, Lord Of Condemnation</strong>
-<small>Serve as the hammer of Justice, delivering retribution upon those who have defied it.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

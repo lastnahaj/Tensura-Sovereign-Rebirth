@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Satanael, Lord of Wrath
 description: The world bows to your endless Wrath. Unleash pure unbridled rage and use it to get infinitely stronger the longer your anger persists.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Satanael, Lord of Wrath
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -39,7 +45,7 @@ Sin</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-ro
 1 Million</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 3000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wrath">Wrath</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/wrath/">Wrath</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -61,42 +67,7 @@ In-Slot</div></div></div><div class="druid-section-container"><div data-druid-se
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../sariel/">
-<img src="../../../../assets/upstream/mysticism/skills/sariel-06287d156e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sariel, Lord Of Hope</strong>
-<small>A beacon of unwavering hope and heroism, inspiring allies and unleashing divine resolve to shape destiny.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sephirot/">
-<img src="../../../../assets/upstream/mysticism/skills/sephirot-41771f8516.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sephirot, Lord Of Life</strong>
-<small>Play with the fickle force of Life like it was thread on the water. Gain control over the ethereal forces of life and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sandalphon/">
-<img src="../../../../assets/upstream/mysticism/skills/sandalphon-03d1cf55d0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sandalphon, Lord Of Condemnation</strong>
-<small>Serve as the hammer of Justice, delivering retribution upon those who have defied it.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../susano-o/">
-<img src="../../../../assets/upstream/mysticism/skills/susano-o-3cfc7a7a88.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Susano&#x27;o, Lord of Tyranny</strong>
-<small>Bend reality to ensure your enemies meet their demise. Break every obstacle and twist the fabric of existence itself…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

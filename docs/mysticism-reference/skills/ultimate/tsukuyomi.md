@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Tsukuyomi, Lord of Moon Shadow
 description: Manipulate perception and move beyond time and space. Manifest countless forms that copy your skills, control minds, and erase all obstacles in your path.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Tsukuyomi, Lord of Moon Shadow
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,7 +44,7 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 500K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-Mastery over <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Shadow_Striker">Shadow Striker</a> + <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Body_Double">Body Double</a></div></div></div></div>
+Mastery over <a class="external text" href="../../../../tensura-reference/skills/unique/shadow-striker/">Shadow Striker</a> + <a class="external text" href="../../../../tensura-reference/skills/extra/body-double/">Body Double</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Skills_Gained">Skills Gained</span></h3>
@@ -70,42 +76,7 @@ Mastery over <a class="external text" href="https://tensurareincarnated.wiki.gg/
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../takemikazuchi/">
-<img src="../../../../assets/upstream/mysticism/skills/takemikazuchi-e51e4bdc75.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Takemikazuchi, Lord of Combat</strong>
-<small>Become the ruler of physical combat. Gain increased reaction speed and attack speed while channeling all your power…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ultimate-skill-aquisition/">
-<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ultimate Skill Aquisition</strong>
-<small>To evolve a unique skill to an ultimate skill, all of the following requirements have to be met</small>
-</span>
-</a>
-<a class="reference-related-card" href="../susano-o/">
-<img src="../../../../assets/upstream/mysticism/skills/susano-o-3cfc7a7a88.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Susano&#x27;o, Lord of Tyranny</strong>
-<small>Bend reality to ensure your enemies meet their demise. Break every obstacle and twist the fabric of existence itself…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../uriel/">
-<img src="../../../../assets/upstream/mysticism/skills/uriel-93ba374caf.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Uriel, Lord Of Oath</strong>
-<small>The Ultimate shield against any attack, control the laws of the world to your liking and become unstoppable.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

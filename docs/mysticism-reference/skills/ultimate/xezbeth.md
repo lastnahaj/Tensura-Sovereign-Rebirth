@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Xezbeth, Lord of Lies
 description: You sit atop a throne. A throne built by lies. Deceive all who stand before you and play The Fool. But this time, you will have the last laugh.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Xezbeth, Lord of Lies
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,12 +44,12 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 300K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Falsifier">Falsifier</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/falsifier/">Falsifier</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Universal_Perception">Universal Perception</a></li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Thought_Acceleration">Thought Acceleration</a></li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/universal-perception/">Universal Perception</a></li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/">Thought Acceleration</a></li></ul>
 <ul><li>[Passive, True] Truesight - All forms of Presence Concealment do not fool your eyes.</li></ul>
 <ul><li>[Passive, True] Prison of Lies - Killing anything will store their appearance and form in the skill. See [Disguise] and [Display].</li></ul>
 <p><br/>
@@ -63,42 +69,7 @@ True · Toggle</div></div></div><div class="druid-section-container"><div data-d
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../viciel/">
-<img src="../../../../assets/upstream/mysticism/skills/viciel-112e7859e1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Viciel, Lord Of Lurking</strong>
-<small>Transcend the limits of the mortal realm as the one true commander over the shadows and stealth. You truly are a…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../uriel/">
-<img src="../../../../assets/upstream/mysticism/skills/uriel-93ba374caf.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Uriel, Lord Of Oath</strong>
-<small>The Ultimate shield against any attack, control the laws of the world to your liking and become unstoppable.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ultimate-skill-aquisition/">
-<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ultimate Skill Aquisition</strong>
-<small>To evolve a unique skill to an ultimate skill, all of the following requirements have to be met</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tsukuyomi/">
-<img src="../../../../assets/upstream/mysticism/skills/tsukuyomi-4caed5d950.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Tsukuyomi, Lord of Moon Shadow</strong>
-<small>Manipulate perception and move beyond time and space. Manifest countless forms that copy your skills, control minds…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

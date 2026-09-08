@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Gilgamesh, Lord Of Treasures
 description: There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The former is commonplace stupidity… but the latter is a rare species that is difficult to find.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Gilgamesh, Lord Of Treasures
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -73,42 +79,7 @@ In-Slot</div></div></div><div class="druid-section-container"><div data-druid-se
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../galileo/">
-<img src="../../../../assets/upstream/mysticism/skills/galileo-5af79aee12.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Galileo, Lord of Observation</strong>
-<small>The true-sight of one who has mastered their instincts, able to notice all at a moment&#x27;s glance. Petrify your enemies…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hades/">
-<img src="../../../../assets/upstream/mysticism/skills/hades-ccef86f6d3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hades, Lord of Death</strong>
-<small>Destroy all, kill all. Your reputation as the Visage of Death precedes you. Execute your enemies with clones and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../dionysus/">
-<img src="../../../../assets/upstream/mysticism/skills/dionysus-2762dae7cd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Dionysus, Lord of Crashing</strong>
-<small>The true essence of the destroyer. Decimate and remove all threats from existence and delete chunks with your…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../heracles/">
-<img src="../../../../assets/upstream/mysticism/skills/heracles-7d22ad0e27.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Heracles, Lord Of The Hunt</strong>
-<small>Breathe. One misstep and your power... Breathe. It could even slay a God. Breathe.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

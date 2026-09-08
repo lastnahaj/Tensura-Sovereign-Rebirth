@@ -16,6 +16,12 @@
 
 ## Status rules
 
+### Additions after the design freeze
+
+**Tensura Reincarnated Nightmares is installed.** Its exact 1.21.1 release is pending a version record, so its skill and race coverage is not yet build-verified. It is a content mod distinct from Nightmare Utils. Use the [Nightmares 1.21.1 reference](https://tensuranightmares.wiki.gg/wiki/Abilities/1.21.1) while that coverage is completed.
+
+The frozen tables below describe the earlier baseline; they do not override this newer inclusion.
+
 | Status family | Meaning |
 |---|---|
 | `LOCK`, `PIN`, `DEPENDENCY` | Frozen design or required dependency; exact runtime status still follows phase evidence |
@@ -171,7 +177,7 @@
 
 | Mod | Version | Status | Notes |
 |---|---|---|---|
-| When Dungeons Arise | 2.1.68 | TEST | Strong thematic fit and present in the Tempest Protocol reference quest structure; must pass worldgen density/performance tests. |
+| When Dungeons Arise | 2.1.68 | TEST | Strong thematic fit; must pass worldgen density/performance tests. |
 | You're in Grave Danger (YIGD) | 2.0.13 | TEST | Verify death/restoration preserves all Tensura, Gear Evolution and accessory/component state. |
 | Tensura: Virtuoso | 2.0.0.1 | TEST | Good skill diversity; audit incomplete/nonfunctional item content and balance first. |
 | Tensura: Ancient Artifacts | Resolve current 1.21.1 release | TEST | Keep only if artifacts complement rather than replace Gear Evolution. |
@@ -183,12 +189,12 @@
 | Block Factory's Bosses | Resolve current 1.21.1 release | TEST |  |
 | Simple Voice Chat | Resolve current 1.21.1 NeoForge release | OPTIONAL |  |
 
-## Rejected
+## Rejected at the v0.1 design freeze
 
 | Mod | Reason |
 |---|---|
 | Apotheosis | Gear Evolution is authoritative. |
-| Tensura Reincarnated Nightmares | Explicitly excluded. |
+| Tensura Reincarnated Nightmares | Excluded from the original freeze; now installed, as recorded above. |
 | Nightmare's Apothic Tensura | Nightmare content branch excluded. |
 | BTRUltima | 1.19.2 only; ideas can be represented with modern 1.21.1 content. |
 | Ars Nouveau Tensura compatibility | Useful compat found was for the wrong Minecraft version. |

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Apollo, Lord Of Music
 description: Sing the songs of war, death and destruction. Use sound to create super powerful blasts which ignore armor. Fine tune your hearing even further.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Apollo, Lord Of Music
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -43,7 +49,7 @@ Toggle · In-Slot</div></div></div><div class="druid-section-container"><div dat
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, Toggle] <b>Auditory Sense</b> - Fine tune your hearing to hear all mobs within a 50x50 radius, much higher than Musician's.</li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a> - Speed up your reaction speed, increasing casting speed, attack speed, and movement speed.</li></ul>
 <ul><li>[Passive, In Slot] <b>Synesthesia</b> - All of Apollo's SOUND-BASED attacks are so powerful that they cause the other senses to be stimulated, incurring blindness on all affected</li></ul>
 <p><br/>
 <br/>
@@ -63,42 +69,7 @@ Toggle · In-Slot</div></div></div><div class="druid-section-container"><div dat
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../antithesis/">
-<img src="../../../../assets/upstream/mysticism/skills/antithesis-2df7b7f87b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antithesis, Lord of Inversion</strong>
-<small>W.I.P</small>
-</span>
-</a>
-<a class="reference-related-card" href="../asmodeus/">
-<img src="../../../../assets/upstream/mysticism/skills/asmodeus-22487b719d.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Asmodeus, Lord of Lust</strong>
-<small>Upstream reference information for Asmodeus, Lord of Lust.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../antevorta/">
-<img src="../../../../assets/upstream/mysticism/skills/antevorta-37ec35c721.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Antevorta, Lord Of Predictions</strong>
-<small>The future belongs to you alone. Seize your opportunities and let none go to waste.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../beelzebub/">
-<img src="../../../../assets/upstream/mysticism/skills/beelzebub-329e0e714b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Beelzebub, Lord Of Gourmet</strong>
-<small>Damn, so hungry bring me nuggets</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

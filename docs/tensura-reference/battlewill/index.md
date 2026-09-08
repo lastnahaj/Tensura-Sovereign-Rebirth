@@ -44,6 +44,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Air Flight</h2>
+
 <p>Use your aura to propel you forward, and hover in air</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -57,6 +58,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Aura Shield</h2>
+
 <p>Create a shield of condensed aura to block attacks</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -70,6 +72,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Aura Slash</h2>
+
 <p>Condense your aura along your blade and release a ranged slash</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -83,6 +86,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Aura Sword</h2>
+
 <p>Coat your weapon in aura enhancing its blows</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -96,6 +100,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Battlewill Manual</h2>
+
 <p>In all these locations its 50% chance</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -109,6 +114,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cherry Blossoms - Eight Petals Flash</h2>
+
 <p>Create a shield of condensed aura to block attacks</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -122,6 +128,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dark Eight Palms</h2>
+
 <p>Launch up to eight devastating aura blasts at foes</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -135,6 +142,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Death March Dance</h2>
+
 <p>Gather your aura into a ring of devastating aura spheres that come crashing down</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -148,6 +156,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Diamond Path</h2>
+
 <p>Harden your aura around you to block incoming attacks</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -161,6 +170,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Earthshatter Kick</h2>
+
 <p>Stomp your foot down upheaving the land around you</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -174,19 +184,21 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elephant Stampede</h2>
+
 <p>Throw a ring of aura spheres around you</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
 <article class="reference-card" data-letter="E" data-search="energy charge convert magicules into aura and unlock maximum charge.">
-<a href="../skills/ascension/#energy-charge" aria-label="Open Energy Charge">
+<a href="energy-charge/" aria-label="Open Energy Charge">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/ascension/skills/energy_charge.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Energy Charge</h2>
+
 <p>Convert Magicules into Aura and unlock Maximum Charge.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -200,6 +212,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Formhide</h2>
+
 <p>Match your aura to the surroundings, which makes you imperceptible.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -213,6 +226,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Haze</h2>
+
 <p>Wrap yourself in a cloak of aura concealing yourself from even the most of heightened of senses</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -226,6 +240,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Heavy Slash</h2>
+
 <p>Channel your aura into your arms and bring down a mountain-splitting slash</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -239,6 +254,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Instant-move</h2>
+
 <p>Gather your aura at your feet to travel faster than the eye can see</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -252,19 +268,21 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Magic Bullet</h2>
+
 <p>Gather your aura into a powerful blast</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
 <article class="reference-card" data-letter="M" data-search="maximum charge the mastered upgrade unlocked from energy charge.">
-<a href="../skills/ascension/#maximum-charge" aria-label="Open Maximum Charge">
+<a href="maximum-charge/" aria-label="Open Maximum Charge">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/ascension/skills/maximum_charge.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Maximum Charge</h2>
+
 <p>The mastered upgrade unlocked from Energy Charge.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -278,6 +296,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Maximum Magic Bullet</h2>
+
 <p>Gather your aura into a gargantuan blast obliterating all who dare oppose you</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -291,6 +310,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ogre Flame</h2>
+
 <p>Use your aura to create a pillar of fire</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -304,6 +324,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ogre-sword Cannon</h2>
+
 <p>Condense your aura into a blade projectile</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -317,6 +338,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ogre-sword Guillotine</h2>
+
 <p>Coat your weapon in aura enhancing its blows</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -330,6 +352,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Plum Blossoms - Five Petals Thrust</h2>
+
 <p>Create a shield of condensed aura to block attacks</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -343,19 +366,21 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Roaring Lion Punch</h2>
+
 <p>Focus your aura into a fearsome blow with the regalness of a lion</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
 <article class="reference-card" data-letter="S" data-search="shadow dummy fight a clone of your own stats for training rewards.">
-<a href="../skills/ascension/#shadow-dummy" aria-label="Open Shadow Dummy">
+<a href="shadow-dummy/" aria-label="Open Shadow Dummy">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/ascension/skills/shadow_dummy.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Shadow Dummy</h2>
+
 <p>Fight a clone of your own stats for training rewards.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -369,6 +394,7 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Violent Break</h2>
+
 <p>Channel your aura recklessly enhancing your strength and cleansing you of any negative effects</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

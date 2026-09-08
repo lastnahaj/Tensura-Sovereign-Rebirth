@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Light and Heat Domination
 description: Boost the power of Light and Heat abilities by a great amount.
 tags:
@@ -12,6 +14,10 @@ tags:
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
 
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
+
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../../assets/upstream/mysticism/skills/light-and-head-domination-e894ad941a.png" alt="Light and Heat Domination source reference" loading="eager" decoding="async">
@@ -19,7 +25,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Usage">Usage</a>
 <a href="#Version_history">Version history</a>
@@ -38,7 +44,7 @@ tags:
 <td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
 </td>
 <td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+</td></tr></tbody></table></div><p>
 </p><p>Boost the power of Light and Heat abilities by a great amount.
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Light and Heat Domination</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Light_and_Head_Domination.png"><img alt="Light and Head Domination.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/light-and-head-domination-e894ad941a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -69,32 +75,32 @@ Upon learning <a href="../../ultimate/amaterasu/" title="Amaterasu">Amaterasu</a
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Extra Skills</a>
+<a href="../../../../tensura-reference/skills/extra/">Browse all Extra Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../ice-manipulation/">
-<img src="../../../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-ice_manipulation.svg"/>
 <span class="reference-related-copy">
 <strong>Ice Manipulation</strong>
 <small>Boosts the power of Ice abilities by a decent amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-domination/">
-<img src="../../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_domination.svg"/>
 <span class="reference-related-copy">
 <strong>Light Domination</strong>
 <small>Boost the power of Light abilities by a great amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../ice-domination/">
-<img src="../../../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-ice_domination.svg"/>
 <span class="reference-related-copy">
 <strong>Ice Domination</strong>
 <small>Boosts the power of Ice abilities by a great amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-manipulation/">
-<img src="../../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_manipulation.svg"/>
 <span class="reference-related-copy">
 <strong>Light Manipulation</strong>
 <small>Boosts the power of Light abilities by a decent amount</small>

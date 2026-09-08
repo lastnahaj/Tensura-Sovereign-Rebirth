@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Inverse
 description: W.I.P
 tags:
@@ -10,6 +12,10 @@ tags:
 # Inverse
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -62,32 +68,25 @@ True · Toggle</div></div></div><div class="druid-section-container"><div data-d
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../hidden-ruler/">
-<img src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../kyurem/">
-<img src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-kyurem.svg"/>
 <span class="reference-related-copy">
 <strong>Kyurem</strong>
-<small>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../gatekeeper/">
-<img src="../../../../assets/upstream/mysticism/skills/gatekeeper-5487fa3d57.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Gatekeeper</strong>
-<small>Wield the authority of kings and command treasures beyond mortal reach. Summon divine armaments from the vault…</small>
+<small>"A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../malleable/">
-<img src="../../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-malleable.svg"/>
 <span class="reference-related-copy">
 <strong>Malleable</strong>
 <small>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</small>

@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Increase the speed at which you learn and master skills, magic and arts.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Obtainment">Obtainment</a>
 </nav>
@@ -31,9 +32,15 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong>
+<a class="external text" href="https://minecraft.wiki/w/Evoker" rel="nofollow">Evoker</a></li><li><strong>Combination of Skills:</strong>
+Master 20 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Magics</a>/<a class="mw-redirect" href="https://tensura.wiki.gg/wiki/Abilities/Battlewills" title="Abilities/Battlewills">Battlewills</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Sage</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Sage.png"><img alt="Sage.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/sage-ed992b68e8.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Sage</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Sage.png"><img alt="Sage.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/sage-ed992b68e8.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
@@ -68,28 +75,28 @@ Master 20 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Ma
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../sacred-haki/">
-<img src="../../../../assets/upstream/tensura/skills/sacred-haki-e2f33f46d8.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sacred-haki-e2f33f46d8.png"/>
 <span class="reference-related-copy">
 <strong>Sacred Haki</strong>
 <small>Strike fear into the hearts of evil and give strength to your allies</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sense-heat-source/">
-<img src="../../../../assets/upstream/tensura/skills/sense-heat-source-d56437756f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sense-heat-source-d56437756f.png"/>
 <span class="reference-related-copy">
 <strong>Sense Heat Source</strong>
 <small>Highlights entities that generate heat nearby</small>
 </span>
 </a>
 <a class="reference-related-card" href="../multilayer-barrier/">
-<img src="../../../../assets/upstream/tensura/skills/multilayer-barrier-c79c9e1a6f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/multilayer-barrier-c79c9e1a6f.png"/>
 <span class="reference-related-copy">
 <strong>Multilayer Barrier</strong>
 <small>Protect yourself with a multitude of powerful defensive barriers</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sense-soundwave/">
-<img src="../../../../assets/upstream/tensura/skills/sense-soundwave-67f30c3853.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/sense-soundwave-67f30c3853.png"/>
 <span class="reference-related-copy">
 <strong>Sense Soundwave</strong>
 <small>Empower your ears to precisely locate any nearby entities</small>

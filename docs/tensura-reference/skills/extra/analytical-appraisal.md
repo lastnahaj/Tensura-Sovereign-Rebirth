@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Assess the soul of your opponents to gain insight into their overall strength.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,17 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>EP:</strong>
+20,000</li><li><strong>Other:</strong>
+<a href="../../../magic/analyze/" title="Analyze"> Analyze</a> Mastered</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Assess the soul of your opponents to gain insight into their overall strength.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Analytical Appraisal</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Analytical_appraisal.png"><img alt="Analytical appraisal.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/analytical-appraisal-bb01737e8d.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Analytical Appraisal</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Analytical_appraisal.png"><img alt="Analytical appraisal.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/analytical-appraisal-bb01737e8d.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 500</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-EP" data-druid-section-row="Obtaining"><div class="druid-label druid-label-EP">EP</div><div class="druid-data druid-data-EP druid-data-nonempty">
@@ -60,28 +67,28 @@ Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-se
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../all-seeing-eye/">
-<img src="../../../../assets/upstream/tensura/skills/all-seeing-eye-2438792f54.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/all-seeing-eye-2438792f54.png"/>
 <span class="reference-related-copy">
 <strong>All Seeing Eye</strong>
 <small>Go into a 3rd person mode, which increases your POV and grants movement and action buffs as well as an upgrade to…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../black-flame/">
-<img src="../../../../assets/upstream/tensura/skills/black-flame-03df7bf0e5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/black-flame-03df7bf0e5.png"/>
 <span class="reference-related-copy">
 <strong>Black Flame</strong>
 <small>Command the tempest infused flames to spew out black flames at your enemies or even shoot deadly fireballs and hell…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../black-lightning/">
-<img src="../../../../assets/upstream/tensura/skills/black-lightning-d86020769a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/black-lightning-d86020769a.png"/>
 <span class="reference-related-copy">
 <strong>Black Lightning</strong>
 <small>Shoot black lightning at varying strength, or summon a massive storm which attacks any non-allied mobs. A short range…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../body-double/">
-<img src="../../../../assets/upstream/tensura/skills/body-double-d831ac2af4.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/body-double-d831ac2af4.png"/>
 <span class="reference-related-copy">
 <strong>Body Double</strong>
 <small>Use a tenth of your magical power to summon an identical clone which takes increased damage but will fight for you…</small>

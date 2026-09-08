@@ -9,6 +9,16 @@
     "freeze_date": "2026-08-23",
     "policy": "Mod identities are frozen for v0.1. Critical compatibility versions are pinned; transitive libraries are resolved to the exact versions required by the pinned parents during assembly."
   },
+  "runtime_additions": [
+    {
+      "name": "Tensura Reincarnated Nightmares",
+      "minecraft": "1.21.1",
+      "status": "INSTALLED-VERSION-PENDING",
+      "version": null,
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares",
+      "notes": "Added after the v0.1 design freeze. Exact release and build-specific wiki coverage remain unverified. Distinct from Nightmare Utils."
+    }
+  ],
   "categories": {
     "Tensura Core": [
       {
@@ -512,7 +522,7 @@
         "name": "When Dungeons Arise",
         "version": "2.1.68",
         "status": "TEST",
-        "notes": "Strong thematic fit and present in the Tempest Protocol reference quest structure; must pass worldgen density/performance tests."
+        "notes": "Strong thematic fit; must pass worldgen density/performance tests."
       },
       {
         "name": "You're in Grave Danger (YIGD)",
@@ -578,7 +588,7 @@
       },
       {
         "name": "Tensura Reincarnated Nightmares",
-        "reason": "Explicitly excluded."
+        "reason": "Excluded from the original freeze; superseded by the installed runtime addition."
       },
       {
         "name": "Nightmare's Apothic Tensura",

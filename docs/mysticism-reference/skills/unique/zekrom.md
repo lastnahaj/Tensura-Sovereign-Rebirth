@@ -12,14 +12,12 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png" alt="Zekrom source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Zekrom.png">Zekrom.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-zekrom.svg" alt="Zekrom emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path with a clap of lightning.&quot;)</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Version_history">Version history</a>
 </nav>
@@ -30,16 +28,21 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../../../tensura-reference/skills/unique/">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Reroll, To acquire it if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> or <a href="../kyurem/" title="Kyurem">Kyurem</a>. Additionally, you need at least 100k EP, eat 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/lightning-essence/" title="Lightning Essence"></a></span> <a href="../../../other/lightning-essence/" title="Lightning Essence"><span class="sprite-text">Lightning Essences</span></a></span>, and eat 10 <span class="nowrap"><span class="sprite-file"><a href="../../../../tensura-reference/items/dragon-essence/"></a></span> <a class="external text" href="../../../../tensura-reference/items/dragon-essence/"><span class="sprite-text">Dragon Essences</span></a></span>.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path with a clap of lightning.")
 </p>
-<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Zekrom</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Zekrom.png"><img alt="Zekrom.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Zekrom</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Zekrom.png"><img alt="Zekrom.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 64.4K</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 [[]]</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
-Reincarnation/Reroll, To acquire it if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> or <a href="../kyurem/" title="Kyurem">Kyurem</a>. Additionally, you need at least 100k EP, eat 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/lightning-essence/" title="Lightning Essence"></a></span> <a href="../../../other/lightning-essence/" title="Lightning Essence"><span class="sprite-text">Lightning Essences</span></a></span>, and eat 10 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Dragon_Essence"></a></span> <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Essence"><span class="sprite-text">Dragon Essences</span></a></span>.</div></div></div></div>
+Reincarnation/Reroll, To acquire it if you didn't start with it, you must have either <a href="../reshiram/" title="Reshiram">Reshiram</a> or <a href="../kyurem/" title="Kyurem">Kyurem</a>. Additionally, you need at least 100k EP, eat 10 <span class="nowrap"><span class="sprite-file"><a href="../../../other/lightning-essence/" title="Lightning Essence"></a></span> <a href="../../../other/lightning-essence/" title="Lightning Essence"><span class="sprite-text">Lightning Essences</span></a></span>, and eat 10 <span class="nowrap"><span class="sprite-file"><a href="../../../../tensura-reference/items/dragon-essence/"></a></span> <a class="external text" href="../../../../tensura-reference/items/dragon-essence/"><span class="sprite-text">Dragon Essences</span></a></span>.</div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -80,32 +83,18 @@ Reincarnation/Reroll, To acquire it if you didn't start with it, you must have e
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../victorious-harbinger/">
-<img src="../../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-victorious_harbinger.svg"/>
 <span class="reference-related-copy">
 <strong>Victorious Harbinger</strong>
 <small>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../vainglory/">
-<img src="../../../../assets/upstream/mysticism/skills/vainglory-f79e5014dd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Vainglory</strong>
-<small>You, the one who conquers this sacred land, in control over both Shadow and Light. May all your enemies bow before the…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../the-balance/">
-<img src="../../../../assets/upstream/mysticism/skills/the-balance-a9587972a4.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>The Balance</strong>
-<small>Upstream reference information for The Balance.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../subjugator/">
-<img src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>

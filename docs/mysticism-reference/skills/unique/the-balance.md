@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: The Balance
 description: TR Mysticism reference for The Balance.
 tags:
@@ -11,6 +13,10 @@ tags:
 # The Balance
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -68,32 +74,25 @@ Reincarnation/Reroll</div></div></div></div>
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../subjugator/">
-<img src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>
 </span>
 </a>
-<a class="reference-related-card" href="../vainglory/">
-<img src="../../../../assets/upstream/mysticism/skills/vainglory-f79e5014dd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Vainglory</strong>
-<small>You, the one who conquers this sacred land, in control over both Shadow and Light. May all your enemies bow before the…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../stagnator/">
-<img src="../../../../assets/upstream/mysticism/skills/stagnator-194f37f8fa.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-stagnator.svg"/>
 <span class="reference-related-copy">
 <strong>Stagnator</strong>
 <small>Stagnate the world around you, could this be a jojo reference...?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../victorious-harbinger/">
-<img src="../../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-victorious_harbinger.svg"/>
 <span class="reference-related-copy">
 <strong>Victorious Harbinger</strong>
 <small>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</small>

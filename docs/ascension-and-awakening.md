@@ -3,7 +3,7 @@ title: Ascension & Awakening
 description: Build the altar, craft a catalyst, meet every gate, and awaken an Ascension Ultimate skill.
 ---
 
-<section class="ascension-hero ascension-hero--ritual"><div><p class="reference-eyebrow">Late-game field guide</p><h1>Awaken an Ultimate skill</h1><p>Turn a mastered Unique into its Ascension Ultimate through a ten-second altar ritual—and know exactly what the altar checks before it begins.</p><div class="ascension-hero-actions"><a class="md-button md-button--primary" href="#ritual-readiness">Check readiness</a><a class="md-button" href="../tensura-reference/skills/ultimate/ascension-ultimates/">Compare Ultimates</a></div></div></section>
+<section class="ascension-hero ascension-hero--ritual"><div><p class="reference-eyebrow">Late-game field guide</p><h1>Awaken an Ultimate skill</h1><p>Turn a mastered Unique into its Ascension Ultimate through a ten-second altar ritual—and know exactly what the altar checks before it begins.</p><div class="ascension-hero-actions"><a class="md-button md-button--primary" href="./#ritual-readiness">Check readiness</a><a class="md-button" href="../tensura-reference/skills/ultimate/">Compare Ultimates</a></div></div></section>
 
 !!! info "Ascension versus base Tensura awakening"
     This is TSR's **Tensura: Ascension** Unique-to-Ultimate system. The base mod's race-awakening mechanic remains documented in [Races & Awakening](tensura-reference/core-mechanics/races-awakening.md).
@@ -30,11 +30,11 @@ The altar checks these gates in order when you right-click it:
 ### Unique → Ultimate map
 
 <div class="skill-evolution-map">
-<a href="../tensura-reference/skills/ascension/#great-mage">Great Mage</a><span>→</span><a href="../tensura-reference/skills/ultimate/ascension-ultimates/#the-timeless-mage">The Timeless Mage</a>
-<a href="../tensura-reference/skills/ascension/#imprisoned-jester">Imprisoned Jester</a><span>→</span><a href="../tensura-reference/skills/ultimate/ascension-ultimates/#the-unbound-jester">The Unbound Jester</a>
-<a href="../tensura-reference/skills/ascension/#bubble-majin">Bubble Majin</a><span>→</span><a href="../tensura-reference/skills/ultimate/ascension-ultimates/#the-evil-majin">The Evil Majin</a>
-<a href="../tensura-reference/skills/ascension/#dragon-slayer">Dragon Slayer</a><span>→</span><a href="../tensura-reference/skills/ultimate/ascension-ultimates/#the-slayer-of-dragons">The Slayer of Dragons</a>
-<a href="../tensura-reference/skills/ascension/#sealer">Sealer</a><span>→</span><a href="../tensura-reference/skills/ultimate/ascension-ultimates/#the-one-who-seals">The One Who Seals</a>
+<a href="../tensura-reference/skills/unique/great-mage/">Great Mage</a><span>→</span><a href="../tensura-reference/skills/ultimate/the-timeless-mage/">The Timeless Mage</a>
+<a href="../tensura-reference/skills/unique/imprisoned-jester/">Imprisoned Jester</a><span>→</span><a href="../tensura-reference/skills/ultimate/the-unbound-jester/">The Unbound Jester</a>
+<a href="../tensura-reference/skills/unique/bubble-majin/">Bubble Majin</a><span>→</span><a href="../tensura-reference/skills/ultimate/the-evil-majin/">The Evil Majin</a>
+<a href="../tensura-reference/skills/unique/dragon-slayer/">Dragon Slayer</a><span>→</span><a href="../tensura-reference/skills/ultimate/the-slayer-of-dragons/">The Slayer of Dragons</a>
+<a href="../tensura-reference/skills/unique/sealer/">Sealer</a><span>→</span><a href="../tensura-reference/skills/ultimate/the-one-who-seals/">The One Who Seals</a>
 </div>
 
 | Ultimate | Additional gate |
@@ -122,7 +122,7 @@ Every eligible witness within **16 blocks** independently gains **2% of the awak
 
 ### Regeneration Suppression
 
-[Blockade](tensura-reference/skills/ascension.md#blockade) applies Regeneration Suppression, which force-disables Self Regen, Ultraspeed Regen, and Infinite Regen on its target. [The Timeless Mage's Zoltraak](tensura-reference/skills/ultimate/ascension-ultimates.md#the-timeless-mage) applies a three-second suppression window that saves and then restores the target's previous regeneration toggles.
+[Blockade](tensura-reference/skills/extra/blockade.md) applies Regeneration Suppression, which force-disables Self Regen, Ultraspeed Regen, and Infinite Regen on its target. [The Timeless Mage's Zoltraak](tensura-reference/skills/ultimate/the-timeless-mage.md) applies a three-second suppression window that saves and then restores the target's previous regeneration toggles.
 
 ### Training and enchantments
 

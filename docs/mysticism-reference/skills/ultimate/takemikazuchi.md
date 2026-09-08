@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Takemikazuchi, Lord of Combat
 description: Become the ruler of physical combat. Gain increased reaction speed and attack speed while channeling all your power into melee attacks, and accelerate to lightspeed dealing insane damage, all while beating your enemies into submission.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Takemikazuchi, Lord of Combat
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,7 +44,7 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 500K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Martial_Master">Martial Master</a> &amp; the Battlewills <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Battlewill">Battlewill</a> and <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Ogre-Sword_Guillotine">Ogre-Sword Guillotine</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/martial-master/">Martial Master</a> &amp; the Battlewills <a class="external text" href="../../../../tensura-reference/battlewill/battlewill/">Battlewill</a> and <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Ogre-Sword_Guillotine">Ogre-Sword Guillotine</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -63,42 +69,7 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../susano-o/">
-<img src="../../../../assets/upstream/mysticism/skills/susano-o-3cfc7a7a88.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Susano&#x27;o, Lord of Tyranny</strong>
-<small>Bend reality to ensure your enemies meet their demise. Break every obstacle and twist the fabric of existence itself…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tsukuyomi/">
-<img src="../../../../assets/upstream/mysticism/skills/tsukuyomi-4caed5d950.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Tsukuyomi, Lord of Moon Shadow</strong>
-<small>Manipulate perception and move beyond time and space. Manifest countless forms that copy your skills, control minds…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sephirot/">
-<img src="../../../../assets/upstream/mysticism/skills/sephirot-41771f8516.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sephirot, Lord Of Life</strong>
-<small>Play with the fickle force of Life like it was thread on the water. Gain control over the ethereal forces of life and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ultimate-skill-aquisition/">
-<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ultimate Skill Aquisition</strong>
-<small>To evolve a unique skill to an ultimate skill, all of the following requirements have to be met</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

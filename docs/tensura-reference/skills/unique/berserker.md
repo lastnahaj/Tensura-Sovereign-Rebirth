@@ -20,6 +20,7 @@ tags:
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Feed on your enemies&#x27; defeat. Gain EP from kills, destroy equipment faster, and boost your physical stats based on your power level.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#how-to-obtain">How to obtain</a></nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
 <button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
@@ -27,11 +28,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Feed on your enemies' defeat. Gain EP from kills, destroy equipment faster, and boost your physical stats based on your power level.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Berserker</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Berserker.png"><img alt="Berserker.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/berserker-6e3ba65a97.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Berserker</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Berserker.png"><img alt="Berserker.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/berserker-6e3ba65a97.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 40000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 In Slot, True</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
@@ -62,28 +68,28 @@ Mastery is gained passively.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../berserk/">
-<img src="../../../../assets/upstream/tensura/skills/berserk-c34438bb6a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/berserk-c34438bb6a.png"/>
 <span class="reference-related-copy">
 <strong>Berserk</strong>
 <small>Massively empower your body and infuse it with a flame aura. Allows you to go into a risky but overwhelmingly powerful…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../bewilder/">
-<img src="../../../../assets/upstream/tensura/skills/bewilder-11d2090ec0.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/bewilder-11d2090ec0.png"/>
 <span class="reference-related-copy">
 <strong>Bewilder</strong>
 <small>Use this skill to manipulate friends and foes,compelling them to act according to your will.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../analyst/">
-<img src="../../../../assets/upstream/tensura/skills/analyst-554146c8e2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/analyst-554146c8e2.png"/>
 <span class="reference-related-copy">
 <strong>Analyst</strong>
 <small>Analyze the magic of the world and learn it yourself expanding your knowledge in the arcane</small>
 </span>
 </a>
 <a class="reference-related-card" href="../chef/">
-<img src="../../../../assets/upstream/tensura/skills/chef-cc146bcafe.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/chef-cc146bcafe.png"/>
 <span class="reference-related-copy">
 <strong>Chef</strong>
 <small>Purify and renew. Remove all negative effects and restore vitality to those under your care.</small>

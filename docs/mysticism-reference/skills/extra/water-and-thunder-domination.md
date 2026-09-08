@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Water and Thunder Domination
 description: Boost the power of Lightning and water abilities by a great amount.
 tags:
@@ -11,6 +13,10 @@ tags:
 # Water and Thunder Domination
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -67,32 +73,25 @@ Upon learning <a href="../../ultimate/mephisto/" title="Mephisto">Mephisto</a></
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Extra Skills</a>
+<a href="../../../../tensura-reference/skills/extra/">Browse all Extra Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../profaned-prominence/">
-<img src="../../../../assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-profaned_prominence.svg"/>
 <span class="reference-related-copy">
 <strong>Profaned Prominence</strong>
 <small>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../mana-manipulation/">
-<img src="../../../../assets/upstream/mysticism/skills/mana-manipulation-e8636f0c23.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mana Manipulation</strong>
-<small>Have an unparalled control over magicules, and interfere with your enemies&#x27; spells.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../light-manipulation/">
-<img src="../../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_manipulation.svg"/>
 <span class="reference-related-copy">
 <strong>Light Manipulation</strong>
 <small>Boosts the power of Light abilities by a decent amount</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-domination/">
-<img src="../../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_domination.svg"/>
 <span class="reference-related-copy">
 <strong>Light Domination</strong>
 <small>Boost the power of Light abilities by a great amount.</small>

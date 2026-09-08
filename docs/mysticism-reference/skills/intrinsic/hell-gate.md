@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Hell Gate
 description: Your demonic prowess allows you to enter Hell at will, creating a portal between both dimensions and instantly warping to the other side.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Hell Gate
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -37,7 +43,7 @@ tags:
 Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Races/Daemon_Lord">Daemon Lord</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/races/races-daemon-lord/">Daemon Lord</a></div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
 <ul><li>[Active, Press] Warp (Overworld) - Teleports the user to the overworld. Doesn't work if you're in the overworld.</li></ul>
@@ -57,32 +63,32 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Intrinsic Skills</a>
+<a href="../../../../tensura-reference/skills/intrinsic/">Browse all Intrinsic Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../exoskeleton/">
-<img src="../../../../assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-exoskeleton.svg"/>
 <span class="reference-related-copy">
 <strong>Exoskeleton</strong>
 <small>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hell-hall/">
-<img src="../../../../assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hell_hall.svg"/>
 <span class="reference-related-copy">
 <strong>Hell Hall</strong>
 <small>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dissonance/">
-<img src="../../../../assets/upstream/mysticism/skills/dissonance-5475c825ca.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dissonance.svg"/>
 <span class="reference-related-copy">
 <strong>Dissonance</strong>
 <small>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lethal-poison/">
-<img src="../../../../assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lethal_poison.svg"/>
 <span class="reference-related-copy">
 <strong>Lethal Poison</strong>
 <small>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</small>

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Ignis, Lord of Explosions
 description: Harness the power of fire and destruction to dominate your surroundings.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Ignis, Lord of Explosions
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -37,7 +43,7 @@ tags:
 Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 750K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Fusionist">Fusionist</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/fusionist/">Fusionist</a></div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
 <ul><li>[Active, Press] Dissasmble - Turn all blocks in a 3x3 radius into matter. Shift + Skill Key shows you how much matter you have. Holding a stack of any convertable item will allow you to convert the held item into matter at double the rate. So one stack of 64 = 128 matter. Costs: 30K MP.</li></ul>
@@ -58,42 +64,7 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../heracles/">
-<img src="../../../../assets/upstream/mysticism/skills/heracles-7d22ad0e27.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Heracles, Lord Of The Hunt</strong>
-<small>Breathe. One misstep and your power... Breathe. It could even slay a God. Breathe.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../invictus/">
-<img src="../../../../assets/upstream/mysticism/skills/invictus-bc6a1e3fc5.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Invictus, Lord Of Victory</strong>
-<small>You are deemed god&#x27;s chosen warrior, an emperor who does not know the meaning of loss, a being whose very presence…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hades/">
-<img src="../../../../assets/upstream/mysticism/skills/hades-ccef86f6d3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hades, Lord of Death</strong>
-<small>Destroy all, kill all. Your reputation as the Visage of Death precedes you. Execute your enemies with clones and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../laverna/">
-<img src="../../../../assets/upstream/mysticism/skills/laverna-13620a2ce7.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Laverna, Lord Of Vainglory</strong>
-<small>Is this the domain of the one who is regarded as the ruler of the Shadows? Perhaps it is. But only you know the real…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

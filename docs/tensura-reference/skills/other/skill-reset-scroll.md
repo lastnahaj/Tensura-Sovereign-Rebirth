@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Skill Reset Scroll
 description: Resets every skill of every type from the user except their Race's Intrinsic Skills 5 second cooldown This scroll will not cover the cost for a new Unique Skill. Be careful or else you can end up with no Unique Skill 100K Max MP is required for all unique skills to be available for reroll, less than...
 tags:
@@ -9,6 +11,10 @@ tags:
 # Skill Reset Scroll
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Other Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -97,29 +103,8 @@ tags:
 <a href="../">Browse all Other Skills</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../mastery-boost-skills/">
-<img src="../../../../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mastery Boost Skills</strong>
-<small>Skills that can increase the mastery gain of other abilities.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../abilities-skills/">
-<img src="../../../../assets/upstream/tensura/skills/resistances-4a6730f2b0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Skills</strong>
-<small>Skills are formulas that, once etched onto the Soul, can be instinctively used without any practice, though their…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../bypass-degrade-skills/">
-<img src="../../../../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Bypass/Degrade Skills</strong>
-<small>This page is an index of all skills that fall under this umbrella term of bypass/degrade skill. For specific…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../anti-skill/">
-<img src="../../../../assets/upstream/tensura/skills/anti-skill-1b8c91940a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/anti-skill-1b8c91940a.png"/>
 <span class="reference-related-copy">
 <strong>Anti-Skill</strong>
 <small>Become immune to Magic, Skills, Skill Debuffs and Battlewill, destroy barriers and block skill usage of other entities</small>

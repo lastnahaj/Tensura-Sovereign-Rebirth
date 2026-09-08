@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Plunderer
 description: Blend the shadows together for a perfect mix of discord and harmony. Rule over them and destroy all who dare to disrupt the Shadow Monarch's reign.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Plunderer
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -69,32 +75,32 @@ Reincarnation/Reroll</div></div></div></div>
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Unique Skills</a>
+<a href="../../../../tensura-reference/skills/unique/">Browse all Unique Skills</a>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../phaser/">
-<img src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-phaser.svg"/>
 <span class="reference-related-copy">
 <strong>Phaser</strong>
-<small>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</small>
+<small>"When a man learns to love, he must also bear the risk of carrying hate"</small>
 </span>
 </a>
 <a class="reference-related-card" href="../provider/">
-<img src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-provider.svg"/>
 <span class="reference-related-copy">
 <strong>Provider</strong>
 <small>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../melancholy/">
-<img src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reducer/">
-<img src="../../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reducer.svg"/>
 <span class="reference-related-copy">
 <strong>Reducer</strong>
 <small>Damn bro, no magicules?</small>

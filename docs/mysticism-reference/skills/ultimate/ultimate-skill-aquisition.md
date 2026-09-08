@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Ultimate Skill Aquisition
 description: To evolve a unique skill to an ultimate skill, all of the following requirements have to be met Be awakened as either True Hero or True demon Lord Posses an evolvable unique skill Possess every required skill and master it (applies to all) Have at least the required amount of MP (If Soulquality Gamerule...
 tags:
@@ -9,6 +11,10 @@ tags:
 # Ultimate Skill Aquisition
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This is a guide, not an individual skill.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -56,42 +62,7 @@ tags:
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../tsukuyomi/">
-<img src="../../../../assets/upstream/mysticism/skills/tsukuyomi-4caed5d950.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Tsukuyomi, Lord of Moon Shadow</strong>
-<small>Manipulate perception and move beyond time and space. Manifest countless forms that copy your skills, control minds…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../uriel/">
-<img src="../../../../assets/upstream/mysticism/skills/uriel-93ba374caf.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Uriel, Lord Of Oath</strong>
-<small>The Ultimate shield against any attack, control the laws of the world to your liking and become unstoppable.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../takemikazuchi/">
-<img src="../../../../assets/upstream/mysticism/skills/takemikazuchi-e51e4bdc75.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Takemikazuchi, Lord of Combat</strong>
-<small>Become the ruler of physical combat. Gain increased reaction speed and attack speed while channeling all your power…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../viciel/">
-<img src="../../../../assets/upstream/mysticism/skills/viciel-112e7859e1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Viciel, Lord Of Lurking</strong>
-<small>Transcend the limits of the mortal realm as the one true commander over the shadows and stealth. You truly are a…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

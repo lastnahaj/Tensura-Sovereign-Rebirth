@@ -1791,6 +1791,35 @@
 .md-typeset .race-stage-card a,
 .md-typeset .ascension-entry a { color: var(--tsr-cyan); text-decoration: underline; text-underline-offset: .15em; }
 .race-stage-card dd a { display: inline-block; }
+[data-md-color-scheme="slate"] { --md-typeset-a-color: var(--tsr-cyan); }
+.race-secondary-stats { margin: .65rem 0; }
+.race-secondary-stats > summary { font-size: .65rem; }
+.family-connection-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; margin: .8rem 0 1.2rem; }
+.family-connection-grid > div { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem; padding: .65rem; border: 1px solid rgba(51, 214, 255, .18); border-radius: .55rem; font-size: .65rem; }
+.md-typeset .family-connection-grid a { color: var(--tsr-cyan); font-weight: 700; }
+.family-connection-grid span { color: var(--tsr-gold); font-size: .55rem; }
+.family-map-details { margin: 1rem 0; }
+.skill-category-nav { margin: 1rem 0; }
+
+.skill-obtainment,
+.skill-availability { margin: 1rem 0 1.4rem; padding: 1.1rem 1.25rem; border: 1px solid rgba(51, 214, 255, .28); border-radius: .8rem; background: rgba(51, 214, 255, .045); }
+.skill-obtainment h2,
+.skill-availability h2 { margin: .2rem 0 .7rem; border: 0; font-size: 1.1rem; }
+.skill-obtainment ul { margin: .6rem 0 .8rem 1rem; }
+.skill-obtainment li + li { margin-top: .5rem; }
+.skill-evidence-note { color: var(--md-default-fg-color--light); font-size: .7rem; }
+.skill-reference-status { display: block; margin: .2rem 0 .65rem; color: var(--tsr-gold); font-size: .7rem; line-height: 1.45; }
+.skill-source-limits { margin: .5rem 0 .9rem; color: var(--md-default-fg-color--light); font-size: .7rem; }
+.skill-source-limits summary { cursor: pointer; color: var(--tsr-cyan); }
+.reference-overview-media img[src*="/icons/skills/"] { object-fit: contain; padding: 1rem; max-height: 12rem; }
+.skill-availability--historical { border-color: rgba(240, 187, 75, .55); background: rgba(240, 187, 75, .075); }
+.reference-card-media img[src$=".svg"] { object-fit: contain; padding: 1.25rem; }
+@media (max-width: 42rem) { .family-connection-grid { grid-template-columns: 1fr; } }
+.skill-detail-hero { display: flex; align-items: center; gap: 1.2rem; margin: 0 0 1rem; padding: 1.3rem; border: 1px solid rgba(51, 214, 255, .25); border-radius: .8rem; background: linear-gradient(125deg, rgba(21, 87, 213, .18), rgba(142, 76, 245, .12)); }
+.skill-detail-hero > img { width: 5rem; height: 5rem; flex: 0 0 5rem; object-fit: contain; image-rendering: auto; }
+.skill-detail-hero h1 { margin: .25rem 0; }
+.skill-detail-hero p { margin: .3rem 0; }
+@media (max-width: 30rem) { .skill-detail-hero { align-items: flex-start; gap: .75rem; padding: .9rem; } .skill-detail-hero > img { width: 3rem; height: 3rem; flex-basis: 3rem; } .skill-detail-hero h1 { font-size: 1.35rem; } }
 .race-card-route { display: flex; align-items: center; justify-content: space-between; gap: .5rem; margin: auto 0 0; padding-top: .65rem; border-top: 1px solid rgba(51, 214, 255, .12); font-size: .66rem; font-weight: 800; }
 .race-card-route > *:last-child { margin-left: auto; text-align: right; }
 .race-map-directory { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; margin: 1rem 0 1.5rem; }

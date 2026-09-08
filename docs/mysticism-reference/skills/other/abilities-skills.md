@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Skills
 description: Intrinsic Skills Extra Skills Unique Skills View or edit this templateSkillsThe Skills from Mysticism 1.21.1These are the current Skills supported in the 1.21 version of Tensura Mysticism.Instrinsic SkillsBullet Punch • Clangorous Soul • Corrosion Transform • Discharge • Dissonance • Hell Hall • Lethal...
 tags: []
@@ -7,6 +9,10 @@ tags: []
 # Skills
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Other Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This is a guide, not an individual skill.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -51,21 +57,7 @@ tags: []
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Other Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../abilities/">
-<img src="../../../../assets/upstream/mysticism/races/skillicon-2d9be4e24c.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Abilities</strong>
-<small>You only celebrate in the light because I allow it.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

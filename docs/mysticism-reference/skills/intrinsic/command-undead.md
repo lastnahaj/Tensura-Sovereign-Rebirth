@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Command Undead
 description: Turn heads as a king of the undead, commanding all nearby undead creatures nearby to attack your appointed target.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Command Undead
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -37,7 +43,7 @@ tags:
 Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Races/Wight_King">Wight King</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/races/races-wight-king/">Wight King</a></div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Active">Active</span></h3>
 <ul><li>[Active] Command Undead - Command all creatures marked Undead in a 16x16 (32x32 with mastery) radius around the player to attack the entity you are looking at.</li></ul>
@@ -56,32 +62,18 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 <section class="reference-related">
 <div class="reference-related-heading">
 <h2>Continue exploring</h2>
-<a href="../">Browse all Intrinsic Skills</a>
+<a href="../../../../tensura-reference/skills/intrinsic/">Browse all Intrinsic Skills</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../burrow/">
-<img src="../../../../assets/upstream/mysticism/skills/burrow-f14671c8a1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Burrow</strong>
-<small>Upstream reference information for Burrow.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../contract/">
-<img src="../../../../assets/upstream/mysticism/skills/contract-ffa43c70fe.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Contract</strong>
-<small>BEWARE: If the host dies to void damage...this kills both the contracter and contracted. Wee Woo. Even across…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../bullet-punch/">
-<img src="../../../../assets/upstream/mysticism/skills/bullet-punch-2c40b24441.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-bullet_punch.svg"/>
 <span class="reference-related-copy">
 <strong>Bullet Punch</strong>
 <small>When mastered, becomes toggleable.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corrosion-transform/">
-<img src="../../../../assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corrosion_transform.svg"/>
 <span class="reference-related-copy">
 <strong>Corrosion Transform</strong>
 <small>Channel your inner corrosion to burn and bleed of the flesh of your enemies</small>

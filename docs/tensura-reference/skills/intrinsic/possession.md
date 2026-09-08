@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Possess a weakened material body to gain access to a whole new world.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Intrinsic Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Intrinsic Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+<a href="../../../races/races-lesser-daemon/" title="Races/Lesser Daemon">Lesser Daemon</a> · <a href="../../../races/races-demon-slime/" title="Races/Demon Slime">Demon Slime</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Possess a weakened material body to gain access to a whole new world.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Possession</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Possession.png"><img alt="Possession.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/possession-372f433124.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Possession</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Possession.png"><img alt="Possession.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/possession-372f433124.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 100 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 None</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
@@ -63,28 +69,28 @@ None</div></div></div><div class="druid-section-container"><div data-druid-secti
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../poisonous-breath/">
-<img src="../../../../assets/upstream/tensura/skills/poisonous-breath-1a3e1e35f8.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/poisonous-breath-1a3e1e35f8.png"/>
 <span class="reference-related-copy">
 <strong>Poisonous Breath</strong>
 <small>Use your disgusting breath to corrode and nauseate your targets.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../scale-armor/">
-<img src="../../../../assets/upstream/tensura/skills/scale-armor-54121e5406.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/scale-armor-54121e5406.png"/>
 <span class="reference-related-copy">
 <strong>Scale Armor</strong>
 <small>Like the lizardmen, move through water and mud with no penalties while receiving a slight defense buff.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysing-breath/">
-<img src="../../../../assets/upstream/tensura/skills/paralysing-breath-88763f2897.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/paralysing-breath-88763f2897.png"/>
 <span class="reference-related-copy">
 <strong>Paralysing Breath</strong>
 <small>Spew a horrifying breath to paralyze your prey.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../space-transform/">
-<img src="../../../../assets/upstream/tensura/skills/space-transform-de56dbbb2f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/space-transform-de56dbbb2f.png"/>
 <span class="reference-related-copy">
 <strong>Space Transform</strong>
 <small>Channel the powers of space to weaken and damage all nearby entities.</small>

@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Become able to cast mastered magic instantly, in water or even under the effects of silence.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Note">Note</a>
 </nav>
@@ -31,11 +32,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Extra Skills</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Extra Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
+Master 10 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Magics</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Become able to cast mastered magic instantly, in water or even under the effects of silence.
 </p>
-<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Chant Annulment</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Chant_annulment.png"><img alt="Chant annulment.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/chant-annulment-769264c966.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
-Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Chant Annulment</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Chant_annulment.png"><img alt="Chant annulment.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/tensura/skills/chant-annulment-769264c966.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1000 MP</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-CombinationofSkills" data-druid-section-row="Obtaining"><div class="druid-label druid-label-CombinationofSkills">Combination of Skills</div><div class="druid-data druid-data-CombinationofSkills druid-data-nonempty">
@@ -65,28 +71,28 @@ Master 10 <a href="../../../magic/abilities-magics/" title="Abilities/Magics">Ma
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../body-double/">
-<img src="../../../../assets/upstream/tensura/skills/body-double-d831ac2af4.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/body-double-d831ac2af4.png"/>
 <span class="reference-related-copy">
 <strong>Body Double</strong>
 <small>Use a tenth of your magical power to summon an identical clone which takes increased damage but will fight for you…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../danger-sense/">
-<img src="../../../../assets/upstream/tensura/skills/danger-sense-96b66f48e6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/danger-sense-96b66f48e6.png"/>
 <span class="reference-related-copy">
 <strong>Danger Sense</strong>
 <small>Receive a mental warning when entities with hostile intent enter your proximity.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../black-lightning/">
-<img src="../../../../assets/upstream/tensura/skills/black-lightning-d86020769a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/black-lightning-d86020769a.png"/>
 <span class="reference-related-copy">
 <strong>Black Lightning</strong>
 <small>Shoot black lightning at varying strength, or summon a massive storm which attacks any non-allied mobs. A short range…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../demon-lord-haki/">
-<img src="../../../../assets/upstream/tensura/skills/demon-lord-haki-3738966967.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/tensura/skills/demon-lord-haki-3738966967.png"/>
 <span class="reference-related-copy">
 <strong>Demon Lord Haki</strong>
 <small>Unleash your Demonic aura causing those around you to quake in fear.</small>

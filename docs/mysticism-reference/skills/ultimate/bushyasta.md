@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Bushyasta, Lord Of Stagnation
 description: The antithesis to progress, you cause the world to cease all change around you, locking your enemies in temporal stasis, stopping the very flow of their life force, and preventing all harm from reaching you.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Bushyasta, Lord Of Stagnation
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,12 +44,12 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 500K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 True · Toggle · In-Slot</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a href="../../unique/stagnator/" title="Stagnator"> Stagnator</a> and <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Multilayer_Barrier">Multilayer Barrier</a></div></div></div></div>
+<a href="../../unique/stagnator/" title="Stagnator"> Stagnator</a> and <a class="external text" href="../../../../tensura-reference/skills/extra/multilayer-barrier/">Multilayer Barrier</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Thought_Acceleration"><b>Thought Acceleration</b></a></li></ul>
-<ul><li>[Passive, Toggle] <a class="external text" href="https://tensura.wiki.gg/wiki/Chant_Annulment"><b>Chant Annulment</b></a></li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/thought-acceleration/"><b>Thought Acceleration</b></a></li></ul>
+<ul><li>[Passive, Toggle] <a class="external text" href="../../../../tensura-reference/skills/extra/chant-annulment/"><b>Chant Annulment</b></a></li></ul>
 <ul><li>[Passive, In-Slot] <b>Stasis Field</b> - All Projectiles do not harm the user</li></ul>
 <ul><li>[Passive, True] <b>Road to Stagnation</b> - all Non-Ally entities gain slowness 4 when within 10 blocks of the user, or slowness 2 when within 20 blocks. With mastery, this changes to paralysis 4 and paralysis 2</li></ul>
 <ul><li>[Passive, Toggle] <b>Cessation</b> - All the users attacks gain +50 damage, bypass resists, and treat nulls as resists. Also, the user slowly gains barrier points</li></ul>
@@ -66,42 +72,7 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../belphegor/">
-<img src="../../../../assets/upstream/mysticism/skills/belphegor-f79e51e5b7.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Belphegor, Lord of Sloth</strong>
-<small>Your enemies falls to their knees around you, unable to support your aura of stillness.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../dionysus/">
-<img src="../../../../assets/upstream/mysticism/skills/dionysus-2762dae7cd.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Dionysus, Lord of Crashing</strong>
-<small>The true essence of the destroyer. Decimate and remove all threats from existence and delete chunks with your…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../beelzebub/">
-<img src="../../../../assets/upstream/mysticism/skills/beelzebub-329e0e714b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Beelzebub, Lord Of Gourmet</strong>
-<small>Damn, so hungry bring me nuggets</small>
-</span>
-</a>
-<a class="reference-related-card" href="../galileo/">
-<img src="../../../../assets/upstream/mysticism/skills/galileo-5af79aee12.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Galileo, Lord of Observation</strong>
-<small>The true-sight of one who has mastered their instincts, able to notice all at a moment&#x27;s glance. Petrify your enemies…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Heracles, Lord Of The Hunt
 description: Breathe. One misstep and your power... Breathe. It could even slay a God. Breathe.
 tags:
@@ -10,6 +12,10 @@ tags:
 # Heracles, Lord Of The Hunt
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Ultimate Skills</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.</p><a href="../../../../tensura-reference/skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -38,7 +44,7 @@ Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid
 300K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 2000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle · True</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Sniper">Sniper</a> + <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Spatial_Domination">Spatial Domination</a></div></div></div></div>
+<a class="external text" href="../../../../tensura-reference/skills/unique/sniper/">Sniper</a> + <a class="external text" href="../../../../tensura-reference/skills/extra/spatial-domination/">Spatial Domination</a></div></div></div></div>
 
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
@@ -66,42 +72,7 @@ Toggle · True</div></div></div><div class="druid-section-container"><div data-d
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Ultimate Skills</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../hades/">
-<img src="../../../../assets/upstream/mysticism/skills/hades-ccef86f6d3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hades, Lord of Death</strong>
-<small>Destroy all, kill all. Your reputation as the Visage of Death precedes you. Execute your enemies with clones and…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ignis/">
-<img src="../../../../assets/upstream/mysticism/skills/ignis-50f4c96ead.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ignis, Lord of Explosions</strong>
-<small>Harness the power of fire and destruction to dominate your surroundings.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../gilgamesh/">
-<img src="../../../../assets/upstream/mysticism/skills/gilgamesh-f97b6f514b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Gilgamesh, Lord Of Treasures</strong>
-<small>There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../invictus/">
-<img src="../../../../assets/upstream/mysticism/skills/invictus-bc6a1e3fc5.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Invictus, Lord Of Victory</strong>
-<small>You are deemed god&#x27;s chosen warrior, an emperor who does not know the meaning of loss, a being whose very presence…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
