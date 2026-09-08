@@ -17,9 +17,12 @@ class PageParser(HTMLParser):
         super().__init__()
         self.ids = set()
         self.links = []
+        self.unrendered_markdown = False
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if "markdown" in attrs:
+            self.unrendered_markdown = True
         if attrs.get("id"):
             self.ids.add(attrs["id"])
         if tag == "a" and attrs.get("href"):
@@ -60,13 +63,30 @@ def main() -> int:
         if edge["from"] not in graph["nodes"] or edge["to"] not in graph["nodes"]:
             errors.append(f"Unknown progression endpoint: {edge}")
 
+    for source, destination in json.loads((SITE / "assets/data/skill-redirects.json").read_text(encoding="utf-8")).items():
+        check(destination)
+    race_families = json.loads((SITE / "assets/data/race-families.json").read_text(encoding="utf-8"))
+    expected_races = set()
+    for source in ("tensura", "mysticism"):
+        source_manifest = json.loads((ROOT / f"data/upstream_{source}_pages.json").read_text(encoding="utf-8"))
+        for record in source_manifest["pages"]:
+            if record["category"] == "races" and record["display_title"].strip().casefold() != "races":
+                expected_races.add(record["local_page"].removesuffix(".md") + "/")
+    if set(race_families["destinations"]) != expected_races:
+        errors.append("Race family coverage differs from the imported race manifest")
+    for destination in race_families["destinations"].values():
+        check(destination)
+
     manifest = json.loads((ROOT / "data/ascension_reference.json").read_text(encoding="utf-8"))
     routes = [page.removesuffix(".md") + "/" for page in manifest["pages"]]
     routes += ["ascension-and-awakening/", "hyperbolic-chamber/", "getting-started/", "tensura-reference/races/evolution-trees/"]
+    routes += [family["route"] for family in race_families["families"]]
     for route in routes:
         page = SITE / route / "index.html"
         parser = PageParser()
         parser.feed(page.read_text(encoding="utf-8"))
+        if parser.unrendered_markdown:
+            errors.append(f"Unrendered Markdown container: {route}")
         for link in parser.links:
             if urlsplit(link).fragment:
                 check(link, page.parent)

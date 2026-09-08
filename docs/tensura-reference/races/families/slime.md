@@ -1,0 +1,67 @@
+---
+title: "Slime Evolution"
+description: 4 connected race forms with documented stats, abilities, and evolution links.
+---
+
+<section class="race-family-hero"><img src="../../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="Slime race reference artwork"><div><p class="reference-eyebrow">Race family · 4 forms</p><h1>Slime evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>
+
+[All race families](../index.md)
+
+## Evolution path
+
+<div class="family-connection-grid" aria-label="Documented evolution paths">
+<div><a href="#races-slime">Slime</a><span>Evolution / Next / Named / Awakening →</span><a href="#races-demon-slime">Demon Slime</a></div>
+<div><a href="#races-slime">Slime</a><span>Evolution / Next →</span><a href="#races-metal-slime">Metal Slime</a></div>
+<div><a href="#races-metal-slime">Metal Slime</a><span>Evolution / Next / Named / Awakening →</span><a href="#races-demon-slime">Demon Slime</a></div>
+<div><a href="#races-demon-slime">Demon Slime</a><span>Next / Named / Awakening / Evolution →</span><a href="#races-god-slime">God Slime</a></div>
+</div>
+
+## Race stages
+
+<div class="race-stage-grid">
+<article class="race-stage-card" id="races-slime"><p class="race-stage-kicker">Race form</p><h2>Slime</h2><div class="race-stats"><span><b>10</b> HP</span><span><b>75</b> SHP</span><span><b>200 - 500</b> MP Range</span><span><b>200 - 500</b> AP Range</span><span><b>0.3</b> Attack DMG</span><span><b>0.07</b> Movement Speed</span></div><dl><dt>Difficulty</dt><dd>
+Extreme</dd><dt>Alignment</dt><dd>
+Majin</dd><dt>Spiritual</dt><dd>
+No</dd><dt>Divine</dt><dd>
+No</dd><dt>Intrinsics</dt><dd>
+<a class="mw-redirect" href="../../../skills/intrinsic/absorb-dissolve/" title="Abilities/Skills/Absorb &amp; Dissolve">Absorb &amp; Dissolve</a>, <a class="mw-redirect" href="../../../skills/common/self-regeneration/" title="Abilities/Skills/Self Regeneration">Self Regeneration</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../races-slime/">Open full Slime reference</a></dd></dl><details class="race-secondary-stats"><summary>More race stats</summary><dl><dt>Size</dt><dd>
+0.5 Meters(Half a block)</dd><dt>Attack Speed</dt><dd>
+4</dd><dt>Knockback Resist</dt><dd>
+0</dd><dt>Jump Boost</dt><dd>
+1 Meter</dd><dt>Sprint Speed</dt><dd>
+0.091</dd></dl></details><p class="race-card-route"><span>No previous form documented</span><span><a href="#races-demon-slime">Demon Slime →</a> · <a href="#races-metal-slime">Metal Slime →</a></span></p></article>
+<article class="race-stage-card" id="races-metal-slime"><p class="race-stage-kicker">Race form</p><h2>Metal Slime</h2><div class="race-stats"><span><b>100</b> HP</span><span><b>320</b> SHP</span><span><b>7000</b> MP Range</span><span><b>3000</b> AP Range</span><span><b>2</b> Attack DMG</span><span><b>0.1</b> Movement Speed</span></div><dl><dt>Alignment</dt><dd>
+Majin</dd><dt>Spiritual</dt><dd>
+No</dd><dt>Divine</dt><dd>
+No</dd><dt>Intrinsics</dt><dd>
+<a class="mw-redirect" href="../../../skills/intrinsic/body-armor/" title="Abilities/Skills/Body Armor">Body Armor</a>, <a class="mw-redirect" href="../../../resistances/physical-attack-resistance/" title="Abilities/Skills/Physical Attack Resistance">Physical Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/cold-resistance/" title="Abilities/Skills/Cold Resistance">Cold Resistance</a>, <a class="mw-redirect" href="../../../resistances/corrosion-resistance/" title="Abilities/Skills/Corrosion Resistance">Corrosion Resistance</a>, <a class="mw-redirect" href="../../../resistances/darkness-attack-resistance/" title="Abilities/Skills/Darkness Attack Resistance">Darkness Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/earth-attack-resistance/" title="Abilities/Skills/Earth Attack Resistance">Earth Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/electricity-resistance/" title="Abilities/Skills/Electricity Resistance">Electricity Resistance</a>, <a class="mw-redirect" href="../../../resistances/gravity-attack-resistance/" title="Abilities/Skills/Gravity Attack Resistance">Gravity Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/heat-resistance/" title="Abilities/Skills/Heat Resistance">Heat Resistance</a>, <a class="mw-redirect" href="../../../resistances/light-attack-resistance/" title="Abilities/Skills/Light Attack Resistance">Light Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/spatial-attack-resistance/" title="Abilities/Skills/Spatial Attack Resistance">Spatial Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/water-attack-resistance/" title="Abilities/Skills/Water Attack Resistance">Water Attack Resistance</a>, <a class="mw-redirect" href="../../../resistances/wind-attack-resistance/" title="Abilities/Skills/Wind Attack Resistance">Wind Attack Resistance</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../races-metal-slime/">Open full Metal Slime reference</a></dd></dl><details class="race-secondary-stats"><summary>More race stats</summary><dl><dt>Size</dt><dd>
+0.5 Meters</dd><dt>Attack Speed</dt><dd>
+4.2</dd><dt>Knockback Resist</dt><dd>
+0.4</dd><dt>Jump Boost</dt><dd>
+2 Meters</dd><dt>Sprint Speed</dt><dd>
+0.15</dd></dl></details><p class="race-card-route"><span><a href="#races-slime">← Slime</a></span><span><a href="#races-demon-slime">Demon Slime →</a></span></p></article>
+<article class="race-stage-card" id="races-demon-slime"><p class="race-stage-kicker">Race form</p><h2>Demon Slime</h2><div class="race-stats"><span><b>520</b> HP</span><span><b>3160</b> SHP</span><span><b>400,000</b> MP Range</span><span><b>400,000</b> AP Range</span><span><b>3</b> Attack DMG</span><span><b>0.13</b> Movement Speed</span></div><dl><dt>Alignment</dt><dd>
+Majin</dd><dt>Spiritual</dt><dd>
+Yes</dd><dt>Divine</dt><dd>
+No</dd><dt>Intrinsics</dt><dd>
+<a class="mw-redirect" href="../../../skills/intrinsic/possession/" title="Abilities/Skills/Possession">Possession</a>. <a class="mw-redirect" href="../../../skills/extra/infinite-regeneration/" title="Abilities/Skills/Infinite Regeneration">Infinite Regeneration</a>, <a class="mw-redirect" href="../../../skills/extra/universal-perception/" title="Abilities/Skills/Universal Perception">Universal Perception</a>, <a class="mw-redirect" href="../../../resistances/physical-attack-nullification/" title="Abilities/Skills/Physical Attack Nullification">Physical Attack Nullification</a>, <a class="mw-redirect" href="../../../magic/magic-resistance/" title="Abilities/Skills/Magic Resistance">Magic Resistance</a>, <a class="mw-redirect" href="../../../resistances/spiritual-attack-resistance/" title="Abilities/Skills/Spiritual Attack Resistance">Spiritual Attack Resistance</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../races-demon-slime/">Open full Demon Slime reference</a></dd></dl><details class="race-secondary-stats"><summary>More race stats</summary><dl><dt>Size</dt><dd>
+0.8 Meters</dd><dt>Attack Speed</dt><dd>
+4.5</dd><dt>Knockback Resist</dt><dd>
+0.5</dd><dt>Jump Boost</dt><dd>
+3 Meters</dd><dt>Sprint Speed</dt><dd>
+0.2</dd></dl></details><p class="race-card-route"><span><a href="#races-metal-slime">← Metal Slime</a> · <a href="#races-slime">← Slime</a></span><span><a href="#races-god-slime">God Slime →</a></span></p></article>
+<article class="race-stage-card" id="races-god-slime"><p class="race-stage-kicker">Divine evolution</p><h2>God Slime</h2><div class="race-stats"><span><b>1020</b> HP</span><span><b>6460</b> SHP</span><span><b>1,000,000</b> MP Range</span><span><b>1,000,000</b> AP Range</span><span><b>5</b> Attack DMG</span><span><b>0.17</b> Movement Speed</span></div><dl><dt>Alignment</dt><dd>
+Majin</dd><dt>Spiritual</dt><dd>
+Yes</dd><dt>Divine</dt><dd>
+Yes</dd><dt>Intrinsics</dt><dd>
+<a href="../../../skills/intrinsic/divine-ki-release/" title="Divine Ki Release">Divine Ki Release</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../races-god-slime/">Open full God Slime reference</a></dd></dl><details class="race-secondary-stats"><summary>More race stats</summary><dl><dt>Size</dt><dd>
+0.8 Meters</dd><dt>Attack Speed</dt><dd>
+4.7</dd><dt>Knockback Resist</dt><dd>
+0.7</dd><dt>Jump Boost</dt><dd>
+4 Meters</dd><dt>Sprint Speed</dt><dd>
+0.4</dd></dl></details><p class="race-card-route"><span><a href="#races-demon-slime">← Demon Slime</a></span><span>No further evolution documented</span></p></article>
+</div>
+
+Stats and relationships retain their source-page context. Evolution methods can have separate EP, naming, awakening, or other requirements; a connecting arrow alone is not an unlock condition.
+
+Source pages credit the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and [TR Mysticism Wiki](https://trmysticism.wiki.gg/) contributors under CC BY-SA 4.0. See [upstream attribution](../../../project/upstream-attribution.md) and [Mysticism attribution](../../../project/mysticism-upstream-attribution.md).

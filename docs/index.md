@@ -45,7 +45,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <h2>Reincarnate & Evolve</h2>
 <p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/races/">Races <span>272</span></a>
+<a href="tensura-reference/races/">Race families <span>35</span></a>
 <a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
 </div>
 </div>

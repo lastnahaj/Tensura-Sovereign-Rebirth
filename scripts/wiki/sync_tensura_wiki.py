@@ -1255,6 +1255,8 @@ def attach_page_media(
 
 def article_summary(record: dict[str, Any], body_html: str, max_length: int = 360) -> str:
     soup = BeautifulSoup(body_html, "html.parser")
+    for panel in soup.select(".skill-obtainment, .skill-availability, .reference-eyebrow, .reference-related"):
+        panel.decompose()
     candidate = ""
     for heading in soup.find_all(["h2", "h3"]):
         if normalize_title(heading.get_text(" ", strip=True)) not in {"description", "overview", "summary"}:
@@ -1552,7 +1554,11 @@ def supplementary_records() -> list[dict[str, Any]]:
     if not path.exists():
         return []
     records = []
-    for entry in json.loads(path.read_text(encoding="utf-8"))["entries"]:
+    entries = json.loads(path.read_text(encoding="utf-8"))["entries"]
+    skill_path = DATA_ROOT / "skill_reference.json"
+    if skill_path.exists():
+        entries += json.loads(skill_path.read_text(encoding="utf-8"))["entries"]
+    for entry in entries:
         records.append({
             **entry,
             "source_title": entry["display_title"],
@@ -1560,6 +1566,9 @@ def supplementary_records() -> list[dict[str, Any]]:
             "_primary_media": {"local_path": entry["asset"]},
             "_supplementary": True,
         })
+    from skill_catalogue import nightmares_manifest
+    for entry in nightmares_manifest()["pages"]:
+        records.append({**entry, "_html": (DOCS / entry["local_page"]).read_text(encoding="utf-8"), "_primary_media": {"local_path": entry["asset"], "kind": "emblem"}, "_supplementary": True})
     return records
 
 
@@ -1744,7 +1753,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         card_asset = primary_media["local_path"] if primary_media else visual_asset(category)
         card_asset_url = rendered_asset_relative_url(index_page, card_asset)
         media_class = "reference-card-media--source" if primary_media else "reference-card-media--theme"
-        source_label = "Source media" if primary_media else "TSR artwork"
+        source_label = "TSR skill emblem" if primary_media and primary_media.get("kind") == "emblem" else ("Source media" if primary_media else "TSR artwork")
         lines.extend(
             [
                 f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',
@@ -1755,6 +1764,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 "</figure>",
                 '<div class="reference-card-copy">',
                 f"<h2>{html.escape(record['display_title'])}</h2>",
+                '<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>' if record.get("reference_build_only") else "",
                 f"<p>{html.escape(summary)}</p>",
                 '<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>',
                 "</div>",
@@ -2256,8 +2266,18 @@ def main() -> int:
         write_reference_indexes(
             coverage.get("site_statistics", {}), page_records, redirect_records, media_records
         )
+        from sync_skill_catalogue import generate as generate_skill_catalogue
+        for name, content in generate_skill_catalogue().items():
+            destination = DOCS / name
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_text(content, encoding="utf-8")
         from sync_progression import OUTPUT as progression_output, build as build_progression
         write_json(progression_output, build_progression())
+        from sync_race_families import generate as generate_race_families
+        for name, content in generate_race_families().items():
+            destination = DOCS / name
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_text(content, encoding="utf-8")
         generated_link_errors = audit_generated_links(REFERENCE_ROOT)
         if generated_link_errors:
             raise RuntimeError("\n".join(generated_link_errors[:40]))
@@ -2355,8 +2375,18 @@ def main() -> int:
     COVERAGE_REPORT.write_text(
         normalize_generated_text(render_coverage_report(coverage)), encoding="utf-8"
     )
+    from sync_skill_catalogue import generate as generate_skill_catalogue
+    for name, content in generate_skill_catalogue().items():
+        destination = DOCS / name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(content, encoding="utf-8")
     from sync_progression import OUTPUT as progression_output, build as build_progression
     write_json(progression_output, build_progression())
+    from sync_race_families import generate as generate_race_families
+    for name, content in generate_race_families().items():
+        destination = DOCS / name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(content, encoding="utf-8")
 
     print(
         "Generated reference: "
