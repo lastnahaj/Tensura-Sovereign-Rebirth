@@ -49,6 +49,7 @@
 <h2>Abilities/Magics</h2>
 
 <p>Spiritual Magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -63,6 +64,7 @@
 <h2>Acid Rain</h2>
 
 <p>Summon an acidic cloud which will corrode any afflicted entities</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -77,6 +79,7 @@
 <h2>Acid Shell</h2>
 
 <p>Create a ball of acid that corrodes the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -91,6 +94,7 @@
 <h2>Aerial Blade</h2>
 
 <p>Pull in any nearby entities before dealing massive damage by unleashing the power of your spirit</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -105,6 +109,7 @@
 <h2>Agility</h2>
 
 <p>Greatly increase your agility and speed using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -119,6 +124,7 @@
 <h2>Airflow Shut</h2>
 
 <p>Silence the target making them unable to cast magic verbally</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -133,6 +139,7 @@
 <h2>Analyze</h2>
 
 <p>Hmmm, hmmmmmmmhmhmhmhmmm, certainly an analysis we are having here.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -147,6 +154,7 @@
 <h2>Anti-Magic Area</h2>
 
 <p>Completely stop anyone inside the area to use aspectual or summoning magic, with the sole exception of Satoru Go- cough people with Law Manipulation</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -161,6 +169,7 @@
 <h2>Anti-Magic Mask</h2>
 
 <p>To craft the Anti-Magic Mask, one must have used a Anti-Magic Mask Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -175,6 +184,7 @@
 <h2>Anti-Magic Mask Schematic</h2>
 
 <p>Obtained by defeating Shizu</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -189,6 +199,7 @@
 <h2>Anti-Shock Area</h2>
 
 <p>Domain Expansion: Pillow Fist Arena</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -203,6 +214,7 @@
 <h2>Antidote</h2>
 
 <p>Heal the user from any weak abnormal effects that could be affecting it</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -217,6 +229,7 @@
 <h2>Barrier</h2>
 
 <p>Create a barrier over yourself protecting from physical attacks</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -231,6 +244,7 @@
 <h2>Blizzard</h2>
 
 <p>Creates a powerful storm of ice to slow your enemies and turn the tides of battle</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -245,6 +259,7 @@
 <h2>Burden</h2>
 
 <p>Increases the weight of the objective (Don&#x27;t use it on Caseoh pls)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -259,6 +274,7 @@
 <h2>Chain Explosion</h2>
 
 <p>Prepare for trouble and make it double! wait no triple!?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -273,6 +289,7 @@
 <h2>Clairvoyance</h2>
 
 <p>Huh? Clair Obscur magic??? Oh, its a better telescope, that&#x27;s cool too i guess...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -287,6 +304,7 @@
 <h2>Confusion</h2>
 
 <p>Confuse the target using magic illusions</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -301,6 +319,7 @@
 <h2>Create Greater Undead</h2>
 
 <p>Create a strong undead using the spirits of the dead</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -315,6 +334,7 @@
 <h2>Create Lesser Undead</h2>
 
 <p>Create a weak undead using the spirits of the dead</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -329,6 +349,7 @@
 <h2>Curse</h2>
 
 <p>Command the spirits of the dead to curse the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -343,6 +364,7 @@
 <h2>Curse Bind</h2>
 
 <p>Bind the target using death spirits</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -357,6 +379,7 @@
 <h2>Dark Cube</h2>
 
 <p>Create a cube of darkness that slows movement and deals constant damage</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -371,6 +394,7 @@
 <h2>Darkness</h2>
 
 <p>Call on your spirit to reduce the enemy&#x27;s vision in a wide area.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -385,6 +409,7 @@
 <h2>Darkness Cannon</h2>
 
 <p>Shoot a long beam which deals massive damage, destroys Armor and debilitates enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -399,6 +424,7 @@
 <h2>Demon Dominate</h2>
 
 <p>Dominate strong targets using magic and put them under your control</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -413,6 +439,7 @@
 <h2>Demon Marionette</h2>
 
 <p>Completely dominate foes strong enough to be considered demon lord seeds and put them under your control</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -427,6 +454,7 @@
 <h2>Dimensional Cutter</h2>
 
 <p>Why does this make want to scream &quot;Yamimatoi: Jigengiri&quot;?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -441,6 +469,7 @@
 <h2>Dominate</h2>
 
 <p>Put weak targets under your control</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -455,6 +484,7 @@
 <h2>Doppelganger</h2>
 
 <p>Everyone wants someone that can understand them, so why not two of yourself?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -469,6 +499,7 @@
 <h2>Drainage</h2>
 
 <p>Drain water around you</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -483,6 +514,7 @@
 <h2>Earth</h2>
 
 <p>Place down blocks which mimic those from the surrounding environment</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -497,6 +529,7 @@
 <h2>Earth Jail</h2>
 
 <p>Restrict and weaken a single target, applying debuffs to allow you to finish them off</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -511,6 +544,7 @@
 <h2>Earth Lock</h2>
 
 <p>Lock loose blocks turning them solid again</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -525,6 +559,7 @@
 <h2>Earth Spikes</h2>
 
 <p>Raises a spike under your opponent launching them into the air.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -539,6 +574,7 @@
 <h2>Earth Storm</h2>
 
 <p>Summons a viscous sandstorm and falling rocks around you</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -553,6 +589,7 @@
 <h2>Earth Wall</h2>
 
 <p>Rise a wall from the ground to protect the caster</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -567,6 +604,7 @@
 <h2>Electro Blast</h2>
 
 <p>Fire a beam attack that pierces through enemies and deals devastating damage while paralyzing your enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -581,6 +619,7 @@
 <h2>Escape</h2>
 
 <p>Allows you to create a kind of checkpoint to which you can return</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -595,6 +634,7 @@
 <h2>Explosion</h2>
 
 <p>Darker than black, darker than darkness, combine with my intense crimson! The time of awakening has come... Dance, dance, dance! Desire for the surge of my magic, the…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -609,6 +649,7 @@
 <h2>Fire (Aspectual)</h2>
 
 <p>Throw a small fire bolt at the enemy</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -623,6 +664,7 @@
 <h2>Fire (Spiritual)</h2>
 
 <p>Use your spirit to start a small fire</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -637,6 +679,7 @@
 <h2>Fire Ball</h2>
 
 <p>Did I ask for the size of the room? FIRE BALL!!!!!!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -651,6 +694,7 @@
 <h2>Fire Bolt</h2>
 
 <p>Shoots a flaming bolt</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -665,6 +709,7 @@
 <h2>Fire Breath</h2>
 
 <p>Breathe flames and incinerate your enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -679,6 +724,7 @@
 <h2>Fire Lance</h2>
 
 <p>Throw a lance made of flames at your enemy</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -693,6 +739,7 @@
 <h2>Fire Storm</h2>
 
 <p>The storm...? is it approaching...?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -707,6 +754,7 @@
 <h2>Fire Wall</h2>
 
 <p>Creates a wall that burns whoever goes through</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -721,6 +769,7 @@
 <h2>Flame Wall</h2>
 
 <p>Use illusions to cast a wall of blue flames</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -735,6 +784,7 @@
 <h2>Flare Circle</h2>
 
 <p>Opens a Gate to Hell from which wicked flames erupt to turn your enemies to ash</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -749,6 +799,7 @@
 <h2>Flight</h2>
 
 <p>Why do birds fly? Because they have this magic duhhh!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -763,6 +814,7 @@
 <h2>Float</h2>
 
 <p>Gee I wonder what could this possibly do...?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -777,6 +829,7 @@
 <h2>Freeze</h2>
 
 <p>Freeze all liquid around you</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -791,6 +844,7 @@
 <h2>Full Recovery</h2>
 
 <p>Just as new, could say you are fully recovered</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -805,6 +859,7 @@
 <h2>Gate</h2>
 
 <p>Tear space asunder connecting two points in space</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -819,6 +874,7 @@
 <h2>Gravitational Void</h2>
 
 <p>Targets being pulled by the black hole gain Slowness 1.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -833,6 +889,7 @@
 <h2>Healing</h2>
 
 <p>I had to redo the page about healing so many times, but anyways free healing :D</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -847,6 +904,7 @@
 <h2>Healing Rain</h2>
 
 <p>Heal everyone in the battlefield by making healing droplets rain</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -861,6 +919,7 @@
 <h2>Healthcare</h2>
 
 <p>Take care of yourself, you non bathing wiki goer!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -875,6 +934,7 @@
 <h2>Hellfire</h2>
 
 <p>Summon a sphere of hellfire to deal massive damage in a small area</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -889,6 +949,7 @@
 <h2>High Quality Magic Crystal</h2>
 
 <p>A High Quality Magic Crystal</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -903,6 +964,7 @@
 <h2>Hypnos</h2>
 
 <p>Puts the target into a deep slumber</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -917,6 +979,7 @@
 <h2>Ice Blizzard</h2>
 
 <p>Using magic to create a blizzard around the user</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -931,6 +994,7 @@
 <h2>Ice Breaker</h2>
 
 <p>Create a giant spear of ice and throw it at the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -945,6 +1009,7 @@
 <h2>Ice Wall</h2>
 
 <p>Creates a wall of ice to protect the user</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -959,6 +1024,7 @@
 <h2>Icicle Lance</h2>
 
 <p>Create a lance out of ice and throw it at the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -973,6 +1039,7 @@
 <h2>Icicle Rain</h2>
 
 <p>Creates multiple icicle lances in the sky and throw them at the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -987,6 +1054,7 @@
 <h2>Icicle Spear</h2>
 
 <p>Create an icicle spear from the ground</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1001,6 +1069,7 @@
 <h2>Invisible</h2>
 
 <p>Make yourself transparent, being undetectable for the naked eye</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1015,6 +1084,7 @@
 <h2>Light</h2>
 
 <p>Summons a temporary light to block out the darkness</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1029,6 +1099,7 @@
 <h2>Lighten</h2>
 
 <p>Makes the caster lighter granting jump and speed boost</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1043,6 +1114,7 @@
 <h2>Lightning Lance</h2>
 
 <p>Launch a lightning projectile which will electrify your enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1057,6 +1129,7 @@
 <h2>Liquidize</h2>
 
 <p>Turn soft solid blocks into loose versions</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1071,6 +1144,7 @@
 <h2>Low Magic Staff</h2>
 
 <p>A low magic staff for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1085,6 +1159,7 @@
 <h2>Low Quality Magic Crystal</h2>
 
 <p>A Low Quality Magic Crystal</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1099,6 +1174,7 @@
 <h2>Magic Barrier</h2>
 
 <p>Create a barrier over yourself protecting from magical attacks</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1113,6 +1189,7 @@
 <h2>Magic Bottle</h2>
 
 <p>Right clicking on water turns the Magic Bottle in a Magic Bottle of Water which in turn can be used to brew potions with hipokute (example: Low Potion )</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1127,6 +1204,7 @@
 <h2>Magic Bottle of Water</h2>
 
 <p>Right clicking water with an empty Magic Bottle</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1141,6 +1219,7 @@
 <h2>Magic Nullification</h2>
 
 <p>!!! Unobtainable without cheats !!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1155,6 +1234,7 @@
 <h2>Magic Ore Shard</h2>
 
 <p>Obtained by mining Magic Ore (or Deepslate Magic Ore ) with a Netherite Pickaxe Or by slaying a Metal Slime</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1169,6 +1249,7 @@
 <h2>Magic Resistance</h2>
 
 <p>Magic Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1183,6 +1264,7 @@
 <h2>Magic Staff Schematic</h2>
 
 <p>Can be acquired from master magic trainer dwarves for 10 gold coins.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1197,6 +1279,7 @@
 <h2>Magic Stone</h2>
 
 <p>Can be obtained by crafting at a Smithing Bench</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1211,6 +1294,7 @@
 <h2>Magic Tome</h2>
 
 <p>Found in: Wizard Tower</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1225,6 +1309,7 @@
 <h2>Magic Wall</h2>
 
 <p>Use pure magic to create a wall in front of you</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1239,6 +1324,7 @@
 <h2>Magics</h2>
 
 <p>Magic The Gathering Aspectual Magic Spiritual Magic Summoning Magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1253,6 +1339,7 @@
 <h2>Magma Surge</h2>
 
 <p>Fire a spread of lava that burns and melts anything for a limited time</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1267,6 +1354,7 @@
 <h2>Medium Quality Magic Crystal</h2>
 
 <p>A Medium Quality Magic Crystal</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1281,6 +1369,7 @@
 <h2>Megiddo</h2>
 
 <p>Unleash powerful sun blasts using water to kill any nearby foes. It can also be used manually to concentrate fire for any stronger foes</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1295,6 +1384,7 @@
 <h2>Mental Crush</h2>
 
 <p>Crushes the targets spirit using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1309,6 +1399,7 @@
 <h2>Mirage</h2>
 
 <p>Walmart version of Body Double for broke people</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1323,6 +1414,7 @@
 <h2>Mud Hand</h2>
 
 <p>Creates hands using mud tying down the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1337,6 +1429,7 @@
 <h2>Mud Spears</h2>
 
 <p>Rise spikes from the ground to pierce the target</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1351,6 +1444,7 @@
 <h2>Necromancy Spells</h2>
 
 <p>Defy the natural order with the power of death! Rule the world as its overlord!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1365,6 +1459,7 @@
 <h2>Possession</h2>
 
 <p>When you want to be a daemon but don&#x27;t like the race:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1379,6 +1474,7 @@
 <h2>Protection</h2>
 
 <p>Protect your body from damage using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1393,6 +1489,7 @@
 <h2>Purple Lightning</h2>
 
 <p>Daemon Dragon lightning that bypasses Darkness Resistance.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1407,6 +1504,7 @@
 <h2>Recovery</h2>
 
 <p>Uses magic to greatly recover the casters vitality</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1421,6 +1519,7 @@
 <h2>Reinforced Barrier</h2>
 
 <p>Cast Barrier and Magic Barrier at the same time protecting from both magical and physical attacks</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1435,6 +1534,7 @@
 <h2>Reinforcement</h2>
 
 <p>Reinforce your body using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1449,6 +1549,7 @@
 <h2>Search Enemy</h2>
 
 <p>You have no enemies, or do you?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1463,6 +1564,7 @@
 <h2>Shadow Bind</h2>
 
 <p>If the target is standing in shadows, bind them and deal spiritual damage</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1477,6 +1579,7 @@
 <h2>Shrink</h2>
 
 <p>Reduce your size to enchance your evasion but increase your vulnerability</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1491,6 +1594,7 @@
 <h2>Sleep Mist</h2>
 
 <p>Is your baby crying? I&#x27;ll make them sleep. Go to sleep, go to sleep~</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1505,6 +1609,7 @@
 <h2>Solar Beam</h2>
 
 <p>Fire a light beam that deals massive damage to undead entities and burns blocks.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1519,6 +1624,7 @@
 <h2>Solar Flare</h2>
 
 <p>Shoot a shockwave of light energy to give nausea, blindness and slowness to all targets in a wide AOE</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1533,6 +1639,7 @@
 <h2>Solar Rain</h2>
 
 <p>Shoot many light projectiles that deal massive damage to undead creatures</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1547,6 +1654,7 @@
 <h2>Solar Wave</h2>
 
 <p>Shoot a wave of light energy that blinds and slows hit enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1561,6 +1669,7 @@
 <h2>Space</h2>
 
 <p>Form invisible platforms to create footholds mid-air</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1575,6 +1684,7 @@
 <h2>Spatial Storage</h2>
 
 <p>Put the fries *cough* I mean the items in the bag</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1589,6 +1699,7 @@
 <h2>Spatial Void</h2>
 
 <p>While charging the spell, all entities in a 30 block radius from the user (except subordinates) will gain intense gravity and movement speed reduction.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1603,6 +1714,7 @@
 <h2>Stone Shot</h2>
 
 <p>Shape stones into projectiles and throw it at high speeds</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1617,6 +1729,7 @@
 <h2>Strength</h2>
 
 <p>Strengthen your muscles using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1631,6 +1744,7 @@
 <h2>Summon Basilisk</h2>
 
 <p>Summons a Basilisk to fight for you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1645,6 +1759,7 @@
 <h2>Summon Daemon</h2>
 
 <p>Summons a Daemon to fight for you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1659,6 +1774,7 @@
 <h2>Summon Greater Elemental</h2>
 
 <p>Summons a spirit which decided to dwell within the user. Switching skill modes changes the elemental summoned.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1673,6 +1789,7 @@
 <h2>Summon Medium Elemental</h2>
 
 <p>Summons a spirit which decided to dwell within the user. Switching skill modes changes the spirit summoned.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1687,6 +1804,7 @@
 <h2>Summon Otherworlder</h2>
 
 <p>Summons an Otherworlder.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1701,6 +1819,7 @@
 <h2>Swipe</h2>
 
 <p>Slashing through space in a straight line, displacing entities or teleporting the caster</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1715,6 +1834,7 @@
 <h2>Teleport</h2>
 
 <p>Quickly blind forward in space to a location within view</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1729,6 +1849,7 @@
 <h2>Thunder</h2>
 
 <p>Thunder, bring her through the wringer Show her I&#x27;m the judgment call The one who makes her kingdom fall Lightning, wield her, use and yield her Show her what she can&#x27;t…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1743,6 +1864,7 @@
 <h2>Thunder Lance</h2>
 
 <p>Creates a lance made of magic lighting</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1757,6 +1879,7 @@
 <h2>Thunder Orb</h2>
 
 <p>Accumulates lighting inside a powerful orb attack</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1771,6 +1894,7 @@
 <h2>Thunder Rain</h2>
 
 <p>Create a small storm above the user striking everyone below it with lighting</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1785,6 +1909,7 @@
 <h2>Tornado Blade</h2>
 
 <p>Cast a tiny tornado that explodes into multiple wind cutters</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1799,6 +1924,7 @@
 <h2>True Darkness</h2>
 
 <p>Inflict Blindness on all entities and deal massive spiritual damage</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1813,6 +1939,7 @@
 <h2>Vacuumed Magic Bottle of Water</h2>
 
 <p>Cooking/&quot;Boiling&quot; a Magic Bottle of Water with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1827,6 +1954,7 @@
 <h2>Warp Portal</h2>
 
 <p>Creates a gate connecting 2 points in space</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1841,6 +1969,7 @@
 <h2>Water (Aspectual)</h2>
 
 <p>Create a water source using magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1855,6 +1984,7 @@
 <h2>Water (Spiritual)</h2>
 
 <p>Call forth or manipulate small amounts of water</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1869,6 +1999,7 @@
 <h2>Water Cutter</h2>
 
 <p>Fires a concentrated blade to cut your enemies with the power of water</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1883,6 +2014,7 @@
 <h2>Water Cutter (Aspectual)</h2>
 
 <p>A blade of water that flies through the air.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1897,6 +2029,7 @@
 <h2>Water Jail</h2>
 
 <p>Traps your enemies inside a water bubble with spinning blades inside</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1911,6 +2044,7 @@
 <h2>Wind</h2>
 
 <p>Calls forth a small gust of wind which can push targets away or the player up.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1925,6 +2059,7 @@
 <h2>Wind Blade</h2>
 
 <p>Fires a concentrated blade of wind which has heavy knockback</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1939,6 +2074,7 @@
 <h2>Wind Cutter</h2>
 
 <p>Cast wind scythes to cut the enemy down</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1953,6 +2089,7 @@
 <h2>Wind Gust</h2>
 
 <p>Wind charge but magic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1967,6 +2104,7 @@
 <h2>Wind Protection</h2>
 
 <p>Use winds currents to protect yourself and cool down</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

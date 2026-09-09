@@ -39,7 +39,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Akash</h2>
+
 <p>This is a Greater Space Spirit summoned by Hinata Sakaguchi.</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>240</dd><dt>Spiritual Health</dt><dd>480</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Spatial Attack Nullification</dd><dt>Intrinsic</dt><dd>Space Transform</dd><dt>Extra</dt><dd>Spatial Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -52,7 +54,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis</h2>
+
 <p>A mob that only appears once the Charybdis Core is filled with 100K EP and Right Clicked. Very Dangerous</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>3000</dd><dt>Spiritual Health</dt><dd>6000</dd><dt>Armor</dt><dd>20</dd><dt>Minimum EP</dt><dd>1400000</dd><dt>Maximum EP</dt><dd>1600000</dd><dt>Resistances</dt><dd>Pain Resistance · Physical Attack Resistance · Paralysis Resistance</dd><dt>Common</dt><dd>Gravity Flight</dd><dt>Extra</dt><dd>Gravity Manipulation · Magic Jamming · Magic Sense · Ultraspeed Regeneration</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -65,7 +69,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Colossus</h2>
+
 <p>The Elemental Colossus is a heavily armored melee boss that can both fight nearby targets and rapidly close large distances. Its attacks include melee strikes, a…</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>600</dd><dt>Spiritual Health</dt><dd>1200</dd><dt>Armor</dt><dd>40</dd><dt>Attack</dt><dd>50</dd><dt>Minimum EP</dt><dd>330000</dd><dt>Maximum EP</dt><dd>350000</dd><dt>Resistances</dt><dd>Thermal Fluctuation Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -78,7 +84,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gazel Dwargo</h2>
+
 <p>The king of the dwarves, One of the strongest bosses in the game with the sole exception of Hinata Sakaguchi of course. Hostile towards those who enter his chamber to…</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>1000</dd><dt>Spiritual Health</dt><dd>3600</dd><dt>Armor</dt><dd>50</dd><dt>Minimum EP</dt><dd>1036331</dd><dt>Maximum EP</dt><dd>1036332</dd><dt>Nullifications</dt><dd>Poison Nullification · Corrosion Nullification</dd><dt>Resistances</dt><dd>Darkness Attack Resistance · Heat Resistance · Cold Resistance · Abnormal Condition Resistance · Physical Attack Resistance · Spiritual Attack Resistance · Magic Resistance · Holy Attack Resistance · Earth Attack Resistance · Flame Attack Resistance · Light Attack Resistance · Spatial Attack Resistance · Water Attack Resistance · Wind Attack Resistance</dd><dt>Extra</dt><dd>Magic Sense · Earth Domination</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -91,7 +99,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hinata Sakaguchi</h2>
+
 <p>A Rare otherworlder, One of the strongest bosses in the game at that. Hostile towards the &quot;majin&quot; race (because lore wise, hates monsters), neutral towards non majin</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains · Snowy Plains · Sunflower Plains· Meadow · Desert · Badlands· Windswept Hills · Sparse Jungle · Savanna Plateau</dd><dt>Health</dt><dd>3000</dd><dt>Spiritual Health</dt><dd>3600</dd><dt>Armor</dt><dd>50</dd><dt>Minimum EP</dt><dd>1036331</dd><dt>Maximum EP</dt><dd>1036332</dd><dt>Nullifications</dt><dd>Earth Attack Nullification · Flame Attack Nullification · Light Attack Nullification · Spatial Attack Nullification · Water Attack Nullification · Wind Attack Nullification · Poison Nullification · Corrosion Nullification · Electricity Nullification</dd><dt>Resistances</dt><dd>Darkness Attack Resistance · Heat Resistance · Cold Resistance · Abnormal Condition Resistance · Physical Attack Resistance · Spiritual Attack Resistance · Magic Resistance · Holy Attack Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -104,7 +114,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ifrit</h2>
+
 <p>The Greater Fire Spirit that is one of the many spirits that Hinata has, but also inhabits Shizu&#x27;s body.</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Flame Attack Nullification</dd><dt>Intrinsic</dt><dd>Flame Transform</dd><dt>Common</dt><dd>Ranged Barrier</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -117,7 +129,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orc Disaster</h2>
+
 <p>A Boss that appears after an Orc Lord reaches 200k EP</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Desert</dd><dt>Health</dt><dd>700</dd><dt>Spiritual Health</dt><dd>1400</dd><dt>Armor</dt><dd>20</dd><dt>Minimum EP</dt><dd>224435</dd><dt>Maximum EP</dt><dd>250000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd><dt>Common</dt><dd>Corrosion · Self Regeneration · Strength</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -130,7 +144,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orc Lord</h2>
+
 <p>&quot;Eat, kill, all to satisfy my hunger&quot;</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Desert, Badlands</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>90000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd><dt>Common</dt><dd>Corrosion · Self Regeneration · Strength</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -143,7 +159,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Shizu</h2>
+
 <p>A Rare Otherworlder, upon near death triggers the release of Ifrit - After Ifrit&#x27;s defeat, Shizu will appear defeated and slowly dying. Shizu cannot be tamed</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains · Snowy Plains · Sunflower Plains· Meadow · Desert · Badlands· Windswept Hills · Sparse Jungle · Savanna Plateau</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>13</dd><dt>Minimum EP</dt><dd>193543</dd><dt>Maximum EP</dt><dd>193543</dd><dt>Resistances</dt><dd>Physical Attack Resistance · Flame Attack Nullification</dd><dt>Intrinsic</dt><dd>Flame Transform</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -156,7 +174,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Supermassive Slime</h2>
+
 <p>A rare mob that has a 1/1000 chance to spawn in place of a normal Slime</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains, Swamps</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>2</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>100000</dd><dt>Intrinsic</dt><dd>Absorb &amp; Dissolve</dd><dt>Extra</dt><dd>Ultraspeed Regeneration</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -169,7 +189,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sylphide</h2>
+
 <p>The Greater Wind Spirit</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Wind Attack Nullification</dd><dt>Intrinsic</dt><dd>Wind Transform</dd><dt>Extra</dt><dd>Wind Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -182,7 +204,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Undine</h2>
+
 <p>A Greater Water Spirit</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Water Attack Nullification</dd><dt>Intrinsic</dt><dd>Water Transform</dd><dt>Extra</dt><dd>Water Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -195,7 +219,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>War Gnome</h2>
+
 <p>A Greater Earth Spirit</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>20</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Earth Attack Nullification</dd><dt>Intrinsic</dt><dd>Earth Transform</dd><dt>Extra</dt><dd>Earth Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

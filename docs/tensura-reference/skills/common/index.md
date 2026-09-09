@@ -43,6 +43,7 @@
 <h2>Coercion</h2>
 
 <p>Unleash a deafening roar in front of you scaring any afflicted entities.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -57,6 +58,7 @@
 <h2>Corrosion</h2>
 
 <p>Empower your attacks with the deadly effect of Corrosion, with mastery you can do this automatically.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -71,6 +73,7 @@
 <h2>Farsight</h2>
 
 <p>Focus your eyes and become able to see things far away.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -85,6 +88,7 @@
 <h2>Gravity Field</h2>
 
 <p>Weaken gravity around yourself to make movement easier or create a variously sized sphere granting previous effects while debuffing enemies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -99,6 +103,7 @@
 <h2>Gravity Flight</h2>
 
 <p>Manipulate gravity to allow flight, your momentum from before will be continued.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -113,6 +118,7 @@
 <h2>Hydraulic Propulsion</h2>
 
 <p>Propel yourself at high speeds underwater.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -127,6 +133,7 @@
 <h2>Inner World</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The inner world is a place where you aren&#x27;t supposed to be able to build or break existing blocks</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -141,6 +148,7 @@
 <h2>Magicule Nourishment</h2>
 
 <p>Convert Magicules into Hunger.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -155,6 +163,7 @@
 <h2>Magnetized Vacuum</h2>
 
 <p>Spend Magicules to pull nearby items.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -169,6 +178,7 @@
 <h2>Paralysis</h2>
 
 <p>Empower your attacks with the effect of Paralysis, with mastery you can do this automatically.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -183,6 +193,7 @@
 <h2>Poison</h2>
 
 <p>Empower your attacks with the effect of Poison, with mastery you can do this automatically.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -197,6 +208,7 @@
 <h2>Prickly Hands</h2>
 
 <p>Apply Bleeding with every melee hit.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -211,6 +223,7 @@
 <h2>Ranged Barrier</h2>
 
 <p>Place down differently sized barriers which block enemies in or out. Strong attacks or special effects can still destroy it.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -225,6 +238,7 @@
 <h2>Self Regeneration</h2>
 
 <p>Speed up your body’s natural regeneration to increase your survivability.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -239,6 +253,7 @@
 <h2>Strength</h2>
 
 <p>Use magicules to strengthen your muscles.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -253,6 +268,7 @@
 <h2>Telepathy</h2>
 
 <p>Give orders to tames when looking at them through commands.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -267,6 +283,7 @@
 <h2>Thought Communication</h2>
 
 <p>Send commands to nearby allies and become able to have them attack players.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -281,6 +298,7 @@
 <h2>Voice Cannon</h2>
 
 <p>Unleash a powerful roar decimating all weak enemies in the way.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -295,6 +313,7 @@
 <h2>Water Blade</h2>
 
 <p>Shoot out a blade of water which flies in a straight line.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -309,6 +328,7 @@
 <h2>Water Current Control</h2>
 
 <p>Manipulate water around you to propel yourself in any direction.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

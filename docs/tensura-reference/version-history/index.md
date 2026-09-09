@@ -31,7 +31,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>1.19.2 1.0.0.0</h2>
+
 <p>1.0.0.0 is the First Release of Tensura Reincarnated ported over from 1.16.5 to 1.19.2 re imagined.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -44,7 +46,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>1.19.2 1.0.0.1</h2>
+
 <p>Downgrade mixinextra to **0.2.0** to have compatibility with other 1.19.2 mods. Race menu now shows evolution requirements vaguely instead of their stats. Palm trees…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -57,7 +61,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>1.19.2 1.0.0.2</h2>
+
 <p>There were no changes this version</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -70,7 +76,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Version/1.19.2</h2>
+
 <p>B Burrow C Command Undead Contract Corrosion Transform Corruption D Discharge Dissonance E Exoskeleton H Hell Gate Hell Hall L Lethal Poison Lightning Mode M Magisteel…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -83,7 +91,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Version/1.21.1</h2>
+
 <p>Upstream reference information for Version/1.21.1.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

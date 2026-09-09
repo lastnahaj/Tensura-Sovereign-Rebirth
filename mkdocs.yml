@@ -73,104 +73,102 @@ extra:
   generator: false
 
 nav:
-  - Home: index.md
-  - Start Here:
-      - Getting Started: getting-started.md
-      - Pack Overview: pack-overview.md
-      - Mod Guide Directory: mod-guide-directory/index.md
-      - Current Modlist: current-modlist.md
-      - Progression Overview: progression-overview.md
-      - TSR Progression Differences: tsr-vs-base-tensura.md
-      - FAQ: faq.md
-  - Tensura Reference:
-      - Reference Home: tensura-reference/index.md
-      - Core Mechanics: tensura-reference/core-mechanics/index.md
-      - Races:
-          - Race Directory: tensura-reference/races/index.md
-          - Evolution Relationships: tensura-reference/races/evolution-trees.md
-      - Abilities:
-          - Skill Overview: tensura-reference/skills/index.md
-          - Intrinsic Skills: tensura-reference/skills/intrinsic/index.md
-          - Common Skills: tensura-reference/skills/common/index.md
-          - Extra Skills: tensura-reference/skills/extra/index.md
-          - Unique Skills: tensura-reference/skills/unique/index.md
-          - Ultimate Skills: tensura-reference/skills/ultimate/index.md
-          - Other Skills: tensura-reference/skills/other/index.md
-          - Resistances: tensura-reference/resistances/index.md
-          - Magic: tensura-reference/magic/index.md
-          - Battlewill: tensura-reference/battlewill/index.md
-          - Arts: tensura-reference/arts/index.md
-      - World:
-          - Mobs: tensura-reference/mobs/index.md
-          - Bosses: tensura-reference/bosses/index.md
-          - Structures: tensura-reference/structures/index.md
-          - Biomes: tensura-reference/biomes/index.md
-          - Dimensions: tensura-reference/dimensions/index.md
-      - Equipment & Items:
-          - Items & Materials: tensura-reference/items/index.md
-          - Weapons: tensura-reference/weapons/index.md
-          - Armor: tensura-reference/armor/index.md
-          - Tools: tensura-reference/tools/index.md
-          - Blocks: tensura-reference/blocks/index.md
-      - Technical Reference:
-          - Commands: tensura-reference/commands/index.md
-          - Configuration: tensura-reference/configuration/index.md
-          - Gamerules: tensura-reference/gamerules/index.md
-          - Version History: tensura-reference/version-history/index.md
-          - Other Reference: tensura-reference/other/index.md
-  - Character Progression:
-      - Race & Evolution: race-and-evolution.md
-      - Skills, EP & Magicules: skills-ep-and-magicules.md
-      - Mimicry & Forms: mimicry-and-forms/index.md
-      - Great Sage: great-sage.md
-      - Prestige & Soul Grade: prestige-and-soul-grade.md
-      - Ascension & Awakening: ascension-and-awakening.md
-      - Hyperbolic Chamber: hyperbolic-chamber.md
-  - Equipment & Magic:
-      - Gear Evolution: gear-evolution.md
-      - Forging & Metalworks: forging-and-metalworks.md
-      - Storage & Logistics: storage-and-logistics.md
-      - Magic: magic.md
-  - World & Civilization:
-      - Adventure, Travel & Loot: adventure-travel-and-loot/index.md
-      - Guild Progression: guild-progression.md
-      - Subordinates & Naming: subordinates-and-naming.md
-      - MineColonies & Nations: minecolonies-and-nations.md
-      - Unique Monsters: unique-monsters.md
-      - Bosses & Dimensions: bosses-and-dimensions.md
-      - World Generation: world-generation.md
-      - TSR Structures: structures.md
-      - Decoration & Building: decoration-and-building.md
-  - Quests & Multiplayer:
-      - Quests & Shop: quests-and-shop.md
-      - Campaign: campaign.md
-      - Teams & Claims: teams-and-claims.md
-  - Server & Technical:
-      - Server Administration: server-administration.md
-      - Permissions: permissions.md
-      - Performance & Optimization: performance-and-optimization.md
-      - Backups & Recovery: backups-and-recovery.md
-      - Troubleshooting: troubleshooting.md
-      - Quest Implementation: quest-implementation.md
-      - Compatibility Matrix: compatibility-matrix.md
-      - Mod Manifest: mod-manifest.md
-      - Development:
-          - Build Environment: development/build-environment.md
-          - Runtime Foundation: development/runtime-foundation.md
-          - Configuration Baseline: development/configuration-baseline.md
-          - Configuration Specification: development/configuration-spec.md
-          - Candidate Testing: development/candidate-testing.md
-          - Unique Monsters Compatibility: development/unique-monsters-compatibility.md
-          - Compatibility Blockers: development/compatibility-blockers.md
-          - Platform Availability: development/platform-availability.md
-          - Phase Reports: development/phase-reports.md
-  - Project:
-      - Roadmap: roadmap.md
-      - Changelog: changelog.md
-      - Credits: credits.md
-      - Upstream Attribution: project/upstream-attribution.md
-      - Ingestion Coverage: project/ingestion-coverage.md
-      - Mysticism Attribution: project/mysticism-upstream-attribution.md
-      - Mysticism Ingestion Coverage: project/mysticism-ingestion-coverage.md
-      - Reference:
-          - v0.1 Manifest Source: reference/v0.1-mod-manifest-source.md
+  - Main page: index.md
+  - Abilities:
+      - "Overview": tensura-reference/skills/index.md
+      - "Intrinsic Skills": tensura-reference/skills/intrinsic/index.md
+      - "Common Skills": tensura-reference/skills/common/index.md
+      - "Extra Skills": tensura-reference/skills/extra/index.md
+      - "Unique Skills": tensura-reference/skills/unique/index.md
+      - "Ultimate Skills": tensura-reference/skills/ultimate/index.md
+      - "Other Skills": tensura-reference/skills/other/index.md
+      - "Resistances": tensura-reference/resistances/index.md
+      - "Magic": tensura-reference/magic/index.md
+      - "Battlewill": tensura-reference/battlewill/index.md
+      - "Arts": tensura-reference/arts/index.md
+      - "Skills, EP & Magicules": skills-ep-and-magicules.md
+      - "Great Sage": great-sage.md
+  - Races:
+      - "Race Families": tensura-reference/races/index.md
+      - "Evolution Relationships": tensura-reference/races/evolution-trees.md
+      - "Race & Evolution Guide": race-and-evolution.md
+  - Items:
+      - "Items & Materials": tensura-reference/items/index.md
+      - "Weapons": tensura-reference/weapons/index.md
+      - "Armor": tensura-reference/armor/index.md
+      - "Tools": tensura-reference/tools/index.md
+      - "Gear Evolution": gear-evolution.md
+      - "Forging & Metalworks": forging-and-metalworks.md
+  - Blocks:
+      - "Block Directory": tensura-reference/blocks/index.md
+      - "Decoration & Building": decoration-and-building.md
+      - "Storage & Logistics": storage-and-logistics.md
+  - Mobs:
+      - "Mob Directory": tensura-reference/mobs/index.md
+      - "Bosses": tensura-reference/bosses/index.md
+      - "Bosses & Dimensions": bosses-and-dimensions.md
+      - "Subordinates & Naming": subordinates-and-naming.md
+  - Biomes:
+      - "Biome Directory": tensura-reference/biomes/index.md
+      - "Dimensions": tensura-reference/dimensions/index.md
+      - "World Generation": world-generation.md
+  - Structures:
+      - "Structure Directory": tensura-reference/structures/index.md
+      - "TSR Structures": structures.md
+      - "Adventure, Travel & Loot": adventure-travel-and-loot/index.md
+  - Config:
+      - "Configuration": tensura-reference/configuration/index.md
+      - "Gamerules": tensura-reference/gamerules/index.md
+      - "Server Administration": server-administration.md
+      - "Permissions": permissions.md
+  - Commands:
+      - "Commands by Source": tensura-reference/commands/index.md
+      - "Tensura: Reincarnated": tensura-reference/commands/commands.md
+      - "Mysticism": mysticism-reference/commands/commands.md
+  - Mechanics:
+      - "Getting Started": getting-started.md
+      - "Core Mechanics": tensura-reference/core-mechanics/index.md
+      - "Progression Overview": progression-overview.md
+      - "Prestige & Soul Grade": prestige-and-soul-grade.md
+      - "Ascension & Awakening": ascension-and-awakening.md
+      - "Hyperbolic Chamber": hyperbolic-chamber.md
+      - "Quests & Shop": quests-and-shop.md
+      - "Teams & Claims": teams-and-claims.md
+      - Reference & project:
+          - "Pack Overview": pack-overview.md
+          - "Mod Guide Directory": mod-guide-directory/index.md
+          - "Current Modlist": current-modlist.md
+          - "TSR Progression Differences": tsr-vs-base-tensura.md
+          - "FAQ": faq.md
+          - "Reference Home": tensura-reference/index.md
+          - "Version History": tensura-reference/version-history/index.md
+          - "Other Reference": tensura-reference/other/index.md
+          - "Magic": magic.md
+          - "MineColonies & Nations": minecolonies-and-nations.md
+          - "Unique Monsters": unique-monsters.md
+          - "Campaign": campaign.md
+          - "Performance & Optimization": performance-and-optimization.md
+          - "Backups & Recovery": backups-and-recovery.md
+          - "Troubleshooting": troubleshooting.md
+          - "Quest Implementation": quest-implementation.md
+          - "Compatibility Matrix": compatibility-matrix.md
+          - "Mod Manifest": mod-manifest.md
+          - "Build Environment": development/build-environment.md
+          - "Runtime Foundation": development/runtime-foundation.md
+          - "Configuration Baseline": development/configuration-baseline.md
+          - "Configuration Specification": development/configuration-spec.md
+          - "Candidate Testing": development/candidate-testing.md
+          - "Unique Monsters Compatibility": development/unique-monsters-compatibility.md
+          - "Compatibility Blockers": development/compatibility-blockers.md
+          - "Platform Availability": development/platform-availability.md
+          - "Phase Reports": development/phase-reports.md
+          - "Roadmap": roadmap.md
+          - "Changelog": changelog.md
+          - "Credits": credits.md
+          - "Upstream Attribution": project/upstream-attribution.md
+          - "Ingestion Coverage": project/ingestion-coverage.md
+          - "Mysticism Attribution": project/mysticism-upstream-attribution.md
+          - "Mysticism Ingestion Coverage": project/mysticism-ingestion-coverage.md
+          - "Retired Mimicry Integration": mimicry-and-forms/index.md
+          - "Retired Guild Integration": guild-progression.md
+          - "v0.1 Manifest Source": reference/v0.1-mod-manifest-source.md

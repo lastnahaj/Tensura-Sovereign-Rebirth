@@ -52,6 +52,7 @@
 <h2>Absolute Severance</h2>
 
 <p>Wield the power to cut through any who stand in your path, whether by coating your strikes or launching slashing projectiles that sever all in their path.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -66,6 +67,7 @@
 <h2>Acceleration</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Scorching Flames - This increases Flame Damage by +25 (50 when mastered).</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -80,6 +82,7 @@
 <h2>Analyst</h2>
 
 <p>Analyze the magic of the world and learn it yourself expanding your knowledge in the arcane</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -94,6 +97,7 @@
 <h2>Anti-Skill</h2>
 
 <p>Become immune to Magic, Skills, Skill Debuffs and Battlewill, destroy barriers and block skill usage of other entities</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -108,6 +112,7 @@
 <h2>Arelkos</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Earth Bound - The user gains all of the Aspectual Earth spells.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -122,6 +127,7 @@
 <h2>Babylon</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Golden Rule - Grants a permanent Luck 5 effect.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -136,6 +142,7 @@
 <h2>Berserk</h2>
 
 <p>Massively empower your body and infuse it with a flame aura. Allows you to go into a risky but overwhelmingly powerful berserker mode.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -150,6 +157,7 @@
 <h2>Berserker</h2>
 
 <p>Feed on your enemies&#x27; defeat. Gain EP from kills, destroy equipment faster, and boost your physical stats based on your power level.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -164,6 +172,7 @@
 <h2>Bewilder</h2>
 
 <p>Use this skill to manipulate friends and foes,compelling them to act according to your will.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -178,6 +187,7 @@
 <h2>Breaker</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Space Breaker - The user reduces Spatial Damage by 10% (20% when mastered). The user&#x27;s adds Spatial Damage equal to 0.5x the attack damage of the user. This doesn&#x27;t…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -192,6 +202,7 @@
 <h2>Bubble Majin</h2>
 
 <p>Reflect, store, absorb—and awaken The Evil Majin.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -206,6 +217,7 @@
 <h2>Butcher</h2>
 
 <p>Oh, your heart, Aortic work of art, My love, my knife</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -220,6 +232,7 @@
 <h2>Cadence</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Status Quo: The user&#x27;s maximum Health cannot be reduced by the likes of Severance or Cook.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -234,6 +247,7 @@
 <h2>Captivator</h2>
 
 <p>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the other way around? Whatever it may be, your eyes shine…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -248,6 +262,7 @@
 <h2>Carnation</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Abundance - Your Magicule Regeneration increases by x2 when below 85% Magicules.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -262,6 +277,7 @@
 <h2>Cessation</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Ice Walk - The user moves as if they had frost walker, causing all water to turn to ice by the user.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -276,6 +292,7 @@
 <h2>Chef</h2>
 
 <p>Purify and renew. Remove all negative effects and restore vitality to those under your care.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -290,6 +307,7 @@
 <h2>Chosen One</h2>
 
 <p>Radiate authority and charisma to force fear into the hearts of your enemies and to make them follow you instead, while empowering yourself and your allies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -304,6 +322,7 @@
 <h2>Coalescence</h2>
 
 <p>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -318,6 +337,7 @@
 <h2>Coffin of Darkness</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Assault Mode: When this skill is mastered, the first time the user would die, their death is prevented and user enters Assault Mode. This has a 1200 Second Cooldown…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -332,6 +352,7 @@
 <h2>Commander</h2>
 
 <p>Lead the charge with your allies. Empower yourself and your allies to give yourself an overwhelming advantage.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -346,6 +367,7 @@
 <h2>Constant</h2>
 
 <p>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -360,6 +382,7 @@
 <h2>Cook</h2>
 
 <p>Bend reality to ensure your enemies meet their demise by ignoring their dodge and barriers.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -374,6 +397,7 @@
 <h2>Corroder</h2>
 
 <p>Corroder? More toxic than my ex somehow</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -388,6 +412,7 @@
 <h2>Crasher</h2>
 
 <p>The essence of &quot;deletion&quot;. Completely and utterly erase your foes from the plane of existence with the power of your sheer will alone.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -402,6 +427,7 @@
 <h2>Creator</h2>
 
 <p>Create Unique Skills and use them for a limited amount of time.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -416,6 +442,7 @@
 <h2>Cultist</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Joy In Service - The user halves all Spiritual Damage taken. While the user has the Insanity Effect, any mobs killed will give the user 1 Sacrifice Point.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -430,6 +457,7 @@
 <h2>Cultivator</h2>
 
 <p>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator walks the path of self-perfection and dominion…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -444,6 +472,7 @@
 <h2>Deadly Poison</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Its poison. Deadly poison. So its a neurotoxin?&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -458,6 +487,7 @@
 <h2>Deal Maker</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>{ &quot;title&quot;:&quot;Unique Transfer&quot;,</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -472,6 +502,7 @@
 <h2>Degenerate</h2>
 
 <p>Craft, decraft, customize items and absorb strength from weakened enemies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -486,6 +517,7 @@
 <h2>Deluge</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Wet Like Water - The user learns the Water and Ice Aspectual Magics.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -500,6 +532,7 @@
 <h2>Designer</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Skill Evolution - When Pressed, the user opens up the Skill Designer GUI which will contain the various Skill Evolution options. Each Evolution option has various MP…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -514,6 +547,7 @@
 <h2>Deus Sanguis</h2>
 
 <p>Vampiric transformation, bleeding, and health drain.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -528,6 +562,7 @@
 <h2>Divide</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Dragon&#x27;s Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -542,6 +577,7 @@
 <h2>Divine Berserker</h2>
 
 <p>Empower your body by a massive amount but beware the aftereffects.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -556,6 +592,7 @@
 <h2>Domicile</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -570,6 +607,7 @@
 <h2>Dominator</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>(Castle guard can be bypassed by Nova Break)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -584,6 +622,7 @@
 <h2>Dragon Slayer</h2>
 
 <p>Build dragon power and awaken The Slayer of Dragons.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -598,6 +637,7 @@
 <h2>Dreamer</h2>
 
 <p>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the saved values and instantly teleport you to the…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -612,6 +652,7 @@
 <h2>Elegy</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>A lament sung by spacetime itself, resonating through soul and shadow.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -626,6 +667,7 @@
 <h2>Elementalist</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;The forces of the world itself, dust at the tips of ones fingers.&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -640,6 +682,7 @@
 <h2>Ending</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Using the sword without ending, makes it a one time use weapon. Aswell it cripples the targets SHP regen when hit by it.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -654,6 +697,7 @@
 <h2>Endorse</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -668,6 +712,7 @@
 <h2>Engineer</h2>
 
 <p>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either. Perhaps it was always meant to be.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -682,6 +727,7 @@
 <h2>Engorger</h2>
 
 <p>Increase your size and boost your physical stats.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -696,6 +742,7 @@
 <h2>Envy</h2>
 
 <p>Absorb strength from enemies, buff yourself and debilitate your enemies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -710,6 +757,7 @@
 <h2>Eye of Mind</h2>
 
 <p>Analyze, copy, debuff, and fire a scaling death ray.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -724,6 +772,7 @@
 <h2>Falsifier</h2>
 
 <p>See through falsehoods and invisibility, conceal your presence from prying eyes and create illusions.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -738,6 +787,7 @@
 <h2>Fighter</h2>
 
 <p>Achieve mastery through discipline. Learn combat and magic abilities instantly, gain more mastery points, and hit much harder.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -752,6 +802,7 @@
 <h2>Fourth Wall</h2>
 
 <p>Toggle a learning and mastery gain attribute bonus.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -766,6 +817,7 @@
 <h2>Freezing Flame</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Pyromaniac - The user gains all of the Flame-Type Aspectual Magics.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -780,6 +832,7 @@
 <h2>Fusionist</h2>
 
 <p>Turn the world into a weapon, absorb the environment to create powerful mines and grenades.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -794,6 +847,7 @@
 <h2>Gardener</h2>
 
 <p>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in turn, the crops bless you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -808,6 +862,7 @@
 <h2>Gift</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The Creatable Blessings are:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -822,6 +877,7 @@
 <h2>Glorious</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Its simply Peak. And this is just the beginning!&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -836,6 +892,7 @@
 <h2>Gluttony</h2>
 
 <p>Absorb all in your path. None can win. Receive and provide skills, gain access to a spatial storage and mimic entities.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -850,6 +907,7 @@
 <h2>Godly Craftsman</h2>
 
 <p>Utilize your years of experience to create masterpieces with ease and engrave your weapons for terrifying efficiency.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -864,6 +922,7 @@
 <h2>Gourmand</h2>
 
 <p>Feast upon the energy of your opponents. Steal Magicules with your attacks and grow stronger by devouring the power of fallen enemies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -878,6 +937,7 @@
 <h2>Gourmet</h2>
 
 <p>Absorb your enemies, gain new powers, and break down anything that stands in your way.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -892,6 +952,7 @@
 <h2>Great Mage</h2>
 
 <p>Master magic study and awaken The Timeless Mage.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -906,6 +967,7 @@
 <h2>Great Sage</h2>
 
 <p>Improve your cognitive skills to learn and cast faster, become able to appraise targets and use analysis to copy skills and process materials to craft or replicate…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -920,6 +982,7 @@
 <h2>Greed</h2>
 
 <p>Take everything. Conquer the world and your enemies with it. Kill anyone who stands in your path while strengthening yourself or your allies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -934,6 +997,7 @@
 <h2>Guardian</h2>
 
 <p>Stand as a bastion against the force of your enemies. Absorb the damage from your allies and fortify their defenses.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -948,6 +1012,7 @@
 <h2>Handler</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Skill Optimization: Open up a menu that lists skills the user has and are able to alter. Selecting a skill will replace or add onto one of its abilities.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -962,6 +1027,7 @@
 <h2>Healer</h2>
 
 <p>Mend wounds with a touch or unleash devastating afflictions, capable of both salvation and suffering.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -976,6 +1042,7 @@
 <h2>Hidden Ruler</h2>
 
 <p>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every call...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -990,6 +1057,7 @@
 <h2>Imitator</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1004,6 +1072,7 @@
 <h2>Imprisoned Jester</h2>
 
 <p>Deal spirit damage and awaken The Unbound Jester.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1018,6 +1087,7 @@
 <h2>Infinity</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>This skill is almost like cheating, isn&#x27;t it?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1032,6 +1102,7 @@
 <h2>Infinity Prison</h2>
 
 <p>Trap enemies in an unbreakable dimensional cage or shield yourself from any threat with your dimensional barrier. Gain access to spatial storage.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1046,6 +1117,7 @@
 <h2>Investigator</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Pursuit of Tutelage (Requires Mastery) When used, the user can open up a Skill Creation Menu and teach their known Spells and Battlewills to someone.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1060,6 +1132,7 @@
 <h2>King of Curses</h2>
 
 <p>Cursed slashes, fire, and Malevolent Shrine.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1074,6 +1147,7 @@
 <h2>Kyurem</h2>
 
 <p>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1088,6 +1162,7 @@
 <h2>Lemengeton</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Magical Prodigy - Instant learning and mastery of obtained spells. Concentrator is obtained upon acquiring.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1102,6 +1177,7 @@
 <h2>Lord of Magewolves</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;I am the lord. Follow me, my pack, for i will guide us to victory!&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1116,6 +1192,7 @@
 <h2>Lunatic</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1130,6 +1207,7 @@
 <h2>Lust</h2>
 
 <p>Assert your control over life and death. Drain your enemies of their strength or invigorate those under your wing.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1144,6 +1222,7 @@
 <h2>Malleable</h2>
 
 <p>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1158,6 +1237,7 @@
 <h2>Martial Master</h2>
 
 <p>Empower your physical attacks, accelerate your thought process to react and dodge better while beating your enemies to submission.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1172,6 +1252,7 @@
 <h2>Mathematician</h2>
 
 <p>Use mathematics to improve your combat abilities, become able to use analytical appraisal to assess all.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1186,6 +1267,7 @@
 <h2>Melancholy</h2>
 
 <p>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws objects or air, amplifying the feeling of hopelessness…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1200,6 +1282,7 @@
 <h2>Merciless</h2>
 
 <p>Instantly kill weakened enemies or drain the life force of those who lack the will to fight or of those much weaker than you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1214,6 +1297,7 @@
 <h2>Murderer</h2>
 
 <p>Disappear into the shadows and deal massive damage, also become undetectable by sound.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1228,6 +1312,7 @@
 <h2>Musician</h2>
 
 <p>Turn beautiful music into an instrument of destruction. Use sound to create powerful blasts which ignore armor.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1242,6 +1327,7 @@
 <h2>Observer</h2>
 
 <p>See all, evade all. Instinctively avoid attacks, detect concealed dangers, and identify hidden entities. Nothing escapes your watchful gaze.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1256,6 +1342,7 @@
 <h2>Oppressor</h2>
 
 <p>Dominate gravity yourself, control attractive and repulsive forces or unleash devastating ranged attacks which will crush anyone unfortunate enough to be in your path.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1270,6 +1357,7 @@
 <h2>Phaser</h2>
 
 <p>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1284,6 +1372,7 @@
 <h2>Predator</h2>
 
 <p>Become the monster you were meant to be. Eat all. Analyze, craft and refine items, gain access to a spatial storage and mimic entities.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1298,6 +1387,7 @@
 <h2>Pride</h2>
 
 <p>Turn the strength of your opponents into your own and turn the tides of battle. Copy abilities when you are struck by them, provided you meet the necessary conditions.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1312,6 +1402,7 @@
 <h2>Processor</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Multi-Threading- User is capable of running/chanting 2 abilities simultaneously. (This is moved to 3 on mastery.)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1326,6 +1417,7 @@
 <h2>Projection Sorcery</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>[Passive - Toggle] 24 FPS - Summon 24 copies of your self mimicking your previous movements that hold your momentum. As you move more and more your attack and movement…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1340,6 +1432,7 @@
 <h2>Provider</h2>
 
 <p>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1354,6 +1447,7 @@
 <h2>Reaper</h2>
 
 <p>&quot; They call me... the Visage of Death. &quot; &quot; Who, who calls you that? &quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1368,6 +1462,7 @@
 <h2>Reducer</h2>
 
 <p>Damn bro, no magicules?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1382,6 +1477,7 @@
 <h2>Reflector</h2>
 
 <p>Turn back the tides of battle by reflecting all of the received damage. Unleash a devastating projectile attack or counter an attack directly.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1396,6 +1492,7 @@
 <h2>Repeater</h2>
 
 <p>Any physical damage you perform will be repeated a second time.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1410,6 +1507,7 @@
 <h2>Researcher</h2>
 
 <p>Study ancient magic tomes, reverse engineer them, and create wonders beyond imagination.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1424,6 +1522,7 @@
 <h2>Reshiram</h2>
 
 <p>&quot;You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful world you seek so badly?&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1438,6 +1537,7 @@
 <h2>Restricted</h2>
 
 <p>The user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to them on reincarnation by their race, OR if a skill…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1452,6 +1552,7 @@
 <h2>Reverser</h2>
 
 <p>Flip the rules. Change alignments, invert buffs and debuffs while shifting strengths and weaknesses to your benefit.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1466,6 +1567,7 @@
 <h2>Robotnic</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Deconstruct: Data - Open a menu containing the user‘s entire list of skills, if skill is selected, add 1/2 of the skill‘s obtainment cost to the user‘s maximum MP, and…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1480,6 +1582,7 @@
 <h2>Royal Beast</h2>
 
 <p>Unleash a primal fury and gain a massive physical boost to crush your enemies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1494,6 +1597,7 @@
 <h2>Saint</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Spiritron Collection - The user gains a new Energy bar below their MP and AP Bars, this containts the user&#x27;s Spiritron Point Bar. This bar will passively fill up so…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1508,6 +1612,7 @@
 <h2>Scavenger</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Evil Eater - This is a predation ability. It is similar to Gluttony&#x27;s Predator with the sole exception of it&#x27;s ability to consume item&#x27;s as well.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1522,6 +1627,7 @@
 <h2>Scholar</h2>
 
 <p>Have you heard about the Scholar of 53?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1536,6 +1642,7 @@
 <h2>Schrodinger</h2>
 
 <p>Schrodinger? Like the cat?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1550,6 +1657,7 @@
 <h2>Sealer</h2>
 
 <p>Capture power and awaken The One Who Seals.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1564,6 +1672,7 @@
 <h2>Seeker</h2>
 
 <p>Your curiosity drives you to seek the truths of this world and learn as much as possible about it</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1578,6 +1687,7 @@
 <h2>Seer</h2>
 
 <p>See everything. Foresee your opponent’s moves. Dodge or mitigate their attacks and predict their movement to score critical strikes.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1592,6 +1702,7 @@
 <h2>Sentient Being</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Abundance - Your Magicule Regeneration increases by x2 when below 85% Magicules.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1606,6 +1717,7 @@
 <h2>Severer</h2>
 
 <p>Slice through reality and manifest spatial blades which cut through armor and unleash devastating blade storms.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1620,6 +1732,7 @@
 <h2>Shadow Striker</h2>
 
 <p>Become one with the shadows and deal massive spiritual damage and become immune to lesser presence detection.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1634,6 +1747,7 @@
 <h2>Sloth</h2>
 
 <p>Grind the world to a halt. Put your enemies into a deadly sleep, drain their power and rest to regain any lost vitality. May lethargy take over.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1648,6 +1762,7 @@
 <h2>Snatch</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1662,6 +1777,7 @@
 <h2>Sniper</h2>
 
 <p>Deal damage from afar while using different bullets to get past resistances and ensure a quick kill.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1676,6 +1792,7 @@
 <h2>Soul Shrine</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Black Flash: There is a 1% chance for melee attacks to have black flash applied on hit. This will multiply damage dealt by 2.5 and put the user in the zone, multiplying…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1690,6 +1807,7 @@
 <h2>Spearhead</h2>
 
 <p>Empower and command your allies, and then collect their abilities once they pass on.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1704,6 +1822,7 @@
 <h2>Spiritualist</h2>
 
 <p>The Soul formula is as follows: (Mainhand Weapon Damage + Base Atk Dmg) x Critical Multiplier (typically 1.5) / 5</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1718,6 +1837,7 @@
 <h2>Stagnator</h2>
 
 <p>Stagnate the world around you, could this be a jojo reference...?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1732,6 +1852,7 @@
 <h2>Starved</h2>
 
 <p>Consume all in your path or have your rampaging subordinates do it. Corrode your enemies, devour their strength, and add their abilities to your own.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1746,6 +1867,7 @@
 <h2>Stasis</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Status Quo: The user&#x27;s maximum Health cannot be reduced by the likes of Severance or Cook.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1760,6 +1882,7 @@
 <h2>Stripes</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Force: Cannot be turned on unless Object is turned off. User is unaffected by (disintegration, slowness, slow falling, mining fatigue, burden) and shatter multilayer…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1774,6 +1897,7 @@
 <h2>Subjugator</h2>
 
 <p>Empower your allies to fight with you and benefit from their fait, start subjugating it!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1788,6 +1912,7 @@
 <h2>Sunshine</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The pinnacle of light, the brilliance of noon.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1802,6 +1927,7 @@
 <h2>Suppressor</h2>
 
 <p>Restrict teleportation, confuse enemies by swapping places, and use your blink as well as the spatial gate to cross large distances.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1816,6 +1942,7 @@
 <h2>Survivor</h2>
 
 <p>Endure and outheal anything, nullify physical damage and withstand overwhelming odds.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1830,6 +1957,7 @@
 <h2>Tempter</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Solicitation (Requires Mastery): While this skill is in-slot and mastered, the user will be able to copy sub-skills similarly to Pride.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1844,6 +1972,7 @@
 <h2>Thrower</h2>
 
 <p>Use your skill and your precision to throw anything and deal massive damage. You can even shove air or push back your foes.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1858,6 +1987,7 @@
 <h2>Time Traveler</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Time Leap: The user will periodically &quot;save&quot; their location and data. If they were to die, they will return to their last random save. This has a 10 minute cooldown…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1872,6 +2002,7 @@
 <h2>Trash Gamer</h2>
 
 <p>Exploit duplication, random buffs, and a risky Prodigy state.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1886,6 +2017,7 @@
 <h2>Traveler</h2>
 
 <p>Move freely through space, teleport large distances or create spatial gates. Manipulate stardust to immense damage.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1900,6 +2032,7 @@
 <h2>Tuner</h2>
 
 <p>Change your fate to survive fatal blows, regenerate instantly and manipulate probability.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1914,6 +2047,7 @@
 <h2>Unyielding</h2>
 
 <p>Draw power from loyal allies. Fortify subordinates and seamlessly switch to a backup body to stay in the fight.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1928,6 +2062,7 @@
 <h2>Usurper</h2>
 
 <p>Seize your enemies&#x27; power or their summons. Steal their abilities and take control of their skills, draining their strength for your own.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1942,6 +2077,7 @@
 <h2>Victorious Harbinger</h2>
 
 <p>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1956,6 +2092,7 @@
 <h2>Villain</h2>
 
 <p>Embody malice and fight on the side of evil. Gain increased power from killing your foes, manipulate your enemies into joining your and empower your allies.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1970,6 +2107,7 @@
 <h2>Witch&#x27;s Envy</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Witch&#x27;s Gaze - This skill cannot be copied.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1984,6 +2122,7 @@
 <h2>Witch&#x27;s Greed</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Lion&#x27;s Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user&#x27;s EP.. This requires a…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1998,6 +2137,7 @@
 <h2>Wrath</h2>
 
 <p>Unleash pure rage and use it to get infinitely stronger the longer your anger persists. Beware of the devastating drawbacks.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2012,6 +2152,7 @@
 <h2>Zekrom</h2>
 
 <p>&quot;You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path with a clap of lightning.&quot;)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

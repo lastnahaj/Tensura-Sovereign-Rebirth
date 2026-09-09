@@ -30,7 +30,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spirit Realm</h2>
+
 <p>To enter the Spirit Realm one must fly to the roof at the praying platform in the labyrinth with 20K - 30K EP , because else they will die to magic poisoning.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

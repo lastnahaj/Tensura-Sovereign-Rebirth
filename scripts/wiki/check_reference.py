@@ -134,6 +134,16 @@ def validate_collection(spec: dict[str, str], errors: list[str]) -> dict[str, in
     category_indexes = sorted(path for path in reference.rglob("index.md") if path != reference / "index.md")
     for path in category_indexes:
         text = path.read_text(encoding="utf-8")
+        relative = path.relative_to(DOCS).as_posix()
+        if relative == 'mysticism-reference/races/index.md':
+            if '../../tensura-reference/races/index.md' not in text:
+                errors.append('Mysticism race navigation must link to the unified directory')
+            continue
+        if relative == 'tensura-reference/commands/index.md':
+            for required in ('## Tensura: Reincarnated', '## Mysticism', 'commands.md', '1.19.2'):
+                if required not in text:
+                    errors.append(f'Command source directory missing {required}')
+            continue
         if 'data-reference-directory=' not in text and 'reference-skill-hub' not in text:
             errors.append(f"{label}: missing interactive directory structure in {path.relative_to(DOCS)}")
         hero_title = re.search(

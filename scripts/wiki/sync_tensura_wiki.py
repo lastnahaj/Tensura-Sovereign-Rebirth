@@ -1657,6 +1657,20 @@ def generate_evolution_index(records: list[dict[str, Any]]) -> str:
 
 
 def generate_category_index(category: str, records: list[dict[str, Any]]) -> str:
+    if category == 'commands':
+        return '\n'.join([
+            '# Commands by Source', '',
+            'Command syntax and permissions belong to the mod that registers them. Administrator commands are not ordinary player abilities.', '',
+            '## Tensura: Reincarnated', '',
+            '[Browse Tensura commands](commands.md). Check the command help and required permissions against the server build before use.', '',
+            '## Mysticism', '',
+            'The imported command list is explicitly labeled **1.19.2** upstream. It is historical reference, not verified 1.21.1 syntax.', '',
+            '[View the historical Mysticism command list](../../mysticism-reference/commands/commands.md).', '',
+            '## TSR server administration', '',
+            '[Server administration](../../server-administration.md) · [Permissions](../../permissions.md)', '',
+            '## Other installed extensions', '',
+            'Nightmares, Ascension, and SlimeThrone Extras command coverage is not yet verified for the recorded builds. No command list is inferred from skill names or older releases.', '',
+        ])
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
     source_title_overviews = [
@@ -1754,6 +1768,19 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         card_asset_url = rendered_asset_relative_url(index_page, card_asset)
         media_class = "reference-card-media--source" if primary_media else "reference-card-media--theme"
         source_label = "TSR skill emblem" if primary_media and primary_media.get("kind") == "emblem" else ("Source media" if primary_media else "TSR artwork")
+        card_stats = ''
+        if category in {'mobs', 'bosses', 'items', 'blocks', 'biomes', 'structures'}:
+            source_page = DOCS / record['local_page']
+            card_source = source_page.read_text(encoding='utf-8') if source_page.exists() else record.get('_html', '')
+            info = BeautifulSoup(card_source, 'html.parser').select_one('.druid-infobox')
+            pairs = []
+            if info:
+                for row in info.select('.druid-row'):
+                    label, value = row.select_one('.druid-label'), row.select_one('.druid-data')
+                    if label and value and value.get_text(' ', strip=True):
+                        pairs.append((label.get_text(' ', strip=True), value.get_text(' ', strip=True)))
+            if pairs:
+                card_stats = '<dl class="reference-card-stats">' + ''.join('<dt>' + html.escape(label) + '</dt><dd>' + html.escape(value) + '</dd>' for label, value in pairs[:8]) + '</dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>'
         lines.extend(
             [
                 f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',
@@ -1766,6 +1793,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 f"<h2>{html.escape(record['display_title'])}</h2>",
                 '<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>' if record.get("reference_build_only") else "",
                 f"<p>{html.escape(summary)}</p>",
+                card_stats,
                 '<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>',
                 "</div>",
                 "</a>",
@@ -2271,6 +2299,9 @@ def main() -> int:
             destination = DOCS / name
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_text(content, encoding="utf-8")
+        from sync_race_reference import generate as generate_race_reference
+        for name, content in generate_race_reference().items():
+            (DOCS / name).write_text(content, encoding="utf-8")
         from sync_progression import OUTPUT as progression_output, build as build_progression
         write_json(progression_output, build_progression())
         from sync_race_families import generate as generate_race_families
@@ -2380,6 +2411,9 @@ def main() -> int:
         destination = DOCS / name
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(content, encoding="utf-8")
+    from sync_race_reference import generate as generate_race_reference
+    for name, content in generate_race_reference().items():
+        (DOCS / name).write_text(content, encoding="utf-8")
     from sync_progression import OUTPUT as progression_output, build as build_progression
     write_json(progression_output, build_progression())
     from sync_race_families import generate as generate_race_families

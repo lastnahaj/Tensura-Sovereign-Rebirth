@@ -38,7 +38,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cryptid Essence</h2>
+
 <p>Evolving from Lesser Angel to Phantom (Needs 1)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -51,7 +53,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Divine Emperor Scorpion</h2>
+
 <p>REDIRECT Divine Loxodrome Scorpion</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -64,7 +68,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Emperor Scorpion</h2>
+
 <p>REDIRECT Loxodrome Scorpion Savant</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -77,7 +83,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Flame Essence</h2>
+
 <p>Evolving Sculk Worm to Molten Perforator (Needs 3)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -90,7 +98,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Essence</h2>
+
 <p>Evolving from Attuned Wyrm to Lesser Glacier Wyrm (Needs 5)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -103,7 +113,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>King Scorpion Insectar</h2>
+
 <p>REDIRECT Loxodrome Scorpion Insectar</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -116,7 +128,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Lightning Essence</h2>
+
 <p>Evolving Sculk Worm to Charged Perforator (Needs 10)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -129,7 +143,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Rimuru</h2>
+
 <p>https://tensura.wiki.gg/wiki/Tensura_Reincarnated_Wiki:Rimuru_Tempest_Boss</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -142,7 +158,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Soul Energy</h2>
+
 <p>On first reincarnation, the player is given a random Soul Energy amount ranging from 500,000 to 7,000,000. You will always have enough to gain your first Unique Skill.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

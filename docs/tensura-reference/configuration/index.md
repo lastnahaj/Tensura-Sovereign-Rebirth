@@ -31,7 +31,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Client</h2>
+
 <p>Switch to true for Spiders to have a more friendly appearance Default: false arachnophobiaMode = false wip wip wip wip wip wip</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -44,7 +46,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Config</h2>
+
 <p>In order to access the config, first go to your modpack/profile&#x27;s directory (this is the one that contains folders for mods, logs, crash reports, the config, etc.) and…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -57,7 +61,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spawnrate-Common</h2>
+
 <p>How many times will the entity attempt to spawn before failing 0 = disabled, 1 = guaranteed, higher = lower chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

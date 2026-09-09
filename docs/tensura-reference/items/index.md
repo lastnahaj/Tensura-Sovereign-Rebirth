@@ -50,7 +50,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of Adamantite. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -63,7 +65,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Gear Schematic</h2>
+
 <p>Obtained by picking up an Adamantite Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -76,7 +80,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Ingot</h2>
+
 <p>Smelting Adamantite gear into nuggets and then crafting an ingot.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -89,7 +95,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Nugget</h2>
+
 <p>Smelting Adamantite armor/gear</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -102,7 +110,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Angry Pierrot Mask</h2>
+
 <p>To craft the Angry Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -115,7 +125,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Gear Schematic</h2>
+
 <p>Obtained by picking up a Giant Ant Carapace</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -128,7 +140,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Armorsaurus Scale</h2>
+
 <p>An armor like scale from the skin of an Armorsaurus .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -141,7 +155,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Armorsaurus Scalemail Schematic</h2>
+
 <p>Obtained by picking up an Armorsaurus Scale</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -154,7 +170,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Armorsaurus Shell</h2>
+
 <p>A tough casing from the back of an Armorsaurus .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -167,7 +185,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Armours</h2>
+
 <p>Upstream reference information for Armours.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -180,7 +200,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Baffledill</h2>
+
 <p>Baffledills apply the Hypnosis to all players within 8 blocks of the flower. Non-default alignments (majin/holy/chaos) and spiritual beings are unaffected.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -193,7 +215,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Basic Bow Schematic</h2>
+
 <p>Found in Goblin Towers &amp; Lizard Towers - 10% OR Found in Fletcher Villager Houses &amp; Pillager Outposts - 20% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -206,7 +230,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Bat Glider</h2>
+
 <p>Ripoff Ellyta, good enough? Obtain a bat glider</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -219,7 +245,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Beast Horn</h2>
+
 <p>A severed spike from the head or a horned creature.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -232,7 +260,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Blade Tiger Steak</h2>
+
 <p>Cooking a Raw Blade Tiger Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -245,7 +275,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Blade Tiger Tail</h2>
+
 <p>A razor sharp blade from the tail of a Blade Tiger .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -258,7 +290,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Bucket of Slime</h2>
+
 <p>This item can be obtained by right clicking a Slime with a Bucket .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -271,7 +305,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Bulldeer Milk Bucket</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -284,7 +320,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>CargoTest</h2>
+
 <p>Upstream reference information for CargoTest.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -297,7 +335,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cattledeer Beef</h2>
+
 <p>Killing/Defeating a Cattledeer</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -310,7 +350,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cattledeer Steak</h2>
+
 <p>Cooking a Cattledeer Beef with a campfire, furnace, etc, will give Cattledeer Steak .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -323,7 +365,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Centipede Stinger</h2>
+
 <p>A sharp venomous barb from an Evil Centipede .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -336,7 +380,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Character Reset Scroll</h2>
+
 <p>Resets EVERYTHING from the User, Pretty much like reincarnating from scratch. This also means achievements that you&#x27;ve obtained. Also used for the Reset Counter…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -349,7 +395,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Core</h2>
+
 <p>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -362,7 +410,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Core, Inert</h2>
+
 <p>An Inert Charybdis Core</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -375,7 +425,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scale</h2>
+
 <p>A massive blue scale from Charybdis .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -388,7 +440,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scalemail Schematic</h2>
+
 <p>Obtained by defeating Charybdis</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -401,7 +455,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Chilled Slime</h2>
+
 <p>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -414,7 +470,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Consumables</h2>
+
 <p>Upstream reference information for Consumables.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -427,7 +485,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Armorsaurus Meat</h2>
+
 <p>Cooking a Raw Armorsaurus Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -440,7 +500,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Blade Tiger Meat</h2>
+
 <p>Cooking a Raw Blade Tiger Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -453,7 +515,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Charybdis Meat</h2>
+
 <p>Cooking a Raw Charybdis Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -466,7 +530,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Giant Ant Leg</h2>
+
 <p>Cooking a Giant Ant Leg with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -479,7 +545,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Giant Bat Meat</h2>
+
 <p>Consumption is deadly</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -492,7 +560,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Knight Spider Leg</h2>
+
 <p>Cooking a Knight Spider Leg with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -505,7 +575,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Megalodon Meat</h2>
+
 <p>Cooking a Raw Megalodon Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -518,7 +590,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Serpent Meat</h2>
+
 <p>Cooking a Raw Serpent Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -531,7 +605,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Sissie Fin</h2>
+
 <p>Cooking a Sissie Fin with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -544,7 +620,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Sissie Meat</h2>
+
 <p>Cooking a Raw Sissie Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -557,7 +635,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Spear Toro Fin</h2>
+
 <p>Cooking a Spear Toro Fin with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -570,7 +650,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cooked Spear Toro Meat</h2>
+
 <p>Cooking a Raw Spear Toro Meat with a campfire, furnace, etc</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -583,7 +665,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Crazy Pierrot Mask</h2>
+
 <p>To craft the Crazy Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -596,7 +680,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Daemon Core</h2>
+
 <p>Can be obtained by crafting at a Smithing Bench</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -609,7 +695,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Daemon Essence</h2>
+
 <p>The dark grisly essence of a daemon.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -622,7 +710,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dagger Schematic</h2>
+
 <p>Found in Butcher Villager Houses - 20% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -635,7 +725,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dark Set Schematic</h2>
+
 <p>Earn the Advancement [ Ruler Of Monsters ] which requires taming Lizardman , Goblin , Orc , Direwolf , and Slime</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -648,7 +740,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Diamond Gear Schematic</h2>
+
 <p>Obtained by picking up a Diamond</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -661,7 +755,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dragon Essence</h2>
+
 <p>The overwhelming essence of a large and powerful beast.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -674,7 +770,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dragon Peacock Feather</h2>
+
 <p>A multicoloured feather plucked from a Dragon Peacock .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -687,7 +785,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dubious Food</h2>
+
 <p>When eaten, the Dubious Food can give various effects based on an 80% chance per effect. These effects include:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -700,7 +800,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Earth)</h2>
+
 <p>There are 2 obtainment methods:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -713,7 +815,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Empty)</h2>
+
 <p>Can be obtained by crafting</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -726,7 +830,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Fire)</h2>
+
 <p>There are 2 obtainment methods:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -739,7 +845,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Space)</h2>
+
 <p>There are 2 obtainment methods:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -752,7 +860,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Water)</h2>
+
 <p>There are 2 obtainment methods:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -765,7 +875,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Element Core (Wind)</h2>
+
 <p>There are 2 obtainment methods:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -778,7 +890,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Essence</h2>
+
 <p>The essence carried with a creature as it is summoned.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -791,7 +905,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Shard (Earth)</h2>
+
 <p>This item can be obtained by killing:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -804,7 +920,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Shard (Fire))</h2>
+
 <p>This item can be obtained by killing:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -817,7 +935,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Shard (Space)</h2>
+
 <p>This item can be obtained by killing:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -830,7 +950,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Shard (Water)</h2>
+
 <p>This item can be obtained by killing:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -843,7 +965,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Elemental Shard (Wind)</h2>
+
 <p>This item can be obtained by killing:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -856,7 +980,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Enchanted Silver Apple</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -869,7 +995,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Explorer Maps</h2>
+
 <p>Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an option. The trade costs 5 - 15 Gold Coin . And they can…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -882,7 +1010,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Full Potion</h2>
+
 <p>Obtained by brewing Hipokute Flower with a Vacuumed Magic Bottle of Water</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -895,7 +1025,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gear</h2>
+
 <p>Upstream reference information for Gear.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -908,7 +1040,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gehenna-Moth Silk</h2>
+
 <p>A dark dusty silk spun by a Gehenna Moth.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -921,7 +1055,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Giant Ant Carapace</h2>
+
 <p>A thick brown scale from the exoskeleton of a Giant Ant .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -934,7 +1070,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Giant Ant Leg</h2>
+
 <p>Killing/Defeating a Giant Ant</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -947,7 +1085,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Giant Bat Wing</h2>
+
 <p>A large black wing from a Giant Bat .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -960,7 +1100,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Goblin Club</h2>
+
 <p>Can be crafted into a Kanabo To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -973,7 +1115,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gold Gear Schematic</h2>
+
 <p>Obtained by picking up a Gold Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -986,7 +1130,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Great Sword Schematic</h2>
+
 <p>Found in Weaponsmith Village Houses - 20% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -999,7 +1145,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Greater Holy Water</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1012,7 +1160,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire(A)</h2>
+
 <p>A semi-high level grimoire for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1025,7 +1175,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire(B)</h2>
+
 <p>A mid level grimoire for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1038,7 +1190,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire(C)</h2>
+
 <p>A low level grimoire for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1051,7 +1205,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire(D)</h2>
+
 <p>A low level grimoire for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1064,7 +1220,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire(Special A)</h2>
+
 <p>A high level grimoire for casting magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1077,7 +1235,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hell-Moth Silk</h2>
+
 <p>A soft silk spun by a Hell Moth .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1090,7 +1250,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High  Magisteel Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of high magisteel. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1103,7 +1265,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Gear Schematic</h2>
+
 <p>Obtained by picking up a High Magisteel Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1116,7 +1280,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Ingot</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each High Magisteel Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1129,7 +1295,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Nugget</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each High Magisteel Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1142,7 +1310,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Potion</h2>
+
 <p>Obtained by brewing Hipokute Flower with a Magic Bottle of Water OR By brewing Hipokute Grass with a Vacuumed Magic Bottle of Water</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1155,7 +1325,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane  Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of Hihi&#x27;irokane. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1168,7 +1340,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Ingot</h2>
+
 <p>Smelting Hihi&#x27;irokane gear into nuggets and then crafting an ingot.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1181,7 +1355,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Nugget</h2>
+
 <p>Smelting hihi&#x27;irokane armor/gear</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1194,7 +1370,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Gear Schematic</h2>
+
 <p>Obtained by picking up an HihiIrokane Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1207,7 +1385,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Flower</h2>
+
 <p>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by hipokute farming .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1220,7 +1400,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Grass</h2>
+
 <p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1233,7 +1415,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Seeds</h2>
+
 <p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This whether naturally generated in the wild or grown by hipokute farming…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1246,7 +1430,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Milk</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1259,7 +1445,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Milk Bucket</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1272,7 +1460,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Water</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1285,7 +1475,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hot Spring Water Bucket</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1298,7 +1490,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Blade</h2>
+
 <p>To craft, you need a Smithing Bench and have used High Magisteel Gear Schematic , and Long Sword Schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1311,7 +1505,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Insectar Carapace</h2>
+
 <p>A strong armor from the body of an Army Wasp .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1324,7 +1520,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Invisible Feather</h2>
+
 <p>A transparent feather plucked from a One Eyed Owl .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1337,7 +1535,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Iron Gear Schematic</h2>
+
 <p>Obtained by picking up an Iron Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1350,7 +1550,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Items</h2>
+
 <p>Tensura:Reincarnated adds a number of unique and interesting Items.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1363,7 +1565,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Items</h2>
+
 <p>Mob Drops Ores</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1376,7 +1580,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Items/Mob Drops</h2>
+
 <p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1389,7 +1595,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Items/Ores</h2>
+
 <p>Ice Essence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1402,7 +1610,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Japanese Schematic</h2>
+
 <p>Found in Woodland Mansions &amp; Ancient Cities - 10% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1415,7 +1625,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Kanabo</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1428,7 +1640,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace</h2>
+
 <p>A strong armor from the body of a Knight Spider .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1441,7 +1655,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Gear Schematic</h2>
+
 <p>Obtained by picking up a Knight Spider Carapace</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1454,7 +1670,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Leg</h2>
+
 <p>Killing/Defeating a Knight Spider</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1467,7 +1685,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Kunai Schematic</h2>
+
 <p>Found in Abandoned Mineshafts - 10% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1480,7 +1700,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Learnable</h2>
+
 <p>Battlewills are skills equal to magic that use aura instead of magicules. See Battlewill Manual for all possible battlewills</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1493,7 +1715,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Leather Gear Schematic</h2>
+
 <p>Obtained by picking up leather</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1506,7 +1730,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Long Sword Schematic</h2>
+
 <p>Found in Dwarf Blacksmiths - 10% OR Found in Toolsmith Villager Houses - 20% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1519,7 +1745,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of low magisteel. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1532,7 +1760,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Gear Schematic</h2>
+
 <p>Obtained by picking up a Low Magisteel Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1545,7 +1775,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Ingot</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each Low Magisteel Ingot is made with 1 part Molten Magisteel and 8 parts Molten Iron.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1558,7 +1790,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Nugget</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each Low Magisteel Nugget is made with 1 part Molten Magisteel and 8 parts Molten Iron.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1571,7 +1805,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Potion</h2>
+
 <p>Obtained by brewing Hipokute Grass with a Magic Bottle of Water</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1584,7 +1820,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Marionette Heart</h2>
+
 <p>A rare magic item that can turn the user into a Majin with the cost of half their max HP in damage and most of their current Magicule. This does NOT mean that the…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1597,7 +1835,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Meat Crusher</h2>
+
 <p>Holding right click and releasing it when fully charge deals a heavy blow which deals 26 damage but also deals Corrosion damage for ~2 seconds(40 ticks)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1610,7 +1850,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Misc</h2>
+
 <p>Upstream reference information for Misc.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1623,7 +1865,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril  Magisteel Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of Mithril. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates by…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1636,7 +1880,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Gear Schematic</h2>
+
 <p>Obtained by picking up a Mithril Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1649,7 +1895,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Ingot</h2>
+
 <p>Smelting Magic Ore and Silver in Kiln Each Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Silver.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1662,7 +1910,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Nugget</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each Mithril Ingot is made with 5 parts Molten Magisteel, 4 parts Molten Silver.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1675,7 +1925,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mob Drops</h2>
+
 <p>These are primarily obtained via Mobs, unless specified otherwise</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1688,7 +1940,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather (A)</h2>
+
 <p>A Monster Leather of Rank-A</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1701,7 +1955,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather (B)</h2>
+
 <p>A Monster Leather of Rank-B</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1714,7 +1970,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather (C)</h2>
+
 <p>A Monster Leather of Rank-C</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1727,7 +1985,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather (D)</h2>
+
 <p>A Monster Leather of Rank-D</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1740,7 +2000,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather (Special A)</h2>
+
 <p>A Monster Leather of Rank-Special A</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1753,7 +2015,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Boots (A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Boots (B) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1766,7 +2030,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Boots (B)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Boots (C) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1779,7 +2045,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Boots (C)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Boots (D) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1792,7 +2060,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Boots (D)</h2>
+
 <p>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1805,7 +2075,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Boots (Special A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Boots (A) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1818,7 +2090,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Chestplate (A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Chestplate (B) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1831,7 +2105,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Chestplate (B)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Chestplate (C) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1844,7 +2120,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Chestplate (C)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Chestplate (D) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1857,7 +2135,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Chestplate (D)</h2>
+
 <p>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1870,7 +2150,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Chestplate (Special A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Chestplate (A) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1883,7 +2165,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Gear Schematic</h2>
+
 <p>Obtained by picking up any Monster Leather</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1896,7 +2180,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Helmet (A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Helmet (B) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1909,7 +2195,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Helmet (B)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Helmet (C) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1922,7 +2210,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Helmet (C)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Helmet (D) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1935,7 +2225,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Helmet (D)</h2>
+
 <p>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1948,7 +2240,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Helmet (Special A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Helmet (A) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1961,7 +2255,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Leggings (A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Leggings (B) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1974,7 +2270,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Leggings (B)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Leggings (C) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1987,7 +2285,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Leggings (C)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Leggings (D) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2000,7 +2300,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Leggings (D)</h2>
+
 <p>To craft the armor, one must have used a Monster Leather Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2013,7 +2315,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Leather Leggings (Special A)</h2>
+
 <p>Obtainable through killing mobs while having Monster Leather Leggings (A) in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2026,7 +2330,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Monster Saddle</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2039,7 +2345,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orc Disaster Head</h2>
+
 <p>The severed head of the Orc Disaster taken as a trophy.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2052,7 +2360,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of Orichalcum. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2065,7 +2375,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Gear Schematic</h2>
+
 <p>Obtained by picking up an Orichalcum Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2078,7 +2390,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Ingot</h2>
+
 <p>Smelting Magic Ore and Gold in Kiln Each Orichalcum Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Gold.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2091,7 +2405,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Nugget</h2>
+
 <p>Smelting Magic Ore and Iron in Kiln Each Orichalcum Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2104,7 +2420,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Phantaspore</h2>
+
 <p>Upstream reference information for Phantaspore.</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>ANY Forest , Mushroom Fields , Warped Forest , Crimson Forest , Ancient Forest</dd><dt>Common</dt><dd>Poison Hypnosis</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2117,7 +2435,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pierrot Mask Schematic</h2>
+
 <p>Found in Spawner Chests - 10% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2130,7 +2450,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Bone Golem</h2>
+
 <p>A golem resembling a skeleton made out of pure magisteel. Allows the player to possess it and works as a physical body, can also be given to spirit or daemon…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2143,7 +2465,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Gear Schematic</h2>
+
 <p>Obtained by picking up a Pure Magisteel Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2156,7 +2480,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Ingot</h2>
+
 <p>Smelting Magic Ore Shard in Kiln Each Pure Magisteel Ingot is made with 9 parts Molten Magisteel.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2169,7 +2495,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Nugget</h2>
+
 <p>Smelting magic ore in Kiln</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2182,7 +2510,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Race Reset Scroll</h2>
+
 <p>Can only be obtained by crafting</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2195,7 +2525,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Armorsaurus Meat</h2>
+
 <p>Killing/Defeating a Armorsaurus</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2208,7 +2540,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Blade Tiger Meat</h2>
+
 <p>Killing/Defeating a Blade Tiger</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2221,7 +2555,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Charybdis Meat</h2>
+
 <p>Killing/Defeating Charybdis</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2234,7 +2570,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Giant Bat Meat</h2>
+
 <p>Upon consumption has a chance to give the Infection effect. This is used to obtain abnormal resistance, however be warned, this might kill you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2247,7 +2585,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Megalodon Meat</h2>
+
 <p>Killing/Defeating a Megalodon</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2260,7 +2600,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Serpent Meat</h2>
+
 <p>Killing/Defeating a Tempest Serpent</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2273,7 +2615,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Silver</h2>
+
 <p>Obtained by mining Silver Ore with a Stone Pickaxe (or Deepslate Silver Ore with an Iron Pickaxe )</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2286,7 +2630,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Sissie Meat</h2>
+
 <p>Killing/Defeating a Sissie</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2299,7 +2645,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Raw Spear Toro Meat</h2>
+
 <p>Killing/Defeating a Spear Toro</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2312,7 +2660,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Revival Elixir</h2>
+
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2325,7 +2675,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Royal Blood</h2>
+
 <p>The pure shimmering blood of royalty.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2338,7 +2690,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scale</h2>
+
 <p>A slippery scale from the skin of Tempest Serpent .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2351,7 +2705,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Gear Schematic</h2>
+
 <p>Obtained by picking up a Serpent Scale</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2364,7 +2720,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Shield Schematic</h2>
+
 <p>Found in Armorer Village Chests - 20% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2377,7 +2735,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Short Sword Schematic</h2>
+
 <p>Goblin Chief Houses - 25% Chance OR Found in Dwarf Blacksmiths - 10% Chance OR Found in Tannery Villager Houses - 20%</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2390,7 +2750,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Apple</h2>
+
 <p>Upon consumption gives the effects Magicule Regeneration for 60 seconds and Haste for 120 seconds.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2403,7 +2765,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Gear Schematic</h2>
+
 <p>Obtained by picking up a Silver Ingot</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2416,7 +2780,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Ingot</h2>
+
 <p>To craft armor/gear one must have used a Silver Gear Schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2429,7 +2795,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Nugget</h2>
+
 <p>Smelting Silver Ore in a kiln.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2442,7 +2810,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sissie Fin</h2>
+
 <p>Killing/Defeating a Sissie</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2455,7 +2825,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sissie Tooth</h2>
+
 <p>A sharp tooth from the jaws of a Sissie .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2468,7 +2840,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Slime Chunk</h2>
+
 <p>A gooey ball of slime from a Slime .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2481,7 +2855,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Slime Core</h2>
+
 <p>The beating core of a Supermassive Slime .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2494,7 +2870,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spatial Blade Schematic</h2>
+
 <p>Drops from Kyoya Tachibana</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2507,7 +2885,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spear Schematic</h2>
+
 <p>Found in Lizardman Blacksmiths &amp; Lizardman Throne Rooms - 25% Chance OR Found in Lizardman Storages - 10% Chance OR Found in Orc Tents - 2% Chance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2520,7 +2900,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spear Toro Fin</h2>
+
 <p>Killing/Defeating a Spear Toro</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2533,7 +2915,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spider Bows Schematic</h2>
+
 <p>By holding knight spider legs or Knight Spider Carapace</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2546,7 +2930,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spider Fang</h2>
+
 <p>A venomous fang from the mouth of a Black Spider .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2559,7 +2945,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Steel Thread</h2>
+
 <p>A strong thread spun by a Black Spider .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2572,7 +2960,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sticky Thread</h2>
+
 <p>An glue like thread spun by a Black Spider .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2585,7 +2975,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Teardrop Pierrot Mask</h2>
+
 <p>To craft the Teardrop Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2598,7 +2990,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Tempest Scale Knife</h2>
+
 <p>To craft, you need a Smithing Bench and have used Charybdis Scalemail Gear Schematic , Pure Magisteel Gear Schematic and Dagger Schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2611,7 +3005,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Unbound Tome</h2>
+
 <p>Can only be Found not Crafted.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2624,7 +3020,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Unicorn Horn</h2>
+
 <p>An ethereal horn from a Unicorn . You monster...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2637,7 +3035,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Warp Core</h2>
+
 <p>Can be obtained by crafting at a Smithing Bench</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2650,7 +3050,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Web Gun Schematic</h2>
+
 <p>Found in Spider Nest - 20% Chance OR Killing a Black Spider</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2663,7 +3065,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Winged Shoes Schematic</h2>
+
 <p>Holding a Dragon Peacock Feather</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2676,7 +3080,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wonder Pierrot Mask</h2>
+
 <p>To craft the Wonder Pierrot Mask, one must have used a Pierrot Mask Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2689,7 +3095,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Zane Blood</h2>
+
 <p>The blood of an ancient vampire.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

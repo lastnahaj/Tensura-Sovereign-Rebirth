@@ -43,7 +43,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Great Sword</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Great Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -56,7 +58,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Katana</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Katana in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -69,7 +73,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Kodachi</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Kodachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -82,7 +88,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Long Sword</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Long Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -95,7 +103,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Odachi</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Odachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -108,7 +118,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Scythe</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Scythe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -121,7 +133,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Short Sword</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Short Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -134,7 +148,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Sickle</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Sickle in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -147,7 +163,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Spear</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Spear in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -160,7 +178,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Sword</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -173,7 +193,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Tachi</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Tachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -186,7 +208,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Beast Horn Spear</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -199,7 +223,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Blade Tiger Scythe</h2>
+
 <p>To craft, you need a Smithing Bench and Great Sword Schematic + Spear Schematic .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -212,7 +238,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Centipede Dagger</h2>
+
 <p>To craft the weapon, one must have used a ???. To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -225,7 +253,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gear/Tachi</h2>
+
 <p>Tachi&#x27;s are the combination of the Japanese Schematic and the Long Sword Schematic which do mid-range damage, have buffed attack reach, and have a 100% sweeping chance.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -238,7 +268,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Great Sword</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Great Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -251,7 +283,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Katana</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Katana in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -264,7 +298,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Kodachi</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Kodachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -277,7 +313,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Long Sword</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Long Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -290,7 +328,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Odachi</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Odachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -303,7 +343,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Scythe</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Scythe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -316,7 +358,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Short Sword</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Short Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -329,7 +373,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Sickle</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Sickle in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -342,7 +388,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Spear</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Spear in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -355,7 +403,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Sword</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -368,7 +418,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Tachi</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Tachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -381,7 +433,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Great Sword</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Great Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -394,7 +448,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Katana</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Katana in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -407,7 +463,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Kodachi</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Kodachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -420,7 +478,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Long Sword</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Long Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -433,7 +493,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Odachi</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Odachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -446,7 +508,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Scythe</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Scythe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -459,7 +523,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Short Sword</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Short Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -472,7 +538,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Sickle</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Sickle in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -485,7 +553,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Spear</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Spear in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -498,7 +568,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Sword</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -511,7 +583,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Tachi</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Tachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -524,7 +598,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Kodachi Schematic</h2>
+
 <p>Kodachi does not have a schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -537,7 +613,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Great Sword</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -550,7 +628,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Katana</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic and a Japanese Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -563,7 +643,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Kodachi</h2>
+
 <p>To craft the weapon, one must have used the following schematics: Low Magisteel Gear Schematic , Short Sword Schematic and a Japanese Schematic .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -576,7 +658,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Long Sword</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic and a Long Sword Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -589,7 +673,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Odachi</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -602,7 +688,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Scythe</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -615,7 +703,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Short Sword</h2>
+
 <p>To craft the weapon, one must have used Low Magisteel Gear Schematic and a Short Sword Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -628,7 +718,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Sickle</h2>
+
 <p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -641,7 +733,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Spear</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -654,7 +748,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Sword</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -667,7 +763,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Tachi</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -680,7 +778,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Great Sword</h2>
+
 <p>Obtainable through killing mobs while having Mithril Great Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -693,7 +793,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Katana</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic and a Japanese Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -706,7 +808,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Kodachi</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -719,7 +823,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Long Sword</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -732,7 +838,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Odachi</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -745,7 +853,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Scythe</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -758,7 +868,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Short Sword</h2>
+
 <p>To craft the weapon, one must have used a Pure Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -771,7 +883,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Sickle</h2>
+
 <p>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -784,7 +898,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Spear</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -797,7 +913,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Sword</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -810,7 +928,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Tachi</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -823,7 +943,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Odachi Schematic</h2>
+
 <p>Odachi does not have a schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -836,7 +958,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Great Sword</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -849,7 +973,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Katana</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -862,7 +988,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Kodachi</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -875,7 +1003,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Long Sword</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -888,7 +1018,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Odachi</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -901,7 +1033,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Scythe</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -914,7 +1048,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Short Sword</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -927,7 +1063,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Sickle</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -940,7 +1078,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Spear</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -953,7 +1093,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Sword</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -966,7 +1108,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Tachi</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -979,7 +1123,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Great Sword</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Great Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -992,7 +1138,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Katana</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Katana in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1005,7 +1153,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Kodachi</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Kodachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1018,7 +1168,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Long Sword</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Long Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1031,7 +1183,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Odachi</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Odachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1044,7 +1198,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Scythe</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Scythe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1057,7 +1213,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Short Sword</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Short Sword in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1070,7 +1228,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Sickle</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Sickle in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1083,7 +1243,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Spear</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Spear in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1096,7 +1258,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Sword</h2>
+
 <p>To craft the weapon, one must have used a Pure Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1109,7 +1273,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Tachi</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Tachi in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1122,7 +1288,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Scythe Schematic</h2>
+
 <p>Scythe does not have a schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1135,7 +1303,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spider Dagger</h2>
+
 <p>To craft the weapon, one must have used a ???. To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1148,7 +1318,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Tachi Schematic</h2>
+
 <p>Tachi does not have a schematic</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1161,7 +1333,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Tempest Scale Sword</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1174,7 +1348,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Unicorn Horn Spear</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1187,7 +1363,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wooden Great Sword</h2>
+
 <p>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1200,7 +1378,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wooden Long Sword</h2>
+
 <p>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -1213,7 +1393,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wooden Short Sword</h2>
+
 <p>This gears schematic is enabled by default. To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

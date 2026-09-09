@@ -40,7 +40,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Nest</h2>
+
 <p>Upstream reference information for Ant Nest.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Savannah, Forest, Birch Forest</dd><dt>Mobs</dt><dd>Giant Ant</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -53,7 +55,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Big Ruins</h2>
+
 <p>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Underworld Red Sands , Underworld Sands</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -66,7 +70,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Cave</h2>
+
 <p>A rare structure able to spawn in many biomes across the overworld.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Forests, Jungles, Taigas, Savannahs</dd><dt>Mobs</dt><dd>Charybdis * Summoned through core</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -79,7 +85,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dwarf Village</h2>
+
 <p>Training Ground = Battlewill Master</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Mountain biomes like, Meadows, Groves, Plateaus, etc</dd><dt>Mobs</dt><dd>Dwarf</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -92,7 +100,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Goblin Village</h2>
+
 <p>Inside the chief house there is a chest, in which the Short Sword Schematic can be found with a 25% chance.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Sakura Forest, Taiga, Forest, Birch Forest</dd><dt>Mobs</dt><dd>Goblin</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -105,7 +115,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hell Gate</h2>
+
 <p>A rare structure able to spawn in many biomes across the overworld as well as in the hell dimension.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Savannah, Hell</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -118,7 +130,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Labyrinth Tree</h2>
+
 <p>The labyrinth tree is used to enter the Labyrinth</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Ancient Forest</dd><dt>Mobs</dt><dd>Elemental Colossus</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -131,7 +145,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Lizardman Village</h2>
+
 <p>Sometimes these structures have a blacksmith, whose barrel has a 50% for the Spear Schematic .</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Swamp, Mangrove Swamp</dd><dt>Mobs</dt><dd>Lizardman , Hover Lizard</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -144,7 +160,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ruins</h2>
+
 <p>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Underworld Sands</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -157,7 +175,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Spider Nest</h2>
+
 <p>Inside are chests which can contain Sticky Cobweb , Steel Cobweb all Spider Bow variants, Web Gun Schematic , and Spider Egg , among other loot.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Plains, Dark Forest</dd><dt>Mobs</dt><dd>Black Spider</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -170,7 +190,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Structures/Ruins</h2>
+
 <p>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Underworld Sands</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -183,7 +205,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wizard Tower</h2>
+
 <p>A rare structure able to spawn in many biomes across the overworld, contains magic tomes of different elements depending on the biome.</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Forests, deserts, badlands, miasmic plains, snowy plains</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

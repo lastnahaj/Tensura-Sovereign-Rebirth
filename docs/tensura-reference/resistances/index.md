@@ -45,6 +45,7 @@
 <h2>Abnormal Condition Nullification</h2>
 
 <p>Abnormal Condition Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -59,6 +60,7 @@
 <h2>Abnormal Condition Resistance</h2>
 
 <p>Abnormal Condition Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -73,6 +75,7 @@
 <h2>Cold Nullification</h2>
 
 <p>Cold Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -87,6 +90,7 @@
 <h2>Cold Resistance</h2>
 
 <p>Cold Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -101,6 +105,7 @@
 <h2>Corrosion Nullification</h2>
 
 <p>Corrosion Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -115,6 +120,7 @@
 <h2>Corrosion Resistance</h2>
 
 <p>Corrosion Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -129,6 +135,7 @@
 <h2>Darkness Attack Nullification</h2>
 
 <p>Darkness Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -143,6 +150,7 @@
 <h2>Darkness Attack Resistance</h2>
 
 <p>Darkness Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -157,6 +165,7 @@
 <h2>Earth Attack Nullification</h2>
 
 <p>Earth Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -171,6 +180,7 @@
 <h2>Earth Attack Resistance</h2>
 
 <p>Earth Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -185,6 +195,7 @@
 <h2>Electricity Nullification</h2>
 
 <p>Electricity Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -199,6 +210,7 @@
 <h2>Electricity Resistance</h2>
 
 <p>Electricity Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -213,6 +225,7 @@
 <h2>Flame Attack Nullification</h2>
 
 <p>Flame Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -227,6 +240,7 @@
 <h2>Flame Attack Resistance</h2>
 
 <p>Flame Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -241,6 +255,7 @@
 <h2>Gravity Attack Nullification</h2>
 
 <p>Gravity Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -255,6 +270,7 @@
 <h2>Gravity Attack Resistance</h2>
 
 <p>Gravity Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -269,6 +285,7 @@
 <h2>Heat Nullification</h2>
 
 <p>Heat Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -283,6 +300,7 @@
 <h2>Heat Resistance</h2>
 
 <p>Heat Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -297,6 +315,7 @@
 <h2>Holy Attack Nullification</h2>
 
 <p>!!! Unobtainable without commands !!!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -311,6 +330,7 @@
 <h2>Holy Attack Resistance</h2>
 
 <p>Holy Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -325,6 +345,7 @@
 <h2>Light Attack Nullification</h2>
 
 <p>Light Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -339,6 +360,7 @@
 <h2>Light Attack Resistance</h2>
 
 <p>Light Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -353,6 +375,7 @@
 <h2>Nuclear Resistance</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -367,6 +390,7 @@
 <h2>Pain Nullification</h2>
 
 <p>Pain Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -381,6 +405,7 @@
 <h2>Pain Resistance</h2>
 
 <p>Pain Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -395,6 +420,7 @@
 <h2>Paralysis Nullification</h2>
 
 <p>Paralysis Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -409,6 +435,7 @@
 <h2>Paralysis Resistance</h2>
 
 <p>Paralysis Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -423,6 +450,7 @@
 <h2>Physical Attack Resistance</h2>
 
 <p>Physical Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -437,6 +465,7 @@
 <h2>Physicial Attack Nullification</h2>
 
 <p>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -451,6 +480,7 @@
 <h2>Pierce Nullification</h2>
 
 <p>Pierce Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -465,6 +495,7 @@
 <h2>Pierce Resistance</h2>
 
 <p>Pierce Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -479,6 +510,7 @@
 <h2>Poison Nullification</h2>
 
 <p>Poison Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -493,6 +525,7 @@
 <h2>Poison Resistance</h2>
 
 <p>Poison Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -507,6 +540,7 @@
 <h2>Spatial Attack Nullification</h2>
 
 <p>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -521,6 +555,7 @@
 <h2>Spatial Attack Resistance</h2>
 
 <p>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -535,6 +570,7 @@
 <h2>Spellbinding Table</h2>
 
 <p>A table for binding spells.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -549,6 +585,7 @@
 <h2>Spiritual Attack Nullification</h2>
 
 <p>Spiritual Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -563,6 +600,7 @@
 <h2>Spiritual Attack Resistance</h2>
 
 <p>Spiritual Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -577,6 +615,7 @@
 <h2>Thermal Fluctuation Nullification</h2>
 
 <p>Thermal Fluctuation Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -591,6 +630,7 @@
 <h2>Thermal Fluctuation Resistance</h2>
 
 <p>Thermal Fluctuation Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -605,6 +645,7 @@
 <h2>Void Resistance</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -619,6 +660,7 @@
 <h2>Water Attack Nullification</h2>
 
 <p>Water Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -633,6 +675,7 @@
 <h2>Water Attack Resistance</h2>
 
 <p>Water Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -647,6 +690,7 @@
 <h2>Wind Attack Nullification</h2>
 
 <p>Wind Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -661,6 +705,7 @@
 <h2>Wind Attack Resistance</h2>
 
 <p>Wind Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

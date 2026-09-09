@@ -46,7 +46,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ability Usage</h2>
+
 <p>Tensura: Reincarnated comes with many different ways of utilizing abilities.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -59,7 +61,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Alignment</h2>
+
 <p>A term for non-majin life forms that have achieved Saint level</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -72,7 +76,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Aura Healing</h2>
+
 <p>Aura Healing is caused by toggling the Skill Tenacity .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -85,7 +91,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Awakened Foresight</h2>
+
 <p>Awakened Foresight is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -98,7 +106,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Awakening</h2>
+
 <p>Awakening is a term used to refer to the process of becoming a higher form of existence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -111,7 +121,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Brimstone Flames</h2>
+
 <p>Brimstone Flames is applied by Axiom with the engraving Holy Flames</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -124,7 +136,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Burden</h2>
+
 <p>Increases weight, preventing jumping</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -137,7 +151,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Chant Speed</h2>
+
 <p>Chant speed is the amount of time it takes to cast spells. This cast time can be reduced and varies between spells.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -150,7 +166,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Collective</h2>
+
 <p>Collective is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -163,7 +181,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Compatibility System</h2>
+
 <p>Can be disabled in config files. Functions in truly unique</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -176,7 +196,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Corrosion</h2>
+
 <p>Deals Corrosion damage over time like Poison and also degrades tools/armour at an increased rate. Used to obtain Corrosion Resistance</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -189,7 +211,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Countering</h2>
+
 <p>Countering is caused by activating the ability &quot;Counter&quot; with Restricted .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -202,7 +226,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Cultivating</h2>
+
 <p>Cultivating is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -215,7 +241,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Damage Types</h2>
+
 <p>Energy Drain damage is applied when a damage source meets any of the following conditions:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -228,7 +256,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dazzled</h2>
+
 <p>Dazzled is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -241,7 +271,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dodging</h2>
+
 <p>Observe...Observer..Observation Haki!?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -254,7 +286,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Effects</h2>
+
 <p>The Effects of Tensura: Reincarnated!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -267,7 +301,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Effects</h2>
+
 <p>Aura Healing Awakened Foresight Brimstone Flames Collective Countering Cultivating Dazzled Eternal Permafrost Fixation Imbalanced Intangible Lightning Mode Marked For…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -280,7 +316,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Engravings</h2>
+
 <p>Allow your Weapons, Armor and Tools to be enchanted with specific effects</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -293,7 +331,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>EP, Magicule, Aura</h2>
+
 <p>EP (short for Evolution Points ) is a rough indicator of how strong a Mob, Player, or Item is. Both you and certain items — such as Monster Leather and Magic Steel gear…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -306,7 +346,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Eternal Permafrost</h2>
+
 <p>Eternal Permafrost is applied by &quot;Waltz&quot; with its unique engraving, &quot;Boreal Frost&quot;.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -319,7 +361,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Existence Points</h2>
+
 <p>Did someone just rate my existence...? and its over 9000!?!?!?!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -332,7 +376,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fatal Poison</h2>
+
 <p>A strong poison effect</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -345,7 +391,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fear</h2>
+
 <p>Effect is given to entity&#x27;s using Coercion or any form of Haki .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -358,7 +406,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fixation</h2>
+
 <p>Fixation is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -371,7 +421,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fragility</h2>
+
 <p>Each level of fragility increases damage taken</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -384,7 +436,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Gear Evolution</h2>
+
 <p>Some items are eligible for evolution, that being Monster Leather, and Magisteel by default.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -397,7 +451,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Getting Started</h2>
+
 <p>When spawning in, a menu will pop up, showing races you can pick. Depending on what race you pick, the difficulty of your progression will change.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -410,7 +466,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Getting Started</h2>
+
 <p>Upstream reference information for Getting Started.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -423,7 +481,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hardcore Race</h2>
+
 <p>Hardcore races is a gamerule which makes races significantly harder upon choosing them. The following occurs when hardcore races is toggled on:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -436,7 +496,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Farming</h2>
+
 <p>Place down Hipokute Seeds</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -449,7 +511,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hypnosis</h2>
+
 <p>Has a 1% chance per level to cause the screen to randomly rotate every tick.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -462,7 +526,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Imbalanced</h2>
+
 <p>See Countering effect</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -475,7 +541,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Infection</h2>
+
 <p>Infection is an effect that makes your health blood red and gets stronger effects the longer you have it, culminating in instant death.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -488,7 +556,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Insanity</h2>
+
 <p>Hear random scary sounds, items in inventory have a chance to randomly move around and have nightmares when sleeping. Level 2+ - If in shadow/darkness, will take…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -501,7 +571,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Intangible</h2>
+
 <p>Intangible is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -514,7 +586,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Lightning Mode</h2>
+
 <p>Lightning Mode is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -527,7 +601,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Magicule Poison</h2>
+
 <p>Magicule Poison is an effect which applies a nausea-like screen effect to the player as well as reddens the border of the screen.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -540,7 +616,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Marked For Death</h2>
+
 <p>Marked For Death is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -553,7 +631,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mechanics</h2>
+
 <p>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP, Magicule and Aura</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -566,7 +646,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mechanics</h2>
+
 <p>These Mechanics are mechanics added by this mod:</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -579,7 +661,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Naming</h2>
+
 <p>From now on.. Your name is...!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -592,7 +676,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Paralysis</h2>
+
 <p>Paralysis - decreases movement speed per level</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -605,7 +691,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pay It Forward</h2>
+
 <p>Pay It Forward is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -618,7 +706,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Petrification</h2>
+
 <p>The Basilisk tail ranged attack.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -631,7 +721,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pressure</h2>
+
 <p>Pressure is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -644,7 +736,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Provider Boost</h2>
+
 <p>Provider Boost is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -657,7 +751,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Rampage</h2>
+
 <p>Rampage is an effect that makes the edges of your screen turn reddish with red lines, as if seeing red, and deals damage when the duration is low.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -670,7 +766,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Reducer Holy Coat</h2>
+
 <p>Reducer Holy Coat is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -683,7 +781,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Reducer Purity Edge</h2>
+
 <p>Reducer Purity Edge is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -696,7 +796,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Reincarnation</h2>
+
 <p>Who would&#x27;ve thought, the isekai mod has a reincarnation magic.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -709,7 +811,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Reset Counter</h2>
+
 <p>This is a counting system for how many a player has Reset at the end of their playthrough.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -722,7 +826,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Reset Scrolls</h2>
+
 <p>What if I want to do it all again?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -735,7 +841,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Revenant Horror</h2>
+
 <p>Revenant Horror is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -748,7 +856,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Rimuru Mode</h2>
+
 <p>Rimuru mode is a Gamerule that as the name implies, can turn the person into Rimuru and give him/her the full Rimuru experience. Warning, if you turn this on in…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -761,7 +871,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Rupturing</h2>
+
 <p>Rupturing is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -774,7 +886,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sanctifying Light</h2>
+
 <p>Sanctifying Light is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -787,7 +901,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Severed Arm</h2>
+
 <p>Severed Arm is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -800,7 +916,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Severed Leg</h2>
+
 <p>Severed Leg is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -813,7 +931,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Soul Quality</h2>
+
 <p>The soul quality determines how many ultimate skills one soul can be engraved with.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -826,7 +946,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Strengthen</h2>
+
 <p>Gives Strength 2 per level</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -839,7 +961,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Trading</h2>
+
 <p>She sells sea shells on the sea shore</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -852,7 +976,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Unstable Requiem</h2>
+
 <p>Unstable Requiem is an effect that...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

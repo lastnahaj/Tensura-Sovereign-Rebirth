@@ -37,7 +37,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Axe</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Axe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -50,7 +52,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Hoe</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Hoe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -63,7 +67,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Pickaxe</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Pickaxe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -76,7 +82,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Shovel</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Shovel in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -89,7 +97,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Caster Tools Tutorial</h2>
+
 <p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -102,7 +112,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Axe</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Axe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -115,7 +127,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Hoe</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Hoe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -128,7 +142,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Pickaxe</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Pickaxe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -141,7 +157,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Shovel</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Shovel in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -154,7 +172,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Axe</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Axe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -167,7 +187,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Hoe</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Hoe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -180,7 +202,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Pickaxe</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Pickaxe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -193,7 +217,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Shovel</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Shovel in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -206,7 +232,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Axe</h2>
+
 <p>To craft the weapon, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -219,7 +247,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Hoe</h2>
+
 <p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -232,7 +262,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Pickaxe</h2>
+
 <p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -245,7 +277,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Shovel</h2>
+
 <p>To craft the tool, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -258,7 +292,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Axe</h2>
+
 <p>To craft the weapon, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -271,7 +307,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Hoe</h2>
+
 <p>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -284,7 +322,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Pickaxe</h2>
+
 <p>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -297,7 +337,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Shovel</h2>
+
 <p>To craft the tool, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -310,7 +352,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Axe</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -323,7 +367,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Hoe</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -336,7 +382,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Pickaxe</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -349,7 +397,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Shovel</h2>
+
 <p>To craft the weapon, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -362,7 +412,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Axe</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Axe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -375,7 +427,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Hoe</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Hoe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -388,7 +442,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Pickaxe</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Pickaxe in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -401,7 +457,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Shovel</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Shovel in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -414,7 +472,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Sissie Tooth Pickaxe</h2>
+
 <p>To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

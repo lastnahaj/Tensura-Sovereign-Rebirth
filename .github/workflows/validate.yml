@@ -42,5 +42,11 @@ jobs:
       - name: Validate progression destinations
         run: python scripts/wiki/check_progression.py
 
+      - name: Validate race reference scope
+        run: python scripts/wiki/check_race_reference.py
+
+      - name: Validate encyclopedia sections
+        run: python scripts/wiki/check_wiki_sections.py
+
       - name: Validate skill catalogue and obtainment
         run: python scripts/wiki/check_skill_catalogue.py

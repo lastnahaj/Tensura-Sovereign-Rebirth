@@ -37,7 +37,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ancient Forest</h2>
+
 <p>A rare biome with high magicule count, and home of the Spirit Tree .</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Cattledeer · Direwolf · Blade Tiger · Feathered Serpent · Salamander · Winged Cat · Beast Gnome · Aqua Frog · Sylphide · Ifrit · Akash · War Gnome · Undine</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -50,7 +52,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Biomes/Barren Lands</h2>
+
 <p>As the name implies, there is nothing</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>45,500</dd><dt>Mobs</dt><dd>None</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -63,7 +67,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Biomes/Desert of Death</h2>
+
 <p>Only the strong survive.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>29,500</dd><dt>Mobs</dt><dd>Knight Spider , Tempest Serpent , Armorsaurus , Basilisk</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -76,7 +82,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Biomes/Miasmic Plains</h2>
+
 <p>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Zombie, Skeleton, Skeleton Horse, Zombie Horse, Evil Centipede , Barghest</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -89,7 +97,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dark Biome</h2>
+
 <p>Shadow Imp Wither Skeleton</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -102,7 +112,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Earth Biome</h2>
+
 <p>Beast Gnomes War Gnomes (Rare chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -115,7 +127,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fire Biome</h2>
+
 <p>Blaze Salamander Ifrit (Rare chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -128,7 +142,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Light Biome</h2>
+
 <p>Winged Lion Wither Skeleton</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -141,7 +157,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Space Biome</h2>
+
 <p>Spawning area for medium and greater spirits of space</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -154,7 +172,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Structures and Biomes</h2>
+
 <p>Upstream reference information for Structures and Biomes.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -167,7 +187,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Water Biome</h2>
+
 <p>Landfish Aqua Frog Undine (Rare Chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -180,7 +202,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wind Biome</h2>
+
 <p>Dragon Peacock Feathered Serpent Sylphide (Rare Chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -38,7 +38,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Boots</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Boots in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -51,7 +53,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Chestplate</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Chestplate in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -64,7 +68,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Helmet</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Helmet in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -77,7 +83,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Leggings</h2>
+
 <p>Obtainable through killing mobs while having Pure Magisteel Leggings in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -90,7 +98,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Boots</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -103,7 +113,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Chestplate</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -116,7 +128,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Helmet</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -129,7 +143,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Leggings</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -142,7 +158,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scale Boots</h2>
+
 <p>Killing/Defeating Charybdis</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -155,7 +173,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scale Chestplate</h2>
+
 <p>Killing/Defeating Charybdis</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -168,7 +188,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scale Helmet</h2>
+
 <p>To craft the armor, one must have used a Charybdis Scalemail Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -181,7 +203,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scale Leggings</h2>
+
 <p>Killing/Defeating Charybdis</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -194,7 +218,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Boots</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Boots in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -207,7 +233,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Chestplate</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Chestplate in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -220,7 +248,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Helmet</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Helmet in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -233,7 +263,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Leggings</h2>
+
 <p>Obtainable through killing mobs while having Low Magisteel Leggings in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -246,7 +278,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Boots</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Boots in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -259,7 +293,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Chestplate</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Chestplate in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -272,7 +308,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Helmet</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Helmet or Orichalcum Helmet in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -285,7 +323,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane Leggings</h2>
+
 <p>Obtainable through killing mobs while having Adamantite Leggings in your offhand or equipped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -298,7 +338,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Armaments Boots</h2>
+
 <p>Killing/defeating Hinata Sakaguchi while in stage 4 (8.5% obtain chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -311,7 +353,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Armaments Chestplate</h2>
+
 <p>Killing/defeating Hinata Sakaguchi while in stage 4 (8.5% obtain chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -324,7 +368,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Armaments Leggings</h2>
+
 <p>Killing/defeating Hinata Sakaguchi while in stage 4 (8.5% obtain chance)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -337,7 +383,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Boots</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -350,7 +398,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Chestplate</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -363,7 +413,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Helmet</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -376,7 +428,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Leggings</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -389,7 +443,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Boots</h2>
+
 <p>To craft the armor, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -402,7 +458,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Chestplate</h2>
+
 <p>To craft the armor, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -415,7 +473,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Helmet</h2>
+
 <p>To craft the armor, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -428,7 +488,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Leggings</h2>
+
 <p>To craft the armor, one must have used a Low Magisteel Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -441,7 +503,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Boots</h2>
+
 <p>To craft the armor, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -454,7 +518,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Chestplate</h2>
+
 <p>To craft the armor, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -467,7 +533,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Helmet</h2>
+
 <p>To craft the armor, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -480,7 +548,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Leggings</h2>
+
 <p>To craft the armor, one must have used a Mithril Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -493,7 +563,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Boots</h2>
+
 <p>To craft the armor, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -506,7 +578,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Chestplate</h2>
+
 <p>To craft the armor, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -519,7 +593,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Helmet</h2>
+
 <p>To craft the armor, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -532,7 +608,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Leggings</h2>
+
 <p>To craft the armor, one must have used a Orichalcum Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -545,7 +623,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Boots</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Boots in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -558,7 +638,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Chestplate</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Chestplate in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -571,7 +653,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Helmet</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Helmet in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -584,7 +668,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Leggings</h2>
+
 <p>Obtainable through killing mobs while having High Magisteel Leggings in your offhand or equiped</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -597,7 +683,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Boots</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -610,7 +698,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Chestplate</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -623,7 +713,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Helmet</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -636,7 +728,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Leggings</h2>
+
 <p>To craft the armor, one must have used a (schematic) To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -649,7 +743,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Boots</h2>
+
 <p>To craft the armor, one must have used a Silver Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -662,7 +758,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Chestplate</h2>
+
 <p>To craft the armor, one must have used a Silver Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -675,7 +773,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Helmet</h2>
+
 <p>To craft the armor, one must have used a Silver Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -688,7 +788,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Leggings</h2>
+
 <p>To craft the armor, one must have used a Silver Gear Schematic . To craft, you need a Smithing Bench .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

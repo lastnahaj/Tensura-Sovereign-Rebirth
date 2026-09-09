@@ -39,7 +39,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Adamantite</h2>
+
 <p>Upstream reference information for Block of Adamantite.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -52,7 +54,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of High Magisteel</h2>
+
 <p>Block of High Magisteel</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -65,7 +69,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Hihi&#x27;Irokane</h2>
+
 <p>Block of Hihi&#x27;irokane</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -78,7 +84,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Low Magisteel</h2>
+
 <p>Block of Low Magisteel</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -91,7 +99,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Magic Ore</h2>
+
 <p>Refining 1 Block of Magic Ore into 2 Pure Magisteel Ingots</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -104,7 +114,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Mithril</h2>
+
 <p>Upstream reference information for Block of Mithril.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -117,7 +129,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Orichalcum</h2>
+
 <p>Upstream reference information for Block of Orichalcum.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -130,7 +144,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Pure Magisteel</h2>
+
 <p>Block of Pure Magisteel</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -143,7 +159,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Raw Silver</h2>
+
 <p>Upstream reference information for Block of Raw Silver.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -156,7 +174,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Block of Silver</h2>
+
 <p>Upstream reference information for Block of Silver.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -169,7 +189,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Core</h2>
+
 <p>Found inside the Core room of the Charybdis Cave and used to summon Charybdis .</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -182,7 +204,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Chilled Slime Block</h2>
+
 <p>Upstream reference information for Chilled Slime Block.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -195,7 +219,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>High Quality Magic Crystal Block</h2>
+
 <p>High Quality Magic Crystal Block</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -208,7 +234,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Ore</h2>
+
 <p>Upon breaking the ore with a ... , one can get Ice Essence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -221,7 +249,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Kiln</h2>
+
 <p>To activate, right click the Kiln to open the menu</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -234,7 +264,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Low Quality Magic Crystal Block</h2>
+
 <p>Low Quality Magic Crystal Block</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -247,7 +279,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Magic Engine</h2>
+
 <p>To activate, you need to right click the magic engine to work.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -260,7 +294,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Magic Ore</h2>
+
 <p>Magic Ore : 3 Deepslate Magic Ore : 4.5</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -273,7 +309,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Medium Quality Magic Crystal Block</h2>
+
 <p>Medium Quality Magic Crystal Block</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -286,7 +324,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Moth Egg</h2>
+
 <p>Upstream reference information for Moth Egg.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -299,7 +339,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Palm Log</h2>
+
 <p>Upstream reference information for Palm Log.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -312,7 +354,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Palm Wood</h2>
+
 <p>Upstream reference information for Palm Wood.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -325,7 +369,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Ore</h2>
+
 <p>Deepslate Silver Ore</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -338,7 +384,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Slime Chunk Block</h2>
+
 <p>Upstream reference information for Slime Chunk Block.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -351,7 +399,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Smithing Bench</h2>
+
 <p>The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the gear created with the Smithing Bench is unlocked…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -364,7 +414,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Barrens</h2>
+
 <p>Magicule Density - 104,000</p>
+<dl class="reference-card-stats"><dt>Mobs</dt><dd>Arch Daemon , Greater Daemon , Lesser Daemon , Hound Dog</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -377,7 +429,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Red Sands</h2>
+
 <p>I wonder why the sand is red.</p>
+<dl class="reference-card-stats"><dt>Mobs</dt><dd>Arch Daemon , Greater Daemon , Lesser Daemon , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -390,7 +444,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Sands</h2>
+
 <p>Its like the beach! But without water and the fish are evil!</p>
+<dl class="reference-card-stats"><dt>Mobs</dt><dd>Arch Daemon , Greater Daemon , Lesser Daemon , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -403,7 +459,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Underworld Spikes</h2>
+
 <p>Magicule Density - 103,000</p>
+<dl class="reference-card-stats"><dt>Mobs</dt><dd>Arch Daemon , Greater Daemon , Lesser Daemon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
