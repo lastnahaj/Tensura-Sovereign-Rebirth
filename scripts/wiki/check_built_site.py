@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import os
 import re
 from html.parser import HTMLParser
 from pathlib import Path
@@ -41,10 +42,15 @@ def main() -> int:
     site = args.site_dir.resolve()
     if not site.is_dir():
         raise SystemExit(f"Rendered site directory does not exist: {site}")
+    # Lexical path caching is safe only for a materialized static site.
+    if any(path.is_symlink() for path in site.rglob('*')):
+        raise SystemExit('Rendered site contains symbolic links; validate a materialized site directory')
     base_path = configured_base_path()
     html_files = sorted(site.rglob("*.html"))
     errors: list[str] = []
     checked = 0
+    resolved = {}
+    target_states = {}
 
     for page in html_files:
         target_parser = TargetParser()
@@ -66,14 +72,18 @@ def main() -> int:
                 candidate = site / path.lstrip("/")
             else:
                 candidate = page.parent / path
-            candidate = candidate.resolve()
+            normalized = os.path.normpath(candidate)
+            if normalized not in resolved:
+                resolved[normalized] = Path(normalized).resolve()
+            candidate = resolved[normalized]
             if site not in candidate.parents and candidate != site:
                 errors.append(f"{page.relative_to(site)} -> path escapes site: {path}")
                 continue
             checked += 1
-            if candidate.is_dir():
-                candidate = candidate / "index.html"
-            if not candidate.exists():
+            if candidate not in target_states:
+                destination = candidate / 'index.html' if candidate.is_dir() else candidate
+                target_states[candidate] = destination.exists()
+            if not target_states[candidate]:
                 errors.append(f"{page.relative_to(site)} -> missing rendered target {path}")
 
     if errors:

@@ -5,12 +5,25 @@ import argparse
 import json
 import posixpath
 import re
+from functools import lru_cache
+from html.parser import HTMLParser
 from urllib.parse import unquote, urlsplit
 
 from bs4 import BeautifulSoup
 
 from skill_catalogue import ACTIVE, ROOT, catalogue, inventory, nightmares_manifest
 from sync_skill_catalogue import DOCS, LABELS, generate, render_acquisition_markdown, route
+
+
+class FragmentParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.ids = set()
+
+    def handle_starttag(self, tag, attrs):
+        for name, value in attrs:
+            if name == 'id':
+                self.ids.add(value)
 
 
 def main():
@@ -92,6 +105,12 @@ def main():
     if 'href="../../unique/great-mage/#great-mage"' not in sample:
         errors.append("Markdown acquisition route conversion failed")
     if not args.source_only:
+        @lru_cache(maxsize=None)
+        def fragment_ids(path):
+            parser = FragmentParser()
+            parser.feed(path.read_text(encoding='utf-8'))
+            return parser.ids
+
         site = ROOT / "site"
         search = json.loads((site / "search/search_index.json").read_text(encoding="utf-8"))
         indexed = {entry["location"].split("#")[0] for entry in search["docs"]}
@@ -126,8 +145,7 @@ def main():
                 if not destination.is_relative_to(site.resolve()) or not destination.is_file():
                     errors.append(f"Missing skill reading link: {key} -> {anchor['href']}")
                 elif url.fragment:
-                    target_soup = BeautifulSoup(destination.read_text(encoding="utf-8"), "html.parser")
-                    if not target_soup.find(id=unquote(url.fragment)):
+                    if unquote(url.fragment) not in fragment_ids(destination):
                         errors.append(f"Missing skill reading fragment: {key} -> {anchor['href']}")
     if errors:
         raise SystemExit("\n".join(errors))
