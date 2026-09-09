@@ -70,31 +70,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-skeleton/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Skeleton</strong>
 <small>No effects while in Sunlight</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dragonewt</strong>
-<small>&quot; ur not a dragon bro... &quot;</small>
+<small>" ur not a dragon bro... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Oni</strong>
 <small>Hobgoblin Saint Gains Strength , Steel Strength , Self Regeneration upon Evolution</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf</strong>
-<small>&quot; I am a Dwarf and I&#x27;m digging a hole... Diggy Diggy hole. I&#x27;m digging a hole &quot; A sprite race descended from earth…</small>
+<small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>
 </span>
 </a>
 </div>

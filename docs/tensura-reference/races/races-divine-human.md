@@ -71,31 +71,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Giant</strong>
 <small>The final evolution of a giant, which increases their ability to grow bigger exponentially</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Oni</strong>
 <small>Hobgoblin Saint Gains Strength , Steel Strength , Self Regeneration upon Evolution</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-fish/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Fish</strong>
-<small>&quot; Fish of the Divine Style &quot;</small>
+<small>" Fish of the Divine Style "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-skeleton/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Skeleton</strong>
-<small>&quot; Even Divinity won&#x27;t save your bony ahh &quot;</small>
+<small>" Even Divinity won't save your bony ahh "</small>
 </span>
 </a>
 </div>

@@ -72,31 +72,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-enlightened-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Human</strong>
-<small>&quot; I alone am the honored one... &quot;</small>
+<small>" I alone am the honored one... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Ogre</strong>
-<small>&quot; This race has way too many evolutions... &quot;</small>
+<small>" This race has way too many evolutions... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Hobgoblin</strong>
 <small>Hobgoblin Saint - 400,000 EP + Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-ghoul/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Ghoul</strong>
-<small>&quot; Brains~~ Lookin ahh... &quot;</small>
+<small>" Brains~~ Lookin ahh... "</small>
 </span>
 </a>
 </div>

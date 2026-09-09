@@ -73,28 +73,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../restricted-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Restricted Saint</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../rimeblight-hydra/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Rimeblight Hydra</strong>
 <small>Gains flight ability when not crouching or sprinting. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../restricted-human/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Restricted Human</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../rimefang-drake/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Rimefang Drake</strong>
 <small>Rimeblight Hydra - Have 1.5M EP, Mastered Dragon Eye and Ice Domination. 1.21.1 – ??? 1.19.2 – Added to the game.</small>

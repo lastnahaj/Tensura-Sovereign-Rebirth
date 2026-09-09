@@ -114,31 +114,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-dwarf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf Saint</strong>
-<small>&quot; He&#x27;s beginning to belie... dig some more? what?! &quot;</small>
+<small>" He's beginning to belie... dig some more? what?! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-elf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf Saint</strong>
-<small>&quot; I name you, The saintiest of elevens &quot;</small>
+<small>" I name you, The saintiest of elevens "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf</strong>
-<small>&quot; I am a Dwarf and I&#x27;m digging a hole... Diggy Diggy hole. I&#x27;m digging a hole &quot; A sprite race descended from earth…</small>
+<small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Dwarf</strong>
-<small>&quot; Dwarf no longer dig hole, Dwarf Dig you. &quot;</small>
+<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
 </span>
 </a>
 </div>

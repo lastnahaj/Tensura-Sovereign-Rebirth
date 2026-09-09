@@ -67,31 +67,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-dragon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Dragon</strong>
-<small>&quot; what? you want a cookie or something? &quot;</small>
+<small>" what? you want a cookie or something? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Elf</strong>
-<small>&quot; The Upmost Divinest Elf &quot;</small>
+<small>" The Upmost Divinest Elf "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Boar</strong>
-<small>&quot; Sounds like one tasty boar... how divine &quot;</small>
+<small>" Sounds like one tasty boar... how divine "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-fighter/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Fighter</strong>
-<small>&quot; I AM A FIGHTER!!! &quot;</small>
+<small>" I AM A FIGHTER!!! "</small>
 </span>
 </a>
 </div>

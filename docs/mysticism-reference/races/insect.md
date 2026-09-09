@@ -2,11 +2,17 @@
 title: Insect
 description: Ant Beetle Centipede Scorpion Spider Mantis Wasp
 tags: []
+search:
+  exclude: true
 ---
 
 # Insect
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This registered template lacks a verified standalone progression guide. It is not presented as a selectable starting race or an independent evolution family.</p><p><a href="../../../tensura-reference/races/">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -76,31 +82,17 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../heavenly-restriction/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Heavenly Restriction</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
-<a class="reference-related-card" href="../knight-spider/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Knight Spider</strong>
-<small>Knight Spider Insectar - Acquire 100K EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../hardshell-ant-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Hardshell Ant Savant</strong>
 <small>Has 20 armor points. (if possible, move this to the specific stats section.)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../knight-spider-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Knight Spider Insectar</strong>
-<small>Knight Spider Saint - Acquire 400K EP + Defeat 4 Bosses.</small>
 </span>
 </a>
 </div>

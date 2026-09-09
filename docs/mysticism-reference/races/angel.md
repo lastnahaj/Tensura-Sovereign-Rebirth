@@ -2,11 +2,17 @@
 title: Angel
 description: Angel Fallen Angel Phantom
 tags: []
+search:
+  exclude: true
 ---
 
 # Angel
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This source page is an overview, not an individual race or evolution stage.</p><p><a href="../../../tensura-reference/races/">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -56,28 +62,28 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../ant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Ant</strong>
 <small>Has 5 armor points. (if possible, move this to the specific stats section.)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../arch-angel/">
-<img src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
 <span class="reference-related-copy">
 <strong>Arch Angel</strong>
 <small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../arch-fallen/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Arch Fallen</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../archdoll/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Archdoll</strong>
 <small>(Remove this once finalized)</small>

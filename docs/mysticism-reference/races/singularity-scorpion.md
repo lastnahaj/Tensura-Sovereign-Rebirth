@@ -75,29 +75,22 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../silk-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Silk Soul Insect</strong>
-<small>Divine Black Spider - Acquire 2M EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../singularity-scorpion-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion Insectar</strong>
 <small>Singularity Scorpion Savant - 100K EP Kill 4 Bosses.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../seraphim/">
-<img src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
 <span class="reference-related-copy">
 <strong>Seraph</strong>
 <small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../singularity-scorpion-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion Savant</strong>
 <small>Divine Singularity Scorpion - 2M EP</small>

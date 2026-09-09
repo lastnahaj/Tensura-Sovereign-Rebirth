@@ -100,31 +100,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-greater-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Greater Daemon</strong>
-<small>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body&#x27;s EP…</small>
+<small>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body's EP…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-harpy-queen/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Harpy Queen</strong>
 <small>Yas queen slay! Rare kind of harpy that usually commands them all and governs over them</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-god-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>God Slime</strong>
-<small>&quot; The Fattest Boi Around &quot;</small>
+<small>" The Fattest Boi Around "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-high-orc/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>High Orc</strong>
-<small>&quot; I&#x27;m the Highest in the room &quot;</small>
+<small>" I'm the Highest in the room "</small>
 </span>
 </a>
 </div>

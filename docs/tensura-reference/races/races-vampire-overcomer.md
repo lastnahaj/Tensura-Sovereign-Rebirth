@@ -80,31 +80,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-vampire-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Lord</strong>
-<small>&quot; Lord of the Suckers &quot;</small>
+<small>" Lord of the Suckers "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-wicked-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Wicked Oni</strong>
 <small>Death Oni - 400,000 EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire</strong>
-<small>&quot; I vant to suck your blood &quot;</small>
+<small>" I vant to suck your blood "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-wight/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Wight</strong>
-<small>&quot;Wight So Serious?&quot; A Demi-Spiritual skeletal undead Monster Race that is highly weakened by sunlight.</small>
+<small>"Wight So Serious?" A Demi-Spiritual skeletal undead Monster Race that is highly weakened by sunlight.</small>
 </span>
 </a>
 </div>

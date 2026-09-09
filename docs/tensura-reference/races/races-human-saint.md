@@ -87,31 +87,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-human/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Human</strong>
-<small>&quot; I... Am Steve.. &quot; A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
+<small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-kijin/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Kijin</strong>
-<small>&quot; Ahahahahaha... You&#x27;re Kijin me! &quot;</small>
+<small>" Ahahahahaha... You're Kijin me! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-hobgoblin-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin Saint</strong>
-<small>&quot; Why would you go this..? &quot;</small>
+<small>" Why would you go this..? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-lesser-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Daemon</strong>
-<small>&quot; Lowly Daemon Scum &quot;</small>
+<small>" Lowly Daemon Scum "</small>
 </span>
 </a>
 </div>

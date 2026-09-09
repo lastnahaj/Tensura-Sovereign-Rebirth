@@ -65,31 +65,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-fighter/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Fighter</strong>
-<small>&quot; I AM A FIGHTER!!! &quot;</small>
+<small>" I AM A FIGHTER!!! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Giant</strong>
-<small>&quot; That one 6&#x27;4 nonchalant friend&#x27;&quot;</small>
+<small>" That one 6'4 nonchalant friend'"</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Elf</strong>
-<small>&quot; The Upmost Divinest Elf &quot;</small>
+<small>" The Upmost Divinest Elf "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Human</strong>
-<small>&quot; I truly have reached Divinity.. &quot;</small>
+<small>" I truly have reached Divinity.. "</small>
 </span>
 </a>
 </div>

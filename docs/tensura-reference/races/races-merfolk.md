@@ -104,31 +104,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-lizardman/">
-<img src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
 <span class="reference-related-copy">
 <strong>Lizardman</strong>
 <small>A race of scaled people descended from dragons. Their webbed feet give them an advantage in wet terrain.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-merfolk-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Merfolk Saint</strong>
-<small>&quot; They&#x27;re just making random names now &quot;</small>
+<small>" They're just making random names now "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-lesser-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Daemon</strong>
 <small>The lowest level of the daemon race. They spontaneously come into existence within the Daemon Realm, where they slowly…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-metal-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Metal Slime</strong>
-<small>&quot; The Hardest Slime around &quot;</small>
+<small>" The Hardest Slime around "</small>
 </span>
 </a>
 </div>

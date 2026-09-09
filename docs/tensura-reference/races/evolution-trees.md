@@ -1,1413 +1,449 @@
 # Race Evolution Relationships
 
-This directory reproduces only evolution relationships explicitly exposed by the upstream race infoboxes. It does not infer branches from similar names.
-
-## Complete race family maps
-
-<div class="race-map-directory">
-<a href="../angel/"><strong>Angel evolution</strong><span>Follow both Seraphim branches through Cosmic or Chaotic Deity.</span></a>
-<a href="../djinn/"><strong>Djinn evolution</strong><span>Map all ten stages and every essence threshold.</span></a>
-<a href="../frog/"><strong>Frog evolution</strong><span>Compare the Venom Lord and Bog Ancient branches.</span></a>
-<a href="../gazer/"><strong>Gazer evolution</strong><span>Trace the six-stage Majin path to Death Tyrant.</span></a>
-<a href="../kitsune/"><strong>Kitsune evolution</strong><span>Follow the named fox-spirit route to Nine Tail Fox.</span></a>
-<a href="../monkey/"><strong>Monkey evolution</strong><span>Compare every stage from Monkey to Sun Wukong.</span></a>
-</div>
-
-## [Ancient Giant](races-ancient-giant.md)
-
-- **Previous:** [Giant](races-giant.md)
-- **Next:** [Divine Giant](races-divine-giant.md)
-- **Named:** [Divine Giant](races-divine-giant.md)
-- **Harvest Festival:** [Divine Giant](races-divine-giant.md)
-- **Awakening:** [Divine Giant](races-divine-giant.md)
-
-## [Ant](../../mysticism-reference/races/ant.md)
-
-- **Next:** [Fire Ant](../../mysticism-reference/races/fire-ant.md), [Hardshell Ant](../../mysticism-reference/races/hardshell-ant.md)
-
-## [Arch Angel](../../mysticism-reference/races/arch-angel.md)
-
-- **Previous:** [Greater Angel](../../mysticism-reference/races/greater-angel.md)
-- **Next:** [Cherub](../../mysticism-reference/races/cherub.md), [General](../../mysticism-reference/races/general.md), [Fallen Arch Angel](../../mysticism-reference/races/fallen-arch-angel.md), Tengu
-
-## [Arch Daemon](races-arch-daemon.md)
-
-- **Previous:** [Greater Daemon](races-greater-daemon.md)
-- **Next:** [Daemon Lord](races-daemon-lord.md)
-- **Named:** [Daemon Lord](races-daemon-lord.md)
-- **Harvest Festival:** None
-- **Awakening:** None
-
-## [Arch Fallen](../../mysticism-reference/races/arch-fallen.md)
-
-- **Previous:** [Greater Fallen](../../mysticism-reference/races/greater-fallen.md), [Fallen Arch Angel](../../mysticism-reference/races/fallen-arch-angel.md)
-- **Next:** [Fallen Lord](../../mysticism-reference/races/fallen-lord.md)
-
-## [Archdoll](../../mysticism-reference/races/archdoll.md)
-
-- **Previous:** [Arch Daemon](races-arch-daemon.md), [Greater Doll](../../mysticism-reference/races/greater-doll.md)
-- **Next:** [Daemon Doll](../../mysticism-reference/races/daemon-doll.md), [Chaos Doll](../../mysticism-reference/races/chaos-doll.md)
-
-## [Army Wasp](../../mysticism-reference/races/army-wasp.md)
-
-- **Previous:** [Wasp](../../mysticism-reference/races/wasp.md)
-- **Next:** [Army Wasp Insectar](../../mysticism-reference/races/army-wasp-insectar.md)
-
-## [Army Wasp Insectar](../../mysticism-reference/races/army-wasp-insectar.md)
-
-- **Previous:** [Army Wasp](../../mysticism-reference/races/army-wasp.md)
-- **Next:** [Army Wasp Saint](../../mysticism-reference/races/army-wasp-saint.md), [Wind Soul Insect](../../mysticism-reference/races/wind-soul-insect.md)
-
-## [Army Wasp Saint](../../mysticism-reference/races/army-wasp-saint.md)
-
-- **Next:** [Divine Army Wasp](../../mysticism-reference/races/divine-army-wasp.md)
-
-## [Ascended](../../mysticism-reference/races/ascended.md)
-
-- **Previous:** [Empty](../../mysticism-reference/races/empty.md)
-- **Next:** [Divine Excelsius](../../mysticism-reference/races/divine-excelsius.md)
-
-## [Attuned Wyrm](../../mysticism-reference/races/attuned-wyrm.md)
-
-- **Next:** [Lesser Glacier Wyrm](../../mysticism-reference/races/lesser-glacier-wyrm.md), [Lesser Pyre Wyrm](../../mysticism-reference/races/lesser-pyre-wyrm.md)
-
-## [Beast Lord](races-beast-lord.md)
-
-- **Previous:** [Beastfolk](races-beastfolk.md)
-- **Next:** [Spirit Beast](races-spirit-beast.md)
-- **Named:** [Spirit Beast](races-spirit-beast.md)
-- **Harvest Festival:** None
-- **Awakening:** [Spirit Beast](races-spirit-beast.md)
-
-## [Beastfolk](races-beastfolk.md)
-
-- **Next:** [Beast Lord](races-beast-lord.md)
-- **Named:** [Beast Lord](races-beast-lord.md)
-- **Harvest Festival:** [Beast Lord](races-beast-lord.md)
-- **Awakening:** [Spirit Beast](races-spirit-beast.md)
-
-## [Beetle](../../mysticism-reference/races/beetle.md)
-
-- **Next:** [Stag Beetle](../../mysticism-reference/races/stag-beetle.md), [Drone Beetle](../../mysticism-reference/races/drone-beetle.md)
-
-## [Black Fang](../../mysticism-reference/races/black-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystical Black Fang](../../mysticism-reference/races/mystical-black-fang.md)
-
-## [Black Spider](../../mysticism-reference/races/black-spider.md)
-
-- **Previous:** [Spider](../../mysticism-reference/races/spider.md)
-- **Next:** [Black Spider Insectar](../../mysticism-reference/races/black-spider-insectar.md)
-
-## [Black Spider Insectar](../../mysticism-reference/races/black-spider-insectar.md)
-
-- **Previous:** [Black Spider](../../mysticism-reference/races/black-spider.md)
-- **Next:** [Black Spider Saint](../../mysticism-reference/races/black-spider-saint.md), [Silk Soul Insect](../../mysticism-reference/races/silk-soul-insect.md)
-
-## [Black Spider Saint](../../mysticism-reference/races/black-spider-saint.md)
-
-- **Previous:** [Black Spider Insectar](../../mysticism-reference/races/black-spider-insectar.md)
-- **Next:** [Divine Black Spider](../../mysticism-reference/races/divine-black-spider.md)
-
-## [Blaze Wolf](../../mysticism-reference/races/blaze-wolf.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Star Blaze Wolf](../../mysticism-reference/races/star-blaze-wolf.md)
-
-## [Blazing Scorch Wolf](../../mysticism-reference/races/blazing-scorch-wolf.md)
-
-- **Previous:** [Scorch Wolf](../../mysticism-reference/races/scorch-wolf.md)
-- **Next:** [Molten Spirit Wolf](../../mysticism-reference/races/molten-spirit-wolf.md)
-
-## [Blue Centipede](../../mysticism-reference/races/blue-centipede.md)
-
-- **Previous:** [Centipede](../../mysticism-reference/races/centipede.md)
-- **Next:** [Blue Centipede Insectar](../../mysticism-reference/races/blue-centipede-insectar.md)
-
-## [Blue Centipede Insectar](../../mysticism-reference/races/blue-centipede-insectar.md)
-
-- **Previous:** [Blue Centipede](../../mysticism-reference/races/blue-centipede.md)
-- **Next:** [Blue Centipede Saint](../../mysticism-reference/races/blue-centipede-saint.md), [Water Soul Insect](../../mysticism-reference/races/water-soul-insect.md)
-
-## [Blue Centipede Saint](../../mysticism-reference/races/blue-centipede-saint.md)
-
-- **Previous:** [Blue Centipede Insectar](../../mysticism-reference/races/blue-centipede-insectar.md)
-- **Next:** [Divine Blue Centipede](../../mysticism-reference/races/divine-blue-centipede.md)
-
-## [Blue Fang](../../mysticism-reference/races/blue-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Blue Fang](../../mysticism-reference/races/mystic-blue-fang.md)
-
-## [Bound Enlightenment](../../mysticism-reference/races/bound-enlightenment.md)
-
-- **Previous:** [Restricted Saint](../../mysticism-reference/races/restricted-saint.md)
-- **Next:** [Heavenly Restriction](../../mysticism-reference/races/heavenly-restriction.md)
-
-## [Brown Fang](../../mysticism-reference/races/brown-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Brown Fang](../../mysticism-reference/races/mystic-brown-fang.md)
-
-## [Centipede](../../mysticism-reference/races/centipede.md)
-
-- **Next:** [Blue Centipede](../../mysticism-reference/races/blue-centipede.md), [Purple Centipede](../../mysticism-reference/races/purple-centipede.md), [Yellow Centipede](../../mysticism-reference/races/yellow-centipede.md)
-
-## [Chaos Doll](../../mysticism-reference/races/chaos-doll.md)
-
-- **Previous:** [Archdoll](../../mysticism-reference/races/archdoll.md)
-- **Next:** [Chaos Metalloid](../../mysticism-reference/races/chaos-metalloid.md)
-
-## [Chaos Metalloid](../../mysticism-reference/races/chaos-metalloid.md)
-
-- **Previous:** [Chaos Doll](../../mysticism-reference/races/chaos-doll.md)
-
-## [Charged Perforator](../../mysticism-reference/races/charged-perforator.md)
-
-- **Previous:** [Sculk Worm](../../mysticism-reference/races/sculk-worm.md)
-- **Next:** [Overloading Worm](../../mysticism-reference/races/overloading-worm.md)
-
-## [Cherub](../../mysticism-reference/races/cherub.md)
-
-- **Previous:** [Arch Angel](../../mysticism-reference/races/arch-angel.md)
-- **Next:** Seraphim, [Fallen Cherub](../../mysticism-reference/races/fallen-cherub.md), [Staff Officer](../../mysticism-reference/races/staff-officer.md)
-
-## [Corrosion Soul Insect](../../mysticism-reference/races/corrosion-soul-insect.md)
-
-- **Previous:** [Lixivant Mantis Insectar](../../mysticism-reference/races/lixivant-mantis-insectar.md)
-- **Next:** [Divine Lixivant Mantis](../../mysticism-reference/races/divine-lixivant-mantis.md)
-
-## [Daemon Doll](../../mysticism-reference/races/daemon-doll.md)
-
-- **Previous:** [Archdoll](../../mysticism-reference/races/archdoll.md)
-- **Next:** [Devil Doll](../../mysticism-reference/races/devil-doll.md)
-
-## [Daemon Lord](races-daemon-lord.md)
-
-- **Previous:** [Arch Daemon](races-arch-daemon.md)
-- **Next:** [Devil Lord](races-devil-lord.md)
-- **Named:** [Devil Lord](races-devil-lord.md)
-- **Harvest Festival:** None
-- **Awakening:** None
-
-## [Dark Fang](../../mysticism-reference/races/dark-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Dark Fang](../../mysticism-reference/races/mystic-dark-fang.md)
-
-## [Death Oni](races-death-oni.md)
-
-- **Previous:** [Wicked Oni](races-wicked-oni.md)
-- **Next:** [Divine Fighter](races-divine-fighter.md), [Divine Oni](races-divine-oni.md)
-- **Named:** [Divine Oni](races-divine-oni.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Fighter](races-divine-fighter.md)
-
-## [Deathstalker Scorpion](../../mysticism-reference/races/deathstalker-scorpion.md)
-
-- **Previous:** [Scorpion](../../mysticism-reference/races/scorpion.md)
-- **Next:** [Deathstalker Scorpion Insectar](../../mysticism-reference/races/deathstalker-scorpion-insectar.md)
-
-## [Deathstalker Scorpion Insectar](../../mysticism-reference/races/deathstalker-scorpion-insectar.md)
-
-- **Previous:** [Deathstalker Scorpion](../../mysticism-reference/races/deathstalker-scorpion.md)
-- **Next:** [Deathstalker Scorpion Saint](../../mysticism-reference/races/deathstalker-scorpion-saint.md), [Corrosion Soul Insect](../../mysticism-reference/races/corrosion-soul-insect.md)
-
-## [Deathstalker Scorpion Saint](../../mysticism-reference/races/deathstalker-scorpion-saint.md)
-
-- **Previous:** [Deathstalker Scorpion Insectar](../../mysticism-reference/races/deathstalker-scorpion-insectar.md)
-- **Next:** [Divine Deathstalker Scorpion](../../mysticism-reference/races/divine-deathstalker-scorpion.md)
-
-## [Demon Slime](races-demon-slime.md)
-
-- **Previous:** [Slime](races-slime.md), [Metal Slime](races-metal-slime.md)
-- **Next:** [God Slime](races-god-slime.md)
-- **Named:** [God Slime](races-god-slime.md)
-- **Harvest Festival:** None
-- **Awakening:** [God Slime](races-god-slime.md)
-
-## [Devil Doll](../../mysticism-reference/races/devil-doll.md)
-
-- **Previous:** [Daemon Doll](../../mysticism-reference/races/daemon-doll.md)
-
-## [Devil Lord](races-devil-lord.md)
-
-- **Previous:** [Daemon Lord](races-daemon-lord.md)
-
-## [Direwolf](../../mysticism-reference/races/direwolf.md)
-
-- **Next:** [Black Fang](../../mysticism-reference/races/black-fang.md), [Blue Fang](../../mysticism-reference/races/blue-fang.md), [Red Fang](../../mysticism-reference/races/red-fang.md), [Green Fang](../../mysticism-reference/races/green-fang.md), [Brown Fang](../../mysticism-reference/races/brown-fang.md), [Purple Fang](../../mysticism-reference/races/purple-fang.md), [Light Fang](../../mysticism-reference/races/light-fang.md), [Dark Fang](../../mysticism-reference/races/dark-fang.md), [Guitar Wolf](../../mysticism-reference/races/guitar-wolf.md), [Tempest Wolf](../../mysticism-reference/races/tempest-wolf.md), [Scorch Wolf](../../mysticism-reference/races/scorch-wolf.md), [Frostfang Wolf](../../mysticism-reference/races/frostfang-wolf.md)
-
-## [Dissonance Deity](../../mysticism-reference/races/dissonance-deity.md)
-
-- **Previous:** [Lightning Aberration](../../mysticism-reference/races/lightning-aberration.md)
-
-## [Divine  Bird](races-divine-bird.md)
-
-- **Previous:** [Spirit Bird](races-spirit-bird.md)
-
-## [Divine Beast](races-divine-beast.md)
-
-- **Previous:** [Spirit Beast](races-spirit-beast.md)
-
-## [Divine Black Spider](../../mysticism-reference/races/divine-black-spider.md)
-
-- **Previous:** [Black Spider Saint](../../mysticism-reference/races/black-spider-saint.md), [Silk Soul Insect](../../mysticism-reference/races/silk-soul-insect.md)
-
-## [Divine Blue Centipede](../../mysticism-reference/races/divine-blue-centipede.md)
-
-- **Previous:** [Blue Centipede Saint](../../mysticism-reference/races/blue-centipede-saint.md), [Water Soul Insect](../../mysticism-reference/races/water-soul-insect.md)
-
-## [Divine Boar](races-divine-boar.md)
-
-- **Previous:** [Spirit Boar](races-spirit-boar.md)
-
-## [Divine Deathstalker Scorpion](../../mysticism-reference/races/divine-deathstalker-scorpion.md)
-
-- **Previous:** [Deathstalker Scorpion Saint](../../mysticism-reference/races/deathstalker-scorpion-saint.md), [Corrosion Soul Insect](../../mysticism-reference/races/corrosion-soul-insect.md)
-
-## [Divine Dragon](races-divine-dragon.md)
-
-- **Previous:** [True Dragonewt](races-true-dragonewt.md)
-
-## [Divine Drone Beetle](../../mysticism-reference/races/divine-drone-beetle.md)
-
-- **Previous:** [Drone Beetle Saint](../../mysticism-reference/races/drone-beetle-saint.md), [Lightning Soul Insect](../../mysticism-reference/races/lightning-soul-insect.md)
-
-## [Divine Dwarf](races-divine-dwarf.md)
-
-- **Previous:** [Dwarf Saint](races-dwarf-saint.md)
-
-## [Divine Elemental](../../mysticism-reference/races/divine-elemental.md)
-
-- **Previous:** [Elemental Lord](../../mysticism-reference/races/elemental-lord.md)
-
-## [Divine Elf](races-divine-elf.md)
-
-- **Previous:** [Elf Saint](races-elf-saint.md)
-
-## [Divine Empress Wasp](../../mysticism-reference/races/divine-empress-wasp.md)
-
-- **Previous:** [Empress Wasp](../../mysticism-reference/races/empress-wasp.md), [Star Soul Insect](../../mysticism-reference/races/star-soul-insect.md)
-
-## [Divine Excelsius](../../mysticism-reference/races/divine-excelsius.md)
-
-- **Previous:** [Ascended](../../mysticism-reference/races/ascended.md)
-
-## [Divine Fighter](races-divine-fighter.md)
-
-- **Previous:** [Death Oni](races-death-oni.md)
-
-## [Divine Fire Ant](../../mysticism-reference/races/divine-fire-ant.md)
-
-- **Previous:** Flame Soul Insect, [Fire Ant Saint](../../mysticism-reference/races/fire-ant-saint.md)
-
-## [Divine Fish](races-divine-fish.md)
-
-- **Previous:** [Merfolk Saint](races-merfolk-saint.md)
-
-## [Divine Foliaris](../../mysticism-reference/races/divine-foliaris.md)
-
-- **Previous:** [Verdant Lord](../../mysticism-reference/races/verdant-lord.md)
-
-## [Divine Giant](races-divine-giant.md)
-
-- **Previous:** [Ancient Giant](races-ancient-giant.md)
-
-## [Divine Hardshell Ant](../../mysticism-reference/races/divine-hardshell-ant.md)
-
-- **Previous:** [Hardshell Ant Savant](../../mysticism-reference/races/hardshell-ant-savant.md), [Earth Soul Insect](../../mysticism-reference/races/earth-soul-insect.md)
-
-## [Divine Human](races-divine-human.md)
-
-- **Previous:** [Human Saint](races-human-saint.md)
-
-## [Divine Inferius](../../mysticism-reference/races/divine-inferius.md)
-
-- **Previous:** [Revenant](../../mysticism-reference/races/revenant.md)
-
-## [Divine Knight Spider](../../mysticism-reference/races/divine-knight-spider.md)
-
-- **Previous:** [Knight Spider Saint](../../mysticism-reference/races/knight-spider-saint.md), [Steel Soul Insect](../../mysticism-reference/races/steel-soul-insect.md)
-
-## [Divine Lixivant Mantis](../../mysticism-reference/races/divine-lixivant-mantis.md)
-
-- **Previous:** [Lixivant Mantis Savant](../../mysticism-reference/races/lixivant-mantis-savant.md)
-
-## [Divine Loxodrome Scorpion](../../mysticism-reference/races/divine-loxodrome-scorpion.md)
-
-- **Previous:** [Loxodrome Scorpion Savant](../../mysticism-reference/races/loxodrome-scorpion-savant.md)
-
-## [Divine Oni](races-divine-oni.md)
-
-- **Previous:** [Spirit Oni](races-spirit-oni.md), [Death Oni](races-death-oni.md), [Hobgoblin Saint](races-hobgoblin-saint.md)
-
-## [Divine Preying Mantis](../../mysticism-reference/races/divine-preying-mantis.md)
-
-- **Previous:** [Preying Mantis Savant](../../mysticism-reference/races/preying-mantis-savant.md), [Steel Soul Insect](../../mysticism-reference/races/steel-soul-insect.md)
-
-## [Divine Purple Centipede](../../mysticism-reference/races/divine-purple-centipede.md)
-
-- **Previous:** [Purple Centipede Saint](../../mysticism-reference/races/purple-centipede-saint.md), [Spatial Soul Insect](../../mysticism-reference/races/spatial-soul-insect.md)
-
-## [Divine Singularity Scorpion](../../mysticism-reference/races/divine-singularity-scorpion.md)
-
-- **Previous:** [Singularity Scorpion Savant](../../mysticism-reference/races/singularity-scorpion-savant.md)
-
-## [Divine Skeleton](races-divine-skeleton.md)
-
-- **Previous:** [Spirit Skeleton](races-spirit-skeleton.md)
-
-## [Divine Stag Beetle](../../mysticism-reference/races/divine-stag-beetle.md)
-
-- **Previous:** Stag Beetle Saint, [Fantasy Soul Insect](../../mysticism-reference/races/fantasy-soul-insect.md)
-
-## [Divine Tengu](../../mysticism-reference/races/divine-tengu.md)
-
-- **Previous:** [Tengu Saint](../../mysticism-reference/races/tengu-saint.md)
-
-## [Divine Vampire](races-divine-vampire.md)
-
-- **Previous:** [Vampire Lord](races-vampire-lord.md)
-
-## [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-- **Previous:** Volcanic Spirit Wolf, Planet Spirit Wolf, Gale Spirit Wolf, Mountain Spirit Wolf, Ocean Spirit Wolf, Magic Spirit Wolf, Storm Spirit Wolf, Antumbra Spirit Wolf, String Spirit Wolf, Glacier Spirit Wolf, Penumbra Spirit Wolf, [Molten Spirit Wolf](../../mysticism-reference/races/molten-spirit-wolf.md)
-
-## [Divine Yellow Centipede](../../mysticism-reference/races/divine-yellow-centipede.md)
-
-- **Previous:** [Yellow Centipede Saint](../../mysticism-reference/races/yellow-centipede-saint.md), [Paralysis Soul Insect](../../mysticism-reference/races/paralysis-soul-insect.md)
-
-## [Dragonewt](races-dragonewt.md)
-
-- **Previous:** [Lizardman](races-lizardman.md)
-- **Next:** [True Dragonewt](races-true-dragonewt.md)
-- **Named:** [True Dragonewt](races-true-dragonewt.md)
-- **Harvest Festival:** None
-- **Awakening:** [True Dragonewt](races-true-dragonewt.md)
-
-## [Dragonoid](../../mysticism-reference/races/dragonoid.md)
-
-- **Next:** [True Dragonoid](../../mysticism-reference/races/true-dragonoid.md)
-
-## [Drone Beetle](../../mysticism-reference/races/drone-beetle.md)
-
-- **Previous:** [Beetle](../../mysticism-reference/races/beetle.md)
-- **Next:** [Drone Beetle Insectar](../../mysticism-reference/races/drone-beetle-insectar.md)
-
-## [Drone Beetle Insectar](../../mysticism-reference/races/drone-beetle-insectar.md)
-
-- **Previous:** [Drone Beetle](../../mysticism-reference/races/drone-beetle.md)
-- **Next:** [Drone Beetle Saint](../../mysticism-reference/races/drone-beetle-saint.md), [Lightning Soul Insect](../../mysticism-reference/races/lightning-soul-insect.md)
-
-## [Drone Beetle Saint](../../mysticism-reference/races/drone-beetle-saint.md)
-
-- **Previous:** [Drone Beetle Insectar](../../mysticism-reference/races/drone-beetle-insectar.md)
-- **Next:** [Divine Drone Beetle](../../mysticism-reference/races/divine-drone-beetle.md)
-
-## [Dryad](../../mysticism-reference/races/dryad.md)
-
-- **Previous:** [Pixie](../../mysticism-reference/races/pixie.md)
-- **Next:** [Verdant Lord](../../mysticism-reference/races/verdant-lord.md)
-
-## [Dwarf](races-dwarf.md)
-
-- **Next:** [Enlightened Dwarf](races-enlightened-dwarf.md)
-- **Named:** [Enlightened Dwarf](races-enlightened-dwarf.md)
-- **Harvest Festival:** [Enlightened Dwarf](races-enlightened-dwarf.md)
-- **Awakening:** [Dwarf Saint](races-dwarf-saint.md)
-
-## [Dwarf Saint](races-dwarf-saint.md)
-
-- **Previous:** [Enlightened Dwarf](races-enlightened-dwarf.md)
-- **Next:** [Divine Dwarf](races-divine-dwarf.md)
-- **Named:** [Divine Dwarf](races-divine-dwarf.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Dwarf](races-divine-dwarf.md)
-
-## [Earth Soul Insect](../../mysticism-reference/races/earth-soul-insect.md)
-
-- **Previous:** [Hardshell Ant Insectar](../../mysticism-reference/races/hardshell-ant-insectar.md)
-- **Next:** [Divine Hardshell Ant](../../mysticism-reference/races/divine-hardshell-ant.md)
-
-## [Elemental Lord](../../mysticism-reference/races/elemental-lord.md)
-
-- **Previous:** [Greater Elemental](../../mysticism-reference/races/greater-elemental.md)
-- **Next:** [Divine Elemental](../../mysticism-reference/races/divine-elemental.md)
-
-## [Elf](races-elf.md)
-
-- **Next:** [Enlightened Elf](races-enlightened-elf.md)
-- **Named:** [Enlightened Elf](races-enlightened-elf.md)
-- **Harvest Festival:** [Enlightened Elf](races-enlightened-elf.md)
-- **Awakening:** [Elf Saint](races-elf-saint.md)
-
-## [Elf Saint](races-elf-saint.md)
-
-- **Previous:** [Enlightened Elf](races-enlightened-elf.md)
-- **Next:** [Divine Elf](races-divine-elf.md)
-- **Named:** [Divine Elf](races-divine-elf.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Elf](races-divine-elf.md)
-
-## [Empress Wasp](../../mysticism-reference/races/empress-wasp.md)
-
-- **Previous:** [Queen Wasp Insectar](../../mysticism-reference/races/queen-wasp-insectar.md)
-- **Next:** [Divine Empress Wasp](../../mysticism-reference/races/divine-empress-wasp.md)
-
-## [Empty](../../mysticism-reference/races/empty.md)
-
-- **Previous:** [Remnant](../../mysticism-reference/races/remnant.md)
-- **Next:** [Revenant](../../mysticism-reference/races/revenant.md)
-
-## [Enflamed Aberration](../../mysticism-reference/races/enflamed-aberration.md)
-
-- **Previous:** [Magma Worm](../../mysticism-reference/races/magma-worm.md)
-- **Next:** [Violence Deity](../../mysticism-reference/races/violence-deity.md)
-
-## [Enlightened Dwarf](races-enlightened-dwarf.md)
-
-- **Previous:** [Dwarf](races-dwarf.md)
-- **Next:** [Dwarf Saint](races-dwarf-saint.md)
-- **Named:** [Dwarf Saint](races-dwarf-saint.md)
-- **Harvest Festival:** None
-- **Awakening:** [Dwarf Saint](races-dwarf-saint.md)
-
-## [Enlightened Elf](races-enlightened-elf.md)
-
-- **Previous:** [Elf](races-elf.md)
-- **Next:** [Elf Saint](races-elf-saint.md)
-- **Named:** [Elf Saint](races-elf-saint.md)
-- **Harvest Festival:** None
-- **Awakening:** [Elf Saint](races-elf-saint.md)
-
-## [Enlightened Hobgoblin](races-enlightened-hobgoblin.md)
-
-- **Previous:** [Hobgoblin](races-hobgoblin.md)
-- **Next:** [Hobgoblin Saint](races-hobgoblin-saint.md)
-- **Named:** [Hobgoblin Saint](races-hobgoblin-saint.md)
-- **Harvest Festival:** None
-- **Awakening:** [Hobgoblin Saint](races-hobgoblin-saint.md)
-
-## [Enlightened Human](races-enlightened-human.md)
-
-- **Previous:** [Human](races-human.md)
-- **Next:** [Human Saint](races-human-saint.md)
-- **Named:** [Human Saint](races-human-saint.md)
-- **Harvest Festival:** None
-- **Awakening:** [Human Saint](races-human-saint.md)
-
-## [Enlightened Merfolk](races-enlightened-merfolk.md)
-
-- **Previous:** [Merfolk](races-merfolk.md)
-- **Next:** [Merfolk Saint](races-merfolk-saint.md)
-- **Named:** [Merfolk Saint](races-merfolk-saint.md)
-- **Harvest Festival:** None
-- **Awakening:** [Merfolk Saint](races-merfolk-saint.md)
-
-## [Enlightened Ogre](races-enlightened-ogre.md)
-
-- **Previous:** [Ogre](races-ogre.md)
-- **Next:** [Mystic Oni](races-mystic-oni.md), [Wicked Oni](races-wicked-oni.md)
-- **Named:** [Mystic Oni](races-mystic-oni.md)
-- **Harvest Festival:** [Mystic Oni](races-mystic-oni.md)
-- **Awakening:** [Spirit Oni](races-spirit-oni.md)
-
-## [Fallen](../../mysticism-reference/races/fallen.md)
-
-- **Previous:** [Fallen Lord](../../mysticism-reference/races/fallen-lord.md), [Fallen Seraphim](../../mysticism-reference/races/fallen-seraphim.md)
-
-## [Fallen Arch Angel](../../mysticism-reference/races/fallen-arch-angel.md)
-
-- **Previous:** [Arch Angel](../../mysticism-reference/races/arch-angel.md), [Fallen Greater Angel](../../mysticism-reference/races/fallen-greater-angel.md)
-- **Next:** [Fallen Cherub](../../mysticism-reference/races/fallen-cherub.md), [Arch Fallen](../../mysticism-reference/races/arch-fallen.md)
-
-## [Fallen Cherub](../../mysticism-reference/races/fallen-cherub.md)
-
-- **Previous:** [Cherub](../../mysticism-reference/races/cherub.md), [Fallen Arch Angel](../../mysticism-reference/races/fallen-arch-angel.md)
-- **Next:** [Fallen Seraphim](../../mysticism-reference/races/fallen-seraphim.md), [Fallen Lord](../../mysticism-reference/races/fallen-lord.md)
-
-## [Fallen Greater Angel](../../mysticism-reference/races/fallen-greater-angel.md)
-
-- **Previous:** [Fallen Lesser Angel](../../mysticism-reference/races/fallen-lesser-angel.md), [Greater Angel](../../mysticism-reference/races/greater-angel.md)
-- **Next:** [Fallen Arch Angel](../../mysticism-reference/races/fallen-arch-angel.md), [Greater Fallen](../../mysticism-reference/races/greater-fallen.md)
-
-## [Fallen Lesser Angel](../../mysticism-reference/races/fallen-lesser-angel.md)
-
-- **Previous:** [Lesser Angel](../../mysticism-reference/races/lesser-angel.md)
-- **Next:** [Lesser Fallen](../../mysticism-reference/races/lesser-fallen.md), [Fallen Greater Angel](../../mysticism-reference/races/fallen-greater-angel.md)
-
-## [Fallen Lord](../../mysticism-reference/races/fallen-lord.md)
-
-- **Previous:** [Arch Fallen](../../mysticism-reference/races/arch-fallen.md), [Fallen Cherub](../../mysticism-reference/races/fallen-cherub.md)
-- **Next:** [Fallen](../../mysticism-reference/races/fallen.md)
-
-## [Fallen Seraphim](../../mysticism-reference/races/fallen-seraphim.md)
-
-- **Previous:** [Fallen Cherub](../../mysticism-reference/races/fallen-cherub.md), Seraphim
-- **Next:** [Fallen](../../mysticism-reference/races/fallen.md)
-
-## [Fantasy Soul Insect](../../mysticism-reference/races/fantasy-soul-insect.md)
-
-- **Previous:** [Stag Beetle Insectar](../../mysticism-reference/races/stag-beetle-insectar.md), [stag Beetle](../../mysticism-reference/races/stag-beetle.md)
-- **Next:** [Divine Stag Beetle](../../mysticism-reference/races/divine-stag-beetle.md)
-
-## [Field Officer](../../mysticism-reference/races/field-officer.md)
-
-- **Previous:** [Greater Angel](../../mysticism-reference/races/greater-angel.md), [Phantom](../../mysticism-reference/races/phantom.md)
-- **Next:** [General](../../mysticism-reference/races/general.md)
-
-## [Fire Ant](../../mysticism-reference/races/fire-ant.md)
-
-- **Previous:** [Ant](../../mysticism-reference/races/ant.md)
-- **Next:** [Fire Ant Insectar](../../mysticism-reference/races/fire-ant-insectar.md)
-
-## [Fire Ant Insectar](../../mysticism-reference/races/fire-ant-insectar.md)
-
-- **Previous:** [Fire Ant](../../mysticism-reference/races/fire-ant.md)
-- **Next:** [Fire Ant Saint](../../mysticism-reference/races/fire-ant-saint.md), [Flame Soul Ant](../../mysticism-reference/races/flame-soul-ant.md)
-
-## [Fire Ant Saint](../../mysticism-reference/races/fire-ant-saint.md)
-
-- **Previous:** [Fire Ant Insectar](../../mysticism-reference/races/fire-ant-insectar.md)
-- **Next:** [Divine Fire Ant](../../mysticism-reference/races/divine-fire-ant.md)
-
-## [Flame Soul Ant](../../mysticism-reference/races/flame-soul-ant.md)
-
-- **Previous:** [Fire Ant Insectar](../../mysticism-reference/races/fire-ant-insectar.md)
-- **Next:** [Divine Fire Ant](../../mysticism-reference/races/divine-fire-ant.md)
-
-## [Forgotten](../../mysticism-reference/races/forgotten.md)
-
-- **Next:** [Remnant](../../mysticism-reference/races/remnant.md)
-
-## [Frostcoil Sea Serpent](../../mysticism-reference/races/frostcoil-sea-serpent.md)
-
-- **Previous:** [Greater Glacier Wyrm](../../mysticism-reference/races/greater-glacier-wyrm.md)
-- **Next:** [Frostwrought Leviathan](../../mysticism-reference/races/frostwrought-leviathan.md)
-
-## [Frostfang Wolf](../../mysticism-reference/races/frostfang-wolf.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Star Frostfang Wolf](../../mysticism-reference/races/star-frostfang-wolf.md)
-
-## [Frostwrought Leviathan](../../mysticism-reference/races/frostwrought-leviathan.md)
-
-- **Previous:** [Frostcoil Sea Serpent](../../mysticism-reference/races/frostcoil-sea-serpent.md)
-
-## [General](../../mysticism-reference/races/general.md)
-
-- **Previous:** [Field Officer](../../mysticism-reference/races/field-officer.md), [Arch Angel](../../mysticism-reference/races/arch-angel.md)
-- **Next:** [Staff Officer](../../mysticism-reference/races/staff-officer.md)
-
-## [Ghoul](races-ghoul.md)
-
-- **Next:** [Vampire](races-vampire.md)
-- **Named:** [Vampire](races-vampire.md)
-- **Harvest Festival:** [Vampire](races-vampire.md)
-- **Awakening:** [Vampire Lord](races-vampire-lord.md)
-
-## [Giant](races-giant.md)
-
-- **Next:** [Ancient Giant](races-ancient-giant.md)
-- **Named:** [Ancient Giant](races-ancient-giant.md)
-- **Harvest Festival:** [Ancient Giant](races-ancient-giant.md)
-- **Awakening:** [Divine Giant](races-divine-giant.md)
-
-## [Goblin](races-goblin.md)
-
-- **Next:** [Hobgoblin](races-hobgoblin.md)
-- **Named:** [Hobgoblin](races-hobgoblin.md)
-- **Harvest Festival:** [Hobgoblin](races-hobgoblin.md)
-- **Awakening:** [Hobgoblin Saint](races-hobgoblin-saint.md)
-
-## [God Slime](races-god-slime.md)
-
-- **Previous:** [Demon Slime](races-demon-slime.md)
-
-## [Gravity Soul Insect](../../mysticism-reference/races/gravity-soul-insect.md)
-
-- **Previous:** [Singularity Scorpion Insectar](../../mysticism-reference/races/singularity-scorpion-insectar.md)
-- **Next:** [Divine Singularity Scorpion](../../mysticism-reference/races/divine-singularity-scorpion.md)
-
-## [Greater Angel](../../mysticism-reference/races/greater-angel.md)
-
-- **Previous:** [Lesser Angel](../../mysticism-reference/races/lesser-angel.md)
-- **Next:** [Arch angel](../../mysticism-reference/races/arch-angel.md), [Fallen Greater Angel](../../mysticism-reference/races/fallen-greater-angel.md), [Field Officer](../../mysticism-reference/races/field-officer.md), Tengu
-
-## [Greater Daemon](races-greater-daemon.md)
-
-- **Previous:** [Lesser Daemon](races-lesser-daemon.md)
-- **Next:** [Arch Daemon](races-arch-daemon.md)
-- **Named:** [Arch Daemon](races-arch-daemon.md)
-- **Harvest Festival:** [Arch Daemon](races-arch-daemon.md)
-- **Awakening:** [Daemon Lord](races-daemon-lord.md)
-
-## [Greater Doll](../../mysticism-reference/races/greater-doll.md)
-
-- **Previous:** [Greater Daemon](races-greater-daemon.md)
-- **Next:** [Archdoll](../../mysticism-reference/races/archdoll.md)
-
-## [Greater Elemental](../../mysticism-reference/races/greater-elemental.md)
-
-- **Previous:** [Medium Elemental](../../mysticism-reference/races/medium-elemental.md)
-- **Next:** [Elemental Lord](../../mysticism-reference/races/elemental-lord.md)
-
-## [Greater Fallen](../../mysticism-reference/races/greater-fallen.md)
-
-- **Previous:** [Fallen Greater Angel](../../mysticism-reference/races/fallen-greater-angel.md), [Lesser Fallen](../../mysticism-reference/races/lesser-fallen.md)
-- **Next:** [Arch Fallen](../../mysticism-reference/races/arch-fallen.md)
-
-## [Greater Glacier Wyrm](../../mysticism-reference/races/greater-glacier-wyrm.md)
-
-- **Previous:** [Lesser Glacier Wyrm](../../mysticism-reference/races/lesser-glacier-wyrm.md)
-- **Next:** [Frostcoil Sea Serpent](../../mysticism-reference/races/frostcoil-sea-serpent.md), [Rimefang Drake](../../mysticism-reference/races/rimefang-drake.md)
-
-## [Greater Pyre Wyrm](../../mysticism-reference/races/greater-pyre-wyrm.md)
-
-- **Previous:** [Lesser Pyre Wyrm](../../mysticism-reference/races/lesser-pyre-wyrm.md)
-- **Next:** [Scorchtail Salamander](../../mysticism-reference/races/scorchtail-salamander.md), [Sunfire Lindwurm](../../mysticism-reference/races/sunfire-lindwurm.md)
-
-## [Green Fang](../../mysticism-reference/races/green-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Green Fang](../../mysticism-reference/races/mystic-green-fang.md)
-
-## [Guitar Wolf](../../mysticism-reference/races/guitar-wolf.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Star Guitar Wolf](../../mysticism-reference/races/star-guitar-wolf.md)
-
-## [Hardshell Ant](../../mysticism-reference/races/hardshell-ant.md)
-
-- **Previous:** [Ant](../../mysticism-reference/races/ant.md)
-- **Next:** [Hardshell Ant Insectar](../../mysticism-reference/races/hardshell-ant-insectar.md)
-
-## [Hardshell Ant Insectar](../../mysticism-reference/races/hardshell-ant-insectar.md)
-
-- **Previous:** [Hardshell Ant](../../mysticism-reference/races/hardshell-ant.md)
-- **Next:** [Hardshell Ant Savant](../../mysticism-reference/races/hardshell-ant-savant.md), [Earth Soul Insect](../../mysticism-reference/races/earth-soul-insect.md)
-
-## [Hardshell Ant Saint](../../mysticism-reference/races/hardshell-insectar-saint.md)
-
-- **Previous:** [Hardshell Ant Insectar](../../mysticism-reference/races/hardshell-ant-insectar.md)
-- **Next:** [Divine Hardshell Ant](../../mysticism-reference/races/divine-hardshell-ant.md)
-
-## [Hardshell Ant Savant](../../mysticism-reference/races/hardshell-ant-savant.md)
-
-- **Previous:** [Hardshell Ant Insectar](../../mysticism-reference/races/hardshell-ant-insectar.md)
-- **Next:** [Divine Hardshell Ant](../../mysticism-reference/races/divine-hardshell-ant.md)
-
-## [Harpy](races-harpy.md)
-
-- **Next:** [Harpy Queen](races-harpy-queen.md)
-- **Named:** [Harpy Queen](races-harpy-queen.md)
-- **Harvest Festival:** [Harpy Queen](races-harpy-queen.md)
-- **Awakening:** [Spirit Bird](races-spirit-bird.md)
-
-## [Harpy Queen](races-harpy-queen.md)
-
-- **Previous:** [Harpy](races-harpy.md)
-- **Next:** [Spirit Bird](races-spirit-bird.md)
-- **Named:** [Spirit Bird](races-spirit-bird.md)
-- **Harvest Festival:** [Spirit Bird](races-spirit-bird.md)
-- **Awakening:** Divine Bird
-
-## [Heavenly Restriction](../../mysticism-reference/races/heavenly-restriction.md)
-
-- **Previous:** [Bound Enlightenment](../../mysticism-reference/races/bound-enlightenment.md)
-
-## [High Orc](races-high-orc.md)
-
-- **Previous:** [Orc](races-orc.md)
-- **Next:** [Orc Lord](races-orc-lord.md), [Spirit Boar](races-spirit-boar.md)
-- **Named:** [Spirit Boar](races-spirit-boar.md)
-- **Harvest Festival:** None
-- **Awakening:** [Spirit Boar](races-spirit-boar.md)
-
-## [Hobgoblin](races-hobgoblin.md)
-
-- **Previous:** [Goblin](races-goblin.md)
-- **Next:** [Enlightened Hobgoblin](races-enlightened-hobgoblin.md), [Ogre](races-ogre.md)
-- **Named:** [Enlightened Hobgoblin](races-enlightened-hobgoblin.md)
-- **Harvest Festival:** [Enlightened Hobgoblin](races-enlightened-hobgoblin.md)
-- **Awakening:** [Hobgoblin Saint](races-hobgoblin-saint.md)
-
-## [Hobgoblin Saint](races-hobgoblin-saint.md)
-
-- **Previous:** [Enlightened Hobgoblin](races-enlightened-hobgoblin.md)
-- **Next:** [Divine Oni](races-divine-oni.md)
-- **Named:** [Divine Oni](races-divine-oni.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Oni](races-divine-oni.md)
-
-## [Human](races-human.md)
-
-- **Previous:** [Wight](races-wight.md)
-- **Next:** [Enlightened Human](races-enlightened-human.md), [Vampire](races-vampire.md)
-- **Named:** [Enlightened Human](races-enlightened-human.md)
-- **Harvest Festival:** [Enlightened Human](races-enlightened-human.md)
-- **Awakening:** [Human Saint](races-human-saint.md)
-
-## [Human Saint](races-human-saint.md)
-
-- **Previous:** [Enlightened Human](races-enlightened-human.md)
-- **Next:** [Divine Human](races-divine-human.md)
-- **Named:** [Divine Human](races-divine-human.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Human](races-divine-human.md)
-
-## [Kijin](races-kijin.md)
-
-- **Previous:** [Ogre](races-ogre.md)
-- **Next:** [Mystic Oni](races-mystic-oni.md), [Wicked Oni](races-wicked-oni.md)
-- **Named:** [Mystic Oni](races-mystic-oni.md)
-- **Harvest Festival:** [Mystic Oni](races-mystic-oni.md)
-- **Awakening:** [Spirit Oni](races-spirit-oni.md)
-
-## [Knight Spider](../../mysticism-reference/races/knight-spider.md)
-
-- **Previous:** [Spider](../../mysticism-reference/races/spider.md)
-- **Next:** [Knight Spider Insectar](../../mysticism-reference/races/knight-spider-insectar.md)
-
-## [Knight Spider Insectar](../../mysticism-reference/races/knight-spider-insectar.md)
-
-- **Previous:** [Knight Spider](../../mysticism-reference/races/knight-spider.md)
-- **Next:** [Knight Spider Saint](../../mysticism-reference/races/knight-spider-saint.md), [Steel Soul Insect](../../mysticism-reference/races/steel-soul-insect.md)
-
-## [Knight Spider Saint](../../mysticism-reference/races/knight-spider-saint.md)
-
-- **Previous:** [Knight Spider Insectar](../../mysticism-reference/races/knight-spider-insectar.md)
-- **Next:** [Divine Knight Spider](../../mysticism-reference/races/divine-knight-spider.md)
-
-## [Lesser Angel](../../mysticism-reference/races/lesser-angel.md)
-
-- **Next:** [Phantom](../../mysticism-reference/races/phantom.md), [Greater Angel](../../mysticism-reference/races/greater-angel.md), [Fallen Lesser Angel](../../mysticism-reference/races/fallen-lesser-angel.md)
-
-## [Lesser Daemon](races-lesser-daemon.md)
-
-- **Next:** [Greater Daemon](races-greater-daemon.md)
-- **Named:** [Greater Daemon](races-greater-daemon.md)
-- **Harvest Festival:** [Greater Daemon](races-greater-daemon.md)
-- **Awakening:** [Daemon Lord](races-daemon-lord.md)
-
-## [Lesser Elemental](../../mysticism-reference/races/lesser-elemental.md)
-
-- **Next:** [Medium Elemental](../../mysticism-reference/races/medium-elemental.md), [Pixie](../../mysticism-reference/races/pixie.md)
-
-## [Lesser Fallen](../../mysticism-reference/races/lesser-fallen.md)
-
-- **Previous:** [Fallen Lesser Angel](../../mysticism-reference/races/fallen-lesser-angel.md)
-- **Next:** [Greater Fallen](../../mysticism-reference/races/greater-fallen.md)
-
-## [Lesser Glacier Wyrm](../../mysticism-reference/races/lesser-glacier-wyrm.md)
-
-- **Previous:** [Attuned Wyrm](../../mysticism-reference/races/attuned-wyrm.md)
-- **Next:** [Greater Glacier Wyrm](../../mysticism-reference/races/greater-glacier-wyrm.md)
-
-## [Lesser Pyre Wyrm](../../mysticism-reference/races/lesser-pyre-wyrm.md)
-
-- **Previous:** [Attuned Wyrm](../../mysticism-reference/races/attuned-wyrm.md)
-- **Next:** [Greater Pyre Wyrm](../../mysticism-reference/races/greater-pyre-wyrm.md)
-
-## [Light Fang](../../mysticism-reference/races/light-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Light Fang](../../mysticism-reference/races/mystic-light-fang.md)
-
-## [Lightning Aberration](../../mysticism-reference/races/lightning-aberration.md)
-
-- **Previous:** [Overloading Worm](../../mysticism-reference/races/overloading-worm.md)
-- **Next:** [Dissonance Deity](../../mysticism-reference/races/dissonance-deity.md)
-
-## [Lightning Soul Insect](../../mysticism-reference/races/lightning-soul-insect.md)
-
-- **Previous:** [Drone Beetle Insectar](../../mysticism-reference/races/drone-beetle-insectar.md)
-- **Next:** [Divine Drone Beetle](../../mysticism-reference/races/divine-drone-beetle.md)
-
-## [Lixivant Mantis](../../mysticism-reference/races/lixivant-mantis.md)
-
-- **Previous:** [Mantis](../../mysticism-reference/races/mantis.md)
-- **Next:** [Lixivant Mantis Insectar](../../mysticism-reference/races/lixivant-mantis-insectar.md)
-
-## [Lixivant Mantis Insectar](../../mysticism-reference/races/lixivant-mantis-insectar.md)
-
-- **Previous:** [Lixivant Mantis](../../mysticism-reference/races/lixivant-mantis.md)
-- **Next:** [Lixivant Mantis Savant](../../mysticism-reference/races/lixivant-mantis-savant.md)
-
-## [Lixivant Mantis Savant](../../mysticism-reference/races/lixivant-mantis-savant.md)
-
-- **Previous:** [Lixivant Mantis Insectar](../../mysticism-reference/races/lixivant-mantis-insectar.md)
-- **Next:** [Divine Lixivant Mantis](../../mysticism-reference/races/divine-lixivant-mantis.md)
-
-## [Lizardman](races-lizardman.md)
-
-- **Next:** [Dragonewt](races-dragonewt.md)
-- **Named:** [Dragonewt](races-dragonewt.md)
-- **Harvest Festival:** [Dragonewt](races-dragonewt.md)
-- **Awakening:** [True Dragonewt](races-true-dragonewt.md)
-
-## [Loxodrome Scorpion](../../mysticism-reference/races/loxodrome-scorpion.md)
-
-- **Previous:** [Scorpion](../../mysticism-reference/races/scorpion.md)
-- **Next:** [Loxodrome Scorpion Insectar](../../mysticism-reference/races/loxodrome-scorpion-insectar.md)
-
-## [Loxodrome Scorpion Insectar](../../mysticism-reference/races/loxodrome-scorpion-insectar.md)
-
-- **Previous:** [Loxodrome Scorpion](../../mysticism-reference/races/loxodrome-scorpion.md)
-- **Next:** [Loxodrome Scorpion Savant](../../mysticism-reference/races/loxodrome-scorpion-savant.md)
-
-## [Loxodrome Scorpion Savant](../../mysticism-reference/races/loxodrome-scorpion-savant.md)
-
-- **Previous:** [Loxodrome Scorpion Insectar](../../mysticism-reference/races/loxodrome-scorpion-insectar.md)
-- **Next:** [Divine Loxodrome Scorpion](../../mysticism-reference/races/divine-loxodrome-scorpion.md)
-
-## [Magic Fang](../../mysticism-reference/races/magic-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Magic Fang](../../mysticism-reference/races/mystic-magic-fang.md)
-
-## [Magic Spirit Fang](../../mysticism-reference/races/magic-sprit-wolf.md)
-
-- **Previous:** [Mystical Black Fang](../../mysticism-reference/races/mystical-black-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Magma Worm](../../mysticism-reference/races/magma-worm.md)
-
-- **Previous:** [Molten Perforator](../../mysticism-reference/races/molten-perforator.md)
-- **Next:** [Enflamed Aberration](../../mysticism-reference/races/enflamed-aberration.md)
-
-## [Mantis](../../mysticism-reference/races/mantis.md)
-
-- **Next:** [Lixivant Mantis](../../mysticism-reference/races/lixivant-mantis.md), [Preying Mantis](../../mysticism-reference/races/preying-mantis.md)
-
-## [Medium Elemental](../../mysticism-reference/races/medium-elemental.md)
-
-- **Previous:** [Lesser Elemental](../../mysticism-reference/races/lesser-elemental.md)
-- **Next:** [Greater Elemental](../../mysticism-reference/races/greater-elemental.md)
-
-## [Merfolk](races-merfolk.md)
-
-- **Next:** [Enlightened Merfolk](races-enlightened-merfolk.md)
-- **Named:** [Enlightened Merfolk](races-enlightened-merfolk.md)
-- **Harvest Festival:** [Enlightened Merfolk](races-enlightened-merfolk.md)
-- **Awakening:** [Merfolk Saint](races-merfolk-saint.md)
-
-## [Merfolk Saint](races-merfolk-saint.md)
-
-- **Previous:** [Enlightened Merfolk](races-enlightened-merfolk.md)
-- **Next:** [Divine Fish](races-divine-fish.md)
-- **Named:** [Divine Fish](races-divine-fish.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Fish](races-divine-fish.md)
-
-## [Metal Slime](races-metal-slime.md)
-
-- **Previous:** [Slime](races-slime.md)
-- **Next:** [Demon Slime](races-demon-slime.md)
-- **Named:** [Demon Slime](races-demon-slime.md)
-- **Harvest Festival:** None
-- **Awakening:** [Demon Slime](races-demon-slime.md)
-
-## [Molten Perforator](../../mysticism-reference/races/molten-perforator.md)
-
-- **Previous:** [Sculk Worm](../../mysticism-reference/races/sculk-worm.md)
-- **Next:** [Magma Worm](../../mysticism-reference/races/magma-worm.md)
-
-## [Molten Spirit Wolf](../../mysticism-reference/races/molten-spirit-wolf.md)
-
-- **Previous:** [Blazing Scorch Wolf](../../mysticism-reference/races/blazing-scorch-wolf.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Angel](../../mysticism-reference/races/mystic-angel.md)
-
-- **Previous:** [Staff Officer](../../mysticism-reference/races/staff-officer.md), Seraphim
-
-## [Mystic Blue Fang](../../mysticism-reference/races/mystic-blue-fang.md)
-
-- **Previous:** [Blue Fang](../../mysticism-reference/races/blue-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Brown Fang](../../mysticism-reference/races/mystic-brown-fang.md)
-
-- **Previous:** [Brown Fang](../../mysticism-reference/races/brown-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Dark Fang](../../mysticism-reference/races/mystic-dark-fang.md)
-
-- **Previous:** [Dark Fang](../../mysticism-reference/races/dark-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Green Fang](../../mysticism-reference/races/mystic-green-fang.md)
-
-- **Previous:** [Green Fang](../../mysticism-reference/races/green-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Light Fang](../../mysticism-reference/races/mystic-light-fang.md)
-
-- **Previous:** [Light Fang](../../mysticism-reference/races/light-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Magic Fang](../../mysticism-reference/races/mystic-magic-fang.md)
-
-- **Previous:** [Magic Fang](../../mysticism-reference/races/magic-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Oni](races-mystic-oni.md)
-
-- **Previous:** [Enlightened Ogre](races-enlightened-ogre.md), [Kijin](races-kijin.md)
-- **Next:** [Spirit Oni](races-spirit-oni.md)
-- **Named:** [Spirit Oni](races-spirit-oni.md)
-- **Harvest Festival:** None
-- **Awakening:** [Spirit Oni](races-spirit-oni.md)
-
-## [Mystic Purple Fang](../../mysticism-reference/races/mystic-purple-fang.md)
-
-- **Previous:** [Purple Fang](../../mysticism-reference/races/purple-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystic Red Fang](../../mysticism-reference/races/mystic-red-fang.md)
-
-- **Previous:** [Red Fang](../../mysticism-reference/races/red-fang.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Mystical Black Fang](../../mysticism-reference/races/mystical-black-fang.md)
-
-- **Previous:** [Black Fang](../../mysticism-reference/races/black-fang.md)
-- **Next:** Magic Sprit Wolf
-
-## [Ogre](races-ogre.md)
-
-- **Previous:** [Hobgoblin](races-hobgoblin.md)
-- **Next:** [Kijin](races-kijin.md), [Enlightened Ogre](races-enlightened-ogre.md)
-- **Named:** [Enlightened Ogre](races-enlightened-ogre.md)
-- **Harvest Festival:** [Kijin](races-kijin.md)
-- **Awakening:** [Spirit Oni](races-spirit-oni.md)
-
-## [Orc](races-orc.md)
-
-- **Next:** [High Orc](races-high-orc.md)
-- **Named:** [High Orc](races-high-orc.md)
-- **Harvest Festival:** [High Orc](races-high-orc.md)
-- **Awakening:** [Spirit Boar](races-spirit-boar.md)
-
-## [Orc Disaster](races-orc-disaster.md)
-
-- **Previous:** [Orc Lord](races-orc-lord.md)
-- **Next:** [Spirit Boar](races-spirit-boar.md)
-- **Named:** [Spirit Boar](races-spirit-boar.md)
-- **Harvest Festival:** None
-- **Awakening:** [Spirit Boar](races-spirit-boar.md)
-
-## [Orc Lord](races-orc-lord.md)
-
-- **Previous:** [High Orc](races-high-orc.md)
-- **Next:** [Orc Disaster](races-orc-disaster.md)
-- **Named:** [Orc Disaster](races-orc-disaster.md)
-- **Harvest Festival:** [Orc Disaster](races-orc-disaster.md)
-- **Awakening:** [Spirit Boar](races-spirit-boar.md)
-
-## [Overloading Worm](../../mysticism-reference/races/overloading-worm.md)
-
-- **Previous:** [Charged Perforator](../../mysticism-reference/races/charged-perforator.md)
-- **Next:** [Lightning Aberration](../../mysticism-reference/races/lightning-aberration.md)
-
-## [Paralysis Soul Insect](../../mysticism-reference/races/paralysis-soul-insect.md)
-
-- **Previous:** [Yellow Centipede Insectar](../../mysticism-reference/races/yellow-centipede-insectar.md)
-- **Next:** [Divine Yellow Centipede](../../mysticism-reference/races/divine-yellow-centipede.md)
-
-## [Phantom](../../mysticism-reference/races/phantom.md)
-
-- **Previous:** [Lesser Angel](../../mysticism-reference/races/lesser-angel.md)
-- **Next:** [Field Officer](../../mysticism-reference/races/field-officer.md)
-
-## [Pixie](../../mysticism-reference/races/pixie.md)
-
-- **Previous:** Lesser Spirit
-- **Next:** [Dryad](../../mysticism-reference/races/dryad.md)
-
-## [Poison Soul Insect](../../mysticism-reference/races/poison-soul-insect.md)
-
-- **Previous:** King Scorpion Insectar
-- **Next:** Divine Emperor Scorpion
-
-## [Preying Mantis](../../mysticism-reference/races/preying-mantis.md)
-
-- **Previous:** [Mantis](../../mysticism-reference/races/mantis.md)
-- **Next:** [Preying Mantis Insectar](../../mysticism-reference/races/preying-mantis-insectar.md)
-
-## [Preying Mantis Insectar](../../mysticism-reference/races/preying-mantis-insectar.md)
-
-- **Previous:** [Preying Mantis](../../mysticism-reference/races/preying-mantis.md)
-- **Next:** [Preying Mantis Savant](../../mysticism-reference/races/preying-mantis-savant.md), [Steel Soul Insect](../../mysticism-reference/races/steel-soul-insect.md)
-
-## [Preying Mantis Savant](../../mysticism-reference/races/preying-mantis-savant.md)
-
-- **Previous:** [Preying Mantis Insectar](../../mysticism-reference/races/preying-mantis-insectar.md)
-- **Next:** [Divine Preying Mantis](../../mysticism-reference/races/divine-preying-mantis.md)
-
-## [Purple Centipede](../../mysticism-reference/races/purple-centipede.md)
-
-- **Previous:** [Centipede](../../mysticism-reference/races/centipede.md)
-- **Next:** [Purple Centipede Insectar](../../mysticism-reference/races/purple-centipede-insectar.md)
-
-## [Purple Centipede Insectar](../../mysticism-reference/races/purple-centipede-insectar.md)
-
-- **Previous:** [Purple Centipede](../../mysticism-reference/races/purple-centipede.md)
-- **Next:** [Purple Centipede Saint](../../mysticism-reference/races/purple-centipede-saint.md), [Spatial Soul Insect](../../mysticism-reference/races/spatial-soul-insect.md)
-
-## [Purple Centipede Saint](../../mysticism-reference/races/purple-centipede-saint.md)
-
-- **Previous:** [Purple Centipede Insectar](../../mysticism-reference/races/purple-centipede-insectar.md)
-- **Next:** [Divine Purple Centipede](../../mysticism-reference/races/divine-purple-centipede.md)
-
-## [Purple Fang](../../mysticism-reference/races/purple-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Purple Fang](../../mysticism-reference/races/mystic-purple-fang.md)
-
-## [Queen Wasp](../../mysticism-reference/races/queen-wasp.md)
-
-- **Previous:** [Wasp](../../mysticism-reference/races/wasp.md)
-- **Next:** [Queen Wasp Insectar](../../mysticism-reference/races/queen-wasp-insectar.md)
-
-## [Queen Wasp Insectar](../../mysticism-reference/races/queen-wasp-insectar.md)
-
-- **Previous:** [Queen Wasp](../../mysticism-reference/races/queen-wasp.md)
-- **Next:** [Star Soul Insect](../../mysticism-reference/races/star-soul-insect.md), [Empress Wasp](../../mysticism-reference/races/empress-wasp.md)
-
-## [Reaper Aberration](../../mysticism-reference/races/reaper-aberration.md)
-
-- **Previous:** [Soul Aberration](../../mysticism-reference/races/soul-aberration.md)
-
-## [Red Fang](../../mysticism-reference/races/red-fang.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Mystic Red Fang](../../mysticism-reference/races/mystic-red-fang.md)
-
-## [Remnant](../../mysticism-reference/races/remnant.md)
-
-- **Previous:** [Forgotten](../../mysticism-reference/races/forgotten.md)
-- **Next:** [Whole](../../mysticism-reference/races/whole.md), [Empty](../../mysticism-reference/races/empty.md)
-
-## [Restricted Human](../../mysticism-reference/races/restricted-human.md)
-
-- **Next:** [Restricted Saint](../../mysticism-reference/races/restricted-saint.md)
-
-## [Restricted Saint](../../mysticism-reference/races/restricted-saint.md)
-
-- **Previous:** [Restricted Human](../../mysticism-reference/races/restricted-human.md)
-- **Next:** [Bound Enlightenment](../../mysticism-reference/races/bound-enlightenment.md)
-
-## [Revenant](../../mysticism-reference/races/revenant.md)
-
-- **Previous:** [Empty](../../mysticism-reference/races/empty.md)
-- **Next:** [Divine Inferius](../../mysticism-reference/races/divine-inferius.md)
-
-## [Rimeblight Hydra](../../mysticism-reference/races/rimeblight-hydra.md)
-
-- **Previous:** [Rimefang Drake](../../mysticism-reference/races/rimefang-drake.md)
-
-## [Rimefang Drake](../../mysticism-reference/races/rimefang-drake.md)
-
-- **Previous:** [Greater Glacier Wyrm](../../mysticism-reference/races/greater-glacier-wyrm.md)
-- **Next:** [Rimeblight Hydra](../../mysticism-reference/races/rimeblight-hydra.md)
-
-## [Scorch Wolf](../../mysticism-reference/races/scorch-wolf.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Blazing Scorch Wolf](../../mysticism-reference/races/blazing-scorch-wolf.md)
-
-## [Scorchtail Salamander](../../mysticism-reference/races/scorchtail-salamander.md)
-
-- **Previous:** [Greater Pyre Wyrm](../../mysticism-reference/races/greater-pyre-wyrm.md)
-- **Next:** [Scorchtalon Wyvern](../../mysticism-reference/races/scorchtalon-wyvern.md)
-
-## [Scorchtalon Wyvern](../../mysticism-reference/races/scorchtalon-wyvern.md)
-
-- **Previous:** [Scorchtail Salamander](../../mysticism-reference/races/scorchtail-salamander.md)
-
-## [Scorpion](../../mysticism-reference/races/scorpion.md)
-
-- **Next:** [Loxodrome Scorpion](../../mysticism-reference/races/loxodrome-scorpion.md), [Singularity Scorpion](../../mysticism-reference/races/singularity-scorpion.md)
-
-## [Sculk Worm](../../mysticism-reference/races/sculk-worm.md)
-
-- **Next:** [Soul Shrieker](../../mysticism-reference/races/soul-shrieker.md), [Molten Perforator](../../mysticism-reference/races/molten-perforator.md), [Charged Perforator](../../mysticism-reference/races/charged-perforator.md)
-
-## [Seraph](../../mysticism-reference/races/seraphim.md)
-
-- **Previous:** [Cherub](../../mysticism-reference/races/cherub.md)
-- **Next:** [Mystic Angel](../../mysticism-reference/races/mystic-angel.md), [Fallen Seraphim](../../mysticism-reference/races/fallen-seraphim.md)
-
-## [Silk Soul Insect](../../mysticism-reference/races/silk-soul-insect.md)
-
-- **Previous:** [Black Spider Insectar](../../mysticism-reference/races/black-spider-insectar.md)
-- **Next:** [Divine Black Spider](../../mysticism-reference/races/divine-black-spider.md)
-
-## [Singularity Scorpion](../../mysticism-reference/races/singularity-scorpion.md)
-
-- **Next:** [Singularity Scorpion Insectar](../../mysticism-reference/races/singularity-scorpion-insectar.md)
-
-## [Singularity Scorpion Insectar](../../mysticism-reference/races/singularity-scorpion-insectar.md)
-
-- **Previous:** [Singularity Scorpion](../../mysticism-reference/races/singularity-scorpion.md)
-- **Next:** [Singularity Scorpion Savant](../../mysticism-reference/races/singularity-scorpion-savant.md), [Gravity Soul Insect](../../mysticism-reference/races/gravity-soul-insect.md)
-
-## [Singularity Scorpion Savant](../../mysticism-reference/races/singularity-scorpion-savant.md)
-
-- **Previous:** [Singularity Scorpion Insectar](../../mysticism-reference/races/singularity-scorpion-insectar.md)
-- **Next:** [Divine Singularity Scorpion](../../mysticism-reference/races/divine-singularity-scorpion.md)
-
-## [Slime](races-slime.md)
-
-- **Next:** [Metal Slime](races-metal-slime.md), [Demon Slime](races-demon-slime.md)
-- **Named:** [Demon Slime](races-demon-slime.md)
-- **Harvest Festival:** None
-- **Awakening:** [Demon Slime](races-demon-slime.md)
-
-## [Soul Aberration](../../mysticism-reference/races/soul-aberration.md)
-
-- **Previous:** [Warden](../../mysticism-reference/races/warden.md)
-- **Next:** [Reaper Aberration](../../mysticism-reference/races/reaper-aberration.md)
-
-## [Soul Shrieker](../../mysticism-reference/races/soul-shrieker.md)
-
-- **Previous:** [Sculk Worm](../../mysticism-reference/races/sculk-worm.md)
-- **Next:** [Warden](../../mysticism-reference/races/warden.md)
-
-## [Spatial Soul Insect](../../mysticism-reference/races/spatial-soul-insect.md)
-
-- **Previous:** [Purple Centipede Insectar](../../mysticism-reference/races/purple-centipede-insectar.md)
-- **Next:** [Divine Purple Centipede](../../mysticism-reference/races/divine-purple-centipede.md)
-
-## [Spider](../../mysticism-reference/races/spider.md)
-
-- **Next:** [Black Spider](../../mysticism-reference/races/black-spider.md), [Knight Spider](../../mysticism-reference/races/knight-spider.md)
-
-## [Spirit Beast](races-spirit-beast.md)
-
-- **Previous:** [Beast Lord](races-beast-lord.md)
-- **Next:** [Divine Beast](races-divine-beast.md)
-- **Named:** [Divine Beast](races-divine-beast.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Beast](races-divine-beast.md)
-
-## [Spirit Bird](races-spirit-bird.md)
-
-- **Previous:** [Harpy Queen](races-harpy-queen.md)
-- **Next:** Divine Bird
-- **Named:** Divine Bird
-- **Harvest Festival:** Divine Bird
-- **Awakening:** Divine Bird
-
-## [Spirit Boar](races-spirit-boar.md)
-
-- **Previous:** [High Orc](races-high-orc.md), [Orc Disaster](races-orc-disaster.md)
-- **Next:** [Divine Boar](races-divine-boar.md)
-- **Named:** [Divine Boar](races-divine-boar.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Boar](races-divine-boar.md)
-
-## [Spirit Oni](races-spirit-oni.md)
-
-- **Previous:** [Mystic Oni](races-mystic-oni.md)
-- **Next:** [Divine Oni](races-divine-oni.md)
-- **Named:** [Divine Oni](races-divine-oni.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Oni](races-divine-oni.md)
-
-## [Spirit Skeleton](races-spirit-skeleton.md)
-
-- **Previous:** [Wight King](races-wight-king.md)
-- **Next:** [Divine Skeleton](races-divine-skeleton.md)
-- **Named:** [Divine Skeleton](races-divine-skeleton.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Skeleton](races-divine-skeleton.md)
-
-## [Staff Officer](../../mysticism-reference/races/staff-officer.md)
-
-- **Previous:** [General](../../mysticism-reference/races/general.md), [Cherub](../../mysticism-reference/races/cherub.md)
-- **Next:** [Mystic Angel](../../mysticism-reference/races/mystic-angel.md)
-
-## [Stag Beetle](../../mysticism-reference/races/stag-beetle.md)
-
-- **Previous:** [Beetle](../../mysticism-reference/races/beetle.md)
-- **Next:** [Stag Beetle Insectar](../../mysticism-reference/races/stag-beetle-insectar.md), [Fantasy Soul Insect](../../mysticism-reference/races/fantasy-soul-insect.md)
-
-## [Stag Beetle Insectar](../../mysticism-reference/races/stag-beetle-insectar.md)
-
-- **Previous:** [Stag Beetle](../../mysticism-reference/races/stag-beetle.md)
-- **Next:** [Fantasy Soul Insect](../../mysticism-reference/races/fantasy-soul-insect.md), Stag Beetle Saint
-
-## [Stag Beetle Savant](../../mysticism-reference/races/stag-beetle-saint.md)
-
-- **Previous:** [Stag Beetle Insectar](../../mysticism-reference/races/stag-beetle-insectar.md)
-- **Next:** [Divine Stag Beetle](../../mysticism-reference/races/divine-stag-beetle.md)
-
-## [Star Blaze Wolf](../../mysticism-reference/races/star-blaze-wolf.md)
-
-- **Previous:** [Blaze Wolf](../../mysticism-reference/races/blaze-wolf.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Star Frostfang Wolf](../../mysticism-reference/races/star-frostfang-wolf.md)
-
-- **Previous:** [Frostfang Wolf](../../mysticism-reference/races/frostfang-wolf.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Star Guitar Wolf](../../mysticism-reference/races/star-guitar-wolf.md)
-
-- **Previous:** [Guitar Wolf](../../mysticism-reference/races/guitar-wolf.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Star Soul Insect](../../mysticism-reference/races/star-soul-insect.md)
-
-- **Previous:** [Queen Wasp Insectar](../../mysticism-reference/races/queen-wasp-insectar.md)
-- **Next:** [Divine Empress Wasp](../../mysticism-reference/races/divine-empress-wasp.md)
-
-## [Star Tempest Wolf](../../mysticism-reference/races/star-tempest-wolf.md)
-
-- **Previous:** [Tempest Wolf](../../mysticism-reference/races/tempest-wolf.md)
-- **Next:** [Divine Wolf](../../mysticism-reference/races/divine-wolf.md)
-
-## [Steel Soul Insect](../../mysticism-reference/races/steel-soul-insect.md)
-
-- **Previous:** [Preying Mantis Insectar](../../mysticism-reference/races/preying-mantis-insectar.md)
-- **Next:** [Divine Preying Mantis](../../mysticism-reference/races/divine-preying-mantis.md)
-
-## [Sundiety Loong](../../mysticism-reference/races/sundiety-loong.md)
-
-- **Previous:** [Sunfire Lindwurm](../../mysticism-reference/races/sunfire-lindwurm.md)
-
-## [Sunfire Lindwurm](../../mysticism-reference/races/sunfire-lindwurm.md)
-
-- **Previous:** [Greater Pyre Wyrm](../../mysticism-reference/races/greater-pyre-wyrm.md)
-- **Next:** [Sundiety Loong](../../mysticism-reference/races/sundiety-loong.md)
-
-## [Tempest Wolf](../../mysticism-reference/races/tempest-wolf.md)
-
-- **Previous:** [Direwolf](../../mysticism-reference/races/direwolf.md)
-- **Next:** [Star Tempest Wolf](../../mysticism-reference/races/star-tempest-wolf.md)
-
-## [Tengu Race](../../mysticism-reference/races/tengu.md)
-
-- **Previous:** [Greater Angel](../../mysticism-reference/races/greater-angel.md), [Arch Angel](../../mysticism-reference/races/arch-angel.md)
-- **Next:** [Tengu Saint](../../mysticism-reference/races/tengu-saint.md)
-
-## [Tengu Saint](../../mysticism-reference/races/tengu-saint.md)
-
-- **Previous:** Tengu, [Arch Angel](../../mysticism-reference/races/arch-angel.md)
-- **Next:** [Divine Tengu](../../mysticism-reference/races/divine-tengu.md)
-
-## [True Dragonewt](races-true-dragonewt.md)
-
-- **Previous:** [Dragonewt](races-dragonewt.md)
-- **Next:** [Divine Dragon](races-divine-dragon.md)
-- **Named:** [Divine Dragon](races-divine-dragon.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Dragon](races-divine-dragon.md)
-
-## [True Dragonoid](../../mysticism-reference/races/true-dragonoid.md)
-
-- **Previous:** [Dragonoid](../../mysticism-reference/races/dragonoid.md)
-
-## [Vampire](races-vampire.md)
-
-- **Previous:** [Ghoul](races-ghoul.md), [Human](races-human.md)
-- **Next:** [Vampire Overcomer](races-vampire-overcomer.md)
-- **Named:** [Vampire Overcomer](races-vampire-overcomer.md)
-- **Harvest Festival:** [Vampire Overcomer](races-vampire-overcomer.md)
-- **Awakening:** [Vampire Lord](races-vampire-lord.md)
-
-## [Vampire Lord](races-vampire-lord.md)
-
-- **Previous:** [Vampire Overcomer](races-vampire-overcomer.md)
-- **Next:** [Divine Vampire](races-divine-vampire.md)
-- **Named:** [Divine Vampire](races-divine-vampire.md)
-- **Harvest Festival:** None
-- **Awakening:** [Divine Vampire](races-divine-vampire.md)
-
-## [Vampire Overcomer](races-vampire-overcomer.md)
-
-- **Previous:** [Vampire](races-vampire.md)
-- **Next:** [Vampire Lord](races-vampire-lord.md)
-- **Named:** [Vampire Lord](races-vampire-lord.md)
-- **Harvest Festival:** None
-- **Awakening:** [Vampire Lord](races-vampire-lord.md)
-
-## [Verdant Lord](../../mysticism-reference/races/verdant-lord.md)
-
-- **Previous:** [Dryad](../../mysticism-reference/races/dryad.md)
-- **Next:** [Divine Foliaris](../../mysticism-reference/races/divine-foliaris.md)
-
-## [Violence Deity](../../mysticism-reference/races/violence-deity.md)
-
-- **Previous:** [Enflamed Aberration](../../mysticism-reference/races/enflamed-aberration.md)
-
-## [Warden](../../mysticism-reference/races/warden.md)
-
-- **Previous:** [Soul Shrieker](../../mysticism-reference/races/soul-shrieker.md)
-- **Next:** [Soul Aberration](../../mysticism-reference/races/soul-aberration.md)
-
-## [Wasp](../../mysticism-reference/races/wasp.md)
-
-- **Next:** [Army Wasp](../../mysticism-reference/races/army-wasp.md), [Queen Wasp](../../mysticism-reference/races/queen-wasp.md)
-
-## [Water Soul Insect](../../mysticism-reference/races/water-soul-insect.md)
-
-- **Previous:** [Blue Centipede Insectar](../../mysticism-reference/races/blue-centipede-insectar.md)
-- **Next:** [Divine Blue Centipede](../../mysticism-reference/races/divine-blue-centipede.md)
-
-## [Whole](../../mysticism-reference/races/whole.md)
-
-- **Previous:** [Remnant](../../mysticism-reference/races/remnant.md)
-- **Next:** [Ascended](../../mysticism-reference/races/ascended.md)
-
-## [Wicked Oni](races-wicked-oni.md)
-
-- **Previous:** [Kijin](races-kijin.md), [Enlightened Ogre](races-enlightened-ogre.md)
-- **Next:** [Death Oni](races-death-oni.md)
-- **Named:** [Death Oni](races-death-oni.md)
-- **Harvest Festival:** None
-- **Awakening:** [Death Oni](races-death-oni.md)
-
-## [Wight](races-wight.md)
-
-- **Next:** [Human](races-human.md), [Wight King](races-wight-king.md)
-- **Named:** [Wight King](races-wight-king.md)
-- **Harvest Festival:** [Wight King](races-wight-king.md)
-- **Awakening:** [Spirit Skeleton](races-spirit-skeleton.md)
-
-## [Wight King](races-wight-king.md)
-
-- **Previous:** [Wight](races-wight.md)
-- **Next:** [Spirit Skeleton](races-spirit-skeleton.md)
-- **Named:** [Spirit Skeleton](races-spirit-skeleton.md)
-- **Harvest Festival:** None
-- **Awakening:** [Spirit Skeleton](races-spirit-skeleton.md)
-
-## [Wind Soul Insect](../../mysticism-reference/races/wind-soul-insect.md)
-
-- **Previous:** [Army Wasp Insectar](../../mysticism-reference/races/army-wasp-insectar.md)
-- **Next:** [Divine Army Wasp](../../mysticism-reference/races/divine-army-wasp.md)
-
-## [Yellow Centipede](../../mysticism-reference/races/yellow-centipede.md)
-
-- **Previous:** [Centipede](../../mysticism-reference/races/centipede.md)
-- **Next:** [Yellow Centipede Insectar](../../mysticism-reference/races/yellow-centipede-insectar.md)
-
-## [Yellow Centipede Insectar](../../mysticism-reference/races/yellow-centipede-insectar.md)
-
-- **Previous:** [Yellow Centipede](../../mysticism-reference/races/yellow-centipede.md)
-- **Next:** [Yellow Centipede Saint](../../mysticism-reference/races/yellow-centipede-saint.md), [Paralysis Soul Insect](../../mysticism-reference/races/paralysis-soul-insect.md)
-
-## [Yellow Centipede Saint](../../mysticism-reference/races/yellow-centipede-saint.md)
-
-- **Previous:** [Yellow Centipede Insectar](../../mysticism-reference/races/yellow-centipede-insectar.md)
-- **Next:** [Divine Yellow Centipede](../../mysticism-reference/races/divine-yellow-centipede.md)
-
----
-
-Generated from `272` imported race articles; `718` explicit relationship values indexed.
+Browse the current mapped families. Imported forms must match the recorded 1.21.1 registry; a connection remains a source-described relationship, not a complete or independently verified unlock condition.
+
+[Browse race family cards](index.md)
+
+<details class="family-map-details"><summary>Angel · 7 mapped forms</summary>
+<p><a href="../angel/">Open Angel family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Ant · 9 mapped forms</summary>
+<p><a href="../families/ant/">Open Ant family</a></p>
+<ul>
+<li><a href="../families/ant/#ant">Ant</a></li>
+<li><a href="../families/ant/#divine-fire-ant">Divine Fire Ant</a></li>
+<li><a href="../families/ant/#divine-hardshell-ant">Divine Hardshell Ant</a></li>
+<li><a href="../families/ant/#earth-soul-insect">Earth Soul Insect</a></li>
+<li><a href="../families/ant/#fire-ant">Fire Ant</a></li>
+<li><a href="../families/ant/#fire-ant-insectar">Fire Ant Insectar</a></li>
+<li><a href="../families/ant/#hardshell-ant">Hardshell Ant</a></li>
+<li><a href="../families/ant/#hardshell-ant-insectar">Hardshell Ant Insectar</a></li>
+<li><a href="../families/ant/#hardshell-ant-savant">Hardshell Ant Savant</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Attuned Wyrm · 12 mapped forms</summary>
+<p><a href="../families/attuned-wyrm/">Open Attuned Wyrm family</a></p>
+<ul>
+<li><a href="../families/attuned-wyrm/#attuned-wyrm">Attuned Wyrm</a></li>
+<li><a href="../families/attuned-wyrm/#frostcoil-sea-serpent">Frostcoil Sea Serpent</a></li>
+<li><a href="../families/attuned-wyrm/#frostwrought-leviathan">Frostwrought Leviathan</a></li>
+<li><a href="../families/attuned-wyrm/#greater-glacier-wyrm">Greater Glacier Wyrm</a></li>
+<li><a href="../families/attuned-wyrm/#greater-pyre-wyrm">Greater Pyre Wyrm</a></li>
+<li><a href="../families/attuned-wyrm/#lesser-glacier-wyrm">Lesser Glacier Wyrm</a></li>
+<li><a href="../families/attuned-wyrm/#lesser-pyre-wyrm">Lesser Pyre Wyrm</a></li>
+<li><a href="../families/attuned-wyrm/#rimeblight-hydra">Rimeblight Hydra</a></li>
+<li><a href="../families/attuned-wyrm/#rimefang-drake">Rimefang Drake</a></li>
+<li><a href="../families/attuned-wyrm/#scorchtail-salamander">Scorchtail Salamander</a></li>
+<li><a href="../families/attuned-wyrm/#scorchtalon-wyvern">Scorchtalon Wyvern</a></li>
+<li><a href="../families/attuned-wyrm/#sunfire-lindwurm">Sunfire Lindwurm</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Beastfolk · 4 mapped forms</summary>
+<p><a href="../families/beastfolk/">Open Beastfolk family</a></p>
+<ul>
+<li><a href="../families/beastfolk/#races-beast-lord">Beast Lord</a></li>
+<li><a href="../families/beastfolk/#races-beastfolk">Beastfolk</a></li>
+<li><a href="../families/beastfolk/#races-divine-beast">Divine Beast</a></li>
+<li><a href="../families/beastfolk/#races-spirit-beast">Spirit Beast</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Beetle · 10 mapped forms</summary>
+<p><a href="../families/beetle/">Open Beetle family</a></p>
+<ul>
+<li><a href="../families/beetle/#beetle">Beetle</a></li>
+<li><a href="../families/beetle/#divine-drone-beetle">Divine Drone Beetle</a></li>
+<li><a href="../families/beetle/#divine-stag-beetle">Divine Stag Beetle</a></li>
+<li><a href="../families/beetle/#drone-beetle">Drone Beetle</a></li>
+<li><a href="../families/beetle/#drone-beetle-insectar">Drone Beetle Insectar</a></li>
+<li><a href="../families/beetle/#fantasy-soul-insect">Fantasy Soul Insect</a></li>
+<li><a href="../families/beetle/#lightning-soul-insect">Lightning Soul Insect</a></li>
+<li><a href="../families/beetle/#stag-beetle">Stag Beetle</a></li>
+<li><a href="../families/beetle/#stag-beetle-insectar">Stag Beetle Insectar</a></li>
+<li><a href="../families/beetle/#stag-beetle-saint">Stag Beetle Savant</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Centipede · 13 mapped forms</summary>
+<p><a href="../families/centipede/">Open Centipede family</a></p>
+<ul>
+<li><a href="../families/centipede/#blue-centipede">Blue Centipede</a></li>
+<li><a href="../families/centipede/#blue-centipede-insectar">Blue Centipede Insectar</a></li>
+<li><a href="../families/centipede/#centipede">Centipede</a></li>
+<li><a href="../families/centipede/#divine-blue-centipede">Divine Blue Centipede</a></li>
+<li><a href="../families/centipede/#divine-purple-centipede">Divine Purple Centipede</a></li>
+<li><a href="../families/centipede/#divine-yellow-centipede">Divine Yellow Centipede</a></li>
+<li><a href="../families/centipede/#paralysis-soul-insect">Paralysis Soul Insect</a></li>
+<li><a href="../families/centipede/#purple-centipede">Purple Centipede</a></li>
+<li><a href="../families/centipede/#purple-centipede-insectar">Purple Centipede Insectar</a></li>
+<li><a href="../families/centipede/#spatial-soul-insect">Spatial Soul Insect</a></li>
+<li><a href="../families/centipede/#water-soul-insect">Water Soul Insect</a></li>
+<li><a href="../families/centipede/#yellow-centipede">Yellow Centipede</a></li>
+<li><a href="../families/centipede/#yellow-centipede-insectar">Yellow Centipede Insectar</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Direwolf · 14 mapped forms</summary>
+<p><a href="../families/direwolf/">Open Direwolf family</a></p>
+<ul>
+<li><a href="../families/direwolf/#black-fang">Black Fang</a></li>
+<li><a href="../families/direwolf/#blazing-scorch-wolf">Blazing Scorch Wolf</a></li>
+<li><a href="../families/direwolf/#blue-fang">Blue Fang</a></li>
+<li><a href="../families/direwolf/#brown-fang">Brown Fang</a></li>
+<li><a href="../families/direwolf/#direwolf">Direwolf</a></li>
+<li><a href="../families/direwolf/#divine-wolf">Divine Wolf</a></li>
+<li><a href="../families/direwolf/#green-fang">Green Fang</a></li>
+<li><a href="../families/direwolf/#guitar-wolf">Guitar Wolf</a></li>
+<li><a href="../families/direwolf/#light-fang">Light Fang</a></li>
+<li><a href="../families/direwolf/#molten-spirit-wolf">Molten Spirit Wolf</a></li>
+<li><a href="../families/direwolf/#mystical-black-fang">Mystical Black Fang</a></li>
+<li><a href="../families/direwolf/#purple-fang">Purple Fang</a></li>
+<li><a href="../families/direwolf/#red-fang">Red Fang</a></li>
+<li><a href="../families/direwolf/#scorch-wolf">Scorch Wolf</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Djinn · 10 mapped forms</summary>
+<p><a href="../djinn/">Open Djinn family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Dragonoid · 2 mapped forms</summary>
+<p><a href="../families/dragonoid/">Open Dragonoid family</a></p>
+<ul>
+<li><a href="../families/dragonoid/#dragonoid">Dragonoid</a></li>
+<li><a href="../families/dragonoid/#true-dragonoid">True Dragonoid</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Dwarf · 4 mapped forms</summary>
+<p><a href="../families/dwarf/">Open Dwarf family</a></p>
+<ul>
+<li><a href="../families/dwarf/#races-divine-dwarf">Divine Dwarf</a></li>
+<li><a href="../families/dwarf/#races-dwarf">Dwarf</a></li>
+<li><a href="../families/dwarf/#races-dwarf-saint">Dwarf Saint</a></li>
+<li><a href="../families/dwarf/#races-enlightened-dwarf">Enlightened Dwarf</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Elf · 4 mapped forms</summary>
+<p><a href="../families/elf/">Open Elf family</a></p>
+<ul>
+<li><a href="../families/elf/#races-divine-elf">Divine Elf</a></li>
+<li><a href="../families/elf/#races-elf">Elf</a></li>
+<li><a href="../families/elf/#races-elf-saint">Elf Saint</a></li>
+<li><a href="../families/elf/#races-enlightened-elf">Enlightened Elf</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Forgotten · 8 mapped forms</summary>
+<p><a href="../families/forgotten/">Open Forgotten family</a></p>
+<ul>
+<li><a href="../families/forgotten/#ascended">Ascended</a></li>
+<li><a href="../families/forgotten/#divine-excelsius">Divine Excelsius</a></li>
+<li><a href="../families/forgotten/#divine-inferius">Divine Inferius</a></li>
+<li><a href="../families/forgotten/#empty">Empty</a></li>
+<li><a href="../families/forgotten/#forgotten">Forgotten</a></li>
+<li><a href="../families/forgotten/#remnant">Remnant</a></li>
+<li><a href="../families/forgotten/#revenant">Revenant</a></li>
+<li><a href="../families/forgotten/#whole">Whole</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Frog · 7 mapped forms</summary>
+<p><a href="../frog/">Open Frog family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Gazer · 6 mapped forms</summary>
+<p><a href="../gazer/">Open Gazer family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Ghoul · 5 mapped forms</summary>
+<p><a href="../families/ghoul/">Open Ghoul family</a></p>
+<ul>
+<li><a href="../families/ghoul/#races-divine-vampire">Divine Vampire</a></li>
+<li><a href="../families/ghoul/#races-ghoul">Ghoul</a></li>
+<li><a href="../families/ghoul/#races-vampire">Vampire</a></li>
+<li><a href="../families/ghoul/#races-vampire-lord">Vampire Lord</a></li>
+<li><a href="../families/ghoul/#races-vampire-overcomer">Vampire Overcomer</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Giant · 3 mapped forms</summary>
+<p><a href="../families/giant/">Open Giant family</a></p>
+<ul>
+<li><a href="../families/giant/#races-ancient-giant">Ancient Giant</a></li>
+<li><a href="../families/giant/#races-divine-giant">Divine Giant</a></li>
+<li><a href="../families/giant/#races-giant">Giant</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Goblin · 4 mapped forms</summary>
+<p><a href="../families/goblin/">Open Goblin family</a></p>
+<ul>
+<li><a href="../families/goblin/#races-enlightened-hobgoblin">Enlightened Hobgoblin</a></li>
+<li><a href="../families/goblin/#races-goblin">Goblin</a></li>
+<li><a href="../families/goblin/#races-hobgoblin">Hobgoblin</a></li>
+<li><a href="../families/goblin/#races-hobgoblin-saint">Hobgoblin Saint</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Greater Doll · 6 mapped forms</summary>
+<p><a href="../families/greater-doll/">Open Greater Doll family</a></p>
+<ul>
+<li><a href="../families/greater-doll/#archdoll">Archdoll</a></li>
+<li><a href="../families/greater-doll/#chaos-doll">Chaos Doll</a></li>
+<li><a href="../families/greater-doll/#chaos-metalloid">Chaos Metalloid</a></li>
+<li><a href="../families/greater-doll/#daemon-doll">Daemon Doll</a></li>
+<li><a href="../families/greater-doll/#devil-doll">Devil Doll</a></li>
+<li><a href="../families/greater-doll/#greater-doll">Greater Doll</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Harpy · 4 mapped forms</summary>
+<p><a href="../families/harpy/">Open Harpy family</a></p>
+<ul>
+<li><a href="../families/harpy/#races-divine-bird">Divine  Bird</a></li>
+<li><a href="../families/harpy/#races-harpy">Harpy</a></li>
+<li><a href="../families/harpy/#races-harpy-queen">Harpy Queen</a></li>
+<li><a href="../families/harpy/#races-spirit-bird">Spirit Bird</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Human · 4 mapped forms</summary>
+<p><a href="../families/human/">Open Human family</a></p>
+<ul>
+<li><a href="../families/human/#races-divine-human">Divine Human</a></li>
+<li><a href="../families/human/#races-enlightened-human">Enlightened Human</a></li>
+<li><a href="../families/human/#races-human">Human</a></li>
+<li><a href="../families/human/#races-human-saint">Human Saint</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Kitsune · 4 mapped forms</summary>
+<p><a href="../kitsune/">Open Kitsune family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Lesser Angel · 14 mapped forms</summary>
+<p><a href="../families/lesser-angel/">Open Lesser Angel family</a></p>
+<ul>
+<li><a href="../families/lesser-angel/#arch-angel">Arch Angel</a></li>
+<li><a href="../families/lesser-angel/#arch-fallen">Arch Fallen</a></li>
+<li><a href="../families/lesser-angel/#cherub">Cherub</a></li>
+<li><a href="../families/lesser-angel/#fallen">Fallen</a></li>
+<li><a href="../families/lesser-angel/#fallen-arch-angel">Fallen Arch Angel</a></li>
+<li><a href="../families/lesser-angel/#fallen-cherub">Fallen Cherub</a></li>
+<li><a href="../families/lesser-angel/#fallen-greater-angel">Fallen Greater Angel</a></li>
+<li><a href="../families/lesser-angel/#fallen-lesser-angel">Fallen Lesser Angel</a></li>
+<li><a href="../families/lesser-angel/#fallen-lord">Fallen Lord</a></li>
+<li><a href="../families/lesser-angel/#greater-angel">Greater Angel</a></li>
+<li><a href="../families/lesser-angel/#greater-fallen">Greater Fallen</a></li>
+<li><a href="../families/lesser-angel/#lesser-angel">Lesser Angel</a></li>
+<li><a href="../families/lesser-angel/#lesser-fallen">Lesser Fallen</a></li>
+<li><a href="../families/lesser-angel/#seraphim">Seraph</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Lesser Daemon · 5 mapped forms</summary>
+<p><a href="../families/lesser-daemon/">Open Lesser Daemon family</a></p>
+<ul>
+<li><a href="../families/lesser-daemon/#races-arch-daemon">Arch Daemon</a></li>
+<li><a href="../families/lesser-daemon/#races-daemon-lord">Daemon Lord</a></li>
+<li><a href="../families/lesser-daemon/#races-devil-lord">Devil Lord</a></li>
+<li><a href="../families/lesser-daemon/#races-greater-daemon">Greater Daemon</a></li>
+<li><a href="../families/lesser-daemon/#races-lesser-daemon">Lesser Daemon</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Lesser Elemental · 5 mapped forms</summary>
+<p><a href="../families/lesser-elemental/">Open Lesser Elemental family</a></p>
+<ul>
+<li><a href="../families/lesser-elemental/#divine-elemental">Divine Elemental</a></li>
+<li><a href="../families/lesser-elemental/#elemental-lord">Elemental Lord</a></li>
+<li><a href="../families/lesser-elemental/#greater-elemental">Greater Elemental</a></li>
+<li><a href="../families/lesser-elemental/#lesser-elemental">Lesser Elemental</a></li>
+<li><a href="../families/lesser-elemental/#medium-elemental">Medium Elemental</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Lizardman · 4 mapped forms</summary>
+<p><a href="../families/lizardman/">Open Lizardman family</a></p>
+<ul>
+<li><a href="../families/lizardman/#races-divine-dragon">Divine Dragon</a></li>
+<li><a href="../families/lizardman/#races-dragonewt">Dragonewt</a></li>
+<li><a href="../families/lizardman/#races-lizardman">Lizardman</a></li>
+<li><a href="../families/lizardman/#races-true-dragonewt">True Dragonewt</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Mantis · 11 mapped forms</summary>
+<p><a href="../families/mantis/">Open Mantis family</a></p>
+<ul>
+<li><a href="../families/mantis/#corrosion-soul-insect">Corrosion Soul Insect</a></li>
+<li><a href="../families/mantis/#divine-lixivant-mantis">Divine Lixivant Mantis</a></li>
+<li><a href="../families/mantis/#divine-preying-mantis">Divine Preying Mantis</a></li>
+<li><a href="../families/mantis/#lixivant-mantis">Lixivant Mantis</a></li>
+<li><a href="../families/mantis/#lixivant-mantis-insectar">Lixivant Mantis Insectar</a></li>
+<li><a href="../families/mantis/#lixivant-mantis-savant">Lixivant Mantis Savant</a></li>
+<li><a href="../families/mantis/#mantis">Mantis</a></li>
+<li><a href="../families/mantis/#preying-mantis">Preying Mantis</a></li>
+<li><a href="../families/mantis/#preying-mantis-insectar">Preying Mantis Insectar</a></li>
+<li><a href="../families/mantis/#preying-mantis-savant">Preying Mantis Savant</a></li>
+<li><a href="../families/mantis/#steel-soul-insect">Steel Soul Insect</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Merfolk · 4 mapped forms</summary>
+<p><a href="../families/merfolk/">Open Merfolk family</a></p>
+<ul>
+<li><a href="../families/merfolk/#races-divine-fish">Divine Fish</a></li>
+<li><a href="../families/merfolk/#races-enlightened-merfolk">Enlightened Merfolk</a></li>
+<li><a href="../families/merfolk/#races-merfolk">Merfolk</a></li>
+<li><a href="../families/merfolk/#races-merfolk-saint">Merfolk Saint</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Monkey · 6 mapped forms</summary>
+<p><a href="../monkey/">Open Monkey family</a></p>
+<ul>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Ogre · 9 mapped forms</summary>
+<p><a href="../families/ogre/">Open Ogre family</a></p>
+<ul>
+<li><a href="../families/ogre/#races-death-oni">Death Oni</a></li>
+<li><a href="../families/ogre/#races-divine-fighter">Divine Fighter</a></li>
+<li><a href="../families/ogre/#races-divine-oni">Divine Oni</a></li>
+<li><a href="../families/ogre/#races-enlightened-ogre">Enlightened Ogre</a></li>
+<li><a href="../families/ogre/#races-kijin">Kijin</a></li>
+<li><a href="../families/ogre/#races-mystic-oni">Mystic Oni</a></li>
+<li><a href="../families/ogre/#races-ogre">Ogre</a></li>
+<li><a href="../families/ogre/#races-spirit-oni">Spirit Oni</a></li>
+<li><a href="../families/ogre/#races-wicked-oni">Wicked Oni</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Orc · 6 mapped forms</summary>
+<p><a href="../families/orc/">Open Orc family</a></p>
+<ul>
+<li><a href="../families/orc/#races-divine-boar">Divine Boar</a></li>
+<li><a href="../families/orc/#races-high-orc">High Orc</a></li>
+<li><a href="../families/orc/#races-orc">Orc</a></li>
+<li><a href="../families/orc/#races-orc-disaster">Orc Disaster</a></li>
+<li><a href="../families/orc/#races-orc-lord">Orc Lord</a></li>
+<li><a href="../families/orc/#races-spirit-boar">Spirit Boar</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Phantom · 5 mapped forms</summary>
+<p><a href="../families/phantom/">Open Phantom family</a></p>
+<ul>
+<li><a href="../families/phantom/#field-officer">Field Officer</a></li>
+<li><a href="../families/phantom/#general">General</a></li>
+<li><a href="../families/phantom/#mystic-angel">Mystic Angel</a></li>
+<li><a href="../families/phantom/#phantom">Phantom</a></li>
+<li><a href="../families/phantom/#staff-officer">Staff Officer</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Restricted Human · 4 mapped forms</summary>
+<p><a href="../families/restricted-human/">Open Restricted Human family</a></p>
+<ul>
+<li><a href="../families/restricted-human/#bound-enlightenment">Bound Enlightenment</a></li>
+<li><a href="../families/restricted-human/#heavenly-restriction">Heavenly Restriction</a></li>
+<li><a href="../families/restricted-human/#restricted-human">Restricted Human</a></li>
+<li><a href="../families/restricted-human/#restricted-saint">Restricted Saint</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Scorpion · 11 mapped forms</summary>
+<p><a href="../families/scorpion/">Open Scorpion family</a></p>
+<ul>
+<li><a href="../families/scorpion/#divine-loxodrome-scorpion">Divine Loxodrome Scorpion</a></li>
+<li><a href="../families/scorpion/#divine-singularity-scorpion">Divine Singularity Scorpion</a></li>
+<li><a href="../families/scorpion/#gravity-soul-insect">Gravity Soul Insect</a></li>
+<li><a href="../families/scorpion/#loxodrome-scorpion">Loxodrome Scorpion</a></li>
+<li><a href="../families/scorpion/#loxodrome-scorpion-insectar">Loxodrome Scorpion Insectar</a></li>
+<li><a href="../families/scorpion/#loxodrome-scorpion-savant">Loxodrome Scorpion Savant</a></li>
+<li><a href="../families/scorpion/#poison-soul-insect">Poison Soul Insect</a></li>
+<li><a href="../families/scorpion/#scorpion">Scorpion</a></li>
+<li><a href="../families/scorpion/#singularity-scorpion">Singularity Scorpion</a></li>
+<li><a href="../families/scorpion/#singularity-scorpion-insectar">Singularity Scorpion Insectar</a></li>
+<li><a href="../families/scorpion/#singularity-scorpion-savant">Singularity Scorpion Savant</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Sculk Worm · 13 mapped forms</summary>
+<p><a href="../families/sculk-worm/">Open Sculk Worm family</a></p>
+<ul>
+<li><a href="../families/sculk-worm/#charged-perforator">Charged Perforator</a></li>
+<li><a href="../families/sculk-worm/#dissonance-deity">Dissonance Deity</a></li>
+<li><a href="../families/sculk-worm/#enflamed-aberration">Enflamed Aberration</a></li>
+<li><a href="../families/sculk-worm/#lightning-aberration">Lightning Aberration</a></li>
+<li><a href="../families/sculk-worm/#magma-worm">Magma Worm</a></li>
+<li><a href="../families/sculk-worm/#molten-perforator">Molten Perforator</a></li>
+<li><a href="../families/sculk-worm/#overloading-worm">Overloading Worm</a></li>
+<li><a href="../families/sculk-worm/#reaper-aberration">Reaper Aberration</a></li>
+<li><a href="../families/sculk-worm/#sculk-worm">Sculk Worm</a></li>
+<li><a href="../families/sculk-worm/#soul-aberration">Soul Aberration</a></li>
+<li><a href="../families/sculk-worm/#soul-shrieker">Soul Shrieker</a></li>
+<li><a href="../families/sculk-worm/#violence-deity">Violence Deity</a></li>
+<li><a href="../families/sculk-worm/#warden">Warden</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Slime · 4 mapped forms</summary>
+<p><a href="../families/slime/">Open Slime family</a></p>
+<ul>
+<li><a href="../families/slime/#races-demon-slime">Demon Slime</a></li>
+<li><a href="../families/slime/#races-god-slime">God Slime</a></li>
+<li><a href="../families/slime/#races-metal-slime">Metal Slime</a></li>
+<li><a href="../families/slime/#races-slime">Slime</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Tengu · 3 mapped forms</summary>
+<p><a href="../families/tengu/">Open Tengu family</a></p>
+<ul>
+<li><a href="../families/tengu/#divine-tengu">Divine Tengu</a></li>
+<li><a href="../families/tengu/#tengu">Tengu Race</a></li>
+<li><a href="../families/tengu/#tengu-saint">Tengu Saint</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Wasp · 8 mapped forms</summary>
+<p><a href="../families/wasp/">Open Wasp family</a></p>
+<ul>
+<li><a href="../families/wasp/#army-wasp">Army Wasp</a></li>
+<li><a href="../families/wasp/#army-wasp-insectar">Army Wasp Insectar</a></li>
+<li><a href="../families/wasp/#divine-army-wasp">Divine Army Wasp</a></li>
+<li><a href="../families/wasp/#queen-wasp">Queen Wasp</a></li>
+<li><a href="../families/wasp/#queen-wasp-insectar">Queen Wasp Insectar</a></li>
+<li><a href="../families/wasp/#star-soul-insect">Star Soul Insect</a></li>
+<li><a href="../families/wasp/#wasp">Wasp</a></li>
+<li><a href="../families/wasp/#wind-soul-insect">Wind Soul Insect</a></li>
+</ul>
+</details>
+
+<details class="family-map-details"><summary>Wight · 4 mapped forms</summary>
+<p><a href="../families/wight/">Open Wight family</a></p>
+<ul>
+<li><a href="../families/wight/#races-divine-skeleton">Divine Skeleton</a></li>
+<li><a href="../families/wight/#races-spirit-skeleton">Spirit Skeleton</a></li>
+<li><a href="../families/wight/#races-wight">Wight</a></li>
+<li><a href="../families/wight/#races-wight-king">Wight King</a></li>
+</ul>
+</details>

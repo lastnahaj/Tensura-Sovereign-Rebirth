@@ -78,28 +78,28 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire</strong>
-<small>&quot; I vant to suck your blood &quot;</small>
+<small>" I vant to suck your blood "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire-overcomer/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Overcomer</strong>
-<small>&quot; Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
+<small>" Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-true-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>True Dragonewt</strong>
-<small>&quot; still not a dragon... stay mad &quot;</small>
+<small>" still not a dragon... stay mad "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-wicked-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Wicked Oni</strong>
 <small>Death Oni - 400,000 EP</small>

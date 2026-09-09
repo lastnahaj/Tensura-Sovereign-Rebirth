@@ -10,6 +10,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 from bs4 import BeautifulSoup
+from race_catalogue import is_race_form
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -32,6 +33,8 @@ def build() -> dict:
     for source, manifest in manifests.items():
         for record in manifest["pages"]:
             category = record["category"]
+            if category == "races" and not is_race_form(record):
+                continue
             if category not in {"races", "battlewill", "magic", "resistances"} and not category.startswith("skills/"):
                 continue
             page = record["local_page"]

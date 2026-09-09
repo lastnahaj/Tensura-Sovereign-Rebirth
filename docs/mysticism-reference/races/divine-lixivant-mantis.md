@@ -70,29 +70,22 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../divine-knight-spider/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Divine Knight Spider</strong>
-<small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../divine-loxodrome-scorpion/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Loxodrome Scorpion</strong>
 <small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-inferius/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Inferius</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-preying-mantis/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Preying Mantis</strong>
 <small>1.21.1 – Added to the game 1.19.2 – ???</small>

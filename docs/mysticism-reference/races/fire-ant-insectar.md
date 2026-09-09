@@ -79,31 +79,17 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../fire-ant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Fire Ant</strong>
 <small>Has 7 armor points. (if possible, move this to the specific stats section.)</small>
 </span>
 </a>
-<a class="reference-related-card" href="../fire-ant-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Fire Ant Saint</strong>
-<small>Divine Fire Ant - 2 Million EP</small>
-</span>
-</a>
 <a class="reference-related-card" href="../field-officer/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Field Officer</strong>
 <small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../flame-soul-ant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Flame Soul Ant</strong>
-<small>Divine Fire Ant - 2 Million EP</small>
 </span>
 </a>
 </div>

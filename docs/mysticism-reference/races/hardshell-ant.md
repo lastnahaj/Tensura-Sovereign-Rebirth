@@ -81,31 +81,24 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../guitar-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Guitar Wolf</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hardshell-ant-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Hardshell Ant Insectar</strong>
 <small>Has 15 armor points. (if possible, move this to the specific stats section.)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../green-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Green Fang</strong>
 <small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hardshell-insectar-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hardshell Ant Saint</strong>
-<small>Divine Hardshell Ant = 2 Million EP</small>
 </span>
 </a>
 </div>

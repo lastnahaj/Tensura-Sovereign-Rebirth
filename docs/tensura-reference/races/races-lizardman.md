@@ -106,31 +106,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-lesser-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Daemon</strong>
 <small>The lowest level of the daemon race. They spontaneously come into existence within the Daemon Realm, where they slowly…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-merfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Merfolk</strong>
-<small>&quot; I&#x27;m under da water... blub &quot;</small>
+<small>" I'm under da water... blub "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-kijin/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Kijin</strong>
-<small>&quot; Ahahahahaha... You&#x27;re Kijin me! &quot;</small>
+<small>" Ahahahahaha... You're Kijin me! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-merfolk-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Merfolk Saint</strong>
-<small>&quot; They&#x27;re just making random names now &quot;</small>
+<small>" They're just making random names now "</small>
 </span>
 </a>
 </div>

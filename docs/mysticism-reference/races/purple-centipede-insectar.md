@@ -80,28 +80,21 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../purple-centipede/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Purple Centipede</strong>
 <small>Purple Centipede Insectar - 100K EP.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../purple-centipede-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Purple Centipede Saint</strong>
-<small>Divine Purple Centipede - 2M EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../preying-mantis-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Preying Mantis Savant</strong>
 <small>Divine Preying Mantis - 2M EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../purple-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Purple Fang</strong>
 <small>(Remove this once finalized)</small>

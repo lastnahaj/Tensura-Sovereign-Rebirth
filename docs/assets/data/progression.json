@@ -1270,11 +1270,6 @@
       "image": "assets/upstream/tensura/magic/protection-6852075bc2.png",
       "category": "magic"
     },
-    "tensura-reference/races/races/": {
-      "title": "Races",
-      "image": "assets/upstream/tensura/races/raceslime-0c1d6d9158.png",
-      "category": "races"
-    },
     "tensura-reference/races/races-ancient-giant/": {
       "title": "Ancient Giant",
       "image": "assets/images/reference-races-evolution.png",
@@ -2195,11 +2190,6 @@
       "image": "assets/upstream/mysticism/magic/spiritualicon-be2b1f48f6.png",
       "category": "magic"
     },
-    "mysticism-reference/races/angel/": {
-      "title": "Angel",
-      "image": "assets/upstream/mysticism/races/fallenangel-f6645f3aed.jpg",
-      "category": "races"
-    },
     "mysticism-reference/races/ant/": {
       "title": "Ant",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2230,11 +2220,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/army-wasp-saint/": {
-      "title": "Army Wasp Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/ascended/": {
       "title": "Ascended",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2255,26 +2240,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/black-spider/": {
-      "title": "Black Spider",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/black-spider-insectar/": {
-      "title": "Black Spider Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/black-spider-saint/": {
-      "title": "Black Spider Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/blaze-wolf/": {
-      "title": "Blaze Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/blazing-scorch-wolf/": {
       "title": "Blazing Scorch Wolf",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2287,11 +2252,6 @@
     },
     "mysticism-reference/races/blue-centipede-insectar/": {
       "title": "Blue Centipede Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/blue-centipede-saint/": {
-      "title": "Blue Centipede Saint",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -2395,11 +2355,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/dark-fang/": {
-      "title": "Dark Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/skills/extra/darkness-domination/": {
       "title": "Darkness Domination",
       "image": "assets/icons/skills/mysticism-darkness_domination.svg",
@@ -2409,21 +2364,6 @@
       "title": "Darkness Manipulation",
       "image": "assets/icons/skills/mysticism-darkness_manipulation.svg",
       "category": "skills/extra"
-    },
-    "mysticism-reference/races/deathstalker-scorpion/": {
-      "title": "Deathstalker Scorpion",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/deathstalker-scorpion-insectar/": {
-      "title": "Deathstalker Scorpion Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/deathstalker-scorpion-saint/": {
-      "title": "Deathstalker Scorpion Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
     },
     "mysticism-reference/races/devil-doll/": {
       "title": "Devil Doll",
@@ -2455,18 +2395,8 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/divine-black-spider/": {
-      "title": "Divine Black Spider",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/divine-blue-centipede/": {
       "title": "Divine Blue Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/divine-deathstalker-scorpion/": {
-      "title": "Divine Deathstalker Scorpion",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -2480,11 +2410,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/divine-empress-wasp/": {
-      "title": "Divine Empress Wasp",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/divine-excelsius/": {
       "title": "Divine Excelsius",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2495,11 +2420,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/divine-foliaris/": {
-      "title": "Divine Foliaris",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/divine-hardshell-ant/": {
       "title": "Divine Hardshell Ant",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2507,11 +2427,6 @@
     },
     "mysticism-reference/races/divine-inferius/": {
       "title": "Divine Inferius",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/divine-knight-spider/": {
-      "title": "Divine Knight Spider",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -2580,16 +2495,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/drone-beetle-saint/": {
-      "title": "Drone Beetle Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/dryad/": {
-      "title": "Dryad",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/earth-soul-insect/": {
       "title": "Earth Soul Insect",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2597,11 +2502,6 @@
     },
     "mysticism-reference/races/elemental-lord/": {
       "title": "Elemental Lord",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/empress-wasp/": {
-      "title": "Empress Wasp",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -2655,11 +2555,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/fallen-seraphim/": {
-      "title": "Fallen Seraphim",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/fantasy-soul-insect/": {
       "title": "Fantasy Soul Insect",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2680,16 +2575,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/fire-ant-saint/": {
-      "title": "Fire Ant Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/flame-soul-ant/": {
-      "title": "Flame Soul Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/forgotten/": {
       "title": "Forgotten",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2697,11 +2582,6 @@
     },
     "mysticism-reference/races/frostcoil-sea-serpent/": {
       "title": "Frostcoil Sea Serpent",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/frostfang-wolf/": {
-      "title": "Frostfang Wolf",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -2785,11 +2665,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/hardshell-insectar-saint/": {
-      "title": "Hardshell Ant Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/heavenly-restriction/": {
       "title": "Heavenly Restriction",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -2814,26 +2689,6 @@
       "title": "Ice Manipulation",
       "image": "assets/icons/skills/mysticism-ice_manipulation.svg",
       "category": "skills/extra"
-    },
-    "mysticism-reference/races/insect/": {
-      "title": "Insect",
-      "image": "assets/upstream/mysticism/races/skillicon-2d9be4e24c.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/knight-spider/": {
-      "title": "Knight Spider",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/knight-spider-insectar/": {
-      "title": "Knight Spider Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/knight-spider-saint/": {
-      "title": "Knight Spider Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
     },
     "mysticism-reference/skills/unique/kyurem/": {
       "title": "Kyurem",
@@ -2930,16 +2785,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/magic-fang/": {
-      "title": "Magic Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/magic-sprit-wolf/": {
-      "title": "Magic Spirit Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/skills/intrinsic/magisteel-body/": {
       "title": "Magisteel Body",
       "image": "assets/icons/skills/mysticism-magisteel_body.svg",
@@ -2990,46 +2835,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/mystic-blue-fang/": {
-      "title": "Mystic Blue Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-brown-fang/": {
-      "title": "Mystic Brown Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-dark-fang/": {
-      "title": "Mystic Dark Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-green-fang/": {
-      "title": "Mystic Green Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-light-fang/": {
-      "title": "Mystic Light Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-magic-fang/": {
-      "title": "Mystic Magic Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-purple-fang/": {
-      "title": "Mystic Purple Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/mystic-red-fang/": {
-      "title": "Mystic Red Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/mystical-black-fang/": {
       "title": "Mystical Black Fang",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -3059,11 +2864,6 @@
       "title": "Phaser",
       "image": "assets/icons/skills/mysticism-phaser.svg",
       "category": "skills/unique"
-    },
-    "mysticism-reference/races/pixie/": {
-      "title": "Pixie",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
     },
     "mysticism-reference/races/poison-soul-insect/": {
       "title": "Poison Soul Insect",
@@ -3110,11 +2910,6 @@
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
-    "mysticism-reference/races/purple-centipede-saint/": {
-      "title": "Purple Centipede Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/purple-fang/": {
       "title": "Purple Fang",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -3128,11 +2923,6 @@
     "mysticism-reference/races/queen-wasp-insectar/": {
       "title": "Queen Wasp Insectar",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/races/": {
-      "title": "Races",
-      "image": "assets/upstream/mysticism/races/skillicon-2d9be4e24c.png",
       "category": "races"
     },
     "mysticism-reference/races/reaper-aberration/": {
@@ -3240,11 +3030,6 @@
       "image": "assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png",
       "category": "races"
     },
-    "mysticism-reference/races/silk-soul-insect/": {
-      "title": "Silk Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/singularity-scorpion/": {
       "title": "Singularity Scorpion",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
@@ -3285,11 +3070,6 @@
       "image": "assets/upstream/mysticism/magic/spatial-void-ea014cc329.png",
       "category": "magic"
     },
-    "mysticism-reference/races/spider/": {
-      "title": "Spider",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/skills/unique/spiritualist/": {
       "title": "Spiritualist",
       "image": "assets/icons/skills/mysticism-spiritualist.svg",
@@ -3320,28 +3100,8 @@
       "image": "assets/icons/skills/mysticism-stagnator.svg",
       "category": "skills/unique"
     },
-    "mysticism-reference/races/star-blaze-wolf/": {
-      "title": "Star Blaze Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/star-frostfang-wolf/": {
-      "title": "Star Frostfang Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/star-guitar-wolf/": {
-      "title": "Star Guitar Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/star-soul-insect/": {
       "title": "Star Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/star-tempest-wolf/": {
-      "title": "Star Tempest Wolf",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -3355,18 +3115,8 @@
       "image": "assets/icons/skills/mysticism-subjugator.svg",
       "category": "skills/unique"
     },
-    "mysticism-reference/races/sundiety-loong/": {
-      "title": "Sundiety Loong",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
     "mysticism-reference/races/sunfire-lindwurm/": {
       "title": "Sunfire Lindwurm",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/tempest-wolf/": {
-      "title": "Tempest Wolf",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -3388,11 +3138,6 @@
     "mysticism-reference/races/true-dragonoid/": {
       "title": "True Dragonoid",
       "image": "assets/images/reference-races-evolution.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/verdant-lord/": {
-      "title": "Verdant Lord",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
     "mysticism-reference/skills/unique/victorious-harbinger/": {
@@ -3437,11 +3182,6 @@
     },
     "mysticism-reference/races/yellow-centipede-insectar/": {
       "title": "Yellow Centipede Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
-      "category": "races"
-    },
-    "mysticism-reference/races/yellow-centipede-saint/": {
-      "title": "Yellow Centipede Saint",
       "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "category": "races"
     },
@@ -4801,14 +4541,6 @@
     },
     {
       "from": "mysticism-reference/races/army-wasp-insectar/",
-      "to": "mysticism-reference/races/army-wasp-saint/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/army-wasp-insectar/",
       "to": "mysticism-reference/races/wind-soul-insect/",
       "kinds": [
         "Next",
@@ -4817,14 +4549,6 @@
       "requirements": [
         "Army Wasp Insectar"
       ]
-    },
-    {
-      "from": "mysticism-reference/races/army-wasp-saint/",
-      "to": "mysticism-reference/races/divine-army-wasp/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
     },
     {
       "from": "mysticism-reference/races/army-wasp/",
@@ -4904,61 +4628,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/black-spider-insectar/",
-      "to": "mysticism-reference/races/black-spider-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Black Spider Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/black-spider-insectar/",
-      "to": "mysticism-reference/races/silk-soul-insect/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Black Spider Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/black-spider-saint/",
-      "to": "mysticism-reference/races/divine-black-spider/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Black Spider Saint , Silk Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/black-spider/",
-      "to": "mysticism-reference/races/black-spider-insectar/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Black Spider"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/blaze-wolf/",
-      "to": "mysticism-reference/races/star-blaze-wolf/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Blaze Wolf"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/blazing-scorch-wolf/",
       "to": "mysticism-reference/races/molten-spirit-wolf/",
       "kinds": [
@@ -4967,17 +4636,6 @@
       ],
       "requirements": [
         "Blazing Scorch Wolf"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/blue-centipede-insectar/",
-      "to": "mysticism-reference/races/blue-centipede-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Blue Centipede Insectar"
       ]
     },
     {
@@ -4992,17 +4650,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/blue-centipede-saint/",
-      "to": "mysticism-reference/races/divine-blue-centipede/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Blue Centipede Saint , Water Soul Insect"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/blue-centipede/",
       "to": "mysticism-reference/races/blue-centipede-insectar/",
       "kinds": [
@@ -5014,17 +4661,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/blue-fang/",
-      "to": "mysticism-reference/races/mystic-blue-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Blue Fang"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/bound-enlightenment/",
       "to": "mysticism-reference/races/heavenly-restriction/",
       "kinds": [
@@ -5033,17 +4669,6 @@
       ],
       "requirements": [
         "Bound Enlightenment"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/brown-fang/",
-      "to": "mysticism-reference/races/mystic-brown-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Brown Fang"
       ]
     },
     {
@@ -5136,16 +4761,6 @@
     },
     {
       "from": "mysticism-reference/races/corrosion-soul-insect/",
-      "to": "mysticism-reference/races/divine-deathstalker-scorpion/",
-      "kinds": [
-        "Evolution"
-      ],
-      "requirements": [
-        "Deathstalker Scorpion Saint , Corrosion Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/corrosion-soul-insect/",
       "to": "mysticism-reference/races/divine-lixivant-mantis/",
       "kinds": [
         "Next"
@@ -5164,73 +4779,11 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/dark-fang/",
-      "to": "mysticism-reference/races/mystic-dark-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Dark Fang"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/deathstalker-scorpion-insectar/",
-      "to": "mysticism-reference/races/corrosion-soul-insect/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/deathstalker-scorpion-insectar/",
-      "to": "mysticism-reference/races/deathstalker-scorpion-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Deathstalker Scorpion Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/deathstalker-scorpion-saint/",
-      "to": "mysticism-reference/races/divine-deathstalker-scorpion/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Deathstalker Scorpion Saint , Corrosion Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/deathstalker-scorpion/",
-      "to": "mysticism-reference/races/deathstalker-scorpion-insectar/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Deathstalker Scorpion"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/direwolf/",
       "to": "mysticism-reference/races/black-fang/",
       "kinds": [
         "Evolution",
         "Next"
-      ],
-      "requirements": [
-        "Direwolf"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/direwolf/",
-      "to": "mysticism-reference/races/blaze-wolf/",
-      "kinds": [
-        "Evolution"
       ],
       "requirements": [
         "Direwolf"
@@ -5253,28 +4806,6 @@
       "kinds": [
         "Evolution",
         "Next"
-      ],
-      "requirements": [
-        "Direwolf"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/direwolf/",
-      "to": "mysticism-reference/races/dark-fang/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Direwolf"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/direwolf/",
-      "to": "mysticism-reference/races/frostfang-wolf/",
-      "kinds": [
-        "Next",
-        "Evolution"
       ],
       "requirements": [
         "Direwolf"
@@ -5315,16 +4846,6 @@
     },
     {
       "from": "mysticism-reference/races/direwolf/",
-      "to": "mysticism-reference/races/magic-fang/",
-      "kinds": [
-        "Evolution"
-      ],
-      "requirements": [
-        "Direwolf"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/direwolf/",
       "to": "mysticism-reference/races/purple-fang/",
       "kinds": [
         "Next",
@@ -5357,17 +4878,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/direwolf/",
-      "to": "mysticism-reference/races/tempest-wolf/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Direwolf"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/dragonoid/",
       "to": "mysticism-reference/races/true-dragonoid/",
       "kinds": [
@@ -5376,17 +4886,6 @@
       ],
       "requirements": [
         "Dragonoid"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/drone-beetle-insectar/",
-      "to": "mysticism-reference/races/drone-beetle-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Drone Beetle Insectar"
       ]
     },
     {
@@ -5401,17 +4900,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/drone-beetle-saint/",
-      "to": "mysticism-reference/races/divine-drone-beetle/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Drone Beetle Saint , Lightning Soul Insect"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/drone-beetle/",
       "to": "mysticism-reference/races/drone-beetle-insectar/",
       "kinds": [
@@ -5420,17 +4908,6 @@
       ],
       "requirements": [
         "Drone Beetle"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/dryad/",
-      "to": "mysticism-reference/races/verdant-lord/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Dryad"
       ]
     },
     {
@@ -5453,17 +4930,6 @@
       ],
       "requirements": [
         "Elemental Lord"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/empress-wasp/",
-      "to": "mysticism-reference/races/divine-empress-wasp/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Empress Wasp Star Soul Insect"
       ]
     },
     {
@@ -5532,17 +4998,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/fallen-cherub/",
-      "to": "mysticism-reference/races/fallen-seraphim/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Fallen Cherub , Seraphim"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/fallen-greater-angel/",
       "to": "mysticism-reference/races/fallen-arch-angel/",
       "kinds": [
@@ -5598,17 +5053,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/fallen-seraphim/",
-      "to": "mysticism-reference/races/fallen/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Fallen Lord , Fallen Seraphim"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/fantasy-soul-insect/",
       "to": "mysticism-reference/races/divine-stag-beetle/",
       "kinds": [
@@ -5631,39 +5075,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/fire-ant-insectar/",
-      "to": "mysticism-reference/races/fire-ant-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Fire Ant Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/fire-ant-insectar/",
-      "to": "mysticism-reference/races/flame-soul-ant/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Fire Ant Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/fire-ant-saint/",
-      "to": "mysticism-reference/races/divine-fire-ant/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Flame Soul Insect / Fire Ant Saint"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/fire-ant/",
       "to": "mysticism-reference/races/fire-ant-insectar/",
       "kinds": [
@@ -5672,17 +5083,6 @@
       ],
       "requirements": [
         "Fire Ant"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/flame-soul-ant/",
-      "to": "mysticism-reference/races/divine-fire-ant/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Flame Soul Insect / Fire Ant Saint"
       ]
     },
     {
@@ -5705,17 +5105,6 @@
       ],
       "requirements": [
         "Frostcoil Sea Serpent"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/frostfang-wolf/",
-      "to": "mysticism-reference/races/star-frostfang-wolf/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Frostfang Wolf"
       ]
     },
     {
@@ -5859,28 +5248,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/green-fang/",
-      "to": "mysticism-reference/races/mystic-green-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Green Fang"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/guitar-wolf/",
-      "to": "mysticism-reference/races/star-guitar-wolf/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Guitar Wolf"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/hardshell-ant-insectar/",
       "to": "mysticism-reference/races/earth-soul-insect/",
       "kinds": [
@@ -5896,16 +5263,6 @@
       "to": "mysticism-reference/races/hardshell-ant-savant/",
       "kinds": [
         "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Hardshell Ant Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/hardshell-ant-insectar/",
-      "to": "mysticism-reference/races/hardshell-insectar-saint/",
-      "kinds": [
         "Evolution"
       ],
       "requirements": [
@@ -5932,55 +5289,6 @@
       ],
       "requirements": [
         "Hardshell Ant"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/hardshell-insectar-saint/",
-      "to": "mysticism-reference/races/divine-hardshell-ant/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/knight-spider-insectar/",
-      "to": "mysticism-reference/races/knight-spider-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Knight Spider Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/knight-spider-insectar/",
-      "to": "mysticism-reference/races/steel-soul-insect/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/knight-spider-saint/",
-      "to": "mysticism-reference/races/divine-knight-spider/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Knight Spider Saint , Steel Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/knight-spider/",
-      "to": "mysticism-reference/races/knight-spider-insectar/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Knight Spider"
       ]
     },
     {
@@ -6028,14 +5336,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/lesser-elemental/",
-      "to": "mysticism-reference/races/pixie/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
       "from": "mysticism-reference/races/lesser-fallen/",
       "to": "mysticism-reference/races/greater-fallen/",
       "kinds": [
@@ -6066,17 +5366,6 @@
       ],
       "requirements": [
         "Lesser Pyre Wyrm"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/light-fang/",
-      "to": "mysticism-reference/races/mystic-light-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Light Fang"
       ]
     },
     {
@@ -6178,25 +5467,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/magic-fang/",
-      "to": "mysticism-reference/races/mystic-magic-fang/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Magic Fang"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/magic-sprit-wolf/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
       "from": "mysticism-reference/races/magma-worm/",
       "to": "mysticism-reference/races/enflamed-aberration/",
       "kinds": [
@@ -6263,81 +5533,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/mystic-blue-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-brown-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-dark-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-green-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-light-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-magic-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-purple-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystic-red-fang/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/mystical-black-fang/",
-      "to": "mysticism-reference/races/magic-sprit-wolf/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Mystical Black Fang"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/overloading-worm/",
       "to": "mysticism-reference/races/lightning-aberration/",
       "kinds": [
@@ -6368,17 +5563,6 @@
       ],
       "requirements": [
         "Greater Angel , Phantom"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/pixie/",
-      "to": "mysticism-reference/races/dryad/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Pixie"
       ]
     },
     {
@@ -6427,17 +5611,6 @@
     },
     {
       "from": "mysticism-reference/races/purple-centipede-insectar/",
-      "to": "mysticism-reference/races/purple-centipede-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Purple Centipede Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/purple-centipede-insectar/",
       "to": "mysticism-reference/races/spatial-soul-insect/",
       "kinds": [
         "Next",
@@ -6445,17 +5618,6 @@
       ],
       "requirements": [
         "Purple Centipede Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/purple-centipede-saint/",
-      "to": "mysticism-reference/races/divine-purple-centipede/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Purple Centipede Saint , Spatial Soul Insect"
       ]
     },
     {
@@ -6467,28 +5629,6 @@
       ],
       "requirements": [
         "Purple Centipede"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/purple-fang/",
-      "to": "mysticism-reference/races/mystic-purple-fang/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Purple Fang"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/queen-wasp-insectar/",
-      "to": "mysticism-reference/races/empress-wasp/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Queen Wasp Insectar"
       ]
     },
     {
@@ -6511,17 +5651,6 @@
       ],
       "requirements": [
         "Queen Wasp"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/red-fang/",
-      "to": "mysticism-reference/races/mystic-red-fang/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Red Fang"
       ]
     },
     {
@@ -6614,16 +5743,6 @@
     },
     {
       "from": "mysticism-reference/races/scorpion/",
-      "to": "mysticism-reference/races/deathstalker-scorpion/",
-      "kinds": [
-        "Evolution"
-      ],
-      "requirements": [
-        "Scorpion"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/scorpion/",
       "to": "mysticism-reference/races/loxodrome-scorpion/",
       "kinds": [
         "Evolution",
@@ -6676,17 +5795,6 @@
     },
     {
       "from": "mysticism-reference/races/seraphim/",
-      "to": "mysticism-reference/races/fallen-seraphim/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Fallen Cherub , Seraphim"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/seraphim/",
       "to": "mysticism-reference/races/mystic-angel/",
       "kinds": [
         "Evolution",
@@ -6694,17 +5802,6 @@
       ],
       "requirements": [
         "Staff Officer , Seraphim"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/silk-soul-insect/",
-      "to": "mysticism-reference/races/divine-black-spider/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Black Spider Saint , Silk Soul Insect"
       ]
     },
     {
@@ -6785,28 +5882,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/spider/",
-      "to": "mysticism-reference/races/black-spider/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Spider"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/spider/",
-      "to": "mysticism-reference/races/knight-spider/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Spider"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/staff-officer/",
       "to": "mysticism-reference/races/mystic-angel/",
       "kinds": [
@@ -6873,59 +5948,6 @@
       ]
     },
     {
-      "from": "mysticism-reference/races/star-blaze-wolf/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/star-frostfang-wolf/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/star-guitar-wolf/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/star-soul-insect/",
-      "to": "mysticism-reference/races/divine-empress-wasp/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Empress Wasp Star Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/star-tempest-wolf/",
-      "to": "mysticism-reference/races/divine-wolf/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
-      "from": "mysticism-reference/races/steel-soul-insect/",
-      "to": "mysticism-reference/races/divine-knight-spider/",
-      "kinds": [
-        "Evolution"
-      ],
-      "requirements": [
-        "Knight Spider Saint , Steel Soul Insect"
-      ]
-    },
-    {
       "from": "mysticism-reference/races/steel-soul-insect/",
       "to": "mysticism-reference/races/divine-preying-mantis/",
       "kinds": [
@@ -6934,28 +5956,6 @@
       ],
       "requirements": [
         "Preying Mantis Savant , Steel Soul Insect"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/sunfire-lindwurm/",
-      "to": "mysticism-reference/races/sundiety-loong/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Sunfire Lindwurm"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/tempest-wolf/",
-      "to": "mysticism-reference/races/star-tempest-wolf/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Tempest Wolf"
       ]
     },
     {
@@ -6978,17 +5978,6 @@
       ],
       "requirements": [
         "Tengu , Arch Angel"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/verdant-lord/",
-      "to": "mysticism-reference/races/divine-foliaris/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Verdant Lord"
       ]
     },
     {
@@ -7060,28 +6049,6 @@
       ],
       "requirements": [
         "Yellow Centipede Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/yellow-centipede-insectar/",
-      "to": "mysticism-reference/races/yellow-centipede-saint/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "Yellow Centipede Insectar"
-      ]
-    },
-    {
-      "from": "mysticism-reference/races/yellow-centipede-saint/",
-      "to": "mysticism-reference/races/divine-yellow-centipede/",
-      "kinds": [
-        "Evolution",
-        "Next"
-      ],
-      "requirements": [
-        "Yellow Centipede Saint , Paralysis Soul Insect"
       ]
     },
     {

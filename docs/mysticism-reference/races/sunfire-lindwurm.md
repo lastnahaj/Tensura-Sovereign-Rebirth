@@ -77,29 +77,15 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../sundiety-loong/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Sundiety Loong</strong>
-<small>Gains flight ability when not crouching or sprinting. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tempest-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Tempest Wolf</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../steel-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Steel Soul Insect</strong>
 <small>Divine Preying Mantis - Acquire 2M EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../tengu/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Tengu Race</strong>
 <small>The Tengu Race grants the ability to toggle flight when not crouching or sprinting. Activating or deactivating flight…</small>

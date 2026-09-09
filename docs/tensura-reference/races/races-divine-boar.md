@@ -64,31 +64,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Beast</strong>
-<small>&quot; This is one Divine Beast... ha &quot;</small>
+<small>" This is one Divine Beast... ha "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-dragon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Dragon</strong>
-<small>&quot; what? you want a cookie or something? &quot;</small>
+<small>" what? you want a cookie or something? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine  Bird</strong>
-<small>I asked for some strong KFC but didn&#x27;t expect this The ultimate evolution of a harpy</small>
+<small>I asked for some strong KFC but didn't expect this The ultimate evolution of a harpy</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Dwarf</strong>
-<small>&quot; I&#x27;ve dug myself into a hole with these... Oh well &quot;</small>
+<small>" I've dug myself into a hole with these... Oh well "</small>
 </span>
 </a>
 </div>

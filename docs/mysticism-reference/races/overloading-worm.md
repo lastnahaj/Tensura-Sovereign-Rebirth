@@ -76,28 +76,21 @@ Majin</div></div></div><div class="druid-section-container"><div data-druid-sect
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mystical-black-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Mystical Black Fang</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Paralysis Soul Insect</strong>
 <small>Divine Yellow Centipede - 2M EP.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../mystic-red-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mystic Red Fang</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../phantom/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Phantom</strong>
 <small>(Remove this once finalized)</small>

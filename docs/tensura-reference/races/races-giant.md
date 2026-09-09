@@ -97,31 +97,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-ghoul/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Ghoul</strong>
 <small>A Vampiric thrall brought about by Blood Raise, highly weakened by sunlight.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-goblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Goblin</strong>
 <small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Ogre</strong>
-<small>&quot; This race has way too many evolutions... &quot;</small>
+<small>" This race has way too many evolutions... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-god-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>God Slime</strong>
-<small>&quot; The Fattest Boi Around &quot;</small>
+<small>" The Fattest Boi Around "</small>
 </span>
 </a>
 </div>

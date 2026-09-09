@@ -72,31 +72,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-enlightened-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Elf</strong>
-<small>&quot; Blah Blah Honoured Elf Blah Blah &quot;</small>
+<small>" Blah Blah Honoured Elf Blah Blah "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Human</strong>
-<small>&quot; I alone am the honored one... &quot;</small>
+<small>" I alone am the honored one... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Dwarf</strong>
-<small>&quot; Dwarf no longer dig hole, Dwarf Dig you. &quot;</small>
+<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Merfolk</strong>
-<small>&quot; The honoured... fish? &quot;</small>
+<small>" The honoured... fish? "</small>
 </span>
 </a>
 </div>

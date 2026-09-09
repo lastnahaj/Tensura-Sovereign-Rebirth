@@ -110,28 +110,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-enlightened-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Ogre</strong>
-<small>&quot; This race has way too many evolutions... &quot;</small>
+<small>" This race has way too many evolutions... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Giant</strong>
 <small>A race that can freely change their size becoming massive and increasing their physical strength</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Merfolk</strong>
-<small>&quot; The honoured... fish? &quot;</small>
+<small>" The honoured... fish? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-goblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Goblin</strong>
 <small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>

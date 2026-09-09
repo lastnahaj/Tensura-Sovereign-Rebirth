@@ -70,31 +70,17 @@ Yes</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-r
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../divine-empress-wasp/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Divine Empress Wasp</strong>
-<small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../divine-fire-ant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Fire Ant</strong>
 <small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-elemental/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Elemental</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../divine-foliaris/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Divine Foliaris</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>

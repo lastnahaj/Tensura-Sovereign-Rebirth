@@ -123,31 +123,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-hobgoblin-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin Saint</strong>
-<small>&quot; Why would you go this..? &quot;</small>
+<small>" Why would you go this..? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-human-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Human Saint</strong>
-<small>&quot; Saint Nicholas died for this &quot;</small>
+<small>" Saint Nicholas died for this "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin</strong>
-<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/&quot;Die&quot; to Elemental Colossus</small>
+<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-kijin/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Kijin</strong>
-<small>&quot; Ahahahahaha... You&#x27;re Kijin me! &quot;</small>
+<small>" Ahahahahaha... You're Kijin me! "</small>
 </span>
 </a>
 </div>

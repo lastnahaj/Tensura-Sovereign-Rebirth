@@ -105,31 +105,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Ogre</strong>
 <small>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-disaster/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Disaster</strong>
-<small>&quot; Wow... That&#x27;s a... Disaster! I&#x27;m here all night!!! &quot;</small>
+<small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-mystic-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Mystic Oni</strong>
-<small>&quot; Mmhmm. I&#x27;m feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal &quot;</small>
+<small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
-<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+<small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
 </span>
 </a>
 </div>

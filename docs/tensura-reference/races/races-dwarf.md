@@ -114,31 +114,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dragonewt</strong>
-<small>&quot; ur not a dragon bro... &quot;</small>
+<small>" ur not a dragon bro... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dwarf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf Saint</strong>
-<small>&quot; He&#x27;s beginning to belie... dig some more? what?! &quot;</small>
+<small>" He's beginning to belie... dig some more? what?! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Vampire</strong>
-<small>&quot; Is it Lonely at the Top..? &quot;</small>
+<small>" Is it Lonely at the Top..? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf</strong>
-<small>&quot; We know why you went this race... &quot; A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
+<small>" We know why you went this race... " A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
 </span>
 </a>
 </div>

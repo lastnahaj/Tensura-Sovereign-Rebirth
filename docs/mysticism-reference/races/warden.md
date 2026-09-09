@@ -75,28 +75,21 @@ Majin</div></div></div><div class="druid-section-container"><div data-druid-sect
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../violence-deity/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Violence Deity</strong>
 <small>Gets permanent blindness effect - negated by having any kind of detection skill 1.21.1 – Ported 1.19.2 – Added to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../wasp/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Wasp</strong>
 <small>Can fly Army Wasp - 10K EP Queen Wasp - 10K EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../verdant-lord/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Verdant Lord</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../water-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Water Soul Insect</strong>
 <small>Divine Blue Centipede - 2M EP.</small>

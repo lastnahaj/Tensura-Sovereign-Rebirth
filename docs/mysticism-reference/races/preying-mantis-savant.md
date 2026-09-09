@@ -76,28 +76,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../preying-mantis-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Preying Mantis Insectar</strong>
 <small>Preying Mantis Savant - Acquire 400K EP, Kill 4 Bosses. Steel Soul Insect - Acquire Ranged Barrier and 400K EP. 1.21.1…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../purple-centipede/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Purple Centipede</strong>
 <small>Purple Centipede Insectar - 100K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../preying-mantis/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Preying Mantis</strong>
 <small>Preying Mantis Insectar - 100K</small>
 </span>
 </a>
 <a class="reference-related-card" href="../purple-centipede-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Purple Centipede Insectar</strong>
 <small>Purple Centipede Saint - 400K EP + Defeat 4 Bosses</small>

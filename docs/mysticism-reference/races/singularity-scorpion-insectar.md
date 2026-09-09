@@ -78,28 +78,21 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../singularity-scorpion/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion</strong>
 <small>Singularity Scorpion Insectar - 100K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../singularity-scorpion-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion Savant</strong>
 <small>Divine Singularity Scorpion - 2M EP</small>
 </span>
 </a>
-<a class="reference-related-card" href="../silk-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Silk Soul Insect</strong>
-<small>Divine Black Spider - Acquire 2M EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../soul-aberration/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Soul Aberration</strong>
 <small>Is blind. Reaper Aberration - 2M EP as a Soul Aberration. 1.21.1 – Ported 1.19.2 – Added to the game.</small>

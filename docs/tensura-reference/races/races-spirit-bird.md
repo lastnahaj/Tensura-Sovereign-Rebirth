@@ -77,31 +77,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-spirit-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Beast</strong>
 <small>Divine Beast - 2,000,000 EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Boar</strong>
-<small>&quot; Spooky Bear... how boaring... &quot;</small>
+<small>" Spooky Bear... how boaring... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-slime/">
-<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
 <span class="reference-related-copy">
 <strong>Slime</strong>
-<small>A Spectral race of monsters that lacks intelligence and ambition. They&#x27;re usually passive but are incredibly ruthless…</small>
+<small>A Spectral race of monsters that lacks intelligence and ambition. They're usually passive but are incredibly ruthless…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Oni</strong>
-<small>&quot; OoOOooOoo Spooky Demog &quot;</small>
+<small>" OoOOooOoo Spooky Demog "</small>
 </span>
 </a>
 </div>

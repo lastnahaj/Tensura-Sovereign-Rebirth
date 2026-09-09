@@ -80,31 +80,17 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../purple-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Purple Fang</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../queen-wasp-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Queen Wasp Insectar</strong>
 <small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../purple-centipede-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Purple Centipede Saint</strong>
-<small>Divine Purple Centipede - 2M EP.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races/">
-<img src="../../../assets/upstream/mysticism/races/skillicon-2d9be4e24c.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Races</strong>
-<small>All of the new races added by Tensura Reincarnated: Mysticism.</small>
 </span>
 </a>
 </div>

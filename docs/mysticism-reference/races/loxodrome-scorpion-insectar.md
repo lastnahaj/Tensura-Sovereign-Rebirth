@@ -78,31 +78,24 @@ Defeat 4 Bosses
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../loxodrome-scorpion/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion</strong>
 <small>Loxodrome Scorpion Insectar - Acquire 100K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion Savant</strong>
 <small>Divine Loxodrome Scorpion - Acquire 2M EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lixivant-mantis-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis Savant</strong>
 <small>Divine Lixivant Mantis - 2M EP</small>
-</span>
-</a>
-<a class="reference-related-card" href="../magic-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Fang</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>

@@ -84,28 +84,21 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lesser-angel/">
-<img src="../../../assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Angel</strong>
-<small>&quot; Come back when you get a personality bro &quot;</small>
+<small>" Come back when you get a personality bro "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lesser-fallen/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Fallen</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
-<a class="reference-related-card" href="../knight-spider-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Knight Spider Saint</strong>
-<small>Divine Knight Spider - Acquire 2M EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lesser-glacier-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Glacier Wyrm</strong>
 <small>Greater Glacier Wyrm - Consume 10 Ice Essence and have 30K EP. 1.21.1 – ??? 1.19.2 – Added to the game.</small>

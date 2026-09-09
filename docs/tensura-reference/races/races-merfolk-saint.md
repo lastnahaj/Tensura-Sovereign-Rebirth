@@ -72,31 +72,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-merfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Merfolk</strong>
 <small>A sprite race descended from water elementals. Their fish-like bodies give them an insurmountable advantage in water.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-metal-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Metal Slime</strong>
-<small>&quot; The Hardest Slime around &quot;</small>
+<small>" The Hardest Slime around "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-lizardman/">
-<img src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
 <span class="reference-related-copy">
 <strong>Lizardman</strong>
 <small>A race of scaled people descended from dragons. Their webbed feet give them an advantage in wet terrain.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-mystic-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Mystic Oni</strong>
-<small>&quot; Mmhmm. I&#x27;m feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal &quot;</small>
+<small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
 </span>
 </a>
 </div>

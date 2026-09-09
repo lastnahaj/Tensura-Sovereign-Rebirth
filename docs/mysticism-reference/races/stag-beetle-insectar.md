@@ -77,31 +77,24 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../stag-beetle/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Stag Beetle</strong>
 <small>Stag Beetle Insectar = 10,000 Ep 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../stag-beetle-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Stag Beetle Savant</strong>
 <small>Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../staff-officer/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Staff Officer</strong>
 <small>Creative Flight. Spiritual being. 960K Minimum EP if evolved from General Re-spawn in hell. Mystic Angel - Awakening…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../star-blaze-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Star Blaze Wolf</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>

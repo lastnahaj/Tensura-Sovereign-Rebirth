@@ -71,28 +71,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../scorchtalon-wyvern/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Scorchtalon Wyvern</strong>
 <small>Use your wings to take flight + Boost yourself during Flight, Costs Hunger</small>
 </span>
 </a>
 <a class="reference-related-card" href="../sculk-worm/">
-<img src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
 <span class="reference-related-copy">
 <strong>Sculk Worm</strong>
 <small>Is blind. Soul Shrieker - 4K EP as a Sculk Worm. Molten Perforator - Eat 3 Blaze Essence + 4K EP as a Sculk Worm…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../scorchtail-salamander/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Scorchtail Salamander</strong>
 <small>Scorchtalon Wyvern - Have 1.5M EP, Mastered Flame Domination and Dragon Skin. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../seraphim/">
-<img src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
 <span class="reference-related-copy">
 <strong>Seraph</strong>
 <small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>

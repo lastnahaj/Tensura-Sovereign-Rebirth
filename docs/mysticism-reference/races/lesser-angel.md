@@ -91,29 +91,15 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../knight-spider-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Knight Spider Saint</strong>
-<small>Divine Knight Spider - Acquire 2M EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lesser-elemental/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Elemental</strong>
 <small>Lesser Spirits are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../knight-spider-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Knight Spider Insectar</strong>
-<small>Knight Spider Saint - Acquire 400K EP + Defeat 4 Bosses.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lesser-fallen/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Fallen</strong>
 <small>(Remove this once finalized)</small>

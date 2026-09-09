@@ -67,28 +67,21 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../tengu-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Tengu Saint</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
-<a class="reference-related-card" href="../verdant-lord/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Verdant Lord</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../tengu/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Tengu Race</strong>
 <small>The Tengu Race grants the ability to toggle flight when not crouching or sprinting. Activating or deactivating flight…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../violence-deity/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Violence Deity</strong>
 <small>Gets permanent blindness effect - negated by having any kind of detection skill 1.21.1 – Ported 1.19.2 – Added to the…</small>

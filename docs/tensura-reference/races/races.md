@@ -2,11 +2,17 @@
 title: Races
 description: 'The Many Difference Races of Tensura: Reincarnated Human Elf Dwarf Merfolk Beastfolk Harpy Goblin Lizardman Ogre Orc Slime Wight Ghoul Daemon Giant Alignment Awakening View or edit this templateRacesHuman Human · Enlightened Human · Human Saint · Divine HumanElf Elf · Enlightened Elf · Elf Saint · Divine...'
 tags: []
+search:
+  exclude: true
 ---
 
 # Races
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This source page is an overview, not an individual race or evolution stage.</p><p><a href="../">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -117,28 +123,28 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-orc-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
-<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+<small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-slime/">
-<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
 <span class="reference-related-copy">
 <strong>Slime</strong>
 <small>Charge up a super slime jump</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-disaster/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Disaster</strong>
-<small>&quot; Wow... That&#x27;s a... Disaster! I&#x27;m here all night!!! &quot;</small>
+<small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Beast</strong>
 <small>Divine Beast - 2,000,000 EP</small>

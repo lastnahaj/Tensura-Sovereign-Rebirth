@@ -69,31 +69,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Human</strong>
-<small>&quot; I truly have reached Divinity.. &quot;</small>
+<small>" I truly have reached Divinity.. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-skeleton/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Skeleton</strong>
-<small>&quot; Even Divinity won&#x27;t save your bony ahh &quot;</small>
+<small>" Even Divinity won't save your bony ahh "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Giant</strong>
 <small>The final evolution of a giant, which increases their ability to grow bigger exponentially</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Vampire</strong>
-<small>&quot; Is it Lonely at the Top..? &quot;</small>
+<small>" Is it Lonely at the Top..? "</small>
 </span>
 </a>
 </div>

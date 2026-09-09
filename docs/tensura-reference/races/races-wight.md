@@ -120,31 +120,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-wicked-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Wicked Oni</strong>
 <small>Death Oni - 400,000 EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-wight-king/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Wight King</strong>
-<small>&quot; King of the...I didn&#x27;t think about this one... &quot;</small>
+<small>" King of the...I didn't think about this one... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire-overcomer/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Overcomer</strong>
-<small>&quot; Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
+<small>" Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Lord</strong>
-<small>&quot; Lord of the Suckers &quot;</small>
+<small>" Lord of the Suckers "</small>
 </span>
 </a>
 </div>

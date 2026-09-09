@@ -67,31 +67,31 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Oni</strong>
 <small>Hobgoblin Saint Gains Strength , Steel Strength , Self Regeneration upon Evolution</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Vampire</strong>
-<small>&quot; Is it Lonely at the Top..? &quot;</small>
+<small>" Is it Lonely at the Top..? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Human</strong>
-<small>&quot; I truly have reached Divinity.. &quot;</small>
+<small>" I truly have reached Divinity.. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dragonewt</strong>
-<small>&quot; ur not a dragon bro... &quot;</small>
+<small>" ur not a dragon bro... "</small>
 </span>
 </a>
 </div>

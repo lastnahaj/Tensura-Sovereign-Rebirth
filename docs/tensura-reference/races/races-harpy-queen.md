@@ -78,31 +78,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-harpy/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Harpy</strong>
-<small>Harpy? No I can&#x27;t play on of those A being similar to beastfolks specialized in air combat</small>
+<small>Harpy? No I can't play on of those A being similar to beastfolks specialized in air combat</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-high-orc/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>High Orc</strong>
-<small>&quot; I&#x27;m the Highest in the room &quot;</small>
+<small>" I'm the Highest in the room "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-greater-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Greater Daemon</strong>
-<small>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body&#x27;s EP…</small>
+<small>Daemon going to a physical world without a name or awakening will get their EP limited at 100k MP + Summon Body's EP…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin</strong>
-<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/&quot;Die&quot; to Elemental Colossus</small>
+<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
 </span>
 </a>
 </div>

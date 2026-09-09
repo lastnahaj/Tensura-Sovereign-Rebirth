@@ -86,31 +86,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-true-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>True Dragonewt</strong>
-<small>&quot; still not a dragon... stay mad &quot;</small>
+<small>" still not a dragon... stay mad "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Lord</strong>
-<small>&quot; Lord of the Suckers &quot;</small>
+<small>" Lord of the Suckers "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-skeleton/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Skeleton</strong>
 <small>Fragility I, Weakness I in Sunlight</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire-overcomer/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Overcomer</strong>
-<small>&quot; Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
+<small>" Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>
 </span>
 </a>
 </div>

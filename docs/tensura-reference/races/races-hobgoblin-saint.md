@@ -72,31 +72,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin</strong>
-<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/&quot;Die&quot; to Elemental Colossus</small>
+<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-human/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Human</strong>
-<small>&quot; I... Am Steve.. &quot; A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
+<small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-high-orc/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>High Orc</strong>
-<small>&quot; I&#x27;m the Highest in the room &quot;</small>
+<small>" I'm the Highest in the room "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-human-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Human Saint</strong>
-<small>&quot; Saint Nicholas died for this &quot;</small>
+<small>" Saint Nicholas died for this "</small>
 </span>
 </a>
 </div>

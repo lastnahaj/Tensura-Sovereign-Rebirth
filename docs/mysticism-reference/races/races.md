@@ -2,11 +2,17 @@
 title: Races
 description: 'All of the new races added by Tensura Reincarnated: Mysticism. Angels Sculk Worm Dragonoid Direwolf Elemental Insects Attuned Wyrm All Races Restricted Human Forgotten Greater Doll'
 tags: []
+search:
+  exclude: true
 ---
 
 # Races
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This source page is an overview, not an individual race or evolution stage.</p><p><a href="../../../tensura-reference/races/">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -99,28 +105,28 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../queen-wasp-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Queen Wasp Insectar</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reaper-aberration/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Reaper Aberration</strong>
 <small>Is blind. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../queen-wasp/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Queen Wasp</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../red-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Red Fang</strong>
 <small>(Remove this once finalized)</small>

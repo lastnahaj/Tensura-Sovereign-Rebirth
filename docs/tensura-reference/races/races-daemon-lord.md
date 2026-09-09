@@ -75,31 +75,31 @@ None</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-beastfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Beastfolk</strong>
 <small>A race that can freely change bewteen their true animal form and a more human form. They possess immense physical…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-death-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Death Oni</strong>
-<small>&quot; Become Deaf itself. What? WHAT??? &quot;</small>
+<small>" Become Deaf itself. What? WHAT??? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-beast-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Beast Lord</strong>
 <small>Spirit Beast - 400,000 EP + Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-demon-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Demon Slime</strong>
-<small>&quot; Insert Funny quip here &quot;</small>
+<small>" Insert Funny quip here "</small>
 </span>
 </a>
 </div>

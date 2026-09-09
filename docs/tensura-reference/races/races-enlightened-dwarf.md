@@ -83,28 +83,28 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-elf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf Saint</strong>
-<small>&quot; I name you, The saintiest of elevens &quot;</small>
+<small>" I name you, The saintiest of elevens "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Elf</strong>
-<small>&quot; Blah Blah Honoured Elf Blah Blah &quot;</small>
+<small>" Blah Blah Honoured Elf Blah Blah "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf</strong>
-<small>&quot; We know why you went this race... &quot; A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
+<small>" We know why you went this race... " A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Hobgoblin</strong>
 <small>Hobgoblin Saint - 400,000 EP + Defeat 4 Bosses</small>

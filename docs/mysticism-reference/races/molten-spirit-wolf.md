@@ -74,31 +74,24 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../molten-perforator/">
-<img src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
 <span class="reference-related-copy">
 <strong>Molten Perforator</strong>
 <small>Is blind. Magma Worm - Eat 10 Blaze Essence + 100K EP as a Molten Perforator 1.21.1 – Ported 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mystic-angel/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Mystic Angel</strong>
 <small>Creative Flight. Spiritual being. 2.3M Minimum EP if evolved from Staff Officer. 1.21.1 – Ported 1.19.2 – Added to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../medium-elemental/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Medium Elemental</strong>
 <small>Spirits race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../mystic-blue-fang/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Mystic Blue Fang</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>

@@ -98,31 +98,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-beast-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Beast Lord</strong>
 <small>Spirit Beast - 400,000 EP + Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-daemon-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Daemon Lord</strong>
-<small>&quot; Lord of the Matt Daemons &quot;</small>
+<small>" Lord of the Matt Daemons "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-arch-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Arch Daemon</strong>
-<small>&quot; I hear you like to Arch it huh...? &quot;</small>
+<small>" I hear you like to Arch it huh...? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-death-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Death Oni</strong>
-<small>&quot; Become Deaf itself. What? WHAT??? &quot;</small>
+<small>" Become Deaf itself. What? WHAT??? "</small>
 </span>
 </a>
 </div>

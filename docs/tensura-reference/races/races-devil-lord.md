@@ -67,31 +67,31 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-demon-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Demon Slime</strong>
-<small>&quot; Insert Funny quip here &quot;</small>
+<small>" Insert Funny quip here "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine  Bird</strong>
-<small>I asked for some strong KFC but didn&#x27;t expect this The ultimate evolution of a harpy</small>
+<small>I asked for some strong KFC but didn't expect this The ultimate evolution of a harpy</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-death-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Death Oni</strong>
-<small>&quot; Become Deaf itself. What? WHAT??? &quot;</small>
+<small>" Become Deaf itself. What? WHAT??? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Beast</strong>
-<small>&quot; This is one Divine Beast... ha &quot;</small>
+<small>" This is one Divine Beast... ha "</small>
 </span>
 </a>
 </div>

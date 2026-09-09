@@ -77,28 +77,28 @@ No</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Merfolk</strong>
-<small>&quot; The honoured... fish? &quot;</small>
+<small>" The honoured... fish? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-ghoul/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Ghoul</strong>
-<small>&quot; Brains~~ Lookin ahh... &quot;</small>
+<small>" Brains~~ Lookin ahh... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Human</strong>
-<small>&quot; I alone am the honored one... &quot;</small>
+<small>" I alone am the honored one... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Giant</strong>
 <small>A race that can freely change their size becoming massive and increasing their physical strength</small>

@@ -74,31 +74,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-death-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Death Oni</strong>
-<small>&quot; Become Deaf itself. What? WHAT??? &quot;</small>
+<small>" Become Deaf itself. What? WHAT??? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-devil-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Devil Lord</strong>
 <small>Creative flight (unaffected by Magic Jamming )</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-daemon-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Daemon Lord</strong>
-<small>&quot; Lord of the Matt Daemons &quot;</small>
+<small>" Lord of the Matt Daemons "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine  Bird</strong>
-<small>I asked for some strong KFC but didn&#x27;t expect this The ultimate evolution of a harpy</small>
+<small>I asked for some strong KFC but didn't expect this The ultimate evolution of a harpy</small>
 </span>
 </a>
 </div>

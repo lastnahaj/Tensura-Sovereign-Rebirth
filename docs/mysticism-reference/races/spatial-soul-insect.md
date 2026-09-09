@@ -77,28 +77,21 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../soul-shrieker/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Soul Shrieker</strong>
 <small>Is blind. Warden - 50K EP as a Soul Shrieker. 1.21.1 – Ported. 1.19.2 – Added to the game.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../spider/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Spider</strong>
-<small>Black Spider - Acquire 10K EP.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../soul-aberration/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Soul Aberration</strong>
 <small>Is blind. Reaper Aberration - 2M EP as a Soul Aberration. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../staff-officer/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Staff Officer</strong>
 <small>Creative Flight. Spiritual being. 960K Minimum EP if evolved from General Re-spawn in hell. Mystic Angel - Awakening…</small>

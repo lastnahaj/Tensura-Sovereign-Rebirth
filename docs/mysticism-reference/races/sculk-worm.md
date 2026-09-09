@@ -80,31 +80,24 @@ Majin</div></div></div><div class="druid-section-container"><div data-druid-sect
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../scorpion/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Scorpion</strong>
 <small>Loxodrome Scorpion - Acquire 10K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../seraphim/">
-<img src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
 <span class="reference-related-copy">
 <strong>Seraph</strong>
 <small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../scorchtalon-wyvern/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Scorchtalon Wyvern</strong>
 <small>Use your wings to take flight + Boost yourself during Flight, Costs Hunger</small>
-</span>
-</a>
-<a class="reference-related-card" href="../silk-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Silk Soul Insect</strong>
-<small>Divine Black Spider - Acquire 2M EP.</small>
 </span>
 </a>
 </div>

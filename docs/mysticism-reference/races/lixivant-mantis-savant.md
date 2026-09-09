@@ -76,28 +76,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lixivant-mantis-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis Insectar</strong>
 <small>Lixivant Mantis Savant - Acquire 400K EP, Kill 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion</strong>
 <small>Loxodrome Scorpion Insectar - Acquire 100K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lixivant-mantis/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis</strong>
 <small>Lixivant Mantis Insectar - 100K</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion Insectar</strong>
 <small>Loxodrome Scorpion Savant - Acquire 400K EP. Defeat 4 Bosses</small>

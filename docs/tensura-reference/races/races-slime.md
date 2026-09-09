@@ -105,29 +105,22 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races/">
-<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Races</strong>
-<small>The Many Difference Races of Tensura: Reincarnated</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-spirit-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Beast</strong>
 <small>Divine Beast - 2,000,000 EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
-<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+<small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Bird</strong>
 <small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>

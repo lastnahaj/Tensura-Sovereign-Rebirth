@@ -65,31 +65,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Boar</strong>
-<small>&quot; Sounds like one tasty boar... how divine &quot;</small>
+<small>" Sounds like one tasty boar... how divine "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Dwarf</strong>
-<small>&quot; I&#x27;ve dug myself into a hole with these... Oh well &quot;</small>
+<small>" I've dug myself into a hole with these... Oh well "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Beast</strong>
-<small>&quot; This is one Divine Beast... ha &quot;</small>
+<small>" This is one Divine Beast... ha "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Elf</strong>
-<small>&quot; The Upmost Divinest Elf &quot;</small>
+<small>" The Upmost Divinest Elf "</small>
 </span>
 </a>
 </div>

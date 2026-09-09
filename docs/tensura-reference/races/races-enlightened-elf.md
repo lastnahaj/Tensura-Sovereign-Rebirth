@@ -87,31 +87,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Dwarf</strong>
-<small>&quot; Dwarf no longer dig hole, Dwarf Dig you. &quot;</small>
+<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Hobgoblin</strong>
 <small>Hobgoblin Saint - 400,000 EP + Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-elf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf Saint</strong>
-<small>&quot; I name you, The saintiest of elevens &quot;</small>
+<small>" I name you, The saintiest of elevens "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-human/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Human</strong>
-<small>&quot; I alone am the honored one... &quot;</small>
+<small>" I alone am the honored one... "</small>
 </span>
 </a>
 </div>

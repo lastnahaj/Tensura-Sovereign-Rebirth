@@ -79,28 +79,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lesser-pyre-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Pyre Wyrm</strong>
 <small>Greater Pyre Wyrm - Consume 20 Blaze Essence and have 30K EP. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-aberration/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Aberration</strong>
 <small>No longer blind. Dissonance Deity - 2M EP as a Lightning Aberration. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lesser-glacier-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Glacier Wyrm</strong>
 <small>Greater Glacier Wyrm - Consume 10 Ice Essence and have 30K EP. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Soul Insect</strong>
 <small>Creative Flight. Divine Drone Beetle = 2M EP</small>

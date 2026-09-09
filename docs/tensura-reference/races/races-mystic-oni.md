@@ -73,31 +73,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-metal-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Metal Slime</strong>
-<small>&quot; The Hardest Slime around &quot;</small>
+<small>" The Hardest Slime around "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Ogre</strong>
-<small>&quot; WHAT&#x27;RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? &quot;</small>
+<small>" WHAT'RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-merfolk-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Merfolk Saint</strong>
-<small>&quot; They&#x27;re just making random names now &quot;</small>
+<small>" They're just making random names now "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc/">
-<img src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc</strong>
-<small>&quot; I wish you luck on this journey &quot;</small>
+<small>" I wish you luck on this journey "</small>
 </span>
 </a>
 </div>

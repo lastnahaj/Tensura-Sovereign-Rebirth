@@ -6,6 +6,7 @@ import json
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
+from race_catalogue import FAMILY_PARTITIONS, is_race_form, race_reference
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -70,10 +71,38 @@ def main() -> int:
     for source in ("tensura", "mysticism"):
         source_manifest = json.loads((ROOT / f"data/upstream_{source}_pages.json").read_text(encoding="utf-8"))
         for record in source_manifest["pages"]:
-            if record["category"] == "races" and record["display_title"].strip().casefold() != "races":
+            if is_race_form(record):
                 expected_races.add(record["local_page"].removesuffix(".md") + "/")
     if set(race_families["destinations"]) != expected_races:
         errors.append("Race family coverage differs from the imported race manifest")
+    if any(family["title"] == "Angel reference" for family in race_families["families"]):
+        errors.append("Angel overview must not appear as a race family")
+    if "mysticism-reference/races/angel/" in graph["nodes"]:
+        errors.append("Angel overview must not appear as an evolution stage")
+    if sum(family["title"] == "Angel" for family in race_families["families"]) != 1:
+        errors.append("Expected one maintained Angel family")
+    by_title = {family['title']: family for family in race_families['families']}
+    for title, (source, slugs) in FAMILY_PARTITIONS.items():
+        current_slugs = [slug for slug in slugs.split() if race_reference()['pages'].get(f"{source}-reference/races/{'races-' if source == 'tensura' else ''}{slug}.md", {}).get('status') == 'registered']
+        family = by_title.get(title)
+        if not current_slugs:
+            if family:
+                errors.append(f'Unverified family in current directory: {title}')
+            continue
+        if not family:
+            errors.append(f"Missing independent race family: {title}")
+            continue
+        for slug in current_slugs:
+            source_route = f"{source}-reference/races/{'races-' if source == 'tensura' else ''}{slug}/"
+            destination = race_families['destinations'].get(source_route, '')
+            if not destination.startswith(family['route'] + '#'):
+                errors.append(f"Race assigned to wrong family: {source_route}")
+    for title, asset in json.loads((ROOT / 'data/race_family_media.json').read_text(encoding='utf-8')).items():
+        if by_title.get(title, {}).get('image') != asset:
+            errors.append(f"Reviewed family image replaced: {title}")
+    check("tensura-reference/races/families/angel-reference/#angel")
+    for old_route, anchor in (('human-undead', 'races-human'), ('mantis-scorpion-spider', 'mantis'), ('poison-soul-insect', 'poison-soul-insect')):
+        check(f"tensura-reference/races/families/{old_route}/#{anchor}")
     for destination in race_families["destinations"].values():
         check(destination)
 

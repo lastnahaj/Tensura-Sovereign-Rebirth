@@ -77,31 +77,31 @@ No</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-human-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Human Saint</strong>
-<small>&quot; Saint Nicholas died for this &quot;</small>
+<small>" Saint Nicholas died for this "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-lesser-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Lesser Daemon</strong>
-<small>&quot; Lowly Daemon Scum &quot;</small>
+<small>" Lowly Daemon Scum "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-human/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Human</strong>
-<small>&quot; I... Am Steve.. &quot; A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
+<small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-lizardman/">
-<img src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
 <span class="reference-related-copy">
 <strong>Lizardman</strong>
-<small>&quot; Leezard..? Lizurd..? Lizzy..! &quot;</small>
+<small>" Leezard..? Lizurd..? Lizzy..! "</small>
 </span>
 </a>
 </div>

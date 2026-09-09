@@ -74,29 +74,22 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../empress-wasp/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Empress Wasp</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../enflamed-aberration/">
-<img src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
 <span class="reference-related-copy">
 <strong>Enflamed Aberration</strong>
 <small>Is blind. Violence Deity - Eat 30 Blaze Essence + 2M EP as Enflamed Aberration. 1.21.1 – Ported 1.19.2 – Added to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../elemental-lord/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Elemental Lord</strong>
 <small>Spirits Race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../fallen/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Fallen</strong>
 <small>(Remove this once finalized)</small>

@@ -87,31 +87,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Elf</strong>
-<small>&quot; We know why you went this race... &quot; A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
+<small>" We know why you went this race... " A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Dwarf</strong>
-<small>&quot; Dwarf no longer dig hole, Dwarf Dig you. &quot;</small>
+<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-dwarf-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf Saint</strong>
-<small>&quot; He&#x27;s beginning to belie... dig some more? what?! &quot;</small>
+<small>" He's beginning to belie... dig some more? what?! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-enlightened-elf/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Enlightened Elf</strong>
-<small>&quot; Blah Blah Honoured Elf Blah Blah &quot;</small>
+<small>" Blah Blah Honoured Elf Blah Blah "</small>
 </span>
 </a>
 </div>

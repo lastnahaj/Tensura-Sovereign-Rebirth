@@ -79,31 +79,24 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dragonoid/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dragonoid</strong>
-<small>&quot; Wannabe True Dragon &quot;</small>
+<small>" Wannabe True Dragon "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../drone-beetle-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Drone Beetle Insectar</strong>
 <small>Creative Flight Drone Beetle Saint = 400,000 Ep + 4 boss Kills Lightning Soul Insect = 400,000 Ep + Lightning…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-yellow-centipede/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Yellow Centipede</strong>
 <small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../drone-beetle-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Drone Beetle Saint</strong>
-<small>Creative flight Divine Drone Beetle = 2,000,000 EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 </div>

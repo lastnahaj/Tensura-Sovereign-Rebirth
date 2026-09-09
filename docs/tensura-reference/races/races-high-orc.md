@@ -73,31 +73,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-harpy-queen/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Harpy Queen</strong>
 <small>Yas queen slay! Rare kind of harpy that usually commands them all and governs over them</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-hobgoblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin</strong>
-<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/&quot;Die&quot; to Elemental Colossus</small>
+<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-harpy/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Harpy</strong>
-<small>Harpy? No I can&#x27;t play on of those A being similar to beastfolks specialized in air combat</small>
+<small>Harpy? No I can't play on of those A being similar to beastfolks specialized in air combat</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-hobgoblin-saint/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin Saint</strong>
-<small>&quot; Why would you go this..? &quot;</small>
+<small>" Why would you go this..? "</small>
 </span>
 </a>
 </div>

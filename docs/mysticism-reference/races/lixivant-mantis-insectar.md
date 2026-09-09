@@ -76,28 +76,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lixivant-mantis/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis</strong>
 <small>Lixivant Mantis Insectar - 100K</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lixivant-mantis-savant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis Savant</strong>
 <small>Divine Lixivant Mantis - 2M EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Soul Insect</strong>
 <small>Creative Flight. Divine Drone Beetle = 2M EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion</strong>
 <small>Loxodrome Scorpion Insectar - Acquire 100K EP.</small>

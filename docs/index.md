@@ -21,7 +21,7 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 ---
 
-**Tensura: Sovereign Rebirth (TSR)** is a Minecraft **1.21.1 NeoForge** RPG/civilization modpack built around Tensura: Reincarnated. The pack is designed so that character progression, race evolution, skills, equipment, subordinates, guild progression, nation building, bosses, dimensions, prestige, and endgame awakening all feed into one coherent progression loop.
+**Tensura: Sovereign Rebirth (TSR)** is a Minecraft **1.21.1 NeoForge** RPG/civilization modpack built around Tensura: Reincarnated. The pack is designed so that character progression, race evolution, skills, equipment, subordinates, quests, nation building, bosses, dimensions, prestige, and endgame awakening all feed into one coherent progression loop.
 
 <span class="tsr-status">Version 1 Beta</span>
 
@@ -45,7 +45,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <h2>Reincarnate & Evolve</h2>
 <p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/races/">Race families <span>35</span></a>
+<a href="tensura-reference/races/">Race families <span>38</span></a>
 <a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
 </div>
 </div>

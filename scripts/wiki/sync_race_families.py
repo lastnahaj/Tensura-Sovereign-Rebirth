@@ -11,6 +11,8 @@ from urllib.parse import unquote, urlsplit
 
 from bs4 import BeautifulSoup
 from sync_progression import build, route
+from race_catalogue import FAMILY_PARTITIONS, family_partition, is_race_form, race_reference
+from race_stats import configured_stats, configuration_details
 
 ROOT = Path(__file__).resolve().parents[2]
 DOCS = ROOT / "docs"
@@ -18,12 +20,14 @@ DOCS = ROOT / "docs"
 
 def generate() -> dict[str, str]:
     graph = build()
+    media_overrides = json.loads((ROOT / 'data/race_family_media.json').read_text(encoding='utf-8'))
+    media_credits = {item['local_path']: item for source in ('tensura', 'mysticism') for item in json.loads((ROOT / f'data/upstream_{source}_media.json').read_text(encoding='utf-8'))['media'] if item.get('local_path')}
     nodes = {}
     source_pages = {}
     for source in ("tensura", "mysticism"):
         manifest = json.loads((ROOT / "data" / f"upstream_{source}_pages.json").read_text(encoding="utf-8"))
         for record in manifest["pages"]:
-            if record["category"] != "races" or record["display_title"].strip().casefold() == "races":
+            if not is_race_form(record):
                 continue
             key = route(record["local_page"])
             nodes[key] = graph["nodes"][key]
@@ -40,6 +44,13 @@ def generate() -> dict[str, str]:
             outgoing[start].append(edge)
     groups = []
     seen = set()
+    partitions = {}
+    for key, page in source_pages.items():
+        partition = family_partition(page)
+        if partition:
+            partitions.setdefault(partition, []).append(key)
+            seen.add(key)
+    groups.extend(partitions.values())
     for key in sorted(nodes):
         if key in seen:
             continue
@@ -54,6 +65,11 @@ def generate() -> dict[str, str]:
             todo.extend(sorted(adjacency[current] - seen, reverse=True))
         groups.append(group)
 
+    membership = {key: index for index, group in enumerate(groups) for key in group}
+    cross_connections = [edge for edges in outgoing.values() for edge in edges if membership[edge['from']] != membership[edge['to']]]
+    incoming = {key: [edge for edge in edges if membership[edge['from']] == membership[key]] for key, edges in incoming.items()}
+    outgoing = {key: [edge for edge in edges if membership[edge['to']] == membership[key]] for key, edges in outgoing.items()}
+
     outputs = {}
     families = []
     destinations = {}
@@ -61,11 +77,7 @@ def generate() -> dict[str, str]:
         roots = sorted([key for key in group if not incoming[key]], key=lambda key: nodes[key]["title"])
         anchors = {key: key.rstrip("/").split("/")[-1] for key in group}
         first = roots[0] if roots else sorted(group)[0]
-        title = " / ".join(nodes[key]["title"] for key in roots) if roots else nodes[first]["title"] + " connected forms"
-        if title == "Angel" and len(group) == 1:
-            title = "Angel reference"
-        if "tensura-reference/races/races-human/" in group:
-            title = "Human & Undead"
+        title = family_partition(source_pages[first]) or (" / ".join(nodes[key]["title"] for key in roots) if roots else nodes[first]["title"] + " connected forms")
         slug = re.sub(r"[^a-z0-9]+", "-", title.casefold()).strip("-")
         page = f"tensura-reference/races/families/{slug}.md"
         if page in outputs:
@@ -88,9 +100,11 @@ def generate() -> dict[str, str]:
         ordered = sorted(group, key=lambda key: (distance.get(key, 999), nodes[key]["title"]))
         images = [nodes[key]["image"] for key in ordered if nodes[key]["image"] and not any(marker in nodes[key]["image"] for marker in ("wip-", "invicon-", "essence-"))]
         image = next((value for value in images if "/upstream/" in value), "assets/images/reference-races-evolution.png")
+        image = media_overrides.get(title, image)
+        source_class = ' race-family-hero--source' if image in media_credits else ''
         image_url = posixpath.relpath(image, page_route)
         lines = ["---", f"title: {json.dumps(title + ' Evolution', ensure_ascii=False)}", f"description: {len(group)} connected race forms with documented stats, abilities, and evolution links.", "---", "",
-                 f'<section class="race-family-hero"><img src="{image_url}" alt="{html.escape(title)} race reference artwork"><div><p class="reference-eyebrow">Race family · {len(group)} forms</p><h1>{html.escape(title)} evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>', "",
+                 f'<section class="race-family-hero{source_class}"><img src="{image_url}" alt="{html.escape(title)} race reference artwork"><div><p class="reference-eyebrow">Race family · {len(group)} forms</p><h1>{html.escape(title)} evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>', "",
                  "[All race families](../index.md)", "", "## Evolution path", "",
                  '<div class="family-connection-grid" aria-label="Documented evolution paths">']
         connections = [edge for key in ordered for edge in outgoing[key]]
@@ -118,18 +132,20 @@ def generate() -> dict[str, str]:
                     absolute = posixpath.normpath(posixpath.join(key, unquote(parsed.path)))
                     anchor["href"] = posixpath.relpath(absolute, page_route) + ("/" if not posixpath.splitext(absolute)[1] else "") + ("#" + parsed.fragment if parsed.fragment else "")
                 rows.append((label_text, value.get_text(" ", strip=True), value.decode_contents()))
-            stats = [(label, text) for label, text, _ in rows if label in {"HP", "SHP", "Attack DMG", "Movement Speed", "MP Range", "AP Range"}]
+            decision = race_reference()['pages'][source_pages[key]]
+            stats = configured_stats(decision)
             tier = "Divine evolution" if any(label == "Divine" and text.casefold() == "yes" for label, text, _ in rows) else "Race form"
             stage = [f'<article class="race-stage-card" id="{anchors[key]}"><p class="race-stage-kicker">{tier}</p><h2>{html.escape(nodes[key]["title"])}</h2><div class="race-stats">']
             stage.extend(f'<span><b>{html.escape(text)}</b> {html.escape(label)}</span>' for label, text in stats)
             stage.append('</div><dl>')
+            stage.append(configuration_details(decision))
             primary_labels = {"Difficulty", "Alignment", "Spiritual", "Divine", "Intrinsics", "Skills", "Learnable", "Learnables"}
             stage.extend(f'<dt>{html.escape(label)}</dt><dd>{value}</dd>' for label, _, value in rows if label in primary_labels)
             if not rows:
                 stage.append('<dt>Stats</dt><dd>No structured race stats are published in this reference.</dd>')
             source_link = posixpath.relpath(key, page_route) + "/"
             stage.append(f'<dt>Requirements &amp; abilities</dt><dd><a href="{source_link}">Open full {html.escape(nodes[key]["title"])} reference</a></dd></dl>')
-            secondary = [(label, value) for label, _, value in rows if label not in primary_labels and label not in {item[0] for item in stats}]
+            secondary = []
             if secondary:
                 stage.append('<details class="race-secondary-stats"><summary>More race stats</summary><dl>')
                 stage.extend(f'<dt>{html.escape(label)}</dt><dd>{value}</dd>' for label, value in secondary)
@@ -138,13 +154,26 @@ def generate() -> dict[str, str]:
             following = " · ".join(f'<a href="#{anchors[e["to"]]}">{html.escape(nodes[e["to"]]["title"])} →</a>' for e in outgoing[key]) or 'No further evolution documented'
             stage.append(f'<p class="race-card-route"><span>{previous}</span><span>{following}</span></p></article>')
             lines.append("".join(stage))
-        lines.extend(['</div>', "", "Stats and relationships retain their source-page context. Evolution methods can have separate EP, naming, awakening, or other requirements; a connecting arrow alone is not an unlock condition.", "",
+        lines.extend(['</div>', ""])
+        cross_family = [edge for edge in cross_connections if edge['from'] in group or edge['to'] in group]
+        if cross_family:
+            lines.extend(['## Connections to other families', '', 'These source-described transitions do not make the two races the same family.', '', '<div class="family-connection-grid">'])
+            for edge in cross_family:
+                start, end = edge['from'], edge['to']
+                lines.append(f'<div><a href="{posixpath.relpath(start, page_route)}/">{html.escape(nodes[start]["title"])}</a><span>{html.escape(" / ".join(edge["kinds"]))} →</span><a href="{posixpath.relpath(end, page_route)}/">{html.escape(nodes[end]["title"])}</a></div>')
+            lines.extend(['</div>', ''])
+        lines.extend(["Stats and relationships retain their source-page context. Evolution methods can have separate EP, naming, awakening, or other requirements; a connecting arrow alone is not an unlock condition.", "",
                       "Source pages credit the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and [TR Mysticism Wiki](https://trmysticism.wiki.gg/) contributors under CC BY-SA 4.0. See [upstream attribution](../../../project/upstream-attribution.md) and [Mysticism attribution](../../../project/mysticism-upstream-attribution.md).", ""])
         if len(connections) > 12:
             start = lines.index('<div class="family-connection-grid" aria-label="Documented evolution paths">')
             end = lines.index('</div>', start)
             lines.insert(end + 1, '</details>')
             lines.insert(start, f'<details class="family-map-details"><summary>Explore all {len(connections)} documented connections</summary>')
+        if title in media_overrides and image in media_credits:
+            credit = media_credits[image]
+            lines.extend([f'Family image: [{credit["source_title"]}]({credit["source_file_page"]}) · {credit["license"]}.', ''])
+        elif image.startswith('assets/images/races/'):
+            lines.extend(['Family image: original TSR illustration; not an in-game model or a depiction of exact evolution stages.', ''])
         outputs[page] = "\n".join(lines)
         families.append({"title": title, "route": page_route, "image": image, "forms": len(group), "search": " ".join(nodes[key]["title"] for key in ordered)})
     extra = json.loads((ROOT / "data/ascension_reference.json").read_text(encoding="utf-8"))
@@ -161,10 +190,62 @@ def generate() -> dict[str, str]:
         target = posixpath.relpath(family["route"], index_route) + "/"
         image = posixpath.relpath(family["image"], index_route)
         search = html.escape((family["title"] + " " + family["search"]).casefold(), quote=True)
-        lines.append(f'<article class="reference-card" data-search="{search}" data-letter="{family["title"][0].upper()}"><a href="{target}" aria-label="Open {html.escape(family["title"])} evolution"><figure class="reference-card-media"><img src="{image}" alt="" loading="lazy"></figure><div class="reference-card-copy"><h2>{html.escape(family["title"])}</h2><p>{family["forms"]} documented forms · Evolution map and stat cards</p></div></a></article>')
+        media_class = ' reference-card-media--portrait' if family['image'] in media_credits else ''
+        lines.append(f'<article class="reference-card" data-search="{search}" data-letter="{family["title"][0].upper()}"><a href="{target}" aria-label="Open {html.escape(family["title"])} evolution"><figure class="reference-card-media{media_class}"><img src="{image}" alt="" loading="lazy"></figure><div class="reference-card-copy"><h2>{html.escape(family["title"])}</h2><p>{family["forms"]} documented forms · Evolution map and stat cards</p></div></a></article>')
     lines.extend(['</div><p class="reference-no-results" hidden>No race families match this search.</p></section>', '', '[Complete evolution relationship index](evolution-trees.md)', ''])
     outputs['tensura-reference/races/index.md'] = "\n".join(lines).replace('data-reference-directory="races"', 'data-reference-directory="races" data-reference-unit="race families"')
     outputs['assets/data/race-families.json'] = json.dumps({"families":families,"destinations":destinations},ensure_ascii=False,indent=2) + "\n"
+    # Preserve the former overview URL without presenting it as an evolution.
+    overview_page = 'tensura-reference/races/families/angel-reference.md'
+    overview_route = route(overview_page)
+    overview = ['---', 'title: Angel Overview', 'search:', '  exclude: true', '---', '',
+                '<span id="angel"></span>', '# Angel overview', '',
+                'This overview links to documented angelic branches; it is not a separate race form.', '']
+    for source, label in (('lesser-angel', 'Lesser Angel'), ('lesser-fallen', 'Fallen Angel'), ('phantom', 'Phantom')):
+        destination = destinations[f'mysticism-reference/races/{source}/']
+        overview.append(f'<p><a href="{posixpath.relpath(destination, overview_route)}">Explore {label}</a></p>')
+    overview.extend(['', '[All race families](../index.md)', ''])
+    outputs[overview_page] = '\n'.join(overview)
+    # Keep unavailable family URLs readable without retaining active stage cards.
+    for title in ('Spider', 'Insect', 'Divine Fire Ant'):
+        if any(family['title'] == title for family in families):
+            continue
+        slug = title.casefold().replace(' ', '-')
+        legacy = ['---', f'title: {title} Reference Status', 'search:', '  exclude: true', '---', '', f'# {title} reference status', '', 'This is not a separate current race family. Consult the current directory for registered forms and the individual source pages for version limits.', '', '[Current race families](../index.md)', '']
+        for page, decision in race_reference()['pages'].items():
+            if family_partition(page) != title and decision['title'] != title:
+                continue
+            anchor = page.removesuffix('.md').split('/')[-1]
+            target = destinations.get(route(page), route(page))
+            relative_target = posixpath.relpath(target, f"tensura-reference/races/families/{slug}/") + ('/' if target.endswith('/') else '')
+            legacy.append(f'<p id="{anchor}"><a href="{relative_target}">{html.escape(decision["title"])}</a></p>')
+        outputs[f'tensura-reference/races/families/{slug}.md'] = '\n'.join(legacy) + '\n'
+    # Old merged URLs remain usable, but no longer render combined stage cards.
+    for old_slug, family_names in {'human-undead': ['Human', 'Wight', 'Ghoul'], 'mantis-scorpion-spider': ['Mantis', 'Scorpion', 'Spider'], 'poison-soul-insect': ['Scorpion']}.items():
+        old_page = f'tensura-reference/races/families/{old_slug}.md'
+        old_route = route(old_page)
+        links = ['---', 'title: Race Family Navigation', 'search:', '  exclude: true', '---', '', '# Explore individual race families', '']
+        for family in families:
+            if family['title'] in family_names:
+                links.append(f'<p><a href="{posixpath.relpath(family["route"], old_route)}/">{html.escape(family["title"])}</a></p>')
+        for source, destination in destinations.items():
+            if any(family['title'] in family_names and destination.startswith(family['route']) for family in families):
+                anchor = source.rstrip('/').split('/')[-1]
+                links.append(f'<p id="{anchor}"><a href="{posixpath.relpath(destination, old_route)}">{html.escape(nodes[source]["title"])}</a></p>')
+        outputs[old_page] = '\n'.join(links) + '\n'
+    home_index = DOCS / 'index.md'
+    outputs['index.md'] = re.sub(r'(<a href="tensura-reference/races/">Race families <span>)\d+(</span>)', lambda match: match[1] + str(len(families)) + match[2], home_index.read_text(encoding='utf-8'))
+    evolution_route = 'tensura-reference/races/evolution-trees/'
+    evolution = ['# Race Evolution Relationships', '', 'Browse the current mapped families. Imported forms must match the recorded 1.21.1 registry; a connection remains a source-described relationship, not a complete or independently verified unlock condition.', '', '[Browse race family cards](index.md)', '']
+    for family in sorted(families, key=lambda item: item['title']):
+        evolution.extend([f'<details class="family-map-details"><summary>{html.escape(family["title"])} · {family["forms"]} mapped forms</summary>', f'<p><a href="{posixpath.relpath(family["route"], evolution_route)}/">Open {html.escape(family["title"])} family</a></p>', '<ul>'])
+        for source, destination in destinations.items():
+            if not destination.startswith(family['route'] + '#'):
+                continue
+            evolution.append(f'<li><a href="{posixpath.relpath(destination, evolution_route)}">{html.escape(nodes[source]["title"])}</a></li>')
+        evolution.extend(['</ul>', '</details>', ''])
+    outputs['tensura-reference/races/evolution-trees.md'] = '\n'.join(evolution)
+    outputs['mysticism-reference/races/index.md'] = '# Race Families\n\n[Browse the unified current race families](../../tensura-reference/races/index.md). Unmatched source pages remain reference-only and are excluded from current progression.\n'
     reference_index = DOCS / 'tensura-reference/index.md'
     if reference_index.exists():
         outputs['tensura-reference/index.md'] = re.sub(r'<a href="races/">(?:Races|Race families) <span>\d+</span>', f'<a href="races/">Race families <span>{len(families)}</span>', reference_index.read_text(encoding='utf-8'))
@@ -184,7 +265,7 @@ def main() -> int:
         else:
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text(content, encoding='utf-8')
-    print(f'Race families OK: {sum("/races/families/" in name for name in outputs)} generated family pages, six maintained family maps')
+    print(f'Race families OK: {len(json.loads(outputs["assets/data/race-families.json"])["families"])} families with compatibility routes')
     return 0
 
 

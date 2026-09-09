@@ -68,31 +68,24 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-slime/">
-<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
 <span class="reference-related-copy">
 <strong>Slime</strong>
-<small>A Spectral race of monsters that lacks intelligence and ambition. They&#x27;re usually passive but are incredibly ruthless…</small>
+<small>A Spectral race of monsters that lacks intelligence and ambition. They're usually passive but are incredibly ruthless…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Bird</strong>
 <small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
 </span>
 </a>
-<a class="reference-related-card" href="../races/">
-<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Races</strong>
-<small>The Many Difference Races of Tensura: Reincarnated</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-spirit-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Boar</strong>
-<small>&quot; Spooky Bear... how boaring... &quot;</small>
+<small>" Spooky Bear... how boaring... "</small>
 </span>
 </a>
 </div>

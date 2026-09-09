@@ -1,0 +1,16 @@
+{
+  "Ghoul": "assets/images/races/ghoul.png",
+  "Giant": "assets/images/races/giant.png",
+  "Beastfolk": "assets/images/races/beastfolk.png",
+  "Ogre": "assets/images/races/ogre.png",
+  "Dwarf": "assets/images/races/dwarf.png",
+  "Wight": "assets/images/races/wight.png",
+  "Goblin": "assets/images/races/goblin.png",
+  "Harpy": "assets/images/races/harpy.png",
+  "Human": "assets/upstream/tensura/races/racehuman-de4f15d1c8.png",
+  "Elf": "assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp",
+  "Merfolk": "assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp",
+  "Slime": "assets/upstream/tensura/races/raceslime-0c1d6d9158.png",
+  "Lizardman": "assets/upstream/tensura/races/racelizardman-a21cb77633.png",
+  "Orc": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"
+}

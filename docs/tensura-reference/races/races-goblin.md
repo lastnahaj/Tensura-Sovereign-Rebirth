@@ -103,31 +103,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Giant</strong>
 <small>A race that can freely change their size becoming massive and increasing their physical strength</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-god-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>God Slime</strong>
-<small>&quot; The Fattest Boi Around &quot;</small>
+<small>" The Fattest Boi Around "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-ghoul/">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
 <span class="reference-related-copy">
 <strong>Ghoul</strong>
 <small>A Vampiric thrall brought about by Blood Raise, highly weakened by sunlight.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-greater-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Greater Daemon</strong>
-<small>&quot; Huh? You think you&#x27;re something now? Get out my sight... &quot;</small>
+<small>" Huh? You think you're something now? Get out my sight... "</small>
 </span>
 </a>
 </div>

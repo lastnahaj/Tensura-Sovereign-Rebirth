@@ -73,28 +73,21 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-orc-disaster/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Disaster</strong>
-<small>&quot; Wow... That&#x27;s a... Disaster! I&#x27;m here all night!!! &quot;</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races/">
-<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Races</strong>
-<small>The Many Difference Races of Tensura: Reincarnated</small>
+<small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc/">
-<img src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc</strong>
 <small>A race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-slime/">
-<img src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
 <span class="reference-related-copy">
 <strong>Slime</strong>
 <small>Charge up a super slime jump</small>

@@ -76,29 +76,22 @@ No</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-ro
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../army-wasp-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Army Wasp Saint</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../attuned-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png"/>
 <span class="reference-related-copy">
 <strong>Attuned Wyrm</strong>
 <small>Lesser Glacier Wyrm : Consume 1 Ice Essence</small>
 </span>
 </a>
 <a class="reference-related-card" href="../army-wasp-insectar/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Army Wasp Insectar</strong>
 <small>Army Wasp Saint - 500K EP + Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../beetle/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Beetle</strong>
 <small>Only 1 block tall. Stag Beetle = 10,000 Ep Drone Beetle = 10,000 Ep 1.21.1 – ??? 1.19.2 – Added to the game.</small>

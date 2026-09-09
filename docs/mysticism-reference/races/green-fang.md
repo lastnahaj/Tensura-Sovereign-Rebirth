@@ -79,28 +79,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../greater-pyre-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Greater Pyre Wyrm</strong>
 <small>Scorchtail Salamander - Have 180K EP, Mastered Flame Manipulation and Profaned Prominence. Sunfire Lindwurm - Have…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../guitar-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Guitar Wolf</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../greater-glacier-wyrm/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Greater Glacier Wyrm</strong>
 <small>Frostcoil Sea Serpent - Have 200K EP, Mastered Water Manipulation and Cryogenic Cessation. Rimefang Drake - Have 200K…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hardshell-ant/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Hardshell Ant</strong>
 <small>Has 10 armor points. (if possible, move this to the specific stats section.)</small>

@@ -72,31 +72,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-devil-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Devil Lord</strong>
 <small>Creative flight (unaffected by Magic Jamming )</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-beast/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Beast</strong>
-<small>&quot; This is one Divine Beast... ha &quot;</small>
+<small>" This is one Divine Beast... ha "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-demon-slime/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Demon Slime</strong>
-<small>&quot; Insert Funny quip here &quot;</small>
+<small>" Insert Funny quip here "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Boar</strong>
-<small>&quot; Sounds like one tasty boar... how divine &quot;</small>
+<small>" Sounds like one tasty boar... how divine "</small>
 </span>
 </a>
 </div>

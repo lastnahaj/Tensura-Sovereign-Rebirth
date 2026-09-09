@@ -72,28 +72,28 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../divine-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Wolf</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dragonoid/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Dragonoid</strong>
-<small>&quot; Wannabe True Dragon &quot;</small>
+<small>" Wannabe True Dragon "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../divine-tengu/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Divine Tengu</strong>
 <small>The Tengu Race grants the ability to toggle flight when not crouching or sprinting. Activating or deactivating flight…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../drone-beetle/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Drone Beetle</strong>
 <small>Creative Flight Drone Beetle Insectar = 100,000 Ep 1.21.1 – ??? 1.19.2 – Added to the game.</small>

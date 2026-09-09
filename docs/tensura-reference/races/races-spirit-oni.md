@@ -72,31 +72,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-spirit-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Boar</strong>
-<small>&quot; Spooky Bear... how boaring... &quot;</small>
+<small>" Spooky Bear... how boaring... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-skeleton/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Skeleton</strong>
-<small>&quot; Spooky Scary... Sometimes the jokes write themselves. &quot;</small>
+<small>" Spooky Scary... Sometimes the jokes write themselves. "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Bird</strong>
 <small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-true-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>True Dragonewt</strong>
-<small>&quot; still not a dragon... stay mad &quot;</small>
+<small>" still not a dragon... stay mad "</small>
 </span>
 </a>
 </div>

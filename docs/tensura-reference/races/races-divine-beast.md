@@ -59,31 +59,31 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-divine-bird/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine  Bird</strong>
-<small>I asked for some strong KFC but didn&#x27;t expect this The ultimate evolution of a harpy</small>
+<small>I asked for some strong KFC but didn't expect this The ultimate evolution of a harpy</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Boar</strong>
-<small>&quot; Sounds like one tasty boar... how divine &quot;</small>
+<small>" Sounds like one tasty boar... how divine "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-devil-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Devil Lord</strong>
 <small>Creative flight (unaffected by Magic Jamming )</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-divine-dragon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Divine Dragon</strong>
-<small>&quot; what? you want a cookie or something? &quot;</small>
+<small>" what? you want a cookie or something? "</small>
 </span>
 </a>
 </div>

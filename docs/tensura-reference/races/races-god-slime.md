@@ -66,31 +66,31 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-goblin/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Goblin</strong>
 <small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-greater-daemon/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Greater Daemon</strong>
-<small>&quot; Huh? You think you&#x27;re something now? Get out my sight... &quot;</small>
+<small>" Huh? You think you're something now? Get out my sight... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-giant/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Giant</strong>
 <small>A race that can freely change their size becoming massive and increasing their physical strength</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-harpy/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Harpy</strong>
-<small>Harpy? No I can&#x27;t play on of those A being similar to beastfolks specialized in air combat</small>
+<small>Harpy? No I can't play on of those A being similar to beastfolks specialized in air combat</small>
 </span>
 </a>
 </div>

@@ -73,31 +73,24 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-orc/">
-<img src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc</strong>
 <small>A race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-lord/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
-<small>&quot; I hunger... *Opens UberEats* (Sponsor us) &quot;</small>
+<small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-ogre/">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
 <span class="reference-related-copy">
 <strong>Ogre</strong>
 <small>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races/">
-<img src="../../../assets/upstream/tensura/races/raceslime-0c1d6d9158.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Races</strong>
-<small>The Many Difference Races of Tensura: Reincarnated</small>
 </span>
 </a>
 </div>

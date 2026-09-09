@@ -80,29 +80,22 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../angel/">
-<img src="../../../assets/upstream/mysticism/races/fallenangel-f6645f3aed.jpg" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Angel</strong>
-<small>Angel Fallen Angel Phantom</small>
-</span>
-</a>
 <a class="reference-related-card" href="../arch-angel/">
-<img src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
 <span class="reference-related-copy">
 <strong>Arch Angel</strong>
 <small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../arch-fallen/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Arch Fallen</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../archdoll/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Archdoll</strong>
 <small>(Remove this once finalized)</small>

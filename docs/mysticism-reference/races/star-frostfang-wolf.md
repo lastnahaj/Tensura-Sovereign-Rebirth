@@ -6,11 +6,17 @@ tags:
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
+search:
+  exclude: true
 ---
 
 # Star Frostfang Wolf
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This article has not been matched to a registered race in the recorded Mysticism 2.1.2 build for Minecraft 1.21.1. It may describe an older name or unavailable content. It is excluded from current race families and progression; do not use its stats or requirements as current TSR guidance.</p><p><a href="../../../tensura-reference/races/">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -78,29 +84,15 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../star-blaze-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Star Blaze Wolf</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../star-guitar-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Star Guitar Wolf</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../stag-beetle-saint/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Stag Beetle Savant</strong>
 <small>Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../star-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Star Soul Insect</strong>
 <small>(Remove this once finalized)</small>

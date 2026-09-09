@@ -6,11 +6,17 @@ tags:
 - Work_in_Progress
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
+search:
+  exclude: true
 ---
 
 # Empress Wasp
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
+
+<!-- race-reference:start -->
+<section class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This article has not been matched to a registered race in the recorded Mysticism 2.1.2 build for Minecraft 1.21.1. It may describe an older name or unavailable content. It is excluded from current race families and progression; do not use its stats or requirements as current TSR guidance.</p><p><a href="../../../tensura-reference/races/">Browse current race families</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Recorded release</a></p></section>
+<!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -79,28 +85,28 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../elemental-lord/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Elemental Lord</strong>
 <small>Spirits Race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../empty/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Empty</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth-soul-insect/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Earth Soul Insect</strong>
 <small>Has 17 armor points. (if possible, move this to the specific stats section.)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../enflamed-aberration/">
-<img src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
 <span class="reference-related-copy">
 <strong>Enflamed Aberration</strong>
 <small>Is blind. Violence Deity - Eat 30 Blaze Essence + 2M EP as Enflamed Aberration. 1.21.1 – Ported 1.19.2 – Added to the…</small>

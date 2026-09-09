@@ -79,31 +79,31 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-spirit-oni/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Oni</strong>
-<small>&quot; OoOOooOoo Spooky Demog &quot;</small>
+<small>" OoOOooOoo Spooky Demog "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-true-dragonewt/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>True Dragonewt</strong>
-<small>&quot; still not a dragon... stay mad &quot;</small>
+<small>" still not a dragon... stay mad "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-spirit-boar/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Spirit Boar</strong>
-<small>&quot; Spooky Bear... how boaring... &quot;</small>
+<small>" Spooky Bear... how boaring... "</small>
 </span>
 </a>
 <a class="reference-related-card" href="../races-vampire/">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
 <span class="reference-related-copy">
 <strong>Vampire</strong>
-<small>&quot; I vant to suck your blood &quot;</small>
+<small>" I vant to suck your blood "</small>
 </span>
 </a>
 </div>

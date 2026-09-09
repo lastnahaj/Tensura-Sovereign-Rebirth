@@ -80,28 +80,28 @@ Majin</div></div></div><div class="druid-section-container"><div data-druid-sect
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../medium-elemental/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Medium Elemental</strong>
 <small>Spirits race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../molten-spirit-wolf/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Molten Spirit Wolf</strong>
 <small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mantis/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Mantis</strong>
 <small>Lixivant Mantis - Acquire 10K EP</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mystic-angel/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
 <span class="reference-related-copy">
 <strong>Mystic Angel</strong>
 <small>Creative Flight. Spiritual being. 2.3M Minimum EP if evolved from Staff Officer. 1.21.1 – Ported 1.19.2 – Added to the…</small>

@@ -1793,6 +1793,8 @@
 .race-stage-card dd a { display: inline-block; }
 [data-md-color-scheme="slate"] { --md-typeset-a-color: var(--tsr-cyan); }
 .race-secondary-stats { margin: .65rem 0; }
+.race-family-hero--source > img,
+.reference-card-media--portrait img { object-fit: contain; background: #0b172a; }
 .race-secondary-stats > summary { font-size: .65rem; }
 .family-connection-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; margin: .8rem 0 1.2rem; }
 .family-connection-grid > div { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem; padding: .65rem; border: 1px solid rgba(51, 214, 255, .18); border-radius: .55rem; font-size: .65rem; }
@@ -1925,3 +1927,8 @@
   .dimension-hero { grid-template-columns: 4.5rem minmax(0, 1fr); }
   .dimension-hero img { width: 4rem; height: 4rem; }
 }
+/* Compact encyclopedia statistics keep entity cards readable at every width. */
+.reference-card-stats { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); margin: 1rem 0; font-size: .8rem; }
+.reference-card-stats dt, .reference-card-stats dd { margin: 0; padding: .4rem .5rem; border-bottom: 1px solid var(--md-default-fg-color--lightest); overflow-wrap: anywhere; }
+.reference-card-stats dt { font-weight: 700; }
+.reference-card-source-note { display: block; margin-bottom: .8rem; color: var(--md-default-fg-color--light); }
