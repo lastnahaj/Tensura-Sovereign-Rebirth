@@ -11,7 +11,7 @@ TSR's handcrafted FTB Quests campaign targets **8 Acts**, **32 Chapters**, and a
 | 0 | Welcome, Otherworlder | Onboarding, terminology, teams, claims, and progression map |
 | 1 | Reincarnated | Race choice, early survival, base skills, EP, Magicules, and Aura |
 | 2 | Paths of Power | Skills, Great Sage, magic, equipment, and specialization |
-| 3 | Monsters Among Monsters | Guild work, Unique Monsters, hunting, and boss preparation |
+| 3 | Monsters Among Monsters | Quest objectives, hunting, and boss preparation |
 | 4 | Birth of a Nation | Naming, subordinates, MineColonies, logistics, and settlement growth |
 | 5 | Beyond This World | Dimensions, portals, exploration, and external boss branches |
 | 6 | The Harvest Festival | Demon Lord/Hero progression, souls, and awakening requirements |

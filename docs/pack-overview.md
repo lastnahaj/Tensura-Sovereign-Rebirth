@@ -4,7 +4,7 @@ TSR is organized around six connected progression pillars.
 
 ## Character
 
-**Tensura: Reincarnated** provides the foundational character system. SlimeThrone Extras, Ascension, Mysticism, Origins, Better Subordinates, Great Sage, Skill Books, and selected addons extend it. TensuraMorph and ReMorphed provide the configured [mimicry path](mimicry-and-forms/index.md).
+**Tensura: Reincarnated** provides the foundational character system. SlimeThrone Extras, Ascension, Mysticism, Nightmares, Origins, Better Subordinates, Great Sage, Skill Books, and selected addons extend it. See the [Current Modlist](current-modlist.md) for the recorded inventory and version limits.
 
 ## Equipment
 

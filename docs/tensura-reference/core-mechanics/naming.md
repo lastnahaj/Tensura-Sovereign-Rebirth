@@ -89,7 +89,7 @@ If this is done after the requirements, killing something should cause it to upd
 
 <span class="tsr-status">Integrated progression</span>
 
-TSR connects base Naming to Better Subordinates, guild and settlement progression, and the installed MineColonies bridge. Quest detection for subordinate milestones is not claimed until the relevant runtime events are verified.
+TSR connects base Naming to Better Subordinates, settlement progression, and the installed MineColonies bridge. Quest detection for subordinate milestones is not claimed until the relevant runtime events are verified.
 
 **TSR guides:** [Subordinates & Naming](../../subordinates-and-naming.md) · [MineColonies & Nations](../../minecolonies-and-nations.md)
 

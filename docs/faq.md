@@ -58,7 +58,7 @@ FTB Quests owns the planned eight-act handcrafted campaign, while SlimeThrone ow
 
 ## Is MineColonies required?
 
-It is a major civilization branch and part of TSR's identity, but the design supports parallel character, guild, equipment, magic, boss, and exploration tracks. Final campaign requirements are not claimed before quest authoring.
+It is a major civilization branch and part of TSR's identity, but the design supports parallel character, quest, equipment, magic, boss, and exploration tracks. Final campaign requirements are not claimed before quest authoring.
 
 ## Are all bosses or test candidates guaranteed to ship?
 

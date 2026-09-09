@@ -13,10 +13,10 @@ The playable profile contains far more than the two upstream article collections
 <img src="../assets/images/reference-races-evolution.png" alt="A reincarnated adventurer facing branching paths" loading="lazy" decoding="async">
 <div class="reference-path-copy">
 <h2>Character systems</h2>
-<p>Races, evolution, skills, Great Sage, mimicry, gear growth, and external magic.</p>
+<p>Races, evolution, skills, Great Sage, gear growth, and external magic.</p>
 <div class="reference-path-links">
 <a href="../race-and-evolution/">Race & evolution</a>
-<a href="../mimicry-and-forms/">Mimicry & forms</a>
+<a href="../tensura-reference/skills/">Skills & abilities</a>
 <a href="../gear-evolution/">Gear evolution</a>
 </div>
 </div>
@@ -56,7 +56,7 @@ The playable profile contains far more than the two upstream article collections
 <a href="../magic/">Magic</a>
 <a href="../storage-and-logistics/">Storage</a>
 <a href="../quests-and-shop/">Quests & shop</a>
-<a href="../current-modlist/">Search all 249 mods</a>
+<a href="../current-modlist/">Search current mods</a>
 </div>
 </div>
 </article>
@@ -70,7 +70,6 @@ Each row names the player-facing additions covered by that route. **Startup veri
 | Route | Included systems | Current evidence |
 |---|---|---|
 | [Character progression](../progression-overview.md) | Tensura core and extensions, Great Sage, Origins, Ascension, SlimeThrone Extras, Skill Books, Gear Evolution | Core startup and configuration verified; extended progression under validation |
-| [Mimicry & forms](../mimicry-and-forms/index.md) | TensuraMorph, ReMorphed, Woodwalkers, CraftedCore | Startup verified; unlock-bypass policy verified |
 | [Magic](../magic.md) | Iron's Spells 'n Spellbooks, Tensura compatibility, MineColonies Mages | Client/server startup and configuration verified |
 | [Adventure, travel & loot](../adventure-travel-and-loot/index.md) | Beyond Adventures, Lootr, Waystones, Nature's Compass | Assembled-profile startup verified; extended gameplay under validation |
 | [Bosses & dimensions](../bosses-and-dimensions.md) | Native boss layer, Bosses' Rise, Legendary Monsters, Cataclysm, Mowzie's Mobs, Twilight Forest, The Aether | Present in the profile; individual balance and progression checks remain |

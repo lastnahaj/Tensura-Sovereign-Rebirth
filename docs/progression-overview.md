@@ -6,7 +6,7 @@ The intended high-level character arc is:
 → **Early survival**<br>
 → **Race development**<br>
 → **Skill acquisition/mastery**<br>
-→ **Guild progression**<br>
+→ **Quests and exploration**<br>
 → **Gear evolution**<br>
 → **Subordinates and naming**<br>
 → **Settlement / nation**<br>
@@ -26,7 +26,7 @@ TSR deliberately supports several parallel tracks:
 | Prestige / NG+ | SlimeThrone Extras |
 | Ultimate awakening | Ascension |
 | Equipment | Gear Evolution + Metalworks |
-| Adventure | Guild + bosses + dimensions |
+| Adventure | Quests + bosses + dimensions |
 | Civilization | MineColonies + Tensura x MineColonies |
 | Personal storage | Sophisticated Backpacks |
 | Base storage | Sophisticated Storage |

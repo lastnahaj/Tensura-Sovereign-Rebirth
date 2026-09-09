@@ -31,7 +31,6 @@ The opening chapter gives players a concise rundown of:
 - Great Sage,
 - Gear Evolution,
 - SlimeThrone Prestige,
-- Guild progression,
 - MineColonies,
 - claims/teams,
 - bosses,
@@ -54,4 +53,4 @@ Planned categories include:
 
 The Shop does **not** sell completed awakenings, Ultimate Skills, top-tier finished gear, Soul Grade, or other progression-ending rewards.
 
-Normal mob coin drops are disabled or kept near-zero; currency primarily comes from quests, guild progression, bosses, and repeatable systems.
+Normal mob coin drops are disabled or kept near-zero; currency primarily comes from quests, bosses, and repeatable systems.
