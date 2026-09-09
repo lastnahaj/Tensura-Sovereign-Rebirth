@@ -3,7 +3,7 @@ title: "Wasp Evolution"
 description: 8 connected race forms with documented stats, abilities, and evolution links.
 ---
 
-<section class="race-family-hero"><img src="../../../../assets/images/reference-races-evolution.png" alt="Wasp race reference artwork"><div><p class="reference-eyebrow">Race family · 8 forms</p><h1>Wasp evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>
+<section class="race-family-hero race-family-hero--source"><img src="../../../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="Wasp race reference artwork"><div><p class="reference-eyebrow">Race family · 8 forms</p><h1>Wasp evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>
 
 [All race families](../index.md)
 
@@ -67,3 +67,7 @@ Yes</dd><dt>Intrinsics</dt><dd>
 Stats and relationships retain their source-page context. Evolution methods can have separate EP, naming, awakening, or other requirements; a connecting arrow alone is not an unlock condition.
 
 Source pages credit the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and [TR Mysticism Wiki](https://trmysticism.wiki.gg/) contributors under CC BY-SA 4.0. See [upstream attribution](../../../project/upstream-attribution.md) and [Mysticism attribution](../../../project/mysticism-upstream-attribution.md).
+
+Family image: [Army wasp.gif](https://tensura.wiki.gg/wiki/File:Army_wasp.gif) · CC BY-SA 4.0.
+
+This creature reference illustrates the family; it is not a guarantee of player-model appearance.

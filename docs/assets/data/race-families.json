@@ -10,7 +10,7 @@
     {
       "title": "Lesser Daemon",
       "route": "tensura-reference/races/families/lesser-daemon/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/mobs/lesser-daemon-de60c812bc.gif",
       "forms": 5,
       "search": "Lesser Daemon Greater Daemon Arch Daemon Daemon Lord Devil Lord"
     },
@@ -108,7 +108,7 @@
     {
       "title": "Ant",
       "route": "tensura-reference/races/families/ant/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "forms": 9,
       "search": "Ant Divine Fire Ant Fire Ant Hardshell Ant Fire Ant Insectar Hardshell Ant Insectar Earth Soul Insect Hardshell Ant Savant Divine Hardshell Ant"
     },
@@ -129,7 +129,7 @@
     {
       "title": "Wasp",
       "route": "tensura-reference/races/families/wasp/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "forms": 8,
       "search": "Wasp Army Wasp Queen Wasp Army Wasp Insectar Queen Wasp Insectar Star Soul Insect Wind Soul Insect Divine Army Wasp"
     },
@@ -157,14 +157,14 @@
     {
       "title": "Direwolf",
       "route": "tensura-reference/races/families/direwolf/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "forms": 14,
       "search": "Direwolf Black Fang Blue Fang Brown Fang Green Fang Guitar Wolf Light Fang Purple Fang Red Fang Scorch Wolf Blazing Scorch Wolf Mystical Black Fang Molten Spirit Wolf Divine Wolf"
     },
     {
       "title": "Centipede",
       "route": "tensura-reference/races/families/centipede/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "forms": 13,
       "search": "Centipede Blue Centipede Purple Centipede Yellow Centipede Blue Centipede Insectar Purple Centipede Insectar Yellow Centipede Insectar Paralysis Soul Insect Spatial Soul Insect Water Soul Insect Divine Blue Centipede Divine Purple Centipede Divine Yellow Centipede"
     },

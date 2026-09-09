@@ -172,6 +172,8 @@ def generate() -> dict[str, str]:
         if title in media_overrides and image in media_credits:
             credit = media_credits[image]
             lines.extend([f'Family image: [{credit["source_title"]}]({credit["source_file_page"]}) · {credit["license"]}.', ''])
+            if '/mobs/' in image:
+                lines.extend(['This creature reference illustrates the family; it is not a guarantee of player-model appearance.', ''])
         elif image.startswith('assets/images/races/'):
             lines.extend(['Family image: original TSR illustration; not an in-game model or a depiction of exact evolution stages.', ''])
         outputs[page] = "\n".join(lines)

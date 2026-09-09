@@ -1,4 +1,9 @@
 {
+  "Ant": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
+  "Wasp": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
+  "Centipede": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
+  "Direwolf": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
+  "Lesser Daemon": "assets/upstream/tensura/mobs/lesser-daemon-de60c812bc.gif",
   "Ghoul": "assets/images/races/ghoul.png",
   "Giant": "assets/images/races/giant.png",
   "Beastfolk": "assets/images/races/beastfolk.png",
