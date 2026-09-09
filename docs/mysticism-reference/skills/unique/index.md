@@ -44,6 +44,7 @@
 <h2>Butcher</h2>
 
 <p>Oh, your heart, Aortic work of art, My love, my knife</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -58,6 +59,7 @@
 <h2>Captivator</h2>
 
 <p>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the other way around? Whatever it may be, your eyes shine…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -72,6 +74,7 @@
 <h2>Coalescence</h2>
 
 <p>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -86,6 +89,7 @@
 <h2>Constant</h2>
 
 <p>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -100,6 +104,7 @@
 <h2>Corroder</h2>
 
 <p>Corroder? More toxic than my ex somehow</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -114,6 +119,7 @@
 <h2>Crasher</h2>
 
 <p>The essence of &quot;deletion&quot;. Completely and utterly erase your foes from the plane of existence with the power of your sheer will alone.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -128,6 +134,7 @@
 <h2>Cultivator</h2>
 
 <p>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator walks the path of self-perfection and dominion…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -142,6 +149,7 @@
 <h2>Dreamer</h2>
 
 <p>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the saved values and instantly teleport you to the…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -156,6 +164,7 @@
 <h2>Engineer</h2>
 
 <p>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either. Perhaps it was always meant to be.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -170,6 +179,7 @@
 <h2>Gardener</h2>
 
 <p>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in turn, the crops bless you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -184,6 +194,7 @@
 <h2>Hidden Ruler</h2>
 
 <p>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every call...</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -198,6 +209,7 @@
 <h2>Kyurem</h2>
 
 <p>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -212,6 +224,7 @@
 <h2>Malleable</h2>
 
 <p>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -226,6 +239,7 @@
 <h2>Melancholy</h2>
 
 <p>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws objects or air, amplifying the feeling of hopelessness…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -240,6 +254,7 @@
 <h2>Phaser</h2>
 
 <p>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -254,6 +269,7 @@
 <h2>Provider</h2>
 
 <p>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -268,6 +284,7 @@
 <h2>Reducer</h2>
 
 <p>Damn bro, no magicules?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -282,6 +299,7 @@
 <h2>Repeater</h2>
 
 <p>Any physical damage you perform will be repeated a second time.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -296,6 +314,7 @@
 <h2>Reshiram</h2>
 
 <p>&quot;You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful world you seek so badly?&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -310,6 +329,7 @@
 <h2>Restricted</h2>
 
 <p>The user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to them on reincarnation by their race, OR if a skill…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -324,6 +344,7 @@
 <h2>Scholar</h2>
 
 <p>Have you heard about the Scholar of 53?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -338,6 +359,7 @@
 <h2>Schrodinger</h2>
 
 <p>Schrodinger? Like the cat?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -352,6 +374,7 @@
 <h2>Spiritualist</h2>
 
 <p>The Soul formula is as follows: (Mainhand Weapon Damage + Base Atk Dmg) x Critical Multiplier (typically 1.5) / 5</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -366,6 +389,7 @@
 <h2>Stagnator</h2>
 
 <p>Stagnate the world around you, could this be a jojo reference...?</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -380,6 +404,7 @@
 <h2>Subjugator</h2>
 
 <p>Empower your allies to fight with you and benefit from their fait, start subjugating it!</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -394,6 +419,7 @@
 <h2>Victorious Harbinger</h2>
 
 <p>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -408,6 +434,7 @@
 <h2>Zekrom</h2>
 
 <p>&quot;You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path with a clap of lightning.&quot;)</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

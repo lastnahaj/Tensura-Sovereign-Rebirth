@@ -42,6 +42,7 @@
 <h2>Bullet Punch</h2>
 
 <p>When mastered, becomes toggleable.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -56,6 +57,7 @@
 <h2>Corrosion Transform</h2>
 
 <p>Channel your inner corrosion to burn and bleed of the flesh of your enemies</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -70,6 +72,7 @@
 <h2>Discharge</h2>
 
 <p>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without thundering weather.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -84,6 +87,7 @@
 <h2>Dissonance</h2>
 
 <p>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that deal massive Electricity Damage to all those…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -98,6 +102,7 @@
 <h2>Exoskeleton</h2>
 
 <p>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes Toggleable on mastery</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -112,6 +117,7 @@
 <h2>Hell Hall</h2>
 
 <p>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -126,6 +132,7 @@
 <h2>Lethal Poison</h2>
 
 <p>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -140,6 +147,7 @@
 <h2>Lightning Mode</h2>
 
 <p>Burst forth with great speed and power, enhancing your abilities for a short period of time.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -154,6 +162,7 @@
 <h2>Magisteel Body</h2>
 
 <p>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -168,6 +177,7 @@
 <h2>Paralysis Transform</h2>
 
 <p>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -182,6 +192,7 @@
 <h2>Poison Transform</h2>
 
 <p>Channel your inner poison to inject deadly venom into your target trough every pore.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -196,6 +207,7 @@
 <h2>Relapse</h2>
 
 <p>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well. Relapse and claim what belongs to you.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -210,6 +222,7 @@
 <h2>Spark</h2>
 
 <p>Light your fists and weaponry ablaze.&quot;</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -224,6 +237,7 @@
 <h2>Tenacity</h2>
 
 <p>Become tenacious and repair your body. Since magic and mana itself has rejected you, utilise your pure aura alone.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

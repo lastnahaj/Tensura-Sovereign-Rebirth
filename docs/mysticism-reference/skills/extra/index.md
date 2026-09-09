@@ -37,6 +37,7 @@
 <h2>Cryogenic Cessation</h2>
 
 <p>Command your absolute authority over Deceleration, allowing you to freeze all enemies with ice and spew superchilled ice. Additionally, freeze the surroundings into ice.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -51,6 +52,7 @@
 <h2>Darkness Domination</h2>
 
 <p>Boosts the power of Darkness abilities by a great amount.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -65,6 +67,7 @@
 <h2>Darkness Manipulation</h2>
 
 <p>Boosts the power of Darkness abilities by a decent amount.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -79,6 +82,7 @@
 <h2>Ice Domination</h2>
 
 <p>Boosts the power of Ice abilities by a great amount.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -93,6 +97,7 @@
 <h2>Ice Manipulation</h2>
 
 <p>Boosts the power of Ice abilities by a decent amount.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -107,6 +112,7 @@
 <h2>Light Domination</h2>
 
 <p>Boost the power of Light abilities by a great amount.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -121,6 +127,7 @@
 <h2>Light Manipulation</h2>
 
 <p>Boosts the power of Light abilities by a decent amount</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -135,6 +142,7 @@
 <h2>Mithril Strength</h2>
 
 <p>Turn your muscles as hard as Mithril and gain an increase in damage, toggleable when mastered.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -149,6 +157,7 @@
 <h2>Profaned Prominence</h2>
 
 <p>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated flames. Additionally, melt the surroundings into…</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
