@@ -195,7 +195,7 @@
 <article class="reference-card" data-letter="B" data-search="baffledill baffledills apply the hypnosis to all players within 8 blocks of the flower. non-default alignments (majin/holy/chaos) and spiritual beings are unaffected.">
 <a href="baffledill/" aria-label="Open Baffledill">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/baffledill.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">

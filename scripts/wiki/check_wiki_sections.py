@@ -16,6 +16,26 @@ assert [link.get_text(' ', strip=True) for link in home.select('.md-tabs__link')
 for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     page = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert page.select('.reference-card'), f'Empty directory: {section}'
+media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
+for local_page, asset in media_overrides.items():
+    asset_path = ROOT / 'docs' / asset
+    assert asset_path.exists(), f'Missing card artwork: {asset}'
+    section = Path(local_page).parts[1]
+    directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
+    route = Path(local_page).stem + '/'
+    matching = [
+        card
+        for card in directory.select('.reference-card')
+        if card.select_one('a[href]') and card.select_one('a[href]').get('href', '').endswith(route)
+    ]
+    assert len(matching) == 1, f'Missing or duplicate media override card: {local_page}'
+    image = matching[0].select_one('img')
+    assert image and Path(image.get('src', '')).name == asset_path.name, f'Stale card artwork: {local_page}'
+    assert 'reference-' not in image.get('src', ''), f'Generic placeholder remains: {local_page}'
+    article_path = site / local_page.replace('.md', '/index.html')
+    article = BeautifulSoup(article_path.read_text(encoding='utf-8'), 'html.parser')
+    article_image = article.select_one('.reference-overview-media img')
+    assert article_image and Path(article_image.get('src', '')).name == asset_path.name, f'Stale article artwork: {local_page}'
 mobs = BeautifulSoup((site / 'tensura-reference/mobs/index.html').read_text(encoding='utf-8'), 'html.parser')
 wasp = next(card for card in mobs.select('.reference-card') if card.h2.get_text(strip=True) == 'Army Wasp')
 pairs = dict(zip([x.get_text(strip=True) for x in wasp.select('dt')], [x.get_text(strip=True) for x in wasp.select('dd')]))

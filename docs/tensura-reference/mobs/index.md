@@ -237,7 +237,7 @@
 <article class="reference-card" data-letter="D" data-search="dwarf dwarves can only spawn in dwarf village and cannot spawn outside of the village. upon taming they will lose the capacity to trade. dwarves can trade and will restock…">
 <a href="mobs-dwarf/" aria-label="Open Dwarf">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/races/dwarf.png" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -327,7 +327,7 @@
 <article class="reference-card" data-letter="G" data-search="goblin have you heard about the mind goblin ? they say he lives here">
 <a href="mobs-goblin/" aria-label="Open Goblin">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/races/goblin.png" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -387,7 +387,7 @@
 <article class="reference-card" data-letter="H" data-search="holy cow the legendary and fabled holy cow is a reskin of a normal cow, resembling a normal one with its drops but having 2x the amount of health than a normal cow as well as 5x…">
 <a href="mobs-holy-cow/" aria-label="Open Holy Cow">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/holy-cow.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">

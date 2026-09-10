@@ -32,7 +32,7 @@
 <article class="reference-card" data-letter="A" data-search="ancient forest a rare biome with high magicule count, and home of the spirit tree .">
 <a href="biomes-ancient-forest/" aria-label="Open Ancient Forest">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/ancient-forest.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -47,7 +47,7 @@
 <article class="reference-card" data-letter="B" data-search="biomes/barren lands as the name implies, there is nothing">
 <a href="biomes-barren-lands/" aria-label="Open Biomes/Barren Lands">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/barren-lands.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -62,7 +62,7 @@
 <article class="reference-card" data-letter="B" data-search="biomes/desert of death only the strong survive.">
 <a href="biomes-desert-of-death/" aria-label="Open Biomes/Desert of Death">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/desert-of-death.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -77,7 +77,7 @@
 <article class="reference-card" data-letter="B" data-search="biomes/miasmic plains a land of death, swarmed with undead. wizard towers from long ago can be found here.">
 <a href="biomes-miasmic-plains/" aria-label="Open Biomes/Miasmic Plains">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/miasmic-plains.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">

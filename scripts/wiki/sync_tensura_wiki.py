@@ -1365,7 +1365,14 @@ def render_page(
     summary = article_summary(record, body_html)
     sections = article_sections(body_html)
     primary_media = record.get("_primary_media")
-    if primary_media:
+    if primary_media and primary_media.get("kind") == "original":
+        overview_asset = rendered_asset_relative_url(
+            record["local_page"], primary_media["local_path"]
+        )
+        overview_alt = f"{record['display_title']} reference artwork"
+        media_caption = "Original TSR article artwork"
+        media_class = "reference-overview-media--theme"
+    elif primary_media:
         overview_asset = rendered_asset_relative_url(
             record["local_page"], primary_media["local_path"]
         )
@@ -1516,6 +1523,17 @@ def load_overlays() -> dict[str, dict[str, Any]]:
     return {normalize_title(title): value for title, value in data.get("overlays", {}).items()}
 
 
+def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
+    path = DATA_ROOT / "reference_card_media.json"
+    if not path.exists():
+        return
+    overrides = json.loads(path.read_text(encoding="utf-8"))
+    for record in records:
+        asset = overrides.get(record.get("local_page", ""))
+        if asset:
+            record["_primary_media"] = {"local_path": asset, "kind": "original"}
+
+
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     data_stem = f"upstream_{source_key}"
     pages_path = DATA_ROOT / f"{data_stem}_pages.json"
@@ -1533,6 +1551,7 @@ def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list
         if item.get("source_title")
     }
     attach_page_media(records, media_lookup)
+    apply_reference_media_overrides(records)
     for record in records:
         local_page = DOCS / record["local_page"]
         record["_html"] = local_page.read_text(encoding="utf-8") if local_page.exists() else ""
@@ -1772,8 +1791,18 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         primary_media = record.get("_primary_media")
         card_asset = primary_media["local_path"] if primary_media else visual_asset(category)
         card_asset_url = rendered_asset_relative_url(index_page, card_asset)
-        media_class = "reference-card-media--source" if primary_media else "reference-card-media--theme"
-        source_label = "TSR skill emblem" if primary_media and primary_media.get("kind") == "emblem" else ("Source media" if primary_media else "TSR artwork")
+        if primary_media and primary_media.get("kind") == "original":
+            media_class = "reference-card-media--theme"
+            source_label = "TSR artwork"
+        elif primary_media and primary_media.get("kind") == "emblem":
+            media_class = "reference-card-media--source"
+            source_label = "TSR skill emblem"
+        elif primary_media:
+            media_class = "reference-card-media--source"
+            source_label = "Source media"
+        else:
+            media_class = "reference-card-media--theme"
+            source_label = "TSR artwork"
         card_media = [] if record.get('_omit_media') else [
             f'<figure class="reference-card-media {media_class}">',
             f'<img src="{html.escape(card_asset_url, quote=True)}" alt="" loading="lazy" decoding="async">',
@@ -2359,6 +2388,7 @@ def main() -> int:
     )
     prune_stale_assets(media_records)
     attach_page_media(page_records, media_lookup)
+    apply_reference_media_overrides(page_records)
     related_map = build_related_map(page_records)
 
     canonical_lookup = {

@@ -200,7 +200,7 @@
 <article class="reference-card" data-letter="W" data-search="wizard tower a rare structure able to spawn in many biomes across the overworld, contains magic tomes of different elements depending on the biome.">
 <a href="structures-wizard-tower/" aria-label="Open Wizard Tower">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/wizard-tower.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">

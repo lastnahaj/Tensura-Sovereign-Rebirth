@@ -11,8 +11,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
+<img src="../../../assets/images/encyclopedia/underworld-sands.webp" alt="Underworld Sands reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

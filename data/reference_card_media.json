@@ -1,0 +1,15 @@
+{
+  "tensura-reference/mobs/mobs-dwarf.md": "assets/images/races/dwarf.png",
+  "tensura-reference/mobs/mobs-goblin.md": "assets/images/races/goblin.png",
+  "tensura-reference/mobs/mobs-holy-cow.md": "assets/images/encyclopedia/holy-cow.webp",
+  "tensura-reference/biomes/biomes-ancient-forest.md": "assets/images/encyclopedia/ancient-forest.webp",
+  "tensura-reference/biomes/biomes-barren-lands.md": "assets/images/encyclopedia/barren-lands.webp",
+  "tensura-reference/biomes/biomes-desert-of-death.md": "assets/images/encyclopedia/desert-of-death.webp",
+  "tensura-reference/biomes/biomes-miasmic-plains.md": "assets/images/encyclopedia/miasmic-plains.webp",
+  "tensura-reference/structures/structures-wizard-tower.md": "assets/images/encyclopedia/wizard-tower.webp",
+  "tensura-reference/items/baffledill.md": "assets/images/encyclopedia/baffledill.webp",
+  "tensura-reference/blocks/underworld-barrens.md": "assets/images/encyclopedia/underworld-barrens.webp",
+  "tensura-reference/blocks/underworld-red-sands.md": "assets/images/encyclopedia/underworld-red-sands.webp",
+  "tensura-reference/blocks/underworld-sands.md": "assets/images/encyclopedia/underworld-sands.webp",
+  "tensura-reference/blocks/underworld-spikes.md": "assets/images/encyclopedia/underworld-spikes.webp"
+}

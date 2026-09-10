@@ -409,7 +409,7 @@
 <article class="reference-card" data-letter="U" data-search="underworld barrens magicule density - 104,000">
 <a href="underworld-barrens/" aria-label="Open Underworld Barrens">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/underworld-barrens.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -424,7 +424,7 @@
 <article class="reference-card" data-letter="U" data-search="underworld red sands i wonder why the sand is red.">
 <a href="underworld-red-sands/" aria-label="Open Underworld Red Sands">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/underworld-red-sands.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -439,7 +439,7 @@
 <article class="reference-card" data-letter="U" data-search="underworld sands its like the beach! but without water and the fish are evil!">
 <a href="underworld-sands/" aria-label="Open Underworld Sands">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/underworld-sands.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -454,7 +454,7 @@
 <article class="reference-card" data-letter="U" data-search="underworld spikes magicule density - 103,000">
 <a href="underworld-spikes/" aria-label="Open Underworld Spikes">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/encyclopedia/underworld-spikes.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
