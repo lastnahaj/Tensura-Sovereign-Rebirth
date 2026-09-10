@@ -100,6 +100,9 @@ def main() -> int:
     for title, asset in json.loads((ROOT / 'data/race_family_media.json').read_text(encoding='utf-8')).items():
         if by_title.get(title, {}).get('image') != asset:
             errors.append(f"Reviewed family image replaced: {title}")
+    for family in race_families['families']:
+        if family.get('image') == 'assets/images/reference-races-evolution.png':
+            errors.append(f"Generic race artwork remains: {family['title']}")
     check("tensura-reference/races/families/angel-reference/#angel")
     for old_route, anchor in (('human-undead', 'races-human'), ('mantis-scorpion-spider', 'mantis'), ('poison-soul-insect', 'poison-soul-insect')):
         check(f"tensura-reference/races/families/{old_route}/#{anchor}")

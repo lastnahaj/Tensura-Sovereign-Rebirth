@@ -115,14 +115,14 @@
     {
       "title": "Lesser Angel",
       "route": "tensura-reference/races/families/lesser-angel/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "forms": 14,
       "search": "Lesser Angel Fallen Lesser Angel Greater Angel Arch Angel Fallen Greater Angel Lesser Fallen Cherub Fallen Arch Angel Greater Fallen Arch Fallen Fallen Cherub Seraph Fallen Lord Fallen"
     },
     {
       "title": "Greater Doll",
       "route": "tensura-reference/races/families/greater-doll/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/greater-doll.webp",
       "forms": 6,
       "search": "Greater Doll Archdoll Chaos Doll Daemon Doll Chaos Metalloid Devil Doll"
     },
@@ -136,21 +136,21 @@
     {
       "title": "Forgotten",
       "route": "tensura-reference/races/families/forgotten/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/forgotten.webp",
       "forms": 8,
       "search": "Forgotten Remnant Empty Whole Ascended Revenant Divine Excelsius Divine Inferius"
     },
     {
       "title": "Attuned Wyrm",
       "route": "tensura-reference/races/families/attuned-wyrm/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "forms": 12,
       "search": "Attuned Wyrm Lesser Glacier Wyrm Lesser Pyre Wyrm Greater Glacier Wyrm Greater Pyre Wyrm Frostcoil Sea Serpent Rimefang Drake Scorchtail Salamander Sunfire Lindwurm Frostwrought Leviathan Rimeblight Hydra Scorchtalon Wyvern"
     },
     {
       "title": "Beetle",
       "route": "tensura-reference/races/families/beetle/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/beetle.webp",
       "forms": 10,
       "search": "Beetle Drone Beetle Stag Beetle Drone Beetle Insectar Stag Beetle Insectar Fantasy Soul Insect Lightning Soul Insect Stag Beetle Savant Divine Drone Beetle Divine Stag Beetle"
     },
@@ -171,56 +171,56 @@
     {
       "title": "Restricted Human",
       "route": "tensura-reference/races/families/restricted-human/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/restricted-human.webp",
       "forms": 4,
       "search": "Restricted Human Restricted Saint Bound Enlightenment Heavenly Restriction"
     },
     {
       "title": "Sculk Worm",
       "route": "tensura-reference/races/families/sculk-worm/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "forms": 13,
       "search": "Sculk Worm Charged Perforator Molten Perforator Soul Shrieker Magma Worm Overloading Worm Warden Enflamed Aberration Lightning Aberration Soul Aberration Dissonance Deity Reaper Aberration Violence Deity"
     },
     {
       "title": "Mantis",
       "route": "tensura-reference/races/families/mantis/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/mantis.webp",
       "forms": 11,
       "search": "Mantis Lixivant Mantis Preying Mantis Lixivant Mantis Insectar Preying Mantis Insectar Corrosion Soul Insect Lixivant Mantis Savant Preying Mantis Savant Steel Soul Insect Divine Lixivant Mantis Divine Preying Mantis"
     },
     {
       "title": "Lesser Elemental",
       "route": "tensura-reference/races/families/lesser-elemental/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "forms": 5,
       "search": "Lesser Elemental Medium Elemental Greater Elemental Elemental Lord Divine Elemental"
     },
     {
       "title": "Scorpion",
       "route": "tensura-reference/races/families/scorpion/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/scorpion.webp",
       "forms": 11,
       "search": "Poison Soul Insect Scorpion Loxodrome Scorpion Singularity Scorpion Loxodrome Scorpion Insectar Singularity Scorpion Insectar Gravity Soul Insect Loxodrome Scorpion Savant Singularity Scorpion Savant Divine Loxodrome Scorpion Divine Singularity Scorpion"
     },
     {
       "title": "Tengu",
       "route": "tensura-reference/races/families/tengu/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/tengu.webp",
       "forms": 3,
       "search": "Tengu Race Tengu Saint Divine Tengu"
     },
     {
       "title": "Dragonoid",
       "route": "tensura-reference/races/families/dragonoid/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/dragonoid.webp",
       "forms": 2,
       "search": "Dragonoid True Dragonoid"
     },
     {
       "title": "Phantom",
       "route": "tensura-reference/races/families/phantom/",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/phantom.webp",
       "forms": 5,
       "search": "Phantom Field Officer General Staff Officer Mystic Angel"
     },
