@@ -309,6 +309,51 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="G" data-search="giant ant this mob will destroy trees in pursuit of its enemy. if the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits.">
+<a href="mobs-giant-ant/" aria-label="Open Giant Ant">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Giant Ant</h2>
+
+<p>This mob will destroy trees in pursuit of its enemy. If the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits.</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Savanna</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="G" data-search="giant bat 1 - 2 giant bat wing 1 - 4 raw giant bat meat 1 medium quality magic crystal">
+<a href="mobs-giant-bat/" aria-label="Open Giant Bat">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/mobs/giant-bat-4ca4cbcde7.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Giant Bat</h2>
+
+<p>1 - 2 Giant Bat Wing 1 - 4 Raw Giant Bat Meat 1 Medium Quality Magic Crystal</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Hills • Badlands • Mountains • Any biome with Woodland Mansions</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd><dt>Intrinsic</dt><dd>Drain , Ultrasonic Wave</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="G" data-search="giant bear 1 - 3 monster leather (c) 1 medium quality magic crystal">
+<a href="mobs-giant-bear/" aria-label="Open Giant Bear">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/mobs/giant-bear-17177ff7d0.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Giant Bear</h2>
+
+<p>1 - 3 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>4000</dd><dt>Maximum EP</dt><dd>7000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="G" data-search="giant cod a rather large fish that is commonly found in water.">
 <a href="mobs-giant-cod/" aria-label="Open Giant Cod">
 <figure class="reference-card-media reference-card-media--source">
@@ -320,6 +365,21 @@
 
 <p>A rather large fish that is commonly found in water.</p>
 <dl class="reference-card-stats"><dt>Biome</dt><dd>Rivers, Oceans</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="G" data-search="giant salmon looting increases the amount of raw salmon and bones dropped by 0-3 per level.">
+<a href="mobs-giant-salmon/" aria-label="Open Giant Salmon">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/mobs/giant-salmon-671098b3ec.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Giant Salmon</h2>
+
+<p>Looting increases the amount of Raw Salmon and Bones dropped by 0-3 per level.</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>River , Ocean</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -504,6 +564,21 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="L" data-search="landfish feed any type of fish">
+<a href="mobs-landfish/" aria-label="Open Landfish">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/mobs/landfish-267ab967d0.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Landfish</h2>
+
+<p>Feed any type of Fish</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Beach , River</dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>600</dd><dt>Maximum EP</dt><dd>800</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="L" data-search="leech lizard 1 - 2 monster leather (c) 1 medium quality magic crystal">
 <a href="mobs-leech-lizard/" aria-label="Open Leech Lizard">
 <figure class="reference-card-media reference-card-media--source">
@@ -620,81 +695,6 @@
 
 <p>5 - 8 Magic Ore Shard (affected by looting) 1 High Quality Magic Crystal Can be tamed with Magic Ore or Pure Magisteel Nugget Slime mobs takes 50% of the input Physical…</p>
 <dl class="reference-card-stats"><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>20</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>100,000</dd><dt>Maximum EP</dt><dd>300,000</dd><dt>Resistances</dt><dd>Physical Attack Resistance</dd><dt>Intrinsic</dt><dd>Body Armor • Absorb &amp; Dissolve</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs/giant ant this mob will destroy trees in pursuit of its enemy. if the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits.">
-<a href="mobs-giant-ant/" aria-label="Open Mobs/Giant Ant">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs/Giant Ant</h2>
-
-<p>This mob will destroy trees in pursuit of its enemy. If the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Savanna</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs/giant bat 1 - 2 giant bat wing 1 - 4 raw giant bat meat 1 medium quality magic crystal">
-<a href="mobs-giant-bat/" aria-label="Open Mobs/Giant Bat">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/mobs/giant-bat-4ca4cbcde7.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs/Giant Bat</h2>
-
-<p>1 - 2 Giant Bat Wing 1 - 4 Raw Giant Bat Meat 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Hills • Badlands • Mountains • Any biome with Woodland Mansions</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd><dt>Intrinsic</dt><dd>Drain , Ultrasonic Wave</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs/giant bear 1 - 3 monster leather (c) 1 medium quality magic crystal">
-<a href="mobs-giant-bear/" aria-label="Open Mobs/Giant Bear">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/mobs/giant-bear-17177ff7d0.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs/Giant Bear</h2>
-
-<p>1 - 3 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>4000</dd><dt>Maximum EP</dt><dd>7000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs/giant salmon looting increases the amount of raw salmon and bones dropped by 0-3 per level.">
-<a href="mobs-giant-salmon/" aria-label="Open Mobs/Giant Salmon">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/mobs/giant-salmon-671098b3ec.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs/Giant Salmon</h2>
-
-<p>Looting increases the amount of Raw Salmon and Bones dropped by 0-3 per level.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>River , Ocean</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mobs/landfish feed any type of fish">
-<a href="mobs-landfish/" aria-label="Open Mobs/Landfish">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/mobs/landfish-267ab967d0.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mobs/Landfish</h2>
-
-<p>Feed any type of Fish</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Beach , River</dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>600</dd><dt>Maximum EP</dt><dd>800</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

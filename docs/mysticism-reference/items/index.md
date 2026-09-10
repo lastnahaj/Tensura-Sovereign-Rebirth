@@ -18,6 +18,8 @@
 <div class="reference-letter-filters" aria-label="Filter by first letter">
 <button type="button" class="is-active" data-letter="all" aria-pressed="true">All</button>
 <button type="button" data-letter="I" aria-pressed="false">I</button>
+<button type="button" data-letter="M" aria-pressed="false">M</button>
+<button type="button" data-letter="O" aria-pressed="false">O</button>
 </div>
 <p class="reference-filter-status" aria-live="polite">Showing 3 of 3 articles</p>
 </div>
@@ -30,33 +32,39 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Items</h2>
+
 <p>Mob Drops Ores</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="items/mob drops cryptid essence flame essence ice essence lightning essence">
-<a href="items-mob-drops/" aria-label="Open Items/Mob Drops">
+<article class="reference-card" data-letter="M" data-search="mob drops cryptid essence flame essence ice essence lightning essence">
+<a href="items-mob-drops/" aria-label="Open Mob Drops">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Items/Mob Drops</h2>
+<h2>Mob Drops</h2>
+
 <p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="items/ores ice essence">
-<a href="items-ores/" aria-label="Open Items/Ores">
+<article class="reference-card" data-letter="O" data-search="ores ice essence">
+<a href="items-ores/" aria-label="Open Ores">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Items/Ores</h2>
+<h2>Ores</h2>
+
 <p>Ice Essence</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

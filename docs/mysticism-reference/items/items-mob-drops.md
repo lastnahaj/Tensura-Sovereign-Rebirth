@@ -1,16 +1,16 @@
 ---
-title: Items/Mob Drops
+title: Mob Drops
 description: Cryptid Essence Flame Essence Ice Essence Lightning Essence
 tags: []
 ---
 
-# Items/Mob Drops
+# Mob Drops
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Items & Materials</span>
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="Items/Mob Drops source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="Mob Drops source reference" loading="eager" decoding="async">
 <figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Cryptid_essence.png">Cryptid essence.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

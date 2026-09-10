@@ -1,16 +1,16 @@
 ---
-title: Mobs/Giant Bear
+title: Giant Bear
 description: 1 - 3 Monster Leather (C) 1 Medium Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord • Shizu • Supermassive Slime • Sylphide • Undine • War GnomeNormal MobsAqua Frog • Arch Daemon • Armorsaurus...
 tags: []
 ---
 
-# Mobs/Giant Bear
+# Giant Bear
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/mobs/giant-bear-17177ff7d0.gif" alt="Mobs/Giant Bear source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/mobs/giant-bear-17177ff7d0.gif" alt="Giant Bear source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_bear.gif">Giant bear.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

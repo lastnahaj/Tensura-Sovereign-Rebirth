@@ -1583,36 +1583,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="items/mob drops cryptid essence flame essence ice essence lightning essence">
-<a href="../../mysticism-reference/items/items-mob-drops/" aria-label="Open Items/Mob Drops">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Items/Mob Drops</h2>
-
-<p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="I" data-search="items/ores ice essence">
-<a href="../../mysticism-reference/items/items-ores/" aria-label="Open Items/Ores">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Items/Ores</h2>
-
-<p>Ice Essence</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="J" data-search="japanese schematic found in woodland mansions &amp; ancient cities - 10% chance">
 <a href="items-schematics-japanese-schematic/" aria-label="Open Japanese Schematic">
 <figure class="reference-card-media reference-card-media--source">
@@ -1949,6 +1919,21 @@
 <h2>Mob Drops</h2>
 
 <p>These are primarily obtained via Mobs, unless specified otherwise</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="mob drops cryptid essence flame essence ice essence lightning essence">
+<a href="../../mysticism-reference/items/items-mob-drops/" aria-label="Open Mob Drops">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Mob Drops</h2>
+
+<p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2369,6 +2354,21 @@
 <h2>Orc Disaster Head</h2>
 
 <p>The severed head of the Orc Disaster taken as a trophy.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="O" data-search="ores ice essence">
+<a href="../../mysticism-reference/items/items-ores/" aria-label="Open Ores">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Ores</h2>
+
+<p>Ice Essence</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

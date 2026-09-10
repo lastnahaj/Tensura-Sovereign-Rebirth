@@ -1,16 +1,16 @@
 ---
-title: Mobs/Landfish
+title: Landfish
 description: Feed any type of Fish 0 - 3 Prismarine Shards 0 - 2 Prismarine Crystals 1 Low Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord • Shizu • Supermassive Slime • Sylphide • Undine • War GnomeNormal...
 tags: []
 ---
 
-# Mobs/Landfish
+# Landfish
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/mobs/landfish-267ab967d0.gif" alt="Mobs/Landfish source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/mobs/landfish-267ab967d0.gif" alt="Landfish source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:Landfish.gif">Landfish.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

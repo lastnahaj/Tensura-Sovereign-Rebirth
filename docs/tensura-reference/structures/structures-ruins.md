@@ -1,18 +1,18 @@
 ---
-title: Structures/Ruins
+title: Ruins
 description: Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby Explorer Maps Summon Daemon
 tags:
 - Work_in_Progress
 - Pages_with_broken_file_links
 ---
 
-# Structures/Ruins
+# Ruins
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="Structures/Ruins source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="Ruins source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

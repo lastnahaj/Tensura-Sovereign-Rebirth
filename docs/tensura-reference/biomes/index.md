@@ -23,6 +23,7 @@
 <button type="button" data-letter="E" aria-pressed="false">E</button>
 <button type="button" data-letter="F" aria-pressed="false">F</button>
 <button type="button" data-letter="L" aria-pressed="false">L</button>
+<button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
@@ -44,47 +45,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="biomes/barren lands as the name implies, there is nothing">
-<a href="biomes-barren-lands/" aria-label="Open Biomes/Barren Lands">
+<article class="reference-card" data-letter="B" data-search="barren lands as the name implies, there is nothing">
+<a href="biomes-barren-lands/" aria-label="Open Barren Lands">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/encyclopedia/barren-lands.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Biomes/Barren Lands</h2>
+<h2>Barren Lands</h2>
 
 <p>As the name implies, there is nothing</p>
 <dl class="reference-card-stats"><dt>Amount</dt><dd>45,500</dd><dt>Mobs</dt><dd>None</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="B" data-search="biomes/desert of death only the strong survive.">
-<a href="biomes-desert-of-death/" aria-label="Open Biomes/Desert of Death">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/desert-of-death.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Biomes/Desert of Death</h2>
-
-<p>Only the strong survive.</p>
-<dl class="reference-card-stats"><dt>Amount</dt><dd>29,500</dd><dt>Mobs</dt><dd>Knight Spider , Tempest Serpent , Armorsaurus , Basilisk</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="B" data-search="biomes/miasmic plains a land of death, swarmed with undead. wizard towers from long ago can be found here.">
-<a href="biomes-miasmic-plains/" aria-label="Open Biomes/Miasmic Plains">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/miasmic-plains.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Biomes/Miasmic Plains</h2>
-
-<p>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</p>
-<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Zombie, Skeleton, Skeleton Horse, Zombie Horse, Evil Centipede , Barghest</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -100,6 +71,21 @@
 
 <p>Shadow Imp Wither Skeleton</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="D" data-search="desert of death only the strong survive.">
+<a href="biomes-desert-of-death/" aria-label="Open Desert of Death">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/desert-of-death.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Desert of Death</h2>
+
+<p>Only the strong survive.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>29,500</dd><dt>Mobs</dt><dd>Knight Spider , Tempest Serpent , Armorsaurus , Basilisk</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -145,6 +131,21 @@
 
 <p>Winged Lion Wither Skeleton</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="miasmic plains a land of death, swarmed with undead. wizard towers from long ago can be found here.">
+<a href="biomes-miasmic-plains/" aria-label="Open Miasmic Plains">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/miasmic-plains.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Miasmic Plains</h2>
+
+<p>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Zombie, Skeleton, Skeleton Horse, Zombie Horse, Evil Centipede , Barghest</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

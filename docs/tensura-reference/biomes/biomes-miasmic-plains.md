@@ -1,11 +1,11 @@
 ---
-title: Biomes/Miasmic Plains
+title: Miasmic Plains
 description: A land of death, swarmed with undead. Wizard towers from long ago can be found here. Undead mobs and races are not affected by sunlight in this biome and can spawn during the day. Hipokute Grass is slightly more common. Applies the curse effect rather than Magicule Poison if entering this biome without...
 tags:
 - Pages_with_broken_file_links
 ---
 
-# Biomes/Miasmic Plains
+# Miasmic Plains
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Biomes</span>
 

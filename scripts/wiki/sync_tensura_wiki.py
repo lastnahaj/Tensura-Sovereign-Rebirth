@@ -769,7 +769,10 @@ def build_page_records(
             slug = f"{slug}-{listing['pageid']}"
         occupied[(primary_category, slug)] = listing["pageid"]
         local_page = PurePosixPath(REFERENCE_SLUG) / primary_category / f"{slug}.md"
-        display_title = strip_html(parse_data.get("displaytitle")) or listing["title"].split("/")[-1]
+        source_leaf = listing["title"].split("/")[-1]
+        display_title = strip_html(parse_data.get("displaytitle")) or source_leaf
+        if "/" in listing["title"] and normalize_title(display_title) == normalize_title(listing["title"]):
+            display_title = source_leaf
         records.append(
             {
                 "source_title": listing["title"],

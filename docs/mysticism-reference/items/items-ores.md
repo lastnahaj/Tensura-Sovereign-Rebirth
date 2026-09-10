@@ -1,16 +1,16 @@
 ---
-title: Items/Ores
+title: Ores
 description: Ice Essence
 tags: []
 ---
 
-# Items/Ores
+# Ores
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Items & Materials</span>
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="Items/Ores source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="Ores source reference" loading="eager" decoding="async">
 <figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Ice_Essence.png">Ice Essence.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

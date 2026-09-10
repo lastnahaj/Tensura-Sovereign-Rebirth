@@ -16,6 +16,8 @@ assert [link.get_text(' ', strip=True) for link in home.select('.md-tabs__link')
 for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     page = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert page.select('.reference-card'), f'Empty directory: {section}'
+    prefixed_titles = [heading.get_text(' ', strip=True) for heading in page.select('.reference-card h2') if '/' in heading.get_text()]
+    assert not prefixed_titles, f'Upstream namespace leaked into {section} card titles: {prefixed_titles}'
 media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
 for local_page, asset in media_overrides.items():
     asset_path = ROOT / 'docs' / asset

@@ -167,6 +167,21 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="R" data-search="ruins common structure that spawns in the hell dimension, can have | suspicious sand or | suspicious gravel nearby">
+<a href="structures-ruins/" aria-label="Open Ruins">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Ruins</h2>
+
+<p>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</p>
+<dl class="reference-card-stats"><dt>Biomes</dt><dd>Underworld Sands</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="S" data-search="spider nest inside are chests which can contain sticky cobweb , steel cobweb all spider bow variants, web gun schematic , and spider egg , among other loot.">
 <a href="structures-spider-nest/" aria-label="Open Spider Nest">
 <figure class="reference-card-media reference-card-media--source">
@@ -178,21 +193,6 @@
 
 <p>Inside are chests which can contain Sticky Cobweb , Steel Cobweb all Spider Bow variants, Web Gun Schematic , and Spider Egg , among other loot.</p>
 <dl class="reference-card-stats"><dt>Biomes</dt><dd>Plains, Dark Forest</dd><dt>Mobs</dt><dd>Black Spider</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="S" data-search="structures/ruins common structure that spawns in the hell dimension, can have | suspicious sand or | suspicious gravel nearby">
-<a href="structures-ruins/" aria-label="Open Structures/Ruins">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/wip9-872368deee.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Structures/Ruins</h2>
-
-<p>Common structure that spawns in the hell dimension, can have | Suspicious Sand or | Suspicious Gravel nearby</p>
-<dl class="reference-card-stats"><dt>Biomes</dt><dd>Underworld Sands</dd><dt>Mobs</dt><dd>Hound Dog , Megalodon</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

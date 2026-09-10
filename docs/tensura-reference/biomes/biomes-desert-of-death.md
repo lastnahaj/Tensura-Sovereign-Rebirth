@@ -1,11 +1,11 @@
 ---
-title: Biomes/Desert of Death
+title: Desert of Death
 description: Only the strong survive. No animal mobs can spawn here
 tags:
 - Pages_with_broken_file_links
 ---
 
-# Biomes/Desert of Death
+# Desert of Death
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Biomes</span>
 

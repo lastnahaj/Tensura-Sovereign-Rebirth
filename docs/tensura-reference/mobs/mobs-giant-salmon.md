@@ -1,16 +1,16 @@
 ---
-title: Mobs/Giant Salmon
+title: Giant Salmon
 description: 3 - 7 Raw Salmon 0 - 4 Bones 1 Low Quality Magic Crystal Looting increases the amount of Raw Salmon and Bones dropped by 0-3 per level. View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord • Shizu • Supermassive...
 tags: []
 ---
 
-# Mobs/Giant Salmon
+# Giant Salmon
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/mobs/giant-salmon-671098b3ec.gif" alt="Mobs/Giant Salmon source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/mobs/giant-salmon-671098b3ec.gif" alt="Giant Salmon source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_salmon.gif">Giant salmon.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

@@ -1,11 +1,11 @@
 ---
-title: Biomes/Barren Lands
+title: Barren Lands
 description: As the name implies, there is nothing Magic Ore spawns are increased in this biome
 tags:
 - Pages_with_broken_file_links
 ---
 
-# Biomes/Barren Lands
+# Barren Lands
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Biomes</span>
 

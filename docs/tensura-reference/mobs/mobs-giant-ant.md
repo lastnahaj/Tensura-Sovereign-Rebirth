@@ -1,16 +1,16 @@
 ---
-title: Mobs/Giant Ant
+title: Giant Ant
 description: This mob will destroy trees in pursuit of its enemy. If the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits. 2 - 3 Giant Ant Carapace 2 - 6 Giant Ant Leg 1 Medium Quality Magic Crystal A named ant can be ridden using a Monster Saddle, which...
 tags: []
 ---
 
-# Mobs/Giant Ant
+# Giant Ant
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="Mobs/Giant Ant source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="Giant Ant source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_ant.gif">Giant ant.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">

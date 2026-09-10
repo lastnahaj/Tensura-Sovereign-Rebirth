@@ -1,16 +1,16 @@
 ---
-title: Mobs/Giant Bat
+title: Giant Bat
 description: 1 - 2 Giant Bat Wing 1 - 4 Raw Giant Bat Meat 1 Medium Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord • Shizu • Supermassive Slime • Sylphide • Undine • War GnomeNormal MobsAqua Frog...
 tags: []
 ---
 
-# Mobs/Giant Bat
+# Giant Bat
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/mobs/giant-bat-4ca4cbcde7.gif" alt="Mobs/Giant Bat source reference" loading="eager" decoding="async">
+<img src="../../../assets/upstream/tensura/mobs/giant-bat-4ca4cbcde7.gif" alt="Giant Bat source reference" loading="eager" decoding="async">
 <figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_bat.gif">Giant bat.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
