@@ -65,6 +65,7 @@ extra_javascript:
   - assets/javascripts/onboarding.js
   - assets/javascripts/ascension.js
   - assets/javascripts/progression.js
+  - assets/javascripts/progression-guide.js
 
 extra:
   social:
@@ -128,9 +129,13 @@ nav:
   - Mechanics:
       - "Getting Started": getting-started.md
       - "Core Mechanics": tensura-reference/core-mechanics/index.md
-      - "Progression Overview": progression-overview.md
-      - "Prestige & Soul Grade": prestige-and-soul-grade.md
-      - "Ascension & Awakening": ascension-and-awakening.md
+      - Progression:
+          - "Overview": progression-overview.md
+          - "Prestige, Soul Grade & Skill Locking": prestige-and-soul-grade.md
+          - "Quests & Reincarnation Essence": quests-and-reincarnation-essence.md
+          - "Race Prestige Requirements": race-prestige-requirements.md
+          - "Beyond Adventures": beyond-adventures.md
+          - "Ascension & Awakening": ascension-and-awakening.md
       - "Hyperbolic Chamber": hyperbolic-chamber.md
       - "Quests & Shop": quests-and-shop.md
       - "Teams & Claims": teams-and-claims.md

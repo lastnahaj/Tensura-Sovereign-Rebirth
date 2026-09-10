@@ -1947,3 +1947,113 @@
 .reference-card-stats dt, .reference-card-stats dd { margin: 0; padding: .4rem .5rem; border-bottom: 1px solid var(--md-default-fg-color--lightest); overflow-wrap: anywhere; }
 .reference-card-stats dt { font-weight: 700; }
 .reference-card-source-note { display: block; margin-bottom: .8rem; color: var(--md-default-fg-color--light); }
+
+/* Progression guide: connected player routes, calculators, and searchable prestige objectives. */
+.progression-guide-hero { position: relative; display: grid; min-height: 24rem; margin: 0 0 1.8rem; overflow: hidden; border: 1px solid rgba(51, 214, 255, .28); border-radius: 1rem; background: #07111f; }
+.progression-guide-hero--compact { min-height: 20rem; }
+.progression-guide-hero > img,
+.progression-guide-hero__shade { position: absolute; inset: 0; width: 100%; height: 100%; }
+.progression-guide-hero > img { object-fit: cover; }
+.progression-guide-hero__shade { background: linear-gradient(90deg, rgba(4, 10, 20, .98) 0%, rgba(5, 13, 26, .88) 46%, rgba(5, 13, 26, .2) 100%); }
+.progression-guide-hero__copy { position: relative; z-index: 1; align-self: end; max-width: 38rem; padding: clamp(1.25rem, 5vw, 3rem); }
+.progression-guide-hero__copy h1 { margin: .25rem 0 .65rem; color: #fff; font-size: clamp(2rem, 6vw, 3.4rem); line-height: .98; }
+.progression-guide-hero__copy > p:not(.reference-eyebrow) { max-width: 34rem; color: #c4d6e9; }
+.progression-guide-hero__copy .md-button { margin: .35rem .35rem 0 0; }
+.progression-guide-hero__copy .md-button:not(.md-button--primary) { border-color: rgba(255, 255, 255, .38); color: #fff; }
+
+.progression-route { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: .45rem; margin: 1rem 0 1.6rem; padding: 0; counter-reset: none; list-style: none; }
+.progression-route li { position: relative; min-height: 9.5rem; padding: 1rem .75rem; border: 1px solid rgba(51, 214, 255, .2); border-radius: .75rem; background: linear-gradient(155deg, rgba(15, 38, 65, .76), rgba(7, 17, 31, .42)); }
+.progression-route li:not(:last-child)::after { position: absolute; z-index: 2; top: calc(50% - .75rem); right: -.75rem; width: 1.5rem; height: 1.5rem; border: 1px solid rgba(51, 214, 255, .3); border-radius: 50%; color: var(--tsr-cyan); background: #07111f; content: "›"; text-align: center; line-height: 1.35rem; }
+.progression-route strong { display: block; margin-bottom: .45rem; color: var(--tsr-cyan); font-size: .75rem; }
+.progression-route span { display: block; color: var(--md-default-fg-color--light); font-size: .62rem; line-height: 1.5; }
+
+.progression-system-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .7rem; margin: 1rem 0 1.7rem; }
+.progression-system-grid > a,
+.progression-system-grid > article { display: block; padding: 1rem; border: 1px solid rgba(51, 214, 255, .18); border-radius: .8rem; color: inherit; background: rgba(7, 17, 31, .32); transition: border-color .18s ease, transform .18s ease, background .18s ease; }
+.progression-system-grid > a:hover { border-color: var(--tsr-cyan); background: rgba(24, 62, 100, .38); transform: translateY(-2px); }
+.progression-system-grid__icon { display: grid; width: 2rem; height: 2rem; margin-bottom: .7rem; place-items: center; border: 1px solid rgba(240, 187, 75, .42); border-radius: .55rem; color: var(--tsr-gold); background: rgba(240, 187, 75, .08); }
+.progression-system-grid h3 { margin: 0 0 .35rem; font-size: .82rem; }
+.progression-system-grid p { margin: 0; color: var(--md-default-fg-color--light); font-size: .65rem; line-height: 1.5; }
+.progression-system-grid--compact { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+
+.prestige-steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .65rem; margin: 1rem 0 1.5rem; padding: 0; list-style: none; }
+.prestige-steps--four { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.prestige-steps li { display: grid; grid-template-columns: 2rem minmax(0, 1fr); gap: .65rem; padding: .85rem; border: 1px solid rgba(142, 76, 245, .25); border-radius: .75rem; background: linear-gradient(135deg, rgba(142, 76, 245, .09), rgba(7, 17, 31, .34)); }
+.prestige-steps b { display: grid; width: 2rem; height: 2rem; place-items: center; border-radius: 50%; color: #07111f; background: var(--tsr-gold); }
+.prestige-steps strong,
+.prestige-steps span { display: block; }
+.prestige-steps strong { margin: .1rem 0 .3rem; font-size: .7rem; }
+.prestige-steps span { color: var(--md-default-fg-color--light); font-size: .6rem; line-height: 1.45; }
+
+.soul-grade-calculator { margin: 1rem 0 1.25rem; padding: 1rem; border: 1px solid rgba(240, 187, 75, .3); border-radius: .85rem; background: linear-gradient(135deg, rgba(240, 187, 75, .08), rgba(142, 76, 245, .09)); }
+.soul-grade-calculator > label { display: block; margin-bottom: .45rem; font-size: .68rem; font-weight: 700; }
+.soul-grade-calculator__controls { display: grid; grid-template-columns: minmax(6rem, .35fr) minmax(12rem, 1fr); gap: .7rem; align-items: stretch; }
+.soul-grade-calculator input { min-width: 0; padding: .7rem; border: 1px solid rgba(51, 214, 255, .34); border-radius: .55rem; color: var(--md-default-fg-color); background: rgba(5, 13, 26, .65); font: inherit; }
+.soul-grade-calculator output { display: flex; justify-content: center; flex-direction: column; padding: .6rem .8rem; border-radius: .55rem; background: rgba(7, 17, 31, .55); }
+.soul-grade-calculator output strong,
+.soul-grade-calculator output span { display: block; }
+.soul-grade-calculator output strong { color: var(--tsr-cyan); font-size: .85rem; }
+.soul-grade-calculator output span { color: var(--md-default-fg-color--light); font-size: .6rem; }
+.soul-grade-meter { height: .3rem; margin-top: .75rem; overflow: hidden; border-radius: 1rem; background: rgba(255, 255, 255, .08); }
+.soul-grade-meter span { display: block; width: 0; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--tsr-cyan), var(--tsr-gold)); transition: width .2s ease; }
+.skill-lock-facts,
+.quest-pool-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .6rem; margin: 1rem 0 1.25rem; }
+.quest-pool-stats { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.skill-lock-facts article,
+.quest-pool-stats article { padding: .85rem; border: 1px solid rgba(51, 214, 255, .2); border-radius: .7rem; text-align: center; background: rgba(7, 17, 31, .3); }
+.skill-lock-facts strong,
+.skill-lock-facts span,
+.quest-pool-stats strong,
+.quest-pool-stats span { display: block; }
+.skill-lock-facts strong,
+.quest-pool-stats strong { color: var(--tsr-cyan); font-size: 1rem; }
+.skill-lock-facts span,
+.quest-pool-stats span { color: var(--md-default-fg-color--light); font-size: .6rem; }
+
+.prestige-search { position: sticky; z-index: 3; top: 3rem; display: grid; grid-template-columns: 1fr auto; gap: .45rem .8rem; align-items: end; margin: 1rem 0; padding: .85rem; border: 1px solid rgba(51, 214, 255, .28); border-radius: .8rem; background: rgba(7, 17, 31, .96); backdrop-filter: blur(.5rem); }
+.prestige-search label { grid-column: 1 / -1; font-size: .66rem; font-weight: 700; }
+.prestige-search input { width: 100%; padding: .65rem .75rem; border: 1px solid rgba(51, 214, 255, .3); border-radius: .5rem; color: var(--md-default-fg-color); background: rgba(255, 255, 255, .035); font: inherit; }
+.prestige-search span { color: var(--md-default-fg-color--light); font-size: .6rem; white-space: nowrap; }
+.prestige-race-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; }
+.prestige-race-card { overflow: hidden; border: 1px solid rgba(142, 76, 245, .24); border-radius: .75rem; background: rgba(7, 17, 31, .32); }
+.prestige-race-card[hidden] { display: none; }
+.prestige-race-card summary { padding: .85rem 1rem; cursor: pointer; list-style: none; }
+.prestige-race-card summary::-webkit-details-marker { display: none; }
+.prestige-race-card summary > span { display: flex; justify-content: space-between; gap: .8rem; align-items: center; }
+.prestige-race-card summary b { font-size: .72rem; }
+.prestige-race-card summary small { padding: .2rem .45rem; border-radius: 1rem; color: #07111f; background: var(--tsr-gold); font-size: .5rem; font-weight: 700; white-space: nowrap; }
+.prestige-race-card summary::after { float: right; margin-top: -1.25rem; color: var(--tsr-cyan); content: "+"; }
+.prestige-race-card[open] summary::after { content: "−"; }
+.prestige-race-card ul { margin: 0; padding: .8rem 1rem .9rem 1.8rem; border-top: 1px solid rgba(51, 214, 255, .12); color: var(--md-default-fg-color--light); font-size: .64rem; }
+.prestige-empty { padding: 1rem; border: 1px dashed rgba(51, 214, 255, .3); border-radius: .7rem; text-align: center; }
+
+.beyond-feature-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .65rem; margin: 1rem 0 1.5rem; }
+.beyond-feature-grid article { position: relative; min-height: 9rem; padding: 1rem; overflow: hidden; border: 1px solid rgba(51, 214, 255, .2); border-radius: .75rem; background: linear-gradient(145deg, rgba(12, 33, 58, .74), rgba(7, 17, 31, .35)); }
+.beyond-feature-grid article > span { position: absolute; top: .5rem; right: .7rem; color: rgba(51, 214, 255, .2); font-size: 1.8rem; font-weight: 800; }
+.beyond-feature-grid h3 { position: relative; margin: .2rem 0 .45rem; font-size: .78rem; }
+.beyond-feature-grid p { position: relative; margin: 0; color: var(--md-default-fg-color--light); font-size: .64rem; line-height: 1.5; }
+
+@media screen and (max-width: 60rem) {
+  .progression-route { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .progression-route li:nth-child(3)::after { display: none; }
+  .progression-system-grid--compact { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .prestige-steps--four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .quest-pool-stats { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+@media screen and (max-width: 42rem) {
+  .progression-guide-hero { min-height: 30rem; }
+  .progression-guide-hero__shade { background: linear-gradient(0deg, rgba(4, 10, 20, .98) 0%, rgba(5, 13, 26, .8) 62%, rgba(5, 13, 26, .18) 100%); }
+  .progression-route,
+  .progression-system-grid,
+  .progression-system-grid--compact,
+  .prestige-steps,
+  .prestige-steps--four,
+  .prestige-race-grid,
+  .beyond-feature-grid { grid-template-columns: 1fr; }
+  .progression-route li { min-height: auto; }
+  .progression-route li::after { display: none; }
+  .soul-grade-calculator__controls { grid-template-columns: 1fr; }
+  .quest-pool-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .prestige-search { grid-template-columns: 1fr; top: 2.6rem; }
+}

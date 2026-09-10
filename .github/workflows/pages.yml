@@ -49,6 +49,7 @@ jobs:
           python scripts/wiki/check_reference.py
           python scripts/wiki/check_built_site.py
           python scripts/wiki/check_progression.py
+          python scripts/wiki/check_progression_guides.py
           python scripts/wiki/check_race_reference.py
           python scripts/wiki/check_wiki_sections.py
           python scripts/wiki/check_skill_catalogue.py
