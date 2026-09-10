@@ -42,6 +42,10 @@ for record in world['pages']:
     assert record['registry_id'] in article.get_text() and article.select('details summary'), 'Missing identity or expandable source panel'
     article_pairs = dict(zip([x.get_text(strip=True) for x in article.select('.druid-label')], [x.get_text(strip=True) for x in article.select('.druid-data')]))
     assert article_pairs == record['stats'], 'Stale rendered reference stats'
+    if record['category'] == 'bosses':
+        spawn_section = next(section for section in record['sections'] if section['title'] == 'Finding the boss')
+        for paragraph in spawn_section['paragraphs']:
+            assert paragraph in article.get_text(' ', strip=True), 'Missing boss spawn guidance'
 policy = json.loads((ROOT / 'data/race_reference.json').read_text(encoding='utf-8'))
 for page, decision in policy['pages'].items():
     if decision['status'] != 'registered':

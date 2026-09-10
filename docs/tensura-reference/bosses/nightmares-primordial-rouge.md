@@ -39,7 +39,11 @@ The boss implementation includes Pride-related skill handling and summoned red A
 
 ## Finding the boss
 
-A current natural-spawn location and probability have not been verified. The reviewed upstream article leaves its spawning section empty.
+In the reference release, Primordial Rouge can replace a naturally spawning Tensura Lesser Daemon, Greater Daemon, or Arch Daemon in a biome tagged tensura:is_hell. This is a spawn-time replacement, not a drop or an evolution. Spawn eggs, spawners, and summoned daemons do not trigger this handler.
+
+The default crimsonRarity setting is 25,000. With sky access OR at or above sea level, the individual Rouge roll is 1 in 6,250. Below sea level without sky access, it is 1 in 100,000. These are default per-eligible-event rolls, not a guaranteed waiting time or a live-server rate.
+
+Pillager outposts are excluded. Nearby bosses of the same type and a local spawn cooldown can block replacement. The reviewed upstream article leaves spawning blank; this route comes from the release's spawn handler. Loaded biome tags and server settings determine eligible locations.
 
 ## Version differences
 
@@ -61,6 +65,8 @@ These are base definition values and initial attributes, not final phase statist
     - `main.entity.sentientboss.SentientBossDefinition`
     - `main.entity.sentientboss.TrSentientBossGiiCrimsonEntity`
     - `main.entity.sentientboss.AbstractTrNightmareSentientBossEntity`
+    - `handler.SentientBossSpawnHandler`
+    - `config.mechanic.nightmare.NightmareBossConfig`
 
     Adapted source context: Tensura Reincarnated Nightmares Wiki contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Release-specific corrections and verification notes are identified above.
 

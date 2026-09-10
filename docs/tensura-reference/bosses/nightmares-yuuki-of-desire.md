@@ -37,7 +37,11 @@ The starting skill list in the definition contains Creator, Greed, Multilayer Ba
 
 ## Finding the boss
 
-A current natural-spawn location and probability have not been verified. The upstream article's one-in-fifty Otherworlder replacement claim is not treated as a confirmed route for this release.
+In the reference release, Yuuki can replace a naturally spawning human-like mob in a biome tagged tensura:otherworlder_spawn. This is a spawn-time replacement, not a reward for killing an Otherworlder. Spawn eggs, spawners, and summoned mobs do not trigger this handler.
+
+The default yuukiRarity setting is 50, but the handler adjusts that denominator. With sky access OR at or above sea level, the individual Yuuki roll is 1 in 12. Below sea level without sky access, it is 1 in 200. These examples assume the default setting and that the event reaches Yuuki's rule; they are not an overall encounter probability.
+
+Pillager outposts are excluded. Nearby bosses of the same type and a local spawn cooldown can block replacement, and an earlier successful boss rule ends processing. Loaded biome tags and server settings determine eligible locations; no exact TSR biome list has been confirmed.
 
 ## Version differences
 
@@ -59,6 +63,8 @@ The numbers above describe base definition values and initial attributes, not a 
     - `main.entity.sentientboss.SentientBossDefinition`
     - `main.entity.sentientboss.TrSentientBossYuukiDesireEntity`
     - `main.entity.sentientboss.AbstractTrNightmareSentientBossEntity`
+    - `handler.SentientBossSpawnHandler`
+    - `config.mechanic.nightmare.NightmareBossConfig`
 
     Adapted source context: Tensura Reincarnated Nightmares Wiki contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Release-specific corrections and verification notes are identified above.
 
