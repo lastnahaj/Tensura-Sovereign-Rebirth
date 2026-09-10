@@ -13,6 +13,27 @@
   "tensura-reference/items/mithril-magisteel-bone-golem.md": "assets/images/items/mithril-magisteel-bone-golem.webp",
   "tensura-reference/items/orichalcum-bone-golem.md": "assets/images/items/orichalcum-bone-golem.webp",
   "tensura-reference/items/pure-magisteel-bone-golem.md": "assets/images/items/pure-magisteel-bone-golem.webp",
+  "tensura-reference/items/element-core-earth.md": {
+    "asset": "assets/upstream/tensura/items/elemental-core-earth-a0a0431ae6.gif",
+    "kind": "source"
+  },
+  "tensura-reference/items/element-core-space.md": {
+    "asset": "assets/upstream/tensura/items/elemental-core-space-8deb05e8d6.gif",
+    "kind": "source"
+  },
+  "tensura-reference/items/element-core-water.md": {
+    "asset": "assets/upstream/tensura/items/elemental-core-water-59ab21f5a9.gif",
+    "kind": "source"
+  },
+  "tensura-reference/items/element-core-wind.md": {
+    "asset": "assets/upstream/tensura/items/elemental-core-wind-265fdf7474.gif",
+    "kind": "source"
+  },
+  "tensura-reference/items/silver-apple.md": {
+    "asset": "assets/upstream/tensura/items/invicon-silver-apple-a26a2e36dd.png",
+    "kind": "source"
+  },
+  "tensura-reference/items/greater-holy-water.md": "assets/images/items/greater-holy-water.webp",
   "tensura-reference/blocks/underworld-barrens.md": "assets/images/encyclopedia/underworld-barrens.webp",
   "tensura-reference/blocks/underworld-red-sands.md": "assets/images/encyclopedia/underworld-red-sands.webp",
   "tensura-reference/blocks/underworld-sands.md": "assets/images/encyclopedia/underworld-sands.webp",

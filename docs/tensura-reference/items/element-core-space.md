@@ -17,8 +17,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-space-b5e3c3540e.png" alt="Element Core (Space) source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Space).png">Invicon Elemental Shard (Space).png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/items/elemental-core-space-8deb05e8d6.gif" alt="Element Core (Space) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/images/Elemental_Core_%28Space%29.gif?8deb05">Elemental Core (Space).gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

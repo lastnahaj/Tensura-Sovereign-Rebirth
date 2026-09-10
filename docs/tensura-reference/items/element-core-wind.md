@@ -17,8 +17,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-elemental-shard-wind-71073eca05.png" alt="Element Core (Wind) source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Wind).png">Invicon Elemental Shard (Wind).png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/items/elemental-core-wind-265fdf7474.gif" alt="Element Core (Wind) source reference" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/images/Elemental_Core_%28Wind%29.gif?265fdf">Elemental Core (Wind).gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

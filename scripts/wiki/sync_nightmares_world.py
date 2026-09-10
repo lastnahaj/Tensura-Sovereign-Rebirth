@@ -28,10 +28,11 @@ def generate():
         ]
         if page.get("media_asset"):
             media_url = f'../../../{page["media_asset"]}'
+            media_kind = "item" if page["category"] == "items" else "encounter"
             lines.extend([
                 '<figure class="reference-overview-media reference-overview-media--theme">',
-                f'<img src="{html.escape(media_url, quote=True)}" alt="{html.escape(title)} encounter artwork" loading="eager" decoding="async">',
-                '<figcaption>Original TSR encounter artwork</figcaption>',
+                f'<img src="{html.escape(media_url, quote=True)}" alt="{html.escape(title)} {media_kind} artwork" loading="eager" decoding="async">',
+                f'<figcaption>Original TSR {media_kind} artwork</figcaption>',
                 '</figure>', '',
             ])
         lines.extend([

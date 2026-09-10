@@ -1532,9 +1532,16 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
         return
     overrides = json.loads(path.read_text(encoding="utf-8"))
     for record in records:
-        asset = overrides.get(record.get("local_page", ""))
-        if asset:
-            record["_primary_media"] = {"local_path": asset, "kind": "original"}
+        override = overrides.get(record.get("local_page", ""))
+        if not override:
+            continue
+        if isinstance(override, str):
+            record["_primary_media"] = {"local_path": override, "kind": "original"}
+        else:
+            record["_primary_media"] = {
+                "local_path": override["asset"],
+                "kind": override.get("kind", "original"),
+            }
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -1718,6 +1725,18 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
             continue
         seen_overview_pages.add(record["local_page"])
         overview_records.append(record)
+    if category == "items":
+        collection_titles = {"items", "armours", "consumables", "gear", "learnable", "misc", "mob drops", "ores"}
+        for record in category_records:
+            display_title = normalize_title(record["display_title"]).casefold()
+            source_title = normalize_title(record["source_title"]).casefold()
+            source_leaf = source_title.split("/")[-1]
+            if display_title not in collection_titles and source_leaf not in collection_titles:
+                continue
+            if record["local_page"] in seen_overview_pages:
+                continue
+            seen_overview_pages.add(record["local_page"])
+            overview_records.append(record)
     overview_local_pages = {
         record["local_page"] for record in overview_records
     }
@@ -1726,7 +1745,12 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     source_roots = {PurePosixPath(record["local_page"]).parts[0] for record in category_records}
     combined_directory = len(source_roots) > 1
     ordered = sorted(
-        [record for record in category_records if record["local_page"] not in overview_local_pages],
+        [
+            record
+            for record in category_records
+            if record["local_page"] not in overview_local_pages
+            and not (category == "items" and normalize_title(record["display_title"]).casefold() == "cargotest")
+        ],
         key=lambda item: item["display_title"].casefold(),
     )
     letters = sorted(

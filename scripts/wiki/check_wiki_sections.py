@@ -20,15 +20,17 @@ for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     assert not prefixed_titles, f'Upstream namespace leaked into {section} card titles: {prefixed_titles}'
 media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
 for local_page, asset in media_overrides.items():
+    if isinstance(asset, dict):
+        asset = asset['asset']
     asset_path = ROOT / 'docs' / asset
     assert asset_path.exists(), f'Missing card artwork: {asset}'
     section = Path(local_page).parts[1]
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
-    route = Path(local_page).stem + '/'
+    route = Path(local_page).stem
     matching = [
         card
         for card in directory.select('.reference-card')
-        if card.select_one('a[href]') and card.select_one('a[href]').get('href', '').endswith(route)
+        if card.select_one('a[href]') and card.select_one('a[href]').get('href', '').rstrip('/').split('/')[-1] == route
     ]
     assert len(matching) == 1, f'Missing or duplicate media override card: {local_page}'
     image = matching[0].select_one('img')
@@ -48,6 +50,21 @@ broken_item_textures = {
 }
 rendered_item_images = {Path(image.get('src', '')).name for image in items.select('.reference-card-media img')}
 assert broken_item_textures.isdisjoint(rendered_item_images), 'A model texture strip is still rendered as item-card artwork'
+item_cards = items.select('.reference-card')
+assert all(card.select_one('.reference-card-media img') for card in item_cards), 'An item card is missing artwork'
+item_titles = {card.h2.get_text(' ', strip=True) for card in item_cards}
+non_items = {'Items', 'Armours', 'Consumables', 'Gear', 'Learnable', 'Misc', 'Mob Drops', 'Ores', 'CargoTest'}
+assert item_titles.isdisjoint(non_items), 'A collection page or debug entry is still rendered as an item card'
+nightmares_item_art = {
+    'nightmares-elder-essence': 'nightmares-elder-essence.webp',
+    'nightmares-life-essence': 'nightmares-life-essence.webp',
+    'nightmares-soul-essence': 'nightmares-soul-essence.webp',
+}
+for page, asset in nightmares_item_art.items():
+    card = next(card for card in item_cards if card.h2.get_text(' ', strip=True).casefold() == page.removeprefix('nightmares-').replace('-', ' ').title().casefold())
+    assert Path(card.select_one('.reference-card-media img')['src']).name == asset
+    article = BeautifulSoup((site / f'tensura-reference/items/{page}/index.html').read_text(encoding='utf-8'), 'html.parser')
+    assert Path(article.select_one('.reference-overview-media img')['src']).name == asset
 item_css = (ROOT / 'docs/assets/stylesheets/extra.css').read_text(encoding='utf-8')
 item_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='utf-8')
 assert 'reference-item-media--inventory' in item_css

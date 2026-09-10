@@ -12,9 +12,9 @@ tags:
 **Also known as:** Items/Consumables/Greater Holy Water
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="Greater Holy Water source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:CS8.png">CS8.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/items/greater-holy-water.webp" alt="Greater Holy Water reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR item artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

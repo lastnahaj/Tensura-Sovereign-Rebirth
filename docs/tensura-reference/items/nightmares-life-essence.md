@@ -10,6 +10,11 @@ A Nightmares material obtained by tending crops: bone meal on growing crops or h
 
     Verified against Nightmares **1.0.3.2.8-neoforge-1.21.1**. The server's exact Nightmares release has not been confirmed; availability and settings can differ.
 
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/items/nightmares-life-essence.webp" alt="Life Essence item artwork" loading="eager" decoding="async">
+<figcaption>Original TSR item artwork</figcaption>
+</figure>
+
 <div class="tensura-reference-article">
 <div class="druid-container reference-release-stats"><aside class="druid-infobox">
 <div class="druid-title">Life Essence</div>
@@ -47,6 +52,6 @@ The upstream article gives the same percentages but omits the crop-age condition
 
     Adapted source context: Tensura Reincarnated Nightmares Wiki contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Release-specific corrections and verification notes are identified above.
 
-    The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item.
+    The page uses original TSR article artwork and does not present it as the in-game item texture.
 
 [Back to the collection](index.md)

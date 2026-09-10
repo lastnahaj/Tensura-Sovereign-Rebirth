@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>207</strong> articles</span>
+<span class="reference-count"><strong>196</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 207 of 207 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 196 of 196 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -177,21 +177,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="armours upstream reference information for armours.">
-<a href="items-armours/" aria-label="Open Armours">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-monster-leather-helmet-d-7bc19bdcb2.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Armours</h2>
-
-<p>Upstream reference information for Armours.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="B" data-search="baffledill baffledills apply the hypnosis to all players within 8 blocks of the flower. non-default alignments (majin/holy/chaos) and spiritual beings are unaffected.">
 <a href="baffledill/" aria-label="Open Baffledill">
 <figure class="reference-card-media reference-card-media--theme">
@@ -307,21 +292,6 @@
 <h2>Bulldeer Milk Bucket</h2>
 
 <p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="C" data-search="cargotest upstream reference information for cargotest.">
-<a href="cargotest/" aria-label="Open CargoTest">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/invicon-pure-magisteel-ingot-6667c91da2.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>CargoTest</h2>
-
-<p>Upstream reference information for CargoTest.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -457,21 +427,6 @@
 <h2>Chilled Slime</h2>
 
 <p>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="C" data-search="consumables upstream reference information for consumables.">
-<a href="items-consumables/" aria-label="Open Consumables">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-raw-blade-tiger-meat-227f5ff7a3.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Consumables</h2>
-
-<p>Upstream reference information for Consumables.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -794,6 +749,10 @@
 </article>
 <article class="reference-card" data-letter="E" data-search="elder essence a nightmares boss reward that can attempt to awaken an ego in each compatible learned skill when consumed.">
 <a href="nightmares-elder-essence/" aria-label="Open Elder Essence">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/nightmares-elder-essence.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
 <div class="reference-card-copy">
 <h2>Elder Essence</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
@@ -806,7 +765,7 @@
 <article class="reference-card" data-letter="E" data-search="element core (earth) there are 2 obtainment methods:">
 <a href="element-core-earth/" aria-label="Open Element Core (Earth)">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-elemental-shard-earth-782ad983a1.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/elemental-core-earth-a0a0431ae6.gif" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -851,7 +810,7 @@
 <article class="reference-card" data-letter="E" data-search="element core (space) there are 2 obtainment methods:">
 <a href="element-core-space/" aria-label="Open Element Core (Space)">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-elemental-shard-space-b5e3c3540e.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/elemental-core-space-8deb05e8d6.gif" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -866,7 +825,7 @@
 <article class="reference-card" data-letter="E" data-search="element core (water) there are 2 obtainment methods:">
 <a href="element-core-water/" aria-label="Open Element Core (Water)">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-elemental-shard-water-7f7c249b18.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/elemental-core-water-59ab21f5a9.gif" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -881,7 +840,7 @@
 <article class="reference-card" data-letter="E" data-search="element core (wind) there are 2 obtainment methods:">
 <a href="element-core-wind/" aria-label="Open Element Core (Wind)">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-elemental-shard-wind-71073eca05.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/elemental-core-wind-265fdf7474.gif" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -1028,21 +987,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="gear upstream reference information for gear.">
-<a href="items-gear/" aria-label="Open Gear">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-low-magisteel-sword-7b35a93f34.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Gear</h2>
-
-<p>Upstream reference information for Gear.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="G" data-search="gehenna-moth silk a dark dusty silk spun by a gehenna moth.">
 <a href="gehenna-moth-silk/" aria-label="Open Gehenna-Moth Silk">
 <figure class="reference-card-media reference-card-media--source">
@@ -1150,9 +1094,9 @@
 </article>
 <article class="reference-card" data-letter="G" data-search="greater holy water this page is a work in progress!!! big things coming soon!!">
 <a href="greater-holy-water/" aria-label="Open Greater Holy Water">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/greater-holy-water.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Greater Holy Water</h2>
@@ -1553,36 +1497,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="items tensura:reincarnated adds a number of unique and interesting items.">
-<a href="items/" aria-label="Open Items">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/gearicon-e9d6eade42.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Items</h2>
-
-<p>Tensura:Reincarnated adds a number of unique and interesting Items.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="I" data-search="items mob drops ores">
-<a href="../../mysticism-reference/items/items/" aria-label="Open Items">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Items</h2>
-
-<p>Mob Drops Ores</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="J" data-search="japanese schematic found in woodland mansions &amp; ancient cities - 10% chance">
 <a href="items-schematics-japanese-schematic/" aria-label="Open Japanese Schematic">
 <figure class="reference-card-media reference-card-media--source">
@@ -1673,21 +1587,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="learnable battlewills are skills equal to magic that use aura instead of magicules. see battlewill manual for all possible battlewills">
-<a href="items-learnable/" aria-label="Open Learnable">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-battlewill-manual-1a31ecb7d9.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Learnable</h2>
-
-<p>Battlewills are skills equal to magic that use aura instead of magicules. See Battlewill Manual for all possible battlewills</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="L" data-search="leather gear schematic obtained by picking up leather">
 <a href="items-schematics-leather-gear-schematic/" aria-label="Open Leather Gear Schematic">
 <figure class="reference-card-media reference-card-media--source">
@@ -1705,6 +1604,10 @@
 </article>
 <article class="reference-card" data-letter="L" data-search="life essence a nightmares material obtained by tending crops: bone meal on growing crops or harvesting mature crops.">
 <a href="nightmares-life-essence/" aria-label="Open Life Essence">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/nightmares-life-essence.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
 <div class="reference-card-copy">
 <h2>Life Essence</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
@@ -1834,21 +1737,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="misc upstream reference information for misc.">
-<a href="items-misc/" aria-label="Open Misc">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-hihiirokane-nugget-a9a6bb68cf.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Misc</h2>
-
-<p>Upstream reference information for Misc.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="M" data-search="mithril  magisteel bone golem a golem resembling a skeleton made out of mithril. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates by…">
 <a href="mithril-magisteel-bone-golem/" aria-label="Open Mithril  Magisteel Bone Golem">
 <figure class="reference-card-media reference-card-media--theme">
@@ -1904,36 +1792,6 @@
 <h2>Mithril Nugget</h2>
 
 <p>Smelting Magic Ore and Iron in Kiln Each Mithril Ingot is made with 5 parts Molten Magisteel, 4 parts Molten Silver.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mob drops these are primarily obtained via mobs, unless specified otherwise">
-<a href="items-mob-drops/" aria-label="Open Mob Drops">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-low-quality-magic-crystal-148c872487.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mob Drops</h2>
-
-<p>These are primarily obtained via Mobs, unless specified otherwise</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="M" data-search="mob drops cryptid essence flame essence ice essence lightning essence">
-<a href="../../mysticism-reference/items/items-mob-drops/" aria-label="Open Mob Drops">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/cryptid-essence-1b6149bfdb.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mob Drops</h2>
-
-<p>Cryptid Essence Flame Essence Ice Essence Lightning Essence</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2359,21 +2217,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="O" data-search="ores ice essence">
-<a href="../../mysticism-reference/items/items-ores/" aria-label="Open Ores">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/ice-essence-61e9aa41b9.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Ores</h2>
-
-<p>Ice Essence</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="O" data-search="orichalcum bone golem a golem resembling a skeleton made out of orichalcum. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
 <a href="orichalcum-bone-golem/" aria-label="Open Orichalcum Bone Golem">
 <figure class="reference-card-media reference-card-media--theme">
@@ -2767,7 +2610,7 @@
 <article class="reference-card" data-letter="S" data-search="silver apple upon consumption gives the effects magicule regeneration for 60 seconds and haste for 120 seconds.">
 <a href="silver-apple/" aria-label="Open Silver Apple">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-enchanted-silver-apple-1da0004d6e.gif" alt="" loading="lazy" decoding="async">
+<img src="../../assets/upstream/tensura/items/invicon-silver-apple-a26a2e36dd.png" alt="" loading="lazy" decoding="async">
 <figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -2886,6 +2729,10 @@
 </article>
 <article class="reference-card" data-letter="S" data-search="soul essence a nightmares evolution material awarded by completed direwolf and daemon raids in the reviewed 1.21.1 release.">
 <a href="nightmares-soul-essence/" aria-label="Open Soul Essence">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/nightmares-soul-essence.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
 <div class="reference-card-copy">
 <h2>Soul Essence</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
