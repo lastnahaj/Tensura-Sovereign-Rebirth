@@ -27,6 +27,24 @@
       "media_note": "The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item."
     },
     {
+      "display_title": "Elder Essence",
+      "source_title": "Elder Essence.",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Elder_Essence",
+      "revision_id": 2365,
+      "category": "items",
+      "local_page": "tensura-reference/items/nightmares-elder-essence.md",
+      "registry_id": "trnightmare:elder_essence",
+      "summary": "A Nightmares boss reward that can attempt to awaken an ego in each compatible learned skill when consumed.",
+      "stats": {"Source": "Tensura Nightmares", "Primordial Rouge": "50%", "Primordial Daemon": "50%", "Milim Wrath": "45%", "Veldora / Velzard / Velgrynd": "80% each", "Agera": "5%", "Quantity per successful roll": "1", "Ego attempt per compatible skill": "25%"},
+      "evidence_classes": ["registry.main.NightmareMobDrops", "handler.BossRewards", "handler.EventBusHandler"],
+      "sections": [
+        {"title": "How to obtain", "paragraphs": ["In the reference release, Elder Essence is a programmatic boss reward. Primordial Rouge and Primordial Daemon each roll at 50%; Milim Wrath rolls at 45%; Veldora, Velzard, and Velgrynd each roll at 80%; and Agera rolls at 5%.", "Each successful listed roll awards one Elder Essence. The percentages are independent drop chances in the reference code, not guaranteed live-server rates; datapacks, configuration, or a different installed build can change the result.", "Packaged mob loot files also mention Elder Essence, but they are stored under the pre-1.21 loot_tables path. Minecraft 1.21 renamed that data-pack folder to loot_table, so those file-based mob drops are not presented as working acquisition routes without an in-game confirmation."]},
+        {"title": "How it works", "paragraphs": ["When a server player consumes Elder Essence, the reference handler checks every learned skill that is capable of developing an ego. Each compatible skill independently has a 25% chance to receive its assigned ego.", "This is not a 25% chance to select exactly one skill. A single use can succeed for none, one, or multiple compatible learned skills because the handler rolls each eligible skill separately."]},
+        {"title": "Source clarification", "paragraphs": ["The upstream article describes the ego chance as 75%. In the reviewed reference handler, rolls below 0.75 are skipped, leaving a 25% success interval. This page follows the executable condition rather than repeating the article's percentage.", "The upstream article's mob-drop claims are not used as verified 1.21.1 routes because the packaged loot files use the legacy directory name. The boss rewards above are registered directly by Java code and do not depend on that folder."]}
+      ],
+      "media_note": "The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item."
+    },
+    {
       "display_title": "Yuuki of Desire",
       "source_title": "Yuuki Of Desire",
       "source_url": "https://tensuranightmares.wiki.gg/wiki/Yuuki_Of_Desire",
@@ -65,8 +83,7 @@
   ],
   "pending_sources": [
     {"source_title": "Soul Essence", "revision_id": 1041, "registry_id": "trnightmare:soul_essence", "reason": "Registered in the reference release. Packaged mob-drop files use the legacy loot_tables directory, not Minecraft 1.21's loot_table directory; file presence alone does not verify working drops. Alternate reward routes remain under review."},
-    {"source_title": "Ender Essence", "revision_id": 1090, "registry_id": "trnightmare:ender_essence", "reason": "Registered in the reference release. Packaged mob-drop files use the legacy loot_tables directory, not Minecraft 1.21's loot_table directory; file presence alone does not verify working drops. Current skill-evolution uses also need reconciliation."},
-    {"source_title": "Elder Essence.", "revision_id": 2365, "registry_id": "trnightmare:elder_essence", "reason": "Registered in the reference release; boss rewards and ego-development conditions need reconciliation."}
+    {"source_title": "Ender Essence", "revision_id": 1090, "registry_id": "trnightmare:ender_essence", "reason": "Registered in the reference release. Packaged mob-drop files use the legacy loot_tables directory, not Minecraft 1.21's loot_table directory; file presence alone does not verify working drops. Current skill-evolution uses also need reconciliation."}
   ],
   "format_reference": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21",
   "commands": {"source_url": "https://tensuranightmares.wiki.gg/wiki/Commands", "revision_id": 378, "status": "The reviewed article contains only a WIP template and documents no command syntax."}
