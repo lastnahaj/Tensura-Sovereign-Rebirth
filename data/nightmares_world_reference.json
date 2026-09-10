@@ -45,6 +45,24 @@
       "media_note": "The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item."
     },
     {
+      "display_title": "Soul Essence",
+      "source_title": "Soul Essence",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Soul_Essence",
+      "revision_id": 1041,
+      "category": "items",
+      "local_page": "tensura-reference/items/nightmares-soul-essence.md",
+      "registry_id": "trnightmare:soul_essence",
+      "summary": "A Nightmares evolution material awarded by completed Direwolf and Daemon raids in the reviewed 1.21.1 release.",
+      "stats": {"Source": "Tensura Nightmares", "Direwolf raid reward": "100%", "Direwolf raid amount": "1–3", "Daemon raid reward": "50%", "Daemon raid amount": "1–2", "Rewarded to": "Nearby players", "Nutrition when eaten": "4", "Saturation modifier": "0.3"},
+      "evidence_classes": ["registry.main.NightmareMobDrops", "handler.RaidRewardTables", "handler.DirewolfRaidHandler", "handler.DaemonRaidHandler", "main.races.NightmareEvolutionHelper", "main.food.NightmareFoodProperties"],
+      "sections": [
+        {"title": "How to obtain", "paragraphs": ["Complete a Nightmares Direwolf raid while inside its reward area. Each nearby player receives an independent 100% Soul Essence roll for 1–3 items when the final wave is cleared.", "A completed Nightmares Daemon raid gives each nearby player an independent 50% roll for 1–2 Soul Essence. Missing that roll does not mean the raid reward system failed.", "In the reference data, Direwolf raids use Tensura Goblin Village structures and require a Goblin resident; Daemon raids use the Tensura Dwarf Village and require a Dwarf resident. Entering the structure alone is not enough: the player must also have a valid raid-trigger effect, and the handler consumes that trigger when the raid begins."]},
+        {"title": "How it is used", "paragraphs": ["Soul Essence is consumed by multiple Nightmares race-evolution requirement helpers. The required count is configuration-driven, so individual race pages should be used for the relevant branch rather than assuming one universal amount.", "The item is also always edible in the reference release, restoring 4 nutrition with a 0.3 saturation modifier. Eating it is not shown as a substitute for satisfying a race evolution's explicit item-consumption requirement."]},
+        {"title": "Source clarification", "paragraphs": ["The upstream article lists Vindicator, Illusioner, Evoker, Witch, Villager, and Pillager drops and labels the item non-renewable. Packaged files for those drops use the pre-1.21 loot_tables directory, while Minecraft 1.21 uses loot_table; those routes are not presented here as working without an in-game confirmation.", "The raid rewards are assembled and granted directly by the reference release's Java handlers, so they do not depend on the legacy loot folder. The repeatable raid routes also conflict with the article's non-renewable label."]}
+      ],
+      "media_note": "The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item."
+    },
+    {
       "display_title": "Yuuki of Desire",
       "source_title": "Yuuki Of Desire",
       "source_url": "https://tensuranightmares.wiki.gg/wiki/Yuuki_Of_Desire",
@@ -82,7 +100,6 @@
     }
   ],
   "pending_sources": [
-    {"source_title": "Soul Essence", "revision_id": 1041, "registry_id": "trnightmare:soul_essence", "reason": "Registered in the reference release. Packaged mob-drop files use the legacy loot_tables directory, not Minecraft 1.21's loot_table directory; file presence alone does not verify working drops. Alternate reward routes remain under review."},
     {"source_title": "Ender Essence", "revision_id": 1090, "registry_id": "trnightmare:ender_essence", "reason": "Registered in the reference release. Packaged mob-drop files use the legacy loot_tables directory, not Minecraft 1.21's loot_table directory; file presence alone does not verify working drops. Current skill-evolution uses also need reconciliation."}
   ],
   "format_reference": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21",

@@ -61,7 +61,7 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>World &amp; Equipment</h2>
 <p>Browse gear, materials, structures, terrain, and the technical reference.</p>
 <div class="reference-path-links">
-<a href="items/">Items &amp; Materials <span>206</span></a>
+<a href="items/">Items &amp; Materials <span>207</span></a>
 <a href="weapons/">Weapons <span>91</span></a>
 <a href="armor/">Armor <span>51</span></a>
 <a href="tools/">Tools <span>30</span></a>

@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>206</strong> articles</span>
+<span class="reference-count"><strong>207</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 206 of 206 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 207 of 207 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -2880,6 +2880,17 @@
 
 <p>The beating core of a Supermassive Slime .</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="soul essence a nightmares evolution material awarded by completed direwolf and daemon raids in the reviewed 1.21.1 release.">
+<a href="nightmares-soul-essence/" aria-label="Open Soul Essence">
+<div class="reference-card-copy">
+<h2>Soul Essence</h2>
+<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
+<p>A Nightmares evolution material awarded by completed Direwolf and Daemon raids in the reviewed 1.21.1 release.</p>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares</dd><dt>Direwolf raid reward</dt><dd>100%</dd><dt>Direwolf raid amount</dt><dd>1–3</dd><dt>Daemon raid reward</dt><dd>50%</dd><dt>Daemon raid amount</dt><dd>1–2</dd><dt>Rewarded to</dt><dd>Nearby players</dd><dt>Nutrition when eaten</dt><dd>4</dd><dt>Saturation modifier</dt><dd>0.3</dd></dl><small class="reference-card-source-note">Reference release values; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
