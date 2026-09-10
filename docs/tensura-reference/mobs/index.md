@@ -7,6 +7,7 @@
 <p>Documented entity catalog.</p>
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>60</strong> articles</span>
+<a class="reference-directory-overview-link" href="../bosses/">Browse boss encounters →</a>
 </div>
 </div>
 </header>

@@ -1569,6 +1569,8 @@ def supplementary_records() -> list[dict[str, Any]]:
     from skill_catalogue import nightmares_manifest
     for entry in nightmares_manifest()["pages"]:
         records.append({**entry, "_html": (DOCS / entry["local_page"]).read_text(encoding="utf-8"), "_primary_media": {"local_path": entry["asset"], "kind": "emblem"}, "_supplementary": True})
+    from sync_nightmares_world import records as nightmares_world_records
+    records.extend(nightmares_world_records())
     return records
 
 
@@ -1666,10 +1668,12 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
             '## Mysticism', '',
             'The imported command list is explicitly labeled **1.19.2** upstream. It is historical reference, not verified 1.21.1 syntax.', '',
             '[View the historical Mysticism command list](../../mysticism-reference/commands/commands.md).', '',
+            '## Tensura Nightmares', '',
+            'The [reviewed upstream Commands article](https://tensuranightmares.wiki.gg/index.php?oldid=378) contains only a work-in-progress template and documents no syntax. This is a documentation gap, not evidence that the mod has no commands. Check server command help and permissions before use.', '',
             '## TSR server administration', '',
             '[Server administration](../../server-administration.md) · [Permissions](../../permissions.md)', '',
             '## Other installed extensions', '',
-            'Nightmares, Ascension, and SlimeThrone Extras command coverage is not yet verified for the recorded builds. No command list is inferred from skill names or older releases.', '',
+            'Ascension and SlimeThrone Extras command coverage is not yet verified for the recorded builds. No command list is inferred from skill names or older releases.', '',
         ])
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
@@ -1726,6 +1730,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     visible_overviews = (
         overview_records if combined_directory and not ordered else overview_records[:1]
     )
+    if category == 'mobs':
+        lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/bosses/index.md")}">Browse boss encounters →</a>')
     if not combined_directory or not ordered:
         for position, overview_record in enumerate(visible_overviews):
             label = "Read collection overview" if position == 0 else "Read additional overview"
@@ -1768,6 +1774,12 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
         card_asset_url = rendered_asset_relative_url(index_page, card_asset)
         media_class = "reference-card-media--source" if primary_media else "reference-card-media--theme"
         source_label = "TSR skill emblem" if primary_media and primary_media.get("kind") == "emblem" else ("Source media" if primary_media else "TSR artwork")
+        card_media = [] if record.get('_omit_media') else [
+            f'<figure class="reference-card-media {media_class}">',
+            f'<img src="{html.escape(card_asset_url, quote=True)}" alt="" loading="lazy" decoding="async">',
+            f'<figcaption>{source_label}</figcaption>',
+            '</figure>',
+        ]
         card_stats = ''
         if category in {'mobs', 'bosses', 'items', 'blocks', 'biomes', 'structures'}:
             source_page = DOCS / record['local_page']
@@ -1780,15 +1792,13 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                     if label and value and value.get_text(' ', strip=True):
                         pairs.append((label.get_text(' ', strip=True), value.get_text(' ', strip=True)))
             if pairs:
-                card_stats = '<dl class="reference-card-stats">' + ''.join('<dt>' + html.escape(label) + '</dt><dd>' + html.escape(value) + '</dd>' for label, value in pairs[:8]) + '</dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>'
+                stat_note = record.get('_stat_source_note', 'Upstream reference values; server settings may differ.')
+                card_stats = '<dl class="reference-card-stats">' + ''.join('<dt>' + html.escape(label) + '</dt><dd>' + html.escape(value) + '</dd>' for label, value in pairs[:8]) + '</dl><small class="reference-card-source-note">' + html.escape(stat_note) + '</small>'
         lines.extend(
             [
                 f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',
                 f'<a href="{rendered_page_relative_url(index_page, record["local_page"])}{("#" + record["fragment"]) if record.get("fragment") else ""}" aria-label="Open {html.escape(record["display_title"], quote=True)}">',
-                f'<figure class="reference-card-media {media_class}">',
-                f'<img src="{html.escape(card_asset_url, quote=True)}" alt="" loading="lazy" decoding="async">',
-                f"<figcaption>{source_label}</figcaption>",
-                "</figure>",
+                *card_media,
                 '<div class="reference-card-copy">',
                 f"<h2>{html.escape(record['display_title'])}</h2>",
                 '<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>' if record.get("reference_build_only") else "",

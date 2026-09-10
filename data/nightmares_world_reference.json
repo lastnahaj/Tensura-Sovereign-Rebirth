@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "reference_build": {
+    "version": "1.0.3.2.8-neoforge-1.21.1",
+    "minecraft": "1.21.1",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "text_license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "pages": [
+    {
+      "display_title": "Life Essence",
+      "source_title": "Life Essence",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Life_Essence",
+      "revision_id": 1409,
+      "category": "items",
+      "local_page": "tensura-reference/items/nightmares-life-essence.md",
+      "registry_id": "trnightmare:life_essence",
+      "summary": "A Nightmares material obtained by tending crops: bone meal on growing crops or harvesting mature crops.",
+      "stats": {"Source": "Tensura Nightmares", "Bone meal on growing crops": "50%", "Breaking mature crops": "10%"},
+      "evidence_classes": ["registry.main.NightmareMobDrops", "handler.MobDropHandler"],
+      "sections": [
+        {"title": "How to obtain", "paragraphs": ["Use bone meal on an immature crop to trigger a 50% chance of one Life Essence. The block must be a CropBlock and must not have reached its maximum age; this does not apply to every plant that accepts bone meal.", "Break a fully grown crop to trigger a 10% chance of one Life Essence. Breaking an immature crop does not meet this condition.", "These are two separate server-side event checks in the reference release. A chance is not a guarantee, and other server rules can affect farming."]},
+        {"title": "Source clarification", "paragraphs": ["The upstream article gives the same percentages but omits the crop-age conditions. The reference release explicitly checks crop type and maturity. Its repeatable farming routes also mean the article's non-renewable label is not used here."]}
+      ],
+      "media_note": "The source image has no explicit reuse license on its file page. No substitute image is presented as the in-game item."
+    },
+    {
+      "display_title": "Yuuki of Desire",
+      "source_title": "Yuuki Of Desire",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Yuuki_Of_Desire",
+      "revision_id": 2360,
+      "category": "bosses",
+      "local_page": "tensura-reference/bosses/nightmares-yuuki-of-desire.md",
+      "registry_id": "trnightmare:sentient_boss_yuuki_desire",
+      "summary": "Nightmares' Yuuki encounter, named Grandmaster - Yuuki in the reference release, with Creator and Greed.",
+      "stats": {"Base health": "4,000", "Base spiritual health": "6,000", "Base armor": "0", "Base attack damage": "45", "Minimum EP": "3,500,000", "Maximum EP": "4,500,000", "Melee dodge attribute": "10%", "Projectile dodge attribute": "10%", "Dodge negation attribute": "50%", "Presence sense attribute": "155", "Movement speed attribute": "0.26", "Follow range attribute": "64"},
+      "evidence_classes": ["registry.main.SentientBossEntityRegistration", "main.entity.sentientboss.SentientBossDefinition", "main.entity.sentientboss.TrSentientBossYuukiDesireEntity", "main.entity.sentientboss.AbstractTrNightmareSentientBossEntity"],
+      "sections": [
+        {"title": "Encounter identity", "paragraphs": ["This is the Nightmares entity registered as sentient_boss_yuuki_desire, not every mob named Yuuki. Its definition uses the display name Grandmaster - Yuuki and the neutral behavior profile.", "The starting skill list in the definition contains Creator, Greed, Multilayer Barrier, and Ultraspeed Regeneration. Skills and encounter logic can change combat performance beyond the base attributes shown above."]},
+        {"title": "Finding the boss", "paragraphs": ["A current natural-spawn location and probability have not been verified. The upstream article's one-in-fifty Otherworlder replacement claim is not treated as a confirmed route for this release."]},
+        {"title": "Version differences", "paragraphs": ["The upstream infobox lists 4,500 health, 9,000 spiritual health, 150 armor, and 190 attack. Those values differ from this reference release's entity definition and are not used in the stat card.", "The numbers above describe base definition values and initial attributes, not a guarantee of final damage, difficulty, or live-server settings. This is a reference audit, not an in-game encounter test."]}
+      ],
+      "media_note": "The upstream article uses a placeholder image. It is omitted from this encounter guide."
+    },
+    {
+      "display_title": "Primordial Rouge",
+      "source_title": "Primordial Rouge",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Primordial_Rouge",
+      "revision_id": 2361,
+      "category": "bosses",
+      "local_page": "tensura-reference/bosses/nightmares-primordial-rouge.md",
+      "registry_id": "trnightmare:sentient_boss_gii_crimson",
+      "summary": "The Nightmares Primordial Rouge / Gii Crimson boss encounter, distinct from the similarly named playable race.",
+      "stats": {"Base health": "850", "Base spiritual health": "5,500", "Base armor": "40", "Base attack damage": "15", "Minimum EP": "1,500,000", "Maximum EP": "6,666,666", "Melee dodge attribute": "50%", "Projectile dodge attribute": "50%", "Dodge negation attribute": "75%", "Presence sense attribute": "155", "Movement speed attribute": "0.28", "Follow range attribute": "96"},
+      "evidence_classes": ["registry.main.SentientBossEntityRegistration", "main.entity.sentientboss.SentientBossDefinition", "main.entity.sentientboss.TrSentientBossGiiCrimsonEntity", "main.entity.sentientboss.AbstractTrNightmareSentientBossEntity"],
+      "sections": [
+        {"title": "Encounter identity", "paragraphs": ["This page covers the boss registered as sentient_boss_gii_crimson. The reference release's friendship label identifies him as Primordial Rouge - Gii Crimson; the boss definition names him Primordial Rouge.", "The similarly named race and boss are distinct registry entries. This encounter is not a race-evolution step.", "The boss implementation includes Pride-related skill handling and summoned red Arch Daemons. Its combat mechanics can change the encounter beyond the base attributes shown above."]},
+        {"title": "Finding the boss", "paragraphs": ["A current natural-spawn location and probability have not been verified. The reviewed upstream article leaves its spawning section empty."]},
+        {"title": "Version differences", "paragraphs": ["The upstream infobox lists 12,000 health, 24,000 spiritual health, 25 armor, 70 attack, and an EP range of 7,000,000–7,700,000. Those values differ from this reference release's entity definition and are not used in the stat card.", "These are base definition values and initial attributes, not final phase statistics or a prediction of actual damage. The encounter has additional mechanics; this is a reference audit, not an in-game encounter test."]}
+      ],
+      "media_note": "The upstream article uses a placeholder image. It is omitted from this encounter guide."
+    }
+  ],
+  "pending_sources": [
+    {"source_title": "Soul Essence", "revision_id": 1041, "registry_id": "trnightmare:soul_essence", "reason": "Registered in the reference release; the article's mob-drop probabilities have not been reconciled with the release."},
+    {"source_title": "Ender Essence", "revision_id": 1090, "registry_id": "trnightmare:ender_essence", "reason": "Registered in the reference release; current obtainment and skill-evolution uses need reconciliation."},
+    {"source_title": "Elder Essence.", "revision_id": 2365, "registry_id": "trnightmare:elder_essence", "reason": "Registered in the reference release; boss rewards and ego-development conditions need reconciliation."}
+  ],
+  "commands": {"source_url": "https://tensuranightmares.wiki.gg/wiki/Commands", "revision_id": 378, "status": "The reviewed article contains only a WIP template and documents no command syntax."}
+}

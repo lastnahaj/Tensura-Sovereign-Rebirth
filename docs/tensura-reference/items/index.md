@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>204</strong> articles</span>
+<span class="reference-count"><strong>205</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 204 of 204 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 205 of 205 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1718,6 +1718,17 @@
 
 <p>Obtained by picking up leather</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="L" data-search="life essence a nightmares material obtained by tending crops: bone meal on growing crops or harvesting mature crops.">
+<a href="nightmares-life-essence/" aria-label="Open Life Essence">
+<div class="reference-card-copy">
+<h2>Life Essence</h2>
+<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
+<p>A Nightmares material obtained by tending crops: bone meal on growing crops or harvesting mature crops.</p>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares</dd><dt>Bone meal on growing crops</dt><dd>50%</dd><dt>Breaking mature crops</dt><dd>10%</dd></dl><small class="reference-card-source-note">Reference release values; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

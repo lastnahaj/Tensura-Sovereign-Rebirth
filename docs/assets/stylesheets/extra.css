@@ -194,6 +194,21 @@
   font-weight: 700;
 }
 
+.tensura-reference-article .druid-container.reference-release-stats {
+  float: none;
+  width: 100%;
+  margin: 0 0 1rem;
+}
+
+.reference-release-stats .druid-infobox {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+}
+
+.reference-release-stats .druid-title {
+  grid-column: 1 / -1;
+}
+
 .tensura-reference-article .navi-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));

@@ -6,7 +6,7 @@
 <h1>Bosses</h1>
 <p>Documented boss encounters.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>13</strong> articles</span>
+<span class="reference-count"><strong>15</strong> articles</span>
 </div>
 </div>
 </header>
@@ -24,11 +24,13 @@
 <button type="button" data-letter="H" aria-pressed="false">H</button>
 <button type="button" data-letter="I" aria-pressed="false">I</button>
 <button type="button" data-letter="O" aria-pressed="false">O</button>
+<button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
+<button type="button" data-letter="Y" aria-pressed="false">Y</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 13 of 13 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 15 of 15 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="akash this is a greater space spirit summoned by hinata sakaguchi.">
@@ -151,6 +153,17 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="P" data-search="primordial rouge the nightmares primordial rouge / gii crimson boss encounter, distinct from the similarly named playable race.">
+<a href="nightmares-primordial-rouge/" aria-label="Open Primordial Rouge">
+<div class="reference-card-copy">
+<h2>Primordial Rouge</h2>
+<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
+<p>The Nightmares Primordial Rouge / Gii Crimson boss encounter, distinct from the similarly named playable race.</p>
+<dl class="reference-card-stats"><dt>Base health</dt><dd>850</dd><dt>Base spiritual health</dt><dd>5,500</dd><dt>Base armor</dt><dd>40</dd><dt>Base attack damage</dt><dd>15</dd><dt>Minimum EP</dt><dd>1,500,000</dd><dt>Maximum EP</dt><dd>6,666,666</dd><dt>Melee dodge attribute</dt><dd>50%</dd><dt>Projectile dodge attribute</dt><dd>50%</dd></dl><small class="reference-card-source-note">Reference release values; server build match pending.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="S" data-search="shizu a rare otherworlder, upon near death triggers the release of ifrit - after ifrit&#x27;s defeat, shizu will appear defeated and slowly dying. shizu cannot be tamed">
 <a href="mobs-shizu/" aria-label="Open Shizu">
 <figure class="reference-card-media reference-card-media--source">
@@ -222,6 +235,17 @@
 
 <p>A Greater Earth Spirit</p>
 <dl class="reference-card-stats"><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>20</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>150000</dd><dt>Resistances</dt><dd>Earth Attack Nullification</dd><dt>Intrinsic</dt><dd>Earth Transform</dd><dt>Extra</dt><dd>Earth Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="Y" data-search="yuuki of desire nightmares&#x27; yuuki encounter, named grandmaster - yuuki in the reference release, with creator and greed.">
+<a href="nightmares-yuuki-of-desire/" aria-label="Open Yuuki of Desire">
+<div class="reference-card-copy">
+<h2>Yuuki of Desire</h2>
+<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
+<p>Nightmares&#x27; Yuuki encounter, named Grandmaster - Yuuki in the reference release, with Creator and Greed.</p>
+<dl class="reference-card-stats"><dt>Base health</dt><dd>4,000</dd><dt>Base spiritual health</dt><dd>6,000</dd><dt>Base armor</dt><dd>0</dd><dt>Base attack damage</dt><dd>45</dd><dt>Minimum EP</dt><dd>3,500,000</dd><dt>Maximum EP</dt><dd>4,500,000</dd><dt>Melee dodge attribute</dt><dd>10%</dd><dt>Projectile dodge attribute</dt><dd>10%</dd></dl><small class="reference-card-source-note">Reference release values; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
