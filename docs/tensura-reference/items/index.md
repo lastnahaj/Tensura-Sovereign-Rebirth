@@ -44,9 +44,9 @@
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
 <a href="adamantite-bone-golem/" aria-label="Open Adamantite Bone Golem">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/adamantite-bone-golem-8562a7acd4.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/adamantite-bone-golem.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Bone Golem</h2>
@@ -1330,9 +1330,9 @@
 </article>
 <article class="reference-card" data-letter="H" data-search="hihi&#x27;irokane  bone golem a golem resembling a skeleton made out of hihi&#x27;irokane. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
 <a href="hihiirokane-bone-golem/" aria-label="Open Hihi&#x27;irokane  Bone Golem">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/hihiirokane-bone-golem-aff91127e7.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/hihiirokane-bone-golem.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hihi&#x27;irokane  Bone Golem</h2>
@@ -1851,9 +1851,9 @@
 </article>
 <article class="reference-card" data-letter="M" data-search="mithril  magisteel bone golem a golem resembling a skeleton made out of mithril. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates by…">
 <a href="mithril-magisteel-bone-golem/" aria-label="Open Mithril  Magisteel Bone Golem">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/mithril-bone-golem-c6ea8016b6.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/mithril-magisteel-bone-golem.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril  Magisteel Bone Golem</h2>
@@ -2376,9 +2376,9 @@
 </article>
 <article class="reference-card" data-letter="O" data-search="orichalcum bone golem a golem resembling a skeleton made out of orichalcum. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
 <a href="orichalcum-bone-golem/" aria-label="Open Orichalcum Bone Golem">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/orichalcum-bone-golem-a6df50b104.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/orichalcum-bone-golem.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Bone Golem</h2>
@@ -2466,9 +2466,9 @@
 </article>
 <article class="reference-card" data-letter="P" data-search="pure magisteel bone golem a golem resembling a skeleton made out of pure magisteel. allows the player to possess it and works as a physical body, can also be given to spirit or daemon…">
 <a href="pure-magisteel-bone-golem/" aria-label="Open Pure Magisteel Bone Golem">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/pure-magisteel-bone-golem-d502e56934.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/pure-magisteel-bone-golem.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Bone Golem</h2>

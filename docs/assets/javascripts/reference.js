@@ -249,7 +249,25 @@
     update();
   }
 
+  function setupItemMedia() {
+    if (!/^\/tensura-reference\/items(?:\/|$)/.test(window.location.pathname)) return;
+    document.querySelectorAll(".reference-card-media--source, .reference-overview-media--source").forEach((figure) => {
+      const image = figure.querySelector("img");
+      if (!image) return;
+      const classify = () => {
+        const source = image.getAttribute("src") || "";
+        const isInventoryAsset = /(?:invicon|schematic)-/i.test(source);
+        if (isInventoryAsset || (image.naturalWidth <= 128 && image.naturalHeight <= 128)) {
+          figure.classList.add("reference-item-media--inventory");
+        }
+      };
+      if (image.complete) classify();
+      else image.addEventListener("load", classify, { once: true });
+    });
+  }
+
   function boot() {
+    setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;

@@ -10,9 +10,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/orichalcum-bone-golem-a6df50b104.png" alt="Orichalcum Bone Golem source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_bone_golem.png">Orichalcum bone golem.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/items/orichalcum-bone-golem.webp" alt="Orichalcum Bone Golem reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

@@ -38,6 +38,20 @@ for local_page, asset in media_overrides.items():
     article = BeautifulSoup(article_path.read_text(encoding='utf-8'), 'html.parser')
     article_image = article.select_one('.reference-overview-media img')
     assert article_image and Path(article_image.get('src', '')).name == asset_path.name, f'Stale article artwork: {local_page}'
+items = BeautifulSoup((site / 'tensura-reference/items/index.html').read_text(encoding='utf-8'), 'html.parser')
+broken_item_textures = {
+    'adamantite-bone-golem-8562a7acd4.png',
+    'hihiirokane-bone-golem-aff91127e7.png',
+    'mithril-bone-golem-c6ea8016b6.png',
+    'orichalcum-bone-golem-a6df50b104.png',
+    'pure-magisteel-bone-golem-d502e56934.png',
+}
+rendered_item_images = {Path(image.get('src', '')).name for image in items.select('.reference-card-media img')}
+assert broken_item_textures.isdisjoint(rendered_item_images), 'A model texture strip is still rendered as item-card artwork'
+item_css = (ROOT / 'docs/assets/stylesheets/extra.css').read_text(encoding='utf-8')
+item_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='utf-8')
+assert 'reference-item-media--inventory' in item_css
+assert 'setupItemMedia' in item_js and 'reference-item-media--inventory' in item_js
 mobs = BeautifulSoup((site / 'tensura-reference/mobs/index.html').read_text(encoding='utf-8'), 'html.parser')
 wasp = next(card for card in mobs.select('.reference-card') if card.h2.get_text(strip=True) == 'Army Wasp')
 pairs = dict(zip([x.get_text(strip=True) for x in wasp.select('dt')], [x.get_text(strip=True) for x in wasp.select('dd')]))
@@ -85,4 +99,4 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
-print('Wiki section checks passed: 11 navigation sections, populated directories, Army Wasp stat card, command source notices, and recorded race configurations')
+print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item media, Army Wasp stats, command notices, and race configurations')
