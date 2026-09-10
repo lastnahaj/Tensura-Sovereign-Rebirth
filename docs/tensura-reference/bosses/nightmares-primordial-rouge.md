@@ -10,6 +10,11 @@ The Nightmares Primordial Rouge / Gii Crimson boss encounter, distinct from the 
 
     Verified against Nightmares **1.0.3.2.8-neoforge-1.21.1**. The server's exact Nightmares release has not been confirmed; availability and settings can differ.
 
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/bosses/primordial-rouge.webp" alt="Primordial Rouge encounter artwork" loading="eager" decoding="async">
+<figcaption>Original TSR encounter artwork</figcaption>
+</figure>
+
 <div class="tensura-reference-article">
 <div class="druid-container reference-release-stats"><aside class="druid-infobox">
 <div class="druid-title">Primordial Rouge</div>
@@ -70,6 +75,6 @@ These are base definition values and initial attributes, not final phase statist
 
     Adapted source context: Tensura Reincarnated Nightmares Wiki contributors, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Release-specific corrections and verification notes are identified above.
 
-    The upstream article uses a placeholder image. It is omitted from this encounter guide.
+    Original TSR encounter artwork is used in place of the upstream article's placeholder image.
 
 [Back to the collection](index.md)

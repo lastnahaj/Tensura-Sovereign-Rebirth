@@ -25,10 +25,20 @@ def generate():
             page["summary"], "",
             '!!! warning "1.21.1 reference — server build match pending"', "",
             f'    Verified against Nightmares **{build["version"]}**. The server\'s exact Nightmares release has not been confirmed; availability and settings can differ.', "",
+        ]
+        if page.get("media_asset"):
+            media_url = f'../../../{page["media_asset"]}'
+            lines.extend([
+                '<figure class="reference-overview-media reference-overview-media--theme">',
+                f'<img src="{html.escape(media_url, quote=True)}" alt="{html.escape(title)} encounter artwork" loading="eager" decoding="async">',
+                '<figcaption>Original TSR encounter artwork</figcaption>',
+                '</figure>', '',
+            ])
+        lines.extend([
             '<div class="tensura-reference-article">',
             '<div class="druid-container reference-release-stats"><aside class="druid-infobox">',
             f'<div class="druid-title">{html.escape(title)}</div>',
-        ]
+        ])
         for label, value in page["stats"].items():
             lines.append(f'<div class="druid-row"><div class="druid-label">{html.escape(label)}</div><div class="druid-data">{html.escape(value)}</div></div>')
         lines.extend(['</aside></div></div>', "", f'**Registry ID:** `{page["registry_id"]}`', ""])
@@ -51,10 +61,20 @@ def generate():
 
 
 def records():
-    return [{**page, "reference_build_only": True, "_supplementary": True,
-             "_omit_media": True, "_html": f'<p>{html.escape(page["summary"])}</p>',
-             "_stat_source_note": "Reference release values; server build match pending."}
-            for page in load_manifest()["pages"]]
+    result = []
+    for page in load_manifest()["pages"]:
+        record = {
+            **page,
+            "reference_build_only": True,
+            "_supplementary": True,
+            "_omit_media": not bool(page.get("media_asset")),
+            "_html": f'<p>{html.escape(page["summary"])}</p>',
+            "_stat_source_note": "Reference release values; server build match pending.",
+        }
+        if page.get("media_asset"):
+            record["_primary_media"] = {"local_path": page["media_asset"], "kind": "original"}
+        result.append(record)
+    return result
 
 
 def main():

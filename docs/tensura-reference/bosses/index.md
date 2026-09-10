@@ -155,6 +155,10 @@
 </article>
 <article class="reference-card" data-letter="P" data-search="primordial rouge the nightmares primordial rouge / gii crimson boss encounter, distinct from the similarly named playable race.">
 <a href="nightmares-primordial-rouge/" aria-label="Open Primordial Rouge">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/bosses/primordial-rouge.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
 <div class="reference-card-copy">
 <h2>Primordial Rouge</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
@@ -241,6 +245,10 @@
 </article>
 <article class="reference-card" data-letter="Y" data-search="yuuki of desire nightmares&#x27; yuuki encounter, named grandmaster - yuuki in the reference release, with creator and greed.">
 <a href="nightmares-yuuki-of-desire/" aria-label="Open Yuuki of Desire">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/bosses/yuuki-of-desire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
 <div class="reference-card-copy">
 <h2>Yuuki of Desire</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>

@@ -55,11 +55,21 @@ for record in world['pages']:
     matching = [card for card in directory.select('.reference-card') if card.h2.get_text(strip=True) == record['display_title']]
     assert len(matching) == 1, f'Missing or duplicate Nightmares card: {record["display_title"]}'
     card = matching[0]
-    assert card.select_one('.skill-reference-status') and not card.select('img'), 'Missing version notice or placeholder image'
+    assert card.select_one('.skill-reference-status'), 'Missing version notice'
+    if record.get('media_asset'):
+        asset = ROOT / 'docs' / record['media_asset']
+        assert asset.exists(), f'Missing Nightmares artwork: {record["media_asset"]}'
+        image = card.select_one('img')
+        assert image and Path(image.get('src', '')).name == asset.name, 'Missing Nightmares card artwork'
+    else:
+        assert not card.select('img'), 'Unexpected unverified Nightmares artwork'
     card_pairs = dict(zip([x.get_text(strip=True) for x in card.select('dt')], [x.get_text(strip=True) for x in card.select('dd')]))
     assert card_pairs == dict(list(record['stats'].items())[:8]), 'Stale release stat card'
     article = BeautifulSoup((site / record['local_page'].replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
     assert record['registry_id'] in article.get_text() and article.select('details summary'), 'Missing identity or expandable source panel'
+    if record.get('media_asset'):
+        image = article.select_one('.reference-overview-media img')
+        assert image and Path(image.get('src', '')).name == Path(record['media_asset']).name, 'Missing Nightmares article artwork'
     article_pairs = dict(zip([x.get_text(strip=True) for x in article.select('.druid-label')], [x.get_text(strip=True) for x in article.select('.druid-data')]))
     assert article_pairs == record['stats'], 'Stale rendered reference stats'
     if record['category'] == 'bosses':

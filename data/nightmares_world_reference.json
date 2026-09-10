@@ -69,6 +69,7 @@
       "revision_id": 2360,
       "category": "bosses",
       "local_page": "tensura-reference/bosses/nightmares-yuuki-of-desire.md",
+      "media_asset": "assets/images/bosses/yuuki-of-desire.webp",
       "registry_id": "trnightmare:sentient_boss_yuuki_desire",
       "summary": "Nightmares' Yuuki encounter, named Grandmaster - Yuuki in the reference release, with Creator and Greed.",
       "stats": {"Base health": "4,000", "Base spiritual health": "6,000", "Base armor": "0", "Base attack damage": "45", "Minimum EP": "3,500,000", "Maximum EP": "4,500,000", "Melee dodge attribute": "10%", "Projectile dodge attribute": "10%", "Dodge negation attribute": "50%", "Presence sense attribute": "155", "Movement speed attribute": "0.26", "Follow range attribute": "64"},
@@ -78,7 +79,7 @@
         {"title": "Finding the boss", "paragraphs": ["In the reference release, Yuuki can replace a naturally spawning human-like mob in a biome tagged tensura:otherworlder_spawn. This is a spawn-time replacement, not a reward for killing an Otherworlder. Spawn eggs, spawners, and summoned mobs do not trigger this handler.", "The default yuukiRarity setting is 50, but the handler adjusts that denominator. With sky access OR at or above sea level, the individual Yuuki roll is 1 in 12. Below sea level without sky access, it is 1 in 200. These examples assume the default setting and that the event reaches Yuuki's rule; they are not an overall encounter probability.", "Pillager outposts are excluded. Nearby bosses of the same type and a local spawn cooldown can block replacement, and an earlier successful boss rule ends processing. Loaded biome tags and server settings determine eligible locations; no exact TSR biome list has been confirmed."]},
         {"title": "Version differences", "paragraphs": ["The upstream infobox lists 4,500 health, 9,000 spiritual health, 150 armor, and 190 attack. Those values differ from this reference release's entity definition and are not used in the stat card.", "The numbers above describe base definition values and initial attributes, not a guarantee of final damage, difficulty, or live-server settings. This is a reference audit, not an in-game encounter test."]}
       ],
-      "media_note": "The upstream article uses a placeholder image. It is omitted from this encounter guide."
+      "media_note": "Original TSR encounter artwork is used in place of the upstream article's placeholder image."
     },
     {
       "display_title": "Primordial Rouge",
@@ -87,6 +88,7 @@
       "revision_id": 2361,
       "category": "bosses",
       "local_page": "tensura-reference/bosses/nightmares-primordial-rouge.md",
+      "media_asset": "assets/images/bosses/primordial-rouge.webp",
       "registry_id": "trnightmare:sentient_boss_gii_crimson",
       "summary": "The Nightmares Primordial Rouge / Gii Crimson boss encounter, distinct from the similarly named playable race.",
       "stats": {"Base health": "850", "Base spiritual health": "5,500", "Base armor": "40", "Base attack damage": "15", "Minimum EP": "1,500,000", "Maximum EP": "6,666,666", "Melee dodge attribute": "50%", "Projectile dodge attribute": "50%", "Dodge negation attribute": "75%", "Presence sense attribute": "155", "Movement speed attribute": "0.28", "Follow range attribute": "96"},
@@ -96,7 +98,7 @@
         {"title": "Finding the boss", "paragraphs": ["In the reference release, Primordial Rouge can replace a naturally spawning Tensura Lesser Daemon, Greater Daemon, or Arch Daemon in a biome tagged tensura:is_hell. This is a spawn-time replacement, not a drop or an evolution. Spawn eggs, spawners, and summoned daemons do not trigger this handler.", "The default crimsonRarity setting is 25,000. With sky access OR at or above sea level, the individual Rouge roll is 1 in 6,250. Below sea level without sky access, it is 1 in 100,000. These are default per-eligible-event rolls, not a guaranteed waiting time or a live-server rate.", "Pillager outposts are excluded. Nearby bosses of the same type and a local spawn cooldown can block replacement. The reviewed upstream article leaves spawning blank; this route comes from the release's spawn handler. Loaded biome tags and server settings determine eligible locations."]},
         {"title": "Version differences", "paragraphs": ["The upstream infobox lists 12,000 health, 24,000 spiritual health, 25 armor, 70 attack, and an EP range of 7,000,000–7,700,000. Those values differ from this reference release's entity definition and are not used in the stat card.", "These are base definition values and initial attributes, not final phase statistics or a prediction of actual damage. The encounter has additional mechanics; this is a reference audit, not an in-game encounter test."]}
       ],
-      "media_note": "The upstream article uses a placeholder image. It is omitted from this encounter guide."
+      "media_note": "Original TSR encounter artwork is used in place of the upstream article's placeholder image."
     }
   ],
   "pending_sources": [
