@@ -29,11 +29,20 @@ The wiki presents its imported Tensura material as one reference experience alon
 
 ## New here? Start with one useful hour
 
-<div class="homepage-first-hour">
-  <a href="getting-started/#your-first-hour"><strong>1 · Understand your character</strong><span>Read your reincarnation, race, resources, and controls.</span></a>
-  <a href="getting-started/#field-checklist"><strong>2 · Secure your foothold</strong><span>Track shelter, team, claim, and safety tasks in a local checklist.</span></a>
-  <a href="getting-started/#choose-a-path-not-a-class"><strong>3 · Pick a direction</strong><span>Evolve, explore, engineer, or begin a nation without locking into a class.</span></a>
-</div>
+<section class="homepage-first-hour" aria-label="First-hour route">
+  <a href="getting-started/#your-first-hour">
+    <span class="homepage-first-hour-media"><img src="assets/images/onboarding-character-paths.webp" alt="" loading="lazy" decoding="async"><b>00–10 min</b></span>
+    <span class="homepage-first-hour-copy"><small>01 · Reincarnate</small><strong>Know what you became</strong><span>Check your race, abilities, resources, and controls before the first fight.</span><em>Start here →</em></span>
+  </a>
+  <a href="getting-started/#field-checklist">
+    <span class="homepage-first-hour-media"><img src="assets/images/onboarding-realm-arrival.webp" alt="" loading="lazy" decoding="async"><b>10–30 min</b></span>
+    <span class="homepage-first-hour-copy"><small>02 · Establish</small><strong>Make the world yours</strong><span>Secure food and shelter, form a team, and protect your first home.</span><em>Open checklist →</em></span>
+  </a>
+  <a href="getting-started/#choose-a-path-not-a-class">
+    <span class="homepage-first-hour-media"><img src="assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async"><b>30–60 min</b></span>
+    <span class="homepage-first-hour-copy"><small>03 · Choose</small><strong>Pick your first pursuit</strong><span>Evolve, explore, engineer, or begin a nation without choosing a permanent class.</span><em>Compare paths →</em></span>
+  </a>
+</section>
 
 ## Choose your path
 
@@ -82,7 +91,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <h2>Build a Sovereignty</h2>
 <p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
 <div class="reference-path-links">
-<a href="tensura-reference/items/">Items <span>204</span></a>
+<a href="tensura-reference/items/">Items <span>196</span></a>
 <a href="tensura-reference/biomes/">Biomes <span>12</span></a>
 <a href="tensura-reference/structures/">Structures <span>12</span></a>
 </div>

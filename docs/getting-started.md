@@ -4,12 +4,12 @@ description: A visual first-hour guide to joining TSR, surviving reincarnation, 
 ---
 
 <div class="onboarding-hero">
-<img src="../assets/images/sovereign_rebirth_a_magical_kingdom.png" alt="A luminous fantasy kingdom beneath a blue night sky" loading="eager" decoding="async">
+<img src="../assets/images/onboarding-realm-arrival.webp" alt="An adventurer arriving above a luminous fantasy settlement" loading="eager" decoding="async">
 <div class="onboarding-hero-shade"></div>
 <div class="onboarding-hero-copy">
 <p class="reference-eyebrow">New player field guide</p>
-<h1>Begin your sovereign story</h1>
-<p>Join the realm, understand your reincarnation, secure a home, and choose the first path that sounds fun. This guide turns your opening hour into a few useful decisions.</p>
+<h1>Enter the realm</h1>
+<p>Understand your reincarnation, secure a home, and choose a first pursuit. This field guide turns the opening hour into a route you can actually follow.</p>
 <div class="onboarding-hero-actions">
 <a class="md-button md-button--primary" href="./#your-first-hour">Start the first-hour route</a>
 <a class="md-button" href="../current-modlist/">Browse the current modlist</a>
@@ -82,7 +82,7 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
     <button id="path-nation-tab" type="button" role="tab" aria-selected="false" aria-controls="path-nation" tabindex="-1">Found a nation</button>
   </div>
   <div class="onboarding-path-panel path-theme-power" id="path-power" role="tabpanel" aria-labelledby="path-power-tab">
-    <img src="../assets/images/reference-races-evolution.png" alt="A lineup of evolving fantasy races" loading="lazy" decoding="async">
+    <img src="../assets/images/onboarding-character-paths.webp" alt="A traveler choosing between four character progression paths" loading="lazy" decoding="async">
     <div>
       <p class="reference-eyebrow">Character progression</p>
       <h3>Grow through races, skills, and mastery</h3>

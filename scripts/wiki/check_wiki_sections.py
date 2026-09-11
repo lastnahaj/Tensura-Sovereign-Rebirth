@@ -13,6 +13,11 @@ assert [next(iter(item)) for item in nav] == expected, 'Unexpected top-level wik
 site = ROOT / 'site'
 home = BeautifulSoup((site / 'index.html').read_text(encoding='utf-8'), 'html.parser')
 assert [link.get_text(' ', strip=True) for link in home.select('.md-tabs__link')] == expected
+first_hour_cards = home.select('.homepage-first-hour > a')
+assert len(first_hour_cards) == 3 and all(card.select_one('img') for card in first_hour_cards), 'Homepage first-hour route lost its visual cards'
+getting_started = BeautifulSoup((site / 'getting-started/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert Path(getting_started.select_one('.onboarding-hero > img')['src']).name == 'onboarding-realm-arrival.webp'
+assert Path(getting_started.select_one('#path-power > img')['src']).name == 'onboarding-character-paths.webp'
 for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     page = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert page.select('.reference-card'), f'Empty directory: {section}'
@@ -105,6 +110,10 @@ assert len(biome_cards) == 12 and len(set(biome_titles)) == len(biome_titles), '
 assert 'Kamui Biome' in biome_titles and 'Structures and Biomes' not in biome_titles, 'Biome catalogue includes a collection page or omits Kamui'
 assert all(card.select_one('.reference-card-media img') for card in biome_cards), 'A biome card is missing artwork'
 assert all('placeholder' not in Path(image.get('src', '')).name.casefold() for image in biomes.select('.reference-card-media img')), 'A biome card uses placeholder artwork'
+assert 'Only the strong survive.' not in biomes.get_text(' ', strip=True), 'A thin upstream biome summary remains in the directory'
+assert '\ufffd' not in biomes.get_text(' ', strip=True), 'A broken biome-list separator remains'
+desert = next(card for card in biome_cards if card.h2.get_text(' ', strip=True) == 'Desert of Death')
+assert [tag.get_text(strip=True) for tag in desert.select('.reference-stat-tags > span')] == ['Knight Spider', 'Tempest Serpent', 'Armorsaurus', 'Basilisk']
 kamui = next(card for card in biome_cards if card.h2.get_text(' ', strip=True) == 'Kamui Biome')
 assert Path(kamui.select_one('.reference-card-media img')['src']).name == 'kamui-biome.webp'
 kamui_pairs = dict(zip([x.get_text(strip=True) for x in kamui.select('dt')], [x.get_text(strip=True) for x in kamui.select('dd')]))

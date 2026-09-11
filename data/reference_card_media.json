@@ -14,10 +14,26 @@
   "tensura-reference/mobs/mobs-horned-rabbit.md": "assets/images/mobs/horned-rabbit.webp",
   "tensura-reference/mobs/mobs-holy-cow.md": "assets/images/encyclopedia/holy-cow.webp",
   "tensura-reference/mobs/mobs-unicorn.md": "assets/images/mobs/unicorn.webp",
-  "tensura-reference/biomes/biomes-ancient-forest.md": "assets/images/encyclopedia/ancient-forest.webp",
-  "tensura-reference/biomes/biomes-barren-lands.md": "assets/images/encyclopedia/barren-lands.webp",
-  "tensura-reference/biomes/biomes-desert-of-death.md": "assets/images/encyclopedia/desert-of-death.webp",
-  "tensura-reference/biomes/biomes-miasmic-plains.md": "assets/images/encyclopedia/miasmic-plains.webp",
+  "tensura-reference/biomes/biomes-ancient-forest.md": {
+    "asset": "assets/images/encyclopedia/ancient-forest.webp",
+    "kind": "original",
+    "summary": "A high-magicule forest surrounding the Spirit Tree, with rare plants, spirits, and giant-tree portals."
+  },
+  "tensura-reference/biomes/biomes-barren-lands.md": {
+    "asset": "assets/images/encyclopedia/barren-lands.webp",
+    "kind": "original",
+    "summary": "A stark, high-magicule wasteland with increased Magic Ore generation and no listed creature spawns."
+  },
+  "tensura-reference/biomes/biomes-desert-of-death.md": {
+    "asset": "assets/images/encyclopedia/desert-of-death.webp",
+    "kind": "original",
+    "summary": "A lethal desert without ordinary animal spawns, inhabited by the biome's strongest hostile creatures."
+  },
+  "tensura-reference/biomes/biomes-miasmic-plains.md": {
+    "asset": "assets/images/encyclopedia/miasmic-plains.webp",
+    "kind": "original",
+    "summary": "An undead-filled plain where ancient Wizard Towers can appear and sunlight no longer restrains undead spawns."
+  },
   "tensura-reference/structures/structures-wizard-tower.md": "assets/images/encyclopedia/wizard-tower.webp",
   "tensura-reference/items/baffledill.md": "assets/images/encyclopedia/baffledill.webp",
   "tensura-reference/items/adamantite-bone-golem.md": "assets/images/items/adamantite-bone-golem.webp",

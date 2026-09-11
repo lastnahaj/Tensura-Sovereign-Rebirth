@@ -1257,6 +1257,11 @@ def attach_page_media(
 
 
 def article_summary(record: dict[str, Any], body_html: str, max_length: int = 360) -> str:
+    if record.get("_summary_override"):
+        candidate = " ".join(str(record["_summary_override"]).split())
+        if len(candidate) > max_length:
+            candidate = candidate[: max_length - 1].rsplit(" ", 1)[0].rstrip(".,;:") + "…"
+        return candidate
     soup = BeautifulSoup(body_html, "html.parser")
     for panel in soup.select(".skill-obtainment, .skill-availability, .reference-eyebrow, .reference-related"):
         panel.decompose()
@@ -1553,7 +1558,7 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
                 "kind": override.get("kind", "original"),
             }
             if override.get("summary"):
-                record["summary"] = override["summary"]
+                record["_summary_override"] = override["summary"]
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -1864,10 +1869,22 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 for row in info.select('.druid-row'):
                     label, value = row.select_one('.druid-label'), row.select_one('.druid-data')
                     if label and value and value.get_text(' ', strip=True):
-                        pairs.append((label.get_text(' ', strip=True), value.get_text(' ', strip=True)))
+                        clean_value = value.get_text(' ', strip=True)
+                        clean_value = re.sub(r'\s*(?:\ufffd|•|·)\s*', ', ', clean_value)
+                        clean_value = re.sub(r'\s+,\s*', ', ', clean_value)
+                        clean_value = clean_value.strip(' ,')
+                        pairs.append((label.get_text(' ', strip=True), clean_value))
             if pairs:
                 stat_note = record.get('_stat_source_note', 'Upstream reference values; server settings may differ.')
-                card_stats = '<dl class="reference-card-stats">' + ''.join('<dt>' + html.escape(label) + '</dt><dd>' + html.escape(value) + '</dd>' for label, value in pairs[:8]) + '</dl><small class="reference-card-source-note">' + html.escape(stat_note) + '</small>'
+                stat_rows = []
+                for label, value in pairs[:8]:
+                    if label.casefold() in {'biome', 'biomes', 'mobs'} and ',' in value:
+                        tags = ''.join(f'<span>{html.escape(part.strip())}</span>' for part in value.split(',') if part.strip())
+                        value_markup = f'<span class="reference-stat-tags">{tags}</span>'
+                    else:
+                        value_markup = html.escape(value)
+                    stat_rows.append('<dt>' + html.escape(label) + '</dt><dd>' + value_markup + '</dd>')
+                card_stats = '<dl class="reference-card-stats">' + ''.join(stat_rows) + '</dl><small class="reference-card-source-note">' + html.escape(stat_note) + '</small>'
         lines.extend(
             [
                 f'<article class="reference-card" data-letter="{html.escape(letter, quote=True)}" data-search="{html.escape((record["display_title"] + " " + summary).casefold(), quote=True)}">',

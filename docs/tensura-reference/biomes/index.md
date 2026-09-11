@@ -31,7 +31,7 @@
 <p class="reference-filter-status" aria-live="polite">Showing 12 of 12 articles</p>
 </div>
 <div class="reference-card-grid">
-<article class="reference-card" data-letter="A" data-search="ancient forest a rare biome with high magicule count, and home of the spirit tree .">
+<article class="reference-card" data-letter="A" data-search="ancient forest a high-magicule forest surrounding the spirit tree, with rare plants, spirits, and giant-tree portals.">
 <a href="biomes-ancient-forest/" aria-label="Open Ancient Forest">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/encyclopedia/ancient-forest.webp" alt="" loading="lazy" decoding="async">
@@ -40,13 +40,13 @@
 <div class="reference-card-copy">
 <h2>Ancient Forest</h2>
 
-<p>A rare biome with high magicule count, and home of the Spirit Tree .</p>
-<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Cattledeer · Direwolf · Blade Tiger · Feathered Serpent · Salamander · Winged Cat · Beast Gnome · Aqua Frog · Sylphide · Ifrit · Akash · War Gnome · Undine</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<p>A high-magicule forest surrounding the Spirit Tree, with rare plants, spirits, and giant-tree portals.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Cattledeer</span><span>Direwolf</span><span>Blade Tiger</span><span>Feathered Serpent</span><span>Salamander</span><span>Winged Cat</span><span>Beast Gnome</span><span>Aqua Frog</span><span>Sylphide</span><span>Ifrit</span><span>Akash</span><span>War Gnome</span><span>Undine</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="barren lands as the name implies, there is nothing">
+<article class="reference-card" data-letter="B" data-search="barren lands a stark, high-magicule wasteland with increased magic ore generation and no listed creature spawns.">
 <a href="biomes-barren-lands/" aria-label="Open Barren Lands">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/encyclopedia/barren-lands.webp" alt="" loading="lazy" decoding="async">
@@ -55,7 +55,7 @@
 <div class="reference-card-copy">
 <h2>Barren Lands</h2>
 
-<p>As the name implies, there is nothing</p>
+<p>A stark, high-magicule wasteland with increased Magic Ore generation and no listed creature spawns.</p>
 <dl class="reference-card-stats"><dt>Amount</dt><dd>45,500</dd><dt>Mobs</dt><dd>None</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -76,7 +76,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="desert of death only the strong survive.">
+<article class="reference-card" data-letter="D" data-search="desert of death a lethal desert without ordinary animal spawns, inhabited by the biome&#x27;s strongest hostile creatures.">
 <a href="biomes-desert-of-death/" aria-label="Open Desert of Death">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/encyclopedia/desert-of-death.webp" alt="" loading="lazy" decoding="async">
@@ -85,8 +85,8 @@
 <div class="reference-card-copy">
 <h2>Desert of Death</h2>
 
-<p>Only the strong survive.</p>
-<dl class="reference-card-stats"><dt>Amount</dt><dd>29,500</dd><dt>Mobs</dt><dd>Knight Spider , Tempest Serpent , Armorsaurus , Basilisk</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<p>A lethal desert without ordinary animal spawns, inhabited by the biome&#x27;s strongest hostile creatures.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>29,500</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Knight Spider</span><span>Tempest Serpent</span><span>Armorsaurus</span><span>Basilisk</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -151,7 +151,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="miasmic plains a land of death, swarmed with undead. wizard towers from long ago can be found here.">
+<article class="reference-card" data-letter="M" data-search="miasmic plains an undead-filled plain where ancient wizard towers can appear and sunlight no longer restrains undead spawns.">
 <a href="biomes-miasmic-plains/" aria-label="Open Miasmic Plains">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/encyclopedia/miasmic-plains.webp" alt="" loading="lazy" decoding="async">
@@ -160,8 +160,8 @@
 <div class="reference-card-copy">
 <h2>Miasmic Plains</h2>
 
-<p>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</p>
-<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd>Zombie, Skeleton, Skeleton Horse, Zombie Horse, Evil Centipede , Barghest</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<p>An undead-filled plain where ancient Wizard Towers can appear and sunlight no longer restrains undead spawns.</p>
+<dl class="reference-card-stats"><dt>Amount</dt><dd>19,500</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Zombie</span><span>Skeleton</span><span>Skeleton Horse</span><span>Zombie Horse</span><span>Evil Centipede</span><span>Barghest</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
