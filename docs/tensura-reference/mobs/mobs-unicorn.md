@@ -9,9 +9,9 @@ tags: []
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-unicorn-horn-725a312d5e.png" alt="Unicorn source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Unicorn_Horn.png">Invicon Unicorn Horn.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/mobs/unicorn.webp" alt="Unicorn reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

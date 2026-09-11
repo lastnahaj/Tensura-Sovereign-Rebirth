@@ -73,7 +73,7 @@ A medium spirit of water, can be summoned using <a href="../../magic/summon-medi
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mobs-arch-daemon/">
-<img src="../../../assets/upstream/tensura/items/invicon-daemon-essence-135b621f1f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/mobs/arch-daemon.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Arch Daemon</strong>
 <small>Attacks any player and non-daemon mob on sight using magic</small>
@@ -90,7 +90,7 @@ A medium spirit of water, can be summoned using <a href="../../magic/summon-medi
 <img src="../../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Army Wasp</strong>
-<small>Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance…</small>
+<small>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-barghest/">

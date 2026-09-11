@@ -10,9 +10,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Mobs</span>
 
 <section class="reference-overview reference-theme-bestiary">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-daemon-essence-135b621f1f.png" alt="Arch Daemon source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/mobs/arch-daemon.webp" alt="Arch Daemon reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -92,7 +92,7 @@ Any Underworld biome</div></div></div><div class="druid-section-container"><div 
 <img src="../../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Army Wasp</strong>
-<small>Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance…</small>
+<small>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-barghest/">

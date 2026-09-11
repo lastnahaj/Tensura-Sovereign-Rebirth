@@ -71,7 +71,7 @@ tags: []
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-horned-rabbit/">
-<img src="../../../assets/upstream/tensura/items/invicon-beast-horn-d658a03dd4.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/mobs/horned-rabbit.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Horned Rabbit</strong>
 <small>1 Beast Horn 1 - 2 Monster Leather (C) 1 Medium Quality Magic Crystal</small>

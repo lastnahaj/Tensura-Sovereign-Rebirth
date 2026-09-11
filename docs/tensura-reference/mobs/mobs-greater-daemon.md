@@ -80,7 +80,7 @@ Any Underworld biome</div></div></div><div class="druid-section-container"><div 
 <img src="../../../assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Goblin</strong>
-<small>Have you heard about the mind goblin ? They say he lives here</small>
+<small>A village-spawning trader that can be named into a Hobgoblin; it does not restock trades.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-hell-caterpillar/">

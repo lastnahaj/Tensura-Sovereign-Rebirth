@@ -1,6 +1,6 @@
 ---
 title: Goblin
-description: Have you heard about the mind goblin? They say he lives here Goblins can only spawn in a Goblin Village and cannot spawn outside a village. Upon naming, will evolve into a hobgoblin. Goblins can trade but will not restock. 0 - 2 Leather 0 - 2 Bones Chance to drop equipped items Goblin Club Wooden Short...
+description: A village-spawning trader that can be named into a Hobgoblin; it does not restock trades.
 tags: []
 ---
 
@@ -10,12 +10,12 @@ tags: []
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/races/goblin.png" alt="Goblin reference artwork" loading="eager" decoding="async">
+<img src="../../../assets/images/mobs/goblin.webp" alt="Goblin reference artwork" loading="eager" decoding="async">
 <figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Have you heard about the mind goblin ? They say he lives here</p>
+<p>A village-spawning trader that can be named into a Hobgoblin; it does not restock trades.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Info">Info</a>
 <a href="#Drops">Drops</a>

@@ -10,7 +10,7 @@ tags: []
 
 <section class="reference-overview reference-theme-bestiary">
 <figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/races/dwarf.png" alt="Dwarf reference artwork" loading="eager" decoding="async">
+<img src="../../../assets/images/mobs/dwarf.webp" alt="Dwarf reference artwork" loading="eager" decoding="async">
 <figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">

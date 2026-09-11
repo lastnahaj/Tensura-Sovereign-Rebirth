@@ -70,6 +70,21 @@ item_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='ut
 assert 'reference-item-media--inventory' in item_css
 assert 'setupItemMedia' in item_js and 'reference-item-media--inventory' in item_js
 mobs = BeautifulSoup((site / 'tensura-reference/mobs/index.html').read_text(encoding='utf-8'), 'html.parser')
+mob_cards = mobs.select('.reference-card')
+assert len(mob_cards) == 60, 'Unexpected mob directory size'
+assert len({card.h2.get_text(' ', strip=True) for card in mob_cards}) == len(mob_cards), 'Duplicate mob card title'
+assert all(card.select_one('.reference-card-media img') for card in mob_cards), 'A mob card is missing artwork'
+misleading_mob_art = {
+    'invicon-daemon-essence-135b621f1f.png',
+    'invicon-beast-horn-d658a03dd4.png',
+    'invicon-unicorn-horn-725a312d5e.png',
+    'dwarf.png',
+    'goblin.png',
+}
+rendered_mob_images = {Path(image.get('src', '')).name for image in mobs.select('.reference-card-media img')}
+assert misleading_mob_art.isdisjoint(rendered_mob_images), 'An item icon or race portrait is still rendered as mob artwork'
+mob_directory_text = mobs.get_text(' ', strip=True).casefold()
+assert 'needs confirmation' not in mob_directory_text and 'mind goblin' not in mob_directory_text, 'Editorial source text leaked into mob-card summaries'
 wasp = next(card for card in mobs.select('.reference-card') if card.h2.get_text(strip=True) == 'Army Wasp')
 pairs = dict(zip([x.get_text(strip=True) for x in wasp.select('dt')], [x.get_text(strip=True) for x in wasp.select('dd')]))
 assert pairs['Health'] == '60' and pairs['Spiritual Health'] == '120' and pairs['Armor'] == '4'
@@ -116,4 +131,4 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
-print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item media, Army Wasp stats, command notices, and race configurations')
+print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item and mob media, Army Wasp stats, command notices, and race configurations')

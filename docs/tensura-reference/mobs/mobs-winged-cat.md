@@ -69,7 +69,7 @@ A medium spirit of space, can be summoned with <a href="../../magic/summon-mediu
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mobs-unicorn/">
-<img src="../../../assets/upstream/tensura/items/invicon-unicorn-horn-725a312d5e.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/mobs/unicorn.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Unicorn</strong>
 <small>0 - 2 Monster Leather (B) 1 Unicorn Horn 1 Medium Quality Magic Crystal</small>

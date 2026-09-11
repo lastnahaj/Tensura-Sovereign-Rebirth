@@ -1552,6 +1552,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
                 "local_path": asset,
                 "kind": override.get("kind", "original"),
             }
+            if override.get("summary"):
+                record["summary"] = override["summary"]
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:

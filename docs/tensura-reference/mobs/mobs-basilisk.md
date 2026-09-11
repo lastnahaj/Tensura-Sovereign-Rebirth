@@ -84,7 +84,7 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 <img src="../../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Army Wasp</strong>
-<small>Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance…</small>
+<small>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-black-spider/">

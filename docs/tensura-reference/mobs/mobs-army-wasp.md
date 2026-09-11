@@ -1,6 +1,6 @@
 ---
 title: Army Wasp
-description: Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance that it gets applied) 0 - 1 Insectar Carapace 1 High Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi...
+description: A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.
 tags: []
 ---
 
@@ -15,7 +15,7 @@ tags: []
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance that it gets applied)</p>
+<p>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Info">Info</a>
 <a href="#Drops">Drops</a>
@@ -75,7 +75,7 @@ tags: []
 </span>
 </a>
 <a class="reference-related-card" href="../mobs-arch-daemon/">
-<img src="../../../assets/upstream/tensura/items/invicon-daemon-essence-135b621f1f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/mobs/arch-daemon.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Arch Daemon</strong>
 <small>Attacks any player and non-daemon mob on sight using magic</small>

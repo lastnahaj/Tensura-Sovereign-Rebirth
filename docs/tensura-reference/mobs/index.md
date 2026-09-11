@@ -71,9 +71,9 @@
 </article>
 <article class="reference-card" data-letter="A" data-search="arch daemon attacks any player and non-daemon mob on sight using magic">
 <a href="mobs-arch-daemon/" aria-label="Open Arch Daemon">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-daemon-essence-135b621f1f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/mobs/arch-daemon.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Arch Daemon</h2>
@@ -99,7 +99,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="army wasp deals lethal poison effect that stacks with every attack. (needs confirmation if its every attack or if its a chance that it gets applied)">
+<article class="reference-card" data-letter="A" data-search="army wasp a flower forest predator with lethal poison attacks and a 10,000–15,000 ep range.">
 <a href="mobs-army-wasp/" aria-label="Open Army Wasp">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="" loading="lazy" decoding="async">
@@ -108,7 +108,7 @@
 <div class="reference-card-copy">
 <h2>Army Wasp</h2>
 
-<p>Deals lethal poison effect that stacks with every attack. (Needs confirmation if its every attack or if its a chance that it gets applied)</p>
+<p>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</p>
 <dl class="reference-card-stats"><dt>Biome</dt><dd>Flower Forest , Sakura Forest</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>10000</dd><dt>Maximum EP</dt><dd>15000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -237,7 +237,7 @@
 <article class="reference-card" data-letter="D" data-search="dwarf dwarves can only spawn in dwarf village and cannot spawn outside of the village. upon taming they will lose the capacity to trade. dwarves can trade and will restock…">
 <a href="mobs-dwarf/" aria-label="Open Dwarf">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/races/dwarf.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/mobs/dwarf.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
@@ -384,16 +384,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="goblin have you heard about the mind goblin ? they say he lives here">
+<article class="reference-card" data-letter="G" data-search="goblin a village-spawning trader that can be named into a hobgoblin; it does not restock trades.">
 <a href="mobs-goblin/" aria-label="Open Goblin">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/races/goblin.png" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/mobs/goblin.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Goblin</h2>
 
-<p>Have you heard about the mind goblin ? They say he lives here</p>
+<p>A village-spawning trader that can be named into a Hobgoblin; it does not restock trades.</p>
 <dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga , Sakura Forest</dd><dt>Health</dt><dd>12</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>500</dd><dt>Maximum EP</dt><dd>1000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -476,9 +476,9 @@
 </article>
 <article class="reference-card" data-letter="H" data-search="horned rabbit 1 beast horn 1 - 2 monster leather (c) 1 medium quality magic crystal">
 <a href="mobs-horned-rabbit/" aria-label="Open Horned Rabbit">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-beast-horn-d658a03dd4.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/mobs/horned-rabbit.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Horned Rabbit</h2>
@@ -896,9 +896,9 @@
 </article>
 <article class="reference-card" data-letter="U" data-search="unicorn 0 - 2 monster leather (b) 1 unicorn horn 1 medium quality magic crystal">
 <a href="mobs-unicorn/" aria-label="Open Unicorn">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-unicorn-horn-725a312d5e.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/mobs/unicorn.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Unicorn</h2>

@@ -1,7 +1,19 @@
 {
-  "tensura-reference/mobs/mobs-dwarf.md": "assets/images/races/dwarf.png",
-  "tensura-reference/mobs/mobs-goblin.md": "assets/images/races/goblin.png",
+  "tensura-reference/mobs/mobs-arch-daemon.md": "assets/images/mobs/arch-daemon.webp",
+  "tensura-reference/mobs/mobs-army-wasp.md": {
+    "asset": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
+    "kind": "source",
+    "summary": "A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range."
+  },
+  "tensura-reference/mobs/mobs-dwarf.md": "assets/images/mobs/dwarf.webp",
+  "tensura-reference/mobs/mobs-goblin.md": {
+    "asset": "assets/images/mobs/goblin.webp",
+    "kind": "original",
+    "summary": "A village-spawning trader that can be named into a Hobgoblin; it does not restock trades."
+  },
+  "tensura-reference/mobs/mobs-horned-rabbit.md": "assets/images/mobs/horned-rabbit.webp",
   "tensura-reference/mobs/mobs-holy-cow.md": "assets/images/encyclopedia/holy-cow.webp",
+  "tensura-reference/mobs/mobs-unicorn.md": "assets/images/mobs/unicorn.webp",
   "tensura-reference/biomes/biomes-ancient-forest.md": "assets/images/encyclopedia/ancient-forest.webp",
   "tensura-reference/biomes/biomes-barren-lands.md": "assets/images/encyclopedia/barren-lands.webp",
   "tensura-reference/biomes/biomes-desert-of-death.md": "assets/images/encyclopedia/desert-of-death.webp",
