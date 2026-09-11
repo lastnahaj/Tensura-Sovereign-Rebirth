@@ -1612,6 +1612,8 @@ def supplementary_records() -> list[dict[str, Any]]:
         records.append({**entry, "_html": (DOCS / entry["local_page"]).read_text(encoding="utf-8"), "_primary_media": {"local_path": entry["asset"], "kind": "emblem"}, "_supplementary": True})
     from sync_nightmares_world import records as nightmares_world_records
     records.extend(nightmares_world_records())
+    from sync_mysticism_world import records as mysticism_world_records
+    records.extend(mysticism_world_records())
     return records
 
 
@@ -1737,8 +1739,12 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
             continue
         seen_overview_pages.add(record["local_page"])
         overview_records.append(record)
-    if category == "items":
-        collection_titles = {"items", "armours", "consumables", "gear", "learnable", "misc", "mob drops", "ores"}
+    collection_titles_by_category = {
+        "items": {"items", "armours", "consumables", "gear", "learnable", "misc", "mob drops", "ores"},
+        "biomes": {"structures and biomes"},
+    }
+    if category in collection_titles_by_category:
+        collection_titles = collection_titles_by_category[category]
         for record in category_records:
             display_title = normalize_title(record["display_title"]).casefold()
             source_title = normalize_title(record["source_title"]).casefold()

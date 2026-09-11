@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "reference_build": {
+    "version": "2.1.2",
+    "minecraft": "1.21.1",
+    "sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+    "pack_manifest": "pack/mods/tensura-mysticism.pw.toml"
+  },
+  "pages": [
+    {
+      "display_title": "Kamui Biome",
+      "source_title": "Kamui Biome",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+      "category": "biomes",
+      "local_page": "mysticism-reference/biomes/kamui-biome.md",
+      "media_asset": "assets/images/biomes/kamui-biome.webp",
+      "registry_id": "mysticism:kamui_biome",
+      "summary": "The empty, cube-filled biome used by Mysticism's Kamui pocket dimension in the pinned 1.21.1 build.",
+      "stats": {
+        "Source": "Mysticism 2.1.2",
+        "Registry ID": "mysticism:kamui_biome",
+        "Dimension": "mysticism:kamui_dimension",
+        "Precipitation": "None",
+        "Temperature": "0.6",
+        "Natural spawns": "None",
+        "Placed feature": "mysticism:kamui_cube"
+      },
+      "sections": [
+        {
+          "title": "What is here",
+          "paragraphs": [
+            "The pinned biome definition contains no natural creature, monster, ambient, or water spawns. Its only listed placed feature is `mysticism:kamui_cube`, while the matching dimension's noise settings use air as both the default block and default fluid.",
+            "The result is a sparse pocket realm built around isolated cube features rather than a normal surface biome. This describes the packaged 2.1.2 data; it is not an in-game terrain-generation benchmark."
+          ]
+        },
+        {
+          "title": "How to reach it",
+          "paragraphs": [
+            "Mysticism's [Phaser](../skills/unique/phaser.md) skill documents the Kamui warp. Crouch while using Phaser to begin the transfer; releasing crouch cancels it. The exact delay and cost come from the server's Mysticism skill configuration.",
+            "The pinned TSR configuration sets the Kamui warp time to 60 ticks, the cooldown to 5 seconds, and the cost to 1,500. Server-side configuration can change those values."
+          ]
+        },
+        {
+          "title": "Version verification",
+          "paragraphs": [
+            "`mysticism:kamui_biome` and `mysticism:kamui_dimension` are both present in the Mysticism 2.1.2 artifact selected by the pack manifest for Minecraft 1.21.1. This page is included because those registry resources exist in the pinned build, even though the upstream Mysticism wiki does not provide a dedicated Kamui biome article."
+          ]
+        }
+      ],
+      "evidence_paths": [
+        "data/mysticism/worldgen/biome/kamui_biome.json",
+        "data/mysticism/dimension/kamui_dimension.json",
+        "data/mysticism/worldgen/noise_settings/kamui_dimension_realm.json",
+        "io/github/Memoires/mysticism/world/biome/kamui_dimension/KamuiBiome.class"
+      ],
+      "media_note": "Original TSR environment artwork is used because the upstream wiki has no dedicated Kamui biome image."
+    }
+  ]
+}

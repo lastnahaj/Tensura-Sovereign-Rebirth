@@ -22,6 +22,7 @@
 <button type="button" data-letter="D" aria-pressed="false">D</button>
 <button type="button" data-letter="E" aria-pressed="false">E</button>
 <button type="button" data-letter="F" aria-pressed="false">F</button>
+<button type="button" data-letter="K" aria-pressed="false">K</button>
 <button type="button" data-letter="L" aria-pressed="false">L</button>
 <button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
@@ -120,6 +121,21 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="K" data-search="kamui biome the empty, cube-filled biome used by mysticism&#x27;s kamui pocket dimension in the pinned 1.21.1 build.">
+<a href="../../mysticism-reference/biomes/kamui-biome/" aria-label="Open Kamui Biome">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/biomes/kamui-biome.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Kamui Biome</h2>
+
+<p>The empty, cube-filled biome used by Mysticism&#x27;s Kamui pocket dimension in the pinned 1.21.1 build.</p>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Mysticism 2.1.2</dd><dt>Registry ID</dt><dd>mysticism:kamui_biome</dd><dt>Dimension</dt><dd>mysticism:kamui_dimension</dd><dt>Precipitation</dt><dd>None</dd><dt>Temperature</dt><dd>0.6</dd><dt>Natural spawns</dt><dd>None</dd><dt>Placed feature</dt><dd>mysticism:kamui_cube</dd></dl><small class="reference-card-source-note">Pinned Mysticism 2.1.2 pack data; server settings may differ.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="L" data-search="light biome winged lion wither skeleton">
 <a href="../../mysticism-reference/biomes/structures-and-biomes-light-biome/" aria-label="Open Light Biome">
 <figure class="reference-card-media reference-card-media--source">
@@ -160,21 +176,6 @@
 <h2>Space Biome</h2>
 
 <p>Spawning area for medium and greater spirits of space</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="S" data-search="structures and biomes upstream reference information for structures and biomes.">
-<a href="../../mysticism-reference/biomes/structures-and-biomes/" aria-label="Open Structures and Biomes">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Structures and Biomes</h2>
-
-<p>Upstream reference information for Structures and Biomes.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

@@ -90,6 +90,25 @@ pairs = dict(zip([x.get_text(strip=True) for x in wasp.select('dt')], [x.get_tex
 assert pairs['Health'] == '60' and pairs['Spiritual Health'] == '120' and pairs['Armor'] == '4'
 assert pairs['Minimum EP'] == '10000' and pairs['Maximum EP'] == '15000'
 assert 'Flower Forest' in pairs['Biome'] and pairs['Spawn Count'] == '1-2'
+from sync_mysticism_world import generate as generate_mysticism_world, load_manifest as load_mysticism_world_manifest
+mysticism_world = load_mysticism_world_manifest()
+mysticism_build = mysticism_world['reference_build']
+pack_manifest = (ROOT / mysticism_build['pack_manifest']).read_text(encoding='utf-8')
+assert mysticism_build['version'] == '2.1.2' and mysticism_build['minecraft'] == '1.21.1'
+assert mysticism_build['sha1'] in pack_manifest and 'file-id = 8379529' in pack_manifest, 'Mysticism pack selection changed'
+for local_page, expected_content in generate_mysticism_world().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale page: {local_page}'
+biomes = BeautifulSoup((site / 'tensura-reference/biomes/index.html').read_text(encoding='utf-8'), 'html.parser')
+biome_cards = biomes.select('.reference-card')
+biome_titles = [card.h2.get_text(' ', strip=True) for card in biome_cards]
+assert len(biome_cards) == 12 and len(set(biome_titles)) == len(biome_titles), 'Unexpected biome directory size or duplicate title'
+assert 'Kamui Biome' in biome_titles and 'Structures and Biomes' not in biome_titles, 'Biome catalogue includes a collection page or omits Kamui'
+assert all(card.select_one('.reference-card-media img') for card in biome_cards), 'A biome card is missing artwork'
+assert all('placeholder' not in Path(image.get('src', '')).name.casefold() for image in biomes.select('.reference-card-media img')), 'A biome card uses placeholder artwork'
+kamui = next(card for card in biome_cards if card.h2.get_text(' ', strip=True) == 'Kamui Biome')
+assert Path(kamui.select_one('.reference-card-media img')['src']).name == 'kamui-biome.webp'
+kamui_pairs = dict(zip([x.get_text(strip=True) for x in kamui.select('dt')], [x.get_text(strip=True) for x in kamui.select('dd')]))
+assert kamui_pairs['Registry ID'] == 'mysticism:kamui_biome' and kamui_pairs['Natural spawns'] == 'None'
 commands = (site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8')
 assert 'Commands by Source' in commands and 'historical reference' in commands
 assert 'Tensura Nightmares' in commands and 'oldid=378' in commands
@@ -131,4 +150,4 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
-print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item and mob media, Army Wasp stats, command notices, and race configurations')
+print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item, mob, and biome media, source-backed stats, command notices, and race configurations')
