@@ -17,7 +17,7 @@ tags:
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/upstream/tensura/items/invicon-silver-apple-a26a2e36dd.png" alt="Silver Apple source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/images/Invicon_Silver_Apple.png?a26a2e">Invicon Silver Apple.png · CC BY-SA 4.0</a></figcaption>
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

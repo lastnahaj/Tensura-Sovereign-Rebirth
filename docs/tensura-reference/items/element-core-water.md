@@ -18,7 +18,7 @@ tags:
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/upstream/tensura/items/elemental-core-water-59ab21f5a9.gif" alt="Element Core (Water) source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/images/Elemental_Core_%28Water%29.gif?59ab21">Elemental Core (Water).gif · CC BY-SA 4.0</a></figcaption>
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Water).gif">Elemental Core (Water).gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

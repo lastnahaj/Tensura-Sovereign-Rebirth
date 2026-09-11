@@ -1538,8 +1538,18 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
         if isinstance(override, str):
             record["_primary_media"] = {"local_path": override, "kind": "original"}
         else:
+            asset = override["asset"]
+            source_metadata = next(
+                (
+                    item
+                    for item in record.get("_media", [])
+                    if item.get("local_path") == asset
+                ),
+                {},
+            )
             record["_primary_media"] = {
-                "local_path": override["asset"],
+                **source_metadata,
+                "local_path": asset,
                 "kind": override.get("kind", "original"),
             }
 
