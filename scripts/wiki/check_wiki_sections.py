@@ -18,6 +18,7 @@ assert len(first_hour_cards) == 3 and all(card.select_one('img') for card in fir
 getting_started = BeautifulSoup((site / 'getting-started/index.html').read_text(encoding='utf-8'), 'html.parser')
 assert Path(getting_started.select_one('.onboarding-hero > img')['src']).name == 'onboarding-realm-arrival.webp'
 assert Path(getting_started.select_one('#path-power > img')['src']).name == 'onboarding-character-paths.webp'
+assert Path(getting_started.select_one('#path-nation > img')['src']).name == 'onboarding-found-a-nation.webp'
 for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     page = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert page.select('.reference-card'), f'Empty directory: {section}'
@@ -118,6 +119,32 @@ kamui = next(card for card in biome_cards if card.h2.get_text(' ', strip=True) =
 assert Path(kamui.select_one('.reference-card-media img')['src']).name == 'kamui-biome.webp'
 kamui_pairs = dict(zip([x.get_text(strip=True) for x in kamui.select('dt')], [x.get_text(strip=True) for x in kamui.select('dd')]))
 assert kamui_pairs['Registry ID'] == 'mysticism:kamui_biome' and kamui_pairs['Natural spawns'] == 'None'
+from sync_structure_catalogue import generate as generate_structures, load_manifest as load_structure_manifest
+structure_manifest = load_structure_manifest()
+structure_builds = structure_manifest['reference_builds']
+expected_file_ids = {'tensura': 8665599, 'mysticism': 8379529, 'boss_structure': 8614357}
+for key, build in structure_builds.items():
+    selected = (ROOT / build['pack_manifest']).read_text(encoding='utf-8')
+    assert build['minecraft'] == '1.21.1'
+    assert build['sha1'] in selected and f'file-id = {expected_file_ids[key]}' in selected, f'Structure source selection changed: {key}'
+for local_page, expected_content in generate_structures().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale page: {local_page}'
+structures = BeautifulSoup((site / 'tensura-reference/structures/index.html').read_text(encoding='utf-8'), 'html.parser')
+structure_cards = structures.select('.reference-card')
+structure_titles = [card.h2.get_text(' ', strip=True) for card in structure_cards]
+assert len(structure_cards) == 22 and len(set(structure_titles)) == len(structure_titles), 'Unexpected structure directory size or duplicate title'
+assert structure_titles.count('Ruins') == 1 and 'Structures' not in structure_titles, 'Duplicate ruin or collection card leaked into Structures'
+required_structures = {
+    'Orc Village', 'Warp Pads', 'Dark Elemental Portal', 'Earth Elemental Portal',
+    'Wind Elemental Portal', 'Beast Kingdom of Eurazania', 'Hinata Church',
+    'Night Rose', 'Orc Disaster Temple', 'Rimuru Ogre Fight', "Shizu's School",
+}
+assert required_structures.issubset(structure_titles), 'A registered 1.21.1 structure is missing'
+assert {'Fire Elemental Portal', 'Space Elemental Portal', 'Water Elemental Portal'}.isdisjoint(structure_titles), 'An unregistered Mysticism portal leaked into Structures'
+assert all(card.select_one('.reference-card-media img') for card in structure_cards), 'A structure card is missing artwork'
+structure_images = [Path(image.get('src', '')).name.casefold() for image in structures.select('.reference-card-media img')]
+assert all('wip' not in name and 'placeholder' not in name for name in structure_images), 'A structure card still uses placeholder artwork'
+assert 'Dungeon Structures' not in structures.get_text(' ', strip=True), 'An obsolete dungeon grouping is still promoted'
 commands = (site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8')
 assert 'Commands by Source' in commands and 'historical reference' in commands
 assert 'Tensura Nightmares' in commands and 'oldid=378' in commands
@@ -159,4 +186,4 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
-print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item, mob, and biome media, source-backed stats, command notices, and race configurations')
+print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item, mob, biome, and structure media, source-backed stats, command notices, and race configurations')

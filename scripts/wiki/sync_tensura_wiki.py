@@ -1151,6 +1151,18 @@ def clean_article_html(
         for attribute in ("style", "onclick", "onload", "data-mw", "about", "typeof"):
             element.attrs.pop(attribute, None)
 
+    # Imported maintenance banners and missing-file thumbnails are editorial
+    # scaffolding, not player-facing reference content.
+    for table in list(root.find_all("table")):
+        if "work in progress" in table.get_text(" ", strip=True).casefold():
+            wrapper = table.parent if table.parent and table.parent.name == "div" else table
+            wrapper.decompose()
+    for thumbnail in list(root.select(".thumb")):
+        if thumbnail.select_one("a.new"):
+            thumbnail.decompose()
+    for missing_file in list(root.select("a.new")):
+        missing_file.decompose()
+
     links_converted = 0
     for anchor in root.find_all("a", href=True):
         href = html.unescape(str(anchor["href"]))
@@ -1619,6 +1631,8 @@ def supplementary_records() -> list[dict[str, Any]]:
     records.extend(nightmares_world_records())
     from sync_mysticism_world import records as mysticism_world_records
     records.extend(mysticism_world_records())
+    from sync_structure_catalogue import records as structure_records
+    records.extend(structure_records())
     return records
 
 
@@ -1763,6 +1777,14 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     overview_local_pages = {
         record["local_page"] for record in overview_records
     }
+    if category == "structures":
+        # The old overview promotes a dungeon grouping that is not a feature of
+        # the pinned 1.21.1 pack. Preserve the archive without surfacing it.
+        overview_records = []
+        overview_local_pages.update({
+            f"{REFERENCE_SLUG}/structures/structures.md",
+            f"{REFERENCE_SLUG}/structures/ruins.md",
+        })
     index_page = (PurePosixPath(REFERENCE_SLUG) / category / "index.md").as_posix()
     hero_asset = rendered_asset_relative_url(index_page, visual_asset(category))
     source_roots = {PurePosixPath(record["local_page"]).parts[0] for record in category_records}
@@ -1869,11 +1891,14 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 for row in info.select('.druid-row'):
                     label, value = row.select_one('.druid-label'), row.select_one('.druid-data')
                     if label and value and value.get_text(' ', strip=True):
+                        clean_label = label.get_text(' ', strip=True)
+                        if category == 'structures' and clean_label.casefold() in {'registry id', 'placement', 'separation'}:
+                            continue
                         clean_value = value.get_text(' ', strip=True)
                         clean_value = re.sub(r'\s*(?:\ufffd|•|·)\s*', ', ', clean_value)
                         clean_value = re.sub(r'\s+,\s*', ', ', clean_value)
                         clean_value = clean_value.strip(' ,')
-                        pairs.append((label.get_text(' ', strip=True), clean_value))
+                        pairs.append((clean_label, clean_value))
             if pairs:
                 stat_note = record.get('_stat_source_note', 'Upstream reference values; server settings may differ.')
                 stat_rows = []

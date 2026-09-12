@@ -1,6 +1,6 @@
 ---
 title: Big Ruins
-description: Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby Explorer Maps Summon Daemon
+description: A red-sand Underworld ruin with buried treasure pockets, suspicious sand, and hostile Hound Dog and Megalodon spawns.
 tags:
 - Work_in_Progress
 - Pages_with_broken_file_links
@@ -11,13 +11,13 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" alt="Big Ruins source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/structures/big-ruins.webp" alt="Red-sand ruins rising above the Underworld" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</p>
+<p>A red-sand Underworld ruin with buried treasure pockets, suspicious sand, and hostile Hound Dog and Megalodon spawns.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Loot">Loot</a>
 </nav>
@@ -29,13 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Big_Ruins?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Big Ruins</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Big_ruins.png" title="File:Big ruins.png">File:Big ruins.png</a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 <a href="../../blocks/underworld-red-sands/" title="Underworld Red Sands">Underworld Red Sands</a>, <a href="../../blocks/underworld-sands/" title="Underworld Sands">Underworld Sands</a></div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../mobs/mobs-hound-dog/" title="Mobs/Hound Dog">Hound Dog</a>, <a href="../../mobs/mobs-megalodon/" title="Mobs/Megalodon">Megalodon</a></div></div></div></div>

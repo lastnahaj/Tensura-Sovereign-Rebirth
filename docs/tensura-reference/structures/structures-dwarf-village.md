@@ -1,6 +1,6 @@
 ---
 title: Dwarf Village
-description: 'Buildings Training Ground = Battlewill Master Guard House = Guards Pegasus Carrier = Travelling Merchant Magic Tower = Magic Trainer Market: 1. Brewer 2. Butcher 3. Fletcher 4. Stoneworker Royal Tower = Guards and Royal Warp Portal to the Dwarfen King Farm = Farmers Mine Shaft = Miners Smithy = Smith'
+description: A mountain settlement where Dwarves live and the Training Ground houses a Battlewill Master.
 tags:
 - Work_in_Progress
 - Pages_with_broken_file_links
@@ -11,13 +11,13 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="Dwarf Village source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/structures/dwarf-village.webp" alt="A Dwarven village built into a snowy mountain forge" loading="eager" decoding="async">
+<figcaption>Original TSR article artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Training Ground = Battlewill Master</p>
+<p>A mountain settlement where Dwarves live and the Training Ground houses a Battlewill Master.</p>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
 <button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
@@ -26,13 +26,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Dwarf_Village?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Dwarf Village</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Dwarf_village.png" title="File:Dwarf village.png">File:Dwarf village.png</a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
 Mountain biomes like, Meadows, Groves, Plateaus, etc</div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
 <a href="../../mobs/mobs-dwarf/" title="Mobs/Dwarf">Dwarf</a></div></div></div></div>

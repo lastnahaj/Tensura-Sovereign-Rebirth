@@ -1,0 +1,255 @@
+{
+  "schema": 1,
+  "reference_builds": {
+    "tensura": {
+      "label": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mod-that-time-i-got-reincarnated-as-a-slime/files/8665599",
+      "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml"
+    },
+    "mysticism": {
+      "label": "TR Mysticism",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+      "pack_manifest": "pack/mods/tensura-mysticism.pw.toml"
+    },
+    "boss_structure": {
+      "label": "Tensura Boss Structure",
+      "version": "1.0.3.3",
+      "minecraft": "1.21.1",
+      "sha1": "14f670015944f4fab7dbdebcc2e46d959fdc2046",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-boss-structure/files/8614357",
+      "pack_manifest": "pack/mods/tensura-boss-structure.pw.toml"
+    }
+  },
+  "pages": [
+    {
+      "display_title": "Orc Village",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/structures/orc-village.md",
+      "media_asset": "assets/images/structures/orc-village.webp",
+      "registry_id": "tensura:villages/orc_village",
+      "summary": "A fortified desert settlement registered by the pinned Tensura build, with its own random-spread placement set.",
+      "biomes": "Deserts, desert villages",
+      "spacing": "40 chunks",
+      "separation": "30 chunks",
+      "details": [
+        "The packaged structure targets the optional common desert tag and Minecraft's desert-village biome tag.",
+        "Spacing and separation describe the structure-set placement grid, not a guaranteed distance from spawn or a live-server discovery rate."
+      ],
+      "evidence_paths": [
+        "data/tensura/worldgen/structure/villages/orc_village.json",
+        "data/tensura/worldgen/structure_set/villages/orc_village.json",
+        "data/tensura/tags/worldgen/biome/has_structure/orc_village.json"
+      ]
+    },
+    {
+      "display_title": "Warp Pads",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/structures/warp-pads.md",
+      "media_asset": "assets/images/structures/warp-pads.webp",
+      "registry_id": "tensura:ruin/warp/*_warp_pad",
+      "summary": "Five equally weighted travel-pad ruins registered for plains, cold, desert, badlands, and swamp terrain.",
+      "biomes": "Plains, forests, cold, desert, badlands, swamps",
+      "spacing": "50 chunks",
+      "separation": "20 chunks",
+      "variants": "Plains, cold, desert, mesa, swamp",
+      "details": [
+        "The structure set contains five variants with equal weight: plains, cold, desert, mesa, and swamp warp pads.",
+        "The biome tags also include Tensura's Desert of Death, Barren Land, and Miasmic Plains where appropriate."
+      ],
+      "evidence_paths": [
+        "data/tensura/worldgen/structure_set/ruin/warp_pads.json",
+        "data/tensura/worldgen/structure/ruin/warp/plains_warp_pad.json",
+        "data/tensura/worldgen/structure/ruin/warp/cold_warp_pad.json",
+        "data/tensura/worldgen/structure/ruin/warp/desert_warp_pad.json",
+        "data/tensura/worldgen/structure/ruin/warp/mesa_warp_pad.json",
+        "data/tensura/worldgen/structure/ruin/warp/swamp_warp_pad.json"
+      ]
+    },
+    {
+      "display_title": "Dark Elemental Portal",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/structures/dark-elemental-portal.md",
+      "media_asset": "assets/images/structures/mysticism-dark-portal.webp",
+      "registry_id": "mysticism:elemental_realm/dark_portal_big",
+      "summary": "Mysticism's registered large dark portal structure for biomes tagged with the dark element.",
+      "biomes": "Mysticism dark-element biomes",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "This is the large dark-portal structure that has both a structure definition and a structure set in Mysticism 2.1.2.",
+        "The matching biome tag is `mysticism:is_dark_biome`; the structure uses terrain adaptation that buries part of the template."
+      ],
+      "evidence_paths": [
+        "data/mysticism/worldgen/structure/elemental_realm/dark_portal_big.json",
+        "data/mysticism/worldgen/structure_set/elemental_realm/dark_portal_big.json",
+        "data/mysticism/tags/worldgen/biome/has_structure/dark_portal.json"
+      ]
+    },
+    {
+      "display_title": "Earth Elemental Portal",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/structures/earth-elemental-portal.md",
+      "media_asset": "assets/images/structures/mysticism-earth-portal.webp",
+      "registry_id": "mysticism:elemental_realm/earth_portal",
+      "summary": "Mysticism's registered earth portal structure for biomes tagged with the earth element.",
+      "biomes": "Mysticism earth-element biomes",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The earth portal has a complete structure definition, placement set, and biome tag in the pinned 1.21.1 artifact.",
+        "Its terrain adaptation buries part of the template so it can settle into the surrounding terrain."
+      ],
+      "evidence_paths": [
+        "data/mysticism/worldgen/structure/elemental_realm/earth_portal.json",
+        "data/mysticism/worldgen/structure_set/elemental_realm/earth_portal.json",
+        "data/mysticism/tags/worldgen/biome/has_structure/earth_portal.json"
+      ]
+    },
+    {
+      "display_title": "Wind Elemental Portal",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/structures/wind-elemental-portal.md",
+      "media_asset": "assets/images/structures/mysticism-wind-portal.webp",
+      "registry_id": "mysticism:elemental_realm/wind_portal",
+      "summary": "Mysticism's registered wind portal structure for biomes tagged with the wind element.",
+      "biomes": "Mysticism wind-element biomes",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The wind portal is one of the three elemental portals with a complete generation registration in Mysticism 2.1.2.",
+        "Fire, space, and water portal templates exist in the artifact, but they have no matching worldgen structure definitions or structure sets and are therefore not listed as generated structures."
+      ],
+      "evidence_paths": [
+        "data/mysticism/worldgen/structure/elemental_realm/wind_portal.json",
+        "data/mysticism/worldgen/structure_set/elemental_realm/wind_portal.json",
+        "data/mysticism/tags/worldgen/biome/has_structure/wind_portal.json"
+      ]
+    },
+    {
+      "display_title": "Beast Kingdom of Eurazania",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/beast-kingdom-of-eurazania.md",
+      "media_asset": "assets/images/structures/eurazania.webp",
+      "registry_id": "tensura_boss_structure:beast_kingdom_of_eurazania",
+      "summary": "A large Boss Structure landmark registered for deserts and the three vanilla badlands biomes.",
+      "biomes": "Desert, badlands, eroded badlands, wooded badlands",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The pinned add-on registers Eurazania as a surface structure with beard-thin terrain adaptation.",
+        "Its biome tag is deliberately arid: desert plus normal, eroded, and wooded badlands."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/beast_kingdom_of_eurazania.json",
+        "data/tensura_boss_structure/worldgen/structure_set/beast_kingdom_of_eurazania.json",
+        "data/forge/tags/worldgen/biome/has_structure/beast_kingdom_of_eurazania.json"
+      ]
+    },
+    {
+      "display_title": "Hinata Church",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/hinata-church.md",
+      "media_asset": "assets/images/structures/hinata-church.webp",
+      "registry_id": "tensura_boss_structure:hinata_church",
+      "summary": "A fortified church landmark registered across temperate plains, forests, taiga, and meadow terrain.",
+      "biomes": "Plains, forests, taiga, meadow",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "Hinata Church is registered as a surface structure with beard-thin terrain adaptation.",
+        "Its exact biome list includes plains, sunflower plains, several forests, taiga, and meadow."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/hinata_church.json",
+        "data/tensura_boss_structure/worldgen/structure_set/hinata_church.json",
+        "data/forge/tags/worldgen/biome/has_structure/hinata_church.json"
+      ]
+    },
+    {
+      "display_title": "Night Rose",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/night-rose.md",
+      "media_asset": "assets/images/structures/night-rose.webp",
+      "registry_id": "tensura_boss_structure:night_rose",
+      "summary": "A moonlit manor landmark registered across broad temperate, savanna, and windswept terrain.",
+      "biomes": "Plains, forests, taiga, meadow, savanna, windswept hills",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "Night Rose uses the add-on's broadest temperate placement list, including old-growth taiga, savanna, and windswept biomes.",
+        "The structure is registered as a surface landmark with beard-thin terrain adaptation."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/night_rose.json",
+        "data/tensura_boss_structure/worldgen/structure_set/night_rose.json",
+        "data/forge/tags/worldgen/biome/has_structure/night_rose.json"
+      ]
+    },
+    {
+      "display_title": "Orc Disaster Temple",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/orc-disaster-temple.md",
+      "media_asset": "assets/images/structures/orc-disaster-temple.webp",
+      "registry_id": "tensura_boss_structure:orc_disaster_temple",
+      "summary": "A desert temple landmark registered by the pinned Tensura Boss Structure add-on.",
+      "biomes": "Desert",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The temple's packaged biome tag contains only the vanilla desert biome.",
+        "It is a surface structure with beard-thin terrain adaptation; this page does not infer boss triggers or loot that are not declared in the worldgen data."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/orc_disaster_temple.json",
+        "data/tensura_boss_structure/worldgen/structure_set/orc_disaster_temple.json",
+        "data/forge/tags/worldgen/biome/has_structure/orc_disaster_temple.json"
+      ]
+    },
+    {
+      "display_title": "Rimuru Ogre Fight",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/rimuru-ogre-fight.md",
+      "media_asset": "assets/images/structures/rimuru-ogre-fight.webp",
+      "registry_id": "tensura_boss_structure:rimuru_ogre_fight",
+      "summary": "A forest arena landmark registered across plains, forests, taiga, meadow, cherry, and light-jungle terrain.",
+      "biomes": "Plains, forests, taiga, meadow, cherry grove, bamboo jungle",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The packaged placement list spans plains and temperate forests, all major taiga variants, meadow, cherry grove, bamboo jungle, and sparse jungle.",
+        "The page name follows the registry entry; encounter behavior is not inferred from the name alone."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/rimuru_ogre_fight.json",
+        "data/tensura_boss_structure/worldgen/structure_set/rimuru_ogre_fight.json",
+        "data/forge/tags/worldgen/biome/has_structure/rimuru_ogre_fight.json"
+      ]
+    },
+    {
+      "display_title": "Shizu's School",
+      "source_key": "boss_structure",
+      "local_page": "tensura-reference/structures/shizu-school.md",
+      "media_asset": "assets/images/structures/shizu-school.webp",
+      "registry_id": "tensura_boss_structure:shizhu_school",
+      "summary": "A school landmark registered for plains and forest terrain in the pinned Boss Structure build.",
+      "biomes": "Plains, sunflower plains, forests",
+      "spacing": "200 chunks",
+      "separation": "50 chunks",
+      "details": [
+        "The display name is normalized for readers; the packaged registry ID is spelled `shizhu_school`.",
+        "Its biome tag covers plains, sunflower plains, and the principal vanilla forest variants."
+      ],
+      "evidence_paths": [
+        "data/tensura_boss_structure/worldgen/structure/shizhu_school.json",
+        "data/tensura_boss_structure/worldgen/structure_set/shizhu_school.json",
+        "data/forge/tags/worldgen/biome/has_structure/shizhu_school.json"
+      ]
+    }
+  ]
+}

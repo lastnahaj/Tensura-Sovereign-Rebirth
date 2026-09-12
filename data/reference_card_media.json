@@ -34,7 +34,61 @@
     "kind": "original",
     "summary": "An undead-filled plain where ancient Wizard Towers can appear and sunlight no longer restrains undead spawns."
   },
-  "tensura-reference/structures/structures-wizard-tower.md": "assets/images/encyclopedia/wizard-tower.webp",
+  "tensura-reference/structures/structures-ant-nest.md": {
+    "asset": "assets/upstream/tensura/structures/ant-nest-0412846ab7.png",
+    "kind": "source",
+    "summary": "A savanna and forest nest populated by Giant Ants, with branching chambers beneath the surface."
+  },
+  "tensura-reference/structures/structures-big-ruins.md": {
+    "asset": "assets/images/structures/big-ruins.webp",
+    "kind": "original",
+    "summary": "A red-sand Underworld ruin with buried treasure pockets, suspicious sand, and hostile Hound Dog and Megalodon spawns."
+  },
+  "tensura-reference/structures/structures-dwarf-village.md": {
+    "asset": "assets/images/structures/dwarf-village.webp",
+    "kind": "original",
+    "summary": "A mountain settlement where Dwarves live and the Training Ground houses a Battlewill Master."
+  },
+  "tensura-reference/structures/structures-ruins.md": {
+    "asset": "assets/images/structures/underworld-ruins.webp",
+    "kind": "original",
+    "summary": "A compact Underworld Sands ruin with suspicious sand or gravel, explorer-map loot, and hostile local spawns."
+  },
+  "tensura-reference/structures/structures-charybdis-cave.md": {
+    "asset": "assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png",
+    "kind": "source",
+    "summary": "A rare Overworld cave where a Charybdis encounter can be summoned through its core."
+  },
+  "tensura-reference/structures/structures-goblin-village.md": {
+    "asset": "assets/upstream/tensura/structures/small-goblin-village-35ad99e6a5.png",
+    "kind": "source",
+    "summary": "A forest settlement populated by Goblins, with a chief house that can contain the Short Sword Schematic."
+  },
+  "tensura-reference/structures/structures-hell-gate.md": {
+    "asset": "assets/upstream/tensura/structures/hell-gate-d975cc9cee.png",
+    "kind": "source",
+    "summary": "A rare gate that can appear in several Overworld biomes and the Underworld, guarded by hostile local creatures."
+  },
+  "tensura-reference/structures/structures-labyrinth-tree.md": {
+    "asset": "assets/upstream/tensura/structures/labyrinth-tree-91af502379.png",
+    "kind": "source",
+    "summary": "An Ancient Forest landmark that serves as the entrance to the Labyrinth and houses an Elemental Colossus."
+  },
+  "tensura-reference/structures/structures-lizardman-village.md": {
+    "asset": "assets/upstream/tensura/structures/lizardman-village-0f92a7cd61.png",
+    "kind": "source",
+    "summary": "A swamp settlement populated by Lizardmen and Hover Lizards, with a blacksmith that can hold a Spear Schematic."
+  },
+  "tensura-reference/structures/structures-spider-nest.md": {
+    "asset": "assets/upstream/tensura/structures/spider-nest-9790343ea9.png",
+    "kind": "source",
+    "summary": "A web-filled nest populated by Black Spiders, with chests containing web gear, bows, eggs, and other loot."
+  },
+  "tensura-reference/structures/structures-wizard-tower.md": {
+    "asset": "assets/images/encyclopedia/wizard-tower.webp",
+    "kind": "original",
+    "summary": "A rare elemental tower whose biome variant determines which magic tomes can be found inside."
+  },
   "tensura-reference/items/baffledill.md": "assets/images/encyclopedia/baffledill.webp",
   "tensura-reference/items/adamantite-bone-golem.md": "assets/images/items/adamantite-bone-golem.webp",
   "tensura-reference/items/hihiirokane-bone-golem.md": "assets/images/items/hihiirokane-bone-golem.webp",

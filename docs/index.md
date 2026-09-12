@@ -93,7 +93,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <div class="reference-path-links">
 <a href="tensura-reference/items/">Items <span>196</span></a>
 <a href="tensura-reference/biomes/">Biomes <span>12</span></a>
-<a href="tensura-reference/structures/">Structures <span>12</span></a>
+<a href="tensura-reference/structures/">Structures <span>22</span></a>
 </div>
 </div>
 </article>

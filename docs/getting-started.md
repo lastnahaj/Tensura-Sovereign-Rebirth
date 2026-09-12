@@ -115,7 +115,7 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
     </div>
   </div>
   <div class="onboarding-path-panel path-theme-nation" id="path-nation" role="tabpanel" aria-labelledby="path-nation-tab" hidden>
-    <img src="../assets/images/sovereign_rebirth_a_magical_kingdom.png" alt="A developed fantasy settlement" loading="lazy" decoding="async">
+    <img src="../assets/images/onboarding-found-a-nation.webp" alt="A defended settlement growing from farms and workshops into a sovereign city" loading="lazy" decoding="async">
     <div>
       <p class="reference-eyebrow">Civilization progression</p>
       <h3>Turn a shelter into a sovereignty</h3>
