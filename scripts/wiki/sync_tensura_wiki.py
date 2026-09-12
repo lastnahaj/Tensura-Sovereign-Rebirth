@@ -1901,6 +1901,25 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                         clean_value = re.sub(r'\s+,\s*', ', ', clean_value)
                         clean_value = clean_value.strip(' ,')
                         pairs.append((clean_label, clean_value))
+            if category == 'bosses' and pairs:
+                boss_stats = {}
+                for label, value in pairs:
+                    normalized = label.casefold().removeprefix('base ').strip()
+                    if normalized in {'biome', 'health', 'spiritual health', 'armor', 'attack', 'attack damage', 'minimum ep', 'maximum ep'}:
+                        boss_stats[normalized] = value
+                curated = []
+                for key, label in (
+                    ('biome', 'Biome'), ('health', 'Health'), ('spiritual health', 'Spiritual Health'),
+                    ('armor', 'Armor'), ('attack', 'Attack'), ('attack damage', 'Attack'),
+                ):
+                    if key in boss_stats and label not in {item[0] for item in curated}:
+                        curated.append((label, boss_stats[key]))
+                minimum, maximum = boss_stats.get('minimum ep'), boss_stats.get('maximum ep')
+                if minimum and maximum:
+                    curated.append(('EP Range', f'{minimum}–{maximum}'))
+                elif minimum or maximum:
+                    curated.append(('EP', minimum or maximum))
+                pairs = curated
             if pairs:
                 stat_note = record.get('_stat_source_note', 'Upstream reference values; server settings may differ.')
                 stat_rows = []

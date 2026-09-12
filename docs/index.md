@@ -80,7 +80,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <p>Browse the animated bestiary and review major encounters before you challenge them.</p>
 <div class="reference-path-links">
 <a href="tensura-reference/mobs/">Mobs <span>60</span></a>
-<a href="tensura-reference/bosses/">Bosses <span>13</span></a>
+<a href="tensura-reference/bosses/">Bosses <span>15</span></a>
 </div>
 </div>
 </article>

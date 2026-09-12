@@ -14,6 +14,71 @@
   "tensura-reference/mobs/mobs-horned-rabbit.md": "assets/images/mobs/horned-rabbit.webp",
   "tensura-reference/mobs/mobs-holy-cow.md": "assets/images/encyclopedia/holy-cow.webp",
   "tensura-reference/mobs/mobs-unicorn.md": "assets/images/mobs/unicorn.webp",
+  "tensura-reference/bosses/mobs-akash.md": {
+    "asset": "assets/upstream/tensura/bosses/akash-e2f555f007.gif",
+    "kind": "source",
+    "summary": "A Greater Space Spirit in Hinata's opening phase; player-summoned copies do not grant its normal drops or boss credit."
+  },
+  "tensura-reference/bosses/mobs-charybdis.md": {
+    "asset": "assets/upstream/tensura/bosses/charybdis-1a095e1e26.gif",
+    "kind": "source",
+    "summary": "A 1.4–1.6 million EP boss summoned after a Charybdis Core absorbs 100,000 EP from nearby kills."
+  },
+  "tensura-reference/bosses/mobs-elemental-colossus.md": {
+    "asset": "assets/upstream/tensura/bosses/elemental-colossus-585d09f9f5.gif",
+    "kind": "source",
+    "summary": "A heavily armored Labyrinth melee boss with spinning, grappling, and long-range leap attacks."
+  },
+  "tensura-reference/bosses/mobs-gazel-dwargo.md": {
+    "asset": "assets/upstream/tensura/bosses/gazel-dwargo-e8dd87d54e.gif",
+    "kind": "source",
+    "summary": "The Dwarven king and a heavily defended chamber boss who attacks intruders entering his domain."
+  },
+  "tensura-reference/bosses/mobs-hinata-sakaguchi.md": {
+    "asset": "assets/upstream/tensura/bosses/hinata-sakaguchi-de4f15d1c8.png",
+    "kind": "source",
+    "summary": "A rare Otherworlder boss hostile to Majin players, with a multi-stage fight involving Greater Elemental summons."
+  },
+  "tensura-reference/bosses/mobs-ifrit.md": {
+    "asset": "assets/upstream/tensura/bosses/ifrit-cf04b1afc2.gif",
+    "kind": "source",
+    "summary": "A Greater Fire Spirit encountered during the Hinata and Shizu fights; player-summoned copies do not grant normal rewards."
+  },
+  "tensura-reference/bosses/mobs-orc-disaster.md": {
+    "asset": "assets/upstream/tensura/bosses/orc-disaster-02c11f1455.gif",
+    "kind": "source",
+    "summary": "The 224,435–250,000 EP evolution of an Orc Lord that reaches 200,000 EP, rewarding the Corrosion skill on defeat."
+  },
+  "tensura-reference/bosses/mobs-orc-lord.md": {
+    "asset": "assets/upstream/tensura/bosses/orc-lord-136738ee9a.gif",
+    "kind": "source",
+    "summary": "A Desert and Badlands boss in the 80,000–90,000 EP range that can grow into an Orc Disaster."
+  },
+  "tensura-reference/bosses/mobs-shizu.md": {
+    "asset": "assets/upstream/tensura/magic/shizu-b83ee4d844.png",
+    "kind": "source",
+    "summary": "A rare Otherworlder encounter whose second phase releases Ifrit and whose rewards include Anti-Magic Mask progression."
+  },
+  "tensura-reference/bosses/mobs-supermassive-slime.md": {
+    "asset": "assets/upstream/tensura/mobs/slime-idle-aeceb33b34.gif",
+    "kind": "source",
+    "summary": "A one-in-1,000 replacement for a normal Slime that deals Corrosion-type damage and carries 50,000–100,000 EP."
+  },
+  "tensura-reference/bosses/mobs-sylphide.md": {
+    "asset": "assets/upstream/tensura/bosses/sylphide-d864afddb0.gif",
+    "kind": "source",
+    "summary": "A Greater Wind Spirit in Hinata's opening phase; player-summoned copies do not grant normal drops or boss credit."
+  },
+  "tensura-reference/bosses/mobs-undine.md": {
+    "asset": "assets/upstream/tensura/bosses/undine-0a9c551b5d.png",
+    "kind": "source",
+    "summary": "A Greater Water Spirit in Hinata's opening phase, also summonable without the encounter's normal rewards."
+  },
+  "tensura-reference/bosses/mobs-war-gnome.md": {
+    "asset": "assets/upstream/tensura/bosses/war-gnome-0047f781d1.png",
+    "kind": "source",
+    "summary": "A high-armor Greater Earth Spirit in Hinata's opening phase, also summonable without normal encounter rewards."
+  },
   "tensura-reference/biomes/biomes-ancient-forest.md": {
     "asset": "assets/images/encyclopedia/ancient-forest.webp",
     "kind": "original",

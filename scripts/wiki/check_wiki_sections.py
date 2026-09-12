@@ -175,6 +175,19 @@ for page in block_manifest['pages']:
 block_text = blocks.get_text(' ', strip=True)
 assert 'Upstream reference information for' not in block_text, 'A generic block summary remains'
 assert '\ufffd' not in block_text, 'A broken block separator remains'
+bosses = BeautifulSoup((site / 'tensura-reference/bosses/index.html').read_text(encoding='utf-8'), 'html.parser')
+boss_cards = bosses.select('.reference-card')
+boss_titles = [card.h2.get_text(' ', strip=True) for card in boss_cards]
+assert len(boss_cards) == 15 and len(set(boss_titles)) == len(boss_titles), 'Unexpected boss directory size or duplicate title'
+assert all(card.select_one('.reference-card-media img') for card in boss_cards), 'A boss card is missing artwork'
+assert all('placeholder' not in Path(image.get('src', '')).name.casefold() for image in bosses.select('.reference-card-media img')), 'A boss card uses placeholder artwork'
+boss_text = bosses.get_text(' ', strip=True)
+assert '\ufffd' not in boss_text and 'Eat, kill, all to satisfy my hunger' not in boss_text, 'A broken or thin boss summary remains'
+for card in boss_cards:
+    labels = [item.get_text(' ', strip=True) for item in card.select('dt')]
+    assert not {'Resistances', 'Nullifications', 'Intrinsic', 'Common', 'Extra'}.intersection(labels), f'Boss card exposes an unreadable ability dump: {card.h2.get_text(strip=True)}'
+    if card.select('dt'):
+        assert 'EP Range' in labels, f'Boss card is missing its EP range: {card.h2.get_text(strip=True)}'
 commands = (site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8')
 assert 'Commands by Source' in commands and 'historical reference' in commands
 assert 'Tensura Nightmares' in commands and 'oldid=378' in commands
@@ -197,7 +210,14 @@ for record in world['pages']:
     else:
         assert not card.select('img'), 'Unexpected unverified Nightmares artwork'
     card_pairs = dict(zip([x.get_text(strip=True) for x in card.select('dt')], [x.get_text(strip=True) for x in card.select('dd')]))
-    assert card_pairs == dict(list(record['stats'].items())[:8]), 'Stale release stat card'
+    if record['category'] == 'bosses':
+        expected_stats = record['stats']
+        assert card_pairs['Health'] == expected_stats['Base health']
+        assert card_pairs['Spiritual Health'] == expected_stats['Base spiritual health']
+        assert card_pairs['Armor'] == expected_stats['Base armor']
+        assert card_pairs['EP Range'] == f'{expected_stats["Minimum EP"]}–{expected_stats["Maximum EP"]}'
+    else:
+        assert card_pairs == dict(list(record['stats'].items())[:8]), 'Stale release stat card'
     article = BeautifulSoup((site / record['local_page'].replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
     assert record['registry_id'] in article.get_text() and article.select('details summary'), 'Missing identity or expandable source panel'
     if record.get('media_asset'):
