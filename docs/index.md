@@ -92,6 +92,7 @@ The wiki presents its imported Tensura material as one reference experience alon
 <p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
 <div class="reference-path-links">
 <a href="tensura-reference/items/">Items <span>196</span></a>
+<a href="tensura-reference/blocks/">Blocks <span>35</span></a>
 <a href="tensura-reference/biomes/">Biomes <span>12</span></a>
 <a href="tensura-reference/structures/">Structures <span>22</span></a>
 </div>

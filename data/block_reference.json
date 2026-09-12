@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "reference_builds": {
+    "mysticism": {
+      "label": "TR Mysticism",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+      "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+      "installed_version_verified": true
+    },
+    "nightmares": {
+      "label": "Tensura Nightmares",
+      "version": "1.0.3.2.8",
+      "minecraft": "1.21.1",
+      "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+      "installed_version_verified": false
+    }
+  },
+  "pages": [
+    {
+      "display_title": "Elemental Realm Portal",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/blocks/elemental-realm-portal.md",
+      "asset": "assets/icons/blocks/mysticism-elemental-realm-portal.svg",
+      "registry_id": "mysticism:elemental_realm_portal",
+      "role": "Dimension portal surface",
+      "visual": "Invisible in-world render",
+      "access": "Structure/internal block",
+      "summary": "The invisible, collisionless portal surface used by Mysticism's registered Elemental Realm portals.",
+      "details": [
+        "Entities touching the portal surface are handed to Mysticism's dimension-transition logic. The reviewed class routes travel from the Overworld into the Elemental Realm and handles the return path through its configured destination logic.",
+        "The block is waterloggable, has no collision, uses no loot table, and reports an invisible render shape. It should be understood as portal infrastructure rather than a normal decorative or survival-harvested block."
+      ],
+      "evidence_paths": [
+        "io/github/Memoires/mysticism/registry/MysticismBlocks.class",
+        "io/github/Memoires/mysticism/block/ElementalRealmPortal.class",
+        "assets/mysticism/blockstates/elemental_realm_portal.json",
+        "assets/mysticism/models/block/elemental_realm_portal.json"
+      ]
+    },
+    {
+      "display_title": "Cadence Acceleration Glass",
+      "source_key": "nightmares",
+      "local_page": "tensura-reference/blocks/nightmares-cadence-acceleration-glass.md",
+      "asset": "assets/icons/blocks/nightmares-cadence-acceleration-glass.svg",
+      "registry_id": "trnightmare:cadence_accel_glass",
+      "role": "Cadence time-field helper",
+      "visual": "Glass-textured field block",
+      "access": "Skill-created/internal block",
+      "summary": "A replaceable glass field block tracked by the Nightmares Cadence time-acceleration handler.",
+      "details": [
+        "Placement and removal notify the Cadence time-tick handler, identifying this as implementation support for Cadence's accelerated-time field rather than an ordinary building block.",
+        "The reference build gives it a vanilla glass model, no occlusion, and replaceable behavior. No conventional crafting recipe or survival acquisition path was verified."
+      ],
+      "evidence_paths": [
+        "com/github/hvnbael/trnightmare/registry/main/NightmareBlocks.class",
+        "com/github/hvnbael/trnightmare/main/block/CadenceAccelGlassBlock.class",
+        "com/github/hvnbael/trnightmare/handler/CadenceTimeTickHandler.class",
+        "assets/trnightmare/models/block/cadence_accel_glass.json"
+      ]
+    },
+    {
+      "display_title": "Domicile Door",
+      "source_key": "nightmares",
+      "local_page": "tensura-reference/blocks/nightmares-domicile-door.md",
+      "asset": "assets/icons/blocks/nightmares-domicile-door.svg",
+      "registry_id": "trnightmare:domicile_door",
+      "role": "Owned Domicile entrance",
+      "visual": "Oak-door model",
+      "access": "Domicile-generated block",
+      "summary": "An ownership-aware doorway that connects a player with the private space created by Domicile.",
+      "details": [
+        "The block stores owner and exterior-location data in its block entity. Its interaction and collision logic check the Domicile skill, apply a teleport cooldown, and move an eligible player between the exterior door and the owner's Domicile.",
+        "The release uses vanilla oak-door textures. No conventional crafting recipe was verified; the block belongs to the Domicile system."
+      ],
+      "evidence_paths": [
+        "com/github/hvnbael/trnightmare/main/block/DomicileDoorBlock.class",
+        "com/github/hvnbael/trnightmare/main/block/DomicileDoorBlockEntity.class",
+        "com/github/hvnbael/trnightmare/world/DomicileDimensionService.class",
+        "assets/trnightmare/models/block/domicile_door_bottom_left.json"
+      ]
+    },
+    {
+      "display_title": "Domicile Trapdoor",
+      "source_key": "nightmares",
+      "local_page": "tensura-reference/blocks/nightmares-domicile-trapdoor.md",
+      "asset": "assets/icons/blocks/nightmares-domicile-trapdoor.svg",
+      "registry_id": "trnightmare:domicile_trapdoor",
+      "role": "Owned Domicile entrance",
+      "visual": "Oak-trapdoor model",
+      "access": "Domicile-generated block",
+      "summary": "The trapdoor form of the Domicile entrance, with the same ownership and return-travel checks.",
+      "details": [
+        "The block uses Domicile ownership data and a teleport cooldown to connect an eligible player with the correct private space or exterior return point.",
+        "The release uses vanilla oak-trapdoor textures. No conventional crafting recipe was verified; it is registered as part of the Domicile system."
+      ],
+      "evidence_paths": [
+        "com/github/hvnbael/trnightmare/main/block/DomicileTrapDoorBlock.class",
+        "com/github/hvnbael/trnightmare/main/block/DomicileDoorBlockEntity.class",
+        "com/github/hvnbael/trnightmare/world/DomicileDimensionService.class",
+        "assets/trnightmare/models/block/domicile_trapdoor_bottom.json"
+      ]
+    },
+    {
+      "display_title": "Gabriel Snow Crystal",
+      "source_key": "nightmares",
+      "local_page": "tensura-reference/blocks/nightmares-gabriel-snow-crystal.md",
+      "asset": "assets/icons/blocks/nightmares-gabriel-snow-crystal.svg",
+      "registry_id": "trnightmare:gabriel_snow_crystal",
+      "role": "Gabriel frost-field helper",
+      "visual": "Ice-textured crystal block",
+      "access": "Skill-created/internal block",
+      "summary": "A non-occluding ice-textured support block registered for Gabriel's frost mechanics.",
+      "details": [
+        "The reviewed implementation provides custom player-destruction behavior and glass-like sound and visibility properties. Its naming and registration tie it to Gabriel, Lord of Patience.",
+        "No conventional crafting recipe or survival acquisition path was verified in the reference artifact, so this entry does not present it as a player-crafted block."
+      ],
+      "evidence_paths": [
+        "com/github/hvnbael/trnightmare/registry/main/NightmareBlocks.class",
+        "com/github/hvnbael/trnightmare/main/block/GabrielSnowCrystalBlock.class",
+        "com/github/hvnbael/trnightmare/main/ultimates/GabrielSkill.class",
+        "assets/trnightmare/models/block/gabriel_snow_crystal.json"
+      ]
+    },
+    {
+      "display_title": "Stasis Lattice",
+      "source_key": "nightmares",
+      "local_page": "tensura-reference/blocks/nightmares-stasis-lattice.md",
+      "asset": "assets/icons/blocks/nightmares-stasis-lattice.svg",
+      "registry_id": "trnightmare:stasis_lattice",
+      "role": "Stasis field boundary",
+      "visual": "Structure-void model",
+      "access": "Skill-created/internal block",
+      "summary": "An invisible lattice block registered as implementation support for Nightmares' Stasis field.",
+      "details": [
+        "The release models this block with Minecraft's structure-void model and gives it replaceability and special placement checks. It functions as field infrastructure, not visible decorative geometry.",
+        "No conventional crafting recipe or survival acquisition path was verified in the reference artifact."
+      ],
+      "evidence_paths": [
+        "com/github/hvnbael/trnightmare/registry/main/NightmareBlocks.class",
+        "com/github/hvnbael/trnightmare/main/block/StasisLatticeBlock.class",
+        "com/github/hvnbael/trnightmare/main/uniques/StasisSkill.class",
+        "assets/trnightmare/models/block/stasis_lattice.json"
+      ]
+    }
+  ]
+}

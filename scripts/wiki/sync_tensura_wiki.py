@@ -1633,6 +1633,8 @@ def supplementary_records() -> list[dict[str, Any]]:
     records.extend(mysticism_world_records())
     from sync_structure_catalogue import records as structure_records
     records.extend(structure_records())
+    from sync_block_catalogue import records as block_records
+    records.extend(block_records())
     return records
 
 
@@ -1868,7 +1870,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
             source_label = "TSR artwork"
         elif primary_media and primary_media.get("kind") == "emblem":
             media_class = "reference-card-media--source"
-            source_label = "TSR skill emblem"
+            source_label = "TSR reference symbol" if category == "blocks" else "TSR skill emblem"
         elif primary_media:
             media_class = "reference-card-media--source"
             source_label = "Source media"

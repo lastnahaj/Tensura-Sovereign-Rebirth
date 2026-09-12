@@ -145,6 +145,36 @@ assert all(card.select_one('.reference-card-media img') for card in structure_ca
 structure_images = [Path(image.get('src', '')).name.casefold() for image in structures.select('.reference-card-media img')]
 assert all('wip' not in name and 'placeholder' not in name for name in structure_images), 'A structure card still uses placeholder artwork'
 assert 'Dungeon Structures' not in structures.get_text(' ', strip=True), 'An obsolete dungeon grouping is still promoted'
+from block_reference_icons import generate as generate_block_icons
+from sync_block_catalogue import generate as generate_blocks, load_manifest as load_block_manifest
+block_manifest = load_block_manifest()
+for local_page, expected_content in generate_blocks().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale page: {local_page}'
+for icon_path, expected_content in generate_block_icons().items():
+    assert icon_path.read_text(encoding='utf-8') == expected_content, f'Stale block symbol: {icon_path}'
+block_builds = block_manifest['reference_builds']
+mysticism_block_build = block_builds['mysticism']
+mysticism_selection = (ROOT / mysticism_block_build['pack_manifest']).read_text(encoding='utf-8')
+assert mysticism_block_build['version'] == '2.1.2' and mysticism_block_build['minecraft'] == '1.21.1'
+assert mysticism_block_build['sha1'] in mysticism_selection and 'file-id = 8379529' in mysticism_selection, 'Mysticism block source selection changed'
+assert block_builds['nightmares']['installed_version_verified'] is False
+blocks = BeautifulSoup((site / 'tensura-reference/blocks/index.html').read_text(encoding='utf-8'), 'html.parser')
+block_cards = blocks.select('.reference-card')
+block_titles = [card.h2.get_text(' ', strip=True) for card in block_cards]
+assert len(block_cards) == 35 and len(set(block_titles)) == len(block_titles), 'Unexpected block directory size or duplicate title'
+required_blocks = {
+    'Elemental Realm Portal', 'Cadence Acceleration Glass', 'Domicile Door',
+    'Domicile Trapdoor', 'Gabriel Snow Crystal', 'Stasis Lattice',
+}
+assert required_blocks.issubset(block_titles), 'A registered add-on block is missing'
+assert all(card.select_one('.reference-card-media img') for card in block_cards), 'A block card is missing artwork or a reference symbol'
+for page in block_manifest['pages']:
+    card = next(card for card in block_cards if card.h2.get_text(' ', strip=True) == page['display_title'])
+    assert Path(card.select_one('img')['src']).name == Path(page['asset']).name, f'Stale block icon: {page["display_title"]}'
+    assert bool(card.select_one('.skill-reference-status')) == (page['source_key'] == 'nightmares'), f'Incorrect build notice: {page["display_title"]}'
+block_text = blocks.get_text(' ', strip=True)
+assert 'Upstream reference information for' not in block_text, 'A generic block summary remains'
+assert '\ufffd' not in block_text, 'A broken block separator remains'
 commands = (site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8')
 assert 'Commands by Source' in commands and 'historical reference' in commands
 assert 'Tensura Nightmares' in commands and 'oldid=378' in commands

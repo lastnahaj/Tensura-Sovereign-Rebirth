@@ -116,8 +116,149 @@
     "kind": "source"
   },
   "tensura-reference/items/greater-holy-water.md": "assets/images/items/greater-holy-water.webp",
-  "tensura-reference/blocks/underworld-barrens.md": "assets/images/encyclopedia/underworld-barrens.webp",
-  "tensura-reference/blocks/underworld-red-sands.md": "assets/images/encyclopedia/underworld-red-sands.webp",
-  "tensura-reference/blocks/underworld-sands.md": "assets/images/encyclopedia/underworld-sands.webp",
-  "tensura-reference/blocks/underworld-spikes.md": "assets/images/encyclopedia/underworld-spikes.webp"
+  "tensura-reference/blocks/blocks-block-of-adamantite.md": {
+    "asset": "assets/upstream/tensura/items/block-of-adamantite-16d7fc960c.gif",
+    "kind": "source",
+    "summary": "The solid block form of Adamantite, the late-stage material reached after High Magisteel equipment progression."
+  },
+  "tensura-reference/blocks/blocks-block-of-high-magisteel.md": {
+    "asset": "assets/upstream/tensura/items/block-of-high-magisteel-f5b98585f9.png",
+    "kind": "source",
+    "summary": "A consolidated High Magisteel material block represented by its verified upstream game texture."
+  },
+  "tensura-reference/blocks/blocks-block-of-hihiirokane.md": {
+    "asset": "assets/upstream/tensura/items/block-of-hihiirokane-d68dfb73aa.png",
+    "kind": "source",
+    "summary": "The solid block form of Hihi'Irokane, a high-tier material used across advanced equipment progression."
+  },
+  "tensura-reference/blocks/blocks-block-of-low-magisteel.md": {
+    "asset": "assets/upstream/tensura/items/block-of-low-magisteel-451583d302.png",
+    "kind": "source",
+    "summary": "A consolidated Low Magisteel material block represented by its verified upstream game texture."
+  },
+  "tensura-reference/blocks/blocks-block-of-magic-ore.md": {
+    "asset": "assets/upstream/tensura/items/block-of-magic-ore-6cbce396ad.png",
+    "kind": "source",
+    "summary": "A compressed Magic Ore block that the source documents as refining into two Pure Magisteel Ingots."
+  },
+  "tensura-reference/blocks/blocks-block-of-mithril.md": {
+    "asset": "assets/upstream/tensura/items/block-of-mithril-8cc68878d7.png",
+    "kind": "source",
+    "summary": "The solid block form of Mithril, one of Tensura's equipment and crafting materials."
+  },
+  "tensura-reference/blocks/blocks-block-of-orichalcum.md": {
+    "asset": "assets/upstream/tensura/items/block-of-orichalcum-be6965d3f3.png",
+    "kind": "source",
+    "summary": "The solid block form of Orichalcum, an advanced material used in high-tier equipment progression."
+  },
+  "tensura-reference/blocks/blocks-block-of-pure-magisteel.md": {
+    "asset": "assets/upstream/tensura/items/block-of-pure-magisteel-3b80aad5c6.png",
+    "kind": "source",
+    "summary": "A Pure Magisteel material block that can be used to revive the Elemental Colossus."
+  },
+  "tensura-reference/blocks/blocks-block-of-raw-silver.md": {
+    "asset": "assets/upstream/tensura/items/block-of-raw-silver-5018cf7b18.png",
+    "kind": "source",
+    "summary": "The block form of Raw Silver obtained from the mod's Silver Ore family."
+  },
+  "tensura-reference/blocks/blocks-block-of-silver.md": {
+    "asset": "assets/upstream/tensura/items/block-of-silver-e8132f22d5.png",
+    "kind": "source",
+    "summary": "The refined block form of Silver, a material associated with holy equipment properties."
+  },
+  "tensura-reference/blocks/blocks-chilled-slime-block.md": {
+    "asset": "assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png",
+    "kind": "source",
+    "summary": "A chilled variant of the Slime resource block, shown with its verified upstream game texture."
+  },
+  "tensura-reference/blocks/blocks-charybdis-core.md": {
+    "asset": "assets/upstream/tensura/items/charybdis-core-76330fcb25.png",
+    "kind": "source",
+    "summary": "A boss-summoning core found in Charybdis Cave that must absorb 100,000 EP from nearby kills before activation."
+  },
+  "tensura-reference/blocks/blocks-high-quality-magic-crystal-block.md": {
+    "asset": "assets/upstream/tensura/items/high-quality-magic-crystal-block-b9d8f4e1dd.png",
+    "kind": "source",
+    "summary": "The high-quality tier of the consolidated Magic Crystal block family."
+  },
+  "tensura-reference/blocks/blocks-low-quality-magic-crystal-block.md": {
+    "asset": "assets/upstream/tensura/items/low-quality-magic-crystal-block-20b438c949.png",
+    "kind": "source",
+    "summary": "The low-quality tier of the consolidated Magic Crystal block family."
+  },
+  "tensura-reference/blocks/blocks-medium-quality-magic-crystal-block.md": {
+    "asset": "assets/upstream/tensura/items/medium-quality-magic-crystal-block-41e6389805.png",
+    "kind": "source",
+    "summary": "The medium-quality tier of the consolidated Magic Crystal block family."
+  },
+  "tensura-reference/blocks/blocks-kiln.md": {
+    "asset": "assets/upstream/tensura/items/kiln-df0c921f2d.png",
+    "kind": "source",
+    "summary": "A processing station that smelts Magic Ore Shards into Molten Magisteel for further material refinement."
+  },
+  "tensura-reference/blocks/blocks-magic-engine.md": {
+    "asset": "assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png",
+    "kind": "source",
+    "summary": "An activatable machine that lowers ambient Magicules in a configurable 16-block radius and can suppress mob spawning."
+  },
+  "tensura-reference/blocks/blocks-magic-ore.md": {
+    "asset": "assets/upstream/tensura/items/magic-ore-ecafa90efc.png",
+    "kind": "source",
+    "summary": "A rare ore whose deepslate variant is concentrated near Y -27 and drops Magic Ore Shards when mined with the required tool."
+  },
+  "tensura-reference/blocks/blocks-moth-egg.md": {
+    "asset": "assets/upstream/tensura/items/moth-egg-82f2cb6d72.png",
+    "kind": "source",
+    "summary": "A placed egg block associated with Tensura's Moth creature; the source does not document a normal acquisition route."
+  },
+  "tensura-reference/blocks/blocks-palm-log.md": {
+    "asset": "assets/upstream/tensura/items/palm-log-7d04272437.png",
+    "kind": "source",
+    "summary": "The bark-sided log from Tensura's Palm wood set and its matching construction family."
+  },
+  "tensura-reference/blocks/blocks-palm-wood.md": {
+    "asset": "assets/upstream/tensura/items/palm-wood-7a70ca82a0.png",
+    "kind": "source",
+    "summary": "The all-bark wood block from Tensura's Palm construction set."
+  },
+  "tensura-reference/blocks/blocks-slime-chunk-block.md": {
+    "asset": "assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png",
+    "kind": "source",
+    "summary": "The block form of Slime Chunks, represented with its verified upstream game texture."
+  },
+  "tensura-reference/blocks/blocks-smithing-bench.md": {
+    "asset": "assets/upstream/tensura/items/smithing-bench-314603d39c.png",
+    "kind": "source",
+    "summary": "Tensura's specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear."
+  },
+  "tensura-reference/blocks/blocks-silver-ore.md": {
+    "asset": "assets/upstream/tensura/items/silver-ore-58a494883b.png",
+    "kind": "source",
+    "summary": "The ore source for Raw Silver; its regular and deepslate variants require different minimum pickaxe tiers."
+  },
+  "mysticism-reference/blocks/blocks-ice-ore.md": {
+    "asset": "assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png",
+    "kind": "source",
+    "summary": "Mysticism's Ice Essence ore, documented for cold-biome generation in the pinned 1.21.1 build."
+  },
+  "tensura-reference/blocks/underworld-barrens.md": {
+    "asset": "assets/images/encyclopedia/underworld-barrens.webp",
+    "kind": "original",
+    "summary": "A 104,000-density Underworld terrain block associated with Daemon and Hound Dog territory."
+  },
+  "tensura-reference/blocks/underworld-red-sands.md": {
+    "asset": "assets/images/encyclopedia/underworld-red-sands.webp",
+    "kind": "original",
+    "summary": "A 102,000-density red Underworld sand found around Big Ruins and hostile local spawns."
+  },
+  "tensura-reference/blocks/underworld-sands.md": {
+    "asset": "assets/images/encyclopedia/underworld-sands.webp",
+    "kind": "original",
+    "summary": "A 101,000-density Underworld sand used around Ruins and hostile local spawns."
+  },
+  "tensura-reference/blocks/underworld-spikes.md": {
+    "asset": "assets/images/encyclopedia/underworld-spikes.webp",
+    "kind": "original",
+    "summary": "A 103,000-density spiked Underworld terrain block associated with Daemon territory."
+  }
 }
