@@ -140,7 +140,7 @@ def validate_collection(spec: dict[str, str], errors: list[str]) -> dict[str, in
                 errors.append('Mysticism race navigation must link to the unified directory')
             continue
         if relative == 'tensura-reference/commands/index.md':
-            for required in ('## Tensura: Reincarnated', '## Mysticism', 'commands.md', '1.19.2'):
+            for required in ('class="command-reference"', 'Tensura: Reincarnated', 'Tensura: Mysticism', 'SlimeThrone Extras', 'data-command-search-input', 'server match pending'):
                 if required not in text:
                     errors.append(f'Command source directory missing {required}')
             continue

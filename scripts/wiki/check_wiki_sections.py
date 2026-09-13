@@ -188,9 +188,27 @@ for card in boss_cards:
     assert not {'Resistances', 'Nullifications', 'Intrinsic', 'Common', 'Extra'}.intersection(labels), f'Boss card exposes an unreadable ability dump: {card.h2.get_text(strip=True)}'
     if card.select('dt'):
         assert 'EP Range' in labels, f'Boss card is missing its EP range: {card.h2.get_text(strip=True)}'
-commands = (site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8')
-assert 'Commands by Source' in commands and 'historical reference' in commands
-assert 'Tensura Nightmares' in commands and 'oldid=378' in commands
+from sync_command_reference import generate as generate_commands, load_manifest as load_command_manifest
+command_manifest = load_command_manifest()
+assert (ROOT / 'docs/tensura-reference/commands/index.md').read_text(encoding='utf-8') == generate_commands(), 'Stale command reference'
+for source in command_manifest['sources']:
+    if source.get('pack_manifest'):
+        selection = (ROOT / source['pack_manifest']).read_text(encoding='utf-8')
+        assert source['digest'] in selection, f'Command artifact selection changed: {source["name"]}'
+commands = BeautifulSoup((site / 'tensura-reference/commands/index.html').read_text(encoding='utf-8'), 'html.parser')
+command_entries = commands.select('.command-entry')
+assert len(command_entries) == 50, 'Unexpected command family count'
+assert len(commands.select('.command-source')) == 7, 'Unexpected command source count'
+assert commands.select_one('[data-command-search-input]') and commands.select('.command-access-filters button'), 'Command filters are missing'
+command_text = commands.get_text(' ', strip=True)
+for source in ('Tensura: Reincarnated', 'Tensura: Mysticism', 'Tensura: Ascension', 'SlimeThrone Extras', 'TR: Beyond Adventures', 'Tensura Nightmares', 'TenSura Boss Structure'):
+    assert source in command_text, f'Missing command source: {source}'
+assert '2.1.2' in commands.select_one('#mysticism').get_text(' ', strip=True), 'Mysticism commands are not tied to the current build'
+assert 'soul-quality' not in ' '.join(entry.get_text(' ', strip=True) for entry in commands.select('#mysticism .command-entry')).casefold(), 'Obsolete Mysticism command leaked into the current list'
+assert 'server match pending' in commands.select_one('#nightmares').get_text(' ', strip=True).casefold(), 'Nightmares command status is overstated'
+assert 'coverage is not yet verified' not in command_text.casefold() and 'oldid=378' not in command_text, 'Obsolete command notice remains'
+command_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='utf-8')
+assert 'setupCommandReference' in command_js and 'data-command-access-filter' in command_js, 'Command filtering behavior is missing'
 from sync_nightmares_world import generate as generate_nightmares_world, load_manifest
 world = load_manifest()
 assert world['reference_build']['installed_version_verified'] is False
@@ -236,4 +254,4 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
-print('Wiki section checks passed: 11 navigation sections, populated directories, corrected item, mob, biome, and structure media, source-backed stats, command notices, and race configurations')
+print('Wiki section checks passed: 11 navigation sections, populated directories, corrected media, source-backed stats and commands, and race configurations')

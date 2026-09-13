@@ -266,9 +266,51 @@
     });
   }
 
+  function setupCommandReference(reference) {
+    if (reference.dataset.commandReady === "true") return;
+    reference.dataset.commandReady = "true";
+    const input = reference.querySelector("[data-command-search-input]");
+    const buttons = Array.from(reference.querySelectorAll("[data-command-access-filter]"));
+    const entries = Array.from(reference.querySelectorAll(".command-entry"));
+    const sections = Array.from(reference.querySelectorAll("[data-command-source-section]"));
+    const status = reference.querySelector("[data-command-status]");
+    const empty = reference.querySelector("[data-command-no-results]");
+    let access = "all";
+
+    const apply = () => {
+      const query = normalize(input?.value || "");
+      let visible = 0;
+      entries.forEach((entry) => {
+        const accessMatch = access === "all" || entry.dataset.commandAccess === access;
+        const queryMatch = !query || normalize(entry.dataset.commandSearch || "").includes(query);
+        entry.hidden = !(accessMatch && queryMatch);
+        if (!entry.hidden) visible += 1;
+      });
+      sections.forEach((section) => {
+        const sectionEntries = Array.from(section.querySelectorAll(".command-entry"));
+        section.hidden = sectionEntries.length > 0 && sectionEntries.every((entry) => entry.hidden);
+      });
+      if (status) status.textContent = `Showing ${visible} of ${entries.length} command families`;
+      if (empty) empty.hidden = visible !== 0;
+    };
+
+    input?.addEventListener("input", apply);
+    buttons.forEach((button) => button.addEventListener("click", () => {
+      access = button.dataset.commandAccessFilter || "all";
+      buttons.forEach((candidate) => {
+        const active = candidate === button;
+        candidate.classList.toggle("is-active", active);
+        candidate.setAttribute("aria-pressed", String(active));
+      });
+      apply();
+    }));
+    apply();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
+    document.querySelectorAll("[data-command-reference]").forEach(setupCommandReference);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

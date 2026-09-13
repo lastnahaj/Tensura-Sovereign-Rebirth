@@ -1,0 +1,154 @@
+{
+  "schema": 1,
+  "legend": {
+    "Player": "Available from ordinary player command paths.",
+    "Mixed": "Contains player-facing branches and protected staff branches.",
+    "Moderator": "Requires moderator-level permission for target inspection.",
+    "Gamemaster": "Protected operator command used to modify gameplay state.",
+    "Owner": "Highest-permission maintenance command.",
+    "Admin": "Protected administrative or diagnostic command."
+  },
+  "sources": [
+    {
+      "id": "tensura",
+      "name": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+      "digest": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+      "summary": "Core player controls plus moderator, gamemaster, and world-management tools.",
+      "entries": [
+        {"command": "/ability …", "access": "Player", "purpose": "Manage ability presets, slots, skill toggles, skill locks, spatial movement, and spatial storage.", "branches": ["preset name|set", "set", "toggle", "toggle all|random", "lock add|remove|clear|list", "spatial warp|portal|storage"], "evidence": "io/github/manasmods/tensura/command/AbilityCommand.class"},
+        {"command": "/evolve …", "access": "Player", "purpose": "Attempt a race evolution or eligible demon-lord or hero awakening route.", "branches": ["race", "demonLord", "hero"], "evidence": "io/github/manasmods/tensura/command/EvolveCommand.class"},
+        {"command": "/nameable", "access": "Player", "purpose": "Toggle whether the player can receive a name through Tensura's naming system.", "branches": [], "evidence": "io/github/manasmods/tensura/command/NameCommand.class"},
+        {"command": "/tensura get …", "access": "Mixed", "purpose": "Inspect ability, awakening, owner, race, spirit, and stat data. Self queries are player-facing; target inspection is protected.", "branches": ["ability", "awakening", "owner", "race", "spirit", "stat"], "evidence": "io/github/manasmods/tensura/command/TensuraCommands$TensuraCommand$TensuraGetCommand.class"},
+        {"command": "/tensura edit …", "access": "Gamemaster", "purpose": "Edit or reset abilities, owners, races, spirits, awakening state, and existence stats.", "branches": ["ability", "owner", "race", "reset", "spirit", "stat"], "evidence": "io/github/manasmods/tensura/command/TensuraCommands$TensuraCommand$TensuraEditCommand.class"},
+        {"command": "/tensura worldData …", "access": "Admin", "purpose": "Manage persistent world systems and restrictions.", "branches": ["bossFight", "areaMagicule", "labyrinth", "trulyUnique", "warpPad", "worldRestriction"], "evidence": "io/github/manasmods/tensura/command/TensuraCommands$TensuraCommand$WorldDataCommand.class"},
+        {"command": "/engrave …", "access": "Gamemaster", "purpose": "Apply a selected enchantment level to held equipment for one or more entities.", "branches": [], "evidence": "io/github/manasmods/tensura/command/EngraveCommand.class"},
+        {"command": "/despawn …", "access": "Owner", "purpose": "Discard the selected entities.", "branches": [], "evidence": "io/github/manasmods/tensura/command/DespawnCommand.class"},
+        {"command": "/syncStorage …", "access": "Owner", "purpose": "Force selected entity capability storage to synchronize.", "branches": [], "evidence": "io/github/manasmods/tensura/command/SyncCommand.class"}
+      ]
+    },
+    {
+      "id": "mysticism",
+      "name": "Tensura: Mysticism",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+      "digest": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+      "summary": "The current build registers only Soul Energy stat inspection and editing beneath the Mysticism root.",
+      "entries": [
+        {"command": "/mysticism get stat …", "access": "Mixed", "purpose": "Read current or maximum Soul Energy for yourself or an allowed target.", "branches": ["current soulEnergy", "max soulEnergy"], "evidence": "io/github/Memoires/mysticism/command/get/MysticGetStatCommand.class"},
+        {"command": "/mysticism edit stat …", "access": "Gamemaster", "purpose": "Set, add to, or reset current and maximum Soul Energy values.", "branches": ["current set|add|reset", "max set|add"], "evidence": "io/github/Memoires/mysticism/command/edit/MysticEditStatCommand.class"},
+        {"command": "/mysticism edit reset …", "access": "Gamemaster", "purpose": "Reset Soul Energy storage using the selected reset path.", "branches": ["soulEnergy"], "evidence": "io/github/Memoires/mysticism/command/edit/MysticResetCommand.class"}
+      ],
+      "note": "The old 1.19.2 article lists soul-quality, contract, and spirit reroll commands that are absent from the pinned 2.1.2 command classes. They are intentionally excluded."
+    },
+    {
+      "id": "ascension",
+      "name": "Tensura: Ascension",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-ascensions.pw.toml",
+      "digest": "84cbe87a6641bd8275624f8251eb2b25c57f0bbc",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascension/files/8060740",
+      "summary": "Ultimate-evolution progress inspection and an administrative awakening-cooldown reset.",
+      "entries": [
+        {"command": "/tascension checkultprogress <ultimate> [player]", "access": "Mixed", "purpose": "Show the tracked requirements and progress for a registered Ascension ultimate skill.", "branches": [], "evidence": "com/simplygray/tensuraaddon/command/AscensionCommands.class"},
+        {"command": "/tascension cooldown reset <targets>", "access": "Admin", "purpose": "Clear Ascension's last-awakening cooldown data for selected players.", "branches": [], "evidence": "com/simplygray/tensuraaddon/command/AscensionCommands.class"}
+      ]
+    },
+    {
+      "id": "stextras",
+      "name": "SlimeThrone Extras",
+      "version": "2.1.2.1",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-slimethrone-extras.pw.toml",
+      "digest": "506354ffcf888c573440cee273f49aa7d72a340c",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-slimethrone-extras/files/8313927",
+      "summary": "Player progression, quest, prestige, schedule, wiki, and staff-diagnostic commands.",
+      "entries": [
+        {"command": "/stextras wiki", "access": "Player", "purpose": "Open the SlimeThrone Extras FAQ link supplied by the mod.", "branches": [], "evidence": "org/crypticdev/stextras/command/system/WikiCommands.class"},
+        {"command": "/stextras player summary [player]", "access": "Mixed", "purpose": "Display a compact progression summary for yourself or an allowed target.", "branches": [], "evidence": "org/crypticdev/stextras/command/player/PlayerCommands.class"},
+        {"command": "/stextras player essence …", "access": "Mixed", "purpose": "Read or administratively change Reincarnation Essence.", "branches": ["get", "set", "add"], "evidence": "org/crypticdev/stextras/command/player/PlayerCommands.class"},
+        {"command": "/stextras player soulgrade …", "access": "Mixed", "purpose": "Read or administratively change Soul Grade.", "branches": ["get", "set", "add"], "evidence": "org/crypticdev/stextras/command/player/PlayerCommands.class"},
+        {"command": "/stextras player locked-skills …", "access": "Mixed", "purpose": "List or manage the ordinary skill-lock pool.", "branches": ["list", "lock <id>", "unlock <id>", "clear"], "evidence": "org/crypticdev/stextras/command/player/PlayerCommands.class"},
+        {"command": "/stextras player admin-locked-skills …", "access": "Admin", "purpose": "Manage skills locked by staff policy.", "branches": ["list", "lock <id>", "unlock <id>", "clear"], "evidence": "org/crypticdev/stextras/command/player/PlayerCommands.class"},
+        {"command": "/stextras quests …", "access": "Mixed", "purpose": "Browse quest catalogs and active progress, or run protected quest mutations.", "branches": ["catalog", "summary", "list all|active|completed", "manage add|remove|complete|reset", "repeatable cooldown reset"], "evidence": "org/crypticdev/stextras/command/quest/QuestCommands.class"},
+        {"command": "/stextras race prestige …", "access": "Mixed", "purpose": "Inspect race-prestige progress or administratively mark and unmark completions.", "branches": ["races", "player", "quests <id>", "mark-complete <id>", "unmark-complete <id>"], "evidence": "org/crypticdev/stextras/command/quest/RacePrestigeCommands.class"},
+        {"command": "/stextras required …", "access": "Admin", "purpose": "Preview or apply the required-quest selection for a prestige count.", "branches": ["preview <prestige>", "apply <prestige> [player]"], "evidence": "org/crypticdev/stextras/command/quest/RequiredCommands.class"},
+        {"command": "/stextras schedule …", "access": "Mixed", "purpose": "Inspect daily and weekly reset timing or administer counts, master state, rolls, and player application.", "branches": ["info", "time daily|weekly", "count get|set", "master get|set", "roll daily|weekly|both", "apply self|all", "reset_progress"], "evidence": "org/crypticdev/stextras/command/system/ScheduleCommands.class"},
+        {"command": "/stextras debug …", "access": "Admin", "purpose": "Inspect integration state and open test utilities for staff troubleshooting.", "branches": ["open-bench", "check-effects", "soulgrade-levels", "check-lootr"], "evidence": "org/crypticdev/stextras/command/system/DebugCommands.class"}
+      ]
+    },
+    {
+      "id": "beyond",
+      "name": "TR: Beyond Adventures",
+      "version": "1.1.9",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/beyond-adventures.pw.toml",
+      "digest": "db5951096dceba302ae36cea58d140c462fbe91b92948c7e57266e63988afb9a5ac584f7d7cacc8e5c5f7bdf69a12d32c8d1abd71dd9ac988264d3fe5e95876b",
+      "source_url": "https://modrinth.com/mod/beyond-adventures/version/Ybm5N8pk",
+      "summary": "Adventure-contract controls, daily reward display settings, quest-day maintenance, and a movement repair tool.",
+      "entries": [
+        {"command": "/beyondadv announceContracts enabled <bool>", "access": "Admin", "purpose": "Enable or disable contract announcements.", "branches": [], "evidence": "com/trbeyond/quest/command/BeyondAdvCommands.class"},
+        {"command": "/beyondadv dailyrewardpopup enabled <bool>", "access": "Mixed", "purpose": "Control the daily reward popup preference.", "branches": [], "evidence": "com/trbeyond/quest/command/BeyondAdvCommands.class"},
+        {"command": "/beyondadv forcerecall <target>", "access": "Admin", "purpose": "Recall deployed character contracts belonging to the target player.", "branches": [], "evidence": "com/trbeyond/quest/command/BeyondAdvCommands.class"},
+        {"command": "/beyondadv quest day …", "access": "Admin", "purpose": "Inspect, set, or add Beyond's stored quest day.", "branches": ["get", "set <day>", "add <days>"], "evidence": "com/trbeyond/quest/command/BeyondAdvCommands.class"},
+        {"command": "/beyondadv quest mxp reset", "access": "Admin", "purpose": "Reset the stored MXP schedule state.", "branches": [], "evidence": "com/trbeyond/quest/command/BeyondAdvCommands.class"},
+        {"command": "/characterMovementFix <target>", "access": "Gamemaster", "purpose": "Clear lingering movement-interference effects from a Beyond character entity.", "branches": [], "evidence": "com/trbeyond/command/GachaLingeringEffectFixCommand.class"}
+      ]
+    },
+    {
+      "id": "nightmares",
+      "name": "Tensura Nightmares",
+      "version": "1.0.3.2.8",
+      "minecraft": "1.21.1",
+      "status": "Reference build · server match pending",
+      "digest": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+      "summary": "A large command surface for souls, deals, titles, egos, faiths, families, Domiciles, stats, skill evolution, and EMC integration.",
+      "entries": [
+        {"command": "/trnightmare …", "access": "Mixed", "purpose": "Primary Nightmares tree for soul inspection, controls, Deal Maker operations, memory tools, Raphael tools, and staff utilities.", "branches": ["elementsoul", "soultrait", "checksoul", "control", "dealcreate", "dealmaker", "info", "memoryseal|memoryundo", "raphael_name|raphaelsocial", "investigate", "pack"], "evidence": "com/github/hvnbael/trnightmare/main/command/NightmareCommands.class"},
+        {"command": "/skill …", "access": "Mixed", "purpose": "Inspect, confirm, or administratively force Nightmares skill-evolution paths.", "branches": ["checkevoconditions", "evolutionconfirm", "forceskillevolution"], "evidence": "com/github/hvnbael/trnightmare/main/command/SkillEvolutionCommands.class"},
+        {"command": "/qol stats …", "access": "Mixed", "purpose": "View or edit existence and Minecraft statistic values through the Nightmares quality-of-life tree.", "branches": ["overview", "target", "existence list|get|set|add", "minecraft list|get|set"], "evidence": "com/github/hvnbael/trnightmare/main/command/QOLCommands.class"},
+        {"command": "/stat …", "access": "Admin", "purpose": "Administer Nihility, Spiritrons, and entity-awakening state.", "branches": ["nihility add|set", "spiritrons add|set", "entityawakening status|enforce"], "evidence": "com/github/hvnbael/trnightmare/main/command/StatCommands.class"},
+        {"command": "/title …", "access": "Mixed", "purpose": "List, activate, or clear owned titles; staff branches grant, create, and remove titles.", "branches": ["list", "activate <id>", "clear", "admin grant|create|remove"], "evidence": "com/github/hvnbael/trnightmare/main/command/TitleCommand.class"},
+        {"command": "/ego …", "access": "Mixed", "purpose": "Spawn, rename, inspect, mute, edit, or administer ego and Manas state.", "branches": ["spawn", "respawn", "rename", "stat", "mute", "name", "edit", "clear-all", "admin"], "evidence": "com/github/hvnbael/trnightmare/main/command/EgoCommands.class"},
+        {"command": "/faith …", "access": "Mixed", "purpose": "Create, join, list, inspect, or administer Nightmares faith organizations.", "branches": ["list", "join", "create", "faithful name", "admin"], "evidence": "com/github/hvnbael/trnightmare/main/command/FaithCommand.class"},
+        {"command": "/family …", "access": "Player", "purpose": "Create a family, invite players, accept invitations, and list members.", "branches": ["create <name>", "invite <player>", "accept", "list"], "evidence": "com/github/hvnbael/trnightmare/main/command/FamilyCommand.class"},
+        {"command": "/dragonrelation …", "access": "Admin", "purpose": "Read, add, or set a player's relationship score for a named True Dragon.", "branches": ["get", "add <amount>", "set <amount>"], "evidence": "com/github/hvnbael/trnightmare/main/command/DragonRelationCommand.class"},
+        {"command": "/dragonname …", "access": "Player", "purpose": "Attempt a True Dragon surname action when its relationship and resource requirements are satisfied.", "branches": ["<dragon> surname <name>"], "evidence": "com/github/hvnbael/trnightmare/main/command/DragonNameCommand.class"},
+        {"command": "/awaken …", "access": "Mixed", "purpose": "Check awakening progress or force an allowed awakening type through the protected branch.", "branches": ["check", "awakening <type>"], "evidence": "com/github/hvnbael/trnightmare/main/command/AwakeningCommand.class"},
+        {"command": "/TrueDragonNucleation …", "access": "Player", "purpose": "Use Azathoth's True Dragon Nucleation operation for an eligible named dragon.", "branches": ["sacrifice <dragon>"], "evidence": "com/github/hvnbael/trnightmare/main/command/AzathothCommand.class"},
+        {"command": "/domicile …", "access": "Mixed", "purpose": "Manage Domicile access, kicking, locking, safety, and allow/block lists.", "branches": ["whitelist add|remove|list", "blacklist add|remove|list", "kick", "lock", "togglesafety"], "evidence": "com/github/hvnbael/trnightmare/main/command/DomicileCommand.class"},
+        {"command": "/domicilestore …", "access": "Mixed", "purpose": "Manage the corresponding Domicile store access controls.", "branches": ["whitelist", "blacklist", "kick", "lock", "togglesafety"], "evidence": "com/github/hvnbael/trnightmare/main/command/DomicileCommand.class"},
+        {"command": "/resetdomicile …", "access": "Admin", "purpose": "Reset selected Domicile regions or generated components.", "branches": ["base", "shop", "canino"], "evidence": "com/github/hvnbael/trnightmare/main/command/DomicileCommand.class"},
+        {"command": "/setSelfName <name>", "access": "Player", "purpose": "Set the preferred self-name used by compatible Nightmares systems.", "branches": [], "evidence": "com/github/hvnbael/trnightmare/main/command/SelfNameCommand.class"},
+        {"command": "/deal …", "access": "Mixed", "purpose": "Inspect, confirm, end, claim, or administer soul deals and their inventories.", "branches": ["<uuid>", "confirm", "end", "souldeal", "soulinventory", "soulvomit", "acceptdealfor", "forcedealbreak", "stealsoul"], "evidence": "com/github/hvnbael/trnightmare/main/command/DealCommand.class"},
+        {"command": "/emc · /knowledge · /showbag …", "access": "Mixed", "purpose": "Nightmares' packaged EMC, knowledge, and Alchemical Bag command integration.", "branches": ["emc add|remove|set|get|test", "knowledge learn|unlearn|test|clear", "showbag"], "evidence": "com/github/hvnbael/trnightmare/emc/pe/network/commands/"},
+        {"command": "/setemc · /removeemc · /resetemc · /dumpmissingemc …", "access": "Admin", "purpose": "Protected EMC value maintenance and missing-value diagnostics.", "branches": [], "evidence": "com/github/hvnbael/trnightmare/emc/pe/network/commands/"}
+      ],
+      "note": "This command list is verified against the named 1.21.1 reference release. The exact Nightmares jar deployed by TSR is not yet recorded in the current pack manifest, so availability on the live server must be confirmed with tab completion."
+    },
+    {
+      "id": "boss-structure",
+      "name": "TenSura Boss Structure",
+      "version": "1.0.3.3",
+      "minecraft": "1.21.1",
+      "status": "Installed · no command classes",
+      "pack_manifest": "pack/mods/tensura-boss-structure.pw.toml",
+      "digest": "14f670015944f4fab7dbdebcc2e46d959fdc2046",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-boss-structure/files/8614357",
+      "summary": "The pinned artifact adds structures and encounters but registers no command classes.",
+      "entries": []
+    }
+  ]
+}

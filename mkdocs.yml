@@ -122,10 +122,7 @@ nav:
       - "Gamerules": tensura-reference/gamerules/index.md
       - "Server Administration": server-administration.md
       - "Permissions": permissions.md
-  - Commands:
-      - "Commands by Source": tensura-reference/commands/index.md
-      - "Tensura: Reincarnated": tensura-reference/commands/commands.md
-      - "Mysticism": mysticism-reference/commands/commands.md
+  - Commands: tensura-reference/commands/index.md
   - Mechanics:
       - "Getting Started": getting-started.md
       - "Core Mechanics": tensura-reference/core-mechanics/index.md
