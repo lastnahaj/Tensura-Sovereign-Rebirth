@@ -307,10 +307,47 @@
     apply();
   }
 
+  function setupConfigReference(reference) {
+    if (reference.dataset.configReady === "true") return;
+    reference.dataset.configReady = "true";
+    const input = reference.querySelector("[data-config-search-input]");
+    const buttons = Array.from(reference.querySelectorAll("[data-config-filter]"));
+    const cards = Array.from(reference.querySelectorAll("[data-config-card]"));
+    const status = reference.querySelector("[data-config-status]");
+    const empty = reference.querySelector("[data-config-no-results]");
+    let category = "all";
+
+    const apply = () => {
+      const query = normalize(input?.value || "");
+      let visible = 0;
+      cards.forEach((card) => {
+        const categoryMatch = category === "all" || card.dataset.configCategory === category;
+        const queryMatch = !query || normalize(card.dataset.configSearch || "").includes(query);
+        card.hidden = !(categoryMatch && queryMatch);
+        if (!card.hidden) visible += 1;
+      });
+      if (status) status.textContent = `Showing ${visible} of ${cards.length} control groups`;
+      if (empty) empty.hidden = visible !== 0;
+    };
+
+    input?.addEventListener("input", apply);
+    buttons.forEach((button) => button.addEventListener("click", () => {
+      category = button.dataset.configFilter || "all";
+      buttons.forEach((candidate) => {
+        const active = candidate === button;
+        candidate.classList.toggle("is-active", active);
+        candidate.setAttribute("aria-pressed", String(active));
+      });
+      apply();
+    }));
+    apply();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
     document.querySelectorAll("[data-command-reference]").forEach(setupCommandReference);
+    document.querySelectorAll("[data-config-reference]").forEach(setupConfigReference);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

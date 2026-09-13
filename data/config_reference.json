@@ -1,0 +1,152 @@
+{
+  "schema": 1,
+  "minecraft": "1.21.1",
+  "sources": [
+    {
+      "id": "tensura",
+      "name": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "manifest": "pack/mods/tensura-reincarnated.pw.toml",
+      "digest": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599"
+    },
+    {
+      "id": "mysticism",
+      "name": "Tensura: Mysticism",
+      "version": "2.1.2",
+      "manifest": "pack/mods/tensura-mysticism.pw.toml",
+      "digest": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529"
+    },
+    {
+      "id": "ascension",
+      "name": "Tensura: Ascension",
+      "version": "2.1.2",
+      "manifest": "pack/mods/tensura-ascensions.pw.toml",
+      "digest": "84cbe87a6641bd8275624f8251eb2b25c57f0bbc",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascension/files/8060740"
+    },
+    {
+      "id": "stextras",
+      "name": "SlimeThrone Extras",
+      "version": "2.1.2.1",
+      "manifest": "pack/mods/tensura-slimethrone-extras.pw.toml",
+      "digest": "506354ffcf888c573440cee273f49aa7d72a340c",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tensura-slimethrone-extras/files/8313927"
+    },
+    {
+      "id": "origins",
+      "name": "Tensura: Origins",
+      "version": "2.0.5",
+      "manifest": "pack/mods/tensura-origins.pw.toml",
+      "digest": "d5d40deb56df3874426c8008851d682979a60aee",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tensura-origins/files/8576396"
+    },
+    {
+      "id": "beyond",
+      "name": "TR: Beyond Adventures",
+      "version": "1.1.9",
+      "manifest": "pack/mods/beyond-adventures.pw.toml",
+      "digest": "db5951096dceba302ae36cea58d140c462fbe91b92948c7e57266e63988afb9a5ac584f7d7cacc8e5c5f7bdf69a12d32c8d1abd71dd9ac988264d3fe5e95876b",
+      "url": "https://modrinth.com/mod/beyond-adventures/version/Ybm5N8pk"
+    },
+    {
+      "id": "nightmareutils",
+      "name": "Nightmare Utils",
+      "version": "0.1.2",
+      "manifest": "pack/mods/nightmare-utils.pw.toml",
+      "digest": "17346f69035e81e64df44da996204150d68258ed",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/nightmare-utils/files/8679395"
+    }
+  ],
+  "groups": [
+    {
+      "id": "reincarnation",
+      "title": "Reincarnation pools",
+      "category": "progression",
+      "sources": ["tensura", "mysticism", "stextras"],
+      "summary": "Starting races, random race pools, starting skills, second-skill pools, and learnable resistances.",
+      "paths": ["pack/config/tensura/reincarnation_config.toml"],
+      "facts": ["28 selectable starting races", "78 starting-skill candidates", "1 skill granted per reincarnation"]
+    },
+    {
+      "id": "race-evolution",
+      "title": "Races and evolution",
+      "category": "progression",
+      "sources": ["tensura", "mysticism", "origins", "stextras"],
+      "summary": "Per-race EP, health, magicule, spiritual health, awakening, and evolution requirements.",
+      "globs": ["pack/config/tensura/race/*.toml", "pack/config/mysticism/race/**/*.toml", "pack/config/trorigins/race/*.toml", "pack/config/stextras/race/*.toml"]
+    },
+    {
+      "id": "skills-magic",
+      "title": "Skills and magic",
+      "category": "progression",
+      "sources": ["tensura", "mysticism", "origins", "stextras"],
+      "summary": "Acquisition thresholds, mastery requirements, costs, effects, battlewill, and magic tuning.",
+      "globs": ["pack/config/tensura/ability/**/*.toml", "pack/config/mysticism/ability/**/*.toml", "pack/config/trorigins/ability/**/*.toml", "pack/config/stextras/ability/**/*.toml"]
+    },
+    {
+      "id": "ascension",
+      "title": "Ascension systems",
+      "category": "progression",
+      "sources": ["ascension"],
+      "summary": "Ascension race routes, skill routes, mob rules, addon skill pools, integrations, and awakening cooldowns.",
+      "paths": ["pack/config/tensura/ascension-common.toml", "pack/config/tensura/ascension-races.toml", "pack/config/tensura/ascension-skills.toml", "pack/config/tensura/ascension-mobs.json"],
+      "facts": ["Iron's Spells compatibility enabled", "Hyperbolic Chamber EP multiplier: 3×", "Awakening cooldown: 120 minutes"]
+    },
+    {
+      "id": "prestige-locking",
+      "title": "Prestige, quests, and skill locking",
+      "category": "progression",
+      "sources": ["stextras"],
+      "summary": "Prestige boss credit, Soul Grade thresholds, quest scheduling, Reincarnation Essence, and both player and staff skill locks.",
+      "paths": ["pack/config/stextras/prestige_config.toml", "pack/config/stextras/skill_lock_config.toml"],
+      "facts": ["Repeated prestige boss kills allowed", "Immediate race quests disabled", "Prestige quest reroll mode: none"]
+    },
+    {
+      "id": "mobs-spawns",
+      "title": "Mobs and spawn rules",
+      "category": "world",
+      "sources": ["tensura", "mysticism", "ascension", "nightmareutils"],
+      "summary": "Day/night spawn odds, special variants, entity attributes, effects, daemon behavior, and optional mob profiles.",
+      "paths": ["pack/config/tensura/entity/spawn_rate_config.toml", "pack/config/mysticism/entity/spawn_rate_config.toml", "pack/config/tensura/ascension-mobs.json", "pack/config/nightmareutils/spawn_profiles.json"],
+      "globs": ["pack/config/tensura/entity/*.toml", "pack/config/mysticism/entity/*.toml"],
+      "facts": ["43 core mob spawn entries", "Separate day/night chances", "Nightmare Utils spawn profiles disabled"]
+    },
+    {
+      "id": "world-systems",
+      "title": "World and block systems",
+      "category": "world",
+      "sources": ["tensura", "mysticism"],
+      "summary": "Area magicules, blocks, enchantments, energy behavior, projectiles, and Mysticism effects.",
+      "paths": ["pack/config/tensura/area_magicule_config.toml", "pack/config/tensura/block_config.toml", "pack/config/tensura/enchantment_config.toml", "pack/config/tensura/energy_config.toml", "pack/config/tensura/entity/projectile_config.toml", "pack/config/mysticism/effect/effects.toml"]
+    },
+    {
+      "id": "interface",
+      "title": "HUD and client display",
+      "category": "client",
+      "sources": ["tensura", "stextras"],
+      "summary": "Tensura HUD placement and scale, menu behavior, client display options, and SlimeThrone presentation settings.",
+      "globs": ["pack/config/tensura/client/*.toml", "pack/config/stextras/client/*"],
+      "facts": ["Tensura HUD enabled", "Vanilla HUD disabled", "Each HUD region can be positioned and scaled"]
+    },
+    {
+      "id": "companions",
+      "title": "Beyond companions",
+      "category": "gameplay",
+      "sources": ["beyond"],
+      "summary": "Deployed-character limits, target behavior, daily reward display, and terrain-grief protection.",
+      "paths": ["pack/config/beyond_gacha_c.toml"],
+      "facts": ["3 deployed characters maximum", "Companion terrain damage disabled", "Daily reward popup enabled"]
+    },
+    {
+      "id": "safety",
+      "title": "Compatibility and safety",
+      "category": "server",
+      "sources": ["stextras", "nightmareutils"],
+      "summary": "Client/server version enforcement and dormant compatibility features that remain off until explicitly reviewed.",
+      "paths": ["pack/config/stextras/general_config.toml", "pack/config/nightmareutils/autocast.json", "pack/config/nightmareutils/mob_trading.json", "pack/config/nightmareutils/skill_rewards.json"],
+      "facts": ["SlimeThrone version matching enforced", "Autocast disabled", "Mob trading disabled", "Kill-based skill rewards disabled"]
+    }
+  ]
+}

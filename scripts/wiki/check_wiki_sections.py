@@ -209,6 +209,21 @@ assert 'server match pending' in commands.select_one('#nightmares').get_text(' '
 assert 'coverage is not yet verified' not in command_text.casefold() and 'oldid=378' not in command_text, 'Obsolete command notice remains'
 command_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='utf-8')
 assert 'setupCommandReference' in command_js and 'data-command-access-filter' in command_js, 'Command filtering behavior is missing'
+from sync_config_reference import generate as generate_config, load_manifest as load_config_manifest, files_for as config_files_for
+config_manifest = load_config_manifest()
+assert (ROOT / 'docs/tensura-reference/configuration/index.md').read_text(encoding='utf-8') == generate_config(), 'Stale configuration reference'
+for source in config_manifest['sources']:
+    selection = (ROOT / source['manifest']).read_text(encoding='utf-8')
+    assert source['digest'] in selection, f'Configuration source selection changed: {source["name"]}'
+config_page = BeautifulSoup((site / 'tensura-reference/configuration/index.html').read_text(encoding='utf-8'), 'html.parser')
+config_cards = config_page.select('[data-config-card]')
+assert len(config_cards) == 10, 'Unexpected configuration control-group count'
+assert config_page.select_one('[data-config-search-input]') and len(config_page.select('[data-config-filter]')) == 6, 'Configuration filters are missing'
+assert sum(len(config_files_for(group)) for group in config_manifest['groups']) >= 100, 'Configuration file coverage unexpectedly shrank'
+config_text = config_page.get_text(' ', strip=True)
+assert 'WIP' not in config_text and 'Configure Configure' not in config_text, 'Upstream placeholder copy leaked into configuration landing page'
+assert 'Tensura Nightmares' in config_text and 'not recorded' in config_text, 'Nightmares configuration status is overstated'
+assert 'setupConfigReference' in command_js and 'data-config-filter' in command_js, 'Configuration filtering behavior is missing'
 from sync_nightmares_world import generate as generate_nightmares_world, load_manifest
 world = load_manifest()
 assert world['reference_build']['installed_version_verified'] is False

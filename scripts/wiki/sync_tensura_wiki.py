@@ -1726,6 +1726,9 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     if category == 'commands':
         from sync_command_reference import generate as generate_command_reference
         return generate_command_reference()
+    if category == 'configuration':
+        from sync_config_reference import generate as generate_config_reference
+        return generate_config_reference()
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
     source_title_overviews = [
