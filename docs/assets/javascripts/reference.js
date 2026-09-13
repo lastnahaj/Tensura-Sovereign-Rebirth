@@ -343,11 +343,74 @@
     apply();
   }
 
+  function setupGameruleReference(reference) {
+    if (reference.dataset.gameruleReady === "true") return;
+    reference.dataset.gameruleReady = "true";
+    const input = reference.querySelector("[data-gamerule-search-input]");
+    const sourceButtons = Array.from(reference.querySelectorAll("[data-gamerule-source-filter]"));
+    const typeButtons = Array.from(reference.querySelectorAll("[data-gamerule-type-filter]"));
+    const cards = Array.from(reference.querySelectorAll("[data-gamerule-card]"));
+    const status = reference.querySelector("[data-gamerule-status]");
+    const empty = reference.querySelector("[data-gamerule-no-results]");
+    let source = "all";
+    let type = "all";
+
+    const select = (buttons, active) => buttons.forEach((button) => {
+      const selected = button === active;
+      button.classList.toggle("is-active", selected);
+      button.setAttribute("aria-pressed", String(selected));
+    });
+    const apply = () => {
+      const query = normalize(input?.value || "");
+      let visible = 0;
+      cards.forEach((card) => {
+        const sourceMatch = source === "all" || card.dataset.gameruleSource === source;
+        const typeMatch = type === "all" || card.dataset.gameruleType === type;
+        const queryMatch = !query || normalize(card.dataset.gameruleSearch || "").includes(query);
+        card.hidden = !(sourceMatch && typeMatch && queryMatch);
+        if (!card.hidden) visible += 1;
+      });
+      if (status) status.textContent = `Showing ${visible} of ${cards.length} registered rules`;
+      if (empty) empty.hidden = visible !== 0;
+    };
+    input?.addEventListener("input", apply);
+    sourceButtons.forEach((button) => button.addEventListener("click", () => {
+      source = button.dataset.gameruleSourceFilter || "all";
+      select(sourceButtons, button);
+      apply();
+    }));
+    typeButtons.forEach((button) => button.addEventListener("click", () => {
+      type = button.dataset.gameruleTypeFilter || "all";
+      select(typeButtons, button);
+      apply();
+    }));
+    reference.querySelectorAll("[data-gamerule-copy]").forEach((button) => button.addEventListener("click", async () => {
+      const command = button.dataset.gameruleCopy || "";
+      try {
+        await navigator.clipboard.writeText(command);
+        button.textContent = "Copied";
+      } catch {
+        button.textContent = "Select command";
+        const range = document.createRange();
+        const code = button.previousElementSibling;
+        if (code) {
+          range.selectNodeContents(code);
+          const selection = window.getSelection();
+          selection?.removeAllRanges();
+          selection?.addRange(range);
+        }
+      }
+      window.setTimeout(() => { button.textContent = "Copy"; }, 1400);
+    }));
+    apply();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
     document.querySelectorAll("[data-command-reference]").forEach(setupCommandReference);
     document.querySelectorAll("[data-config-reference]").forEach(setupConfigReference);
+    document.querySelectorAll("[data-gamerule-reference]").forEach(setupGameruleReference);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

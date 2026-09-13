@@ -149,6 +149,11 @@ def validate_collection(spec: dict[str, str], errors: list[str]) -> dict[str, in
                 if required not in text:
                     errors.append(f'Configuration control center missing {required}')
             continue
+        if relative == 'tensura-reference/gamerules/index.md':
+            for required in ('class="gamerule-reference"', 'data-gamerule-search-input', 'data-gamerule-source-filter', 'SlimeThrone Extras', 'server match pending'):
+                if required not in text:
+                    errors.append(f'Gamerule reference missing {required}')
+            continue
         if 'data-reference-directory=' not in text and 'reference-skill-hub' not in text:
             errors.append(f"{label}: missing interactive directory structure in {path.relative_to(DOCS)}")
         hero_title = re.search(

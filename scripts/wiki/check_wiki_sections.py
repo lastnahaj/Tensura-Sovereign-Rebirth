@@ -224,6 +224,30 @@ config_text = config_page.get_text(' ', strip=True)
 assert 'WIP' not in config_text and 'Configure Configure' not in config_text, 'Upstream placeholder copy leaked into configuration landing page'
 assert 'Tensura Nightmares' in config_text and 'not recorded' in config_text, 'Nightmares configuration status is overstated'
 assert 'setupConfigReference' in command_js and 'data-config-filter' in command_js, 'Configuration filtering behavior is missing'
+from sync_gamerule_reference import generate as generate_gamerules, load_manifest as load_gamerule_manifest
+gamerule_manifest = load_gamerule_manifest()
+assert (ROOT / 'docs/tensura-reference/gamerules/index.md').read_text(encoding='utf-8') == generate_gamerules(), 'Stale gamerule reference'
+gamerules = BeautifulSoup((site / 'tensura-reference/gamerules/index.html').read_text(encoding='utf-8'), 'html.parser')
+gamerule_cards = gamerules.select('[data-gamerule-card]')
+assert len(gamerule_cards) == 55, 'Unexpected registered gamerule count'
+assert len({card.select_one('h3').get_text(' ', strip=True) for card in gamerule_cards}) == 55, 'Duplicate gamerule name'
+assert gamerules.select_one('[data-gamerule-search-input]') and len(gamerules.select('[data-gamerule-source-filter]')) == 5, 'Gamerule source filters are missing'
+assert len(gamerules.select('[data-gamerule-type-filter]')) == 3, 'Gamerule type filters are missing'
+for source in gamerule_manifest['sources']:
+    if source.get('pack_manifest'):
+        selection = (ROOT / source['pack_manifest']).read_text(encoding='utf-8')
+        assert source['digest'] in selection, f'Gamerule source selection changed: {source["name"]}'
+gamerule_text = gamerules.get_text(' ', strip=True)
+for required in ('noUniqueStart', 'uniqueSECost', 'doAscensionUltimate', 'nightmare_ultimates', 'resetPerSkillLock'):
+    assert required in gamerule_text, f'Missing gamerule: {required}'
+for obsolete in gamerule_manifest['excluded_obsolete_names']:
+    assert not any(card.select_one('h3').get_text(' ', strip=True) == obsolete for card in gamerule_cards), f'Obsolete gamerule leaked into cards: {obsolete}'
+nightmare_cards = gamerules.select('[data-gamerule-source="nightmares"]')
+assert len(nightmare_cards) == 15 and all('gamerule-card--pending' in card.get('class', []) for card in nightmare_cards), 'Nightmares gamerule status is overstated'
+rule_pairs = {card.select_one('h3').get_text(' ', strip=True): card for card in gamerule_cards}
+assert 'true' in rule_pairs['trulygodclass'].select_one('.gamerule-values').get_text(' ', strip=True).casefold(), 'Nightmares artifact default drifted'
+assert 'Forced to 0 by SlimeThrone Extras' in rule_pairs['resetPerSkillLock'].get_text(' ', strip=True), 'SlimeThrone gamerule override is missing'
+assert 'setupGameruleReference' in command_js and 'data-gamerule-copy' in command_js, 'Gamerule filtering or copy behavior is missing'
 from sync_nightmares_world import generate as generate_nightmares_world, load_manifest
 world = load_manifest()
 assert world['reference_build']['installed_version_verified'] is False

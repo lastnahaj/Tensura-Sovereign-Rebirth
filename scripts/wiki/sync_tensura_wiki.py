@@ -1729,6 +1729,9 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     if category == 'configuration':
         from sync_config_reference import generate as generate_config_reference
         return generate_config_reference()
+    if category == 'gamerules':
+        from sync_gamerule_reference import generate as generate_gamerule_reference
+        return generate_gamerule_reference()
     title, description = CATEGORY_INFO[category]
     category_records = [record for record in records if record["category"] == category]
     source_title_overviews = [

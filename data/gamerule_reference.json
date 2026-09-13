@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "id": "tensura",
+      "name": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+      "digest": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+      "evidence": "io/github/manasmods/tensura/world/TensuraGameRules.class"
+    },
+    {
+      "id": "mysticism",
+      "name": "Tensura: Mysticism",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+      "digest": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+      "evidence": "io/github/Memoires/mysticism/world/MysticismGameRules.class"
+    },
+    {
+      "id": "ascension",
+      "name": "Tensura: Ascension",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "status": "Installed",
+      "pack_manifest": "pack/mods/tensura-ascensions.pw.toml",
+      "digest": "84cbe87a6641bd8275624f8251eb2b25c57f0bbc",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascension/files/8060740",
+      "evidence": "com/simplygray/tensuraaddon/AddonGameRules.class"
+    },
+    {
+      "id": "nightmares",
+      "name": "Tensura Nightmares",
+      "version": "1.0.3.2.8",
+      "minecraft": "1.21.1",
+      "status": "Reference build · server match pending",
+      "digest": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+      "evidence": "com/github/hvnbael/trnightmare/world/TRNightmareGamerules.class"
+    },
+    {
+      "id": "stextras",
+      "name": "SlimeThrone Extras",
+      "version": "2.1.2.1",
+      "minecraft": "1.21.1",
+      "status": "Installed · behavior override",
+      "pack_manifest": "pack/mods/tensura-slimethrone-extras.pw.toml",
+      "digest": "506354ffcf888c573440cee273f49aa7d72a340c",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-slimethrone-extras/files/8313927",
+      "evidence": "org/crypticdev/stextras/mixin/world/level/GameRulesMixin.class"
+    }
+  ],
+  "rules": [
+    {"source":"tensura","name":"noUniqueStart","category":"ability","type":"boolean","default":false,"description":"Start without a Unique Skill and use the alternate starting-stat path."},
+    {"source":"tensura","name":"trulyUnique","category":"ability","type":"boolean","default":false,"description":"Remove already-owned Unique Skills from the reincarnation selection pool."},
+    {"source":"tensura","name":"mpSkillCost","category":"ability","type":"integer","default":100,"range":"0–100","unit":"percent","description":"Percentage of maximum Magicules spent when obtaining a new skill."},
+    {"source":"tensura","name":"maximumMagicExplosion","category":"ability","type":"integer","default":100,"unit":"percent","description":"Caps the configured Magic Explosion scale used by the core ability system."},
+    {"source":"tensura","name":"disableNullification","category":"ability","type":"boolean","default":false,"description":"Disable nullification abilities when enabled."},
+    {"source":"tensura","name":"skillGriefing","category":"ability","type":"boolean","default":true,"description":"Allow skills, magic, and battlewill effects to alter or destroy blocks."},
+    {"source":"tensura","name":"skillSteal","category":"ability","type":"boolean","default":true,"description":"Allow applicable abilities to steal a player's skill instead of only copying it."},
+    {"source":"tensura","name":"epSteal","category":"ability","type":"boolean","default":false,"description":"Allow applicable abilities to steal EP from players."},
+    {"source":"tensura","name":"playerMindControl","category":"ability","type":"boolean","default":true,"description":"Allow applicable abilities to mind-control players."},
+
+    {"source":"tensura","name":"maxMpGain","category":"existence","type":"integer","default":1000000000,"range":"0–2,147,483,647","description":"Maximum Magicules an entity may gain from one defeated target."},
+    {"source":"tensura","name":"maxApGain","category":"existence","type":"integer","default":1000000000,"range":"0–2,147,483,647","description":"Maximum Aura an entity may gain from one defeated target."},
+    {"source":"tensura","name":"epGainMultiplier","category":"existence","type":"integer","default":1,"description":"Whole-number multiplier applied to EP gain."},
+    {"source":"tensura","name":"playerEP","category":"existence","type":"integer","default":100,"range":"0–100","unit":"percent","description":"Percentage of a defeated player's base EP used in reward calculations."},
+    {"source":"tensura","name":"vanillaEP","category":"existence","type":"integer","default":100,"range":"0–100","unit":"percent","description":"Percentage of a vanilla mob's base EP used in reward calculations."},
+    {"source":"tensura","name":"tensuraEP","category":"existence","type":"integer","default":100,"range":"0–100","unit":"percent","description":"Percentage of a Tensura mob's base EP used in reward calculations."},
+    {"source":"tensura","name":"moddedEP","category":"existence","type":"integer","default":100,"range":"0–100","unit":"percent","description":"Percentage of another mod's mob EP used in reward calculations."},
+    {"source":"tensura","name":"spawnerEP","category":"existence","type":"integer","default":10,"range":"0–100","unit":"percent","description":"Percentage of base EP granted by mobs created from spawners."},
+    {"source":"tensura","name":"epDeathPenalty","category":"existence","type":"integer","default":5,"range":"0–100","unit":"percent","description":"Percentage of EP lost when a player respawns after death."},
+
+    {"source":"tensura","name":"rimuruMode","category":"race","type":"boolean","default":false,"description":"Use the special Rimuru starting route during reincarnation."},
+    {"source":"tensura","name":"hardcoreRace","category":"race","type":"boolean","default":false,"description":"Enable the harder rule set attached to selected races."},
+    {"source":"tensura","name":"skillBeforeRace","category":"race","type":"boolean","default":false,"description":"Choose starting skills before choosing a race during reincarnation."},
+    {"source":"tensura","name":"disableDaemonAutoMagic","category":"race","type":"boolean","default":false,"description":"Stop daemons from automatically learning aspectual magic during evolution."},
+    {"source":"tensura","name":"disableSpiritualLimit","category":"race","type":"boolean","default":false,"description":"Remove the outside-Hell EP limit applied to unnamed, unawakened daemons."},
+
+    {"source":"tensura","name":"tensuraDisplayName","category":"tensura_player","type":"boolean","default":false,"description":"Show a player's Tensura-given name as their display name."},
+    {"source":"tensura","name":"playerNaming","category":"tensura_player","type":"boolean","default":true,"description":"Allow players to receive names through Tensura's naming system."},
+    {"source":"tensura","name":"playerSummoning","category":"tensura_player","type":"boolean","default":true,"description":"Allow player-targeted summoning behavior registered by the core mod."},
+    {"source":"tensura","name":"playerManualDodging","category":"tensura_player","type":"boolean","default":false,"description":"Enable the manual player-dodging mode registered by the core mod."},
+    {"source":"tensura","name":"demonLordSeed","category":"tensura_player","type":"integer","default":200000,"description":"EP threshold for becoming a Demon Lord Seed."},
+    {"source":"tensura","name":"demonLordAwaken","category":"tensura_player","type":"integer","default":10000,"description":"Soul-point requirement for True Demon Lord awakening."},
+    {"source":"tensura","name":"forceHarvestFestival","category":"tensura_player","type":"integer","default":20000,"description":"Soul count required to force a Harvest Festival."},
+    {"source":"tensura","name":"labyrinthPvp","category":"tensura_player","type":"boolean","default":true,"flag":"Registered legacy hook","description":"Controls PvP in the core Labyrinth system; TSR does not promote a 1.21.1 player route to this feature."},
+    {"source":"tensura","name":"labyrinthDeath","category":"tensura_player","type":"boolean","default":false,"flag":"Registered legacy hook","description":"Controls normal death versus emergency removal in the core Labyrinth system; TSR does not promote a 1.21.1 player route to this feature."},
+
+    {"source":"tensura","name":"npcGrief","category":"tensura_misc","type":"boolean","default":true,"description":"Allow humanoid Tensura NPCs to interact with the environment independently of vanilla mob griefing."},
+    {"source":"tensura","name":"npcWorking","category":"tensura_misc","type":"boolean","default":true,"description":"Allow supported Tensura NPC work behaviors."},
+    {"source":"tensura","name":"colossusRespawn","category":"tensura_misc","type":"boolean","default":false,"flag":"Registered legacy hook","description":"Controls Elemental Colossus respawning in the core Labyrinth system; TSR does not promote that system as a 1.21.1 feature."},
+    {"source":"tensura","name":"resetCounterBonusUnique","category":"tensura_misc","type":"integer","default":0,"description":"Number of reset-counter steps used to award an additional starting Unique Skill."},
+    {"source":"tensura","name":"resetIncompletePenalty","category":"tensura_misc","type":"integer","default":0,"description":"Reset-counter points removed when a reset scroll is used before its requirements are met."},
+    {"source":"tensura","name":"resetPerSkillLock","category":"tensura_misc","type":"integer","default":0,"flag":"Forced to 0 by SlimeThrone Extras","description":"Core skill-lock reset value. SlimeThrone Extras intercepts reads and commands and keeps this gamerule at zero."},
+
+    {"source":"mysticism","name":"uniqueSECost","category":"player","type":"boolean","default":true,"description":"Require Soul Energy for Mysticism Unique Skill acquisition where the skill implements that cost path."},
+    {"source":"ascension","name":"doAscensionUltimate","category":"player","type":"boolean","default":true,"description":"Allow Ascension's registered Ultimate Skill evolution routes to run."},
+
+    {"source":"nightmares","name":"nightmare_ultimates","category":"misc","type":"boolean","default":false,"description":"Allow Nightmares Ultimate Skill obtainment."},
+    {"source":"nightmares","name":"god_skills","category":"misc","type":"boolean","default":false,"description":"Allow Nightmares God-class skill obtainment."},
+    {"source":"nightmares","name":"auto_evolve","category":"misc","type":"boolean","default":false,"description":"Automatically complete eligible Nightmares skill evolutions instead of waiting for confirmation."},
+    {"source":"nightmares","name":"trulygodclass","category":"misc","type":"boolean","default":true,"description":"Apply the artifact's one-of-one restriction to God-class skills."},
+    {"source":"nightmares","name":"giftofworld","category":"misc","type":"boolean","default":true,"description":"Enable the Nightmares Gift of the World progression behavior."},
+    {"source":"nightmares","name":"EntityAwakening","category":"misc","type":"boolean","default":true,"description":"Allow eligible non-player entities to use the Nightmares awakening system."},
+    {"source":"nightmares","name":"entityAwakeningMinEp","category":"misc","type":"integer","default":200000,"description":"Minimum EP required by the Nightmares entity-awakening path."},
+    {"source":"nightmares","name":"entityAwakeningSoulPointsRaw","category":"misc","type":"integer","default":10000000,"description":"Raw stored soul-point requirement used by Nightmares entity awakening."},
+    {"source":"nightmares","name":"lose_unique_on_upgrade","category":"misc","type":"boolean","default":true,"description":"Consume the prior Unique Skill when it upgrades through a Nightmares evolution."},
+    {"source":"nightmares","name":"uniquetruedragons","category":"misc","type":"boolean","default":true,"description":"Apply the artifact's uniqueness rule to Nightmares True Dragon progression."},
+    {"source":"nightmares","name":"nightmareSoulTraits","category":"misc","type":"boolean","default":true,"description":"Enable Nightmares soul-trait assignment and related mechanics."},
+    {"source":"nightmares","name":"nightmareSoulType","category":"misc","type":"boolean","default":true,"description":"Enable Nightmares soul-type assignment and related mechanics."},
+    {"source":"nightmares","name":"PredGlutGourmtGetFoodChain","category":"misc","type":"boolean","default":true,"description":"Allow the registered Predator, Gluttony, and Gourmet route to obtain Food Chain."},
+    {"source":"nightmares","name":"TrulyNameless","category":"misc","type":"boolean","default":false,"description":"Enable the Nightmares nameless-display behavior registered by the artifact."},
+    {"source":"nightmares","name":"maxDealMakerUsers","category":"misc","type":"integer","default":1,"description":"Maximum number of users supported by a Nightmares Deal Maker relationship."}
+  ],
+  "excluded_obsolete_names": ["maxMP", "maxAP", "minEP", "epGain", "experimentalFeature", "nightmare_god", "Automatic_evolution"]
+}
