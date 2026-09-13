@@ -17,6 +17,10 @@ from skill_catalogue import ROOT, POOL, ACTIVE, catalogue
 DOCS = ROOT / "docs"
 BEGIN, END = "<!-- skill-catalogue:start -->", "<!-- skill-catalogue:end -->"
 LABELS = {"skills/common": "Common Skills", "skills/extra": "Extra Skills", "skills/intrinsic": "Intrinsic Skills", "skills/unique": "Unique Skills", "skills/ultimate": "Ultimate Skills", "skills/other": "Other Skills", "magic": "Magic", "battlewill": "Battlewill", "resistances": "Resistances"}
+MAINTENANCE_BLOCK = re.compile(r'<div>\s*<table\b.*?</table>\s*</div>\s*', re.I | re.S)
+MAINTENANCE_CREDIT = re.compile(
+    r'(?im)^<li><a\b[^>]*(?:File:(?:Mysticism_)?WIP\d*\.png|File:Placeholder\.png)[^>]*>.*?</li>\s*\r?\n?'
+)
 
 
 def pinned_learning_requirement(page, decision):
@@ -54,6 +58,32 @@ def render_acquisition_markdown(content, page):
             target = relative(page, route(destination)) + "/"
             anchor["href"] = urlunsplit(("", "", target, url.query, url.fragment))
     return str(soup)
+
+
+def strip_maintenance_markup(text):
+    """Remove source-wiki editorial banners without discarding skill details."""
+    text = MAINTENANCE_BLOCK.sub(
+        lambda match: "" if "work in progress" in BeautifulSoup(match.group(0), "html.parser").get_text(" ", strip=True).casefold() else match.group(0),
+        text,
+    )
+    text = re.sub(r'(?m)^- Work_in_Progress\s*\r?\n', '', text)
+    return MAINTENANCE_CREDIT.sub('', text)
+
+
+def replace_placeholder_media(text, page, asset, title):
+    image = f'<img src="{relative(page, asset)}" alt="{html.escape(title)} emblem" width="96" height="96">'
+    text = re.sub(
+        r'<a\b[^>]*>\s*<img\b[^>]*src="[^"]*(?:wip|placeholder)[^"]*"[^>]*>\s*</a>',
+        image,
+        text,
+        flags=re.I,
+    )
+    return re.sub(
+        r'<img\b[^>]*src="[^"]*(?:wip|placeholder)[^"]*"[^>]*>',
+        image,
+        text,
+        flags=re.I,
+    )
 
 
 def localize_skill_links(text, page, policy, records):
@@ -259,6 +289,7 @@ def prepare_page(page, decision, text):
     text = text[:offset] + BEGIN + "\n" + section + "\n" + END + "\n\n" + text[offset:]
     # Remove editorial instructions from player-facing summaries.
     text = text.replace("(Remove this once finalized)", "")
+    text = strip_maintenance_markup(text)
     text = re.sub(r"(?<=>)[ \t]+$", "", text, flags=re.M)
     return text, documented
 
@@ -290,7 +321,7 @@ def generate():
             decision["asset"] = asset
             # Replace the preview, including its credit: these are TSR emblems.
             text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption>' + m[2], text, count=1, flags=re.S)
-            text = re.sub(r'<img\b[^>]*src="[^"]*(?:wip|placeholder)[^"]*"[^>]*>', "", text, flags=re.I)
+            text = replace_placeholder_media(text, page, asset, decision["title"])
         outputs[page] = text
     active = []
     seen = set()

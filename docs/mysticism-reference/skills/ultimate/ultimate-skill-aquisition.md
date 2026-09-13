@@ -4,7 +4,6 @@ search:
 title: Ultimate Skill Aquisition
 description: To evolve a unique skill to an ultimate skill, all of the following requirements have to be met Be awakened as either True Hero or True demon Lord Posses an evolvable unique skill Possess every required skill and master it (applies to all) Have at least the required amount of MP (If Soulquality Gamerule...
 tags:
-- Work_in_Progress
 - Ultimate_Skill_Aquisition
 ---
 
@@ -36,14 +35,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="Requirements">Requirements</span></h2>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h2><span class="mw-headline" id="Requirements">Requirements</span></h2>
 <p>To evolve a unique skill to an ultimate skill, all of the following requirements have to be met
 </p>
 <ul><li>Be awakened as either True Hero or True demon Lord</li>
@@ -73,6 +65,5 @@ TR Mysticism reference adapted from [Ultimate Skill Aquisition](https://trmystic
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

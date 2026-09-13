@@ -2,7 +2,6 @@
 title: Mithril Strength
 description: Turn your muscles as hard as Mithril and gain an increase in damage, toggleable when mastered.
 tags:
-- Work_in_Progress
 - Intrinsic_Skills
 ---
 
@@ -33,13 +32,7 @@ tags:
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><p>Turn your muscles as hard as Mithril and gain an increase in damage, toggleable when mastered.
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Mithril Strength</div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Extra Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
@@ -105,6 +98,5 @@ TR Mysticism reference adapted from [Mithril Strength](https://trmysticism.wiki.
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

@@ -4,7 +4,6 @@ search:
 title: Beelzebub, Lord Of Gourmet
 description: Damn, so hungry bring me nuggets
 tags:
-- Work_in_Progress
 - Ultimate_Skills
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -39,14 +38,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p>Damn, so hungry bring me nuggets
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Damn, so hungry bring me nuggets
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Beelzebub, Lord Of Gourmet</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Beelzebub.png"><img alt="Beelzebub.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/beelzebub-329e0e714b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
@@ -97,6 +89,5 @@ TR Mysticism reference adapted from [Beelzebub](https://trmysticism.wiki.gg/wiki
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Beelzebub.png">Beelzebub.png</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 1998</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>
