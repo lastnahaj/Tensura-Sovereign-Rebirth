@@ -2,7 +2,6 @@
 title: High Magisteel Long Sword
 description: +100 Sweeping chance +1 Attack Range Obtainable through killing mobs while having Low Magisteel Long Sword in your offhand or equipped To craft the weapon, one must have used a High Magisteel Gear Schematic and a Long Sword Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Long_Sword?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Long Sword</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Long_Sword.png"><img alt="High Magisteel Long Sword.png: Infobox image for High Magisteel Long Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/high-magisteel-long-sword-9957832dca.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Long Sword"><a href="./" title="High Magisteel Long Sword"></a></span></span></div></div></div>
@@ -187,7 +179,6 @@ Base Tensura reference adapted from [High Magisteel Long Sword](https://tensura.
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Long_Sword.png">Invicon High Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6540</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Long_Sword.png">High Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7054</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Long_Sword.png">Invicon Low Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6598</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

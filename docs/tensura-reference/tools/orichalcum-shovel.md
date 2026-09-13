@@ -2,7 +2,6 @@
 title: Orichalcum Shovel
 description: To craft the weapon, one must have used a Orichalcum Gear Schematic. To craft, you need a Smithing Bench. Mines Dirt, Gravel and Sand Related Blocks Can evolve into HihiIrokane Shovel while having the item in your offhand or equipped, evolves at 750k EP.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Orichalcum_Shovel?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Shovel</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Shovel.png"><img alt="Orichalcum Shovel.png: Infobox image for Orichalcum Shovel the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/orichalcum-shovel-c5b416e69e.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Orichalcum Shovel"><a href="./" title="Orichalcum Shovel"></a></span></span></div></div></div>
@@ -180,7 +172,6 @@ Base Tensura reference adapted from [Orichalcum Shovel](https://tensura.wiki.gg/
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Shovel.png">Invicon Orichalcum Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10305</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Shovel.png">Orichalcum Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10320</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>

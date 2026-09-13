@@ -2,7 +2,6 @@
 title: Pure Magisteel Helmet
 description: Obtainable through killing mobs while having High Magisteel Helmet in your offhand or equiped To craft the armor, one must have used a Pure Magisteel Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. Can evolve into Adamantite Helmet...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Pure Magisteel Helmet
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Helmet?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Pure Magisteel Helmet</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Helmet.png"><img alt="Pure Magisteel Helmet.png: Infobox image for Pure Magisteel Helmet the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/pure-magisteel-helmet-6bcb1e7727.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Helmet"><a href="./" title="Pure Magisteel Helmet"></a></span></span></div></div></div>
@@ -165,7 +157,6 @@ Base Tensura reference adapted from [Pure Magisteel Helmet](https://tensura.wiki
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Helmet.png">Invicon Pure Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6676</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Helmet.png">Pure Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7194</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Helmet.png">Invicon High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6535</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

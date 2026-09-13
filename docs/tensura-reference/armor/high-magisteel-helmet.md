@@ -2,7 +2,6 @@
 title: High Magisteel Helmet
 description: Obtainable through killing mobs while having Low Magisteel Helmet in your offhand or equiped To craft the armor, one must have used a High Magisteel Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. Can evolve into Pure Magisteel...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/High Magisteel Helmet
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Helmet?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Helmet</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Helmet.png"><img alt="High Magisteel Helmet.png: Infobox image for High Magisteel Helmet the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/high-magisteel-helmet-473d1e8f8b.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Helmet"><a href="./" title="High Magisteel Helmet"></a></span></span></div></div></div>
@@ -165,7 +157,6 @@ Base Tensura reference adapted from [High Magisteel Helmet](https://tensura.wiki
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Helmet.png">Invicon High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6535</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Helmet.png">High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7048</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Helmet.png">Invicon Low Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6592</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

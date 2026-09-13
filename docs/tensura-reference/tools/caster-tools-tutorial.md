@@ -2,7 +2,6 @@
 title: Caster Tools Tutorial
 description: Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool. Caster tools can have spells applied to them through the use of the Spellbinding Table. These magics can then be used from the tool, even if the user does not have that magic unlocked(with some exceptions...
 tags:
-- Work_in_Progress
 ---
 
 # Caster Tools Tutorial
@@ -10,9 +9,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" alt="Caster Tools Tutorial source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/items/caster-tools.svg" alt="Illustrated caster tools" loading="eager" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -29,15 +28,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Caster_Tools_Tutorial?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-<h1><span class="mw-headline" id="Caster_Tools">Caster Tools</span></h1>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h1><span class="mw-headline" id="Caster_Tools">Caster Tools</span></h1>
 <h2><span id="What_are_Caster_Tools.3F"></span><span class="mw-headline" id="What_are_Caster_Tools?">What are Caster Tools?</span></h2>
 <p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.
 </p>
@@ -103,6 +94,5 @@ Base Tensura reference adapted from [Caster Tools Tutorial](https://tensura.wiki
 <details class="reference-media-credits">
 <summary>Media credits (1 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 </ul>
 </details>

@@ -2,7 +2,6 @@
 title: Adamantite Pickaxe
 description: Obtainable through killing mobs while having Pure Magisteel Pickaxe in your offhand or equipped To craft the tool, one must have used a Adamantite Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into HihiIrokane Pickaxe while having the item in your offhand or equipped
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Pickaxe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Pickaxe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Pickaxe.png"><img alt="Adamantite Pickaxe.png: Infobox image for Adamantite Pickaxe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/adamantite-pickaxe-9b2904efdd.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Pickaxe"><a href="./" title="Adamantite Pickaxe"></a></span></span></div></div></div>
@@ -176,7 +168,6 @@ Base Tensura reference adapted from [Adamantite Pickaxe](https://tensura.wiki.gg
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Pickaxe.png">Invicon Adamantite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10363</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Pickaxe.png">Adamantite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10382</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Pickaxe.png">Invicon Pure Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10272</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

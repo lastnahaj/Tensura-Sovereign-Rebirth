@@ -129,7 +129,7 @@ A razor sharp blade from the tail of a <a href="../../mobs/mobs-blade-tiger/" ti
 <img src="../../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Bulldeer Milk Bucket</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>

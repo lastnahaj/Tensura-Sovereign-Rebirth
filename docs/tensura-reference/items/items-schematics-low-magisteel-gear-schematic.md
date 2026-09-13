@@ -3,7 +3,6 @@ title: Low Magisteel Gear Schematic
 description: 'Obtained by picking up a Low Magisteel Ingot Allows Crafting of the following items: MiscClick to show more Low Magisteel Tools/WeaponsClick to show more Low Magisteel ArmorClick to show more There are also certain schematic combinations one can get by having 2 schematics that are linked to the recipe...'
 tags:
 - Missing_renewability
-- Work_in_Progress
 - Pages_with_broken_file_links
 ---
 
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Low Magisteel Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Low Magisteel Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
 <a class="image image-thumbnail" href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png" title="Low Magisteel Gear Schematic.png">
 <img alt="Low Magisteel Gear Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/items/low-magisteel-gear-schematic-af106f6883.png" width="270"/>
 </a>
@@ -334,7 +326,6 @@ Base Tensura reference adapted from [Items/Schematics/Low Magisteel Gear Schemat
 <summary>Media credits (31 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png">Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13078</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>

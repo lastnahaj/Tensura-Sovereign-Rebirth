@@ -2,7 +2,6 @@
 title: Elemental Shard (Wind)
 description: 'This item can be obtained by killing: Feathered Serpent 25% chance, 1 shard Sylphide 100% chance, 1 - 3 shards Can be used to craft an Element Core (Wind)'
 tags:
-- Work_in_Progress
 - Stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Elemental_Shard_(Wind)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Elemental Shard (Wind)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Wind).png"><img alt="Elemental Shard (Wind).png: Infobox image for Elemental Shard (Wind) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/elemental-shard-wind-fab3f9ee65.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Wind)"><a href="./" title="&amp;eElemental Shard (Wind)"></a></span></span></div></div></div>
@@ -114,10 +106,10 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../explorer-maps/">
-<img src="../../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/explorer-map.svg" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Explorer Maps</strong>
-<small>Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an…</small>
+<small>Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins.</small>
 </span>
 </a>
 </div>
@@ -133,7 +125,6 @@ Base Tensura reference adapted from [Elemental Shard (Wind)](https://tensura.wik
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Wind).png">Invicon Elemental Shard (Wind).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6809</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Wind).png">Elemental Shard (Wind).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7024</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Wind).gif">Elemental Core (Wind).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2402</li>
 </ul>

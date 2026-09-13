@@ -2,7 +2,6 @@
 title: Charybdis Scale Chestplate
 description: Killing/Defeating Charybdis To craft the armor, one must have used a Charybdis Scalemail Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Charybdis_Scalemail_Chestplate?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Charybdis Scalemail Chestplate</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Chestplate.png"><img alt="Charybdis Scalemail Chestplate.png: Infobox image for Charybdis Scalemail Chestplate the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/charybdis-scalemail-chestplate-22052bf2e0.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Charybdis Scalemail Chestplate"><a href="./" title="Charybdis Scalemail Chestplate"></a></span></span></div></div></div>
@@ -167,7 +159,6 @@ Base Tensura reference adapted from [Charybdis Scalemail Chestplate](https://ten
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Chestplate.png">Charybdis Scalemail Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6982</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Chestplate.png">Invicon Charybdis Scalemail Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6471</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
 </ul>

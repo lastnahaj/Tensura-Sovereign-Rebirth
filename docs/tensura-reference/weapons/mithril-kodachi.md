@@ -2,7 +2,6 @@
 title: Mithril Kodachi
 description: +20% Critical Chance +100 Sweeping Chance -0.75 Attack Range To craft the weapon, one must have used a Mithril Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Adamantite Kodachi while having the item in your offhand or equipped
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mithril_Kodachi?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Mithril Kodachi</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Mithril_Kodachi.png"><img alt="Mithril Kodachi.png: Infobox image for Mithril Kodachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/mithril-kodachi-d1c1aca519.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Mithril Kodachi"><a href="./" title="Mithril Kodachi"></a></span></span></div></div></div>
@@ -171,7 +163,6 @@ Base Tensura reference adapted from [Mithril Kodachi](https://tensura.wiki.gg/wi
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Kodachi.png">Invicon Mithril Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10328</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Kodachi.png">Mithril Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10338</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>

@@ -3,7 +3,6 @@ title: Knight Spider Leg
 description: Killing/Defeating a Knight Spider Cooking a Knight Spider Leg with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Knight Spider Leg
 ---
 
@@ -89,16 +88,6 @@ tags:
 <td><div><span class="mcui mcui-Furnace pixel-image"><span class="mcui-input"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Knight Spider Leg"><a href="./" title="Knight Spider Leg"></a></span></span><span class="mcui-fuel"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Coal"><a href="https://minecraft.wiki/w/Coal" title="Coal"></a></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Knight Spider Leg"><a href="../cooked-knight-spider-leg/" title="Cooked Knight Spider Leg"></a></span></span></span></span></div>
 </td></tr>
 </tbody></table>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Knight_Spider_Leg?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -157,6 +146,5 @@ Base Tensura reference adapted from [Knight Spider Leg](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Knight_Spider_Leg.png">Invicon Cooked Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6480</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 </ul>
 </details>

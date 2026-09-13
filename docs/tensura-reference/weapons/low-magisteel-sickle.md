@@ -2,7 +2,6 @@
 title: Low Magisteel Sickle
 description: To craft the tool, one must have used a Low Magisteel Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs, better farming tool Can evolve into High Magisteel Sickle while having the item in your offhand or equipped
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Low_Magisteel_Sickle?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Low Magisteel Sickle</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png"><img alt="Invicon Low Magisteel Sickle.png: Infobox image for Low Magisteel Sickle the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/invicon-low-magisteel-sickle-0d9359016c.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Low Magisteel Sickle"><a href="./" title="Low Magisteel Sickle"></a></span></span></div></div></div>
@@ -194,7 +186,6 @@ Base Tensura reference adapted from [Low Magisteel Sickle](https://tensura.wiki.
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13079</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>

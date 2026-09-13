@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caster Tools</title>
+  <desc id="desc">A spellbook and crystal-tipped staff charged with magic.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08152a"/><stop offset="1" stop-color="#18264b"/></linearGradient>
+    <linearGradient id="book" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7358d8"/><stop offset="1" stop-color="#2c276f"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  <circle cx="260" cy="254" r="174" fill="none" stroke="#203a69" stroke-width="3"/>
+  <path d="M121 167h222c22 0 39 17 39 39v221H160c-22 0-39-17-39-39z" fill="url(#book)" stroke="#66dbff" stroke-width="9"/>
+  <path d="M160 145h215c21 0 38 17 38 38v207H160c-21 0-38-17-38-38V183c0-21 17-38 38-38z" fill="#e8efff" stroke="#172750" stroke-width="10"/>
+  <path d="M161 174h205c10 0 18 8 18 18v169H161c-10 0-18-8-18-18V192c0-10 8-18 18-18z" fill="#f7faff"/>
+  <path d="m271 215 15 39 42 2-33 26 11 41-35-23-35 23 11-41-33-26 42-2z" fill="none" stroke="#6a55d9" stroke-width="8" filter="url(#glow)"/>
+  <path d="M116 392h282" stroke="#66dbff" stroke-width="9" stroke-linecap="round"/>
+  <path d="M357 95 231 386" stroke="#d29a48" stroke-width="21" stroke-linecap="round"/>
+  <path d="m378 52 35 45-38 58-54-32 8-64z" fill="#50dcff" stroke="#d6f8ff" stroke-width="8" filter="url(#glow)"/>
+  <path d="m391 78-34 50M345 72l31 55" stroke="#fff" stroke-width="5" opacity=".8"/>
+</svg>

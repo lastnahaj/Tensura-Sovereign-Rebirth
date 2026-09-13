@@ -2,7 +2,6 @@
 title: Element Core (Space)
 description: 'There are 2 obtainment methods: Obtained by right clicking Akash with an Element Core (Empty) Used for slotting Effects: Grants a special attack that fires a arching space projectile dealing 28 damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped...'
 tags:
-- Work_in_Progress
 - Pages_with_broken_file_links
 - Non-stackable_resources
 - Has_crafting
@@ -35,14 +34,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Element_Core_(Space)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Element Core (Space)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Space).gif"><img alt="Elemental Core (Space).gif: Infobox image for Element Core (Space) the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/elemental-core-space-8deb05e8d6.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Element Core (Space)"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Invicon_Element_Core_(Space).gif" title="File:Invicon Element Core (Space).gif">&amp;6Element Core (Space)</a></span></span></div></div></div>
@@ -96,16 +88,6 @@ tags:
 <p>Used for slotting <br/>
 Effects: Grants a special attack that fires a arching space projectile dealing 28 damage. Adds elemental damage to the weapon: +30 for the first core and +15 for each additional core equipped.
 </p>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Element_Core_(Space)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -158,7 +140,6 @@ Base Tensura reference adapted from [Element Core (Space)](https://tensura.wiki.
 <details class="reference-media-credits">
 <summary>Media credits (4 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Space).gif">Elemental Core (Space).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2369</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Space).png">Invicon Elemental Shard (Space).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6808</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>

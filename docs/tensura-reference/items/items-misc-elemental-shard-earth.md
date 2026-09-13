@@ -2,7 +2,6 @@
 title: Elemental Shard (Earth)
 description: 'This item can be obtained by killing: Beast Gnome 25% chance, 1 shard War Gnome 100% chance, 1 - 3 shards Can be used to craft an Element Core (Earth)'
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Elemental Shard (Earth)
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Misc/Elemental_Shard_(Earth)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Elemental Shard (Earth)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Earth).png"><img alt="Elemental Shard (Earth).png: Infobox image for Elemental Shard (Earth) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/elemental-shard-earth-103524b807.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Earth)"><a href="./" title="&amp;eElemental Shard (Earth)"></a></span></span></div></div></div>
@@ -136,7 +128,6 @@ Base Tensura reference adapted from [Items/Misc/Elemental Shard (Earth)](https:/
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Earth).png">Invicon Elemental Shard (Earth).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6806</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Earth).png">Elemental Shard (Earth).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7020</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Earth).gif">Elemental Core (Earth).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2325</li>
 </ul>

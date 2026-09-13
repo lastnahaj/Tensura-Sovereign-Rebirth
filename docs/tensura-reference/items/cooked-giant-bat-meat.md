@@ -2,7 +2,6 @@
 title: Cooked Giant Bat Meat
 description: Consumption is deadly Cooking a Raw Giant Bat Meat with a campfire, furnace, etc
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Items/Consumables/Cooked Giant Bat Meat
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Giant_Bat_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Cooked Giant Bat Meat</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Cooked_Giant_Bat_Meat.png"><img alt="Cooked Giant Bat Meat.png: Infobox image for Cooked Giant Bat Meat the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/cooked-giant-bat-meat-db648464cb.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Giant Bat Meat"><a href="./" title="Cooked Giant Bat Meat"></a></span></span></div></div></div>
@@ -154,7 +146,6 @@ Base Tensura reference adapted from [Cooked Giant Bat Meat](https://tensura.wiki
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Giant_Bat_Meat.png">Invicon Cooked Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6479</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Cooked_Giant_Bat_Meat.png">Cooked Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6990</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>

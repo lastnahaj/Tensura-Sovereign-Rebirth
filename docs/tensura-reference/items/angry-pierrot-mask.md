@@ -2,7 +2,6 @@
 title: Angry Pierrot Mask
 description: To craft the Angry Pierrot Mask, one must have used a Pierrot Mask Schematic. To craft, you need a Smithing Bench.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Angry Pierrot Mask
 ---
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Angry_Pierrot_Mask?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Angry Pierrot Mask</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png"><img alt="Angry Pierrot Mask.png: Infobox image for Angry Pierrot Mask the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/angry-pierrot-mask-937fed0577.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Angry Pierrot Mask"><a href="./" title="&amp;6Angry Pierrot Mask"></a></span></span></div></div></div>
@@ -155,7 +147,6 @@ Base Tensura reference adapted from [Angry Pierrot Mask](https://tensura.wiki.gg
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Angry_Pierrot_Mask.png">Invicon Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6431</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png">Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6941</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pierrot_Mask_Schematic.png">Pierrot Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13245</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Clay_Ball.gif">Invicon Clay Ball.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9266</li>

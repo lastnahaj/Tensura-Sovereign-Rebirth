@@ -2,7 +2,6 @@
 title: Warp Core
 description: Can be obtained by crafting at a Smithing Bench
 tags:
-- Work_in_Progress
 - Missing_stackability
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Warp_Core?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Warp Core</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Invicon_Warp_Core.png"><img alt="Invicon Warp Core.png: Infobox image for Warp Core the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/invicon-warp-core-497c492f78.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Warp Core"><a href="./" title="Warp Core"></a></span></span></div></div></div>
@@ -144,7 +136,6 @@ Base Tensura reference adapted from [Warp Core](https://tensura.wiki.gg/wiki/War
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warp_Core.png">Invicon Warp Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13086</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>

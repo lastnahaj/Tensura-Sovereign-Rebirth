@@ -104,7 +104,7 @@ A strong armor from the body of an <a href="../../mobs/mobs-army-wasp/" title="M
 <img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hot Spring Water Bucket</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-iron-gear-schematic/">

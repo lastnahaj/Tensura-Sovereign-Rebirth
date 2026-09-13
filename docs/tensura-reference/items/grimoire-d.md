@@ -2,7 +2,6 @@
 title: Grimoire(D)
 description: A low level grimoire for casting magic. Grimoire (D) can hold 3 magics and cast these magics using its own EP. Chant speed increase = 0 Cooldown = 40 ticks Can be found in all type of wizard towers Uncraftable
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Grimoire(D)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Grimoire(D)</div>
 <div class="infobox-imagearea animated-container">
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Grimoire(D)"><a href="./" title="Grimoire(D)"></a></span></span></div></div></div>
@@ -138,6 +130,5 @@ Base Tensura reference adapted from [Grimoire(D)](https://tensura.wiki.gg/wiki/G
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(D).png">Invicon Grimoire(D).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12803</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 </ul>
 </details>

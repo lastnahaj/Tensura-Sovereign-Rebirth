@@ -2563,6 +2563,11 @@ def main() -> int:
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(content, encoding="utf-8")
 
+    # Upstream maintenance banners are useful to editors on the source wiki,
+    # but they are not item artwork or player-facing reference content.
+    from sanitize_equipment_articles import run as sanitize_equipment_articles
+    sanitize_equipment_articles(check=False)
+
     print(
         "Generated reference: "
         f"{coverage['pages_imported']} pages, {coverage['redirects_processed']} redirects, "

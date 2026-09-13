@@ -3,7 +3,6 @@ title: Cooked Spear Toro Fin
 description: Cooking a Spear Toro Fin with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Cooked Spear Toro Fin
 ---
 
@@ -87,16 +86,6 @@ tags:
 </td></tr>
 </tbody></table>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Spear_Toro_Fin?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -154,6 +143,5 @@ Base Tensura reference adapted from [Cooked Spear Toro Fin](https://tensura.wiki
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spear_Toro_Fin.png">Invicon Spear Toro Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6737</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 </ul>
 </details>

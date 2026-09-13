@@ -1,6 +1,6 @@
 ---
 title: Revival Elixir
-description: This page is a Work In Progress!!! Big Things Coming Soon!!
+description: The upstream reference does not yet document this item's obtainment or use.
 tags: []
 ---
 
@@ -15,7 +15,7 @@ tags: []
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
 <button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
@@ -27,7 +27,7 @@ tags: []
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="hide-content-template">
 <div class="center"><div class="floatnone"><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:CS5.png"><img alt="Coming Soon" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/items/cs5-d00a5bad58.png" width="512"/></a></div></div><br/>
 <div>
-<p><big><big><b>This page is a Work In Progress!!!</b><br/></big></big>
+<p><big><big><b>The upstream reference does not yet document this item's obtainment or use.</b><br/></big></big>
 <big><b>Big Things Coming Soon!!</b></big>
 </p>
 </div></div>

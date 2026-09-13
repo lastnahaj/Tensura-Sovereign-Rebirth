@@ -2,7 +2,6 @@
 title: Holy Armaments Chestplate
 description: Killing/defeating Hinata Sakaguchi while in stage 4 (8.5% obtain chance) If you have full set of holy armament armor it allows you to fly.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Holy_Armaments_Chestplate?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Holy Armaments Chestplate</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Holy_armaments_chestplate.png"><img alt="Holy armaments chestplate.png: Infobox image for Holy Armaments Chestplate the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/holy-armaments-chestplate-bac436e68b.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Holy Armaments Chestplate"><a href="./" title="Holy Armaments Chestplate"></a></span></span></div></div></div>
@@ -144,7 +136,6 @@ Base Tensura reference adapted from [Holy Armaments Chestplate](https://tensura.
 <summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Holy_Armaments_Chestplate.png">Invicon Holy Armaments Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6558</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Holy_armaments_chestplate.png">Holy armaments chestplate.png</a> — CC BY-SA 4.0; uploaded by StinsonBarney; revision 9865</li>
 </ul>
 </details>

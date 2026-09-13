@@ -98,7 +98,7 @@ Hipokute is used to make different potions that heal your health and magicules <
 <img src="../../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Milk</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hipokute-flower/">
@@ -112,7 +112,7 @@ Hipokute is used to make different potions that heal your health and magicules <
 <img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Milk Bucket</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>

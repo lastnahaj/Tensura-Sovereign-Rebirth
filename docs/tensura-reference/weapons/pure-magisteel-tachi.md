@@ -2,7 +2,6 @@
 title: Pure Magisteel Tachi
 description: +20% Critical Chance +100 Sweeping Chance +1 Attack Range Obtainable through killing mobs while having High Magisteel Tachi in your offhand or equipped To craft the weapon, one must have used a Pure Magisteel Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Adamantite...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Tachi?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Pure Magisteel Tachi</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Tachi.png"><img alt="Pure Magisteel Tachi.png: Infobox image for Pure Magisteel Tachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/pure-magisteel-tachi-c67afd1e14.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Tachi"><a href="./" title="Pure Magisteel Tachi"></a></span></span></div></div></div>
@@ -174,7 +166,6 @@ Base Tensura reference adapted from [Pure Magisteel Tachi](https://tensura.wiki.
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Tachi.png">Invicon Pure Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10268</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Tachi.png">Pure Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10283</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Tachi.png">Invicon High Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6550</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

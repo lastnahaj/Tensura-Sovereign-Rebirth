@@ -2,7 +2,6 @@
 title: Elemental Shard (Water)
 description: 'This item can be obtained by killing: Aqua Frog 25% chance, 1 shard Undine 100% chance, 1 - 3 shards Can be used to craft an Element Core (Water)'
 tags:
-- Work_in_Progress
 - Stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Elemental_Shard_(Water)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Elemental Shard (Water)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Water).png"><img alt="Elemental Shard (Water).png: Infobox image for Elemental Shard (Water) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/elemental-shard-water-ac2c696937.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Water)"><a href="./" title="&amp;eElemental Shard (Water)"></a></span></span></div></div></div>
@@ -133,7 +125,6 @@ Base Tensura reference adapted from [Elemental Shard (Water)](https://tensura.wi
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Water).png">Invicon Elemental Shard (Water).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6807</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Water).png">Elemental Shard (Water).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7023</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Water).gif">Elemental Core (Water).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2399</li>
 </ul>

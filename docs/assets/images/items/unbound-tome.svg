@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unbound Tome</title>
+  <desc id="desc">An open blue spellbook with an empty glowing sigil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071427"/><stop offset="1" stop-color="#10284a"/></linearGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2f7ff"/><stop offset="1" stop-color="#9fc4e8"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  <circle cx="256" cy="246" r="166" fill="none" stroke="#173b63" stroke-width="3"/>
+  <path d="M73 151c66-26 126-10 183 34v233c-57-41-118-54-183-26z" fill="#173f74" stroke="#54d5ff" stroke-width="8"/>
+  <path d="M439 151c-66-26-126-10-183 34v233c57-41 118-54 183-26z" fill="#173f74" stroke="#54d5ff" stroke-width="8"/>
+  <path d="M91 169c57-17 106-2 165 39v177c-52-34-104-44-165-24z" fill="url(#page)"/>
+  <path d="M421 169c-57-17-106-2-165 39v177c52-34 104-44 165-24z" fill="url(#page)"/>
+  <path d="M256 185v233" stroke="#8bb8df" stroke-width="10"/>
+  <g fill="none" stroke="#18d5ff" stroke-linecap="round" filter="url(#glow)">
+    <circle cx="256" cy="277" r="67" stroke-width="8"/>
+    <path d="m256 208 17 45 48 2-38 30 13 46-40-26-40 26 13-46-38-30 48-2z" stroke-width="6"/>
+  </g>
+  <path d="M117 213h79M117 238h60M316 213h79M335 238h60" stroke="#668caf" stroke-width="8" stroke-linecap="round"/>
+  <path d="M87 398c55-18 112-3 169 35 57-38 114-53 169-35" fill="none" stroke="#07101f" stroke-width="18" stroke-linecap="round"/>
+</svg>

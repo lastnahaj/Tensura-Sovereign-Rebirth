@@ -2,7 +2,6 @@
 title: Grimoire(Special A)
 description: A high level grimoire for casting magic. Grimoire (Special A) can hold 7 magics and cast these magics using its own EP. Chant speed increase = 20 Cooldown = 10 ticks Can only be obtained when Grimoire (A) hits 100K EP Uncraftable
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Grimoire(Special_A)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Grimoire(Special A)</div>
 <div class="infobox-imagearea animated-container">
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Grimoire(Special A)"><a href="./" title="Grimoire(Special A)"></a></span></span></div></div></div>
@@ -137,6 +129,5 @@ Base Tensura reference adapted from [Grimoire(Special A)](https://tensura.wiki.g
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(Special_A).png">Invicon Grimoire(Special A).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12807</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 </ul>
 </details>

@@ -2,7 +2,6 @@
 title: Blade Tiger Steak
 description: Cooking a Raw Blade Tiger Meat with a campfire, furnace, etc
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Items/Consumables/Blade Tiger Steak
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blade_Tiger_Steak?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Blade Tiger Steak</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Blade_Tiger_Steak.png"><img alt="Blade Tiger Steak.png: Infobox image for Blade Tiger Steak the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/blade-tiger-steak-b35576db98.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Blade Tiger Steak"><a href="./" title="Blade Tiger Steak"></a></span></span></div></div></div>
@@ -150,7 +142,6 @@ Base Tensura reference adapted from [Blade Tiger Steak](https://tensura.wiki.gg/
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Steak.png">Invicon Blade Tiger Steak.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6457</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Blade_Tiger_Steak.png">Blade Tiger Steak.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6967</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>

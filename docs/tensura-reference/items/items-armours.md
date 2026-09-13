@@ -2,7 +2,6 @@
 title: Armours
 description: Base Tensura reference for Armours.
 tags:
-- Work_in_Progress
 ---
 
 # Armours
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Armours?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="Monster_Leather">Monster Leather</span></h2>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h2><span class="mw-headline" id="Monster_Leather">Monster Leather</span></h2>
 <table>
 <tbody><tr>
 <td><span class="nowrap"><span class="sprite-file"><a href="../monster-leather-helmet-d/" title="Monster Leather Helmet (D)"></a></span> <a href="../monster-leather-helmet-d/" title="Monster Leather Helmet (D)"><span class="sprite-text">Monster Leather Helmet (D)</span></a></span></td>
@@ -242,7 +234,6 @@ Base Tensura reference adapted from [Items/Armours](https://tensura.wiki.gg/wiki
 <details class="reference-media-credits">
 <summary>Media credits (90 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(D).png">Invicon Monster Leather Leggings (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6843</li>

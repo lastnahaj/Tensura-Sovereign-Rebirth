@@ -2,7 +2,6 @@
 title: Cooked Charybdis Meat
 description: Cooking a Raw Charybdis Meat with a campfire, furnace, etc
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Items/Consumables/Cooked Charybdis Meat
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Charybdis_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Cooked Charybdis Meat</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Cooked_Charybdis_Meat.png"><img alt="Cooked Charybdis Meat.png: Infobox image for Cooked Charybdis Meat the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/cooked-charybdis-meat-b4a0aef0e6.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Charybdis Meat"><a href="./" title="Cooked Charybdis Meat"></a></span></span></div></div></div>
@@ -150,7 +142,6 @@ Base Tensura reference adapted from [Cooked Charybdis Meat](https://tensura.wiki
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Charybdis_Meat.png">Invicon Cooked Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6477</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Cooked_Charybdis_Meat.png">Cooked Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6988</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Charybdis_Meat.png">Invicon Raw Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6681</li>

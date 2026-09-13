@@ -3,7 +3,6 @@ title: Cooked Spear Toro Meat
 description: Cooking a Raw Spear Toro Meat with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Cooked Spear Toro Meat
 ---
 
@@ -87,16 +86,6 @@ tags:
 </td></tr>
 </tbody></table>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Spear_Toro_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -154,6 +143,5 @@ Base Tensura reference adapted from [Cooked Spear Toro Meat](https://tensura.wik
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Spear_Toro_Meat.png">Invicon Raw Spear Toro Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6687</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 </ul>
 </details>

@@ -3,7 +3,6 @@ title: Sissie Fin
 description: Killing/Defeating a Sissie Cooking a Sissie Fin with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Sissie Fin
 ---
 
@@ -89,16 +88,6 @@ tags:
 <td><div><span class="mcui mcui-Furnace pixel-image"><span class="mcui-input"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Sissie Fin"><a href="./" title="Sissie Fin"></a></span></span><span class="mcui-fuel"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Coal"><a href="https://minecraft.wiki/w/Coal" title="Coal"></a></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Sissie Fin"><a href="../cooked-sissie-fin/" title="Cooked Sissie Fin"></a></span></span></span></span></div>
 </td></tr>
 </tbody></table>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Sissie_Fin?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -156,6 +145,5 @@ Base Tensura reference adapted from [Sissie Fin](https://tensura.wiki.gg/wiki/Si
 <li><a href="https://tensura.wiki.gg/wiki/File:Half_Hunger_(icon).png">Half Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7508</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Fin.png">Invicon Cooked Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6484</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 </ul>
 </details>

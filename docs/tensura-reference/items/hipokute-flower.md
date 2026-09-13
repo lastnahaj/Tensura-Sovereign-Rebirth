@@ -2,7 +2,6 @@
 title: Hipokute Flower
 description: This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by hipokute farming. This can be used to brew High Potion and Full Potion. This is a better version of Hipokute Grass Flowers can also be traded to Alchemist Dwarves at a rate of 4 for 20...
 tags:
-- Work_in_Progress
 - Stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Hipokute_Flower?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Hipokute Flower</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png"><img alt="Hipokute Flower.png: Infobox image for Hipokute Flower the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/hipokute-flower-86122c07da.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Flower"><a href="./" title="Hipokute Flower"></a></span></span></div></div></div>
@@ -150,7 +142,6 @@ Base Tensura reference adapted from [Hipokute Flower](https://tensura.wiki.gg/wi
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png">Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7071</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png">Invicon Full Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6513</li>

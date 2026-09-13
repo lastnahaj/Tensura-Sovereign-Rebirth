@@ -92,8 +92,8 @@
 <article class="reference-card" data-letter="C" data-search="caster tools tutorial caster tools include grimoires and staffs, storing spells and enabling their use through the tool.">
 <a href="caster-tools-tutorial/" aria-label="Open Caster Tools Tutorial">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/wip12-9b79032338.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<img src="../../assets/images/items/caster-tools.svg" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Caster Tools Tutorial</h2>

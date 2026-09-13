@@ -2,7 +2,6 @@
 title: Blade Tiger Scythe
 description: +20% Critical Chance +100 Sweeping Chance +2 Attack Range To craft, you need a Smithing Bench and Great Sword Schematic + Spear Schematic. Deals damage to mobs
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blade_Tiger_Scythe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Blade Tiger Scythe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Blade_Tiger_Scythe.png"><img alt="Blade Tiger Scythe.png: Infobox image for Blade Tiger Scythe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/blade-tiger-scythe-3314208247.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Blade Tiger Scythe"><a href="./" title="Blade Tiger Scythe"></a></span></span></div></div></div>
@@ -167,7 +159,6 @@ Base Tensura reference adapted from [Blade Tiger Scythe](https://tensura.wiki.gg
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Scythe.png">Invicon Blade Tiger Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6456</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Blade_Tiger_Scythe.png">Blade Tiger Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6966</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Great_Sword_Schematic.png">Invicon Great Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12036</li>

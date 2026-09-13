@@ -2,7 +2,6 @@
 title: Wooden Short Sword
 description: -0.75 Attack Range +0.5 Additional Critical Multiplier This gears schematic is enabled by default. To craft, you need a Smithing Bench. Deals damage to mobs
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wooden_Short_Sword?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Wooden Short Sword</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Wooden_Short_Sword.png"><img alt="Wooden Short Sword.png: Infobox image for Wooden Short Sword the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/wooden-short-sword-e91df89d1c.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Wooden Short Sword"><a href="./" title="Wooden Short Sword"></a></span></span></div></div></div>
@@ -174,7 +166,6 @@ Base Tensura reference adapted from [Wooden Short Sword](https://tensura.wiki.gg
 <summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wooden_Short_Sword.png">Invicon Wooden Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6783</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Wooden_Short_Sword.png">Wooden Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7300</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oak_Planks.png">Invicon Oak Planks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4438</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

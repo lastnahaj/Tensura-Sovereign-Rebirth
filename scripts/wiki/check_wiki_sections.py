@@ -75,6 +75,19 @@ item_css = (ROOT / 'docs/assets/stylesheets/extra.css').read_text(encoding='utf-
 item_js = (ROOT / 'docs/assets/javascripts/reference.js').read_text(encoding='utf-8')
 assert 'reference-item-media--inventory' in item_css
 assert 'setupItemMedia' in item_js and 'reference-item-media--inventory' in item_js
+for section in ('items', 'weapons', 'armor', 'tools'):
+    directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
+    for card in directory.select('.reference-card'):
+        href = card.select_one('a[href]')['href']
+        article_path = site / f'tensura-reference/{section}' / href / 'index.html'
+        article = BeautifulSoup(article_path.read_text(encoding='utf-8'), 'html.parser')
+        article_text = article.select_one('.tensura-reference-article').get_text(' ', strip=True).casefold()
+        assert 'work in progress' not in article_text, f'Upstream maintenance banner remains: {article_path}'
+        assert 'labyrinth' not in article_text and 'dungeon' not in article_text, f'Legacy dungeon content remains: {article_path}'
+        visible_images = article.select('.tensura-reference-article img')
+        assert all('wip' not in Path(image.get('src', '')).name.casefold() for image in visible_images), f'WIP artwork remains: {article_path}'
+        hero = article.select_one('.reference-overview-media img')
+        assert hero and 'wip' not in Path(hero.get('src', '')).name.casefold(), f'WIP hero artwork remains: {article_path}'
 mobs = BeautifulSoup((site / 'tensura-reference/mobs/index.html').read_text(encoding='utf-8'), 'html.parser')
 mob_cards = mobs.select('.reference-card')
 assert len(mob_cards) == 60, 'Unexpected mob directory size'

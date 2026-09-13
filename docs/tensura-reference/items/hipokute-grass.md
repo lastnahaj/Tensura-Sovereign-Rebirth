@@ -2,7 +2,6 @@
 title: Hipokute Grass
 description: This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming. This can be used to brew Low Potion and High Potion. This is a worse version of a Hipokute Flower
 tags:
-- Work_in_Progress
 - Stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP5.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip5-816effea31.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Hipokute_Grass?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Hipokute Grass</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hipokute_Grass.png"><img alt="Hipokute Grass.png: Infobox image for Hipokute Grass the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/hipokute-grass-dbd366cb53.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Grass"><a href="./" title="Hipokute Grass"></a></span></span></div></div></div>
@@ -132,7 +124,7 @@ This is a worse version of a <span class="nowrap"><span class="sprite-file"><a h
 <img src="../../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Milk</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>
@@ -148,7 +140,6 @@ Base Tensura reference adapted from [Hipokute Grass](https://tensura.wiki.gg/wik
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4445</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP5.png">WIP5.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4722</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hipokute_Grass.png">Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7072</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png">Invicon Low Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6609</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>

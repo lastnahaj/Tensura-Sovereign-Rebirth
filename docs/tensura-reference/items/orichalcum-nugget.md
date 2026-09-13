@@ -2,7 +2,6 @@
 title: Orichalcum Nugget
 description: Smelting Magic Ore and Iron in Kiln Each Orichalcum Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron.
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Has_crafting
 - Items/Misc/Orichalcum Nugget
@@ -34,14 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Orichalcum_Nugget?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Orichalcum Nugget</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Orichalcum_Nugget.gif"><img alt="Orichalcum Nugget.gif: Infobox image for Orichalcum Nugget the item in Minecraft" class="pixel-image" data-file-height="16" data-file-width="16" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/orichalcum-nugget-59bf9fee5b.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Orichalcum Nugget"><a href="./" title="Orichalcum Nugget"></a></span></span></div></div></div>
@@ -156,7 +148,6 @@ Base Tensura reference adapted from [Orichalcum Nugget](https://tensura.wiki.gg/
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Nugget.png">Invicon Orichalcum Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10580</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Nugget.gif">Orichalcum Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2238</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 </ul>

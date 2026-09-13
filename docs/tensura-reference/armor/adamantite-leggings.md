@@ -2,7 +2,6 @@
 title: Adamantite Leggings
 description: Obtainable through killing mobs while having Pure Magisteel Leggings in your offhand or equipped To craft the armor, one must have used a Adamantite Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. Can evolve into HihiIrokane Leggings...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Pages_with_broken_file_links
 - Items/Armours/Adamantite Leggings
@@ -34,14 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Leggings?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Leggings</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Leggings.png"><img alt="Adamantite Leggings.png: Infobox image for Adamantite Leggings the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/adamantite-leggings-ecd057d7b8.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Leggings"><a href="./" title="Adamantite Leggings"></a></span></span></div></div></div>
@@ -166,7 +158,6 @@ Base Tensura reference adapted from [Adamantite Leggings](https://tensura.wiki.g
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Leggings.png">Invicon Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6430</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Leggings.png">Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6940</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Leggings.png">Invicon Pure Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6678</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

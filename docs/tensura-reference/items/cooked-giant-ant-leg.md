@@ -3,7 +3,6 @@ title: Cooked Giant Ant Leg
 description: Cooking a Giant Ant Leg with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Cooked Giant Ant Leg
 ---
 
@@ -87,16 +86,6 @@ tags:
 </td></tr>
 </tbody></table>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Giant_Ant_Leg?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -154,6 +143,5 @@ Base Tensura reference adapted from [Cooked Giant Ant Leg](https://tensura.wiki.
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Leg.png">Invicon Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6516</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 </ul>
 </details>

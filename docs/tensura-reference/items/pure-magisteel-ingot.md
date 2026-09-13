@@ -2,7 +2,6 @@
 title: Pure Magisteel Ingot
 description: Smelting Magic Ore Shard in Kiln Each Pure Magisteel Ingot is made with 9 parts Molten Magisteel. Refining 1 Block of Magic Ore into 2 Pure Magisteel Ingots
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Has_crafting
 ---
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Pure_Magisteel_Ingot?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Pure Magisteel Ingot</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif"><img alt="Pure Magisteel Ingot.gif: Infobox image for Pure Magisteel Ingot the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/pure-magisteel-ingot-32dc9c6e44.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Ingot"><a href="./" title="Pure Magisteel Ingot"></a></span></span></div></div></div>
@@ -224,7 +216,6 @@ Base Tensura reference adapted from [Pure Magisteel Ingot](https://tensura.wiki.
 <details class="reference-media-credits">
 <summary>Media credits (19 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif">Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3980</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>

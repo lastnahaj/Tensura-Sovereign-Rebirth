@@ -2,7 +2,6 @@
 title: Mithril Axe
 description: To craft the weapon, one must have used a Mithril Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Adamantite Axe while having the item in your offhand or equipped
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mithril_Axe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Mithril Axe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Mithril_Axe.png"><img alt="Mithril Axe.png: Infobox image for Mithril Axe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/mithril-axe-c587982ac3.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Mithril Axe"><a href="./" title="Mithril Axe"></a></span></span></div></div></div>
@@ -173,7 +165,6 @@ Base Tensura reference adapted from [Mithril Axe](https://tensura.wiki.gg/wiki/M
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Axe.png">Invicon Mithril Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10334</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Axe.png">Mithril Axe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10342</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>

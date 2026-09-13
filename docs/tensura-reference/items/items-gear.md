@@ -463,10 +463,10 @@ tags: []
 </span>
 </a>
 <a class="reference-related-card" href="../explorer-maps/">
-<img src="../../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/explorer-map.svg" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Explorer Maps</strong>
-<small>Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an…</small>
+<small>Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../giant-ant-carapace/">

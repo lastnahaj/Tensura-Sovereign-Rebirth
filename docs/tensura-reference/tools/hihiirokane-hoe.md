@@ -2,7 +2,6 @@
 title: HihiIrokane Hoe
 description: Obtainable through killing mobs while having Adamantite Hoe in your offhand or equipped To craft the tool, one must have used a HihiIrokane Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Gives the weapon the Tsukumogami Engraving
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/HihiIrokane_Hoe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">HihiIrokane Hoe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Hoe.png"><img alt="HihiIrokane Hoe.png: Infobox image for HihiIrokane Hoe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/hihiirokane-hoe-2028752dc8.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="HihiIrokane Hoe"><a href="./" title="HihiIrokane Hoe"></a></span></span></div></div></div>
@@ -174,7 +166,6 @@ Base Tensura reference adapted from [HihiIrokane Hoe](https://tensura.wiki.gg/wi
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Hoe.png">Invicon HihiIrokane Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10396</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Hoe.png">HihiIrokane Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10407</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Hoe.png">Invicon Adamantite Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10366</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

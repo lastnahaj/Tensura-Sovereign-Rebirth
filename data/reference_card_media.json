@@ -1,4 +1,17 @@
 {
+  "tensura-reference/items/unbound-tome.md": {
+    "asset": "assets/images/items/unbound-tome.svg",
+    "kind": "original"
+  },
+  "tensura-reference/items/explorer-maps.md": {
+    "asset": "assets/images/items/explorer-map.svg",
+    "kind": "original",
+    "summary": "Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins."
+  },
+  "tensura-reference/tools/caster-tools-tutorial.md": {
+    "asset": "assets/images/items/caster-tools.svg",
+    "kind": "original"
+  },
   "tensura-reference/mobs/mobs-arch-daemon.md": "assets/images/mobs/arch-daemon.webp",
   "tensura-reference/mobs/mobs-army-wasp.md": {
     "asset": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",

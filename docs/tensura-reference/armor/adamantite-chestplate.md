@@ -2,7 +2,6 @@
 title: Adamantite Chestplate
 description: Obtainable through killing mobs while having Pure Magisteel Chestplate in your offhand or equipped To craft the armor, one must have used a Adamantite Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. Can evolve into HihiIrokane...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Adamantite Chestplate
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP9.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip9-872368deee.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Chestplate?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Chestplate</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Chestplate.png"><img alt="Adamantite Chestplate.png: Infobox image for Adamantite Chestplate the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/adamantite-chestplate-c0ac92fc3a.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Chestplate"><a href="./" title="Adamantite Chestplate"></a></span></span></div></div></div>
@@ -165,7 +157,6 @@ Base Tensura reference adapted from [Adamantite Chestplate](https://tensura.wiki
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Chestplate.png">Invicon Adamantite Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6428</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP9.png">WIP9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Chestplate.png">Adamantite Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6938</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Chestplate.png">Invicon Pure Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6675</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

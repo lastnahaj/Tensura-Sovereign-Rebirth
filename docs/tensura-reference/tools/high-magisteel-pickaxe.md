@@ -2,7 +2,6 @@
 title: High Magisteel Pickaxe
 description: Obtainable through killing mobs while having Low Magisteel Pickaxe in your offhand or equipped To craft the tool, one must have used a High Magisteel Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Pure Magisteel Pickaxe while having the item in your offhand...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Pickaxe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Pickaxe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Pickaxe.png"><img alt="High Magisteel Pickaxe.png: Infobox image for High Magisteel Pickaxe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/high-magisteel-pickaxe-9e72f9d03d.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Pickaxe"><a href="./" title="High Magisteel Pickaxe"></a></span></span></div></div></div>
@@ -197,7 +189,6 @@ Base Tensura reference adapted from [High Magisteel Pickaxe](https://tensura.wik
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Pickaxe.png">Invicon High Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6543</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Pickaxe.png">High Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7057</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Pickaxe.png">Invicon Low Magisteel Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6601</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

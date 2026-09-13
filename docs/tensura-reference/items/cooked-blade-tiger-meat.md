@@ -2,7 +2,6 @@
 title: Cooked Blade Tiger Meat
 description: Cooking a Raw Blade Tiger Meat with a campfire, furnace, etc
 tags:
-- Work_in_Progress
 - Stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Cooked_Blade_Tiger_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Cooked Blade Tiger Meat</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Cooked_Blade_Tiger_Meat.png"><img alt="Cooked Blade Tiger Meat.png: Infobox image for Cooked Blade Tiger Meat the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/cooked-blade-tiger-meat-000f4880e3.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Blade Tiger Meat"><a href="./" title="Cooked Blade Tiger Meat"></a></span></span></div></div></div>
@@ -140,7 +132,6 @@ Base Tensura reference adapted from [Cooked Blade Tiger Meat](https://tensura.wi
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Blade_Tiger_Meat.png">Invicon Cooked Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6476</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Cooked_Blade_Tiger_Meat.png">Cooked Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6987</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Raw_Blade_Tiger_Meat.png">Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7199</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>

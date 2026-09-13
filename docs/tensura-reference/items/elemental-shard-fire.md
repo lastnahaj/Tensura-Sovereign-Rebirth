@@ -2,7 +2,6 @@
 title: Elemental Shard (Fire))
 description: 'This item can be obtained by killing: Salamander 25% chance, 1 shard Ifrit 100% chance, 1 - 3 shards Can be used to craft an Element Core (Fire)'
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Items/Misc/Elemental Shard (Fire)
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Elemental_Shard_(Fire)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Elemental Shard (Fire)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Fire).png"><img alt="Elemental Shard (Fire).png: Infobox image for Elemental Shard (Fire) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/elemental-shard-fire-59ba882e4b.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Fire)"><a href="./" title="&amp;eElemental Shard (Fire)"></a></span></span></div></div></div>
@@ -136,7 +128,6 @@ Base Tensura reference adapted from [Elemental Shard (Fire)](https://tensura.wik
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Fire).png">Invicon Elemental Shard (Fire).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6811</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Shard_(Fire).png">Elemental Shard (Fire).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7021</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Fire).gif">Elemental Core (Fire).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2324</li>
 </ul>

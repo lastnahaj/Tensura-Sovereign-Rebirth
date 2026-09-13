@@ -2,7 +2,6 @@
 title: Meat Crusher
 description: +50 Sweep Chance +0.5 Attack Range Holding right click and releasing it when fully charge deals a heavy blow which deals 26 damage but also deals Corrosion damage for ~2 seconds(40 ticks)
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Meat_Crusher?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Meat Crusher</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Meat_Crusher.png"><img alt="Meat Crusher.png: Infobox image for Meat Crusher the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/meat-crusher-893fe05045.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Meat Crusher"><a href="./" title="Meat Crusher"></a></span></span></div></div></div>
@@ -149,7 +141,6 @@ Base Tensura reference adapted from [Meat Crusher](https://tensura.wiki.gg/wiki/
 <summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Meat_Crusher.png">Invicon Meat Crusher.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6613</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Meat_Crusher.png">Meat Crusher.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7131</li>
 </ul>
 </details>

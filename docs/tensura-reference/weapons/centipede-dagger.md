@@ -2,7 +2,6 @@
 title: Centipede Dagger
 description: +0.1% Critical Chance -1 Attack Range Applies Paralysis (??? seconds) To craft the weapon, one must have used a ???. To craft, you need a Smithing Bench. Deals damage to mobs... and paralyses them P.S. (don't try to use this on any mobs with Paralysis Resistance though...)
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Centipede_Dagger?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Centipede Dagger</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Centipede_Dagger.png"><img alt="Centipede Dagger.png: Infobox image for Centipede Dagger the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/centipede-dagger-39c9fca841.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Centipede Dagger"><a href="./" title="Centipede Dagger"></a></span></span></div></div></div>
@@ -169,7 +161,6 @@ Base Tensura reference adapted from [Centipede Dagger](https://tensura.wiki.gg/w
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Dagger.png">Invicon Centipede Dagger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6465</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Centipede_Dagger.png">Centipede Dagger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6975</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Stinger.png">Invicon Centipede Stinger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6466</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

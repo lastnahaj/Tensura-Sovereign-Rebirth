@@ -113,7 +113,7 @@ Allows Crafting of Golden tools/armor
 <img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Greater Holy Water</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>

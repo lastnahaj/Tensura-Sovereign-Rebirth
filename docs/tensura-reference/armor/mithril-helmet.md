@@ -2,7 +2,6 @@
 title: Mithril Helmet
 description: To craft the armor, one must have used a Mithril Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. As unique property it has Holy Coat 2 (due to it being made out of mithril). This will be passed down to its evolution. Can evolve...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Pages_with_broken_file_links
 ---
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP4.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip4-1a799741e7.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Mithril_Helmet?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Mithril Helmet</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Mithril_Helmet.png"><img alt="Mithril Helmet.png: Infobox image for Mithril Helmet the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/mithril-helmet-2ad551e0da.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Mithril Helmet"><a href="./" title="Mithril Helmet"></a></span></span></div></div></div>
@@ -164,7 +156,6 @@ Base Tensura reference adapted from [Mithril Helmet](https://tensura.wiki.gg/wik
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Helmet.png">Invicon Mithril Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6621</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Helmet.png">Mithril Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7139</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>

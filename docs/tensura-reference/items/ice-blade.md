@@ -2,7 +2,6 @@
 title: Ice Blade
 description: +0.25 Sweep To craft, you need a Smithing Bench and have used High Magisteel Gear Schematic, and Long Sword Schematic Stab mobs, frosty stab
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Pages_with_broken_file_links
 ---
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP6.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Ice_Blade?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Ice Blade</div>
 <div class="infobox-imagearea animated-container"><div>[[File:<span class="nowrap"><span class="sprite-file"><a href="./" title="Ice Blade"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">Ice Blade</span></a></span>|160px|class=pixel-image|alt=<span class="nowrap"><span class="sprite-file"><a href="./" title="Ice Blade"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">Ice Blade</span></a></span>: Infobox image for Ice Blade the item in Minecraft]]</div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Ice Blade"><a href="./" title="Ice Blade"></a></span></span></div></div></div>
@@ -129,7 +121,7 @@ tags:
 <img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hot Spring Water Bucket</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../insectar-carapace/">
@@ -143,7 +135,7 @@ tags:
 <img src="../../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Water</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../invisible-feather/">
@@ -166,7 +158,6 @@ Base Tensura reference adapted from [Ice Blade](https://tensura.wiki.gg/wiki/Ice
 <summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Ice_Blade.png">Invicon Ice Blade.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6565</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 </ul>

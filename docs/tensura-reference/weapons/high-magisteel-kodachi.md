@@ -3,7 +3,6 @@ title: High Magisteel Kodachi
 description: '+20% Critical Chance +100 Sweeping Chance -0.75 Attack Range Obtainable through killing mobs while having Low Magisteel Kodachi in your offhand or equipped To craft the weapon, one must have used the following schematics: High Magisteel Gear Schematic, Short Sword Schematic and a Japanese Schematic.'
 tags:
 - Pages_using_duplicate_arguments_in_template_calls
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Kodachi?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Kodachi</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Kodachi.png"><img alt="High Magisteel Kodachi.png: Infobox image for High Magisteel Kodachi the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/high-magisteel-kodachi-4d1031e4c5.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Kodachi"><a href="./" title="High Magisteel Kodachi"></a></span></span></div></div></div>
@@ -189,7 +181,6 @@ Base Tensura reference adapted from [High Magisteel Kodachi](https://tensura.wik
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Kodachi.png">Invicon High Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6538</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Kodachi.png">High Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7052</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Kodachi.png">Invicon Low Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6596</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

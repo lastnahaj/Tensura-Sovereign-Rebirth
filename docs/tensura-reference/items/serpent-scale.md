@@ -149,7 +149,7 @@ A slippery scale from the skin of <a href="../../mobs/mobs-tempest-serpent/" tit
 <img src="../../../assets/upstream/tensura/items/cs5-d00a5bad58.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Revival Elixir</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-shield-schematic/">

@@ -2,7 +2,6 @@
 title: Grimoire(A)
 description: A semi-high level grimoire for casting magic. Grimoire (A) can hold 6 magics and cast these magics using its own EP. Chant speed increase = 15 Cooldown = 15 ticks Can be found in all type of wizard towers Uncraftable
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Grimoire(A)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Grimoire(A)</div>
 <div class="infobox-imagearea animated-container">
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Grimoire(A)"><a href="./" title="Grimoire(A)"></a></span></span></div></div></div>
@@ -101,7 +93,7 @@ Cooldown = 15 ticks<br/>
 <img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Greater Holy Water</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../grimoire-b/">
@@ -138,6 +130,5 @@ Base Tensura reference adapted from [Grimoire(A)](https://tensura.wiki.gg/wiki/G
 <summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(A).png">Invicon Grimoire(A).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12806</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
 </ul>
 </details>

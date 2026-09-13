@@ -2,7 +2,6 @@
 title: Monster Leather Chestplate (A)
 description: Obtainable through killing mobs while having Monster Leather Chestplate (B) in your offhand or equiped To craft the armor, one must have used a Monster Leather Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks. Can evolve into Monster...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Monster Leather Chestplate (A)
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Monster_Leather_Chestplate_(A)?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Monster Leather Chestplate (A)</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Chestplate_(A).png"><img alt="Monster Leather Chestplate (A).png: Infobox image for Monster Leather Chestplate (A) the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/monster-leather-chestplate-a-c1fa3ea9c3.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Monster Leather Chestplate (A)"><a href="./" title="Monster Leather Chestplate (A)"></a></span></span></div></div></div>
@@ -165,7 +157,6 @@ Base Tensura reference adapted from [Monster Leather Chestplate (A)](https://ten
 <summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(A).png">Invicon Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6828</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Chestplate_(A).png">Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7149</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>

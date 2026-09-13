@@ -2,7 +2,6 @@
 title: Hihi'irokane Boots
 description: Obtainable through killing mobs while having Adamantite Boots in your offhand or equipped To craft the armor, one must have used a Hihi'Irokane Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/HihiIrokane_Boots?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">HihiIrokane Boots</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Boots.png"><img alt="HihiIrokane Boots.png: Infobox image for HihiIrokane Boots the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/hihiirokane-boots-a6bc1247f8.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="HihiIrokane Boots"><a href="./" title="HihiIrokane Boots"></a></span></span></div></div></div>
@@ -166,7 +158,6 @@ Base Tensura reference adapted from [HihiIrokane Boots](https://tensura.wiki.gg/
 <summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Boots.png">Invicon HihiIrokane Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6817</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Boots.png">HihiIrokane Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7067</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Boots.png">Adamantite Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6937</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

@@ -2,7 +2,6 @@
 title: Misc
 description: Base Tensura reference for Misc.
 tags:
-- Work_in_Progress
 - Pages_with_broken_file_links
 ---
 
@@ -36,14 +35,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Misc?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p><br/>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
 <h2><span class="mw-headline" id="Unprocessed">Unprocessed</span></h2>
 <table>
@@ -210,9 +202,6 @@ tags:
 <td><span class="nowrap"><span class="sprite-file"><a href="../items-misc-hot-spring-water-bucket/" title="Hot Spring Water Bucket"></a></span> <a class="mw-redirect" href="../items-misc-hot-spring-water-bucket/" title="Hot Spring Water Bucket"><span class="sprite-text">Hot Spring Water Bucket</span></a></span></td>
 <td></td>
 <td></td>
-<td><span class="nowrap"><span class="sprite-file"><a href="../explorer-maps/" title="Labyrinth Explorer Map"></a></span> <a class="mw-redirect" href="../explorer-maps/" title="Labyrinth Explorer Map"><span class="sprite-text">Labyrinth Explorer Map</span></a></span></td>
-<td></td>
-<td></td>
 <td><span class="nowrap"><span class="sprite-file"><a href="../explorer-maps/" title="Hell Gate Explorer Map"></a></span> <a class="mw-redirect" href="../explorer-maps/" title="Hell Gate Explorer Map"><span class="sprite-text">Hell Gate Explorer Map</span></a></span>
 </td></tr></tbody></table>
 <h2><span class="mw-headline" id="Reset_Scrolls">Reset Scrolls</span></h2>
@@ -281,7 +270,6 @@ Base Tensura reference adapted from [Items/Misc](https://tensura.wiki.gg/wiki/It
 <details class="reference-media-credits">
 <summary>Media credits (53 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Silver.png">Invicon Raw Silver.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6685</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Nugget.png">Invicon Silver Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6714</li>
@@ -329,7 +317,6 @@ Base Tensura reference adapted from [Items/Misc](https://tensura.wiki.gg/wiki/It
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Saddle.png">Invicon Monster Saddle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6648</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_In_A_Bucket.png">Invicon Slime In A Bucket.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6730</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hot_Spring_Water_Bucket.png">Invicon Hot Spring Water Bucket.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6564</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png">Invicon Labyrinth Explorer Map.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9943</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hell_Gate_Explorer_Map.png">Invicon Hell Gate Explorer Map.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9944</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Race_Reset_Scroll.png">Invicon Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3103</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Skill_Reset_Scroll.png">Invicon Skill Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3100</li>

@@ -2,7 +2,6 @@
 title: Hihi'irokane Helmet
 description: Obtainable through killing mobs while having Adamantite Helmet or Orichalcum Helmet in your offhand or equipped To craft the armor, one must have used a Hihi'Irokane Gear Schematic. To craft, you need a Smithing Bench. Gives armor points to help defend the user against incoming attacks.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Hihi'irokane Helmet
 ---
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/HihiIrokane_Helmet?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">HihiIrokane Helmet</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Hihi'irokane_Helmet.png"><img alt="HihiIrokane Helmet.png: Infobox image for HihiIrokane Helmet the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/armor/hihi-irokane-helmet-35e626a8b6.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="HihiIrokane Helmet"><a href="./" title="HihiIrokane Helmet"></a></span></span></div></div></div>
@@ -169,7 +161,6 @@ Base Tensura reference adapted from [HihiIrokane Helmet](https://tensura.wiki.gg
 <summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Helmet.png">Invicon HihiIrokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6815</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hihi&#x27;irokane_Helmet.png">Hihi&#x27;irokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Helmet.png">Invicon Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6429</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Helmet.png">Invicon Orichalcum Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6665</li>

@@ -1,27 +1,26 @@
 ---
 title: Explorer Maps
-description: Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an option. The trade costs 5 - 15 Gold Coin. And they can also have a chance to have a Charybdis Cave Explorer Map, this trade cost 5 - 25 Gold Coin. For more context, take a look at the Explorer...
+description: Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Hell Gate Explorer Map
-- Labyrinth Explorer Map
+- Charybdis Cave Explorer Map
 ---
 
 # Explorer Maps
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
 
-**Also known as:** Hell Gate Explorer Map, Labyrinth Explorer Map
+**Also known as:** Hell Gate Explorer Map, Charybdis Cave Explorer Map
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" alt="Explorer Maps source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png">Invicon Labyrinth Explorer Map.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/items/explorer-map.svg" alt="Illustrated explorer map" loading="eager" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an option. The trade costs 5 - 15 Gold Coin . And they can also have a chance to have a Charybdis Cave Explorer Map, this trade cost 5 - 25 Gold Coin .</p>
+<p>Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Obtainment">Obtainment</a>
 <a href="#Usage">Usage</a>
@@ -34,16 +33,9 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Explorer_Maps?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Explorer Maps</div>
-<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png"><img alt="Invicon_Labyrinth_Explorer_Map.png: Infobox image for Explorer Maps the item in Minecraft" class="pixel-image" data-file-height="160" data-file-width="160" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" width="160"/></a></div>
+<div class="infobox-imagearea animated-container"><div><img alt="Explorer map" class="pixel-image" decoding="async" height="160" loading="lazy" src="../../../assets/images/items/explorer-map.svg" width="160"/></div>
 </div>
 <table cellpadding="4" cellspacing="1" class="infobox-rows">
 <tbody><tr>
@@ -73,8 +65,7 @@ tags:
 <p><br/>
 </p>
 <h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<p>Master level <a class="text" href="../../mobs/mobs-dwarf/">Dwarf Cartographer</a> have a chance to have a <a href="../../structures/structures-hell-gate/" title="Structures/Hell Gate">Hell Gate</a> Explorer Map or a <a href="../../structures/structures-labyrinth-tree/" title="Structures/Labyrinth Tree">Labyrinth</a> Explorer Map as an option. The trade costs 5 - 15 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Gold_Coin" title="Gold Coin"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Gold_Coin?action=edit&amp;redlink=1" rel="nofollow" title="Gold Coin (page does not exist)"><span class="sprite-text">Gold Coin</span></a></span>. And they can also have a chance to have a <a href="../../structures/structures-charybdis-cave/" title="Structures/Charybdis Cave">Charybdis Cave</a> Explorer Map, this trade cost 5 - 25 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Gold_Coin" title="Gold Coin"></a></span> <a class="new" href="https://tensura.wiki.gg/wiki/Gold_Coin?action=edit&amp;redlink=1" rel="nofollow" title="Gold Coin (page does not exist)"><span class="sprite-text">Gold Coin</span></a></span>.
-</p>
+<p>Master-level <a class="text" href="../../mobs/mobs-dwarf/">Dwarf Cartographers</a> can offer a <a href="../../structures/structures-hell-gate/" title="Structures/Hell Gate">Hell Gate</a> Explorer Map for 5–15 Gold Coins or a <a href="../../structures/structures-charybdis-cave/" title="Structures/Charybdis Cave">Charybdis Cave</a> Explorer Map for 5–25 Gold Coins.</p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <p>For more context, take a look at the <a class="external text" href="https://minecraft.wiki/w/Explorer_Map" rel="nofollow">Explorer Map</a> page on the Minecraft wiki.
 </p>
@@ -133,8 +124,6 @@ Base Tensura reference adapted from [Explorer Maps](https://tensura.wiki.gg/wiki
 <details class="reference-media-credits">
 <summary>Media credits (3 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Labyrinth_Explorer_Map.png">Invicon Labyrinth Explorer Map.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9943</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Coin.png">Invicon Gold Coin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6519</li>
 </ul>
 </details>

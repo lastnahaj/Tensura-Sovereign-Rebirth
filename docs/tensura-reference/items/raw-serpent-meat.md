@@ -3,7 +3,6 @@ title: Raw Serpent Meat
 description: Killing/Defeating a Tempest Serpent Cooking a Raw Serpent Meat with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Raw Serpent Meat
 ---
 
@@ -89,16 +88,6 @@ tags:
 <td><div><span class="mcui mcui-Furnace pixel-image"><span class="mcui-input"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Raw Serpent Meat"><a href="./" title="Raw Serpent Meat"></a></span></span><span class="mcui-fuel"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Coal"><a href="https://minecraft.wiki/w/Coal" title="Coal"></a></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Serpent Meat"><a href="../cooked-serpent-meat/" title="Cooked Serpent Meat"></a></span></span></span></span></div>
 </td></tr>
 </tbody></table>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP8.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip8-07d11235b3.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Serpent_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -157,6 +146,5 @@ Base Tensura reference adapted from [Raw Serpent Meat](https://tensura.wiki.gg/w
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Serpent_Meat.png">Invicon Cooked Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6483</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
 </ul>
 </details>

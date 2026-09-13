@@ -1,6 +1,6 @@
 ---
 title: Holy Milk Bucket
-description: This page is a Work In Progress!!! Big Things Coming Soon!!
+description: The upstream reference does not yet document this item's obtainment or use.
 tags:
 - Items/Consumables/Holy Milk Bucket
 ---
@@ -18,7 +18,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
 <button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
@@ -30,7 +30,7 @@ tags:
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="hide-content-template">
 <div class="center"><div class="floatnone"><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:CS8.png"><img alt="Coming Soon" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" width="512"/></a></div></div><br/>
 <div>
-<p><big><big><b>This page is a Work In Progress!!!</b><br/></big></big>
+<p><big><big><b>The upstream reference does not yet document this item's obtainment or use.</b><br/></big></big>
 <big><b>Big Things Coming Soon!!</b></big>
 </p>
 </div></div>
@@ -50,14 +50,14 @@ tags:
 <img src="../../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Milk</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../holy-water/">
 <img src="../../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Holy Water</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hipokute-seeds/">
@@ -71,7 +71,7 @@ tags:
 <img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hot Spring Water Bucket</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>

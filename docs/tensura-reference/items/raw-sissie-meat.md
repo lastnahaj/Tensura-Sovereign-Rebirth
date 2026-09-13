@@ -3,7 +3,6 @@ title: Raw Sissie Meat
 description: Killing/Defeating a Sissie Cooking a Raw Sissie Meat with a campfire, furnace, etc
 tags:
 - Stackable_resources
-- Work_in_Progress
 - Items/Consumables/Raw Sissie Meat
 ---
 
@@ -89,16 +88,6 @@ tags:
 <td><div><span class="mcui mcui-Furnace pixel-image"><span class="mcui-input"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Raw Sissie Meat"><a href="./" title="Raw Sissie Meat"></a></span></span><span class="mcui-fuel"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Coal"><a href="https://minecraft.wiki/w/Coal" title="Coal"></a></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Cooked Sissie Meat"><a href="../cooked-sissie-meat/" title="Cooked Sissie Meat"></a></span></span></span></span></div>
 </td></tr>
 </tbody></table>
-<div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Raw_Sissie_Meat?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-
-
-
 </div>
 </div>
 
@@ -136,7 +125,7 @@ tags:
 <img src="../../../assets/upstream/tensura/items/cs5-d00a5bad58.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Revival Elixir</strong>
-<small>This page is a Work In Progress!!! Big Things Coming Soon!!</small>
+<small>The upstream reference does not yet document this item's obtainment or use.</small>
 </span>
 </a>
 </div>
@@ -157,6 +146,5 @@ Base Tensura reference adapted from [Raw Sissie Meat](https://tensura.wiki.gg/wi
 <li><a href="https://tensura.wiki.gg/wiki/File:Hunger_(icon).png">Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7509</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Sissie_Meat.png">Invicon Cooked Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6485</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 </ul>
 </details>

@@ -2,7 +2,6 @@
 title: Adamantite Nugget
 description: Smelting Adamantite armor/gear
 tags:
-- Work_in_Progress
 - Stackable_resources
 - Has_crafting
 - Items/Misc/Adamantite Nugget
@@ -34,14 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Adamantite_Nugget?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Adamantite Nugget</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Adamantite_Nugget.gif"><img alt="Adamantite Nugget.gif: Infobox image for Adamantite Nugget the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/adamantite-nugget-c5e0f4382f.gif" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Adamantite Nugget"><a href="./" title="Adamantite Nugget"></a></span></span></div></div></div>
@@ -157,7 +149,6 @@ Base Tensura reference adapted from [Adamantite Nugget](https://tensura.wiki.gg/
 <details class="reference-media-credits">
 <summary>Media credits (4 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Nugget.gif">Adamantite Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4170</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Nugget.gif">Invicon Adamantite Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4169</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>

@@ -2,7 +2,6 @@
 title: Wonder Pierrot Mask
 description: To craft the Wonder Pierrot Mask, one must have used a Pierrot Mask Schematic. To craft, you need a Smithing Bench.
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 - Items/Armours/Wonder Pierrot Mask
 ---
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP1.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip1-9972ad06ff.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Wonder_Pierrot_Mask?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Wonder Pierrot Mask</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Wonder_Pierrot_Mask.png"><img alt="Wonder Pierrot Mask.png: Infobox image for Wonder Pierrot Mask the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/wonder-pierrot-mask-dfb44664b7.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="&amp;6Wonder Pierrot Mask"><a href="./" title="&amp;6Wonder Pierrot Mask"></a></span></span></div></div></div>
@@ -155,7 +147,6 @@ Base Tensura reference adapted from [Wonder Pierrot Mask](https://tensura.wiki.g
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wonder_Pierrot_Mask.png">Invicon Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6776</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP1.png">WIP1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4710</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Wonder_Pierrot_Mask.png">Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7293</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pierrot_Mask_Schematic.png">Pierrot Mask Schematic.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13245</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Clay_Ball.gif">Invicon Clay Ball.gif</a> — CC BY-SA 4.0; uploaded by Deiiku; revision 9266</li>

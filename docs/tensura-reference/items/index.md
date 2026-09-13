@@ -282,7 +282,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="bulldeer milk bucket this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="B" data-search="bulldeer milk bucket The upstream reference does not yet document this item's obtainment or use.">
 <a href="bulldeer-milk-bucket/" aria-label="Open Bulldeer Milk Bucket">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
@@ -291,7 +291,7 @@
 <div class="reference-card-copy">
 <h2>Bulldeer Milk Bucket</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -957,16 +957,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="E" data-search="explorer maps master level dwarf cartographer have a chance to have a hell gate explorer map or a labyrinth explorer map as an option. the trade costs 5 - 15 gold coin . and they can…">
+<article class="reference-card" data-letter="E" data-search="explorer maps master-level dwarf cartographers can offer maps to hell gates for 5–15 gold coins or charybdis caves for 5–25 gold coins.">
 <a href="explorer-maps/" aria-label="Open Explorer Maps">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-labyrinth-explorer-map-ae893d8777.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<img src="../../assets/images/items/explorer-map.svg" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Explorer Maps</h2>
 
-<p>Master level Dwarf Cartographer have a chance to have a Hell Gate Explorer Map or a Labyrinth Explorer Map as an option. The trade costs 5 - 15 Gold Coin . And they can…</p>
+<p>Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1092,7 +1092,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="greater holy water this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="G" data-search="greater holy water The upstream reference does not yet document this item's obtainment or use.">
 <a href="greater-holy-water/" aria-label="Open Greater Holy Water">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/items/greater-holy-water.webp" alt="" loading="lazy" decoding="async">
@@ -1101,7 +1101,7 @@
 <div class="reference-card-copy">
 <h2>Greater Holy Water</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1377,7 +1377,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="holy milk this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="H" data-search="holy milk The upstream reference does not yet document this item's obtainment or use.">
 <a href="holy-milk/" aria-label="Open Holy Milk">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
@@ -1386,13 +1386,13 @@
 <div class="reference-card-copy">
 <h2>Holy Milk</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="holy milk bucket this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="H" data-search="holy milk bucket The upstream reference does not yet document this item's obtainment or use.">
 <a href="holy-milk-bucket/" aria-label="Open Holy Milk Bucket">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
@@ -1401,13 +1401,13 @@
 <div class="reference-card-copy">
 <h2>Holy Milk Bucket</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="holy water this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="H" data-search="holy water The upstream reference does not yet document this item's obtainment or use.">
 <a href="holy-water/" aria-label="Open Holy Water">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
@@ -1416,13 +1416,13 @@
 <div class="reference-card-copy">
 <h2>Holy Water</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hot spring water bucket this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="H" data-search="hot spring water bucket The upstream reference does not yet document this item's obtainment or use.">
 <a href="items-misc-hot-spring-water-bucket/" aria-label="Open Hot Spring Water Bucket">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
@@ -1431,7 +1431,7 @@
 <div class="reference-card-copy">
 <h2>Hot Spring Water Bucket</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2287,7 +2287,7 @@
 <h2>Phantaspore</h2>
 
 <p>Upstream reference information for Phantaspore.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>ANY Forest , Mushroom Fields , Warped Forest , Crimson Forest , Ancient Forest</dd><dt>Common</dt><dd>Poison Hypnosis</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>ANY Forest</span><span>Mushroom Fields</span><span>Warped Forest</span><span>Crimson Forest</span><span>Ancient Forest</span></span></dd><dt>Common</dt><dd>Poison Hypnosis</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -2517,7 +2517,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="R" data-search="revival elixir this page is a work in progress!!! big things coming soon!!">
+<article class="reference-card" data-letter="R" data-search="revival elixir The upstream reference does not yet document this item's obtainment or use.">
 <a href="revival-elixir/" aria-label="Open Revival Elixir">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/tensura/items/cs5-d00a5bad58.png" alt="" loading="lazy" decoding="async">
@@ -2526,7 +2526,7 @@
 <div class="reference-card-copy">
 <h2>Revival Elixir</h2>
 
-<p>This page is a Work In Progress!!! Big Things Coming Soon!!</p>
+<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2880,8 +2880,8 @@
 <article class="reference-card" data-letter="U" data-search="unbound tome can only be found not crafted.">
 <a href="unbound-tome/" aria-label="Open Unbound Tome">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<img src="../../assets/images/items/unbound-tome.svg" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Unbound Tome</h2>

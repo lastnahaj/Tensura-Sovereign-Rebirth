@@ -2,7 +2,6 @@
 title: High Magisteel Spear
 description: +2 Attack Range Obtainable through killing mobs while having Low Magisteel Spear in your offhand or equipped To craft the weapon, one must have used a High Magisteel Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Pure Magisteel Spear while having the item in...
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP3.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip3-a83b464c87.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Spear?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Spear</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Spear.png"><img alt="High Magisteel Spear.png: Infobox image for High Magisteel Spear the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/weapons/high-magisteel-spear-b572441607.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Spear"><a href="./" title="High Magisteel Spear"></a></span></span></div></div></div>
@@ -186,7 +178,6 @@ Base Tensura reference adapted from [High Magisteel Spear](https://tensura.wiki.
 <summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Spear.png">Invicon High Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6548</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP3.png">WIP3.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4720</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Spear.png">High Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7062</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Spear.png">Invicon Low Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6606</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

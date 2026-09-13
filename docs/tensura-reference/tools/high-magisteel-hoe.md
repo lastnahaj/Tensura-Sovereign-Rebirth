@@ -2,7 +2,6 @@
 title: High Magisteel Hoe
 description: Obtainable through killing mobs while having Low Magisteel Hoe in your offhand or equipped To craft the tool, one must have used a High Magisteel Gear Schematic. To craft, you need a Smithing Bench. Deals damage to mobs Can evolve into Pure Magisteel Hoe while having the item in your offhand or equipped
 tags:
-- Work_in_Progress
 - Non-stackable_resources
 ---
 
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/High_Magisteel_Hoe?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">High Magisteel Hoe</div>
 <div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Hoe.png"><img alt="High Magisteel Hoe.png: Infobox image for High Magisteel Hoe the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/high-magisteel-hoe-944e63c5e6.png" width="160"/></a></div>
 <div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Magisteel Hoe"><a href="./" title="High Magisteel Hoe"></a></span></span></div></div></div>
@@ -197,7 +189,6 @@ Base Tensura reference adapted from [High Magisteel Hoe](https://tensura.wiki.gg
 <summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Hoe.png">Invicon High Magisteel Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6536</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Hoe.png">High Magisteel Hoe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7049</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Hoe.png">Invicon Low Magisteel Hoe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13081</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>

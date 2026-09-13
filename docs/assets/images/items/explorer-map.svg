@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Explorer Map</title>
+  <desc id="desc">A marked fantasy map pointing toward a gate and a monster cave.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071729"/><stop offset="1" stop-color="#16334a"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7e8ad"/><stop offset="1" stop-color="#cba967"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  <path d="m75 130 112-40 137 40 113-40v291l-113 41-137-41-112 41z" fill="url(#paper)" stroke="#55d9ff" stroke-width="9"/>
+  <path d="M187 90v291M324 130v292" fill="none" stroke="#99773f" stroke-width="6" opacity=".6"/>
+  <path d="M111 320c65-91 127 31 190-77 24-41 58-58 101-57" fill="none" stroke="#4b8fa3" stroke-width="13" stroke-linecap="round" stroke-dasharray="2 24"/>
+  <path d="M111 320c65-91 127 31 190-77 24-41 58-58 101-57" fill="none" stroke="#153948" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 24"/>
+  <g stroke="#5b3a2a" stroke-width="10" stroke-linecap="round">
+    <path d="M105 190h56v69M105 259v-69M161 259v-69" fill="none"/>
+    <path d="M118 190v-35h30v35" fill="#d96f3c"/>
+  </g>
+  <path d="M357 325c0-45 66-45 66 0v47h-66z" fill="#273443" stroke="#5b3a2a" stroke-width="9"/>
+  <circle cx="375" cy="343" r="6" fill="#ff5757" filter="url(#glow)"/><circle cx="405" cy="343" r="6" fill="#ff5757" filter="url(#glow)"/>
+  <g stroke="#d94655" stroke-width="12" stroke-linecap="round" filter="url(#glow)"><path d="m246 178 34 34M280 178l-34 34"/></g>
+  <path d="M88 407c109-39 225 72 336 0" fill="none" stroke="#6d4d2d" stroke-width="10" opacity=".6"/>
+</svg>

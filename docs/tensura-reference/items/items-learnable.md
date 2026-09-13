@@ -3,7 +3,6 @@ title: Learnable
 description: Battlewills are skills equal to magic that use aura instead of magicules. See Battlewill Manual for all possible battlewills Magic Tomes are books (just like battlewills) that upon usage, teaches you the Aspectual Magic that it contained. After doing so, the book is consumed. Magic Tome File:Invicon...
 tags:
 - Pages_using_duplicate_arguments_in_template_calls
-- Work_in_Progress
 - Pages_with_broken_file_links
 - Items/Schematics
 ---
@@ -35,14 +34,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Items/Learnable?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p><br/>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
 
 <h2><span class="mw-headline" id="Battlewills">Battlewills</span></h2>
@@ -226,7 +218,6 @@ Base Tensura reference adapted from [Items/Learnable](https://tensura.wiki.gg/wi
 <details class="reference-media-credits">
 <summary>Media credits (40 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Battlewill_Manual.png">Invicon Battlewill Manual.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6452</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13290</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kunai_Schematic.png">Invicon Kunai Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12032</li>
