@@ -6,7 +6,8 @@
 <h1>Biomes</h1>
 <p>Documented biomes and biome-specific behavior.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>8</strong> articles</span>
+<span class="reference-count"><strong>7</strong> articles</span>
+<a class="reference-directory-overview-link" href="structures-and-biomes/">Read collection overview <span aria-hidden="true">→</span></a>
 </div>
 </div>
 </header>
@@ -24,10 +25,10 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 8 of 8 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 7 of 7 articles</p>
 </div>
 <div class="reference-card-grid">
-<article class="reference-card" data-letter="D" data-search="dark biome shadow imp wither skeleton">
+<article class="reference-card" data-letter="D" data-search="dark biome an elemental-realm biome populated by shadow imps and wither skeletons.">
 <a href="structures-and-biomes-dark-biome/" aria-label="Open Dark Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/dark-biome-895efd6cde.png" alt="" loading="lazy" decoding="async">
@@ -35,12 +36,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Dark Biome</h2>
-<p>Shadow Imp Wither Skeleton</p>
+
+<p>An elemental-realm biome populated by Shadow Imps and Wither Skeletons.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="E" data-search="earth biome beast gnomes war gnomes (rare chance)">
+<article class="reference-card" data-letter="E" data-search="earth biome an elemental-realm biome populated by beast gnomes, with rare war gnomes.">
 <a href="structures-and-biomes-earth-biome/" aria-label="Open Earth Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/earth-biome-a682dcadee.png" alt="" loading="lazy" decoding="async">
@@ -48,12 +51,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Earth Biome</h2>
-<p>Beast Gnomes War Gnomes (Rare chance)</p>
+
+<p>An elemental-realm biome populated by Beast Gnomes, with rare War Gnomes.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="F" data-search="fire biome blaze salamander ifrit (rare chance)">
+<article class="reference-card" data-letter="F" data-search="fire biome an elemental-realm biome populated by blazes and salamanders, with rare ifrits.">
 <a href="structures-and-biomes-fire-biome/" aria-label="Open Fire Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/fire-biome-ead4504af1.png" alt="" loading="lazy" decoding="async">
@@ -61,12 +66,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Fire Biome</h2>
-<p>Blaze Salamander Ifrit (Rare chance)</p>
+
+<p>An elemental-realm biome populated by Blazes and Salamanders, with rare Ifrits.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="light biome winged lion wither skeleton">
+<article class="reference-card" data-letter="L" data-search="light biome an elemental-realm biome populated by winged lions and wither skeletons.">
 <a href="structures-and-biomes-light-biome/" aria-label="Open Light Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/light-biome-a74478c8ea.png" alt="" loading="lazy" decoding="async">
@@ -74,12 +81,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Light Biome</h2>
-<p>Winged Lion Wither Skeleton</p>
+
+<p>An elemental-realm biome populated by Winged Lions and Wither Skeletons.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="space biome spawning area for medium and greater spirits of space">
+<article class="reference-card" data-letter="S" data-search="space biome the elemental-realm spawning area for medium and greater space spirits.">
 <a href="structures-and-biomes-space-biome/" aria-label="Open Space Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/space-biome-fb41cdebe6.png" alt="" loading="lazy" decoding="async">
@@ -87,25 +96,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Space Biome</h2>
-<p>Spawning area for medium and greater spirits of space</p>
+
+<p>The elemental-realm spawning area for medium and greater space spirits.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="structures and biomes upstream reference information for structures and biomes.">
-<a href="structures-and-biomes/" aria-label="Open Structures and Biomes">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Structures and Biomes</h2>
-<p>Upstream reference information for Structures and Biomes.</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="W" data-search="water biome landfish aqua frog undine (rare chance)">
+<article class="reference-card" data-letter="W" data-search="water biome an elemental-realm biome populated by landfish and aqua frogs, with rare undines.">
 <a href="structures-and-biomes-water-biome/" aria-label="Open Water Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/water-biome-c602cba8eb.png" alt="" loading="lazy" decoding="async">
@@ -113,12 +111,14 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Water Biome</h2>
-<p>Landfish Aqua Frog Undine (Rare Chance)</p>
+
+<p>An elemental-realm biome populated by Landfish and Aqua Frogs, with rare Undines.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="W" data-search="wind biome dragon peacock feathered serpent sylphide (rare chance)">
+<article class="reference-card" data-letter="W" data-search="wind biome an elemental-realm biome populated by dragon peacocks and feathered serpents, with rare sylphides.">
 <a href="structures-and-biomes-wind-biome/" aria-label="Open Wind Biome">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../assets/upstream/mysticism/biomes/wind-biome-ec10b1f6fb.png" alt="" loading="lazy" decoding="async">
@@ -126,7 +126,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Wind Biome</h2>
-<p>Dragon Peacock Feathered Serpent Sylphide (Rare Chance)</p>
+
+<p>An elemental-realm biome populated by Dragon Peacocks and Feathered Serpents, with rare Sylphides.</p>
+
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

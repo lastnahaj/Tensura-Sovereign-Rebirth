@@ -1,6 +1,6 @@
 ---
 title: Ancient Forest
-description: A rare biome with high magicule count, and home of the Spirit Tree. Hipokute Flower is more likely to spawn here, and can also be farmed in this biome Medium spirits that spawn have a slight chance to be spawned as a greater spirit instead Giant Trees in this biome have a chance to spawn with a portal...
+description: "A high-magicule forest surrounding the Spirit Tree, with rare plants, spirits, and giant-tree portals."
 tags:
 - Pages_with_broken_file_links
 ---
@@ -16,7 +16,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>A rare biome with high magicule count, and home of the Spirit Tree .</p>
+<p>A high-magicule forest surrounding the Spirit Tree, with rare plants, spirits, and giant-tree portals.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Description">Description</a>
 </nav>
@@ -50,29 +50,21 @@ tags:
 <a href="../">Browse all Biomes</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../biomes/">
-<img src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Biomes</strong>
-<small>Ancient Forest Miasmic Plains Barren Lands Desert Of Death</small>
-</span>
-</a>
 <a class="reference-related-card" href="../biomes-barren-lands/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/barren-lands.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Barren Lands</strong>
 <small>As the name implies, there is nothing</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-desert-of-death/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/desert-of-death.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Desert of Death</strong>
-<small>Only the strong survive.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-miasmic-plains/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/miasmic-plains.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Miasmic Plains</strong>
 <small>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</small>

@@ -117,6 +117,9 @@ assert mysticism_build['version'] == '2.1.2' and mysticism_build['minecraft'] ==
 assert mysticism_build['sha1'] in pack_manifest and 'file-id = 8379529' in pack_manifest, 'Mysticism pack selection changed'
 for local_page, expected_content in generate_mysticism_world().items():
     assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale page: {local_page}'
+from sync_biome_reference import generate as generate_biome_reference
+for local_page, expected_content in generate_biome_reference().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale biome reference: {local_page}'
 biomes = BeautifulSoup((site / 'tensura-reference/biomes/index.html').read_text(encoding='utf-8'), 'html.parser')
 biome_cards = biomes.select('.reference-card')
 biome_titles = [card.h2.get_text(' ', strip=True) for card in biome_cards]

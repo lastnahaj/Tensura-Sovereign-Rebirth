@@ -1,6 +1,6 @@
 ---
 title: Barren Lands
-description: As the name implies, there is nothing Magic Ore spawns are increased in this biome
+description: "A stark, high-magicule wasteland with increased Magic Ore generation and no listed creature spawns."
 tags:
 - Pages_with_broken_file_links
 ---
@@ -16,7 +16,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>As the name implies, there is nothing</p>
+<p>A stark, high-magicule wasteland with increased Magic Ore generation and no listed creature spawns.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Description">Description</a>
 <a href="#Notes">Notes</a>
@@ -49,29 +49,21 @@ None</div></div></div></div>
 <a href="../">Browse all Biomes</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../biomes/">
-<img src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Biomes</strong>
-<small>Ancient Forest Miasmic Plains Barren Lands Desert Of Death</small>
-</span>
-</a>
 <a class="reference-related-card" href="../biomes-desert-of-death/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/desert-of-death.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Desert of Death</strong>
-<small>Only the strong survive.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-ancient-forest/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/ancient-forest.webp"/>
 <span class="reference-related-copy">
 <strong>Ancient Forest</strong>
 <small>A rare biome with high magicule count, and home of the Spirit Tree .</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-miasmic-plains/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/miasmic-plains.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Miasmic Plains</strong>
 <small>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</small>

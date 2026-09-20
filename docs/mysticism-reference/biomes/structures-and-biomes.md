@@ -2,7 +2,8 @@
 title: Structures and Biomes
 description: TR Mysticism reference for Structures and Biomes.
 tags:
-- Work_in_Progress
+search:
+  exclude: true
 ---
 
 # Structures and Biomes
@@ -10,13 +11,13 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Biomes</span>
 
 <section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Structures and Biomes source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media reference-overview-media--theme">
+<img src="../../../assets/images/reference-world-equipment.png" alt="Biome collection artwork" loading="eager" decoding="async">
+<figcaption>Original TSR world illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Upstream reference information for Structures and Biomes.</p>
+<p>Archived source overview of Mysticism's elemental-realm biomes and their associated structures. Use the combined Biomes directory for current navigation.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Biomes:">Biomes:</a>
 <a href="#Structures:">Structures:</a>
@@ -29,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p><br/>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
 <h2><span class="mw-headline" id="Biomes:">Biomes:</span></h2>
 <table class="wikitable sortable">
@@ -93,28 +87,28 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../structures-and-biomes-space-biome/">
-<img src="../../../assets/upstream/mysticism/biomes/space-biome-fb41cdebe6.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/biomes/space-biome-fb41cdebe6.png"/>
 <span class="reference-related-copy">
 <strong>Space Biome</strong>
 <small>Spawning area for medium and greater spirits of space</small>
 </span>
 </a>
 <a class="reference-related-card" href="../structures-and-biomes-water-biome/">
-<img src="../../../assets/upstream/mysticism/biomes/water-biome-c602cba8eb.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/biomes/water-biome-c602cba8eb.png"/>
 <span class="reference-related-copy">
 <strong>Water Biome</strong>
 <small>Landfish Aqua Frog Undine (Rare Chance)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../structures-and-biomes-light-biome/">
-<img src="../../../assets/upstream/mysticism/biomes/light-biome-a74478c8ea.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/biomes/light-biome-a74478c8ea.png"/>
 <span class="reference-related-copy">
 <strong>Light Biome</strong>
 <small>Winged Lion Wither Skeleton</small>
 </span>
 </a>
 <a class="reference-related-card" href="../structures-and-biomes-wind-biome/">
-<img src="../../../assets/upstream/mysticism/biomes/wind-biome-ec10b1f6fb.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/biomes/wind-biome-ec10b1f6fb.png"/>
 <span class="reference-related-copy">
 <strong>Wind Biome</strong>
 <small>Dragon Peacock Feathered Serpent Sylphide (Rare Chance)</small>
@@ -128,10 +122,3 @@ tags:
 ## Source and licensing
 
 TR Mysticism reference adapted from [Structures and Biomes](https://trmysticism.wiki.gg/wiki/Structures_and_Biomes) on the Tensura Reincarnated: Mysticism Wiki (revision `2186`, modified `2025-08-07T20:40:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

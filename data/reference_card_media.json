@@ -338,5 +338,40 @@
     "asset": "assets/images/encyclopedia/underworld-spikes.webp",
     "kind": "original",
     "summary": "A 103,000-density spiked Underworld terrain block associated with Daemon territory."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-dark-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/dark-biome-895efd6cde.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Shadow Imps and Wither Skeletons."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-earth-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/earth-biome-a682dcadee.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Beast Gnomes, with rare War Gnomes."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-fire-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/fire-biome-ead4504af1.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Blazes and Salamanders, with rare Ifrits."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-light-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/light-biome-a74478c8ea.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Winged Lions and Wither Skeletons."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-space-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/space-biome-fb41cdebe6.png",
+    "kind": "source",
+    "summary": "The elemental-realm spawning area for medium and greater space spirits."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-water-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/water-biome-c602cba8eb.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Landfish and Aqua Frogs, with rare Undines."
+  },
+  "mysticism-reference/biomes/structures-and-biomes-wind-biome.md": {
+    "asset": "assets/upstream/mysticism/biomes/wind-biome-ec10b1f6fb.png",
+    "kind": "source",
+    "summary": "An elemental-realm biome populated by Dragon Peacocks and Feathered Serpents, with rare Sylphides."
   }
 }

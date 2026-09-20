@@ -1,6 +1,6 @@
 ---
 title: Miasmic Plains
-description: A land of death, swarmed with undead. Wizard towers from long ago can be found here. Undead mobs and races are not affected by sunlight in this biome and can spawn during the day. Hipokute Grass is slightly more common. Applies the curse effect rather than Magicule Poison if entering this biome without...
+description: "An undead-filled plain where ancient Wizard Towers can appear and sunlight no longer restrains undead spawns."
 tags:
 - Pages_with_broken_file_links
 ---
@@ -16,7 +16,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</p>
+<p>An undead-filled plain where ancient Wizard Towers can appear and sunlight no longer restrains undead spawns.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Description">Description</a>
 <a href="#Notes">Notes</a>
@@ -52,28 +52,20 @@ Zombie, Skeleton, Skeleton Horse, Zombie Horse, <a href="../../mobs/mobs-evil-ce
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../biomes-desert-of-death/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/desert-of-death.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Desert of Death</strong>
-<small>Only the strong survive.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-barren-lands/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/barren-lands.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Barren Lands</strong>
 <small>As the name implies, there is nothing</small>
 </span>
 </a>
-<a class="reference-related-card" href="../biomes/">
-<img src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Biomes</strong>
-<small>Ancient Forest Miasmic Plains Barren Lands Desert Of Death</small>
-</span>
-</a>
 <a class="reference-related-card" href="../biomes-ancient-forest/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/ancient-forest.webp"/>
 <span class="reference-related-copy">
 <strong>Ancient Forest</strong>
 <small>A rare biome with high magicule count, and home of the Spirit Tree .</small>

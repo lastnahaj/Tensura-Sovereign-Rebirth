@@ -1,6 +1,6 @@
 ---
 title: Desert of Death
-description: Only the strong survive. No animal mobs can spawn here
+description: "A lethal desert without ordinary animal spawns, inhabited by the biome's strongest hostile creatures."
 tags:
 - Pages_with_broken_file_links
 ---
@@ -16,7 +16,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Only the strong survive.</p>
+<p>A lethal desert without ordinary animal spawns, inhabited by the biome&#x27;s strongest hostile creatures.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Description">Description</a>
 <a href="#Notes">Notes</a>
@@ -50,28 +50,21 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../biomes-barren-lands/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/barren-lands.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Barren Lands</strong>
 <small>As the name implies, there is nothing</small>
 </span>
 </a>
 <a class="reference-related-card" href="../biomes-miasmic-plains/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/miasmic-plains.webp"/>
 <span class="reference-related-copy">
 <strong>Biomes/Miasmic Plains</strong>
 <small>A land of death, swarmed with undead. Wizard towers from long ago can be found here.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../biomes/">
-<img src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Biomes</strong>
-<small>Ancient Forest Miasmic Plains Barren Lands Desert Of Death</small>
-</span>
-</a>
 <a class="reference-related-card" href="../biomes-ancient-forest/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/encyclopedia/ancient-forest.webp"/>
 <span class="reference-related-copy">
 <strong>Ancient Forest</strong>
 <small>A rare biome with high magicule count, and home of the Spirit Tree .</small>
