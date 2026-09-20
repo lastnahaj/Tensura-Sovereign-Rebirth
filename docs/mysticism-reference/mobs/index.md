@@ -7,6 +7,7 @@
 <p>Documented entity catalog.</p>
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>5</strong> articles</span>
+<a class="reference-directory-overview-link" href="../bosses/">Browse boss encounters →</a>
 <a class="reference-directory-overview-link" href="mobs/">Read collection overview <span aria-hidden="true">→</span></a>
 </div>
 </div>
@@ -35,7 +36,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Ai Hoshino</h2>
+
 <p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Ai Hoshino.</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Any Overworld Biome - Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands , etc</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>100</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>60000</dd><dt>Unique Skills</dt><dd>Captivator</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -48,7 +51,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Memoires</h2>
+
 <p>0.1% Chance to spawn in the Elemental Realm</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Elemental Realm</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>1800</dd><dt>Spiritual Health</dt><dd>13200</dd><dt>Armor</dt><dd>100</dd><dt>Minimum EP</dt><dd>610000</dd><dt>Maximum EP</dt><dd>645000</dd><dt>Nullifications</dt><dd>Physical Attack Nullification • Poison Resistance • Spiritual Attack Nullification</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -61,7 +66,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Okami</h2>
+
 <p>A mob useful if player wants to be a Tengu race.</p>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Meadows, Snowy Slopes, Jagged Peaks, Frozen Peaks and Stony Peaks.</dd><dt>Spawn Count</dt><dd>1+</dd><dt>Health</dt><dd>22</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1800</dd><dt>Maximum EP</dt><dd>3100</dd><dt>Intrinsic Skills</dt><dd>[ Self Regeneration ], [ Beast Transformation ]</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -74,7 +81,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Shadow Imp</h2>
+
 <p>A Medium Spirit of Darkness.</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>50</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Darkness Transform , Darkness Attack Resistance</dd><dt>Extra Skills</dt><dd>Darkness Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -87,7 +96,9 @@
 </figure>
 <div class="reference-card-copy">
 <h2>Winged Lion</h2>
+
 <p>A Medium Spirit of Light.</p>
+<dl class="reference-card-stats"><dt>Health</dt><dd>65</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Light Transform , Light Attack Resistance</dd><dt>Extra Skills</dt><dd>Light Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

@@ -49,7 +49,7 @@
 <h2>Ai Hoshino</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Ai Hoshino.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Any Overworld Biome - Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands , etc</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>100</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>60000</dd><dt>Unique Skills</dt><dd>Captivator</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Any Overworld Biome - Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span><span>etc</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>100</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>60000</dd><dt>Unique Skills</dt><dd>Captivator</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -64,7 +64,7 @@
 <h2>Aqua Frog</h2>
 
 <p>A medium spirit of water, can be summoned using Summon Medium Elemental</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Swamps · Stony Shore · Biomes where cold ocean ruins spawn</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>50</dd><dt>Spiritual Health</dt><dd>100</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>6000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Resistances</dt><dd>Water Attack Resistance · Poison Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Swamps</span><span>Stony Shore</span><span>Biomes where cold ocean ruins spawn</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>50</dd><dt>Spiritual Health</dt><dd>100</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>6000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Resistances</dt><dd>Water Attack Resistance, Poison Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -109,7 +109,7 @@
 <h2>Army Wasp</h2>
 
 <p>A Flower Forest predator with Lethal Poison attacks and a 10,000–15,000 EP range.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Flower Forest , Sakura Forest</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>10000</dd><dt>Maximum EP</dt><dd>15000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Flower Forest</span><span>Sakura Forest</span></span></dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>10000</dd><dt>Maximum EP</dt><dd>15000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -124,7 +124,7 @@
 <h2>Barghest</h2>
 
 <p>1 - 3 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga</dd><dt>Spawn Count</dt><dd>2-4</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>2000</dd><dt>Maximum EP</dt><dd>4000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Forest</span><span>Taiga</span></span></dd><dt>Spawn Count</dt><dd>2-4</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>2000</dd><dt>Maximum EP</dt><dd>4000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -139,7 +139,7 @@
 <h2>Basilisk</h2>
 
 <p>Inflicts Petrification with its tail attack.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>- Desert of Death - &quot;is_savanna&quot;: ( Savanna , Savanna Plateau , Windswept Savanna ) - &quot;is_mountain&quot;: ( Cherry Grove , Frozen Peaks , Jagged Peaks , Meadow , Snowy Slopes , Stony Peaks )</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>200</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>6000</dd><dt>Maximum EP</dt><dd>8000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>- Desert of Death - &quot;is_savanna&quot;: ( Savanna</span><span>Savanna Plateau</span><span>Windswept Savanna ) - &quot;is_mountain&quot;: ( Cherry Grove</span><span>Frozen Peaks</span><span>Jagged Peaks</span><span>Meadow</span><span>Snowy Slopes</span><span>Stony Peaks )</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>200</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>6000</dd><dt>Maximum EP</dt><dd>8000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -154,7 +154,7 @@
 <h2>Beast Gnome</h2>
 
 <p>A medium spirit of earth, can be summoned using Summon Medium Elemental</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Underground · Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>80</dd><dt>Spiritual Health</dt><dd>160</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>5000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Resistances</dt><dd>Earth Attack Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Underground</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>80</dd><dt>Spiritual Health</dt><dd>160</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>5000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Resistances</dt><dd>Earth Attack Resistance</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -199,7 +199,7 @@
 <h2>Cattledeer</h2>
 
 <p>Can be bred using wheat</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Forest , Savanna , Taiga</dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>30</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>500</dd><dt>Maximum EP</dt><dd>700</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Forest</span><span>Savanna</span><span>Taiga</span></span></dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>30</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>500</dd><dt>Maximum EP</dt><dd>700</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -214,7 +214,7 @@
 <h2>Direwolf</h2>
 
 <p>A pack predator capable of using shouts to damage opponents. Can be ridden when tamed, allowing the use of the Mount Ability key (default R) to use its Coercion skill…</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains • Forests • Savannas • Taigas • Hills • Badlands • Mountains</dd><dt>Spawn Count</dt><dd>Pack 6-12</dd><dt>Health</dt><dd>35</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3667</dd><dt>Maximum EP</dt><dd>4333</dd><dt>Common</dt><dd>Coercion • Thought Communication</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Forests</span><span>Savannas</span><span>Taigas</span><span>Hills</span><span>Badlands</span><span>Mountains</span></span></dd><dt>Spawn Count</dt><dd>Pack 6-12</dd><dt>Health</dt><dd>35</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3667</dd><dt>Maximum EP</dt><dd>4333</dd><dt>Common</dt><dd>Coercion, Thought Communication</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -229,7 +229,7 @@
 <h2>Dragon Peacock</h2>
 
 <p>If wearing a Monster Leather helmet, a tamed Dragon Peacock can be right clicked to have it ride the player. Pressing crouch will let it off of your head. Holding…</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Jungle , Savanna , Forest</dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>2000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Jungle</span><span>Savanna</span><span>Forest</span></span></dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>2000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -244,7 +244,7 @@
 <h2>Dwarf</h2>
 
 <p>Dwarves can only spawn in Dwarf Village and cannot spawn outside of the village. Upon taming they will lose the capacity to trade. Dwarves can trade and will restock…</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Mountainous biomes (Meadow, Grove, Plateu, etc).</dd><dt>Health</dt><dd>24</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>800</dd><dt>Maximum EP</dt><dd>1200</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Mountainous biomes (Meadow</span><span>Grove</span><span>Plateu</span><span>etc).</span></span></dd><dt>Health</dt><dd>24</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>800</dd><dt>Maximum EP</dt><dd>1200</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -259,7 +259,7 @@
 <h2>Evil Centipede</h2>
 
 <p>0 - 2 Centipede Stinger 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Jungle , Taiga , Swamp</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>7000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Intrinsic</dt><dd>Paralysing Breath</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Jungle</span><span>Taiga</span><span>Swamp</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>60</dd><dt>Spiritual Health</dt><dd>120</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>7000</dd><dt>Maximum EP</dt><dd>9000</dd><dt>Intrinsic</dt><dd>Paralysing Breath</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -304,7 +304,7 @@
 <h2>Folgen</h2>
 
 <p>Folgen will always spawn with 9 Falmuth Knights accompanying him</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>500</dd><dt>Spiritual Health</dt><dd>1000</dd><dt>Armor</dt><dd>30</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>140000</dd><dt>Unique</dt><dd>Spearhead</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>500</dd><dt>Spiritual Health</dt><dd>1000</dd><dt>Armor</dt><dd>30</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>140000</dd><dt>Unique</dt><dd>Spearhead</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -319,7 +319,7 @@
 <h2>Giant Ant</h2>
 
 <p>This mob will destroy trees in pursuit of its enemy. If the player remains out of reach, it will spit poison, creating a lingering cloud of deadly poison where it hits.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Savanna</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Forest</span><span>Savanna</span></span></dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>4</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -334,7 +334,7 @@
 <h2>Giant Bat</h2>
 
 <p>1 - 2 Giant Bat Wing 1 - 4 Raw Giant Bat Meat 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Hills • Badlands • Mountains • Any biome with Woodland Mansions</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd><dt>Intrinsic</dt><dd>Drain , Ultrasonic Wave</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Hills</span><span>Badlands</span><span>Mountains</span><span>Any biome with Woodland Mansions</span></span></dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>45</dd><dt>Spiritual Health</dt><dd>90</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>4334</dd><dt>Maximum EP</dt><dd>4999</dd><dt>Intrinsic</dt><dd>Drain, Ultrasonic Wave</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -349,7 +349,7 @@
 <h2>Giant Bear</h2>
 
 <p>1 - 3 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>4000</dd><dt>Maximum EP</dt><dd>7000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Forest</span><span>Taiga</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>80</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>4000</dd><dt>Maximum EP</dt><dd>7000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -364,7 +364,7 @@
 <h2>Giant Cod</h2>
 
 <p>A rather large fish that is commonly found in water.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Rivers, Oceans</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Rivers</span><span>Oceans</span></span></dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -379,7 +379,7 @@
 <h2>Giant Salmon</h2>
 
 <p>Looting increases the amount of Raw Salmon and Bones dropped by 0-3 per level.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>River , Ocean</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>River</span><span>Ocean</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>15</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>1</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd><dt>Intrinsic</dt><dd>Water Breathing</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -394,7 +394,7 @@
 <h2>Goblin</h2>
 
 <p>A village-spawning trader that can be named into a Hobgoblin; it does not restock trades.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Forest , Taiga , Sakura Forest</dd><dt>Health</dt><dd>12</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>500</dd><dt>Maximum EP</dt><dd>1000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Forest</span><span>Taiga</span><span>Sakura Forest</span></span></dd><dt>Health</dt><dd>12</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>500</dd><dt>Maximum EP</dt><dd>1000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -469,7 +469,7 @@
 <h2>Horned Bear</h2>
 
 <p>0 - 3 Monster Leather (C) 1 Beast Horn 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Hill , Taiga</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>48</dd><dt>Spiritual Health</dt><dd>96</dd><dt>Armor</dt><dd>2</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Hill</span><span>Taiga</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>48</dd><dt>Spiritual Health</dt><dd>96</dd><dt>Armor</dt><dd>2</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -484,7 +484,7 @@
 <h2>Horned Rabbit</h2>
 
 <p>1 Beast Horn 1 - 2 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Taiga , Cherry Grove , Dark Forest</dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>20</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Taiga</span><span>Cherry Grove</span><span>Dark Forest</span></span></dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>20</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -499,7 +499,7 @@
 <h2>Hound Dog</h2>
 
 <p>If a snake tailed variant is named, the Summon Hound Dog skill is granted, allowing the user to summon it.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Overworld: Plains , Forest . Daemon Realm: Any biome.</dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>30</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>1499</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Overworld: Plains</span><span>Forest . Daemon Realm: Any biome.</span></span></dd><dt>Spawn Count</dt><dd>1-3</dd><dt>Health</dt><dd>30</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>1499</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -529,7 +529,7 @@
 <h2>Kirara Mizutani</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Kirara Mizutani. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>150</dd><dt>Spiritual Health</dt><dd>300</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>60000</dd><dt>Unique</dt><dd>Bewilder</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>150</dd><dt>Spiritual Health</dt><dd>300</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50000</dd><dt>Maximum EP</dt><dd>60000</dd><dt>Unique</dt><dd>Bewilder</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -544,7 +544,7 @@
 <h2>Knight Spider</h2>
 
 <p>2 - 3 Knight Spider Carapace 2 - 8 Knight Spider Leg 1 High Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>90</dd><dt>Spiritual Health</dt><dd>180</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>9000</dd><dt>Maximum EP</dt><dd>9999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>90</dd><dt>Spiritual Health</dt><dd>180</dd><dt>Armor</dt><dd>8</dd><dt>Minimum EP</dt><dd>9000</dd><dt>Maximum EP</dt><dd>9999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -559,7 +559,7 @@
 <h2>Kyoya Tachibana</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Kyoya Tachibana. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>90000</dd><dt>Extra</dt><dd>All Seeing Eye , Thought Acceleration</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>90000</dd><dt>Extra</dt><dd>All Seeing Eye, Thought Acceleration</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -574,7 +574,7 @@
 <h2>Landfish</h2>
 
 <p>Feed any type of Fish</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Beach , River</dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>600</dd><dt>Maximum EP</dt><dd>800</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Beach</span><span>River</span></span></dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>16</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>600</dd><dt>Maximum EP</dt><dd>800</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -589,7 +589,7 @@
 <h2>Leech Lizard</h2>
 
 <p>1 - 2 Monster Leather (C) 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Hill , Forest , Taiga</dd><dt>Spawn Count</dt><dd>2-5</dd><dt>Health</dt><dd>35</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd><dt>Extra</dt><dd>Sense Heat Source</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Hill</span><span>Forest</span><span>Taiga</span></span></dd><dt>Spawn Count</dt><dd>2-5</dd><dt>Health</dt><dd>35</dd><dt>Spiritual Health</dt><dd>70</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>3000</dd><dt>Maximum EP</dt><dd>6000</dd><dt>Extra</dt><dd>Sense Heat Source</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -619,7 +619,7 @@
 <h2>Lizardman</h2>
 
 <p>Lizardmen can only spawn in a Lizardman Village and cannot spawn outside a village. Upon naming, it will evolve into Dragonewt and gain the ability to fly. Lizardmen…</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Swamp , Mangrove Swamp</dd><dt>Health</dt><dd>24</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>5000</dd><dt>Maximum EP</dt><dd>8000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Swamp</span><span>Mangrove Swamp</span></span></dd><dt>Health</dt><dd>24</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>5000</dd><dt>Maximum EP</dt><dd>8000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -634,7 +634,7 @@
 <h2>Mai Furuki</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.3% chance for it to be Mai Furuki. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>300</dd><dt>Spiritual Health</dt><dd>600</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>150000</dd><dt>Maximum EP</dt><dd>170000</dd><dt>Extra</dt><dd>Spatial Motion , Magic Sense</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>300</dd><dt>Spiritual Health</dt><dd>600</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>150000</dd><dt>Maximum EP</dt><dd>170000</dd><dt>Extra</dt><dd>Spatial Motion, Magic Sense</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -649,7 +649,7 @@
 <h2>Mark Lauren</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.5% chance for it to be Mark Lauren. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>500</dd><dt>Spiritual Health</dt><dd>1000</dd><dt>Armor</dt><dd>15</dd><dt>Minimum EP</dt><dd>100000</dd><dt>Maximum EP</dt><dd>110000</dd><dt>Unique</dt><dd>Thrower</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>500</dd><dt>Spiritual Health</dt><dd>1000</dd><dt>Armor</dt><dd>15</dd><dt>Minimum EP</dt><dd>100000</dd><dt>Maximum EP</dt><dd>110000</dd><dt>Unique</dt><dd>Thrower</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -664,7 +664,7 @@
 <h2>Megalodon</h2>
 
 <p>A large flying shark like creature native to Hell, they also appear as part of the Charybdis fight.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Underworld Sands, Underworld Red Sands</dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>70</dd><dt>Spiritual Health</dt><dd>140</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>20000</dd><dt>Maximum EP</dt><dd>40000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Underworld Sands</span><span>Underworld Red Sands</span></span></dd><dt>Spawn Count</dt><dd>1-2</dd><dt>Health</dt><dd>70</dd><dt>Spiritual Health</dt><dd>140</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>20000</dd><dt>Maximum EP</dt><dd>40000</dd><dt>Intrinsic</dt><dd>Scale Armor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -679,7 +679,7 @@
 <h2>Memoires</h2>
 
 <p>0.1% Chance to spawn in the Elemental Realm</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Elemental Realm</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>1800</dd><dt>Spiritual Health</dt><dd>13200</dd><dt>Armor</dt><dd>100</dd><dt>Minimum EP</dt><dd>610000</dd><dt>Maximum EP</dt><dd>645000</dd><dt>Nullifications</dt><dd>Physical Attack Nullification • Poison Resistance • Spiritual Attack Nullification</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd>Elemental Realm</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>1800</dd><dt>Spiritual Health</dt><dd>13200</dd><dt>Armor</dt><dd>100</dd><dt>Minimum EP</dt><dd>610000</dd><dt>Maximum EP</dt><dd>645000</dd><dt>Nullifications</dt><dd>Physical Attack Nullification, Poison Resistance, Spiritual Attack Nullification</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -694,7 +694,7 @@
 <h2>Metal Slime</h2>
 
 <p>5 - 8 Magic Ore Shard (affected by looting) 1 High Quality Magic Crystal Can be tamed with Magic Ore or Pure Magisteel Nugget Slime mobs takes 50% of the input Physical…</p>
-<dl class="reference-card-stats"><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>20</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>100,000</dd><dt>Maximum EP</dt><dd>300,000</dd><dt>Resistances</dt><dd>Physical Attack Resistance</dd><dt>Intrinsic</dt><dd>Body Armor • Absorb &amp; Dissolve</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>20</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>100,000</dd><dt>Maximum EP</dt><dd>300,000</dd><dt>Resistances</dt><dd>Physical Attack Resistance</dd><dt>Intrinsic</dt><dd>Body Armor, Absorb &amp; Dissolve</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -709,7 +709,7 @@
 <h2>Okami</h2>
 
 <p>A mob useful if player wants to be a Tengu race.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Meadows, Snowy Slopes, Jagged Peaks, Frozen Peaks and Stony Peaks.</dd><dt>Spawn Count</dt><dd>1+</dd><dt>Health</dt><dd>22</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1800</dd><dt>Maximum EP</dt><dd>3100</dd><dt>Intrinsic Skills</dt><dd>[ Self Regeneration ], [ Beast Transformation ]</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Meadows</span><span>Snowy Slopes</span><span>Jagged Peaks</span><span>Frozen Peaks and Stony Peaks.</span></span></dd><dt>Spawn Count</dt><dd>1+</dd><dt>Health</dt><dd>22</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1800</dd><dt>Maximum EP</dt><dd>3100</dd><dt>Intrinsic Skills</dt><dd>[ Self Regeneration ], [ Beast Transformation ]</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -739,7 +739,7 @@
 <h2>Orc</h2>
 
 <p>When spawning, there is a 1/100 (1%) chance for an Orc to spawn as a Royal Orc, and a 1/900 (0.11%) chance to spawn as the Orc Lord</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Desert , Badlands</dd><dt>Spawn Count</dt><dd>1-</dd><dt>Health</dt><dd>5-26</dd><dt>Spiritual Health</dt><dd>60-81</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>1-</dd><dt>Health</dt><dd>5-26</dd><dt>Spiritual Health</dt><dd>60-81</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>1000</dd><dt>Maximum EP</dt><dd>3000</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -784,7 +784,7 @@
 <h2>Shadow Imp</h2>
 
 <p>A Medium Spirit of Darkness.</p>
-<dl class="reference-card-stats"><dt>Health</dt><dd>50</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Darkness Transform , Darkness Attack Resistance</dd><dt>Extra Skills</dt><dd>Darkness Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Health</dt><dd>50</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Darkness Transform, Darkness Attack Resistance</dd><dt>Extra Skills</dt><dd>Darkness Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -799,7 +799,7 @@
 <h2>Shin Ryusei</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.5% chance for it to be Shin Ryusei. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>100000</dd><dt>Unique</dt><dd>Observer</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>100000</dd><dt>Unique</dt><dd>Observer</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -814,7 +814,7 @@
 <h2>Shinji Tanimura</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.4% chance for it to be Shinji Tanimura. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>130000</dd><dt>Unique</dt><dd>Healer</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>400</dd><dt>Spiritual Health</dt><dd>800</dd><dt>Armor</dt><dd>10</dd><dt>Minimum EP</dt><dd>120000</dd><dt>Maximum EP</dt><dd>130000</dd><dt>Unique</dt><dd>Healer</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -829,7 +829,7 @@
 <h2>Shogo Taguchi</h2>
 
 <p>Whenever an Otherworlder spawns, it has a 12.6% chance for it to be Shogo Taguchi. (There is a 1/30 chance that an otherworlder spawns)</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Snowy Plains , Sunflower Plains Windswept Hills , Mountains , Meadow Savanna , Desert , Badlands</dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>100000</dd><dt>Unique</dt><dd>Berserker , Survivor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains Windswept Hills</span><span>Mountains</span><span>Meadow Savanna</span><span>Desert</span><span>Badlands</span></span></dd><dt>Spawn Count</dt><dd>Singular</dd><dt>Health</dt><dd>200</dd><dt>Spiritual Health</dt><dd>400</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>80000</dd><dt>Maximum EP</dt><dd>100000</dd><dt>Unique</dt><dd>Berserker, Survivor</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -859,7 +859,7 @@
 <h2>Slime</h2>
 
 <p>Deals Corrosion damage (BUT NOT CORROSION EFFECT) , so if you have Corrosion Resistance or Nullification you can be immune to slime damage.</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Plains , Forest , Savanna , Taiga , Badlands , Mountain , Swamp</dd><dt>Spawn Count</dt><dd>1-5</dd><dt>Health</dt><dd>5-26</dd><dt>Spiritual Health</dt><dd>60-81</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50</dd><dt>Maximum EP</dt><dd>999</dd><dt>Intrinsic</dt><dd>Absorb &amp; Dissolve</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Forest</span><span>Savanna</span><span>Taiga</span><span>Badlands</span><span>Mountain</span><span>Swamp</span></span></dd><dt>Spawn Count</dt><dd>1-5</dd><dt>Health</dt><dd>5-26</dd><dt>Spiritual Health</dt><dd>60-81</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>50</dd><dt>Maximum EP</dt><dd>999</dd><dt>Intrinsic</dt><dd>Absorb &amp; Dissolve</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -904,7 +904,7 @@
 <h2>Unicorn</h2>
 
 <p>0 - 2 Monster Leather (B) 1 Unicorn Horn 1 Medium Quality Magic Crystal</p>
-<dl class="reference-card-stats"><dt>Biome</dt><dd>Mountain , Flower Forest</dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>7000</dd><dt>Maximum EP</dt><dd>8999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Biome</dt><dd><span class="reference-stat-tags"><span>Mountain</span><span>Flower Forest</span></span></dd><dt>Spawn Count</dt><dd>1-4</dd><dt>Health</dt><dd>40</dd><dt>Spiritual Health</dt><dd>60</dd><dt>Armor</dt><dd>0</dd><dt>Minimum EP</dt><dd>7000</dd><dt>Maximum EP</dt><dd>8999</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -934,7 +934,7 @@
 <h2>Winged Lion</h2>
 
 <p>A Medium Spirit of Light.</p>
-<dl class="reference-card-stats"><dt>Health</dt><dd>65</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Light Transform , Light Attack Resistance</dd><dt>Extra Skills</dt><dd>Light Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<dl class="reference-card-stats"><dt>Health</dt><dd>65</dd><dt>Armor</dt><dd>5</dd><dt>Minimum EP</dt><dd>9K</dd><dt>Maximum EP</dt><dd>10K</dd><dt>Intrinsic Skills</dt><dd>Light Transform, Light Attack Resistance</dd><dt>Extra Skills</dt><dd>Light Manipulation</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
