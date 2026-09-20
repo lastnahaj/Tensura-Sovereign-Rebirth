@@ -21,6 +21,10 @@ MAINTENANCE_BLOCK = re.compile(r'<div>\s*<table\b.*?</table>\s*</div>\s*', re.I 
 MAINTENANCE_CREDIT = re.compile(
     r'(?im)^<li><a\b[^>]*(?:File:(?:Mysticism_)?WIP\d*\.png|File:Placeholder\.png)[^>]*>.*?</li>\s*\r?\n?'
 )
+MAINTENANCE_DESCRIPTIONS = {
+    'mysticism-reference/skills/unique/constant.md': 'A timed control skill that can preserve health, physical output, or resource levels.',
+    'tensura-reference/skills/ultimate/nightmares-akashic-records.md': 'The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.',
+}
 
 
 def pinned_learning_requirement(page, decision):
@@ -60,13 +64,22 @@ def render_acquisition_markdown(content, page):
     return str(soup)
 
 
-def strip_maintenance_markup(text):
+def strip_maintenance_markup(text, page):
     """Remove source-wiki editorial banners without discarding skill details."""
     text = MAINTENANCE_BLOCK.sub(
         lambda match: "" if "work in progress" in BeautifulSoup(match.group(0), "html.parser").get_text(" ", strip=True).casefold() else match.group(0),
         text,
     )
     text = re.sub(r'(?m)^- Work_in_Progress\s*\r?\n', '', text)
+    replacement = MAINTENANCE_DESCRIPTIONS.get(page)
+    if replacement:
+        text = re.sub(r'(?im)^description:\s*WIP[^\r\n]*$', 'description: ' + json.dumps(replacement), text)
+    else:
+        text = re.sub(r'(?im)^description:\s*WIP\s*$', 'description: Source article with limited published details.', text)
+    if page == 'tensura-reference/skills/ultimate/nightmares-akashic-records.md':
+        text = re.sub(r'(?:<p>\s*)?(?:WIP\s+)?FOR ALL THE SPEKS.*?</p>', f'<p>{html.escape(replacement)}</p>', text, flags=re.I | re.S)
+    text = re.sub(r'<p>\s*(?:Actually\s+)?WIP\s*</p>\s*', '', text, flags=re.I | re.S)
+    text = re.sub(r'(?im)^\s*WIP\s*\r?\n?', '', text)
     return MAINTENANCE_CREDIT.sub('', text)
 
 
@@ -289,7 +302,7 @@ def prepare_page(page, decision, text):
     text = text[:offset] + BEGIN + "\n" + section + "\n" + END + "\n\n" + text[offset:]
     # Remove editorial instructions from player-facing summaries.
     text = text.replace("(Remove this once finalized)", "")
-    text = strip_maintenance_markup(text)
+    text = strip_maintenance_markup(text, page)
     text = re.sub(r"(?<=>)[ \t]+$", "", text, flags=re.M)
     return text, documented
 

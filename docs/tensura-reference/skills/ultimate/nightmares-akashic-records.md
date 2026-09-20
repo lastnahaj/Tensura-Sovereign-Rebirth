@@ -1,6 +1,6 @@
 ---
 title: Akashic Records, God of Information
-description: WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN'T DO BECOSE POINTS ARE BUGGED.
+description: "The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked."
 tags:
 - God Ultimates
 ---
@@ -13,7 +13,7 @@ tags:
 <figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-akashic_records.svg" alt="Akashic Records, God of Information emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN&#x27;T DO BECOSE POINTS ARE BUGGED.</p>
+<p>The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -34,8 +34,7 @@ User new "memory restoration" with "???" to produce Memory</li></ul><p class="sk
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN'T DO BECOSE POINTS ARE BUGGED.
-</p>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.</p>
 <div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">「Akashic Records, God of Information」</div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 20,000,000 MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 50000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">

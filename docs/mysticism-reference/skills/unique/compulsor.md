@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Compulsor
-description: WIP
+description: Source article with limited published details.
 tags:
 - Unique_Skills
 - Abilities_changed_in_1.21.1
@@ -24,7 +24,6 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>WIP</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Usage">Usage</a>
 <a href="#Version_history">Version history</a>
@@ -37,9 +36,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>WIP
-</p>
-<div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Compulsor</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Compulsor.png"><img alt="Compulsor.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/compulsor-07eb2a68aa.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Compulsor</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Compulsor.png"><img alt="Compulsor.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../../assets/upstream/mysticism/skills/compulsor-07eb2a68aa.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Unique Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 50K MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">

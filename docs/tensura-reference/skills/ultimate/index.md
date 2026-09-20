@@ -82,7 +82,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="akashic records, god of information wip for all the speks that cant read, right now its bugged, that means u cant get it without cheating because u need to evolve the ego to manas which you can&#x27;t do…">
+<article class="reference-card" data-letter="A" data-search="akashic records, god of information the reference build marks this skill as unavailable through normal progression because its ego-to-manas requirement is blocked.">
 <a href="nightmares-akashic-records/" aria-label="Open Akashic Records, God of Information">
 <figure class="reference-card-media reference-card-media--source">
 <img src="../../../assets/icons/skills/trnightmare-akashic_records.svg" alt="" loading="lazy" decoding="async">
@@ -91,7 +91,7 @@
 <div class="reference-card-copy">
 <h2>Akashic Records, God of Information</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN&#x27;T DO…</p>
+<p>The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
