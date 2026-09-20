@@ -72,31 +72,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp"/>
 <span class="reference-related-copy">
 <strong>Merfolk</strong>
 <small>A sprite race descended from water elementals. Their fish-like bodies give them an insurmountable advantage in water.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-metal-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Metal Slime</strong>
-<small>" The Hardest Slime around "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lizardman/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
-<span class="reference-related-copy">
-<strong>Lizardman</strong>
-<small>A race of scaled people descended from dragons. Their webbed feet give them an advantage in wet terrain.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-mystic-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Mystic Oni</strong>
-<small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
 </span>
 </a>
 </div>

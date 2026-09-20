@@ -49,7 +49,7 @@ Default</div></div><div class="druid-row druid-row-Speed" data-druid-section-row
 Yes</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Spiritual">Spiritual</div><div class="druid-data druid-data-Spiritual druid-data-nonempty">
 No</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
-<a class="text" href="../../skills/intrinsic/exoskeleton/">Exoskeleton</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Analytical_AppraisalAnalytical">Appraisal</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Poison">Poison</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
+<a class="text" href="../../skills/intrinsic/exoskeleton/">Exoskeleton</a>, <a href="../../../tensura-reference/skills/extra/analytical-appraisal" title="Analytical Appraisal">Analytical Appraisal</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Poison">Poison</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../loxodrome-scorpion/" title="Loxodrome Scorpion">Loxodrome Scorpion</a>, <a href="../singularity-scorpion/" title="Singularity Scorpion">Singularity Scorpion</a></div></div></div></div>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <p><a href="../loxodrome-scorpion/" title="Loxodrome Scorpion">Loxodrome Scorpion</a> - Acquire 10K EP.
@@ -64,42 +64,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../scorchtalon-wyvern/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Scorchtalon Wyvern</strong>
-<small>Use your wings to take flight + Boost yourself during Flight, Costs Hunger</small>
-</span>
-</a>
-<a class="reference-related-card" href="../sculk-worm/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
-<span class="reference-related-copy">
-<strong>Sculk Worm</strong>
-<small>Is blind. Soul Shrieker - 4K EP as a Sculk Worm. Molten Perforator - Eat 3 Blaze Essence + 4K EP as a Sculk Worm…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../scorchtail-salamander/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Scorchtail Salamander</strong>
-<small>Scorchtalon Wyvern - Have 1.5M EP, Mastered Flame Domination and Dragon Skin. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../seraphim/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png"/>
-<span class="reference-related-copy">
-<strong>Seraph</strong>
-<small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -122,32 +122,11 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-hobgoblin-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Hobgoblin Saint</strong>
-<small>" Why would you go this..? "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-human-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/racehuman-de4f15d1c8.png"/>
 <span class="reference-related-copy">
 <strong>Human Saint</strong>
 <small>" Saint Nicholas died for this "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-hobgoblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Hobgoblin</strong>
-<small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-kijin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Kijin</strong>
-<small>" Ahahahahaha... You're Kijin me! "</small>
 </span>
 </a>
 </div>
@@ -160,7 +139,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 Base Tensura reference adapted from [Races/Human](https://tensura.wiki.gg/wiki/Races/Human) on the Tensura: Reincarnated Wiki (revision `13373`, modified `2026-08-20T23:12:18Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
 </ul>

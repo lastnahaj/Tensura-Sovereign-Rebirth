@@ -81,42 +81,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-enlightened-hobgoblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Hobgoblin</strong>
-<small>Hobgoblin Saint - 400,000 EP + Defeat 4 Bosses</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Merfolk</strong>
-<small>" The honoured... fish? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-elf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Elf</strong>
-<small>" Blah Blah Honoured Elf Blah Blah "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Ogre</strong>
-<small>" This race has way too many evolutions... "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

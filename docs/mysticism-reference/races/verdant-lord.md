@@ -1,8 +1,7 @@
 ---
 title: Verdant Lord
-description: '(Remove this once finalized) Spirits race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven elemental affinities: Darkness, Earth, Flame, Light, Space, Water, or wind. Each Element gives their respective elemental manipulation, resistance and magic. Divine...'
+description: 'Spirits race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven elemental affinities: Darkness, Earth, Flame, Light, Space, Water, or wind. Each Element gives their respective elemental manipulation, resistance and magic. Divine...'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -20,12 +19,12 @@ search:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Verdant Lord source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="Verdant Lord family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_ant.gif">Giant ant.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Racial_Ability">Racial Ability</a>
 <a href="#Evolution">Evolution</a>
@@ -39,13 +38,7 @@ search:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Verdant Lord</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 2400</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 18525</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
@@ -78,52 +71,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../true-dragonoid/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>True Dragonoid</strong>
-<small>"The True Dragon" Creative flight. 1.21.1 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../violence-deity/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Violence Deity</strong>
-<small>Gets permanent blindness effect - negated by having any kind of detection skill 1.21.1 – Ported 1.19.2 – Added to the…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tengu-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Tengu Saint</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../warden/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Warden</strong>
-<small>Gets permanent blindness effect - negated by having any kind of detection skill Soul Aberration - 400K EP 1.21.1 –…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Verdant Lord](https://trmysticism.wiki.gg/wiki/Verdant_Lord) on the Tensura Reincarnated: Mysticism Wiki (revision `2750`, modified `2026-02-20T22:11:34Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

@@ -66,42 +66,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-spirit-skeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Skeleton</strong>
-<small>Fragility I, Weakness I in Sunlight</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-vampire/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Vampire</strong>
-<small>" I vant to suck your blood "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Oni</strong>
-<small>" OoOOooOoo Spooky Demog "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-vampire-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Vampire Lord</strong>
-<small>" Lord of the Suckers "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

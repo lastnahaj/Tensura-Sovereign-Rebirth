@@ -99,42 +99,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-lesser-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Daemon</strong>
-<small>The lowest level of the daemon race. They spontaneously come into existence within the Daemon Realm, where they slowly…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk</strong>
-<small>" I'm under da water... blub "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-kijin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Kijin</strong>
-<small>" Ahahahahaha... You're Kijin me! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-merfolk-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk Saint</strong>
-<small>" They're just making random names now "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

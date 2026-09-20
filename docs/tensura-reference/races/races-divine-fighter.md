@@ -56,42 +56,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-divine-elf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Elf</strong>
-<small>" The Upmost Divinest Elf "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-fish/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Fish</strong>
-<small>" Fish of the Divine Style "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Dwarf</strong>
-<small>" I've dug myself into a hole with these... Oh well "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-giant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Giant</strong>
-<small>" That one 6'4 nonchalant friend'"</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

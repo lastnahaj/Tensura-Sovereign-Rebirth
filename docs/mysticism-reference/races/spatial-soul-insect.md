@@ -3,7 +3,6 @@ title: Spatial Soul Insect
 description: Divine Purple Centipede - 2M EP. 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
 - Races
-- Work_in_Progress
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
 ---
@@ -14,8 +13,8 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Spatial Soul Insect source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png" alt="Spatial Soul Insect family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Evil_centipede.png">Evil centipede.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Spatial Soul Insect</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Spatial Soul Insect</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 1750</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 8950</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 1.5</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -55,7 +47,7 @@ Easy</div></div></div><div class="druid-section-container"><div data-druid-secti
 Yes</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Spiritual">Spiritual</div><div class="druid-data druid-data-Spiritual druid-data-nonempty">
 Yes</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Space_Transform">Space Transform</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Physical_Attack_Resistance">Physical Attack Resistance</a>,<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Gravity_Manipulation">Gravity Manipulation</a>,<a class="text" href="../../skills/intrinsic/exoskeleton/">Exoskeleton</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Paralysis">Paralysis</a>,<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Analytical_Appraisal">Analytical Appraisal</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
+<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Space_Transform">Space Transform</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Physical_Attack_Resistance">Physical Attack Resistance</a>,<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Gravity_Manipulation">Gravity Manipulation</a>,<a class="text" href="../../skills/intrinsic/exoskeleton/">Exoskeleton</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Paralysis">Paralysis</a>,<a href="../../../tensura-reference/skills/extra/analytical-appraisal" title="Analytical Appraisal">Analytical Appraisal</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../purple-centipede-insectar/" title="Purple Centipede Insectar">Purple Centipede Insectar</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../divine-purple-centipede/" title="Divine Purple Centipede">Divine Purple Centipede</a></div></div></div></div>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
@@ -70,45 +62,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../soul-shrieker/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Soul Shrieker</strong>
-<small>Is blind. Warden - 50K EP as a Soul Shrieker. 1.21.1 – Ported. 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../soul-aberration/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Soul Aberration</strong>
-<small>Is blind. Reaper Aberration - 2M EP as a Soul Aberration. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../staff-officer/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Staff Officer</strong>
-<small>Creative Flight. Spiritual being. 960K Minimum EP if evolved from General Re-spawn in hell. Mystic Angel - Awakening…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Spatial Soul Insect](https://trmysticism.wiki.gg/wiki/Spatial_Soul_Insect) on the Tensura Reincarnated: Mysticism Wiki (revision `2731`, modified `2026-02-20T22:08:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

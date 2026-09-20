@@ -86,32 +86,11 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Dwarf</strong>
-<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-hobgoblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Hobgoblin</strong>
-<small>Hobgoblin Saint - 400,000 EP + Defeat 4 Bosses</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-elf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp"/>
 <span class="reference-related-copy">
 <strong>Elf Saint</strong>
 <small>" I name you, The saintiest of elevens "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Human</strong>
-<small>" I alone am the honored one... "</small>
 </span>
 </a>
 </div>

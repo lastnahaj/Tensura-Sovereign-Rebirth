@@ -67,42 +67,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-merfolk-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk Saint</strong>
-<small>" They're just making random names now "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-mystic-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Mystic Oni</strong>
-<small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk</strong>
-<small>A sprite race descended from water elementals. Their fish-like bodies give them an insurmountable advantage in water.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Ogre</strong>
-<small>" WHAT'RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

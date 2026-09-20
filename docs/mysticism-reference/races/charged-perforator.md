@@ -2,7 +2,6 @@
 title: Charged Perforator
 description: No longer blind. Overloading Worm - 100K EP as a Charged Perforator. 1.21.1 – Ported 1.19.2 – Added to the game.
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -13,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Charged Perforator source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/sculk-worm.webp" alt="Charged Perforator family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -33,14 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Charged Perforator</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Charged Perforator</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 75</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 330</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 1.0</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -69,52 +61,10 @@ Majin</div></div></div><div class="druid-section-container"><div data-druid-sect
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../chaos-metalloid/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Chaos Metalloid</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../cherub/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png"/>
-<span class="reference-related-copy">
-<strong>Cherub</strong>
-<small>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../chaos-doll/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Chaos Doll</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../corrosion-soul-insect/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Corrosion Soul Insect</strong>
-<small>Divine Lixivant Mantis - Acquire 2M EP.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Charged Perforator](https://trmysticism.wiki.gg/wiki/Charged_Perforator) on the Tensura Reincarnated: Mysticism Wiki (revision `3374`, modified `2026-07-04T14:23:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

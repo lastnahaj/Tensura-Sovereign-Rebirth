@@ -70,42 +70,7 @@ No</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-ro
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-human-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Human Saint</strong>
-<small>" Saint Nicholas died for this "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lesser-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Daemon</strong>
-<small>" Lowly Daemon Scum "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
-<span class="reference-related-copy">
-<strong>Human</strong>
-<small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lizardman/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
-<span class="reference-related-copy">
-<strong>Lizardman</strong>
-<small>" Leezard..? Lizurd..? Lizzy..! "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

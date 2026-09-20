@@ -69,42 +69,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-god-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>God Slime</strong>
-<small>" The Fattest Boi Around "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-harpy/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Harpy</strong>
-<small>Harpy? No I can't play on of those A being similar to beastfolks specialized in air combat</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-goblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Goblin</strong>
-<small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-harpy-queen/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Harpy Queen</strong>
-<small>Yas queen slay! Rare kind of harpy that usually commands them all and governs over them</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

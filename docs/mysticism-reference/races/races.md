@@ -98,42 +98,7 @@ search:
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../queen-wasp-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Queen Wasp Insectar</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../reaper-aberration/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Reaper Aberration</strong>
-<small>Is blind. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../queen-wasp/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Queen Wasp</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../red-fang/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Red Fang</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -142,7 +107,7 @@ search:
 TR Mysticism reference adapted from [Races](https://trmysticism.wiki.gg/wiki/Races) on the Tensura Reincarnated: Mysticism Wiki (revision `3436`, modified `2026-07-31T13:09:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (9 source files)</summary>
+<summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Skillicon.png">Skillicon.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 283</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:SculkWorm.jpg">SculkWorm.jpg</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 2314</li>
@@ -152,6 +117,5 @@ TR Mysticism reference adapted from [Races](https://trmysticism.wiki.gg/wiki/Rac
 <li><a href="https://trmysticism.wiki.gg/wiki/File:AttunedDragon.jpg">AttunedDragon.jpg</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 2322</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Magicicon.png">Magicicon.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 282</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Restricted.png">Restricted.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 2965</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Placeholder.png">Placeholder.png</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 2021</li>
 </ul>
 </details>

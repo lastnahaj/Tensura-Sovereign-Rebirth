@@ -65,42 +65,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-devil-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Devil Lord</strong>
-<small>Creative flight (unaffected by Magic Jamming )</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-beast/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Beast</strong>
-<small>" This is one Divine Beast... ha "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-demon-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Demon Slime</strong>
-<small>" Insert Funny quip here "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-boar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Boar</strong>
-<small>" Sounds like one tasty boar... how divine "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

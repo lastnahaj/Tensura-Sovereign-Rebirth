@@ -72,32 +72,11 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-metal-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Metal Slime</strong>
-<small>" The Hardest Slime around "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ogre.png"/>
 <span class="reference-related-copy">
 <strong>Ogre</strong>
 <small>" WHAT'RE DOIN IN MA SWAMP?! Huh? What do you mean wrong Ogre? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-merfolk-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk Saint</strong>
-<small>" They're just making random names now "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-orc/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
-<span class="reference-related-copy">
-<strong>Orc</strong>
-<small>" I wish you luck on this journey "</small>
 </span>
 </a>
 </div>

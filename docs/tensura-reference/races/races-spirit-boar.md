@@ -65,42 +65,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-spirit-bird/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Bird</strong>
-<small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Oni</strong>
-<small>" OoOOooOoo Spooky Demog "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-beast/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Beast</strong>
-<small>Divine Beast - 2,000,000 EP</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-skeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Skeleton</strong>
-<small>" Spooky Scary... Sometimes the jokes write themselves. "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -103,42 +103,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-enlightened-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Ogre</strong>
-<small>" This race has way too many evolutions... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-giant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Giant</strong>
-<small>A race that can freely change their size becoming massive and increasing their physical strength</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Merfolk</strong>
-<small>" The honoured... fish? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-goblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Goblin</strong>
-<small>A race of Sprite Demi-Humans. They seem to be descended from the offspring of Dwarves and Oni.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -147,7 +112,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 Base Tensura reference adapted from [Races/Ghoul](https://tensura.wiki.gg/wiki/Races/Ghoul) on the Tensura: Reincarnated Wiki (revision `11803`, modified `2026-04-05T21:58:28Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
 </ul>

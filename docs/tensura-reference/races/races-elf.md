@@ -113,32 +113,11 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-dwarf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dwarf Saint</strong>
-<small>" He's beginning to belie... dig some more? what?! "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-elf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp"/>
 <span class="reference-related-copy">
 <strong>Elf Saint</strong>
 <small>" I name you, The saintiest of elevens "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dwarf</strong>
-<small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Dwarf</strong>
-<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
 </span>
 </a>
 </div>

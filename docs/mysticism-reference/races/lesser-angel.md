@@ -2,7 +2,6 @@
 title: Lesser Angel
 description: '"Come back when you get a personality bro"'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -34,14 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p>"<i>Come back when you get a personality bro</i>"
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>Come back when you get a personality bro</i>"
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Lesser Angel</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 40</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
@@ -91,18 +83,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../lesser-elemental/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Elemental</strong>
-<small>Lesser Spirits are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lesser-fallen/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/lesser-angel.webp"/>
 <span class="reference-related-copy">
 <strong>Lesser Fallen</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>
@@ -115,9 +99,8 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 TR Mysticism reference adapted from [Lesser Angel](https://trmysticism.wiki.gg/wiki/Lesser_Angel) on the Tensura Reincarnated: Mysticism Wiki (revision `3191`, modified `2026-07-02T02:54:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3039</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Cryptid_Essence.png">Invicon Cryptid Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 1982</li>
 </ul>

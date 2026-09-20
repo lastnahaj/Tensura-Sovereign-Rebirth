@@ -80,17 +80,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </span>
 </a>
 <a class="reference-related-card" href="../races-orc-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
 <small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Ogre</strong>
-<small>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</small>
 </span>
 </a>
 </div>

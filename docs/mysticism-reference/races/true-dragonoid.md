@@ -60,35 +60,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../tengu-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Tengu Saint</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tengu/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Tengu Race</strong>
-<small>The Tengu Race grants the ability to toggle flight when not crouching or sprinting. Activating or deactivating flight…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../violence-deity/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Violence Deity</strong>
-<small>Gets permanent blindness effect - negated by having any kind of detection skill 1.21.1 – Ported 1.19.2 – Added to the…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

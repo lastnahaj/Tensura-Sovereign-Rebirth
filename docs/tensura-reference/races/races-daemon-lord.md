@@ -68,42 +68,7 @@ None</div></div></div></div>
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-beastfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Beastfolk</strong>
-<small>A race that can freely change bewteen their true animal form and a more human form. They possess immense physical…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-death-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Death Oni</strong>
-<small>" Become Deaf itself. What? WHAT??? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-beast-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Beast Lord</strong>
-<small>Spirit Beast - 400,000 EP + Defeat 4 Bosses</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-demon-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Demon Slime</strong>
-<small>" Insert Funny quip here "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

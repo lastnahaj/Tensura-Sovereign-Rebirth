@@ -2,7 +2,6 @@
 title: Divine Hardshell Ant
 description: Has 25 armor points. (if possible, move this to the specific stats section.) 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -14,8 +13,8 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Divine Hardshell Ant source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif" alt="Divine Hardshell Ant family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Giant_ant.gif">Giant ant.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Divine Hardshell Ant</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Divine Hardshell Ant</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 1800</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 9405</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 1</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -55,7 +47,7 @@ Easy</div></div></div><div class="druid-section-container"><div data-druid-secti
 Yes</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Spiritual">Spiritual</div><div class="druid-data druid-data-Spiritual druid-data-nonempty">
 Yes</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 Yes</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Divine_Ki_Release">Divine Ki Release</a>, <a href="../../skills/intrinsic/exoskeleton/" title="Exoskeleton">Exoskeleton</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Analytical_Appraisal">Analytical Appraisal</a>, <a class="new" href="https://trmysticism.wiki.gg/wiki/Clangorous_Soul?action=edit&amp;redlink=1" rel="nofollow" title="Clangorous Soul (page does not exist)">Clangorous Soul</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
+<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Divine_Ki_Release">Divine Ki Release</a>, <a href="../../skills/intrinsic/exoskeleton/" title="Exoskeleton">Exoskeleton</a>, <a href="../../../tensura-reference/skills/extra/analytical-appraisal" title="Analytical Appraisal">Analytical Appraisal</a>, <a class="new" href="https://trmysticism.wiki.gg/wiki/Clangorous_Soul?action=edit&amp;redlink=1" rel="nofollow" title="Clangorous Soul (page does not exist)">Clangorous Soul</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../hardshell-ant-savant/" title="Hardshell Ant Savant">Hardshell Ant Savant</a>, <a href="../earth-soul-insect/" title="Earth Soul Insect">Earth Soul Insect</a></div></div></div></div>
 <h2><span class="mw-headline" id="Traits">Traits</span></h2>
 <p>Has 25 armor points. (if possible, move this to the specific stats section.)
@@ -75,15 +67,8 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../divine-inferius/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Divine Inferius</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../divine-fire-ant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif"/>
 <span class="reference-related-copy">
 <strong>Divine Fire Ant</strong>
 <small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
@@ -97,10 +82,3 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 ## Source and licensing
 
 TR Mysticism reference adapted from [Divine Hardshell Ant](https://trmysticism.wiki.gg/wiki/Divine_Hardshell_Ant) on the Tensura Reincarnated: Mysticism Wiki (revision `2911`, modified `2026-04-19T14:35:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

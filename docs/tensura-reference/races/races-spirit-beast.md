@@ -61,35 +61,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
-<span class="reference-related-copy">
-<strong>Slime</strong>
-<small>A Spectral race of monsters that lacks intelligence and ambition. They're usually passive but are incredibly ruthless…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-bird/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Bird</strong>
-<small>Birb The evolution a harpy queen can achieve after becoming a spiritual being</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-boar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Boar</strong>
-<small>" Spooky Bear... how boaring... "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

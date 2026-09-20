@@ -60,42 +60,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-demon-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Demon Slime</strong>
-<small>" Insert Funny quip here "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-bird/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine  Bird</strong>
-<small>I asked for some strong KFC but didn't expect this The ultimate evolution of a harpy</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-death-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Death Oni</strong>
-<small>" Become Deaf itself. What? WHAT??? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-beast/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Beast</strong>
-<small>" This is one Divine Beast... ha "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

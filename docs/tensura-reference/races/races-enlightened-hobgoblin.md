@@ -65,42 +65,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-enlightened-elf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Elf</strong>
-<small>" Blah Blah Honoured Elf Blah Blah "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Human</strong>
-<small>" I alone am the honored one... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Dwarf</strong>
-<small>" Dwarf no longer dig hole, Dwarf Dig you. "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Merfolk</strong>
-<small>" The honoured... fish? "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

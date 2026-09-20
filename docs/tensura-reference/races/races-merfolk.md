@@ -103,32 +103,11 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-lizardman/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
-<span class="reference-related-copy">
-<strong>Lizardman</strong>
-<small>A race of scaled people descended from dragons. Their webbed feet give them an advantage in wet terrain.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-merfolk-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp"/>
 <span class="reference-related-copy">
 <strong>Merfolk Saint</strong>
 <small>" They're just making random names now "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lesser-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Daemon</strong>
-<small>The lowest level of the daemon race. They spontaneously come into existence within the Daemon Realm, where they slowly…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-metal-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Metal Slime</strong>
-<small>" The Hardest Slime around "</small>
 </span>
 </a>
 </div>

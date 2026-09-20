@@ -83,31 +83,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/dwarf.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf</strong>
 <small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-elf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Elf</strong>
-<small>" We know why you went this race... " A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-dragonewt/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dragonewt</strong>
-<small>" ur not a dragon bro... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-elf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Elf Saint</strong>
-<small>" I name you, The saintiest of elevens "</small>
 </span>
 </a>
 </div>

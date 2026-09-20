@@ -73,7 +73,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-orc-disaster/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc Disaster</strong>
 <small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
@@ -84,13 +84,6 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <span class="reference-related-copy">
 <strong>Orc</strong>
 <small>A race of beastfolk who lost the ability to shift between man and beast, resulting in a permanent mix of the two…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
-<span class="reference-related-copy">
-<strong>Slime</strong>
-<small>Charge up a super slime jump</small>
 </span>
 </a>
 </div>

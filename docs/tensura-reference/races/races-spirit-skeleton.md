@@ -72,42 +72,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-spirit-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Oni</strong>
-<small>" OoOOooOoo Spooky Demog "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-true-dragonewt/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>True Dragonewt</strong>
-<small>" still not a dragon... stay mad "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-boar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Boar</strong>
-<small>" Spooky Bear... how boaring... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-vampire/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Vampire</strong>
-<small>" I vant to suck your blood "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

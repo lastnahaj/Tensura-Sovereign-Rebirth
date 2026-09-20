@@ -1,8 +1,7 @@
 ---
 title: Scorch Wolf
-description: '(Remove this once finalized) Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Blazing Scorch Wolf: 200k EP and have Mastered Flame Manipulation, Wind Manipulation and...'
+description: 'Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Blazing Scorch Wolf: 200k EP and have Mastered Flame Manipulation, Wind Manipulation and...'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -14,12 +13,12 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Scorch Wolf source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/direwolf-0f13b02020.gif" alt="Scorch Wolf family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Direwolf.gif">Direwolf.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Racial_Ability">Racial Ability</a>
 <a href="#Evolution">Evolution</a>
@@ -33,13 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Scorch Wolf</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 45</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 325</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
@@ -70,52 +63,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../rimefang-drake/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Rimefang Drake</strong>
-<small>Rimeblight Hydra - Have 1.5M EP, Mastered Dragon Eye and Ice Domination. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../scorchtail-salamander/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Scorchtail Salamander</strong>
-<small>Scorchtalon Wyvern - Have 1.5M EP, Mastered Flame Domination and Dragon Skin. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../rimeblight-hydra/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Rimeblight Hydra</strong>
-<small>Gains flight ability when not crouching or sprinting. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../scorchtalon-wyvern/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Scorchtalon Wyvern</strong>
-<small>Use your wings to take flight + Boost yourself during Flight, Costs Hunger</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Scorch Wolf](https://trmysticism.wiki.gg/wiki/Scorch_Wolf) on the Tensura Reincarnated: Mysticism Wiki (revision `3249`, modified `2026-07-03T00:33:28Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

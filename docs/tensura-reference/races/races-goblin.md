@@ -96,42 +96,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-giant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Giant</strong>
-<small>A race that can freely change their size becoming massive and increasing their physical strength</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-god-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>God Slime</strong>
-<small>" The Fattest Boi Around "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-ghoul/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
-<span class="reference-related-copy">
-<strong>Ghoul</strong>
-<small>A Vampiric thrall brought about by Blood Raise, highly weakened by sunlight.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-greater-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Greater Daemon</strong>
-<small>" Huh? You think you're something now? Get out my sight... "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

@@ -72,31 +72,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-hobgoblin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/goblin.png"/>
 <span class="reference-related-copy">
 <strong>Hobgoblin</strong>
 <small>Enlightened Hobgoblin - 100,000 EP or Harvest Festival Ogre - Defeat/"Die" to Elemental Colossus</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
-<span class="reference-related-copy">
-<strong>Human</strong>
-<small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-high-orc/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>High Orc</strong>
-<small>" I'm the Highest in the room "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-human-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Human Saint</strong>
-<small>" Saint Nicholas died for this "</small>
 </span>
 </a>
 </div>

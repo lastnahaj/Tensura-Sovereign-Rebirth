@@ -2,7 +2,6 @@
 title: Sunfire Lindwurm
 description: Sundiety Loong - Have 1.5M EP, Mastered Light Domination and Dragon Skin. 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -13,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Sunfire Lindwurm source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/attuned-wyrm.webp" alt="Sunfire Lindwurm family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -31,15 +30,12 @@ tags:
 </div>
 </section>
 
+<!-- race-unavailable:start -->
+<aside class="skill-evidence-note"><strong>1.21.1 route notice:</strong> This source article names one or more evolution routes that are not registered in the recorded 1.21.1 build. Those names are marked below and are excluded from the current family map.</aside>
+<!-- race-unavailable:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Sunfire Lindwurm</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Sunfire Lindwurm</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 660</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 1340</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 4</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -57,11 +53,11 @@ Yes</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="S
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
 <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Ear">Dragon Ear</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Skin">Dragon Skin</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Light_Transform">Light Transform</a>,<a class="text" href="../../skills/extra/profaned-prominence/">Profaned Prominence</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Flame_Attack_Resistance">Flame Attack Resistance</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../greater-pyre-wyrm/" title="Greater Pyre Wyrm">Greater Pyre Wyrm</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
-<a href="../sundiety-loong/" title="Sundiety Loong">Sundiety Loong</a></div></div></div></div>
+<span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Sundiety Loong <small>not in recorded 1.21.1 build</small></span></div></div></div></div>
 <p><br/>
 </p>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
-<ul><li><a href="../sundiety-loong/" title="Sundiety Loong">Sundiety Loong</a> - Have 1.5M EP, Mastered <a class="text" href="../../skills/extra/light-domination/">Light Domination</a> and <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Skin">Dragon Skin</a>.</li></ul>
+<ul><li><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Sundiety Loong <small>not in recorded 1.21.1 build</small></span> - Have 1.5M EP, Mastered <a class="text" href="../../skills/extra/light-domination/">Light Domination</a> and <a class="external text" href="https://tensura.wiki.gg/wiki/Dragon_Skin">Dragon Skin</a>.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>
 <ul><li><b>1.19.2</b> – Added to the game.</li></ul>
@@ -71,38 +67,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../steel-soul-insect/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Steel Soul Insect</strong>
-<small>Divine Preying Mantis - Acquire 2M EP.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../tengu/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Tengu Race</strong>
-<small>The Tengu Race grants the ability to toggle flight when not crouching or sprinting. Activating or deactivating flight…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Sunfire Lindwurm](https://trmysticism.wiki.gg/wiki/Sunfire_Lindwurm) on the Tensura Reincarnated: Mysticism Wiki (revision `2746`, modified `2026-02-20T22:10:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

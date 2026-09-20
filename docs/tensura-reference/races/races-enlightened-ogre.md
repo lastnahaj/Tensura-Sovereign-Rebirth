@@ -70,42 +70,7 @@ No</div></div><div class="druid-row druid-row-APEvoReward" data-druid-section-ro
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-enlightened-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Merfolk</strong>
-<small>" The honoured... fish? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-ghoul/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
-<span class="reference-related-copy">
-<strong>Ghoul</strong>
-<small>" Brains~~ Lookin ahh... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-enlightened-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Enlightened Human</strong>
-<small>" I alone am the honored one... "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-giant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Giant</strong>
-<small>A race that can freely change their size becoming massive and increasing their physical strength</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

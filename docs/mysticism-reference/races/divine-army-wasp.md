@@ -1,9 +1,8 @@
 ---
 title: Divine Army Wasp
-description: (Remove this once finalized) 1.21.1 – ??? 1.19.2 – Added to the game.
+description: 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
 - Races
-- Work_in_Progress
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
 ---
@@ -14,12 +13,12 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Divine Army Wasp source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/army-wasp-751af321e0.gif" alt="Divine Army Wasp family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Army_wasp.gif">Army wasp.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Version_history">Version history</a>
 </nav>
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p>(Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><p><br/>
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Divine Army Wasp</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
@@ -67,45 +59,10 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../dissonance-deity/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Dissonance Deity</strong>
-<small>No longer blind. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../direwolf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Direwolf</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../divine-blue-centipede/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Divine Blue Centipede</strong>
-<small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Divine Army Wasp](https://trmysticism.wiki.gg/wiki/Divine_Army_Wasp) on the Tensura Reincarnated: Mysticism Wiki (revision `2636`, modified `2026-02-20T21:49:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

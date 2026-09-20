@@ -100,42 +100,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-kijin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Kijin</strong>
-<small>" Ahahahahaha... You're Kijin me! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lizardman/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/lizardman-8656387a04.png"/>
-<span class="reference-related-copy">
-<strong>Lizardman</strong>
-<small>" Leezard..? Lizurd..? Lizzy..! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-human-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Human Saint</strong>
-<small>" Saint Nicholas died for this "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-merfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Merfolk</strong>
-<small>" I'm under da water... blub "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

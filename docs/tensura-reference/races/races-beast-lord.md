@@ -67,32 +67,11 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-arch-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Arch Daemon</strong>
-<small>" I hear you like to Arch it huh...? "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-beastfolk/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/beastfolk.png"/>
 <span class="reference-related-copy">
 <strong>Beastfolk</strong>
 <small>A race that can freely change bewteen their true animal form and a more human form. They possess immense physical…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-ancient-giant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Ancient Giant</strong>
-<small>An ancient version of giants, more primitive but far stronger</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-daemon-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Daemon Lord</strong>
-<small>" Lord of the Matt Daemons "</small>
 </span>
 </a>
 </div>

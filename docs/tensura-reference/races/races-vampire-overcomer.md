@@ -80,31 +80,17 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-vampire-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ghoul.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Lord</strong>
 <small>" Lord of the Suckers "</small>
 </span>
 </a>
-<a class="reference-related-card" href="../races-wicked-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Wicked Oni</strong>
-<small>Death Oni - 400,000 EP</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-vampire/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ghoul.png"/>
 <span class="reference-related-copy">
 <strong>Vampire</strong>
 <small>" I vant to suck your blood "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-wight/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Wight</strong>
-<small>"Wight So Serious?" A Demi-Spiritual skeletal undead Monster Race that is highly weakened by sunlight.</small>
 </span>
 </a>
 </div>

@@ -87,31 +87,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/racehuman-de4f15d1c8.png"/>
 <span class="reference-related-copy">
 <strong>Human</strong>
 <small>" I... Am Steve.. " A weak but populous race that relies more on technology and numbers than brute force. Their low…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-kijin/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Kijin</strong>
-<small>" Ahahahahaha... You're Kijin me! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-hobgoblin-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Hobgoblin Saint</strong>
-<small>" Why would you go this..? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-lesser-daemon/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Daemon</strong>
-<small>" Lowly Daemon Scum "</small>
 </span>
 </a>
 </div>

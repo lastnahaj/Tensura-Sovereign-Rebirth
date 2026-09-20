@@ -3,7 +3,6 @@ title: Singularity Scorpion Savant
 description: Divine Singularity Scorpion - 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
 - Races
-- Work_in_Progress
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
 ---
@@ -13,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Singularity Scorpion Savant source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/scorpion.webp" alt="Singularity Scorpion Savant family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Singularity Scorpion Savant</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Singularity Scorpion Savant</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 270</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 1480</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 0.8</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -55,7 +47,7 @@ Default</div></div><div class="druid-row druid-row-Speed" data-druid-section-row
 Yes</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Spiritual">Spiritual</div><div class="druid-data druid-data-Spiritual druid-data-nonempty">
 No</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Analytical_AppraisalAnalytical">Appraisal</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Poison">Poison</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
+<a href="../../../tensura-reference/skills/extra/analytical-appraisal" title="Analytical Appraisal">Analytical Appraisal</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Poison">Poison</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../singularity-scorpion-insectar/" title="Singularity Scorpion Insectar">Singularity Scorpion Insectar</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../divine-singularity-scorpion/" title="Divine Singularity Scorpion">Divine Singularity Scorpion</a></div></div></div></div>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
@@ -77,31 +69,17 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../singularity-scorpion-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/scorpion.webp"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion Insectar</strong>
 <small>Singularity Scorpion Savant - 100K EP Kill 4 Bosses.</small>
 </span>
 </a>
-<a class="reference-related-card" href="../soul-aberration/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Soul Aberration</strong>
-<small>Is blind. Reaper Aberration - 2M EP as a Soul Aberration. 1.21.1 – Ported 1.19.2 – Added to the game.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../singularity-scorpion/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/scorpion.webp"/>
 <span class="reference-related-copy">
 <strong>Singularity Scorpion</strong>
 <small>Singularity Scorpion Insectar - 100K EP.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../soul-shrieker/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Soul Shrieker</strong>
-<small>Is blind. Warden - 50K EP as a Soul Shrieker. 1.21.1 – Ported. 1.19.2 – Added to the game.</small>
 </span>
 </a>
 </div>
@@ -112,10 +90,3 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 ## Source and licensing
 
 TR Mysticism reference adapted from [Singularity Scorpion Savant](https://trmysticism.wiki.gg/wiki/Singularity_Scorpion_Savant) on the Tensura Reincarnated: Mysticism Wiki (revision `2930`, modified `2026-04-24T13:44:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

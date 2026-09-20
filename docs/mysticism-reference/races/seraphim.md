@@ -2,7 +2,6 @@
 title: Seraph
 description: Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither crouching or sprinting. Toggling flight triggers a level-up sound effect. Spiritual being. Cannot obtain Darkness Spirit. Mystic Angel - Eating 10 Cryptid Essence as a Seraphim. Fallen Seraphim...
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -33,15 +32,12 @@ tags:
 </div>
 </section>
 
+<!-- race-unavailable:start -->
+<aside class="skill-evidence-note"><strong>1.21.1 route notice:</strong> This source article names one or more evolution routes that are not registered in the recorded 1.21.1 build. Those names are marked below and are excluded from the current family map.</aside>
+<!-- race-unavailable:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Seraph</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Seraph</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 1080</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 6360</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 1.0</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -58,7 +54,7 @@ Yes</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="S
 Yes</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
 <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Divine_Ki_Release">Divine Ki Release</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Abilities/Skills/Spiritual_Attack_Resistance">Spiritual Attack Resistance</a>, <a class="text" href="../../skills/extra/light-domination/">Light Domination</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../cherub/" title="Cherub"> Cherub</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
-<a href="../mystic-angel/" title="Mystic Angel"> Mystic Angel</a>, <a href="../fallen-seraphim/" title="Fallen Seraphim"> Fallen Seraphim</a></div></div></div></div>
+<a href="../mystic-angel/" title="Mystic Angel"> Mystic Angel</a>, <span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Fallen Seraphim <small>not in recorded 1.21.1 build</small></span></div></div></div></div>
 
 <h2><span class="mw-headline" id="Racial_Ability">Racial Ability</span></h2>
 <ul><li>Angelic Flight - Members of the angel race can enable or disable flight at will, depending if they are neither crouching or sprinting. Toggling flight triggers a level-up sound effect.</li></ul>
@@ -67,7 +63,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 <li>Cannot obtain Darkness Spirit.</li></ul>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <ul><li><a href="../mystic-angel/" title="Mystic Angel"> Mystic Angel</a> - Eating 10 <span class="nowrap"><span class="sprite-file"><a href="../../other/cryptid-essence/" title="Cryptid Essence"></a></span> <a href="../../other/cryptid-essence/" title="Cryptid Essence"><span class="sprite-text">Cryptid Essence</span></a></span> as a Seraphim.</li>
-<li><a href="../fallen-seraphim/" title="Fallen Seraphim"> Fallen Seraphim</a> - Becoming a majin or eating 10 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Daemon_Essence"></a></span> <a class="external text" href="https://tensura.wiki.gg/wiki/Daemon_Essence"><span class="sprite-text">Daemon Essence</span></a></span> as a Seraphim.</li></ul>
+<li><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Fallen Seraphim <small>not in recorded 1.21.1 build</small></span> - Becoming a majin or eating 10 <span class="nowrap"><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Daemon_Essence"></a></span> <a class="external text" href="https://tensura.wiki.gg/wiki/Daemon_Essence"><span class="sprite-text">Daemon Essence</span></a></span> as a Seraphim.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – Ported</li></ul>
 <ul><li><b>1.19.2</b> – Added to the game.</li></ul>
@@ -80,35 +76,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../sculk-worm/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
-<span class="reference-related-copy">
-<strong>Sculk Worm</strong>
-<small>Is blind. Soul Shrieker - 4K EP as a Sculk Worm. Molten Perforator - Eat 3 Blaze Essence + 4K EP as a Sculk Worm…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../scorpion/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Scorpion</strong>
-<small>Loxodrome Scorpion - Acquire 10K EP.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../singularity-scorpion/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Singularity Scorpion</strong>
-<small>Singularity Scorpion Insectar - 100K EP.</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -117,9 +85,8 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 TR Mysticism reference adapted from [Seraphim](https://trmysticism.wiki.gg/wiki/Seraphim) on the Tensura Reincarnated: Mysticism Wiki (revision `3195`, modified `2026-07-02T02:56:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Cryptid_Essence.png">Invicon Cryptid Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 1982</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3039</li>
 </ul>

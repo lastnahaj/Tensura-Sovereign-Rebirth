@@ -2,7 +2,6 @@
 title: Lesser Glacier Wyrm
 description: Greater Glacier Wyrm - Consume 10 Ice Essence and have 30K EP. 1.21.1 – ??? 1.19.2 – Added to the game.
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -32,14 +31,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Lesser Glacier Wyrm</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Lesser Glacier Wyrm</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 60</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 140</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
 2.5</div></div><div class="druid-row druid-row-MPRange" data-druid-section-row="GenericStats"><div class="druid-label druid-label-MPRange">MP Range</div><div class="druid-data druid-data-MPRange druid-data-nonempty">
@@ -80,32 +72,11 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../lesser-fallen/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Fallen</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lesser-pyre-wyrm/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/attuned-wyrm.webp"/>
 <span class="reference-related-copy">
 <strong>Lesser Pyre Wyrm</strong>
 <small>Greater Pyre Wyrm - Consume 20 Blaze Essence and have 30K EP. 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../lesser-elemental/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Lesser Elemental</strong>
-<small>Lesser Spirits are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../light-fang/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Light Fang</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>
@@ -118,9 +89,8 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 TR Mysticism reference adapted from [Lesser Glacier Wyrm](https://trmysticism.wiki.gg/wiki/Lesser_Glacier_Wyrm) on the Tensura Reincarnated: Mysticism Wiki (revision `3421`, modified `2026-07-10T17:30:23Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Ice_Essence.png">Invicon Ice Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 1983</li>
 </ul>
 </details>

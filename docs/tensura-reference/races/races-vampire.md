@@ -85,29 +85,15 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-true-dragonewt/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>True Dragonewt</strong>
-<small>" still not a dragon... stay mad "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-vampire-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ghoul.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Lord</strong>
 <small>" Lord of the Suckers "</small>
 </span>
 </a>
-<a class="reference-related-card" href="../races-spirit-skeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Skeleton</strong>
-<small>Fragility I, Weakness I in Sunlight</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-vampire-overcomer/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ghoul.png"/>
 <span class="reference-related-copy">
 <strong>Vampire Overcomer</strong>
 <small>" Fools! Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of…</small>

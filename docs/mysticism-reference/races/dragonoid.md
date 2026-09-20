@@ -66,42 +66,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../divine-yellow-centipede/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Divine Yellow Centipede</strong>
-<small>1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../drone-beetle/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Drone Beetle</strong>
-<small>Creative Flight Drone Beetle Insectar = 100,000 Ep 1.21.1 – ??? 1.19.2 – Added to the game.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../divine-wolf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Divine Wolf</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../drone-beetle-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Drone Beetle Insectar</strong>
-<small>Creative Flight Drone Beetle Saint = 400,000 Ep + 4 boss Kills Lightning Soul Insect = 400,000 Ep + Lightning…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

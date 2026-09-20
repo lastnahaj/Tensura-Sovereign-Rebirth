@@ -64,42 +64,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-divine-fish/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Fish</strong>
-<small>" Fish of the Divine Style "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-human/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Human</strong>
-<small>" I truly have reached Divinity.. "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-fighter/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Fighter</strong>
-<small>" I AM A FIGHTER!!! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Oni</strong>
-<small>Hobgoblin Saint Gains Strength , Steel Strength , Self Regeneration upon Evolution</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

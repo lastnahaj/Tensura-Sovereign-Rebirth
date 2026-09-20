@@ -109,31 +109,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-mystic-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/ogre.png"/>
 <span class="reference-related-copy">
 <strong>Mystic Oni</strong>
 <small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-orc/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
-<span class="reference-related-copy">
-<strong>Orc</strong>
-<small>" I wish you luck on this journey "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-metal-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Metal Slime</strong>
-<small>" The Hardest Slime around "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-orc-disaster/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Orc Disaster</strong>
-<small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
 </span>
 </a>
 </div>

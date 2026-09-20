@@ -1,8 +1,7 @@
 ---
 title: Fallen
-description: (Remove this once finalized) "Only a prime can kill the fallen" Fallen Flight - Members of the fallen race can enable or disable flight at will, depending if they are neither crouching or sprinting. Toggling flight triggers a level-up sound effect. Cannot obtain a Spirit of Light. 1.21.1 – Ported 1.19...
+description: "Only a prime can kill the fallen" Fallen Flight - Members of the fallen race can enable or disable flight at will, depending if they are neither crouching or sprinting. Toggling flight triggers a level-up sound effect. Cannot obtain a Spirit of Light. 1.21.1 – Ported 1.19...
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -13,13 +12,13 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Fallen source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/lesser-angel.webp" alt="Fallen family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Racial_Ability">Racial Ability</a>
 <a href="#Special_Traits">Special Traits</a>
@@ -32,14 +31,12 @@ tags:
 </div>
 </section>
 
+<!-- race-unavailable:start -->
+<aside class="skill-evidence-note"><strong>1.21.1 route notice:</strong> This source article names one or more evolution routes that are not registered in the recorded 1.21.1 build. Those names are marked below and are excluded from the current family map.</aside>
+<!-- race-unavailable:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><p>"<i>Only a prime can kill the fallen</i>"
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Fallen</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
@@ -59,7 +56,7 @@ Majin</div></div><div class="druid-row druid-row-Spiritual" data-druid-section-r
 Yes</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="SpecificStats"><div class="druid-label druid-label-Divine">Divine</div><div class="druid-data druid-data-Divine druid-data-nonempty">
 Yes</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
 <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Divine_Ki_Release">Divine Ki Release</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Darkness_Transform">Darkness Transform</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a href="../fallen-lord/" title="Fallen Lord">Fallen Lord</a>, <a href="../fallen-seraphim/" title="Fallen Seraphim">Fallen Seraphim</a></div></div></div></div>
+<a href="../fallen-lord/" title="Fallen Lord">Fallen Lord</a>, <span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Fallen Seraphim <small>not in recorded 1.21.1 build</small></span></div></div></div></div>
 <h2><span class="mw-headline" id="Racial_Ability">Racial Ability</span></h2>
 <ul><li>Fallen Flight - Members of the fallen race can enable or disable flight at will, depending if they are neither crouching or sprinting. Toggling flight triggers a level-up sound effect.</li></ul>
 <h2><span class="mw-headline" id="Special_Traits">Special Traits</span></h2>
@@ -79,32 +76,16 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../enflamed-aberration/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
-<span class="reference-related-copy">
-<strong>Enflamed Aberration</strong>
-<small>Is blind. Violence Deity - Eat 30 Blaze Essence + 2M EP as Enflamed Aberration. 1.21.1 – Ported 1.19.2 – Added to the…</small>
-</span>
-</a>
 <a class="reference-related-card" href="../fallen-arch-angel/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/lesser-angel.webp"/>
 <span class="reference-related-copy">
 <strong>Fallen Arch Angel</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../empty/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Empty</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../fallen-cherub/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/lesser-angel.webp"/>
 <span class="reference-related-copy">
 <strong>Fallen Cherub</strong>
-<small>(Remove this once finalized)</small>
 </span>
 </a>
 </div>
@@ -115,10 +96,3 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 ## Source and licensing
 
 TR Mysticism reference adapted from [Fallen](https://trmysticism.wiki.gg/wiki/Fallen) on the Tensura Reincarnated: Mysticism Wiki (revision `3205`, modified `2026-07-02T02:59:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

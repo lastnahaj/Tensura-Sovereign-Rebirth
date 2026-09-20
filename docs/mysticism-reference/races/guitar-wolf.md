@@ -1,8 +1,7 @@
 ---
 title: Guitar Wolf
-description: '(Remove this once finalized) Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Star Guitar Wolf: 400k EP and have Sound Manipulation. 1.21.1 – ??? 1.19.2 – Added to the...'
+description: 'Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Star Guitar Wolf: 400k EP and have Sound Manipulation. 1.21.1 – ??? 1.19.2 – Added to the...'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -14,12 +13,12 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Guitar Wolf source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/mobs/direwolf-0f13b02020.gif" alt="Guitar Wolf family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:Direwolf.gif">Direwolf.gif · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Racial_Ability">Racial Ability</a>
 <a href="#Evolution">Evolution</a>
@@ -32,14 +31,12 @@ tags:
 </div>
 </section>
 
+<!-- race-unavailable:start -->
+<aside class="skill-evidence-note"><strong>1.21.1 route notice:</strong> This source article names one or more evolution routes that are not registered in the recorded 1.21.1 build. Those names are marked below and are excluded from the current family map.</aside>
+<!-- race-unavailable:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Guitar Wolf</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 300</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 960</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
@@ -58,11 +55,11 @@ No</div></div><div class="druid-row druid-row-Divine" data-druid-section-row="Sp
 No</div></div></div><div class="druid-section-container"><div data-druid-section="Skills"><div class="druid-section druid-section-Skills">Skills</div></div><div class="druid-row druid-row-Intrinsics" data-druid-section-row="Skills"><div class="druid-label druid-label-Intrinsics">Intrinsics</div><div class="druid-data druid-data-Intrinsics druid-data-nonempty">
 <a class="external text" href="https://tensura.wiki.gg/wiki/Shadow_Motion">Shadow Motion</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Abilities/Skills/Pain_Nullification">Pain Nullification</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Sound_Manipulation">Sound Manipulation</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Sticky_Steel_Thread">Sticky Steel Thread</a></div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../direwolf/" title="Direwolf">Direwolf</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
-<a href="../star-guitar-wolf/" title="Star Guitar Wolf">Star Guitar Wolf</a></div></div></div></div>
+<span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Star Guitar Wolf <small>not in recorded 1.21.1 build</small></span></div></div></div></div>
 <h2><span class="mw-headline" id="Racial_Ability">Racial Ability</span></h2>
 <ul><li>Mount: Make use of your speed and be a mount for other players! Press your Race key (default 'R') to put another player on your head. Pressing your Race key again will kick them off.</li></ul>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
-<ul><li><a href="../star-guitar-wolf/" title="Star Guitar Wolf">Star Guitar Wolf</a>: 400k EP and have <a class="external text" href="https://tensura.wiki.gg/wiki/Sound_Manipulation">Sound Manipulation</a>.</li></ul>
+<ul><li><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Star Guitar Wolf <small>not in recorded 1.21.1 build</small></span>: 400k EP and have <a class="external text" href="https://tensura.wiki.gg/wiki/Sound_Manipulation">Sound Manipulation</a>.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>
 <ul><li><b>1.19.2</b> – Added to the game.</li></ul>
@@ -79,31 +76,9 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../green-fang/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/mobs/direwolf-0f13b02020.gif"/>
 <span class="reference-related-copy">
 <strong>Green Fang</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hardshell-ant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Hardshell Ant</strong>
-<small>Has 10 armor points. (if possible, move this to the specific stats section.)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../greater-pyre-wyrm/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Greater Pyre Wyrm</strong>
-<small>Scorchtail Salamander - Have 180K EP, Mastered Flame Manipulation and Profaned Prominence. Sunfire Lindwurm - Have…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hardshell-ant-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Hardshell Ant Insectar</strong>
-<small>Has 15 armor points. (if possible, move this to the specific stats section.)</small>
 </span>
 </a>
 </div>
@@ -114,10 +89,3 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 ## Source and licensing
 
 TR Mysticism reference adapted from [Guitar Wolf](https://trmysticism.wiki.gg/wiki/Guitar_Wolf) on the Tensura Reincarnated: Mysticism Wiki (revision `2680`, modified `2026-02-20T21:59:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

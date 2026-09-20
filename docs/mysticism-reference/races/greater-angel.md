@@ -2,7 +2,6 @@
 title: Greater Angel
 description: '"You still dont got a personality"'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -34,14 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<p>"<i>You still dont got a personality</i>"
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>You still dont got a personality</i>"
 </p>
 <div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Greater Angel</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 80</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
@@ -85,42 +77,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../gravity-soul-insect/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Gravity Soul Insect</strong>
-<small>Divine Singularity Scorpion - 2M EP</small>
-</span>
-</a>
-<a class="reference-related-card" href="../greater-doll/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Greater Doll</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../general/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>General</strong>
-<small>Spiritual being. 235K minimum EP if evolved from Field Officer Requires a body. Respawn in hell. Staff Officer - 800k…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../greater-elemental/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Greater Elemental</strong>
-<small>Spirits Race are able to fly at all times. Upon receiving this race, members are randomly assigned one of seven…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -129,9 +86,8 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 TR Mysticism reference adapted from [Greater Angel](https://trmysticism.wiki.gg/wiki/Greater_Angel) on the Tensura Reincarnated: Mysticism Wiki (revision `3192`, modified `2026-07-02T02:55:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3039</li>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Cryptid_Essence.png">Invicon Cryptid Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 1982</li>
 </ul>

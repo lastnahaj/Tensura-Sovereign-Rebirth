@@ -113,32 +113,11 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-dragonewt/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dragonewt</strong>
-<small>" ur not a dragon bro... "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-dwarf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/dwarf.png"/>
 <span class="reference-related-copy">
 <strong>Dwarf Saint</strong>
 <small>" He's beginning to belie... dig some more? what?! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-vampire/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Vampire</strong>
-<small>" Is it Lonely at the Top..? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-elf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Elf</strong>
-<small>" We know why you went this race... " A Sprite race descended from wind elementals. They possess a fierce talent for…</small>
 </span>
 </a>
 </div>

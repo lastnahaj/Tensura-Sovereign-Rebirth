@@ -66,42 +66,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-divine-vampire/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Vampire</strong>
-<small>" Is it Lonely at the Top..? "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dwarf</strong>
-<small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-divine-skeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Divine Skeleton</strong>
-<small>No effects while in Sunlight</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-dwarf-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Dwarf Saint</strong>
-<small>" He's beginning to belie... dig some more? what?! "</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

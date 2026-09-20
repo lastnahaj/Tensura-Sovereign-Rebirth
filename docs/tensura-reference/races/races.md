@@ -116,42 +116,7 @@ search:
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../races-orc-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Orc Lord</strong>
-<small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-slime/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/im-not-a-bad-slime-730d20484f.png"/>
-<span class="reference-related-copy">
-<strong>Slime</strong>
-<small>Charge up a super slime jump</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-orc-disaster/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Orc Disaster</strong>
-<small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
-</span>
-</a>
-<a class="reference-related-card" href="../races-spirit-beast/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Spirit Beast</strong>
-<small>Divine Beast - 2,000,000 EP</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 

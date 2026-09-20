@@ -1,8 +1,7 @@
 ---
 title: Magic Fang
-description: '(Remove this once finalized) Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Mystic Magic Fang: 400k EP and mastery of Magic Jamming 1.21.1 – ??? 1.19.2 – Added to the...'
+description: 'Mount: Make use of your speed and be a mount for other players! Press your Race key (default ''R'') to put another player on your head. Pressing your Race key again will kick them off. Mystic Magic Fang: 400k EP and mastery of Magic Jamming 1.21.1 – ??? 1.19.2 – Added to the...'
 tags:
-- Work_in_Progress
 - Races
 - Abilities_changed_in_1.21.1
 - Abilities_changed_in_1.19.2
@@ -20,12 +19,12 @@ search:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Magic Fang source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/mysticism/races/direwolf-9251a4c081.jpg" alt="Magic Fang family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Direwolf.jpg">Direwolf.jpg · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(Remove this once finalized)</p>
+<p></p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Racial_Ability">Racial Ability</a>
 <a href="#Evolution">Evolution</a>
@@ -39,13 +38,7 @@ search:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div><p> (Remove this once finalized)
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 </p><div class="druid-infobox druid-container noexcerpt druid-container-race" id="druid-container-1"><div><div class="druid-title">Magic Fang</div></div><div class="druid-section-container"><div data-druid-section="GenericStats"><div class="druid-section druid-section-GenericStats">Generic Stats</div></div><div class="druid-row druid-row-HP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-HP">HP</div><div class="druid-data druid-data-HP druid-data-nonempty">
 300</div></div><div class="druid-row druid-row-SHP" data-druid-section-row="GenericStats"><div class="druid-label druid-label-SHP">SHP</div><div class="druid-data druid-data-SHP druid-data-nonempty">
 960</div></div><div class="druid-row druid-row-Size" data-druid-section-row="GenericStats"><div class="druid-label druid-label-Size">Size</div><div class="druid-data druid-data-Size druid-data-nonempty">
@@ -78,45 +71,10 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../loxodrome-scorpion-savant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Loxodrome Scorpion Savant</strong>
-<small>Divine Loxodrome Scorpion - Acquire 2M EP.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../loxodrome-scorpion-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Loxodrome Scorpion Insectar</strong>
-<small>Loxodrome Scorpion Savant - Acquire 400K EP. Defeat 4 Bosses</small>
-</span>
-</a>
-<a class="reference-related-card" href="../magma-worm/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png"/>
-<span class="reference-related-copy">
-<strong>Magma Worm</strong>
-<small>Is blind. Enflamed Aberration - Eat 20 Blaze Essence + 400K EP as a Magma Worm. 1.21.1 – Ported 1.19.2 – Added to the…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
 ## Source and licensing
 
 TR Mysticism reference adapted from [Magic Fang](https://trmysticism.wiki.gg/wiki/Magic_Fang) on the Tensura Reincarnated: Mysticism Wiki (revision `2696`, modified `2026-02-20T22:02:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
-</ul>
-</details>

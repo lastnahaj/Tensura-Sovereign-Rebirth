@@ -75,28 +75,7 @@ search:
 !!! note "Unavailable upstream media"
     Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Races</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../heavenly-restriction/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Heavenly Restriction</strong>
-<small>(Remove this once finalized)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hardshell-ant-savant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png"/>
-<span class="reference-related-copy">
-<strong>Hardshell Ant Savant</strong>
-<small>Has 20 armor points. (if possible, move this to the specific stats section.)</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -105,7 +84,7 @@ search:
 TR Mysticism reference adapted from [Insect](https://trmysticism.wiki.gg/wiki/Insect) on the Tensura Reincarnated: Mysticism Wiki (revision `3120`, modified `2026-06-29T06:59:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Skillicon.png">Skillicon.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 283</li>
 </ul>

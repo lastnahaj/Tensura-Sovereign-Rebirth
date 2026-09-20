@@ -104,29 +104,15 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../">Browse all Races</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../races-ogre/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png"/>
-<span class="reference-related-copy">
-<strong>Ogre</strong>
-<small>A sprite race descended from fire elementals. They possess immense physical capabilities and a strong Japanese lineage.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-orc-disaster/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc Disaster</strong>
 <small>" Wow... That's a... Disaster! I'm here all night!!! "</small>
 </span>
 </a>
-<a class="reference-related-card" href="../races-mystic-oni/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
-<span class="reference-related-copy">
-<strong>Mystic Oni</strong>
-<small>" Mmhmm. I'm feeling... Whimsical... Mystical... supercalifragilisticexpialidocious-cal "</small>
-</span>
-</a>
 <a class="reference-related-card" href="../races-orc-lord/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/reference-races-evolution.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/raceorc-c6c0a50e4e.png"/>
 <span class="reference-related-copy">
 <strong>Orc Lord</strong>
 <small>" I hunger... *Opens UberEats* (Sponsor us) "</small>
