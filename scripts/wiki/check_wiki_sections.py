@@ -120,6 +120,21 @@ for local_page, expected_content in generate_mysticism_world().items():
 from sync_biome_reference import generate as generate_biome_reference
 for local_page, expected_content in generate_biome_reference().items():
     assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale biome reference: {local_page}'
+from sync_dimension_reference import generate as generate_dimension_reference, load_manifest as load_dimension_manifest
+dimension_manifest = load_dimension_manifest()
+for source_key, build in dimension_manifest['reference_builds'].items():
+    selected = (ROOT / build['pack_manifest']).read_text(encoding='utf-8')
+    assert build['minecraft'] == '1.21.1'
+    if build.get('sha1'):
+        assert build['sha1'] in selected, f'Dimension source selection changed: {source_key}'
+for local_page, expected_content in generate_dimension_reference().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale dimension reference: {local_page}'
+dimensions = BeautifulSoup((site / 'tensura-reference/dimensions/index.html').read_text(encoding='utf-8'), 'html.parser')
+dimension_cards = dimensions.select('.reference-dimension-card')
+dimension_titles = [card.h2.get_text(' ', strip=True) for card in dimension_cards]
+assert dimension_titles == ['Boss Area', 'Elemental Realm', 'Hell', 'Hyperbolic Chamber', 'Kamui', 'Labyrinth']
+assert all(card.select_one('.reference-card-media img') for card in dimension_cards), 'A dimension card is missing artwork'
+assert 'Tensura: Dungeon project is not installed' in dimensions.get_text(' ', strip=True)
 biomes = BeautifulSoup((site / 'tensura-reference/biomes/index.html').read_text(encoding='utf-8'), 'html.parser')
 biome_cards = biomes.select('.reference-card')
 biome_titles = [card.h2.get_text(' ', strip=True) for card in biome_cards]

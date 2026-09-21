@@ -2445,6 +2445,11 @@ def main() -> int:
         from sync_biome_reference import generate as generate_biome_reference
         for name, content in generate_biome_reference().items():
             (DOCS / name).write_text(content, encoding="utf-8")
+        from sync_dimension_reference import generate as generate_dimension_reference
+        for name, content in generate_dimension_reference().items():
+            destination = DOCS / name
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_text(content, encoding="utf-8")
         from sync_progression import OUTPUT as progression_output, build as build_progression
         write_json(progression_output, build_progression())
         from sync_race_families import generate as generate_race_families

@@ -1,0 +1,270 @@
+{
+  "schema": 1,
+  "reference_builds": {
+    "tensura": {
+      "name": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599"
+    },
+    "mysticism": {
+      "name": "Tensura: Mysticism",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+      "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529"
+    },
+    "ascension": {
+      "name": "Tensura: Ascension",
+      "version": "2.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "84cbe87a6641bd8275624f8251eb2b25c57f0bbc",
+      "pack_manifest": "pack/mods/tensura-ascensions.pw.toml",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions/files/8060740"
+    }
+  },
+  "pages": [
+    {
+      "display_title": "Boss Area",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/dimensions/boss-area.md",
+      "media_asset": "assets/upstream/tensura/structures/labyrinth-arena-8fd18214ea.png",
+      "summary": "A flat, void-based encounter space used internally by Tensura's boss systems rather than a normal exploration destination.",
+      "stats": {
+        "Registry ID": "tensura:boss_area",
+        "World type": "Flat void",
+        "Time": "Fixed at 3000",
+        "Beds": "Disabled",
+        "Raids": "Disabled",
+        "Player route": "Encounter-controlled"
+      },
+      "sections": [
+        {
+          "title": "How it is used",
+          "paragraphs": [
+            "The pinned core artifact registers Boss Area as a flat dimension whose biome is `minecraft:the_void`. It has no terrain layers, lakes, or normal world-generation features.",
+            "Treat it as an encounter stage, not a destination to locate or build a portal to. The reviewed artifact does not expose a normal player-facing entrance block for this dimension."
+          ]
+        },
+        {
+          "title": "What to expect",
+          "paragraphs": [
+            "The dimension fixes daytime at 3000, disables beds and raids, and uses Overworld visual effects. Its empty generator means meaningful geometry must be supplied by the encounter system.",
+            "This page documents the registered space without claiming which server events currently send players there; that behavior still needs an in-game encounter check."
+          ]
+        }
+      ],
+      "evidence_paths": [
+        "data/tensura/dimension/boss_area.json",
+        "data/tensura/dimension_type/boss_area.json"
+      ]
+    },
+    {
+      "display_title": "Elemental Realm",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/dimensions/elemental-realm.md",
+      "media_asset": "assets/upstream/mysticism/biomes/fire-biome-ead4504af1.png",
+      "summary": "Mysticism's seven-biome elemental world, called the Spirit Realm by the upstream guide and Elemental Realm by the 1.21.1 registry.",
+      "stats": {
+        "Registry ID": "mysticism:elemental_realm",
+        "World type": "Noise-generated",
+        "Biomes": "7 elemental biomes",
+        "Time": "Fixed at 6000",
+        "Beds": "Disabled",
+        "Return route": "Fall into the void"
+      },
+      "sections": [
+        {
+          "title": "How to enter",
+          "paragraphs": [
+            "The current upstream Mysticism guide directs players to fly to the roof above the praying platform in the Labyrinth. It recommends roughly 20,000–30,000 EP to survive the realm's Magicule Poisoning.",
+            "Those EP figures are upstream gameplay guidance rather than a fixed value found in the packaged dimension JSON. Approach the first trip as a survival check and confirm any server-tuned requirements in play."
+          ]
+        },
+        {
+          "title": "How to leave",
+          "paragraphs": [
+            "For the 1.21.1 build, the upstream guide says to fall into the void to return. The older route through large biome portal structures applies to the 1.19 line and is not presented here as the current exit method."
+          ]
+        },
+        {
+          "title": "What is inside",
+          "paragraphs": [
+            "The pinned generator explicitly selects Dark, Earth, Fire, Light, Space, Water, and Wind biomes. Each biome has its own terrain palette and reference page in the combined Biomes directory.",
+            "Only Dark, Earth, and Wind portal structures are registered by the reviewed 2.1.2 worldgen data. Fire, Space, and Water structure files exist in the jar, but their worldgen registrations are incomplete, so they are not promoted as working structures."
+          ]
+        }
+      ],
+      "links": [
+        {"label": "Browse elemental biomes", "target": "tensura-reference/biomes/index.md"},
+        {"label": "Find the praying platform", "target": "tensura-reference/structures/structures-labyrinth-tree.md"}
+      ],
+      "evidence_paths": [
+        "data/mysticism/dimension/elemental_realm.json",
+        "data/mysticism/dimension_type/elemental_realm.json",
+        "data/mysticism/worldgen/noise_settings/elemental_realm.json",
+        "io/github/Memoires/mysticism/handler/ElementalRealmHandler.class",
+        "io/github/Memoires/mysticism/mixin/block/MixinPrayingPathBlockEntity.class"
+      ],
+      "upstream_url": "https://trmysticism.wiki.gg/wiki/Spirit_Realm"
+    },
+    {
+      "display_title": "Hell",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/dimensions/hell.md",
+      "media_asset": "assets/images/encyclopedia/underworld-red-sands.webp",
+      "summary": "Tensura's Underworld dimension, reached through Hell Gate portals and generated from four verified 1.21.1 biomes.",
+      "stats": {
+        "Registry ID": "tensura:hell",
+        "World type": "Noise-generated",
+        "Biomes": "4 Underworld biomes",
+        "Time": "Fixed at 6000",
+        "Beds": "Disabled",
+        "Portal": "Hell Gate"
+      },
+      "sections": [
+        {
+          "title": "How to enter and leave",
+          "paragraphs": [
+            "Find a Hell Gate in the Overworld and step into its portal surface. The pinned portal implementation sends entities from any non-Hell dimension into `tensura:hell` and sends entities in Hell back to the Overworld.",
+            "Master-level Dwarf cartographers can offer a Hell Gate Explorer Map according to the current upstream guide. Trades are generated gameplay content, so availability can vary with villager offers and server configuration."
+          ]
+        },
+        {
+          "title": "What is inside",
+          "paragraphs": [
+            "The 1.21.1 generator selects Underworld Barrens, Underworld Red Sands, Underworld Sands, and Underworld Spikes. The Hell Gate can also generate within the Hell dimension, providing the portal surface used for the return trip.",
+            "Hell is not the vanilla Nether. It is a separate Tensura registry dimension with its own biome source and world-generation settings."
+          ]
+        }
+      ],
+      "links": [
+        {"label": "Open the Hell Gate structure", "target": "tensura-reference/structures/structures-hell-gate.md"},
+        {"label": "Browse its biomes", "target": "tensura-reference/biomes/index.md"}
+      ],
+      "evidence_paths": [
+        "data/tensura/dimension/hell.json",
+        "data/tensura/dimension_type/hell.json",
+        "data/tensura/worldgen/noise_settings/hell.json",
+        "io/github/manasmods/tensura/block/HellPortal.class"
+      ],
+      "upstream_url": "https://tensura.wiki.gg/wiki/Structures/Hell_Gate"
+    },
+    {
+      "display_title": "Hyperbolic Chamber",
+      "source_key": "ascension",
+      "local_page": "hyperbolic-chamber.md",
+      "media_asset": "assets/ascension/skills/hyperbolic_passage.png",
+      "summary": "Ascension's dangerous training dimension, entered with Hyperbolic Passage and configured for three-times EP gain on TSR.",
+      "stats": {
+        "Registry ID": "ascension:hyperbolic_chamber",
+        "Purpose": "Late-game training",
+        "TSR EP multiplier": "3×",
+        "Entry skill": "Hyperbolic Passage",
+        "Hazard": "Magicule Poisoning",
+        "World type": "Single-biome chamber"
+      },
+      "external_page": true,
+      "evidence_paths": [
+        "data/ascension/dimension/hyperbolic_chamber.json",
+        "data/ascension/dimension_type/hyperbolic_chamber.json",
+        "data/ascension/worldgen/biome/hyperbolic_chamber.json",
+        "pack/config/tensura/ascension-common.toml"
+      ]
+    },
+    {
+      "display_title": "Kamui",
+      "source_key": "mysticism",
+      "local_page": "tensura-reference/dimensions/kamui.md",
+      "media_asset": "assets/images/biomes/kamui-biome.webp",
+      "summary": "A sparse Mysticism pocket dimension tied to Phaser, with isolated Kamui cubes and no natural mob spawns in its fixed biome.",
+      "stats": {
+        "Registry ID": "mysticism:kamui_dimension",
+        "World type": "Sparse pocket realm",
+        "Biome": "mysticism:kamui_biome",
+        "Natural spawns": "None",
+        "Entry skill": "Phaser",
+        "TSR warp time": "60 ticks"
+      },
+      "sections": [
+        {
+          "title": "How to enter and leave",
+          "paragraphs": [
+            "Equip Phaser, crouch, and hold the skill long enough to complete its Kamui transfer. Releasing crouch cancels the process. Using the transfer again from inside Kamui returns the user to the recorded source dimension when it is still available, with an Overworld fallback.",
+            "Mastering Phaser halves the configured transfer time. TSR's pinned Mysticism configuration sets the normal Kamui warp to 60 ticks, a 5-second cooldown, and a cost of 1,500; server-side settings can change those values."
+          ]
+        },
+        {
+          "title": "What is inside",
+          "paragraphs": [
+            "The dimension uses one fixed biome, `mysticism:kamui_biome`. Its packaged biome definition has no natural creature, monster, ambient, or water spawns and lists Kamui cubes as its placed feature.",
+            "The noise settings use air as both the default block and default fluid, so this is not a conventional terrain world. Plan around isolated generated features and the Phaser route home."
+          ]
+        }
+      ],
+      "links": [
+        {"label": "Read the Phaser skill", "target": "mysticism-reference/skills/unique/phaser.md"},
+        {"label": "Open the Kamui biome", "target": "mysticism-reference/biomes/kamui-biome.md"}
+      ],
+      "evidence_paths": [
+        "data/mysticism/dimension/kamui_dimension.json",
+        "data/mysticism/dimension_type/kamui_dimension.json",
+        "data/mysticism/worldgen/biome/kamui_biome.json",
+        "data/mysticism/worldgen/noise_settings/kamui_dimension_realm.json",
+        "io/github/Memoires/mysticism/ability/skill/unique/PhaserSkill.class"
+      ]
+    },
+    {
+      "display_title": "Labyrinth",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/dimensions/labyrinth.md",
+      "media_asset": "assets/upstream/tensura/structures/labyrinth-hallway-10fc0a387d.png",
+      "summary": "Tensura's generated challenge maze, entered through a Labyrinth Tree and built around the Elemental Colossus route.",
+      "stats": {
+        "Registry ID": "tensura:labyrinth",
+        "World type": "Generated maze in a void world",
+        "Entry": "Labyrinth Tree portal",
+        "Suggested minimum": "8,000 EP",
+        "Beds": "Disabled",
+        "Key encounter": "Elemental Colossus"
+      },
+      "sections": [
+        {
+          "title": "How to enter and leave",
+          "paragraphs": [
+            "Find a Labyrinth Tree and step through its portal. The upstream 1.21.1 guide recommends at least 8,000 EP because underprepared players are rejected by Magicule Poisoning; that figure is guidance, not a value stored in the dimension JSON.",
+            "The portal implementation returns players from the Labyrinth to their Overworld respawn route when possible. A master-level Dwarf cartographer can offer a Labyrinth Explorer Map, but individual villager trades vary."
+          ]
+        },
+        {
+          "title": "Progress through the maze",
+          "paragraphs": [
+            "The dimension file itself is an empty flat world. Tensura's Labyrinth storage and generation systems build the playable maze into that space, so the route is not represented by normal biome terrain.",
+            "The entrance destination changes after the Elemental Colossus milestone: the portal code checks whether the entity has passed the Colossus and uses the post-encounter entrance when appropriate."
+          ]
+        },
+        {
+          "title": "Mysticism connection",
+          "paragraphs": [
+            "Mysticism uses the praying platform near the Labyrinth route as the current upstream entrance point for its Elemental Realm. That is a separate dimension and should not be confused with the unrelated Tensura: Dungeon mod, which is not installed in TSR."
+          ]
+        }
+      ],
+      "links": [
+        {"label": "Open the Labyrinth Tree", "target": "tensura-reference/structures/structures-labyrinth-tree.md"},
+        {"label": "Continue to the Elemental Realm", "target": "tensura-reference/dimensions/elemental-realm.md"}
+      ],
+      "evidence_paths": [
+        "data/tensura/dimension/labyrinth.json",
+        "data/tensura/dimension_type/labyrinth.json",
+        "io/github/manasmods/tensura/block/LabyrinthPortal.class",
+        "io/github/manasmods/tensura/handler/LabyrinthHandler.class",
+        "io/github/manasmods/tensura/storage/labyrinth/LabyrinthStorage.class"
+      ],
+      "upstream_url": "https://tensura.wiki.gg/wiki/Structures/Labyrinth_Tree"
+    }
+  ]
+}

@@ -2031,6 +2031,16 @@
 .reference-stat-tags > span { display: inline-flex; padding: .13rem .4rem; border: 1px solid rgba(51,214,255,.18); border-radius: 999px; color: var(--md-default-fg-color); font-size: .68rem; line-height: 1.35; background: rgba(51,214,255,.06); }
 .reference-card-source-note { display: block; margin-bottom: .8rem; color: var(--md-default-fg-color--light); }
 
+/* Dimension cards need room for registry IDs and travel details. */
+.reference-dimension-grid { grid-template-columns: repeat(2, minmax(18rem, 1fr)); }
+.reference-dimension-card .reference-card-media { height: 12rem; }
+.reference-dimension-card .reference-card-copy > p:not(.reference-eyebrow) { -webkit-line-clamp: 4; }
+.reference-dimension-card .reference-card-stats dd { overflow-wrap: anywhere; }
+@media screen and (max-width: 52rem) {
+  .reference-dimension-grid { grid-template-columns: minmax(0, 1fr); }
+  .reference-dimension-card .reference-card-media { height: clamp(12rem, 42vw, 18rem); }
+}
+
 /* Item media is presented as inventory art instead of stretching low-resolution sprites. */
 .reference-item-media--inventory {
   display: grid;
