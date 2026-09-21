@@ -77,9 +77,9 @@ def family_media(page: str, media_overrides: dict[str, str]) -> str | None:
 
 
 def normalize_known_skill_links(text: str, page: str) -> str:
-    target = relative(page, 'tensura-reference/skills/extra/analytical-appraisal/')
+    target = relative(page, 'tensura-reference/skills/extra/analytical-appraisal/').rstrip('/') + '/'
     return re.sub(
-        r'<a\b[^>]*href="https://(?:tensura|tensurareincarnated)\.wiki\.gg/wiki/Analytical_Appraisal(?:Analytical)?"[^>]*>.*?</a>',
+        r'<a\b[^>]*href="(?:https://(?:tensura|tensurareincarnated)\.wiki\.gg/wiki/Analytical_Appraisal(?:Analytical)?|(?:\.\./)+tensura-reference/skills/extra/analytical-appraisal/?)"[^>]*>.*?</a>',
         f'<a href="{target}" title="Analytical Appraisal">Analytical Appraisal</a>',
         text,
         flags=re.I | re.S,
