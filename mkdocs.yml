@@ -57,6 +57,7 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/hero.css
 
 extra_javascript:
   - assets/javascripts/reference.js
