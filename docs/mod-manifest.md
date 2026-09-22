@@ -12,13 +12,15 @@
 - Optional entries: **1**
 - Rejected entries tracked: **20**
 
-> This page preserves the v0.1 design authority and records newer runtime dispositions where verified. A design entry is not an installed claim. The current published build branch contains 53 Packwiz mod references, two pack-owned compatibility artifacts, and one verified embedded Flywheel dependency through the completed Phase 4A layer; later working candidates remain Under Validation until their phase report passes.
+> This page preserves the v0.1 design authority and records newer runtime dispositions where verified. A design entry is not an installed claim. Use the [Current Modlist](current-modlist.md) for the September 20, 2026 working roster; the complete 299-artifact candidate remains Under Validation until its client, dedicated-server, restart, and gameplay gates pass.
 
 ## Status rules
 
 ### Additions after the design freeze
 
-**Tensura Reincarnated Nightmares is installed.** Its exact 1.21.1 release is pending a version record, so its skill and race coverage is not yet build-verified. It is a content mod distinct from Nightmare Utils. Use the [Nightmares 1.21.1 reference](https://tensuranightmares.wiki.gg/wiki/Abilities/1.21.1) while that coverage is completed.
+**TR: Nightmare 1.0.3.2.8 for NeoForge 1.21.1 is in the current candidate.** Its skill, race, boss, item, and world coverage remains version-gated while the complete candidate is validated. It is a content mod distinct from Nightmare Utils. Use the [Nightmares 1.21.1 reference](https://tensuranightmares.wiki.gg/wiki/Abilities/1.21.1) alongside the local artifact evidence while that coverage is completed.
+
+**TensuraMorph, ReMorphed, TenSura Guild, and Woodwalkers are removed.** Their rows below remain only as historical v0.1 design entries and do not describe the current roster.
 
 The frozen tables below describe the earlier baseline; they do not override this newer inclusion.
 

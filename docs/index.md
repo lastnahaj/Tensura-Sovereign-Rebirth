@@ -131,6 +131,8 @@ The wiki presents its imported Tensura material as one reference experience alon
   Installed, verified, blocked, and under-validation integrations.
 - **[Mod Manifest](mod-manifest.md)**<br>
   Frozen design authority and current runtime dispositions.
+- **[Sources & Attribution](project/sources-and-attribution.md)**<br>
+  Public provenance, licensing, source roles, and version boundaries for this wiki.
 
 </div>
 

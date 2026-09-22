@@ -167,6 +167,7 @@ nav:
           - "Roadmap": roadmap.md
           - "Changelog": changelog.md
           - "Credits": credits.md
+          - "Sources & Attribution": project/sources-and-attribution.md
           - "Upstream Attribution": project/upstream-attribution.md
           - "Ingestion Coverage": project/ingestion-coverage.md
           - "Mysticism Attribution": project/mysticism-upstream-attribution.md

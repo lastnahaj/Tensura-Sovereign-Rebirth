@@ -1,0 +1,1073 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "source": "tensura",
+      "api": "https://tensura.wiki.gg/api.php",
+      "local_records": {
+        "checked": 2712,
+        "invalid": 0
+      },
+      "pages": {
+        "checked": 988,
+        "current": 833,
+        "changed": 155,
+        "missing": 0
+      },
+      "redirects": {
+        "checked": 398,
+        "current": 398,
+        "changed": 0,
+        "missing": 0
+      },
+      "media": {
+        "checked": 1621,
+        "current": 1621,
+        "changed": 0,
+        "missing": 0,
+        "recorded_unresolved": 103,
+        "unresolved_now_available": 0
+      },
+      "findings": [
+        {
+          "kind": "page_revision_changed",
+          "title": "All Seeing Eye",
+          "recorded_revision": 8373,
+          "current_revision": 13642
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Analytical Appraisal",
+          "recorded_revision": 11581,
+          "current_revision": 13643
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Biomes",
+          "recorded_revision": 12565,
+          "current_revision": 13653
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Biomes/Miasmic Plains",
+          "recorded_revision": 11714,
+          "current_revision": 13650
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Biomes/Barren Lands",
+          "recorded_revision": 11718,
+          "current_revision": 13651
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Biomes/Desert of Death",
+          "recorded_revision": 11744,
+          "current_revision": 13652
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Coercion",
+          "recorded_revision": 11187,
+          "current_revision": 13566
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Chant Annulment",
+          "recorded_revision": 13318,
+          "current_revision": 13644
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Demon Lord Haki",
+          "recorded_revision": 8388,
+          "current_revision": 13570
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Darkness Transform",
+          "recorded_revision": 10048,
+          "current_revision": 13552
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Earth Manipulation",
+          "recorded_revision": 12732,
+          "current_revision": 13662
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Earth Domination",
+          "recorded_revision": 11367,
+          "current_revision": 13666
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Earth Transform",
+          "recorded_revision": 8652,
+          "current_revision": 13554
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Effects/Infection",
+          "recorded_revision": 13301,
+          "current_revision": 13686
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Flame Manipulation",
+          "recorded_revision": 12734,
+          "current_revision": 13667
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Flame Domination",
+          "recorded_revision": 11303,
+          "current_revision": 13668
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Gravity Manipulation",
+          "recorded_revision": 12744,
+          "current_revision": 13657
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Gravity Domination",
+          "recorded_revision": 11304,
+          "current_revision": 13641
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Flame Transform",
+          "recorded_revision": 8658,
+          "current_revision": 13556
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Flame Attack Nullification",
+          "recorded_revision": 9685,
+          "current_revision": 13451
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Haki",
+          "recorded_revision": 8406,
+          "current_revision": 13569
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Heat Wave",
+          "recorded_revision": 11259,
+          "current_revision": 13633
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Hero Haki",
+          "recorded_revision": 8513,
+          "current_revision": 13567
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Hydraulic Propulsion",
+          "recorded_revision": 11239,
+          "current_revision": 13585
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Infinite Regeneration",
+          "recorded_revision": 9132,
+          "current_revision": 13580
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Items/Misc/Battlewill Manual",
+          "recorded_revision": 13048,
+          "current_revision": 13655
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Items/Schematics/Basic Bow Schematic",
+          "recorded_revision": 13267,
+          "current_revision": 13656
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Law Manipulation",
+          "recorded_revision": 12665,
+          "current_revision": 13685
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Lightning Manipulation",
+          "recorded_revision": 12745,
+          "current_revision": 13671
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Lightning Domination",
+          "recorded_revision": 11298,
+          "current_revision": 13670
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Aura",
+          "recorded_revision": 12879,
+          "current_revision": 13646
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Flame Transform",
+          "recorded_revision": 11331,
+          "current_revision": 13557
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Earth Transform",
+          "recorded_revision": 11327,
+          "current_revision": 13555
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Space Transform",
+          "recorded_revision": 13366,
+          "current_revision": 13561
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Light Transform",
+          "recorded_revision": 11325,
+          "current_revision": 13559
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Darkness Transform",
+          "recorded_revision": 11324,
+          "current_revision": 13553
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Light Transform",
+          "recorded_revision": 8660,
+          "current_revision": 13558
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Light Attack Resistance",
+          "recorded_revision": 12491,
+          "current_revision": 13428
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Wind Transform",
+          "recorded_revision": 11328,
+          "current_revision": 13565
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Magic Water Transform",
+          "recorded_revision": 11330,
+          "current_revision": 13563
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Majesty",
+          "recorded_revision": 10872,
+          "current_revision": 13645
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs",
+          "recorded_revision": 12632,
+          "current_revision": 13649
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mana Manipulation",
+          "recorded_revision": 11513,
+          "current_revision": 13684
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Evil Centipede",
+          "recorded_revision": 9498,
+          "current_revision": 13427
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Army Wasp",
+          "recorded_revision": 9592,
+          "current_revision": 13439
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Hell Moth",
+          "recorded_revision": 11194,
+          "current_revision": 13450
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Goblin",
+          "recorded_revision": 13309,
+          "current_revision": 13453
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Megalodon",
+          "recorded_revision": 13163,
+          "current_revision": 13441
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Metal Slime",
+          "recorded_revision": 12768,
+          "current_revision": 13445
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Lesser Daemon",
+          "recorded_revision": 12781,
+          "current_revision": 13448
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Arch Daemon",
+          "recorded_revision": 12786,
+          "current_revision": 13436
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Basilisk",
+          "recorded_revision": 13358,
+          "current_revision": 13437
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mortal Fear",
+          "recorded_revision": 11934,
+          "current_revision": 13571
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Molecular Manipulation",
+          "recorded_revision": 13415,
+          "current_revision": 13682
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Multilayer Barrier",
+          "recorded_revision": 11253,
+          "current_revision": 13577
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Tempest Serpent",
+          "recorded_revision": 13425,
+          "current_revision": 13447
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Unicorn",
+          "recorded_revision": 8870,
+          "current_revision": 13446
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Pegasus",
+          "recorded_revision": 12599,
+          "current_revision": 13440
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Poison",
+          "recorded_revision": 13363,
+          "current_revision": 13438
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Phantaspore",
+          "recorded_revision": 12884,
+          "current_revision": 13444
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Demon Slime",
+          "recorded_revision": 11936,
+          "current_revision": 13501
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Human",
+          "recorded_revision": 13001,
+          "current_revision": 13481
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Beastfolk",
+          "recorded_revision": 13016,
+          "current_revision": 13466
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Beast Lord",
+          "recorded_revision": 13017,
+          "current_revision": 13493
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Beast",
+          "recorded_revision": 13019,
+          "current_revision": 13495
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Fish",
+          "recorded_revision": 13015,
+          "current_revision": 13492
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Dwarf",
+          "recorded_revision": 13008,
+          "current_revision": 13462
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Dwarf",
+          "recorded_revision": 13011,
+          "current_revision": 13478
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Elf",
+          "recorded_revision": 13007,
+          "current_revision": 13489
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Oni",
+          "recorded_revision": 12472,
+          "current_revision": 13534
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Dragonewt",
+          "recorded_revision": 11773,
+          "current_revision": 13542
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Dragon",
+          "recorded_revision": 12478,
+          "current_revision": 13544
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Death Oni",
+          "recorded_revision": 11790,
+          "current_revision": 13532
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Fighter",
+          "recorded_revision": 12479,
+          "current_revision": 13533
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Boar",
+          "recorded_revision": 11781,
+          "current_revision": 13508
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Skeleton",
+          "recorded_revision": 11816,
+          "current_revision": 13486
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Vampire",
+          "recorded_revision": 12481,
+          "current_revision": 13499
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Arch Daemon",
+          "recorded_revision": 12396,
+          "current_revision": 13511
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Daemon Lord",
+          "recorded_revision": 12397,
+          "current_revision": 13512
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Devil Lord",
+          "recorded_revision": 12480,
+          "current_revision": 13513
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Alignment",
+          "recorded_revision": 12891,
+          "current_revision": 13471
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Bird",
+          "recorded_revision": 13322,
+          "current_revision": 13549
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Ancient Giant",
+          "recorded_revision": 11873,
+          "current_revision": 13516
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Divine Giant",
+          "recorded_revision": 11876,
+          "current_revision": 13518
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Ranged Barrier",
+          "recorded_revision": 8614,
+          "current_revision": 13576
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Metal Slime",
+          "recorded_revision": 11935,
+          "current_revision": 13500
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/God Slime",
+          "recorded_revision": 12482,
+          "current_revision": 13502
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Human",
+          "recorded_revision": 13373,
+          "current_revision": 13459
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Human",
+          "recorded_revision": 13003,
+          "current_revision": 13479
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Human Saint",
+          "recorded_revision": 13000,
+          "current_revision": 13480
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Spirit Beast",
+          "recorded_revision": 13018,
+          "current_revision": 13494
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Merfolk",
+          "recorded_revision": 13012,
+          "current_revision": 13467
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Merfolk",
+          "recorded_revision": 13013,
+          "current_revision": 13490
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Merfolk Saint",
+          "recorded_revision": 13014,
+          "current_revision": 13491
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Dwarf",
+          "recorded_revision": 13009,
+          "current_revision": 13476
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Dwarf Saint",
+          "recorded_revision": 13010,
+          "current_revision": 13477
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Elf",
+          "recorded_revision": 13004,
+          "current_revision": 13546
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Elf",
+          "recorded_revision": 13005,
+          "current_revision": 13487
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Elf Saint",
+          "recorded_revision": 13006,
+          "current_revision": 13488
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Goblin",
+          "recorded_revision": 11771,
+          "current_revision": 13536
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Hobgoblin",
+          "recorded_revision": 11770,
+          "current_revision": 13537
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Hobgoblin",
+          "recorded_revision": 11769,
+          "current_revision": 13538
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Hobgoblin Saint",
+          "recorded_revision": 11768,
+          "current_revision": 13539
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Lizardman",
+          "recorded_revision": 11772,
+          "current_revision": 13540
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/True Dragonewt",
+          "recorded_revision": 11774,
+          "current_revision": 13543
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Ogre",
+          "recorded_revision": 12779,
+          "current_revision": 13526
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Enlightened Ogre",
+          "recorded_revision": 12780,
+          "current_revision": 13527
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Wicked Oni",
+          "recorded_revision": 11794,
+          "current_revision": 13529
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Kijin",
+          "recorded_revision": 12782,
+          "current_revision": 13528
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Mystic Oni",
+          "recorded_revision": 13257,
+          "current_revision": 13530
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Spirit Oni",
+          "recorded_revision": 11787,
+          "current_revision": 13531
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Orc",
+          "recorded_revision": 12918,
+          "current_revision": 13503
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/High Orc",
+          "recorded_revision": 11777,
+          "current_revision": 13504
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Orc Lord",
+          "recorded_revision": 11778,
+          "current_revision": 13505
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Orc Disaster",
+          "recorded_revision": 11779,
+          "current_revision": 13506
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Spirit Boar",
+          "recorded_revision": 11780,
+          "current_revision": 13507
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Wight",
+          "recorded_revision": 11813,
+          "current_revision": 13484
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Wight King",
+          "recorded_revision": 12606,
+          "current_revision": 13483
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Spirit Skeleton",
+          "recorded_revision": 11815,
+          "current_revision": 13485
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Ghoul",
+          "recorded_revision": 11803,
+          "current_revision": 13469
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Vampire",
+          "recorded_revision": 11804,
+          "current_revision": 13496
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Vampire Overcomer",
+          "recorded_revision": 11805,
+          "current_revision": 13497
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Vampire Lord",
+          "recorded_revision": 11916,
+          "current_revision": 13498
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Lesser Daemon",
+          "recorded_revision": 12753,
+          "current_revision": 13470
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Greater Daemon",
+          "recorded_revision": 12617,
+          "current_revision": 13509
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Harpy",
+          "recorded_revision": 12668,
+          "current_revision": 13468
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Harpy Queen",
+          "recorded_revision": 11506,
+          "current_revision": 13519
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Spirit Bird",
+          "recorded_revision": 11507,
+          "current_revision": 13520
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Races/Giant",
+          "recorded_revision": 11502,
+          "current_revision": 13517
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Self Regeneration",
+          "recorded_revision": 12643,
+          "current_revision": 13578
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Sacred Haki",
+          "recorded_revision": 9137,
+          "current_revision": 13572
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Sage",
+          "recorded_revision": 13402,
+          "current_revision": 13647
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Shadow Motion",
+          "recorded_revision": 8558,
+          "current_revision": 13648
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Reverser",
+          "recorded_revision": 12798,
+          "current_revision": 13433
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Strength",
+          "recorded_revision": 12644,
+          "current_revision": 13581
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Sound Manipulation",
+          "recorded_revision": 13412,
+          "current_revision": 13637
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Sound Domination",
+          "recorded_revision": 11301,
+          "current_revision": 13638
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Spatial Manipulation",
+          "recorded_revision": 13169,
+          "current_revision": 13659
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Spatial Domination",
+          "recorded_revision": 11590,
+          "current_revision": 13658
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Space Transform",
+          "recorded_revision": 8672,
+          "current_revision": 13560
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Summon Medium Elemental",
+          "recorded_revision": 12466,
+          "current_revision": 13688
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Telepathy",
+          "recorded_revision": 8620,
+          "current_revision": 13582
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Thought Communication",
+          "recorded_revision": 13253,
+          "current_revision": 13583
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Water Blade",
+          "recorded_revision": 8624,
+          "current_revision": 13586
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Ultraspeed Regeneration",
+          "recorded_revision": 12660,
+          "current_revision": 13579
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Voice Cannon",
+          "recorded_revision": 11186,
+          "current_revision": 13568
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Water Current Control",
+          "recorded_revision": 8626,
+          "current_revision": 13584
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Water Manipulation",
+          "recorded_revision": 13157,
+          "current_revision": 13675
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Water Domination",
+          "recorded_revision": 11360,
+          "current_revision": 13674
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Weather Manipulation",
+          "recorded_revision": 8592,
+          "current_revision": 13678
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Weather Domination",
+          "recorded_revision": 8590,
+          "current_revision": 13677
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Wind Manipulation",
+          "recorded_revision": 13156,
+          "current_revision": 13679
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Wind Domination",
+          "recorded_revision": 13155,
+          "current_revision": 13680
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Wind Transform",
+          "recorded_revision": 8684,
+          "current_revision": 13564
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Water Transform",
+          "recorded_revision": 8682,
+          "current_revision": 13562
+        }
+      ]
+    },
+    {
+      "source": "mysticism",
+      "api": "https://trmysticism.wiki.gg/api.php",
+      "local_records": {
+        "checked": 541,
+        "invalid": 0
+      },
+      "pages": {
+        "checked": 377,
+        "current": 367,
+        "changed": 10,
+        "missing": 0
+      },
+      "redirects": {
+        "checked": 9,
+        "current": 9,
+        "changed": 0,
+        "missing": 0
+      },
+      "media": {
+        "checked": 163,
+        "current": 163,
+        "changed": 0,
+        "missing": 0,
+        "recorded_unresolved": 1,
+        "unresolved_now_available": 0
+      },
+      "findings": [
+        {
+          "kind": "page_revision_changed",
+          "title": "Abilities/Skills",
+          "recorded_revision": 2981,
+          "current_revision": 3484
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Divine Stag Beetle",
+          "recorded_revision": 2648,
+          "current_revision": 3479
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Gatekeeper",
+          "recorded_revision": 2798,
+          "current_revision": 3488
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Melancholy",
+          "recorded_revision": 2553,
+          "current_revision": 3476
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Mobs/Shadow imp",
+          "recorded_revision": 3456,
+          "current_revision": 3496
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Malleable",
+          "recorded_revision": 3089,
+          "current_revision": 3493
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Restricted",
+          "recorded_revision": 3416,
+          "current_revision": 3495
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Vainglory",
+          "recorded_revision": 2796,
+          "current_revision": 3475
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Subjugator",
+          "recorded_revision": 3081,
+          "current_revision": 3490
+        },
+        {
+          "kind": "page_revision_changed",
+          "title": "Zekrom",
+          "recorded_revision": 3178,
+          "current_revision": 3480
+        }
+      ]
+    }
+  ],
+  "mod_sources": {
+    "counts": {
+      "checked": 299,
+      "published_sources": 299,
+      "pack_local_modules": 0,
+      "curseforge_identity_matches": 299,
+      "invalid": 0
+    },
+    "findings": []
+  },
+  "summary": {
+    "findings": 165,
+    "changed": 165,
+    "missing": 0,
+    "local_invalid": 0,
+    "unresolved_now_available": 0,
+    "mod_source_invalid": 0
+  }
+}

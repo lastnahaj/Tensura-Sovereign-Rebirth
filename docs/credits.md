@@ -2,6 +2,9 @@
 
 TSR is a modpack and integration project built on independent games, mods, libraries, tools, and community documentation. Inclusion never implies that TSR created or owns an upstream project.
 
+!!! info "Complete source ledger"
+    The [Sources & Attribution](project/sources-and-attribution.md) page lists the adapted collections, official documentation, verification sources, license handling, and version boundaries used throughout this wiki.
+
 ## Base game and loader
 
 - **Minecraft** — Mojang Studios / Microsoft.
@@ -11,7 +14,11 @@ TSR is a modpack and integration project built on independent games, mods, libra
 
 ## Tensura foundation and ecosystem
 
-Credit belongs to the authors and contributors of **Tensura: Reincarnated**, **ManasCore**, **SlimeThrone Extras**, **Tensura: Ascension**, **Tensura: Mysticism**, **Tensura: Origins**, **Tensura: Better Subordinates**, **Tensura Modifications**, **Tensura: Unique Monsters**, **Great Sage**, **TenSura Guild**, **Tensura Skill Books**, **Tensura Utilities Manager**, **Tensura: Not Enough Bosses**, **TenSura Boss Structure**, **TensuraMorph**, **ReMorphed**, **Woodwalkers**, **CraftedCore**, **Tensura Gear Evolution**, **Tensura Backpack Expansion**, **Tensura Metalworks**, **Tensura x MineColonies**, and the dedicated Tensura compatibility projects used by the pack.
+Credit belongs to the authors and contributors of the projects in the current [searchable modlist](current-modlist.md), including **Tensura: Reincarnated**, **ManasCore**, **SlimeThrone Extras**, **Ascension**, **Tensura: Mysticism**, **TR: Nightmare**, **Elite Tensura**, **Tensura: Origins**, **Tensura: Better Subordinates**, **Tensura Modifications**, **Tensura: Unique Monsters**, **Great Sage**, **Tensura Skill Trainer**, **Tensura Utilities Manager**, **Tensura: Not Enough Bosses**, **Tensura Boss Structure**, **Tensura Bestiary**, **Tensura: All the Adventure**, **Tensura: Gear Evolution**, **Tensura Backpack Expansion**, **Tensura: Metalworks**, **Tensura MineColonies Integration**, and the dedicated Tensura compatibility projects in the current candidate.
+
+### Retired integrations
+
+**TensuraMorph**, **ReMorphed**, **TenSura Guild**, and **Woodwalkers** were credited components of earlier TSR designs. They are not included in the current candidate. Their names remain here only to preserve historical attribution, not to advertise current gameplay.
 
 TSR's two small compatibility artifacts are pack-owned lifecycle/data bridges. They do not replace ownership or licensing of the unmodified upstream mods they support.
 

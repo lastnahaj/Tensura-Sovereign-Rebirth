@@ -1,6 +1,6 @@
 (() => {
   const GROUPS = [
-    ["Tensura systems", /tensura|slimethrone|great sage|ascension|skill study|nightmare utils/i],
+    ["Tensura systems", /tensura|slimethrone|great sage|ascension|skill study|nightmare|trnightmare|mysticism/i],
     ["Technology & crafting", /create|mekanism|silent gear|metalworks|iron furnaces|sophisticated|tom's simple|almostunified|polymorph|construction wand|spud's shops|chipped|rechiseled|reintegrated|crafting tweaks|easy anvils/i],
     ["Kingdoms & quests", /minecol|coloni|quest|ftb|byzantine|domum ornamentum|structurize|blockui/i],
     ["Adventure & world", /boss|artifact|apothic|cataclysm|mowzie|ice and fire|twilight|aether|deeper and darker|starlight|end remaster|dungeon|structure|biome|terralith|tectonic|loot|compass|waystone|legendary|farmer's delight|farmersstructures|sparse|torchmaster/i],

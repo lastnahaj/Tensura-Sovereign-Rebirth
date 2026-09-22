@@ -2,7 +2,7 @@
 
 ## Current phase
 
-**Version 1 Beta — playable beta checkpoint assembled**
+**Version 1 Beta — 299-artifact candidate inventoried; full candidate validation pending**
 
 ## Frozen
 
@@ -33,6 +33,9 @@
 
 ## Pending assembly validation
 
+- Full 299-artifact client cold start, graphical menu, and representative gameplay smoke
+- Full 299-artifact dedicated-server clean start, save, shutdown, and warm restart
+- Registry and content checks for TR: Nightmare, Elite Tensura, Tensura Bestiary, and the expanded adventure stack
 - Gear Evolution item-component persistence
 - Ascension external boss scaling
 - Tom's terminal-only recipe hiding
@@ -46,6 +49,15 @@
 - Adventure bosses and dimensions
 - Public Modrinth redistribution/source audit; the current `.mrpack` is for private local import only
 - Launcher UI import checks for both client formats on tester machines
+
+## Removed from the current iteration
+
+- TensuraMorph
+- ReMorphed
+- TenSura Guild
+- Woodwalkers
+
+Historical configuration and phase records may still name these projects, but they are not current-player features and must not be used as evidence of present inclusion.
 
 ## Quest implementation gate
 
