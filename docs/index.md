@@ -5,11 +5,13 @@ description: Reincarnate. Evolve. Build. Awaken. Rule.
 
 <div class="tsr-hero" markdown>
 
-![Tensura: Sovereign Rebirth](assets/images/sovereign_rebirth_a_magical_kingdom.png)
+<picture class="tsr-hero-art">
+  <source media="(max-width: 45rem)" srcset="assets/images/tsr-wiki-hero-mobile.svg">
+  <img src="assets/images/tsr-wiki-hero.svg" width="1600" height="640" alt="" fetchpriority="high">
+</picture>
 
-# Tensura: Sovereign Rebirth
-
-### Reincarnate. Evolve. Build. Awaken. Rule.
+<h1 class="tsr-hero-accessible">Tensura: Sovereign Rebirth</h1>
+<p class="tsr-hero-accessible">Reincarnate. Evolve. Build. Awaken. Rule.</p>
 
 **Minecraft 1.21.1 · NeoForge 21.1.248 · Java 21 · Version 1 Beta**
 

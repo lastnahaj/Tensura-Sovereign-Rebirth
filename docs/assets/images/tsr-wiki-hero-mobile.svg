@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820" role="img" aria-labelledby="title desc">
+  <title id="title">Tensura: Sovereign Rebirth</title>
+  <desc id="desc">Gold and ice-blue title above a luminous sovereign gate and its citadel, with the project's five-part motto.</desc>
+  <defs>
+    <linearGradient id="night" x2=".75" y2="1"><stop stop-color="#07101e"/><stop offset=".55" stop-color="#0c2942"/><stop offset="1" stop-color="#06101d"/></linearGradient>
+    <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff3c5"/><stop offset=".3" stop-color="#e9c779"/><stop offset=".7" stop-color="#b98a43"/><stop offset="1" stop-color="#f2d28a"/></linearGradient>
+    <linearGradient id="ice" x2="1" y2="1"><stop stop-color="#ddfbff"/><stop offset=".6" stop-color="#67cfe9"/><stop offset="1" stop-color="#1686b7"/></linearGradient>
+    <linearGradient id="portal" x2="0" y2="1"><stop stop-color="#020b18"/><stop offset=".55" stop-color="#125078"/><stop offset="1" stop-color="#06111e"/></linearGradient>
+    <linearGradient id="stone" x2="1" y2="0"><stop stop-color="#142338"/><stop offset=".5" stop-color="#31445a"/><stop offset="1" stop-color="#132338"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#5ae5f6" stop-opacity=".37"/><stop offset="1" stop-color="#1d9dd4" stop-opacity="0"/></radialGradient>
+    <pattern id="stars" width="103" height="83" patternUnits="userSpaceOnUse"><circle cx="10" cy="19" r="1" fill="#c3f4ff" opacity=".65"/><circle cx="73" cy="64" r=".7" fill="#f7e4b8" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-30%" width="150%" height="180%"><feDropShadow dy="5" stdDeviation="4" flood-color="#01040b" flood-opacity=".9"/></filter>
+    <filter id="halo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="edge"><rect width="720" height="820" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <rect width="720" height="820" fill="url(#night)"/>
+    <rect width="720" height="820" fill="url(#stars)"/>
+    <rect x="70" y="400" width="580" height="420" fill="url(#glow)"/>
+    <path d="M0 627 91 576l69 34 122-113 90 81 98-91 85 102 103-55 62 35v251H0Z" fill="#112e49" opacity=".65"/>
+    <path d="M0 694 146 612l122 45 116-83 126 67 125-58 85 45v192H0Z" fill="#0a1c30"/>
+
+    <!-- Title lock-up and fine dividers remain within a 52px safe edge. -->
+    <path d="M48 71V46h156M516 46h156v25M48 747v25h156M516 772h156v-25" fill="none" stroke="#d4ae70" stroke-opacity=".58" stroke-width="2"/>
+    <path d="M52 95h486" stroke="#54cce8" stroke-opacity=".58" stroke-width="2"/>
+    <path d="M52 95h70" stroke="#f5d391" stroke-width="3"/>
+    <g font-family="Georgia, 'Times New Roman', serif" filter="url(#shadow)">
+      <text x="51" y="165" fill="url(#ice)" font-size="61" font-weight="700" letter-spacing="7">TENSURA:</text>
+      <text x="48" y="271" fill="url(#gold)" stroke="#50351e" stroke-width="1.4" paint-order="stroke" font-size="80" font-weight="700" letter-spacing="-1.5">SOVEREIGN</text>
+      <text x="48" y="368" fill="url(#gold)" stroke="#50351e" stroke-width="1.4" paint-order="stroke" font-size="94" font-weight="700" letter-spacing="1">REBIRTH</text>
+    </g>
+    <path d="M52 397h474" stroke="#e1bf7d" stroke-opacity=".8" stroke-width="1.5"/>
+    <path d="m532 397 7-7 7 7-7 7Z" fill="#f2d08e"/>
+    <g fill="#e2edf2" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="2.2">
+      <text x="53" y="435">REINCARNATE  ·  EVOLVE  ·  BUILD</text>
+      <text x="53" y="469">AWAKEN  ·  RULE</text>
+    </g>
+
+    <!-- The same sovereign gate is recomposed as a clear lower-half focal point. -->
+    <g fill="#142b41" stroke="#4d7089" stroke-width="2" opacity=".7">
+      <path d="M67 717V607h23v-29l23-35 23 35v29h23v110Z"/>
+      <path d="M559 717V607h21v-25l25-39 25 39v25h24v110Z"/>
+    </g>
+    <path d="M111 623v17m492-17v17" stroke="#f2cf8a" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+    <g transform="translate(83 172) scale(.77)">
+    <ellipse cx="362" cy="631" rx="217" ry="184" fill="url(#glow)"/>
+    <ellipse cx="362" cy="645" rx="194" ry="198" fill="none" stroke="#7dddec" stroke-opacity=".35" stroke-width="22" filter="url(#halo)"/>
+    <ellipse cx="362" cy="645" rx="188" ry="193" fill="none" stroke="#c4a16c" stroke-opacity=".5" stroke-width="2"/>
+    <ellipse cx="362" cy="645" rx="172" ry="178" fill="url(#portal)" stroke="#71dbed" stroke-opacity=".75" stroke-width="3" filter="url(#halo)"/>
+    <ellipse cx="362" cy="645" rx="154" ry="161" fill="none" stroke="#c4eff3" stroke-opacity=".3" stroke-width="2"/>
+    <path d="M221 715q71-114 141-114t141 114" fill="none" stroke="#a4eff8" stroke-opacity=".53" stroke-width="2"/>
+    <path d="M362 498v260" stroke="#a9ecfa" stroke-opacity=".19" stroke-width="2"/>
+    <path d="m294 708 68-123 68 123Z" fill="#5bd1eb" opacity=".15"/>
+    <path d="m326 704 36-73 36 73Z" fill="#c2f5fc" opacity=".28"/>
+    <path d="M175 757V625Q175 467 362 452 549 467 549 625v132h-30V625Q519 493 362 481 205 493 205 625v132Z" fill="url(#stone)" stroke="#af925e" stroke-width="3"/>
+    <path d="M189 635v-18q0-145 173-151 173 6 173 151v18" fill="none" stroke="#69cfdf" stroke-opacity=".55" stroke-width="3"/>
+    <path d="m345 453 17-35 17 35-17 22Z" fill="url(#gold)" stroke="#fff2bd" stroke-width="2"/>
+    <circle cx="362" cy="460" r="4" fill="#e7fbff" filter="url(#halo)"/>
+    <path d="M169 745h386v75H169Z" fill="#1a3044" stroke="#7c796c" stroke-width="2"/>
+    <path d="M223 757h278l54 63H169Z" fill="#0e263a" stroke="#2f7c93" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M362 757v63M259 786h206" stroke="#7bc5d4" stroke-opacity=".4" stroke-width="2"/>
+    </g>
+    <path d="M52 738h53M615 738h53" stroke="#69c6d9" stroke-opacity=".3"/>
+  </g>
+</svg>

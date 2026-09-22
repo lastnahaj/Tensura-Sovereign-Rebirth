@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+  <title id="title">Tensura: Sovereign Rebirth</title>
+  <desc id="desc">A luminous sovereign gate rises above a fantasy citadel while the Tensura: Sovereign Rebirth title and motto remain clear at left.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#040d1c"/>
+      <stop offset=".48" stop-color="#0a2036"/>
+      <stop offset="1" stop-color="#07101d"/>
+    </linearGradient>
+    <radialGradient id="aura" cx=".72" cy=".47" r=".52">
+      <stop stop-color="#1ea5cf" stop-opacity=".36"/>
+      <stop offset=".52" stop-color="#1860a0" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#021024" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="leftVeil" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#07101f" stop-opacity=".98"/>
+      <stop offset=".7" stop-color="#071426" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#071426" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff3c5"/>
+      <stop offset=".28" stop-color="#e7c679"/>
+      <stop offset=".62" stop-color="#be8b42"/>
+      <stop offset="1" stop-color="#f5d58d"/>
+    </linearGradient>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ddfbff"/>
+      <stop offset=".48" stop-color="#70ddf7"/>
+      <stop offset="1" stop-color="#1687bc"/>
+    </linearGradient>
+    <linearGradient id="portal" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#010a17"/>
+      <stop offset=".48" stop-color="#104974"/>
+      <stop offset=".72" stop-color="#0b2b4e"/>
+      <stop offset="1" stop-color="#05101d"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#142338"/>
+      <stop offset=".5" stop-color="#293d52"/>
+      <stop offset="1" stop-color="#0e1d30"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#12324a"/>
+      <stop offset="1" stop-color="#060d19"/>
+    </linearGradient>
+    <pattern id="fineGrid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0V50" fill="none" stroke="#7bcce2" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <pattern id="stars" width="117" height="89" patternUnits="userSpaceOnUse">
+      <circle cx="13" cy="22" r="1" fill="#b7eaff" opacity=".52"/>
+      <circle cx="68" cy="65" r=".7" fill="#fff4d5" opacity=".55"/>
+      <circle cx="101" cy="11" r=".8" fill="#d9eaff" opacity=".42"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="17"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blurred"/>
+      <feMerge><feMergeNode in="blurred"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="letterShadow" x="-20%" y="-30%" width="150%" height="180%">
+      <feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#01040b" flood-opacity=".9"/>
+    </filter>
+    <clipPath id="canvas"><rect width="1600" height="640" rx="16"/></clipPath>
+    <g id="starPoint"><path d="M0-9V9M-9 0H9" fill="none" stroke="#93e8fb" stroke-width="1.2" stroke-linecap="round"/><circle r="2.2" fill="#f9e4a3"/></g>
+    <g id="towerWindow"><path d="M0 17V4Q0 0 4 0T8 4V17Z" fill="#e4b86e"/><path d="M2 14V5Q2 3 4 3T6 5V14Z" fill="#fff0bd" opacity=".6"/></g>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <!-- Atmosphere and distant terrain -->
+    <rect width="1600" height="640" fill="url(#night)"/>
+    <rect width="1600" height="640" fill="url(#aura)"/>
+    <rect width="1600" height="500" fill="url(#stars)"/>
+    <rect x="790" width="810" height="640" fill="url(#fineGrid)" opacity=".5"/>
+    <path d="M700 397 818 333 892 370 1004 268 1093 327 1188 223 1281 291 1370 214 1499 342 1600 296V640H700Z" fill="#0c2842" opacity=".7"/>
+    <path d="M790 442 901 376 989 410 1068 341 1149 390 1291 305 1380 389 1472 348 1600 420V640H790Z" fill="#0a1b30"/>
+    <path d="M835 470Q1020 401 1165 448T1600 430V640H835Z" fill="#071321"/>
+    <ellipse cx="1257" cy="577" rx="300" ry="44" fill="#26d4ed" opacity=".18" filter="url(#blur)"/>
+
+    <!-- Recessed citadel and side towers -->
+    <g opacity=".75" fill="#142b42" stroke="#4a7190" stroke-width="2">
+      <path d="M924 414V304h25v-34l27-40 27 40v34h28v110Z"/>
+      <path d="m969 268 7-51 7 51Z" fill="#294760"/>
+      <path d="M1040 417V285h23v-30l25-42 25 42v30h22v132Z"/>
+      <path d="m1082 253 6-53 6 53Z" fill="#294760"/>
+      <path d="M1412 413V291h23v-29l24-43 24 43v29h23v122Z"/>
+      <path d="m1453 260 6-51 6 51Z" fill="#294760"/>
+      <path d="M1510 429V331h20v-22l22-36 22 36v22h26v98Z"/>
+    </g>
+    <g opacity=".65">
+      <use xlink:href="#towerWindow" x="967" y="315"/><use xlink:href="#towerWindow" x="1084" y="299"/>
+      <use xlink:href="#towerWindow" x="1454" y="309"/><use xlink:href="#towerWindow" x="1550" y="350"/>
+    </g>
+
+    <!-- Sovereign gate: one focal architectural object -->
+    <ellipse cx="1258" cy="339" rx="237" ry="262" fill="none" stroke="#42d8f4" stroke-opacity=".11" stroke-width="30" filter="url(#blur)"/>
+    <ellipse cx="1258" cy="339" rx="224" ry="257" fill="none" stroke="#a98b54" stroke-opacity=".25" stroke-width="2"/>
+    <ellipse cx="1258" cy="339" rx="208" ry="239" fill="none" stroke="#49b5d8" stroke-opacity=".4" stroke-width="2"/>
+    <ellipse cx="1258" cy="339" rx="198" ry="230" fill="none" stroke="#37d4f0" stroke-opacity=".74" stroke-width="4" filter="url(#softGlow)"/>
+    <ellipse cx="1258" cy="339" rx="184" ry="215" fill="url(#portal)" stroke="#bad4d7" stroke-opacity=".55" stroke-width="2"/>
+    <ellipse cx="1258" cy="342" rx="159" ry="189" fill="none" stroke="#58d8e6" stroke-opacity=".3" stroke-width="2"/>
+    <path d="M1125 431Q1190 349 1258 338T1391 431" fill="none" stroke="#8ce6f2" stroke-opacity=".17" stroke-width="21" filter="url(#blur)"/>
+    <path d="M1141 455Q1202 362 1258 350T1375 455" fill="none" stroke="#b1f5ff" stroke-opacity=".47" stroke-width="2"/>
+    <path d="M1258 171v273" stroke="#99eeff" stroke-opacity=".17" stroke-width="2"/>
+    <path d="M1195 426 1258 316l63 110Z" fill="#36d7f1" opacity=".17" filter="url(#softGlow)"/>
+    <path d="M1222 423 1258 352l36 71Z" fill="#b2eaff" opacity=".26"/>
+
+    <!-- Architectural frame, crown finial, and supported piers -->
+    <path d="M1050 523V306Q1050 112 1258 95 1466 112 1466 306V523h-38V305Q1428 154 1258 135 1088 154 1088 305v218Z" fill="url(#stone)" stroke="#a88751" stroke-width="3"/>
+    <path d="M1069 351V304Q1069 139 1258 116 1447 139 1447 304v47" fill="none" stroke="#70d8e9" stroke-opacity=".55" stroke-width="3"/>
+    <path d="M1050 323h38M1428 323h38" stroke="#d5af72" stroke-width="8"/>
+    <path d="M1044 495h50v56h-50ZM1422 495h50v56h-50Z" fill="#152537" stroke="#ac8954" stroke-width="3"/>
+    <path d="m1039 495 7-34 7 15 7-26 7 26 7-15 7 34M1417 495l7-34 7 15 7-26 7 26 7-15 7 34" fill="#21364a" stroke="#aa8b5b" stroke-width="2"/>
+    <path d="M1240 96 1258 60l18 36-18 25Z" fill="url(#gold)" stroke="#fff0be" stroke-width="2"/>
+    <path d="M1258 76v39" stroke="#fff8dc" stroke-opacity=".7"/>
+    <circle cx="1258" cy="108" r="4" fill="#dffbff" filter="url(#softGlow)"/>
+    <path d="M1082 244q-20 93 0 174M1434 244q20 93 0 174" fill="none" stroke="#d5ad6f" stroke-opacity=".4" stroke-width="2" stroke-dasharray="9 15"/>
+
+    <!-- City platform, processional road, and two banners -->
+    <path d="M820 501h780v139H820Z" fill="url(#floor)"/>
+    <path d="M971 521h574l55 29H905Z" fill="#1a3244" stroke="#5c6370" stroke-width="2"/>
+    <path d="M1063 550h390l110 90H954Z" fill="#0d2435" stroke="#1d6581" stroke-opacity=".65" stroke-width="2"/>
+    <path d="m1258 550-39 90h78Z" fill="#1b5971" opacity=".42"/>
+    <path d="M1258 550v90" stroke="#d1b471" stroke-opacity=".6" stroke-width="2"/>
+    <path d="M1087 573h342M1025 603h466" stroke="#61869a" stroke-opacity=".4" stroke-width="2"/>
+    <g fill="#20384b" stroke="#8f7d60" stroke-width="2">
+      <path d="M905 450h64v102h-64Z"/><path d="m905 450 32-53 32 53Z"/>
+      <path d="M1532 460h50v92h-50Z"/><path d="m1532 460 25-45 25 45Z"/>
+    </g>
+    <path d="M922 487h32v77l-16-12-16 12Z" fill="#1b5e84" stroke="#80dbef" stroke-opacity=".65"/>
+    <path d="M1542 493h30v68l-15-10-15 10Z" fill="#7a365d" stroke="#df91a4" stroke-opacity=".65"/>
+    <path d="M937 499v43m-10-22h20M1557 501v39m-9-20h18" stroke="#d9c58d" stroke-opacity=".8" stroke-width="2"/>
+    <g opacity=".85"><use xlink:href="#starPoint" x="1015" y="256"/><use xlink:href="#starPoint" x="1496" y="188"/><use xlink:href="#starPoint" x="1121" y="90"/></g>
+
+    <!-- Quiet field for the title; fine frame establishes the brand system -->
+    <rect width="1100" height="640" fill="url(#leftVeil)"/>
+    <path d="M48 73V48h202M1350 48h202v25M48 567v25h202M1350 592h202v-25" fill="none" stroke="#d2aa65" stroke-opacity=".52" stroke-width="2"/>
+    <path d="M72 95h535" stroke="#3ec9e7" stroke-opacity=".62" stroke-width="2"/>
+    <path d="M72 95h72" stroke="#f7d394" stroke-width="3"/>
+    <path d="M73 140h695" stroke="#f1d9a4" stroke-opacity=".14"/>
+
+    <!-- Editable, live SVG typography -->
+    <g font-family="Georgia, 'Times New Roman', serif" filter="url(#letterShadow)">
+      <text x="76" y="211" fill="url(#ice)" font-size="65" font-weight="700" letter-spacing="8">TENSURA:</text>
+      <text x="70" y="341" fill="url(#gold)" stroke="#4f341d" stroke-width="1.5" paint-order="stroke" font-size="101" font-weight="700" letter-spacing="-2">SOVEREIGN</text>
+      <text x="70" y="458" fill="url(#gold)" stroke="#4f341d" stroke-width="1.5" paint-order="stroke" font-size="101" font-weight="700" letter-spacing="2">REBIRTH</text>
+    </g>
+    <path d="M74 494h616" stroke="#d7b874" stroke-opacity=".75" stroke-width="1.5"/>
+    <path d="m696 494 8-8 8 8-8 8Z" fill="#f2d08e"/>
+    <text x="76" y="538" fill="#dae6ec" font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="2.8">REINCARNATE  ·  EVOLVE  ·  BUILD  ·  AWAKEN  ·  RULE</text>
+    <path d="M72 570h42m14 0h612" stroke="#65b6c7" stroke-opacity=".3" stroke-width="1"/>
+  </g>
+</svg>
