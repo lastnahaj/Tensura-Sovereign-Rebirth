@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-corrosion_transform.svg" alt="Corrosion Transform emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png" alt="Corrosion Transform source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Corrosion_Transform.png">Corrosion Transform.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Channel your inner corrosion to burn and bleed of the flesh of your enemies</p>
@@ -63,7 +63,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../discharge/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-discharge.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/discharge-34b8bc76fa.png"/>
 <span class="reference-related-copy">
 <strong>Discharge</strong>
 <small>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without…</small>

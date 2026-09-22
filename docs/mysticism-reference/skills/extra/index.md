@@ -30,8 +30,8 @@
 <article class="reference-card" data-letter="C" data-search="cryogenic cessation command your absolute authority over deceleration, allowing you to freeze all enemies with ice and spew superchilled ice. additionally, freeze the surroundings into ice.">
 <a href="cryogenic-cessation/" aria-label="Open Cryogenic Cessation">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-cryogenic_cessation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/cryogenic-cessation-26c3f34c65.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cryogenic Cessation</h2>
@@ -45,8 +45,8 @@
 <article class="reference-card" data-letter="D" data-search="darkness domination boosts the power of darkness abilities by a great amount.">
 <a href="darkness-domination/" aria-label="Open Darkness Domination">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-darkness_domination.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/darkness-domination-84886c8b10.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Darkness Domination</h2>
@@ -60,8 +60,8 @@
 <article class="reference-card" data-letter="D" data-search="darkness manipulation boosts the power of darkness abilities by a decent amount.">
 <a href="darkness-manipulation/" aria-label="Open Darkness Manipulation">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-darkness_manipulation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/darkness-manipulation-a0346e00a2.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Darkness Manipulation</h2>
@@ -75,8 +75,8 @@
 <article class="reference-card" data-letter="I" data-search="ice domination boosts the power of ice abilities by a great amount.">
 <a href="ice-domination/" aria-label="Open Ice Domination">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-ice_domination.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Domination</h2>
@@ -90,8 +90,8 @@
 <article class="reference-card" data-letter="I" data-search="ice manipulation boosts the power of ice abilities by a decent amount.">
 <a href="ice-manipulation/" aria-label="Open Ice Manipulation">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-ice_manipulation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Manipulation</h2>
@@ -105,8 +105,8 @@
 <article class="reference-card" data-letter="L" data-search="light domination boost the power of light abilities by a great amount.">
 <a href="light-domination/" aria-label="Open Light Domination">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-light_domination.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Light Domination</h2>
@@ -120,8 +120,8 @@
 <article class="reference-card" data-letter="L" data-search="light manipulation boosts the power of light abilities by a decent amount">
 <a href="light-manipulation/" aria-label="Open Light Manipulation">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-light_manipulation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Light Manipulation</h2>
@@ -150,8 +150,8 @@
 <article class="reference-card" data-letter="P" data-search="profaned prominence command your absolute authority over acceleration, allowing you to inflict all enemies with fire and spew superheated flames. additionally, melt the surroundings into…">
 <a href="profaned-prominence/" aria-label="Open Profaned Prominence">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-profaned_prominence.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Profaned Prominence</h2>

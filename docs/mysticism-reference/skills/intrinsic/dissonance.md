@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-dissonance.svg" alt="Dissonance emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/dissonance-5475c825ca.png" alt="Dissonance source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Dissonance.png">Dissonance.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that deal massive Electricity Damage to all those unfortunate to be hit by it.</p>
@@ -62,14 +62,14 @@ Dissonance Deities</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../discharge/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-discharge.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/discharge-34b8bc76fa.png"/>
 <span class="reference-related-copy">
 <strong>Discharge</strong>
 <small>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../exoskeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-exoskeleton.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png"/>
 <span class="reference-related-copy">
 <strong>Exoskeleton</strong>
 <small>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes…</small>

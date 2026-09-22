@@ -69,21 +69,21 @@ Upon learning <a href="../../ultimate/mephisto/" title="Mephisto">Mephisto</a></
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../profaned-prominence/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-profaned_prominence.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png"/>
 <span class="reference-related-copy">
 <strong>Profaned Prominence</strong>
 <small>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-manipulation/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_manipulation.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png"/>
 <span class="reference-related-copy">
 <strong>Light Manipulation</strong>
 <small>Boosts the power of Light abilities by a decent amount</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-domination/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_domination.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png"/>
 <span class="reference-related-copy">
 <strong>Light Domination</strong>
 <small>Boost the power of Light abilities by a great amount.</small>

@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg" alt="Hidden Ruler emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png" alt="Hidden Ruler source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Hidden_Ruler.png">Hidden Ruler.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every call...</p>
@@ -72,14 +72,14 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../gardener/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-gardener.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png"/>
 <span class="reference-related-copy">
 <strong>Gardener</strong>
 <small>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../kyurem/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-kyurem.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png"/>
 <span class="reference-related-copy">
 <strong>Kyurem</strong>
 <small>"A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness…</small>

@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-ice_domination.svg" alt="Ice Domination emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt="Ice Domination source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Ice_Domination.png">Ice Domination.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Boosts the power of Ice abilities by a great amount.</p>
@@ -62,21 +62,21 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../darkness-manipulation/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-darkness_manipulation.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/darkness-manipulation-a0346e00a2.png"/>
 <span class="reference-related-copy">
 <strong>Darkness Manipulation</strong>
 <small>Boosts the power of Darkness abilities by a decent amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../ice-manipulation/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-ice_manipulation.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png"/>
 <span class="reference-related-copy">
 <strong>Ice Manipulation</strong>
 <small>Boosts the power of Ice abilities by a decent amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../darkness-domination/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-darkness_domination.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/darkness-domination-84886c8b10.png"/>
 <span class="reference-related-copy">
 <strong>Darkness Domination</strong>
 <small>Boosts the power of Darkness abilities by a great amount.</small>

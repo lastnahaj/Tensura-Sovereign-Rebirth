@@ -59,28 +59,28 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../magisteel-body/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-magisteel_body.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png"/>
 <span class="reference-related-copy">
 <strong>Magisteel Body</strong>
 <small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-paralysis_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png"/>
 <span class="reference-related-copy">
 <strong>Paralysis Transform</strong>
 <small>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-mode/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lightning_mode.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/lightning-mode-70097842da.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Mode</strong>
 <small>Burst forth with great speed and power, enhancing your abilities for a short period of time.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-poison_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png"/>
 <span class="reference-related-copy">
 <strong>Poison Transform</strong>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>

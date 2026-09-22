@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-reducer.svg" alt="Reducer emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png" alt="Reducer source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Reducer.png">Reducer.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Damn bro, no magicules?</p>
@@ -84,21 +84,21 @@ Costs 2000 Magicules to toggle on, and 300 to maintain every second. This cost i
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../provider/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-provider.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png"/>
 <span class="reference-related-copy">
 <strong>Provider</strong>
 <small>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../repeater/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-repeater.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/repeater-c57e113c12.png"/>
 <span class="reference-related-copy">
 <strong>Repeater</strong>
 <small>Any physical damage you perform will be repeated a second time.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reshiram/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reshiram.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/reshiram-425f18afb8.png"/>
 <span class="reference-related-copy">
 <strong>Reshiram</strong>
 <small>"You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful…</small>

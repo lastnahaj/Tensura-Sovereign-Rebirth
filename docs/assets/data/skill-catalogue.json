@@ -1861,8 +1861,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Bullet_Punch",
       "revision": 3397,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-bullet_punch.svg"
+      "asset": "assets/upstream/mysticism/skills/bullet-punch-2c40b24441.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/burrow.md": {
       "id": null,
@@ -1892,8 +1892,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Butcher",
       "revision": 3356,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-butcher.svg"
+      "asset": "assets/upstream/mysticism/skills/butcher-3f2223ab91.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/captivator.md": {
       "id": "mysticism:captivator",
@@ -1903,8 +1903,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Captivator",
       "revision": 3471,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-captivator.svg"
+      "asset": "assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/coalescence.md": {
       "id": "mysticism:coalescence",
@@ -1914,8 +1914,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Coalescence",
       "revision": 3086,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-coalescence.svg"
+      "asset": "assets/upstream/mysticism/skills/coalescence-be99619998.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/command-undead.md": {
       "id": null,
@@ -1945,8 +1945,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Constant",
       "revision": 2544,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-constant.svg"
+      "asset": "assets/upstream/mysticism/skills/constant-f6a361fb5a.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/contract.md": {
       "id": null,
@@ -1966,8 +1966,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Corroder",
       "revision": 3087,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-corroder.svg"
+      "asset": "assets/upstream/mysticism/skills/corroder-1ce411eb5a.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/corrosion-transform.md": {
       "id": "mysticism:corrosion_transform",
@@ -1977,8 +1977,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Corrosion_Transform",
       "revision": 3117,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-corrosion_transform.svg"
+      "asset": "assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/corruption.md": {
       "id": null,
@@ -1998,8 +1998,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Crasher",
       "revision": 3174,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-crasher.svg"
+      "asset": "assets/upstream/mysticism/skills/crasher-a16135867d.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/cryogenic-cessation.md": {
       "id": "mysticism:cryogenic_cessation",
@@ -2009,8 +2009,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Cryogenic_Cessation",
       "revision": 3453,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-cryogenic_cessation.svg"
+      "asset": "assets/upstream/mysticism/skills/cryogenic-cessation-26c3f34c65.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/cultivator.md": {
       "id": "mysticism:cultivator",
@@ -2020,8 +2020,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Cultivator",
       "revision": 2546,
       "namespace": "mysticism",
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/mysticism-cultivator.svg"
+      "asset": "assets/upstream/mysticism/skills/cultivator-656da4f824.png",
+      "obtainment_documented": false
     },
     "mysticism-reference/skills/extra/darkness-domination.md": {
       "id": "mysticism:darkness_domination",
@@ -2031,8 +2031,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Darkness_Domination",
       "revision": 3072,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-darkness_domination.svg"
+      "asset": "assets/upstream/mysticism/skills/darkness-domination-84886c8b10.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/darkness-manipulation.md": {
       "id": "mysticism:darkness_manipulation",
@@ -2042,8 +2042,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Darkness_Manipulation",
       "revision": 2533,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-darkness_manipulation.svg"
+      "asset": "assets/upstream/mysticism/skills/darkness-manipulation-a0346e00a2.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/dionysus.md": {
       "id": null,
@@ -2063,8 +2063,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Discharge",
       "revision": 2520,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-discharge.svg"
+      "asset": "assets/upstream/mysticism/skills/discharge-34b8bc76fa.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/dissonance.md": {
       "id": "mysticism:dissonance",
@@ -2074,8 +2074,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Dissonance",
       "revision": 2521,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-dissonance.svg"
+      "asset": "assets/upstream/mysticism/skills/dissonance-5475c825ca.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/dreamer.md": {
       "id": "mysticism:dreamer",
@@ -2085,8 +2085,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Dreamer",
       "revision": 3439,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-dreamer.svg"
+      "asset": "assets/upstream/mysticism/skills/dreamer-f10ec131a7.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/engineer.md": {
       "id": "mysticism:engineer",
@@ -2096,8 +2096,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Engineer",
       "revision": 3273,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-engineer.svg"
+      "asset": "assets/upstream/mysticism/skills/engineer-abc99d3f0f.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/exoskeleton.md": {
       "id": "mysticism:exoskeleton",
@@ -2107,8 +2107,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Exoskeleton",
       "revision": 3447,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-exoskeleton.svg"
+      "asset": "assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/galileo.md": {
       "id": null,
@@ -2128,8 +2128,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Gardener",
       "revision": 2549,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-gardener.svg"
+      "asset": "assets/upstream/mysticism/skills/gardener-51f67bd405.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/gatekeeper.md": {
       "id": null,
@@ -2179,8 +2179,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Hell_Hall",
       "revision": 3450,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-hell_hall.svg"
+      "asset": "assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/heracles.md": {
       "id": null,
@@ -2200,8 +2200,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Hidden_Ruler",
       "revision": 2551,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-hidden_ruler.svg"
+      "asset": "assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/ice-domination.md": {
       "id": "mysticism:ice_domination",
@@ -2211,8 +2211,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Ice_Domination",
       "revision": 2534,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-ice_domination.svg"
+      "asset": "assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/ice-manipulation.md": {
       "id": "mysticism:ice_manipulation",
@@ -2222,8 +2222,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Ice_Manipulation",
       "revision": 2535,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-ice_manipulation.svg"
+      "asset": "assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/ignis.md": {
       "id": null,
@@ -2263,8 +2263,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Kyurem",
       "revision": 3231,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-kyurem.svg"
+      "asset": "assets/upstream/mysticism/skills/kyurem-9402ec2c95.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/laverna.md": {
       "id": null,
@@ -2284,8 +2284,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Lethal_Poison",
       "revision": 3451,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-lethal_poison.svg"
+      "asset": "assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/light-domination.md": {
       "id": "mysticism:light_domination",
@@ -2295,8 +2295,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Light_Domination",
       "revision": 3073,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-light_domination.svg"
+      "asset": "assets/upstream/mysticism/skills/light-domination-0ad3e944be.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/light-manipulation.md": {
       "id": "mysticism:light_manipulation",
@@ -2306,8 +2306,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Light_Manipulation",
       "revision": 2537,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-light_manipulation.svg"
+      "asset": "assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/light-and-heat-domination.md": {
       "id": null,
@@ -2327,8 +2327,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Lightning_Mode",
       "revision": 2526,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-lightning_mode.svg"
+      "asset": "assets/upstream/mysticism/skills/lightning-mode-70097842da.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/magisteel-body.md": {
       "id": "mysticism:magisteel_body",
@@ -2338,8 +2338,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Magisteel_Body",
       "revision": 3452,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-magisteel_body.svg"
+      "asset": "assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/malleable.md": {
       "id": "mysticism:malleable",
@@ -2349,8 +2349,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Malleable",
       "revision": 3089,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-malleable.svg"
+      "asset": "assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/mana-manipulation.md": {
       "id": null,
@@ -2370,8 +2370,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Melancholy",
       "revision": 2553,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-melancholy.svg"
+      "asset": "assets/upstream/mysticism/skills/melancholy-53d9520383.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/mephisto.md": {
       "id": null,
@@ -2391,8 +2391,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Mithril_Strength",
       "revision": 3472,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-mithril_strength.svg"
+      "asset": "assets/icons/skills/mysticism-mithril_strength.svg",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/oizys.md": {
       "id": null,
@@ -2412,8 +2412,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Paralysis_Transform",
       "revision": 2528,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-paralysis_transform.svg"
+      "asset": "assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/pernida.md": {
       "id": null,
@@ -2433,8 +2433,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Phaser",
       "revision": 2812,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-phaser.svg"
+      "asset": "assets/upstream/mysticism/skills/phaser-71dbe5037f.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/plunderer.md": {
       "id": null,
@@ -2454,8 +2454,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Poison_Transform",
       "revision": 3463,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-poison_transform.svg"
+      "asset": "assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/extra/profaned-prominence.md": {
       "id": "mysticism:profaned_prominence",
@@ -2465,8 +2465,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Profaned_Prominence",
       "revision": 3051,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-profaned_prominence.svg"
+      "asset": "assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/provider.md": {
       "id": "mysticism:provider",
@@ -2476,8 +2476,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Provider",
       "revision": 3091,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-provider.svg"
+      "asset": "assets/upstream/mysticism/skills/provider-93310a03a9.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/reducer.md": {
       "id": "mysticism:reducer",
@@ -2487,8 +2487,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Reducer",
       "revision": 3157,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-reducer.svg"
+      "asset": "assets/upstream/mysticism/skills/reducer-2ec2f0556b.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/relapse.md": {
       "id": "mysticism:relapse",
@@ -2498,8 +2498,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Relapse",
       "revision": 3212,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-relapse.svg"
+      "asset": "assets/upstream/mysticism/skills/relapse-757e4d38bd.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/repeater.md": {
       "id": "mysticism:repeater",
@@ -2509,8 +2509,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Repeater",
       "revision": 3092,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-repeater.svg"
+      "asset": "assets/upstream/mysticism/skills/repeater-c57e113c12.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/reshiram.md": {
       "id": "mysticism:reshiram",
@@ -2520,8 +2520,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Reshiram",
       "revision": 3230,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-reshiram.svg"
+      "asset": "assets/upstream/mysticism/skills/reshiram-425f18afb8.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/restricted.md": {
       "id": "mysticism:restricted",
@@ -2531,8 +2531,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Restricted",
       "revision": 3416,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-restricted.svg"
+      "asset": "assets/upstream/mysticism/races/restricted-57fefce285.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/sandalphon.md": {
       "id": null,
@@ -2572,8 +2572,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Scholar",
       "revision": 3462,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-scholar.svg"
+      "asset": "assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/schrodinger.md": {
       "id": "mysticism:schrodinger",
@@ -2583,8 +2583,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Schrodinger",
       "revision": 3094,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-schrodinger.svg"
+      "asset": "assets/upstream/mysticism/skills/schrodinger-c488482490.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/sephirot.md": {
       "id": null,
@@ -2604,8 +2604,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Spark",
       "revision": 3183,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-spark.svg"
+      "asset": "assets/upstream/mysticism/skills/spark-ae86cc4417.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/spiritualist.md": {
       "id": "mysticism:spiritualist",
@@ -2615,8 +2615,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Spiritualist",
       "revision": 2556,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-spiritualist.svg"
+      "asset": "assets/upstream/mysticism/skills/spiritualist-c1c02979fe.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/stagnator.md": {
       "id": "mysticism:stagnator",
@@ -2626,8 +2626,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Stagnator",
       "revision": 3080,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-stagnator.svg"
+      "asset": "assets/upstream/mysticism/skills/stagnator-194f37f8fa.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/subjugator.md": {
       "id": "mysticism:subjugator",
@@ -2637,8 +2637,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Subjugator",
       "revision": 3081,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-subjugator.svg"
+      "asset": "assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/intrinsic/summon-wasp.md": {
       "id": null,
@@ -2678,8 +2678,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Tenacity",
       "revision": 3190,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-tenacity.svg"
+      "asset": "assets/upstream/mysticism/skills/missing-model-inventory-je2-7c0a10e5b2.png",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/unique/the-balance.md": {
       "id": null,
@@ -2749,8 +2749,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Victorious_Harbinger",
       "revision": 2560,
       "namespace": "mysticism",
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/mysticism-victorious_harbinger.svg"
+      "asset": "assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png",
+      "obtainment_documented": false
     },
     "mysticism-reference/skills/extra/water-and-thunder-domination.md": {
       "id": null,
@@ -2780,8 +2780,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Zekrom",
       "revision": 3178,
       "namespace": "mysticism",
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-zekrom.svg"
+      "asset": "assets/upstream/mysticism/skills/zekrom-f5233877a7.png",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/angel-wings.md": {
       "id": "ascension:angel_wings",
@@ -3121,8 +3121,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-gravity_flux.svg"
+      "asset": "assets/icons/skills/mysticism-gravity_flux.svg",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/clangorous-soul.md": {
       "id": "mysticism:clangorous_soul",
@@ -3132,8 +3132,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/mysticism-clangorous_soul.svg"
+      "asset": "assets/icons/skills/mysticism-clangorous_soul.svg",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/fourth-wall.md": {
       "id": "mysticism:fourth_wall",
@@ -3143,8 +3143,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/mysticism-fourth_wall.svg"
+      "asset": "assets/icons/skills/mysticism-fourth_wall.svg",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-asmodeus.md": {
       "id": "trnightmare:asmodeus",

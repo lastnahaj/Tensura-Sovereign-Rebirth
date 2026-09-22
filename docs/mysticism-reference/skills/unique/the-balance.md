@@ -70,21 +70,21 @@ Reincarnation/Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../subjugator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>
 </span>
 </a>
 <a class="reference-related-card" href="../stagnator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-stagnator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/stagnator-194f37f8fa.png"/>
 <span class="reference-related-copy">
 <strong>Stagnator</strong>
 <small>Stagnate the world around you, could this be a jojo reference...?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../victorious-harbinger/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-victorious_harbinger.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png"/>
 <span class="reference-related-copy">
 <strong>Victorious Harbinger</strong>
 <small>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</small>

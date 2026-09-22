@@ -79,28 +79,28 @@ Reincarnation/Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../phaser/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-phaser.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png"/>
 <span class="reference-related-copy">
 <strong>Phaser</strong>
 <small>"When a man learns to love, he must also bear the risk of carrying hate"</small>
 </span>
 </a>
 <a class="reference-related-card" href="../provider/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-provider.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png"/>
 <span class="reference-related-copy">
 <strong>Provider</strong>
 <small>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</small>
 </span>
 </a>
 <a class="reference-related-card" href="../melancholy/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reducer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reducer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png"/>
 <span class="reference-related-copy">
 <strong>Reducer</strong>
 <small>Damn bro, no magicules?</small>

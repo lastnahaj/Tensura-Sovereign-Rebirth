@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-light_manipulation.svg" alt="Light Manipulation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png" alt="Light Manipulation source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Light_Manipulation.png">Light Manipulation.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Boosts the power of Light abilities by a decent amount</p>
@@ -70,14 +70,14 @@ Lesser Angel and above/Fallen lesser Angel and above</div></div><div class="drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../light-domination/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_domination.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png"/>
 <span class="reference-related-copy">
 <strong>Light Domination</strong>
 <small>Boost the power of Light abilities by a great amount.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../profaned-prominence/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-profaned_prominence.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png"/>
 <span class="reference-related-copy">
 <strong>Profaned Prominence</strong>
 <small>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated…</small>

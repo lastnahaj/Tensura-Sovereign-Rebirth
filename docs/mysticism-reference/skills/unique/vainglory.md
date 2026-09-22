@@ -77,21 +77,21 @@ True · Toggle · In-Slot</div></div></div><div class="druid-section-container">
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../victorious-harbinger/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-victorious_harbinger.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png"/>
 <span class="reference-related-copy">
 <strong>Victorious Harbinger</strong>
 <small>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../subjugator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>
 </span>
 </a>
 <a class="reference-related-card" href="../zekrom/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-zekrom.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png"/>
 <span class="reference-related-copy">
 <strong>Zekrom</strong>
 <small>"You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path…</small>

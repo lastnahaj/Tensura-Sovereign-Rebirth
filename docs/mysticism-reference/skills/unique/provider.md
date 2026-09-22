@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-provider.svg" alt="Provider emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png" alt="Provider source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Provider.png">Provider.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</p>
@@ -69,21 +69,21 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../reducer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reducer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png"/>
 <span class="reference-related-copy">
 <strong>Reducer</strong>
 <small>Damn bro, no magicules?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../phaser/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-phaser.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png"/>
 <span class="reference-related-copy">
 <strong>Phaser</strong>
 <small>"When a man learns to love, he must also bear the risk of carrying hate"</small>
 </span>
 </a>
 <a class="reference-related-card" href="../repeater/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-repeater.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/repeater-c57e113c12.png"/>
 <span class="reference-related-copy">
 <strong>Repeater</strong>
 <small>Any physical damage you perform will be repeated a second time.</small>

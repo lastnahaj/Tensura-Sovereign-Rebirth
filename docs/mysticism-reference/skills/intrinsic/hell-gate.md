@@ -67,28 +67,28 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../exoskeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-exoskeleton.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png"/>
 <span class="reference-related-copy">
 <strong>Exoskeleton</strong>
 <small>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hell-hall/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hell_hall.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png"/>
 <span class="reference-related-copy">
 <strong>Hell Hall</strong>
 <small>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dissonance/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dissonance.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dissonance-5475c825ca.png"/>
 <span class="reference-related-copy">
 <strong>Dissonance</strong>
 <small>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lethal-poison/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lethal_poison.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png"/>
 <span class="reference-related-copy">
 <strong>Lethal Poison</strong>
 <small>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</small>

@@ -99,6 +99,24 @@ def replace_placeholder_media(text, page, asset, title):
     )
 
 
+def verified_source_icon(record):
+    """Prefer a locally imported, licensed article image over a drawn emblem."""
+    if not record:
+        return None
+    candidates = [
+        media for media in record.get("_media", [])
+        if media.get("import_status") == "imported"
+        and media.get("local_path")
+        and media.get("source_file_page")
+        and media.get("license")
+        and not re.search(r"wip|placeholder|effectplaceholder|^soon(?:\.|$)", media.get("source_title", ""), re.I)
+    ]
+    if not candidates:
+        return None
+    primary = record.get("_primary_media") or {}
+    return next((media for media in candidates if media["local_path"] == primary.get("local_path")), candidates[0])
+
+
 def localize_skill_links(text, page, policy, records):
     """Keep reading links local and recommendations limited to current entries."""
     hosts = {"tensura.wiki.gg", "tensurareincarnated.wiki.gg", "trmysticism.wiki.gg", "tensuranightmares.wiki.gg"}
@@ -131,10 +149,10 @@ def localize_skill_links(text, page, policy, records):
             decision = policy["pages"].get(target)
             if decision and decision["status"] not in ACTIVE:
                 anchor.decompose()
-            elif decision and decision["namespace"] == "mysticism":
+            elif decision and decision.get("asset"):
                 preview = anchor.find("img")
                 if preview:
-                    preview["src"] = relative(page, "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg")
+                    preview["src"] = relative(page, decision["asset"])
         if not soup.select("a.reference-related-card"):
             return ""
         return re.sub(r"\n[ \t]*\n+", "\n", str(soup))
@@ -147,6 +165,10 @@ def icon(identifier, title=""):
     if identifier.startswith("trnightmare:"):
         from nightmares_skill_icons import icon as nightmares_icon
         return nightmares_icon(identifier, title)
+    from mysticism_skill_icons import icon as mysticism_icon
+    bespoke = mysticism_icon(identifier, title)
+    if bespoke:
+        return bespoke
     name = identifier.split(":")[-1]
     color = "#52d5ef"
     glyph = '<path d="M48 21 66 39 48 75 30 39Z M30 39h36 M48 21v54"/>'
@@ -315,6 +337,16 @@ def generate():
     for source in ("tensura", "mysticism"):
         records.extend(load_reference_snapshot(source)[0])
     records.extend(supplementary_records())
+    source_records = {record["local_page"]: record for record in records}
+    source_icons = {}
+    for page, decision in policy["pages"].items():
+        if decision["namespace"] == "mysticism" and decision["status"] in ACTIVE:
+            media = verified_source_icon(source_records.get(page))
+            if media:
+                source_icons[page] = media
+                decision["asset"] = media["local_path"]
+            else:
+                decision["asset"] = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
     outputs = {}
     previous_path = DOCS / "assets/data/skill-catalogue.json"
     if previous_path.exists():
@@ -329,12 +361,18 @@ def generate():
         text, documented = prepare_page(page, decision, original)
         decision["obtainment_documented"] = documented
         if decision["namespace"] in {"mysticism", "trnightmare"} and decision["status"] in ACTIVE:
-            asset = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
-            outputs[asset] = icon(decision["id"], decision["title"])
+            media = source_icons.get(page)
+            asset = decision.get("asset") or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
+            if not media:
+                outputs[asset] = icon(decision["id"], decision["title"])
             decision["asset"] = asset
-            # Replace the preview, including its credit: these are TSR emblems.
-            text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption>' + m[2], text, count=1, flags=re.S)
-            text = replace_placeholder_media(text, page, asset, decision["title"])
+            if media:
+                caption = f'<a href="{html.escape(media["source_file_page"], quote=True)}">{html.escape(media["source_title"])} · {html.escape(media["license"])}</a>'
+                figure = f'<figure class="reference-overview-media reference-overview-media--source"><img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} source icon" loading="eager" decoding="async"><figcaption>{caption}</figcaption></figure>'
+                text = re.sub(r'<figure class="reference-overview-media[^>]*>.*?</figure>', lambda _m: figure, text, count=1, flags=re.S)
+            else:
+                text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption>' + m[2], text, count=1, flags=re.S)
+                text = replace_placeholder_media(text, page, asset, decision["title"])
         outputs[page] = text
     active = []
     seen = set()
@@ -349,7 +387,7 @@ def generate():
             record = {**record, "category": decision["category"], "registry_id": decision["id"]}
             record["reference_build_only"] = decision["status"] == "reference"
             if decision.get("asset"):
-                record["_primary_media"] = {"local_path": decision["asset"], "kind": "emblem"}
+                record["_primary_media"] = source_icons.get(record["local_page"]) or {"local_path": decision["asset"], "kind": "emblem"}
             record["_html"] = outputs[record["local_page"]]
         active.append(record)
     for category in LABELS:

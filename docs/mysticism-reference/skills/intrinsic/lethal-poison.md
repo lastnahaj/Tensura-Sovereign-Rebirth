@@ -13,7 +13,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-lethal_poison.svg" alt="Lethal Poison emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png" alt="Lethal Poison source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Lethal_Poison.png">Lethal Poison.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</p>
@@ -64,21 +64,21 @@ King Scorpion Evolution Line</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../hell-hall/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hell_hall.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png"/>
 <span class="reference-related-copy">
 <strong>Hell Hall</strong>
 <small>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-mode/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lightning_mode.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/lightning-mode-70097842da.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Mode</strong>
 <small>Burst forth with great speed and power, enhancing your abilities for a short period of time.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magisteel-body/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-magisteel_body.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png"/>
 <span class="reference-related-copy">
 <strong>Magisteel Body</strong>
 <small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>

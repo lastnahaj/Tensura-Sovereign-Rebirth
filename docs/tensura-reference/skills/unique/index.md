@@ -210,8 +210,8 @@
 <article class="reference-card" data-letter="B" data-search="butcher oh, your heart, aortic work of art, my love, my knife">
 <a href="../../../mysticism-reference/skills/unique/butcher/" aria-label="Open Butcher">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-butcher.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/butcher-3f2223ab91.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Butcher</h2>
@@ -240,8 +240,8 @@
 <article class="reference-card" data-letter="C" data-search="captivator your previous life, you were the brightest, shining star. your ability to turn lies into truths… perhaps it’s the other way around? whatever it may be, your eyes shine…">
 <a href="../../../mysticism-reference/skills/unique/captivator/" aria-label="Open Captivator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-captivator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Captivator</h2>
@@ -315,8 +315,8 @@
 <article class="reference-card" data-letter="C" data-search="coalescence za warudo!!! wait, wrong one? oh well, we got time, itll be fixed later">
 <a href="../../../mysticism-reference/skills/unique/coalescence/" aria-label="Open Coalescence">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-coalescence.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/coalescence-be99619998.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Coalescence</h2>
@@ -360,8 +360,8 @@
 <article class="reference-card" data-letter="C" data-search="constant after 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.">
 <a href="../../../mysticism-reference/skills/unique/constant/" aria-label="Open Constant">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-constant.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Constant</h2>
@@ -390,8 +390,8 @@
 <article class="reference-card" data-letter="C" data-search="corroder corroder? more toxic than my ex somehow">
 <a href="../../../mysticism-reference/skills/unique/corroder/" aria-label="Open Corroder">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-corroder.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Corroder</h2>
@@ -405,8 +405,8 @@
 <article class="reference-card" data-letter="C" data-search="crasher the essence of &quot;deletion&quot;. completely and utterly erase your foes from the plane of existence with the power of your sheer will alone.">
 <a href="../../../mysticism-reference/skills/unique/crasher/" aria-label="Open Crasher">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-crasher.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/crasher-a16135867d.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Crasher</h2>
@@ -450,8 +450,8 @@
 <article class="reference-card" data-letter="C" data-search="cultivator embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. a cultivator walks the path of self-perfection and dominion…">
 <a href="../../../mysticism-reference/skills/unique/cultivator/" aria-label="Open Cultivator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-cultivator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/cultivator-656da4f824.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cultivator</h2>
@@ -630,8 +630,8 @@
 <article class="reference-card" data-letter="D" data-search="dreamer save your current health, shp, magicules, aura, and location. reactivating dream will restore your stats back to the saved values and instantly teleport you to the…">
 <a href="../../../mysticism-reference/skills/unique/dreamer/" aria-label="Open Dreamer">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-dreamer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/dreamer-f10ec131a7.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Dreamer</h2>
@@ -705,8 +705,8 @@
 <article class="reference-card" data-letter="E" data-search="engineer tinkering and tinkering. no one understood the machines as much as you did. in fact, no one understood you either. perhaps it was always meant to be.">
 <a href="../../../mysticism-reference/skills/unique/engineer/" aria-label="Open Engineer">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-engineer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Engineer</h2>
@@ -840,8 +840,8 @@
 <article class="reference-card" data-letter="G" data-search="gardener the crops, the wild, everything was there for you. you sow the seeds and wish only for a bountiful harvest. and in turn, the crops bless you.">
 <a href="../../../mysticism-reference/skills/unique/gardener/" aria-label="Open Gardener">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-gardener.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gardener</h2>
@@ -1035,8 +1035,8 @@
 <article class="reference-card" data-letter="H" data-search="hidden ruler the one who lurks in the shadows... just waiting for things to happen. the one who answers your questions at every call...">
 <a href="../../../mysticism-reference/skills/unique/hidden-ruler/" aria-label="Open Hidden Ruler">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-hidden_ruler.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hidden Ruler</h2>
@@ -1140,8 +1140,8 @@
 <article class="reference-card" data-letter="K" data-search="kyurem &quot;a husk of what you formally were. the leftovers, discarded without a second thought when the split happened. coldness seeps through your skin as you freeze everything…">
 <a href="../../../mysticism-reference/skills/unique/kyurem/" aria-label="Open Kyurem">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-kyurem.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Kyurem</h2>
@@ -1215,8 +1215,8 @@
 <article class="reference-card" data-letter="M" data-search="malleable [sub-skill] cold clay - the user will learn flame attack resistance when malleable is acquired.">
 <a href="../../../mysticism-reference/skills/unique/malleable/" aria-label="Open Malleable">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-malleable.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Malleable</h2>
@@ -1260,8 +1260,8 @@
 <article class="reference-card" data-letter="M" data-search="melancholy summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. the skill also throws objects or air, amplifying the feeling of hopelessness…">
 <a href="../../../mysticism-reference/skills/unique/melancholy/" aria-label="Open Melancholy">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-melancholy.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Melancholy</h2>
@@ -1350,8 +1350,8 @@
 <article class="reference-card" data-letter="P" data-search="phaser &quot;when a man learns to love, he must also bear the risk of carrying hate&quot;">
 <a href="../../../mysticism-reference/skills/unique/phaser/" aria-label="Open Phaser">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-phaser.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Phaser</h2>
@@ -1425,8 +1425,8 @@
 <article class="reference-card" data-letter="P" data-search="provider here, take my glorious stuff! (i like these texts)">
 <a href="../../../mysticism-reference/skills/unique/provider/" aria-label="Open Provider">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-provider.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/provider-93310a03a9.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Provider</h2>
@@ -1455,8 +1455,8 @@
 <article class="reference-card" data-letter="R" data-search="reducer damn bro, no magicules?">
 <a href="../../../mysticism-reference/skills/unique/reducer/" aria-label="Open Reducer">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-reducer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Reducer</h2>
@@ -1485,8 +1485,8 @@
 <article class="reference-card" data-letter="R" data-search="repeater any physical damage you perform will be repeated a second time.">
 <a href="../../../mysticism-reference/skills/unique/repeater/" aria-label="Open Repeater">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-repeater.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/repeater-c57e113c12.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Repeater</h2>
@@ -1515,8 +1515,8 @@
 <article class="reference-card" data-letter="R" data-search="reshiram &quot;you seek to build a world of truths. are you prepared to scorch and burn everything in your path to make the truthful world you seek so badly?&quot;">
 <a href="../../../mysticism-reference/skills/unique/reshiram/" aria-label="Open Reshiram">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-reshiram.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/reshiram-425f18afb8.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Reshiram</h2>
@@ -1530,8 +1530,8 @@
 <article class="reference-card" data-letter="R" data-search="restricted the user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to them on reincarnation by their race, or if a skill…">
 <a href="../../../mysticism-reference/skills/unique/restricted/" aria-label="Open Restricted">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-restricted.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/races/restricted-57fefce285.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Restricted</h2>
@@ -1620,8 +1620,8 @@
 <article class="reference-card" data-letter="S" data-search="scholar have you heard about the scholar of 53?">
 <a href="../../../mysticism-reference/skills/unique/scholar/" aria-label="Open Scholar">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-scholar.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Scholar</h2>
@@ -1635,8 +1635,8 @@
 <article class="reference-card" data-letter="S" data-search="schrodinger schrodinger? like the cat?">
 <a href="../../../mysticism-reference/skills/unique/schrodinger/" aria-label="Open Schrodinger">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-schrodinger.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/schrodinger-c488482490.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Schrodinger</h2>
@@ -1815,8 +1815,8 @@
 <article class="reference-card" data-letter="S" data-search="spiritualist the soul formula is as follows: (mainhand weapon damage + base atk dmg) x critical multiplier (typically 1.5) / 5">
 <a href="../../../mysticism-reference/skills/unique/spiritualist/" aria-label="Open Spiritualist">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-spiritualist.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/spiritualist-c1c02979fe.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Spiritualist</h2>
@@ -1830,8 +1830,8 @@
 <article class="reference-card" data-letter="S" data-search="stagnator stagnate the world around you, could this be a jojo reference...?">
 <a href="../../../mysticism-reference/skills/unique/stagnator/" aria-label="Open Stagnator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-stagnator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/stagnator-194f37f8fa.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Stagnator</h2>
@@ -1890,8 +1890,8 @@
 <article class="reference-card" data-letter="S" data-search="subjugator empower your allies to fight with you and benefit from their fait, start subjugating it!">
 <a href="../../../mysticism-reference/skills/unique/subjugator/" aria-label="Open Subjugator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-subjugator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Subjugator</h2>
@@ -2070,8 +2070,8 @@
 <article class="reference-card" data-letter="V" data-search="victorious harbinger you are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.">
 <a href="../../../mysticism-reference/skills/unique/victorious-harbinger/" aria-label="Open Victorious Harbinger">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-victorious_harbinger.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Victorious Harbinger</h2>
@@ -2145,8 +2145,8 @@
 <article class="reference-card" data-letter="Z" data-search="zekrom &quot;you seek to build a world of ideals. be warned as not everyone shares the same ideals. raze anything in your path with a clap of lightning.&quot;)">
 <a href="../../../mysticism-reference/skills/unique/zekrom/" aria-label="Open Zekrom">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-zekrom.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/mysticism/skills/zekrom-f5233877a7.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Zekrom</h2>

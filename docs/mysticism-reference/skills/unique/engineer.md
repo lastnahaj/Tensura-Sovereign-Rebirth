@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-engineer.svg" alt="Engineer emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png" alt="Engineer source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Engineer.png">Engineer.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either. Perhaps it was always meant to be.</p>
@@ -85,21 +85,21 @@ At level 3, after 300 seconds (total 300, so 5 minutes from level 1) of being ne
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dreamer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dreamer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dreamer-f10ec131a7.png"/>
 <span class="reference-related-copy">
 <strong>Dreamer</strong>
 <small>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../gardener/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-gardener.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png"/>
 <span class="reference-related-copy">
 <strong>Gardener</strong>
 <small>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cultivator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-cultivator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/cultivator-656da4f824.png"/>
 <span class="reference-related-copy">
 <strong>Cultivator</strong>
 <small>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator…</small>

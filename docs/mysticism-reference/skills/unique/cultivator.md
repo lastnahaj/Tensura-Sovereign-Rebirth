@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-cultivator.svg" alt="Cultivator emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/cultivator-656da4f824.png" alt="Cultivator source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Cultivator.png">Cultivator.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator walks the path of self-perfection and dominion over all.</p>
@@ -66,28 +66,28 @@ True · In-Slot</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../crasher/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-crasher.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/crasher-a16135867d.png"/>
 <span class="reference-related-copy">
 <strong>Crasher</strong>
 <small>The essence of "deletion". Completely and utterly erase your foes from the plane of existence with the power of your…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dreamer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dreamer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dreamer-f10ec131a7.png"/>
 <span class="reference-related-copy">
 <strong>Dreamer</strong>
 <small>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corroder/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corroder.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png"/>
 <span class="reference-related-copy">
 <strong>Corroder</strong>
 <small>Corroder? More toxic than my ex somehow</small>
 </span>
 </a>
 <a class="reference-related-card" href="../engineer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-engineer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png"/>
 <span class="reference-related-copy">
 <strong>Engineer</strong>
 <small>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either…</small>

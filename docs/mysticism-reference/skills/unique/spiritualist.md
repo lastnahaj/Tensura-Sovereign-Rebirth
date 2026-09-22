@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-spiritualist.svg" alt="Spiritualist emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/spiritualist-c1c02979fe.png" alt="Spiritualist source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Spiritualist.png">Spiritualist.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The Soul formula is as follows: (Mainhand Weapon Damage + Base Atk Dmg) x Critical Multiplier (typically 1.5) / 5</p>
@@ -76,28 +76,28 @@ Reincarnation/Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../schrodinger/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-schrodinger.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/schrodinger-c488482490.png"/>
 <span class="reference-related-copy">
 <strong>Schrodinger</strong>
 <small>Schrodinger? Like the cat?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../stagnator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-stagnator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/stagnator-194f37f8fa.png"/>
 <span class="reference-related-copy">
 <strong>Stagnator</strong>
 <small>Stagnate the world around you, could this be a jojo reference...?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../scholar/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-scholar.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png"/>
 <span class="reference-related-copy">
 <strong>Scholar</strong>
 <small>Have you heard about the Scholar of 53?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../subjugator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-subjugator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png"/>
 <span class="reference-related-copy">
 <strong>Subjugator</strong>
 <small>Empower your allies to fight with you and benefit from their fait, start subjugating it!</small>

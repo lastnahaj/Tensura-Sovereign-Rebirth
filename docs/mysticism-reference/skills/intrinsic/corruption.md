@@ -67,21 +67,21 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../corrosion-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corrosion_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png"/>
 <span class="reference-related-copy">
 <strong>Corrosion Transform</strong>
 <small>Channel your inner corrosion to burn and bleed of the flesh of your enemies</small>
 </span>
 </a>
 <a class="reference-related-card" href="../discharge/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-discharge.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/discharge-34b8bc76fa.png"/>
 <span class="reference-related-copy">
 <strong>Discharge</strong>
 <small>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dissonance/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dissonance.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dissonance-5475c825ca.png"/>
 <span class="reference-related-copy">
 <strong>Dissonance</strong>
 <small>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that…</small>

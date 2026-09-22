@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-constant.svg" alt="Constant emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png" alt="Constant source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Constant.png">Constant.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</p>
@@ -72,21 +72,21 @@ Reincarnation/Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../corroder/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corroder.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png"/>
 <span class="reference-related-copy">
 <strong>Corroder</strong>
 <small>Corroder? More toxic than my ex somehow</small>
 </span>
 </a>
 <a class="reference-related-card" href="../coalescence/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-coalescence.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png"/>
 <span class="reference-related-copy">
 <strong>Coalescence</strong>
 <small>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</small>
 </span>
 </a>
 <a class="reference-related-card" href="../crasher/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-crasher.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/crasher-a16135867d.png"/>
 <span class="reference-related-copy">
 <strong>Crasher</strong>
 <small>The essence of "deletion". Completely and utterly erase your foes from the plane of existence with the power of your…</small>

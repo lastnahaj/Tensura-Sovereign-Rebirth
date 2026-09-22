@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-reshiram.svg" alt="Reshiram emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/reshiram-425f18afb8.png" alt="Reshiram source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Reshiram.png">Reshiram.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful world you seek so badly?&quot;</p>
@@ -78,28 +78,28 @@ Reincarnation/Reroll, To acquire if you didn't start with it, you must have eith
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../repeater/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-repeater.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/repeater-c57e113c12.png"/>
 <span class="reference-related-copy">
 <strong>Repeater</strong>
 <small>Any physical damage you perform will be repeated a second time.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../restricted/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-restricted.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/races/restricted-57fefce285.png"/>
 <span class="reference-related-copy">
 <strong>Restricted</strong>
 <small>The user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reducer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reducer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/reducer-2ec2f0556b.png"/>
 <span class="reference-related-copy">
 <strong>Reducer</strong>
 <small>Damn bro, no magicules?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../scholar/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-scholar.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png"/>
 <span class="reference-related-copy">
 <strong>Scholar</strong>
 <small>Have you heard about the Scholar of 53?</small>

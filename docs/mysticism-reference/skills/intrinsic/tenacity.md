@@ -11,7 +11,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-tenacity.svg" alt="Tenacity emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/missing-model-inventory-je2-7c0a10e5b2.png" alt="Tenacity source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Missing_Model_(inventory)_JE2.png">Missing Model (inventory) JE2.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Become tenacious and repair your body. Since magic and mana itself has rejected you, utilise your pure aura alone.</p>
@@ -63,21 +63,21 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../spark/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-spark.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/spark-ae86cc4417.png"/>
 <span class="reference-related-copy">
 <strong>Spark</strong>
 <small>Light your fists and weaponry ablaze."</small>
 </span>
 </a>
 <a class="reference-related-card" href="../relapse/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-relapse.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/relapse-757e4d38bd.png"/>
 <span class="reference-related-copy">
 <strong>Relapse</strong>
 <small>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-poison_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png"/>
 <span class="reference-related-copy">
 <strong>Poison Transform</strong>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>

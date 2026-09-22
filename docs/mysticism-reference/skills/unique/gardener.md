@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-gardener.svg" alt="Gardener emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png" alt="Gardener source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Gardener.png">Gardener.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in turn, the crops bless you.</p>
@@ -76,21 +76,21 @@ For example, if I had a stack of 64 Steak, I would gain 6 mastery points instead
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../engineer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-engineer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png"/>
 <span class="reference-related-copy">
 <strong>Engineer</strong>
 <small>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dreamer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dreamer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dreamer-f10ec131a7.png"/>
 <span class="reference-related-copy">
 <strong>Dreamer</strong>
 <small>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hidden-ruler/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>

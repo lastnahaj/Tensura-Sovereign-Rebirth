@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-hell_hall.svg" alt="Hell Hall emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png" alt="Hell Hall source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Hell_Hall.png">Hell Hall.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</p>
@@ -61,21 +61,21 @@ Enflamed Aberrations</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lethal-poison/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lethal_poison.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png"/>
 <span class="reference-related-copy">
 <strong>Lethal Poison</strong>
 <small>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../exoskeleton/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-exoskeleton.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png"/>
 <span class="reference-related-copy">
 <strong>Exoskeleton</strong>
 <small>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-mode/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-lightning_mode.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/lightning-mode-70097842da.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Mode</strong>
 <small>Burst forth with great speed and power, enhancing your abilities for a short period of time.</small>

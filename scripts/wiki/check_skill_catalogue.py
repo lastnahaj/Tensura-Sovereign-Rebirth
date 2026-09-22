@@ -31,6 +31,7 @@ def main():
     parser.add_argument("--source-only", action="store_true")
     args = parser.parse_args()
     outputs = generate()
+    generated_pages = json.loads(outputs["assets/data/skill-catalogue.json"])["pages"]
     errors = []
     for name, content in outputs.items():
         if not (DOCS / name).exists() or (DOCS / name).read_text(encoding="utf-8") != content:
@@ -80,8 +81,14 @@ def main():
                 errors.append(f"Missing obtainment jump: {page}")
         if decision["namespace"] in {"mysticism", "trnightmare"}:
             previews = soup.select(".reference-overview img, .skill-detail-hero img")
-            if not previews or any("assets/icons/skills/" not in image["src"] for image in previews):
-                errors.append(f"Missing skill emblem: {page}")
+            asset = generated_pages[page].get("asset")
+            if not previews or not asset or any(
+                posixpath.normpath(posixpath.join(route(page), image["src"])) != asset
+                for image in previews
+            ):
+                errors.append(f"Missing verified skill icon: {page}")
+            if asset and asset.startswith("assets/upstream/") and not soup.select_one(".reference-overview-media figcaption a[href]"):
+                errors.append(f"Missing source-icon credit: {page}")
             if any("wip" in image.get("src", "").casefold() for image in soup.select("img")):
                 errors.append(f"Editorial placeholder remains: {page}")
         if decision["status"] == "reference":

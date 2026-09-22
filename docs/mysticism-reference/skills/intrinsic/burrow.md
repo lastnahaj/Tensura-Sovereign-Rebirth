@@ -66,14 +66,14 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../bullet-punch/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-bullet_punch.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/bullet-punch-2c40b24441.png"/>
 <span class="reference-related-copy">
 <strong>Bullet Punch</strong>
 <small>When mastered, becomes toggleable.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corrosion-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corrosion_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png"/>
 <span class="reference-related-copy">
 <strong>Corrosion Transform</strong>
 <small>Channel your inner corrosion to burn and bleed of the flesh of your enemies</small>

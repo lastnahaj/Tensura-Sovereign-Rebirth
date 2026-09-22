@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-kyurem.svg" alt="Kyurem emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/kyurem-9402ec2c95.png" alt="Kyurem source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Kyurem.png">Kyurem.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything to reclaim your other parts.&quot;</p>
@@ -78,21 +78,21 @@ Reincarnation/Reroll, To acquire if you didn't start with it, you must have eith
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../malleable/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-malleable.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png"/>
 <span class="reference-related-copy">
 <strong>Malleable</strong>
 <small>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hidden-ruler/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../melancholy/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>

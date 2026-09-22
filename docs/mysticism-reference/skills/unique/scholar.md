@@ -13,7 +13,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-scholar.svg" alt="Scholar emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png" alt="Scholar source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Scholar_icon.png">Scholar icon.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Have you heard about the Scholar of 53?</p>
@@ -85,28 +85,28 @@ me 6/2 = 3 mastery points.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../restricted/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-restricted.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/races/restricted-57fefce285.png"/>
 <span class="reference-related-copy">
 <strong>Restricted</strong>
 <small>The user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../schrodinger/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-schrodinger.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/schrodinger-c488482490.png"/>
 <span class="reference-related-copy">
 <strong>Schrodinger</strong>
 <small>Schrodinger? Like the cat?</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reshiram/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-reshiram.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/reshiram-425f18afb8.png"/>
 <span class="reference-related-copy">
 <strong>Reshiram</strong>
 <small>"You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritualist/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-spiritualist.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/spiritualist-c1c02979fe.png"/>
 <span class="reference-related-copy">
 <strong>Spiritualist</strong>
 <small>The Soul formula is as follows: (Mainhand Weapon Damage + Base Atk Dmg) x Critical Multiplier (typically 1.5) / 5</small>

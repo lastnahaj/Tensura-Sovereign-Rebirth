@@ -72,28 +72,28 @@ Reincarnation/Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../coalescence/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-coalescence.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/coalescence-be99619998.png"/>
 <span class="reference-related-copy">
 <strong>Coalescence</strong>
 <small>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</small>
 </span>
 </a>
 <a class="reference-related-card" href="../constant/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-constant.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png"/>
 <span class="reference-related-copy">
 <strong>Constant</strong>
 <small>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../captivator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-captivator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png"/>
 <span class="reference-related-copy">
 <strong>Captivator</strong>
 <small>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corroder/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corroder.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png"/>
 <span class="reference-related-copy">
 <strong>Corroder</strong>
 <small>Corroder? More toxic than my ex somehow</small>

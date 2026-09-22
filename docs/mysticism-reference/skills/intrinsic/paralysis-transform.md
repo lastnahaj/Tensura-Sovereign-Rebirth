@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-paralysis_transform.svg" alt="Paralysis Transform emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png" alt="Paralysis Transform source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Paralysis_Transform.png">Paralysis Transform.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</p>
@@ -67,21 +67,21 @@ Paralysis Soul Insect</div></div></div></div>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-poison_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png"/>
 <span class="reference-related-copy">
 <strong>Poison Transform</strong>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magisteel-body/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-magisteel_body.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png"/>
 <span class="reference-related-copy">
 <strong>Magisteel Body</strong>
 <small>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../relapse/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-relapse.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/relapse-757e4d38bd.png"/>
 <span class="reference-related-copy">
 <strong>Relapse</strong>
 <small>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well…</small>

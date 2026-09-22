@@ -87,21 +87,21 @@ Mastered - 7 portals.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../gardener/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-gardener.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/gardener-51f67bd405.png"/>
 <span class="reference-related-copy">
 <strong>Gardener</strong>
 <small>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hidden-ruler/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hidden_ruler.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png"/>
 <span class="reference-related-copy">
 <strong>Hidden Ruler</strong>
 <small>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../engineer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-engineer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/engineer-abc99d3f0f.png"/>
 <span class="reference-related-copy">
 <strong>Engineer</strong>
 <small>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either…</small>

@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-exoskeleton.svg" alt="Exoskeleton emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png" alt="Exoskeleton source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Exoskeleton.png">Exoskeleton.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes Toggleable on mastery</p>
@@ -85,21 +85,21 @@ Insects</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dissonance/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dissonance.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dissonance-5475c825ca.png"/>
 <span class="reference-related-copy">
 <strong>Dissonance</strong>
 <small>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../discharge/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-discharge.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/discharge-34b8bc76fa.png"/>
 <span class="reference-related-copy">
 <strong>Discharge</strong>
 <small>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hell-hall/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-hell_hall.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png"/>
 <span class="reference-related-copy">
 <strong>Hell Hall</strong>
 <small>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</small>

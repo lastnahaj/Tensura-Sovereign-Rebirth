@@ -11,7 +11,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-relapse.svg" alt="Relapse emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/relapse-757e4d38bd.png" alt="Relapse source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Relapse.png">Relapse.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well. Relapse and claim what belongs to you.</p>
@@ -164,21 +164,21 @@ None</div></div></div><div class="druid-section-container"><div data-druid-secti
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../poison-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-poison_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png"/>
 <span class="reference-related-copy">
 <strong>Poison Transform</strong>
 <small>Channel your inner poison to inject deadly venom into your target trough every pore.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spark/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-spark.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/spark-ae86cc4417.png"/>
 <span class="reference-related-copy">
 <strong>Spark</strong>
 <small>Light your fists and weaponry ablaze."</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-transform/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-paralysis_transform.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png"/>
 <span class="reference-related-copy">
 <strong>Paralysis Transform</strong>
 <small>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</small>

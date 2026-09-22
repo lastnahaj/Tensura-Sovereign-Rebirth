@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-light_domination.svg" alt="Light Domination emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/light-domination-0ad3e944be.png" alt="Light Domination source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Light_Domination.png">Light Domination.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Boost the power of Light abilities by a great amount.</p>
@@ -66,14 +66,14 @@ Seraphim/Fallen Seraphim</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../light-manipulation/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-light_manipulation.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png"/>
 <span class="reference-related-copy">
 <strong>Light Manipulation</strong>
 <small>Boosts the power of Light abilities by a decent amount</small>
 </span>
 </a>
 <a class="reference-related-card" href="../ice-manipulation/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-ice_manipulation.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png"/>
 <span class="reference-related-copy">
 <strong>Ice Manipulation</strong>
 <small>Boosts the power of Ice abilities by a decent amount.</small>

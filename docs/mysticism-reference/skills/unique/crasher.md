@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-crasher.svg" alt="Crasher emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/crasher-a16135867d.png" alt="Crasher source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Crasher.png">Crasher.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The essence of &quot;deletion&quot;. Completely and utterly erase your foes from the plane of existence with the power of your sheer will alone.</p>
@@ -72,28 +72,28 @@ Reincarnation/Skill Reroll</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../corroder/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-corroder.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/corroder-1ce411eb5a.png"/>
 <span class="reference-related-copy">
 <strong>Corroder</strong>
 <small>Corroder? More toxic than my ex somehow</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cultivator/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-cultivator.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/cultivator-656da4f824.png"/>
 <span class="reference-related-copy">
 <strong>Cultivator</strong>
 <small>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../constant/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-constant.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/constant-f6a361fb5a.png"/>
 <span class="reference-related-copy">
 <strong>Constant</strong>
 <small>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dreamer/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-dreamer.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/dreamer-f10ec131a7.png"/>
 <span class="reference-related-copy">
 <strong>Dreamer</strong>
 <small>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the…</small>

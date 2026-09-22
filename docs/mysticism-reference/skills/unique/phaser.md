@@ -12,7 +12,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-phaser.svg" alt="Phaser emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/mysticism/skills/phaser-71dbe5037f.png" alt="Phaser source icon" loading="eager" decoding="async"><figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Phaser.png">Phaser.png · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</p>
@@ -88,21 +88,21 @@ Will build up the counter if this is triggered.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../melancholy/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-melancholy.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/melancholy-53d9520383.png"/>
 <span class="reference-related-copy">
 <strong>Melancholy</strong>
 <small>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../malleable/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-malleable.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png"/>
 <span class="reference-related-copy">
 <strong>Malleable</strong>
 <small>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../provider/">
-<img alt="" decoding="async" loading="lazy" src="../../../../assets/icons/skills/mysticism-provider.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../../assets/upstream/mysticism/skills/provider-93310a03a9.png"/>
 <span class="reference-related-copy">
 <strong>Provider</strong>
 <small>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</small>
