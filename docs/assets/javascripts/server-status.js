@@ -2,6 +2,7 @@
   const API_ROOT = "https://api.mcsrvstat.us/3/";
 
   function createRailPanel() {
+    if (document.querySelector('.tsr-home')) return null;
     const existing = document.querySelector(".tsr-live-realm-item");
     if (existing) return existing.querySelector("[data-server-status]");
 

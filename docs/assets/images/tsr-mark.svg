@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Tensura: Sovereign Rebirth</title>
+  <defs><radialGradient id="blue" cx=".32" cy=".2" r=".95"><stop stop-color="#d0ffff"/><stop offset=".4" stop-color="#75ddef"/><stop offset=".75" stop-color="#2897c8"/><stop offset="1" stop-color="#335895"/></radialGradient></defs>
+  <path d="M5 36C4 20 15 9 31 9c16 0 26 11 28 25 3 16-11 23-27 23C17 57 6 50 5 36Z" fill="url(#blue)" stroke="#b7efff" stroke-width="1.5"/>
+  <path d="M12 28c2-8 9-13 16-14" fill="none" stroke="#e8ffff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <path d="m16 36 10 2m12 0 10-2" fill="none" stroke="#123a5a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M16 48q17 9 34-1" fill="none" stroke="#8addf2" stroke-opacity=".6" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

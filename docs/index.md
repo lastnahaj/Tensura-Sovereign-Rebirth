@@ -1,152 +1,81 @@
 ---
-title: Tensura: Sovereign Rebirth
-description: Reincarnate. Evolve. Build. Awaken. Rule.
+title: "Tensura: Sovereign Rebirth"
+description: Your guide to a new life in Tensura. Explore races, master skills, and build your place in the world.
+hide:
+  - navigation
+  - toc
 ---
 
-<div class="tsr-hero" markdown>
+<div class="tsr-home">
 
-<picture class="tsr-hero-art">
-  <source media="(max-width: 45rem)" srcset="assets/images/tsr-wiki-hero-mobile.svg">
-  <img src="assets/images/tsr-wiki-hero.svg" width="1600" height="640" alt="" fetchpriority="high">
-</picture>
-
-<h1 class="tsr-hero-accessible">Tensura: Sovereign Rebirth</h1>
-<p class="tsr-hero-accessible">Reincarnate. Evolve. Build. Awaken. Rule.</p>
-
-**Minecraft 1.21.1 · NeoForge 21.1.248 · Java 21 · Version 1 Beta**
-
-[Get Started](getting-started.md){ .md-button .md-button--primary }
-[Search the Tensura Reference](tensura-reference/index.md){ .md-button }
-[Explore TSR Progression](progression-overview.md){ .md-button }
-
-</div>
-
----
-
-**Tensura: Sovereign Rebirth (TSR)** is a Minecraft **1.21.1 NeoForge** RPG/civilization modpack built around Tensura: Reincarnated. The pack is designed so that character progression, race evolution, skills, equipment, subordinates, quests, nation building, bosses, dimensions, prestige, and endgame awakening all feed into one coherent progression loop.
-
-<span class="tsr-status">Version 1 Beta</span>
-
-The wiki presents its imported Tensura material as one reference experience alongside the verified TSR modpack layer. The current upstream snapshots contain **1,340 relevant articles**, **394 local redirect aliases**, **1,784 unique locally hosted source images**, and **zero failed article imports**. Every imported image retains File-page attribution and a per-file license exception check.
-
-## New here? Start with one useful hour
-
-<section class="homepage-first-hour" aria-label="First-hour route">
-  <a href="getting-started/#your-first-hour">
-    <span class="homepage-first-hour-media"><img src="assets/images/onboarding-character-paths.webp" alt="" loading="lazy" decoding="async"><b>00–10 min</b></span>
-    <span class="homepage-first-hour-copy"><small>01 · Reincarnate</small><strong>Know what you became</strong><span>Check your race, abilities, resources, and controls before the first fight.</span><em>Start here →</em></span>
-  </a>
-  <a href="getting-started/#field-checklist">
-    <span class="homepage-first-hour-media"><img src="assets/images/onboarding-realm-arrival.webp" alt="" loading="lazy" decoding="async"><b>10–30 min</b></span>
-    <span class="homepage-first-hour-copy"><small>02 · Establish</small><strong>Make the world yours</strong><span>Secure food and shelter, form a team, and protect your first home.</span><em>Open checklist →</em></span>
-  </a>
-  <a href="getting-started/#choose-a-path-not-a-class">
-    <span class="homepage-first-hour-media"><img src="assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async"><b>30–60 min</b></span>
-    <span class="homepage-first-hour-copy"><small>03 · Choose</small><strong>Pick your first pursuit</strong><span>Evolve, explore, engineer, or begin a nation without choosing a permanent class.</span><em>Compare paths →</em></span>
-  </a>
+<section class="tsr-home-hero" aria-labelledby="home-title">
+  <div class="home-hero-copy">
+    <p class="home-eyebrow"><span></span> The player wiki · Minecraft 1.21.1</p>
+    <h1 id="home-title"><span class="home-title-series">Tensura:</span><span>Sovereign</span><span class="home-title-accent">Rebirth</span></h1>
+    <p class="home-hero-tagline">A new life. A world of possibilities.</p>
+    <p class="home-hero-description">Find your race. Master your skills. Turn your first steps into a story worth telling.</p>
+    <div class="home-hero-actions">
+      <a class="home-button home-button--primary" href="getting-started/">Get started <span aria-hidden="true">↗</span></a>
+      <a class="home-button home-button--secondary" href="#explore">Explore the wiki <span aria-hidden="true">↓</span></a>
+    </div>
+    <p class="home-hero-mantra">Reincarnate <i>·</i> Evolve <i>·</i> Build <i>·</i> Awaken <i>·</i> Rule</p>
+  </div>
+  <div class="home-hero-visual">
+    <img src="assets/images/tsr-rebirth-spirit.svg" width="900" height="900" alt="A translucent blue slime surrounded by flowing magicules" fetchpriority="high" decoding="async">
+  </div>
 </section>
 
-## Choose your path
-
-<div class="reference-path-grid">
-
-<article class="reference-path-card reference-theme-evolution">
-<img src="assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Reincarnate & Evolve</h2>
-<p>Compare forms, inspect race infoboxes, and follow documented evolution requirements.</p>
-<div class="reference-path-links">
-<a href="tensura-reference/races/">Race families <span>38</span></a>
-<a href="tensura-reference/races/evolution-trees/">Evolution paths</a>
-</div>
-</div>
-</article>
-
-<article class="reference-path-card reference-theme-abilities">
-<img src="assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Master Skills & Magic</h2>
-<p>Filter abilities, spells, resistances, and Battlewill by the way you want to build.</p>
-<div class="reference-path-links">
-<a href="tensura-reference/skills/unique/">Unique Skills <span>100</span></a>
-<a href="tensura-reference/skills/ultimate/">Ultimate Skills <span>38</span></a>
-<a href="tensura-reference/magic/">Magic <span>147</span></a>
-</div>
-</div>
-</article>
-
-<article class="reference-path-card reference-theme-bestiary">
-<img src="assets/images/reference-bestiary.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Hunt & Conquer</h2>
-<p>Browse the animated bestiary and review major encounters before you challenge them.</p>
-<div class="reference-path-links">
-<a href="tensura-reference/mobs/">Mobs <span>60</span></a>
-<a href="tensura-reference/bosses/">Bosses <span>15</span></a>
-</div>
-</div>
-</article>
-
-<article class="reference-path-card reference-theme-world">
-<img src="assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
-<div class="reference-path-copy">
-<h2>Build a Sovereignty</h2>
-<p>Explore source screenshots, structures, biomes, equipment, and nation-building guides.</p>
-<div class="reference-path-links">
-<a href="tensura-reference/items/">Items <span>196</span></a>
-<a href="tensura-reference/blocks/">Blocks <span>35</span></a>
-<a href="tensura-reference/biomes/">Biomes <span>12</span></a>
-<a href="tensura-reference/structures/">Structures <span>22</span></a>
-</div>
-</div>
-</article>
-
+<div class="home-edition-bar">
+  <p><span class="home-live-dot" aria-hidden="true"></span><strong>Version 1 Beta</strong><span>NeoForge · Minecraft 1.21.1</span></p>
+  <a href="roadmap/">See what’s being built <span aria-hidden="true">→</span></a>
 </div>
 
-## Practical guides
+<section class="home-explore" id="explore" aria-labelledby="home-explore-title">
+  <div class="home-section-heading"><div><p class="home-eyebrow">The world, at your fingertips</p><h2 id="home-explore-title">Find your next move.</h2></div><a href="tensura-reference/">All reference sections <span aria-hidden="true">↗</span></a></div>
+  <div class="home-directory">
+    <a class="home-directory-card home-directory-card--race" href="tensura-reference/races/"><div><span class="home-card-kicker">Become something more</span><h3>Races &amp; evolutions</h3><p>Explore your family, compare forms, and follow each evolution path.</p><span class="home-card-link">Find your race <b aria-hidden="true">→</b></span></div><img src="assets/upstream/tensura/races/raceslime-0c1d6d9158.png" width="512" height="512" alt="" loading="lazy"></a>
+    <a class="home-directory-card home-directory-card--skill" href="tensura-reference/skills/"><div><span class="home-card-kicker">Shape your abilities</span><h3>Skills &amp; magic</h3><p>Learn what skills do, how to obtain them, and what they unlock.</p><span class="home-card-link">Build your skill set <b aria-hidden="true">→</b></span></div><img class="home-pixel-icon" src="assets/upstream/tensura/skills/great-sage-157839d932.png" width="160" height="160" alt="" loading="lazy"></a>
+    <a class="home-directory-card home-directory-card--equipment" href="tensura-reference/items/"><div><span class="home-card-kicker">Prepare for the journey</span><h3>Items &amp; equipment</h3><p>Browse materials, weapons, armor, tools, and useful discoveries.</p><span class="home-card-link">Open the item guide <b aria-hidden="true">→</b></span></div><img class="home-pixel-icon" src="assets/upstream/tensura/items/block-of-pure-magisteel-3b80aad5c6.png" width="160" height="160" alt="" loading="lazy"></a>
+    <a class="home-directory-card home-directory-card--mobs" href="tensura-reference/mobs/"><div><span class="home-card-kicker">Know what awaits</span><h3>Mobs &amp; bosses</h3><p>Meet the creatures of Tensura and prepare for larger encounters.</p><span class="home-card-link">Explore the bestiary <b aria-hidden="true">→</b></span></div><img src="assets/upstream/tensura/mobs/direwolf-0f13b02020.gif" width="256" height="256" alt="" loading="lazy"></a>
+    <a class="home-directory-card home-directory-card--world" href="tensura-reference/structures/"><div><span class="home-card-kicker">Go beyond the horizon</span><h3>World &amp; structures</h3><p>Discover settlements, landmarks, and places worth exploring.</p><span class="home-card-link">Plan an expedition <b aria-hidden="true">→</b></span></div><img src="assets/upstream/tensura/structures/goblin-chief-tent-61a9607d66.png" width="256" height="256" alt="" loading="lazy"></a>
+    <a class="home-directory-card home-directory-card--progression" href="progression-overview/"><div><span class="home-card-kicker">Make every life count</span><h3>Prestige &amp; progression</h3><p>Understand awakening, Soul Grade, prestige, and skill locking.</p><span class="home-card-link">See the progression guide <b aria-hidden="true">→</b></span></div><img class="home-pixel-icon" src="assets/upstream/tensura/races/awakening1-830dc61873.png" width="160" height="160" alt="" loading="lazy"></a>
+  </div>
+  <nav class="home-quick-links" aria-label="More wiki sections"><span>Also explore</span><a href="tensura-reference/blocks/">Blocks ↗</a><a href="tensura-reference/biomes/">Biomes ↗</a><a href="tensura-reference/bosses/">Bosses ↗</a><a href="tensura-reference/commands/">Commands ↗</a><a href="tensura-reference/configuration/">Configuration ↗</a><a href="mod-guide-directory/">Mod guides ↗</a></nav>
+</section>
 
-<div class="tsr-link-grid" markdown>
+<section class="home-start" aria-labelledby="home-start-title">
+  <div class="home-section-heading"><div><p class="home-eyebrow">Your first hour</p><h2 id="home-start-title">Every legend starts somewhere.</h2></div><a href="getting-started/">Read the starter guide <span aria-hidden="true">↗</span></a></div>
+  <div class="homepage-first-hour home-start-grid">
+    <a href="getting-started/#your-first-hour"><div class="home-step-art"><span>01</span><img src="assets/upstream/tensura/races/racehuman-de4f15d1c8.png" width="256" height="256" alt="" loading="lazy"></div><div class="home-step-copy"><small>00–10 minutes · Reincarnate</small><h3>Meet your new self.</h3><p>Check your race, resources, abilities, and controls before your first fight.</p><span>Understand your character →</span></div></a>
+    <a href="getting-started/#field-checklist"><div class="home-step-art"><span>02</span><img src="assets/upstream/tensura/structures/goblin-small-tent-d976f53846.png" width="256" height="256" alt="" loading="lazy"></div><div class="home-step-copy"><small>10–30 minutes · Establish</small><h3>Find your footing.</h3><p>Gather food, build a shelter, and learn how to protect your first home.</p><span>Open the field checklist →</span></div></a>
+    <a href="getting-started/#choose-a-path-not-a-class"><div class="home-step-art"><span>03</span><img class="home-pixel-icon" src="assets/upstream/tensura/skills/predator-4eeb8bbfb5.png" width="160" height="160" alt="" loading="lazy"></div><div class="home-step-copy"><small>30–60 minutes · Explore</small><h3>Choose a first ambition.</h3><p>Pursue an evolution, try a new skill, explore, or lay the foundations of a nation.</p><span>Find a path that fits →</span></div></a>
+  </div>
+</section>
 
-- **[Getting Started](getting-started.md)**<br>
-  Reincarnation, starter policy, early resources, and first branches.
-- **[Mod Guide Directory](mod-guide-directory/index.md)**<br>
-  Visual routes through every major player-facing mod family in the beta.
-- **[Races](tensura-reference/races/index.md)**<br>
-  All documented race forms plus verified evolution relationships.
-- **[Skills](tensura-reference/skills/other/index.md)**<br>
-  Intrinsic, Common, Extra, Unique, and resistance directories.
-- **[Magic](tensura-reference/magic/index.md)**<br>
-  Spells, Battlewill, and TSR's external magic integration.
-- **[EP, Magicules & Aura](tensura-reference/core-mechanics/ep-magicule-aura.md)**<br>
-  Core resource mechanics with TSR version context.
-- **[Items & Equipment](tensura-reference/items/index.md)**<br>
-  Items, materials, weapons, armor, tools, and blocks.
-- **[Mobs & Bosses](tensura-reference/mobs/index.md)**<br>
-  Tensura entities alongside the broader TSR boss layer.
-- **[Quests & Campaign](campaign.md)**<br>
-  Actual implementation status for the planned eight-act campaign.
-- **[World & Nations](minecolonies-and-nations.md)**<br>
-  Terrain, structures, settlements, naming, and sovereignty.
-- **[Server Setup](server-administration.md)**<br>
-  Java, NeoForge, configuration, backups, and operations.
-- **[Compatibility](compatibility-matrix.md)**<br>
-  Installed, verified, blocked, and under-validation integrations.
-- **[Mod Manifest](mod-manifest.md)**<br>
-  Frozen design authority and current runtime dispositions.
-- **[Sources & Attribution](project/sources-and-attribution.md)**<br>
-  Public provenance, licensing, source roles, and version boundaries for this wiki.
+<section class="home-community" aria-labelledby="home-community-title">
+  <div class="home-community-copy"><p class="home-eyebrow">A shared world</p><h2 id="home-community-title">Your story has company.</h2><p>Build a home, meet other players, and find your place in the realm.</p><a class="home-button home-button--secondary" href="getting-started/">How to join <span aria-hidden="true">↗</span></a></div>
+  <div class="home-realm" data-server-status data-server-address="tsr.infinitegamingservers.com">
+    <div class="home-realm-heading"><span>TSR REALM</span><strong data-status-label>Checking…</strong></div>
+    <p class="home-realm-address">tsr.infinitegamingservers.com</p>
+    <div class="home-realm-count"><strong data-status-online>—</strong><span>players online</span></div>
+    <ul class="server-player-list" data-status-players aria-label="Publicly reported online players"><li>Checking the public player sample…</li></ul>
+    <p class="home-realm-message" data-status-message>Requesting the latest public server status.</p>
+    <div class="home-realm-actions"><button type="button" data-copy-server>Copy server address</button><button type="button" data-status-refresh>Refresh</button></div>
+    <p class="home-realm-note"><span data-status-updated aria-live="polite"></span> · Public status may be cached. Names appear when the server shares them.</p>
+  </div>
+</section>
+
+<footer class="home-footer"><div><strong>Tensura: Sovereign Rebirth</strong><p>A Minecraft 1.21.1 adventure built around Tensura: Reincarnated.</p></div><nav aria-label="Project information"><a href="project/sources-and-attribution/">Sources &amp; image credits</a><a href="current-modlist/">Current modlist</a><a href="roadmap/">Roadmap</a><a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues">Report an issue</a></nav></footer>
+
+<details class="home-media-credits">
+  <summary>Homepage image credits</summary>
+  <p>The blue slime hero is original TSR illustration. Reference thumbnails are from the Tensura: Reincarnated Wiki and retain their recorded File-page license declarations:</p>
+  <ul>
+    <li><a href="https://tensura.wiki.gg/wiki/File:RaceSlime.png">RaceSlime.png</a> · <a href="https://tensura.wiki.gg/wiki/File:Great_sage.png">Great sage.png</a> · <a href="https://tensura.wiki.gg/wiki/File:Block_of_Pure_Magisteel.png">Block of Pure Magisteel.png</a></li>
+    <li><a href="https://tensura.wiki.gg/wiki/File:Direwolf.gif">Direwolf.gif</a> · <a href="https://tensura.wiki.gg/wiki/File:Goblin_chief_tent.png">Goblin chief tent.png</a> · <a href="https://tensura.wiki.gg/wiki/File:Awakening1.png">Awakening1.png</a></li>
+    <li><a href="https://tensura.wiki.gg/wiki/File:RaceHuman.png">RaceHuman.png</a> · <a href="https://tensura.wiki.gg/wiki/File:Goblin_small_tent.png">Goblin small tent.png</a> · <a href="https://tensura.wiki.gg/wiki/File:Predator.png">Predator.png</a></li>
+  </ul>
+  <p>See the <a href="project/upstream-attribution/">Tensura attribution record</a> for contributors and CC BY-SA 4.0 terms. This community project is not an official Tensura franchise website.</p>
+</details>
 
 </div>
-
-## What makes TSR different?
-
-- **Tensura-first progression.** External content is selected because it complements Tensura rather than competing with it.
-- **Nation building.** MineColonies and Tensura x MineColonies turn settlement growth into a major RPG progression path.
-- **Equipment that evolves with you.** Tensura Gear Evolution is the authoritative gear progression system.
-- **Meaningful endgame.** SlimeThrone Extras, Ascension, boss content, racial prestige, Soul Grade, and Ultimate Skill progression provide long-term goals.
-- **Guided but not linear.** The planned campaign uses FTB Quests for the main story while optional branches cover building, dimensions, bosses, magic, exploration, and mastery.
-- **Multiplayer-ready design.** LuckPerms, FTB Teams/Chunks, Tensura FTB compatibility, grief logging, backups, profiling, and curated server-side optimization are part of the baseline.
-
-## Current project stage
-
-The playable beta has passed clean client and server startup with its assembled adventure, world, building, multiplayer, interface, and performance layers. Extended gameplay, multiplayer progression, structure density, equipment persistence, permissions, and the complete handcrafted campaign remain under validation. See the [Roadmap](roadmap.md) for exact status language.

@@ -8,8 +8,8 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  logo: assets/images/crowned_slime_tsr_arcane_crest.png
-  favicon: assets/images/crowned_slime_tsr_arcane_crest.png
+  logo: assets/images/tsr-mark.svg
+  favicon: assets/images/tsr-mark.svg
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -57,7 +57,7 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/extra.css
-  - assets/stylesheets/hero.css
+  - assets/stylesheets/home.css
 
 extra_javascript:
   - assets/javascripts/reference.js

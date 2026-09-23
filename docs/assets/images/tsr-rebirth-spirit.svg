@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">A new life in blue</title>
+  <desc id="desc">An original blue slime illustration with translucent water, sweeping magicule trails, and a midnight-blue atmosphere.</desc>
+  <defs>
+    <radialGradient id="atmosphere"><stop stop-color="#106ba0" stop-opacity=".56"/><stop offset=".6" stop-color="#0b3657" stop-opacity=".24"/><stop offset="1" stop-color="#091525" stop-opacity="0"/></radialGradient>
+    <radialGradient id="body" cx=".32" cy=".23" r=".92"><stop stop-color="#c4f8ff"/><stop offset=".24" stop-color="#73dcef"/><stop offset=".54" stop-color="#2ca4d2"/><stop offset=".79" stop-color="#2475af"/><stop offset="1" stop-color="#303f87"/></radialGradient>
+    <linearGradient id="belly" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#8ae6f4" stop-opacity="0"/><stop offset=".62" stop-color="#1888b9" stop-opacity=".14"/><stop offset="1" stop-color="#253e86" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="rim" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e9ffff"/><stop offset=".42" stop-color="#9cedff"/><stop offset=".74" stop-color="#56b9e7"/><stop offset="1" stop-color="#839beb"/></linearGradient>
+    <linearGradient id="trail" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#3376f5" stop-opacity="0"/><stop offset=".25" stop-color="#2f8de7"/><stop offset=".53" stop-color="#9aefff"/><stop offset=".76" stop-color="#d4ffff"/><stop offset="1" stop-color="#8de8ff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="sheen" x1="0" x2=".5" y1="0" y2="1"><stop stop-color="#fff" stop-opacity=".96"/><stop offset="1" stop-color="#c7ffff" stop-opacity=".12"/></linearGradient>
+    <radialGradient id="shadow"><stop stop-color="#010919" stop-opacity=".85"/><stop offset="1" stop-color="#010919" stop-opacity="0"/></radialGradient>
+    <radialGradient id="floor"><stop stop-color="#54e1ff" stop-opacity=".36"/><stop offset="1" stop-color="#54e1ff" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="silhouette"><path d="M177 556C170 472 205 386 276 330C327 290 385 278 453 278C526 278 584 300 631 346C687 400 729 461 740 532C754 613 709 670 637 701C565 733 442 742 337 721C244 702 184 648 177 556Z"/></clipPath>
+  </defs>
+  <ellipse cx="466" cy="477" rx="428" ry="399" fill="url(#atmosphere)"/>
+  <g fill="none" stroke="#58bae7" stroke-opacity=".15">
+    <path d="M136 604C77 443 179 224 379 172C555 126 736 248 780 407" stroke-width="1.5"/>
+    <path d="M166 623C84 438 223 223 420 197C559 177 710 271 750 377" stroke-dasharray="3 16" stroke-width="2"/>
+    <path d="M672 221 718 166M130 601l-47 28M720 719l49 33" stroke-width="2"/>
+  </g>
+  <path d="M71 667C159 758 696 745 803 535C886 372 697 362 650 378" fill="none" stroke="url(#trail)" stroke-width="20" opacity=".25" filter="url(#soft)"/>
+  <path d="M74 667C162 755 695 741 797 534C871 383 703 367 657 380" fill="none" stroke="url(#trail)" stroke-width="3.5" opacity=".8"/>
+  <ellipse cx="466" cy="764" rx="276" ry="67" fill="url(#shadow)"/>
+  <ellipse cx="466" cy="754" rx="316" ry="95" fill="url(#floor)"/>
+  <g clip-path="url(#silhouette)">
+    <rect x="158" y="264" width="608" height="486" fill="url(#body)"/>
+    <path d="M177 506C262 643 344 636 440 603C568 558 648 527 749 583L753 748H170Z" fill="url(#belly)"/>
+    <path d="M206 582C270 681 435 717 604 669C652 655 697 623 735 582C721 648 688 683 627 707C478 764 285 732 213 647Z" fill="#244286" opacity=".37"/>
+    <path d="M232 497C223 435 270 360 343 335C389 319 405 331 378 351C306 403 274 443 266 485C261 513 242 521 232 497Z" fill="url(#sheen)"/>
+    <path d="M424 305C493 301 554 318 593 349C621 372 607 379 581 365C527 336 480 325 429 325C412 325 408 310 424 305Z" fill="#eaffff" opacity=".56"/>
+    <path d="M690 466C724 519 723 572 702 603C689 621 682 611 688 592C703 546 694 510 682 480C674 461 681 452 690 466Z" fill="#92eaff" opacity=".52"/>
+    <path d="M281 663C348 704 448 716 549 696" fill="none" stroke="#85dffa" stroke-width="6" stroke-linecap="round" opacity=".3"/>
+    <path d="M247 592C301 610 309 635 347 638M579 635C617 629 635 607 663 601" fill="none" stroke="#65c9e8" stroke-width="3" opacity=".36"/>
+    <ellipse cx="326" cy="579" rx="36" ry="11" fill="#88dce8" opacity=".21"/>
+    <ellipse cx="611" cy="577" rx="36" ry="11" fill="#88dce8" opacity=".21"/>
+  </g>
+  <path d="M177 556C170 472 205 386 276 330C327 290 385 278 453 278C526 278 584 300 631 346C687 400 729 461 740 532C754 613 709 670 637 701C565 733 442 742 337 721C244 702 184 648 177 556Z" fill="none" stroke="url(#rim)" stroke-width="3"/>
+  <g fill="none" stroke="#133b60" stroke-linecap="round">
+    <path d="M313 531C337 530 367 536 389 547" stroke-width="9"/>
+    <path d="M542 547C565 536 595 530 619 532" stroke-width="9"/>
+    <path d="m316 555 9 10m6-8 9 10m260-13-9 10m-6-8-9 10" stroke-width="2.2" opacity=".5"/>
+  </g>
+  <path d="M77 692C215 818 639 732 769 601C810 559 831 515 825 477" fill="none" stroke="url(#trail)" stroke-width="10" opacity=".24" filter="url(#glow)"/>
+  <path d="M78 688C216 809 640 727 766 599C807 557 827 515 821 479" fill="none" stroke="url(#trail)" stroke-width="3.5"/>
+  <path d="M107 708C300 800 557 739 709 650" fill="none" stroke="#8de6fc" stroke-opacity=".2" stroke-width="1.5"/>
+  <g fill="url(#body)" stroke="#b7f3ff" stroke-width="1.5">
+    <path d="M203 339C181 317 184 284 204 275C224 264 238 283 233 305C229 325 217 344 203 339Z"/>
+    <path d="M677 262C666 245 672 220 686 220C702 220 710 236 703 251C697 265 685 271 677 262Z"/>
+    <path d="M751 418C741 406 744 389 754 387C766 384 773 395 768 407C764 419 758 423 751 418Z"/>
+  </g>
+  <g fill="#c1f7ff">
+    <path d="m294 227 3 12 12 3-12 3-3 12-3-12-12-3 12-3Z"/>
+    <path d="m747 335 2 9 9 2-9 2-2 9-2-9-9-2 9-2Z"/>
+    <path d="m636 188 2 8 8 2-8 2-2 8-2-8-8-2 8-2Z" opacity=".6"/>
+    <circle cx="146" cy="457" r="3"/><circle cx="265" cy="756" r="3"/><circle cx="569" cy="214" r="2"/><circle cx="779" cy="685" r="2"/><circle cx="480" cy="785" r="2"/>
+  </g>
+</svg>
