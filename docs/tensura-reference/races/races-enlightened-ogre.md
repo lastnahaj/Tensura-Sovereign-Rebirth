@@ -11,8 +11,8 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png" alt="Enlightened Ogre source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/races/raceogre-acbf4e0764.webp" alt="Enlightened Ogre family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceOgre.webp">RaceOgre.webp · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

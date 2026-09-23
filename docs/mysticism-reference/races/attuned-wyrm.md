@@ -15,9 +15,9 @@ tags:
 **Also known as:** Wyrm
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png" alt="Attuned Wyrm source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Ice_Essence.png">Invicon Ice Essence.png · CC BY-SA 4.0</a></figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/attuned-wyrm.webp" alt="Attuned Wyrm family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

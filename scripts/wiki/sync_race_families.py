@@ -104,7 +104,7 @@ def generate() -> dict[str, str]:
         source_class = ' race-family-hero--source' if image in media_credits else ''
         image_url = posixpath.relpath(image, page_route)
         lines = ["---", f"title: {json.dumps(title + ' Evolution', ensure_ascii=False)}", f"description: {len(group)} connected race forms with documented stats, abilities, and evolution links.", "---", "",
-                 f'<section class="race-family-hero{source_class}"><img src="{image_url}" alt="{html.escape(title)} race reference artwork"><div><p class="reference-eyebrow">Race family · {len(group)} forms</p><h1>{html.escape(title)} evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>', "",
+                 f'<section class="race-family-hero race-family-hero--catalogue{source_class}"><img src="{image_url}" alt="{html.escape(title)} race reference artwork"><div><p class="reference-eyebrow">Race family · {len(group)} forms</p><h1>{html.escape(title)} evolution</h1><p>Follow the branches, compare abilities, and check the requirements for your next form.</p><nav class="race-family-jumps" aria-label="Family sections"><a href="#evolution-path">Evolution path ↓</a><a href="#race-stages">Race stages ↓</a></nav></div></section>', "",
                  "[All race families](../index.md)", "", "## Evolution path", "",
                  '<div class="family-connection-grid" aria-label="Documented evolution paths">']
         connections = [edge for key in ordered for edge in outgoing[key]]
@@ -185,16 +185,23 @@ def generate() -> dict[str, str]:
             stages = soup.select('.race-stage-card h2')
             families.append({"title":entry["display_title"].removesuffix(" evolution"), "route":route(entry["local_page"]), "image":entry["asset"], "forms":len(stages), "search":" ".join(stage.get_text(strip=True) for stage in stages)})
     index_route = "tensura-reference/races/"
-    lines = ['---', 'title: Race Families', 'description: Explore race families, their evolution stages, and their documented stat cards.', '---', '', '# Race Families', '',
+    lines = ['---', 'title: Race Families', 'description: Explore race families, their evolution stages, and their documented stat cards.', 'hide:', '  - toc', '---', '', '# Race Families', '',
              'Choose a race family to see its connected evolution path and compare stage cards. Divine forms are advanced stages within these families, not a separate list of starting races.', '',
-             '<section class="reference-directory" data-reference-directory="races"><div class="reference-directory-tools"><label class="reference-filter-label"><span>Find a family or any evolution stage</span><input type="search" class="reference-filter-input" placeholder="Search Monkey, Divine Human, Wolf…" autocomplete="off"></label><p class="reference-filter-status" aria-live="polite"></p></div><div class="reference-card-grid">']
+             '<section class="reference-directory race-directory" data-reference-directory="races"><div class="reference-directory-tools"><label class="reference-filter-label"><span>Find a family or any evolution stage</span><input type="search" class="reference-filter-input" placeholder="Search Monkey, Divine Human, Wolf…" autocomplete="off"></label><p class="reference-filter-status" aria-live="polite"></p></div><div class="reference-card-grid">']
     for family in sorted(families, key=lambda value: value["title"].casefold()):
         target = posixpath.relpath(family["route"], index_route) + "/"
         image = posixpath.relpath(family["image"], index_route)
         search = html.escape((family["title"] + " " + family["search"]).casefold(), quote=True)
         media_class = ' reference-card-media--portrait' if family['image'] in media_credits else ''
-        lines.append(f'<article class="reference-card" data-search="{search}" data-letter="{family["title"][0].upper()}"><a href="{target}" aria-label="Open {html.escape(family["title"])} evolution"><figure class="reference-card-media{media_class}"><img src="{image}" alt="" loading="lazy"></figure><div class="reference-card-copy"><h2>{html.escape(family["title"])}</h2><p>{family["forms"]} documented forms · Evolution map and stat cards</p></div></a></article>')
+        media_label = 'Wiki portrait' if family['image'] in media_credits else 'TSR illustration'
+        lines.append(f'<article class="reference-card" data-search="{search}" data-letter="{family["title"][0].upper()}"><a href="{target}" aria-label="Open {html.escape(family["title"])} evolution"><figure class="reference-card-media{media_class}"><img src="{image}" alt="" loading="lazy"><figcaption>{media_label}</figcaption></figure><div class="reference-card-copy"><p class="race-directory-count">{family["forms"]} documented forms</p><h2>{html.escape(family["title"])}</h2><p class="race-directory-action">Explore evolution <span aria-hidden="true">↗</span></p></div></a></article>')
     lines.extend(['</div><p class="reference-no-results" hidden>No race families match this search.</p></section>', '', '[Complete evolution relationship index](evolution-trees.md)', ''])
+    lines.extend(['<details class="reference-media-credits"><summary>Race directory image credits</summary>', '<p>Wiki portraits retain their recorded File-page license declarations. Creature images illustrate the family, not a guaranteed player appearance. TSR illustrations are not in-game models.</p><ul>'])
+    for family in sorted(families, key=lambda value: value['title'].casefold()):
+        credit = media_credits.get(family['image'])
+        if credit:
+            lines.append(f'<li>{html.escape(family["title"])}: <a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])}</a> · {html.escape(credit["license"])}</li>')
+    lines.extend(['</ul></details>', ''])
     outputs['tensura-reference/races/index.md'] = "\n".join(lines).replace('data-reference-directory="races"', 'data-reference-directory="races" data-reference-unit="race families"')
     outputs['assets/data/race-families.json'] = json.dumps({"families":families,"destinations":destinations},ensure_ascii=False,indent=2) + "\n"
     # Preserve the former overview URL without presenting it as an evolution.

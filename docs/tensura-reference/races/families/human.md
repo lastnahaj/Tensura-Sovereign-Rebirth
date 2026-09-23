@@ -3,7 +3,7 @@ title: "Human Evolution"
 description: 4 connected race forms with documented stats, abilities, and evolution links.
 ---
 
-<section class="race-family-hero race-family-hero--source"><img src="../../../../assets/upstream/tensura/races/racehuman-de4f15d1c8.png" alt="Human race reference artwork"><div><p class="reference-eyebrow">Race family · 4 forms</p><h1>Human evolution</h1><p>Compare each documented form, follow its branches, and open the full reference for detailed evolution conditions.</p></div></section>
+<section class="race-family-hero race-family-hero--catalogue race-family-hero--source"><img src="../../../../assets/upstream/tensura/races/racehuman-de4f15d1c8.png" alt="Human race reference artwork"><div><p class="reference-eyebrow">Race family · 4 forms</p><h1>Human evolution</h1><p>Follow the branches, compare abilities, and check the requirements for your next form.</p><nav class="race-family-jumps" aria-label="Family sections"><a href="#evolution-path">Evolution path ↓</a><a href="#race-stages">Race stages ↓</a></nav></div></section>
 
 [All race families](../index.md)
 

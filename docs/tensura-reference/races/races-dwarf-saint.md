@@ -10,9 +10,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp" alt="Dwarf Saint family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceDwarf.webp">RaceDwarf.webp · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -83,7 +83,7 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../races-dwarf/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/dwarf.png"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp"/>
 <span class="reference-related-copy">
 <strong>Dwarf</strong>
 <small>" I am a Dwarf and I'm digging a hole... Diggy Diggy hole. I'm digging a hole " A sprite race descended from earth…</small>

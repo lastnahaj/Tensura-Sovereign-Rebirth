@@ -11,8 +11,8 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="Ghoul source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp" alt="Ghoul family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceGhoul.webp">RaceGhoul.webp · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

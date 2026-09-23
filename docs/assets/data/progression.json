@@ -1272,232 +1272,232 @@
     },
     "tensura-reference/races/races-ancient-giant/": {
       "title": "Ancient Giant",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegiant-518489caa6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-arch-daemon/": {
       "title": "Arch Daemon",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "category": "races"
     },
     "tensura-reference/races/races-beast-lord/": {
       "title": "Beast Lord",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racebeastfolk-e5e8b63987.webp",
       "category": "races"
     },
     "tensura-reference/races/races-beastfolk/": {
       "title": "Beastfolk",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racebeastfolk-e5e8b63987.webp",
       "category": "races"
     },
     "tensura-reference/races/races-daemon-lord/": {
       "title": "Daemon Lord",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "category": "races"
     },
     "tensura-reference/races/races-death-oni/": {
       "title": "Death Oni",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-demon-slime/": {
       "title": "Demon Slime",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceslime-0c1d6d9158.png",
       "category": "races"
     },
     "tensura-reference/races/races-devil-lord/": {
       "title": "Devil Lord",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-beast/": {
       "title": "Divine Beast",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racebeastfolk-e5e8b63987.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-bird/": {
       "title": "Divine  Bird",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-boar/": {
       "title": "Divine Boar",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png",
       "category": "races"
     },
     "tensura-reference/races/races-divine-dragon/": {
       "title": "Divine Dragon",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racelizardman-a21cb77633.png",
       "category": "races"
     },
     "tensura-reference/races/races-divine-dwarf/": {
       "title": "Divine Dwarf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-elf/": {
       "title": "Divine Elf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-fighter/": {
       "title": "Divine Fighter",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-fish/": {
       "title": "Divine Fish",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-giant/": {
       "title": "Divine Giant",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegiant-518489caa6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-human/": {
       "title": "Divine Human",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racehuman-de4f15d1c8.png",
       "category": "races"
     },
     "tensura-reference/races/races-divine-oni/": {
       "title": "Divine Oni",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-skeleton/": {
       "title": "Divine Skeleton",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racewight-3e916c5dc0.webp",
       "category": "races"
     },
     "tensura-reference/races/races-divine-vampire/": {
       "title": "Divine Vampire",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-dragonewt/": {
       "title": "Dragonewt",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racelizardman-a21cb77633.png",
       "category": "races"
     },
     "tensura-reference/races/races-dwarf/": {
       "title": "Dwarf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp",
       "category": "races"
     },
     "tensura-reference/races/races-dwarf-saint/": {
       "title": "Dwarf Saint",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp",
       "category": "races"
     },
     "tensura-reference/races/races-elf/": {
       "title": "Elf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp",
       "category": "races"
     },
     "tensura-reference/races/races-elf-saint/": {
       "title": "Elf Saint",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-dwarf/": {
       "title": "Enlightened Dwarf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-elf/": {
       "title": "Enlightened Elf",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceelf-a4fd94f0c5.webp",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-hobgoblin/": {
       "title": "Enlightened Hobgoblin",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegoblin-222e79ae76.webp",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-human/": {
       "title": "Enlightened Human",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racehuman-de4f15d1c8.png",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-merfolk/": {
       "title": "Enlightened Merfolk",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp",
       "category": "races"
     },
     "tensura-reference/races/races-enlightened-ogre/": {
       "title": "Enlightened Ogre",
-      "image": "assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-ghoul/": {
       "title": "Ghoul",
-      "image": "assets/upstream/tensura/items/zane-blood-acf88e4c96.gif",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-giant/": {
       "title": "Giant",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegiant-518489caa6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-goblin/": {
       "title": "Goblin",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegoblin-222e79ae76.webp",
       "category": "races"
     },
     "tensura-reference/races/races-god-slime/": {
       "title": "God Slime",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceslime-0c1d6d9158.png",
       "category": "races"
     },
     "tensura-reference/races/races-greater-daemon/": {
       "title": "Greater Daemon",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "category": "races"
     },
     "tensura-reference/races/races-harpy/": {
       "title": "Harpy",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp",
       "category": "races"
     },
     "tensura-reference/races/races-harpy-queen/": {
       "title": "Harpy Queen",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp",
       "category": "races"
     },
     "tensura-reference/races/races-high-orc/": {
       "title": "High Orc",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png",
       "category": "races"
     },
     "tensura-reference/races/races-hobgoblin/": {
       "title": "Hobgoblin",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegoblin-222e79ae76.webp",
       "category": "races"
     },
     "tensura-reference/races/races-hobgoblin-saint/": {
       "title": "Hobgoblin Saint",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racegoblin-222e79ae76.webp",
       "category": "races"
     },
     "tensura-reference/races/races-human/": {
       "title": "Human",
-      "image": "assets/upstream/tensura/items/zane-blood-acf88e4c96.gif",
+      "image": "assets/upstream/tensura/races/racehuman-de4f15d1c8.png",
       "category": "races"
     },
     "tensura-reference/races/races-human-saint/": {
       "title": "Human Saint",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racehuman-de4f15d1c8.png",
       "category": "races"
     },
     "tensura-reference/races/races-kijin/": {
       "title": "Kijin",
-      "image": "assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-lesser-daemon/": {
       "title": "Lesser Daemon",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "category": "races"
     },
     "tensura-reference/races/races-lizardman/": {
@@ -1507,27 +1507,27 @@
     },
     "tensura-reference/races/races-merfolk/": {
       "title": "Merfolk",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp",
       "category": "races"
     },
     "tensura-reference/races/races-merfolk-saint/": {
       "title": "Merfolk Saint",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racemerfolk-d46e3dbd8e.webp",
       "category": "races"
     },
     "tensura-reference/races/races-metal-slime/": {
       "title": "Metal Slime",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceslime-0c1d6d9158.png",
       "category": "races"
     },
     "tensura-reference/races/races-mystic-oni/": {
       "title": "Mystic Oni",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-ogre/": {
       "title": "Ogre",
-      "image": "assets/upstream/tensura/bosses/invicon-elemental-essence-ec2d44ad9c.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-orc/": {
@@ -1537,12 +1537,12 @@
     },
     "tensura-reference/races/races-orc-disaster/": {
       "title": "Orc Disaster",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png",
       "category": "races"
     },
     "tensura-reference/races/races-orc-lord/": {
       "title": "Orc Lord",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png",
       "category": "races"
     },
     "tensura-reference/races/races-slime/": {
@@ -1552,62 +1552,62 @@
     },
     "tensura-reference/races/races-spirit-beast/": {
       "title": "Spirit Beast",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racebeastfolk-e5e8b63987.webp",
       "category": "races"
     },
     "tensura-reference/races/races-spirit-bird/": {
       "title": "Spirit Bird",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp",
       "category": "races"
     },
     "tensura-reference/races/races-spirit-boar/": {
       "title": "Spirit Boar",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceorc-c6c0a50e4e.png",
       "category": "races"
     },
     "tensura-reference/races/races-spirit-oni/": {
       "title": "Spirit Oni",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-spirit-skeleton/": {
       "title": "Spirit Skeleton",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racewight-3e916c5dc0.webp",
       "category": "races"
     },
     "tensura-reference/races/races-true-dragonewt/": {
       "title": "True Dragonewt",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racelizardman-a21cb77633.png",
       "category": "races"
     },
     "tensura-reference/races/races-vampire/": {
       "title": "Vampire",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-vampire-lord/": {
       "title": "Vampire Lord",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-vampire-overcomer/": {
       "title": "Vampire Overcomer",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "category": "races"
     },
     "tensura-reference/races/races-wicked-oni/": {
       "title": "Wicked Oni",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "category": "races"
     },
     "tensura-reference/races/races-wight/": {
       "title": "Wight",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racewight-3e916c5dc0.webp",
       "category": "races"
     },
     "tensura-reference/races/races-wight-king/": {
       "title": "Wight King",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/upstream/tensura/races/racewight-3e916c5dc0.webp",
       "category": "races"
     },
     "tensura-reference/skills/common/ranged-barrier/": {
@@ -2192,82 +2192,82 @@
     },
     "mysticism-reference/races/ant/": {
       "title": "Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/arch-angel/": {
       "title": "Arch Angel",
-      "image": "assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/arch-fallen/": {
       "title": "Arch Fallen",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/archdoll/": {
       "title": "Archdoll",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/races/army-wasp/": {
       "title": "Army Wasp",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/army-wasp-insectar/": {
       "title": "Army Wasp Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/ascended/": {
       "title": "Ascended",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/attuned-wyrm/": {
       "title": "Attuned Wyrm",
-      "image": "assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/beetle/": {
       "title": "Beetle",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/black-fang/": {
       "title": "Black Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/blazing-scorch-wolf/": {
       "title": "Blazing Scorch Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/blue-centipede/": {
       "title": "Blue Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/blue-centipede-insectar/": {
       "title": "Blue Centipede Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/blue-fang/": {
       "title": "Blue Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/bound-enlightenment/": {
       "title": "Bound Enlightenment",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/restricted-human.webp",
       "category": "races"
     },
     "mysticism-reference/races/brown-fang/": {
       "title": "Brown Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/bullet-punch/": {
@@ -2287,27 +2287,27 @@
     },
     "mysticism-reference/races/centipede/": {
       "title": "Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/chaos-doll/": {
       "title": "Chaos Doll",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/races/chaos-metalloid/": {
       "title": "Chaos Metalloid",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/races/charged-perforator/": {
       "title": "Charged Perforator",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/cherub/": {
       "title": "Cherub",
-      "image": "assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/coalescence/": {
@@ -2327,7 +2327,7 @@
     },
     "mysticism-reference/races/corrosion-soul-insect/": {
       "title": "Corrosion Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/corrosion-transform/": {
@@ -2352,7 +2352,7 @@
     },
     "mysticism-reference/races/daemon-doll/": {
       "title": "Daemon Doll",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/skills/extra/darkness-domination/": {
@@ -2367,12 +2367,12 @@
     },
     "mysticism-reference/races/devil-doll/": {
       "title": "Devil Doll",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/races/direwolf/": {
       "title": "Direwolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/discharge/": {
@@ -2387,97 +2387,97 @@
     },
     "mysticism-reference/races/dissonance-deity/": {
       "title": "Dissonance Deity",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-army-wasp/": {
       "title": "Divine Army Wasp",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/divine-blue-centipede/": {
       "title": "Divine Blue Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/divine-drone-beetle/": {
       "title": "Divine Drone Beetle",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-elemental/": {
       "title": "Divine Elemental",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-excelsius/": {
       "title": "Divine Excelsius",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-fire-ant/": {
       "title": "Divine Fire Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/divine-hardshell-ant/": {
       "title": "Divine Hardshell Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/divine-inferius/": {
       "title": "Divine Inferius",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-lixivant-mantis/": {
       "title": "Divine Lixivant Mantis",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-loxodrome-scorpion/": {
       "title": "Divine Loxodrome Scorpion",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-preying-mantis/": {
       "title": "Divine Preying Mantis",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-purple-centipede/": {
       "title": "Divine Purple Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/divine-singularity-scorpion/": {
       "title": "Divine Singularity Scorpion",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-stag-beetle/": {
       "title": "Divine Stag Beetle",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-tengu/": {
       "title": "Divine Tengu",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/tengu.webp",
       "category": "races"
     },
     "mysticism-reference/races/divine-wolf/": {
       "title": "Divine Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/divine-yellow-centipede/": {
       "title": "Divine Yellow Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/dragonoid/": {
       "title": "Dragonoid",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/dragonoid.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/dreamer/": {
@@ -2487,32 +2487,32 @@
     },
     "mysticism-reference/races/drone-beetle/": {
       "title": "Drone Beetle",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/drone-beetle-insectar/": {
       "title": "Drone Beetle Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/earth-soul-insect/": {
       "title": "Earth Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/elemental-lord/": {
       "title": "Elemental Lord",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "category": "races"
     },
     "mysticism-reference/races/empty/": {
       "title": "Empty",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/enflamed-aberration/": {
       "title": "Enflamed Aberration",
-      "image": "assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/engineer/": {
@@ -2527,67 +2527,67 @@
     },
     "mysticism-reference/races/fallen/": {
       "title": "Fallen",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fallen-arch-angel/": {
       "title": "Fallen Arch Angel",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fallen-cherub/": {
       "title": "Fallen Cherub",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fallen-greater-angel/": {
       "title": "Fallen Greater Angel",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fallen-lesser-angel/": {
       "title": "Fallen Lesser Angel",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fallen-lord/": {
       "title": "Fallen Lord",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/fantasy-soul-insect/": {
       "title": "Fantasy Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/field-officer/": {
       "title": "Field Officer",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/phantom.webp",
       "category": "races"
     },
     "mysticism-reference/races/fire-ant/": {
       "title": "Fire Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/fire-ant-insectar/": {
       "title": "Fire Ant Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/forgotten/": {
       "title": "Forgotten",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/frostcoil-sea-serpent/": {
       "title": "Frostcoil Sea Serpent",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/frostwrought-leviathan/": {
       "title": "Frostwrought Leviathan",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/gardener/": {
@@ -2597,7 +2597,7 @@
     },
     "mysticism-reference/races/general/": {
       "title": "General",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/phantom.webp",
       "category": "races"
     },
     "mysticism-reference/magic/gravitational-void/": {
@@ -2607,67 +2607,67 @@
     },
     "mysticism-reference/races/gravity-soul-insect/": {
       "title": "Gravity Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-angel/": {
       "title": "Greater Angel",
-      "image": "assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-doll/": {
       "title": "Greater Doll",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/greater-doll.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-elemental/": {
       "title": "Greater Elemental",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-fallen/": {
       "title": "Greater Fallen",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-glacier-wyrm/": {
       "title": "Greater Glacier Wyrm",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/greater-pyre-wyrm/": {
       "title": "Greater Pyre Wyrm",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/green-fang/": {
       "title": "Green Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/guitar-wolf/": {
       "title": "Guitar Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/hardshell-ant/": {
       "title": "Hardshell Ant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/hardshell-ant-insectar/": {
       "title": "Hardshell Ant Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/hardshell-ant-savant/": {
       "title": "Hardshell Ant Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif",
       "category": "races"
     },
     "mysticism-reference/races/heavenly-restriction/": {
       "title": "Heavenly Restriction",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/restricted-human.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/hell-hall/": {
@@ -2697,27 +2697,27 @@
     },
     "mysticism-reference/races/lesser-angel/": {
       "title": "Lesser Angel",
-      "image": "assets/upstream/mysticism/races/invicon-daemon-essence-135b621f1f.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/lesser-elemental/": {
       "title": "Lesser Elemental",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "category": "races"
     },
     "mysticism-reference/races/lesser-fallen/": {
       "title": "Lesser Fallen",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/lesser-glacier-wyrm/": {
       "title": "Lesser Glacier Wyrm",
-      "image": "assets/upstream/mysticism/races/invicon-ice-essence-ed6e1e9aad.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/lesser-pyre-wyrm/": {
       "title": "Lesser Pyre Wyrm",
-      "image": "assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/lethal-poison/": {
@@ -2732,7 +2732,7 @@
     },
     "mysticism-reference/races/light-fang/": {
       "title": "Light Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/skills/extra/light-manipulation/": {
@@ -2742,7 +2742,7 @@
     },
     "mysticism-reference/races/lightning-aberration/": {
       "title": "Lightning Aberration",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/lightning-mode/": {
@@ -2752,37 +2752,37 @@
     },
     "mysticism-reference/races/lightning-soul-insect/": {
       "title": "Lightning Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis/": {
       "title": "Lixivant Mantis",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis-insectar/": {
       "title": "Lixivant Mantis Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis-savant/": {
       "title": "Lixivant Mantis Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion/": {
       "title": "Loxodrome Scorpion",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion-insectar/": {
       "title": "Loxodrome Scorpion Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion-savant/": {
       "title": "Loxodrome Scorpion Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/magisteel-body/": {
@@ -2792,7 +2792,7 @@
     },
     "mysticism-reference/races/magma-worm/": {
       "title": "Magma Worm",
-      "image": "assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/malleable/": {
@@ -2802,12 +2802,12 @@
     },
     "mysticism-reference/races/mantis/": {
       "title": "Mantis",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/medium-elemental/": {
       "title": "Medium Elemental",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/lesser-elemental.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/melancholy/": {
@@ -2822,32 +2822,32 @@
     },
     "mysticism-reference/races/molten-perforator/": {
       "title": "Molten Perforator",
-      "image": "assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/molten-spirit-wolf/": {
       "title": "Molten Spirit Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/mystic-angel/": {
       "title": "Mystic Angel",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/phantom.webp",
       "category": "races"
     },
     "mysticism-reference/races/mystical-black-fang/": {
       "title": "Mystical Black Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/overloading-worm/": {
       "title": "Overloading Worm",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/paralysis-soul-insect/": {
       "title": "Paralysis Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/paralysis-transform/": {
@@ -2857,7 +2857,7 @@
     },
     "mysticism-reference/races/phantom/": {
       "title": "Phantom",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/phantom.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/phaser/": {
@@ -2867,7 +2867,7 @@
     },
     "mysticism-reference/races/poison-soul-insect/": {
       "title": "Poison Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/poison-transform/": {
@@ -2877,17 +2877,17 @@
     },
     "mysticism-reference/races/preying-mantis/": {
       "title": "Preying Mantis",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/preying-mantis-insectar/": {
       "title": "Preying Mantis Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/races/preying-mantis-savant/": {
       "title": "Preying Mantis Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/skills/extra/profaned-prominence/": {
@@ -2902,37 +2902,37 @@
     },
     "mysticism-reference/races/purple-centipede/": {
       "title": "Purple Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/purple-centipede-insectar/": {
       "title": "Purple Centipede Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/purple-fang/": {
       "title": "Purple Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/queen-wasp/": {
       "title": "Queen Wasp",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/queen-wasp-insectar/": {
       "title": "Queen Wasp Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/reaper-aberration/": {
       "title": "Reaper Aberration",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/red-fang/": {
       "title": "Red Fang",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/skills/unique/reducer/": {
@@ -2947,7 +2947,7 @@
     },
     "mysticism-reference/races/remnant/": {
       "title": "Remnant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/repeater/": {
@@ -2967,27 +2967,27 @@
     },
     "mysticism-reference/races/restricted-human/": {
       "title": "Restricted Human",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/restricted-human.webp",
       "category": "races"
     },
     "mysticism-reference/races/restricted-saint/": {
       "title": "Restricted Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/restricted-human.webp",
       "category": "races"
     },
     "mysticism-reference/races/revenant/": {
       "title": "Revenant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/rimeblight-hydra/": {
       "title": "Rimeblight Hydra",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/rimefang-drake/": {
       "title": "Rimefang Drake",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/scholar/": {
@@ -3002,57 +3002,57 @@
     },
     "mysticism-reference/races/scorch-wolf/": {
       "title": "Scorch Wolf",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/direwolf-0f13b02020.gif",
       "category": "races"
     },
     "mysticism-reference/races/scorchtail-salamander/": {
       "title": "Scorchtail Salamander",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/scorchtalon-wyvern/": {
       "title": "Scorchtalon Wyvern",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/races/scorpion/": {
       "title": "Scorpion",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/sculk-worm/": {
       "title": "Sculk Worm",
-      "image": "assets/upstream/mysticism/races/invicon-blaze-essence-3fe5412da2.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/seraphim/": {
       "title": "Seraph",
-      "image": "assets/upstream/mysticism/races/invicon-cryptid-essence-9904ebdc86.png",
+      "image": "assets/images/races/lesser-angel.webp",
       "category": "races"
     },
     "mysticism-reference/races/singularity-scorpion/": {
       "title": "Singularity Scorpion",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/singularity-scorpion-insectar/": {
       "title": "Singularity Scorpion Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/singularity-scorpion-savant/": {
       "title": "Singularity Scorpion Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/scorpion.webp",
       "category": "races"
     },
     "mysticism-reference/races/soul-aberration/": {
       "title": "Soul Aberration",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/soul-shrieker/": {
       "title": "Soul Shrieker",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/spark/": {
@@ -3062,7 +3062,7 @@
     },
     "mysticism-reference/races/spatial-soul-insect/": {
       "title": "Spatial Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/magic/spatial-void/": {
@@ -3077,22 +3077,22 @@
     },
     "mysticism-reference/races/staff-officer/": {
       "title": "Staff Officer",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/phantom.webp",
       "category": "races"
     },
     "mysticism-reference/races/stag-beetle/": {
       "title": "Stag Beetle",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/stag-beetle-insectar/": {
       "title": "Stag Beetle Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/races/stag-beetle-saint/": {
       "title": "Stag Beetle Savant",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/beetle.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/stagnator/": {
@@ -3102,12 +3102,12 @@
     },
     "mysticism-reference/races/star-soul-insect/": {
       "title": "Star Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/steel-soul-insect/": {
       "title": "Steel Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/mantis.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/subjugator/": {
@@ -3117,7 +3117,7 @@
     },
     "mysticism-reference/races/sunfire-lindwurm/": {
       "title": "Sunfire Lindwurm",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/attuned-wyrm.webp",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/tenacity/": {
@@ -3127,17 +3127,17 @@
     },
     "mysticism-reference/races/tengu/": {
       "title": "Tengu Race",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/tengu.webp",
       "category": "races"
     },
     "mysticism-reference/races/tengu-saint/": {
       "title": "Tengu Saint",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/tengu.webp",
       "category": "races"
     },
     "mysticism-reference/races/true-dragonoid/": {
       "title": "True Dragonoid",
-      "image": "assets/images/reference-races-evolution.png",
+      "image": "assets/images/races/dragonoid.webp",
       "category": "races"
     },
     "mysticism-reference/skills/unique/victorious-harbinger/": {
@@ -3147,42 +3147,42 @@
     },
     "mysticism-reference/races/violence-deity/": {
       "title": "Violence Deity",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/warden/": {
       "title": "Warden",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/sculk-worm.webp",
       "category": "races"
     },
     "mysticism-reference/races/wasp/": {
       "title": "Wasp",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/water-soul-insect/": {
       "title": "Water Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/whole/": {
       "title": "Whole",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/images/races/forgotten.webp",
       "category": "races"
     },
     "mysticism-reference/races/wind-soul-insect/": {
       "title": "Wind Soul Insect",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/army-wasp-751af321e0.gif",
       "category": "races"
     },
     "mysticism-reference/races/yellow-centipede/": {
       "title": "Yellow Centipede",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/races/yellow-centipede-insectar/": {
       "title": "Yellow Centipede Insectar",
-      "image": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
     },
     "mysticism-reference/skills/unique/zekrom/": {
@@ -5049,7 +5049,7 @@
         "Next"
       ],
       "requirements": [
-        "Fallen Lord , Fallen Seraphim"
+        "Fallen Lord , Fallen Seraphim not in recorded 1.21.1 build"
       ]
     },
     {
@@ -5387,7 +5387,7 @@
         "Next"
       ],
       "requirements": [
-        "Drone Beetle Saint , Lightning Soul Insect"
+        "Drone Beetle Saint not in recorded 1.21.1 build , Lightning Soul Insect"
       ]
     },
     {
@@ -5551,7 +5551,7 @@
         "Next"
       ],
       "requirements": [
-        "Yellow Centipede Saint , Paralysis Soul Insect"
+        "Yellow Centipede Saint not in recorded 1.21.1 build , Paralysis Soul Insect"
       ]
     },
     {
@@ -5878,7 +5878,7 @@
         "Next"
       ],
       "requirements": [
-        "Purple Centipede Saint , Spatial Soul Insect"
+        "Purple Centipede Saint not in recorded 1.21.1 build , Spatial Soul Insect"
       ]
     },
     {
@@ -6021,7 +6021,7 @@
         "Next"
       ],
       "requirements": [
-        "Blue Centipede Saint , Water Soul Insect"
+        "Blue Centipede Saint not in recorded 1.21.1 build , Water Soul Insect"
       ]
     },
     {

@@ -10,9 +10,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp" alt="Spirit Bird family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceHarpy.webp">RaceHarpy.webp · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

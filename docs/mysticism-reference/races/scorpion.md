@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/images/races/scorpion.webp" alt="Scorpion family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

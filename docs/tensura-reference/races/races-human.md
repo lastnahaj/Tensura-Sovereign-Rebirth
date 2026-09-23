@@ -12,8 +12,8 @@ tags:
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/zane-blood-acf88e4c96.gif" alt="Human source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/upstream/tensura/races/racehuman-de4f15d1c8.png" alt="Human family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceHuman.png">RaceHuman.png · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

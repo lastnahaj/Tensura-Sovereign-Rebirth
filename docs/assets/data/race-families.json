@@ -3,28 +3,28 @@
     {
       "title": "Giant",
       "route": "tensura-reference/races/families/giant/",
-      "image": "assets/images/races/giant.png",
+      "image": "assets/upstream/tensura/races/racegiant-518489caa6.webp",
       "forms": 3,
       "search": "Giant Ancient Giant Divine Giant"
     },
     {
       "title": "Lesser Daemon",
       "route": "tensura-reference/races/families/lesser-daemon/",
-      "image": "assets/upstream/tensura/mobs/lesser-daemon-de60c812bc.gif",
+      "image": "assets/upstream/tensura/races/racedaemon-e332102e95.webp",
       "forms": 5,
       "search": "Lesser Daemon Greater Daemon Arch Daemon Daemon Lord Devil Lord"
     },
     {
       "title": "Beastfolk",
       "route": "tensura-reference/races/families/beastfolk/",
-      "image": "assets/images/races/beastfolk.png",
+      "image": "assets/upstream/tensura/races/racebeastfolk-e5e8b63987.webp",
       "forms": 4,
       "search": "Beastfolk Beast Lord Spirit Beast Divine Beast"
     },
     {
       "title": "Ogre",
       "route": "tensura-reference/races/families/ogre/",
-      "image": "assets/images/races/ogre.png",
+      "image": "assets/upstream/tensura/races/raceogre-acbf4e0764.webp",
       "forms": 9,
       "search": "Ogre Enlightened Ogre Kijin Mystic Oni Wicked Oni Death Oni Spirit Oni Divine Fighter Divine Oni"
     },
@@ -38,7 +38,7 @@
     {
       "title": "Harpy",
       "route": "tensura-reference/races/families/harpy/",
-      "image": "assets/images/races/harpy.png",
+      "image": "assets/upstream/tensura/races/raceharpy-5ee85ea2d3.webp",
       "forms": 4,
       "search": "Harpy Harpy Queen Spirit Bird Divine  Bird"
     },
@@ -59,7 +59,7 @@
     {
       "title": "Dwarf",
       "route": "tensura-reference/races/families/dwarf/",
-      "image": "assets/images/races/dwarf.png",
+      "image": "assets/upstream/tensura/races/racedwarf-a7e24bc83a.webp",
       "forms": 4,
       "search": "Dwarf Enlightened Dwarf Dwarf Saint Divine Dwarf"
     },
@@ -87,21 +87,21 @@
     {
       "title": "Wight",
       "route": "tensura-reference/races/families/wight/",
-      "image": "assets/images/races/wight.png",
+      "image": "assets/upstream/tensura/races/racewight-3e916c5dc0.webp",
       "forms": 4,
       "search": "Wight Wight King Spirit Skeleton Divine Skeleton"
     },
     {
       "title": "Ghoul",
       "route": "tensura-reference/races/families/ghoul/",
-      "image": "assets/images/races/ghoul.png",
+      "image": "assets/upstream/tensura/races/raceghoul-1b8c8c37a6.webp",
       "forms": 5,
       "search": "Ghoul Vampire Vampire Overcomer Vampire Lord Divine Vampire"
     },
     {
       "title": "Goblin",
       "route": "tensura-reference/races/families/goblin/",
-      "image": "assets/images/races/goblin.png",
+      "image": "assets/upstream/tensura/races/racegoblin-222e79ae76.webp",
       "forms": 4,
       "search": "Goblin Hobgoblin Enlightened Hobgoblin Hobgoblin Saint"
     },

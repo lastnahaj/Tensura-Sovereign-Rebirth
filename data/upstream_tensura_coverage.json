@@ -21,9 +21,9 @@
   "redirects_failed": 0,
   "pages_skipped": 13,
   "pages_failed": 0,
-  "images_discovered": 1728,
-  "image_file_records_resolved": 1724,
-  "images_imported": 1621,
+  "images_discovered": 1737,
+  "image_file_records_resolved": 1733,
+  "images_imported": 1630,
   "images_skipped_due_to_licensing": 0,
   "images_failed": 103,
   "media_placements_imported": 1333,
@@ -65,7 +65,7 @@
     "magic": 155,
     "misc": 30,
     "mobs": 82,
-    "races": 10,
+    "races": 19,
     "resistances": 43,
     "skills": 172,
     "structures": 34,
@@ -73,7 +73,7 @@
   },
   "media_statuses": {
     "failed": 103,
-    "imported": 1621
+    "imported": 1630
   },
   "media_failures": [
     {

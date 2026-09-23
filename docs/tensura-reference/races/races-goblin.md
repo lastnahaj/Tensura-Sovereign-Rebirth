@@ -10,9 +10,9 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/upstream/tensura/races/racegoblin-222e79ae76.webp" alt="Goblin family reference artwork" loading="eager" decoding="async">
+<figcaption><a href="https://tensura.wiki.gg/wiki/File:RaceGoblin.webp">RaceGoblin.webp · CC BY-SA 4.0</a></figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

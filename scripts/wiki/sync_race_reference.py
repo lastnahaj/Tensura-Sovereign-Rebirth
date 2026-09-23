@@ -100,9 +100,10 @@ def replace_placeholder_figure(text: str, page: str, decision: dict, asset: str,
         f'<figcaption>{caption}</figcaption>\n'
         '</figure>'
     )
+    unsuitable = re.compile(r'wip|placeholder|invicon-|essence-|/(?:items|armor|blocks)/|family reference artwork|Original TSR family illustration|Original TSR section artwork', re.I)
     return re.sub(
-        r'<figure class="reference-overview-media[^>]*>.*?(?:wip|placeholder|family reference artwork|Original TSR family illustration).*?</figure>',
-        lambda _match: figure,
+        r'<figure class="reference-overview-media[^>]*>.*?</figure>',
+        lambda match: figure if unsuitable.search(match[0]) else match[0],
         text,
         count=1,
         flags=re.I | re.S,
