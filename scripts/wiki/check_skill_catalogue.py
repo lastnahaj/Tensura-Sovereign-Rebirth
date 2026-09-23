@@ -32,6 +32,7 @@ def main():
     args = parser.parse_args()
     outputs = generate()
     generated_pages = json.loads(outputs["assets/data/skill-catalogue.json"])["pages"]
+    progression = json.loads((DOCS / 'assets/data/progression.json').read_text(encoding='utf-8'))['nodes']
     errors = []
     for name, content in outputs.items():
         if not (DOCS / name).exists() or (DOCS / name).read_text(encoding="utf-8") != content:
@@ -82,6 +83,8 @@ def main():
         if decision["namespace"] in {"mysticism", "trnightmare"}:
             previews = soup.select(".reference-overview img, .skill-detail-hero img")
             asset = generated_pages[page].get("asset")
+            if decision['namespace'] == 'mysticism' and progression.get(route(page), {}).get('image') != asset:
+                errors.append(f'Skill progression image differs from its verified article icon: {page}')
             if not previews or not asset or any(
                 posixpath.normpath(posixpath.join(route(page), image["src"])) != asset
                 for image in previews

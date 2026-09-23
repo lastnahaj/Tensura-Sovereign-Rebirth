@@ -2272,17 +2272,17 @@
     },
     "mysticism-reference/skills/intrinsic/bullet-punch/": {
       "title": "Bullet Punch",
-      "image": "assets/icons/skills/mysticism-bullet_punch.svg",
+      "image": "assets/upstream/mysticism/skills/bullet-punch-2c40b24441.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/skills/unique/butcher/": {
       "title": "Butcher",
-      "image": "assets/icons/skills/mysticism-butcher.svg",
+      "image": "assets/upstream/mysticism/skills/butcher-3f2223ab91.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/captivator/": {
       "title": "Captivator",
-      "image": "assets/icons/skills/mysticism-captivator.svg",
+      "image": "assets/upstream/mysticism/skills/captivator-lie-6d21b756bc.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/centipede/": {
@@ -2312,17 +2312,17 @@
     },
     "mysticism-reference/skills/unique/coalescence/": {
       "title": "Coalescence",
-      "image": "assets/icons/skills/mysticism-coalescence.svg",
+      "image": "assets/upstream/mysticism/skills/coalescence-be99619998.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/constant/": {
       "title": "Constant",
-      "image": "assets/icons/skills/mysticism-constant.svg",
+      "image": "assets/upstream/mysticism/skills/constant-f6a361fb5a.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/corroder/": {
       "title": "Corroder",
-      "image": "assets/icons/skills/mysticism-corroder.svg",
+      "image": "assets/upstream/mysticism/skills/corroder-1ce411eb5a.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/corrosion-soul-insect/": {
@@ -2332,22 +2332,22 @@
     },
     "mysticism-reference/skills/intrinsic/corrosion-transform/": {
       "title": "Corrosion Transform",
-      "image": "assets/icons/skills/mysticism-corrosion_transform.svg",
+      "image": "assets/upstream/mysticism/skills/corrosion-transform-cecc692fee.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/skills/unique/crasher/": {
       "title": "Crasher",
-      "image": "assets/icons/skills/mysticism-crasher.svg",
+      "image": "assets/upstream/mysticism/skills/crasher-a16135867d.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/extra/cryogenic-cessation/": {
       "title": "Cryogenic Cessation",
-      "image": "assets/icons/skills/mysticism-cryogenic_cessation.svg",
+      "image": "assets/upstream/mysticism/skills/cryogenic-cessation-26c3f34c65.png",
       "category": "skills/extra"
     },
     "mysticism-reference/skills/unique/cultivator/": {
       "title": "Cultivator",
-      "image": "assets/icons/skills/mysticism-cultivator.svg",
+      "image": "assets/upstream/mysticism/skills/cultivator-656da4f824.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/daemon-doll/": {
@@ -2357,12 +2357,12 @@
     },
     "mysticism-reference/skills/extra/darkness-domination/": {
       "title": "Darkness Domination",
-      "image": "assets/icons/skills/mysticism-darkness_domination.svg",
+      "image": "assets/upstream/mysticism/skills/darkness-domination-84886c8b10.png",
       "category": "skills/extra"
     },
     "mysticism-reference/skills/extra/darkness-manipulation/": {
       "title": "Darkness Manipulation",
-      "image": "assets/icons/skills/mysticism-darkness_manipulation.svg",
+      "image": "assets/upstream/mysticism/skills/darkness-manipulation-a0346e00a2.png",
       "category": "skills/extra"
     },
     "mysticism-reference/races/devil-doll/": {
@@ -2377,12 +2377,12 @@
     },
     "mysticism-reference/skills/intrinsic/discharge/": {
       "title": "Discharge",
-      "image": "assets/icons/skills/mysticism-discharge.svg",
+      "image": "assets/upstream/mysticism/skills/discharge-34b8bc76fa.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/skills/intrinsic/dissonance/": {
       "title": "Dissonance",
-      "image": "assets/icons/skills/mysticism-dissonance.svg",
+      "image": "assets/upstream/mysticism/skills/dissonance-5475c825ca.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/dissonance-deity/": {
@@ -2482,7 +2482,7 @@
     },
     "mysticism-reference/skills/unique/dreamer/": {
       "title": "Dreamer",
-      "image": "assets/icons/skills/mysticism-dreamer.svg",
+      "image": "assets/upstream/mysticism/skills/dreamer-f10ec131a7.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/drone-beetle/": {
@@ -2517,12 +2517,12 @@
     },
     "mysticism-reference/skills/unique/engineer/": {
       "title": "Engineer",
-      "image": "assets/icons/skills/mysticism-engineer.svg",
+      "image": "assets/upstream/mysticism/skills/engineer-abc99d3f0f.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/intrinsic/exoskeleton/": {
       "title": "Exoskeleton",
-      "image": "assets/icons/skills/mysticism-exoskeleton.svg",
+      "image": "assets/upstream/mysticism/skills/exoskeleton-3dae8f9e99.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/fallen/": {
@@ -2592,7 +2592,7 @@
     },
     "mysticism-reference/skills/unique/gardener/": {
       "title": "Gardener",
-      "image": "assets/icons/skills/mysticism-gardener.svg",
+      "image": "assets/upstream/mysticism/skills/gardener-51f67bd405.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/general/": {
@@ -2672,27 +2672,27 @@
     },
     "mysticism-reference/skills/intrinsic/hell-hall/": {
       "title": "Hell Hall",
-      "image": "assets/icons/skills/mysticism-hell_hall.svg",
+      "image": "assets/upstream/mysticism/skills/hell-hall-a7e3e2ac92.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/skills/unique/hidden-ruler/": {
       "title": "Hidden Ruler",
-      "image": "assets/icons/skills/mysticism-hidden_ruler.svg",
+      "image": "assets/upstream/mysticism/skills/hidden-ruler-992c6f70b3.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/extra/ice-domination/": {
       "title": "Ice Domination",
-      "image": "assets/icons/skills/mysticism-ice_domination.svg",
+      "image": "assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png",
       "category": "skills/extra"
     },
     "mysticism-reference/skills/extra/ice-manipulation/": {
       "title": "Ice Manipulation",
-      "image": "assets/icons/skills/mysticism-ice_manipulation.svg",
+      "image": "assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png",
       "category": "skills/extra"
     },
     "mysticism-reference/skills/unique/kyurem/": {
       "title": "Kyurem",
-      "image": "assets/icons/skills/mysticism-kyurem.svg",
+      "image": "assets/upstream/mysticism/skills/kyurem-9402ec2c95.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/lesser-angel/": {
@@ -2722,12 +2722,12 @@
     },
     "mysticism-reference/skills/intrinsic/lethal-poison/": {
       "title": "Lethal Poison",
-      "image": "assets/icons/skills/mysticism-lethal_poison.svg",
+      "image": "assets/upstream/mysticism/skills/lethal-poison-00abc6cfac.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/skills/extra/light-domination/": {
       "title": "Light Domination",
-      "image": "assets/icons/skills/mysticism-light_domination.svg",
+      "image": "assets/upstream/mysticism/skills/light-domination-0ad3e944be.png",
       "category": "skills/extra"
     },
     "mysticism-reference/races/light-fang/": {
@@ -2737,7 +2737,7 @@
     },
     "mysticism-reference/skills/extra/light-manipulation/": {
       "title": "Light Manipulation",
-      "image": "assets/icons/skills/mysticism-light_manipulation.svg",
+      "image": "assets/upstream/mysticism/skills/light-manipulation-84e5140a1f.png",
       "category": "skills/extra"
     },
     "mysticism-reference/races/lightning-aberration/": {
@@ -2747,7 +2747,7 @@
     },
     "mysticism-reference/skills/intrinsic/lightning-mode/": {
       "title": "Lightning Mode",
-      "image": "assets/icons/skills/mysticism-lightning_mode.svg",
+      "image": "assets/upstream/mysticism/skills/lightning-mode-70097842da.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/lightning-soul-insect/": {
@@ -2787,7 +2787,7 @@
     },
     "mysticism-reference/skills/intrinsic/magisteel-body/": {
       "title": "Magisteel Body",
-      "image": "assets/icons/skills/mysticism-magisteel_body.svg",
+      "image": "assets/upstream/mysticism/skills/magisteel-body-c0bf32d182.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/magma-worm/": {
@@ -2797,7 +2797,7 @@
     },
     "mysticism-reference/skills/unique/malleable/": {
       "title": "Malleable",
-      "image": "assets/icons/skills/mysticism-malleable.svg",
+      "image": "assets/upstream/mysticism/skills/malleable-e63a1cb2e5.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/mantis/": {
@@ -2812,7 +2812,7 @@
     },
     "mysticism-reference/skills/unique/melancholy/": {
       "title": "Melancholy",
-      "image": "assets/icons/skills/mysticism-melancholy.svg",
+      "image": "assets/upstream/mysticism/skills/melancholy-53d9520383.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/intrinsic/mithril-strength/": {
@@ -2852,7 +2852,7 @@
     },
     "mysticism-reference/skills/intrinsic/paralysis-transform/": {
       "title": "Paralysis Transform",
-      "image": "assets/icons/skills/mysticism-paralysis_transform.svg",
+      "image": "assets/upstream/mysticism/skills/paralysis-transform-4e9f95e83b.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/phantom/": {
@@ -2862,7 +2862,7 @@
     },
     "mysticism-reference/skills/unique/phaser/": {
       "title": "Phaser",
-      "image": "assets/icons/skills/mysticism-phaser.svg",
+      "image": "assets/upstream/mysticism/skills/phaser-71dbe5037f.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/poison-soul-insect/": {
@@ -2872,7 +2872,7 @@
     },
     "mysticism-reference/skills/intrinsic/poison-transform/": {
       "title": "Poison Transform",
-      "image": "assets/icons/skills/mysticism-poison_transform.svg",
+      "image": "assets/upstream/mysticism/skills/poison-transform-ac54b3eeb0.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/preying-mantis/": {
@@ -2892,12 +2892,12 @@
     },
     "mysticism-reference/skills/extra/profaned-prominence/": {
       "title": "Profaned Prominence",
-      "image": "assets/icons/skills/mysticism-profaned_prominence.svg",
+      "image": "assets/upstream/mysticism/skills/profaned-prominence-93adb37c4a.png",
       "category": "skills/extra"
     },
     "mysticism-reference/skills/unique/provider/": {
       "title": "Provider",
-      "image": "assets/icons/skills/mysticism-provider.svg",
+      "image": "assets/upstream/mysticism/skills/provider-93310a03a9.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/purple-centipede/": {
@@ -2937,12 +2937,12 @@
     },
     "mysticism-reference/skills/unique/reducer/": {
       "title": "Reducer",
-      "image": "assets/icons/skills/mysticism-reducer.svg",
+      "image": "assets/upstream/mysticism/skills/reducer-2ec2f0556b.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/intrinsic/relapse/": {
       "title": "Relapse",
-      "image": "assets/icons/skills/mysticism-relapse.svg",
+      "image": "assets/upstream/mysticism/skills/relapse-757e4d38bd.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/remnant/": {
@@ -2952,17 +2952,17 @@
     },
     "mysticism-reference/skills/unique/repeater/": {
       "title": "Repeater",
-      "image": "assets/icons/skills/mysticism-repeater.svg",
+      "image": "assets/upstream/mysticism/skills/repeater-c57e113c12.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/reshiram/": {
       "title": "Reshiram",
-      "image": "assets/icons/skills/mysticism-reshiram.svg",
+      "image": "assets/upstream/mysticism/skills/reshiram-425f18afb8.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/restricted/": {
       "title": "Restricted",
-      "image": "assets/icons/skills/mysticism-restricted.svg",
+      "image": "assets/upstream/mysticism/races/restricted-57fefce285.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/restricted-human/": {
@@ -2992,12 +2992,12 @@
     },
     "mysticism-reference/skills/unique/scholar/": {
       "title": "Scholar",
-      "image": "assets/icons/skills/mysticism-scholar.svg",
+      "image": "assets/upstream/mysticism/skills/scholar-icon-7a34baa777.png",
       "category": "skills/unique"
     },
     "mysticism-reference/skills/unique/schrodinger/": {
       "title": "Schrodinger",
-      "image": "assets/icons/skills/mysticism-schrodinger.svg",
+      "image": "assets/upstream/mysticism/skills/schrodinger-c488482490.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/scorch-wolf/": {
@@ -3057,7 +3057,7 @@
     },
     "mysticism-reference/skills/intrinsic/spark/": {
       "title": "Spark",
-      "image": "assets/icons/skills/mysticism-spark.svg",
+      "image": "assets/upstream/mysticism/skills/spark-ae86cc4417.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/spatial-soul-insect/": {
@@ -3072,7 +3072,7 @@
     },
     "mysticism-reference/skills/unique/spiritualist/": {
       "title": "Spiritualist",
-      "image": "assets/icons/skills/mysticism-spiritualist.svg",
+      "image": "assets/upstream/mysticism/skills/spiritualist-c1c02979fe.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/staff-officer/": {
@@ -3097,7 +3097,7 @@
     },
     "mysticism-reference/skills/unique/stagnator/": {
       "title": "Stagnator",
-      "image": "assets/icons/skills/mysticism-stagnator.svg",
+      "image": "assets/upstream/mysticism/skills/stagnator-194f37f8fa.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/star-soul-insect/": {
@@ -3112,7 +3112,7 @@
     },
     "mysticism-reference/skills/unique/subjugator/": {
       "title": "Subjugator",
-      "image": "assets/icons/skills/mysticism-subjugator.svg",
+      "image": "assets/upstream/mysticism/skills/subjugator-e2572b2eb5.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/sunfire-lindwurm/": {
@@ -3122,7 +3122,7 @@
     },
     "mysticism-reference/skills/intrinsic/tenacity/": {
       "title": "Tenacity",
-      "image": "assets/icons/skills/mysticism-tenacity.svg",
+      "image": "assets/upstream/mysticism/skills/missing-model-inventory-je2-7c0a10e5b2.png",
       "category": "skills/intrinsic"
     },
     "mysticism-reference/races/tengu/": {
@@ -3142,7 +3142,7 @@
     },
     "mysticism-reference/skills/unique/victorious-harbinger/": {
       "title": "Victorious Harbinger",
-      "image": "assets/icons/skills/mysticism-victorious_harbinger.svg",
+      "image": "assets/upstream/mysticism/skills/victorious-harbinger-59693be487.png",
       "category": "skills/unique"
     },
     "mysticism-reference/races/violence-deity/": {
@@ -3187,7 +3187,7 @@
     },
     "mysticism-reference/skills/unique/zekrom/": {
       "title": "Zekrom",
-      "image": "assets/icons/skills/mysticism-zekrom.svg",
+      "image": "assets/upstream/mysticism/skills/zekrom-f5233877a7.png",
       "category": "skills/unique"
     },
     "tensura-reference/skills/ultimate/nightmares-asmodeus/": {

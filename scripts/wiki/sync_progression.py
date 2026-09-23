@@ -137,7 +137,7 @@ def build() -> dict:
             nodes.pop(key, None)
         elif key in nodes:
             nodes[key]["category"] = decision["category"]
-            if decision["namespace"] in {"mysticism", "trnightmare"}:
+            if decision["namespace"] == "trnightmare":
                 nodes[key]["image"] = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
             if decision["status"] == "reference":
                 nodes[key]["verification"] = "reference-build-only"
