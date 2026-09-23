@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Scorpion family emblem</title>
+  <desc id="desc">An original bronze scorpion with eight legs, two open pincers and a segmented tail curled over its back. A family symbol, not an in-game model.</desc>
+  <defs>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9db9b"/><stop offset=".3" stop-color="#cf995a"/><stop offset=".62" stop-color="#8c5e48"/><stop offset="1" stop-color="#343047"/></linearGradient>
+    <linearGradient id="plate" x1="0" y1="0" x2=".3" y2="1"><stop stop-color="#efc98c"/><stop offset=".35" stop-color="#ba8053"/><stop offset="1" stop-color="#574051"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9e0a5"/><stop offset="1" stop-color="#9b755a"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#a47c56" stop-opacity=".21"/><stop offset="1" stop-color="#a47c56" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="10" flood-color="#030b17" flood-opacity=".7"/></filter>
+    <g id="legs" fill="url(#bronze)" stroke="#a88561" stroke-width="3" stroke-linejoin="round">
+      <path d="M279 338 210 319 174 336 145 340 162 352 212 342 279 359Z"/>
+      <path d="M274 366 215 371 176 407 147 419 178 427 224 391 279 388Z"/>
+      <path d="M280 397 225 419 204 464 174 489 207 478 242 438 292 419Z"/>
+      <path d="M290 422 262 465 259 512 239 542 269 523 279 479 312 440Z"/>
+    </g>
+    <g id="claw" stroke-linejoin="round">
+      <path d="M292 324 243 290 219 242 193 245 217 310 272 350Z" fill="url(#bronze)" stroke="#b88b62" stroke-width="4"/>
+      <path d="M211 261Q163 258 145 224Q129 190 142 159L164 136Q148 181 172 199L190 198Q202 172 186 142L212 158Q241 189 232 226Z" fill="url(#bronze)" stroke="url(#edge)" stroke-width="5"/>
+      <path d="M146 161Q139 196 162 218M214 170Q229 198 215 229" fill="none" stroke="#f8d897" stroke-width="4" stroke-linecap="round"/>
+      <path d="M174 201 170 216 191 210 194 199Z" fill="#42323c"/>
+    </g>
+  </defs>
+  <ellipse cx="320" cy="340" rx="248" ry="248" fill="url(#aura)"/>
+  <g filter="url(#shadow)">
+    <path d="M321 444Q374 486 429 451Q485 416 486 327Q490 254 454 212Q421 171 384 153" fill="none" stroke="#3b3043" stroke-width="46" stroke-linecap="round"/>
+    <path d="M321 444Q374 486 429 451Q485 416 486 327Q490 254 454 212Q421 171 384 153" fill="none" stroke="url(#bronze)" stroke-width="34" stroke-linecap="round"/>
+    <path d="M348 475 362 447M394 475 391 444M437 455 420 430M468 414 440 399M487 369 455 364M485 318 454 324M473 273 444 285M446 230 423 248M411 197 394 221" fill="none" stroke="#51394a" stroke-width="6"/>
+    <path d="M395 169Q370 179 350 155Q331 130 340 108Q352 87 369 80Q353 117 377 125Q399 130 395 169Z" fill="url(#plate)" stroke="url(#edge)" stroke-width="4"/>
+    <path d="M363 123Q347 108 369 80Q350 85 335 105L332 130Z" fill="#e8e8c7"/>
+    <use href="#legs"/><use href="#legs" transform="translate(640) scale(-1 1)"/>
+    <use href="#claw"/><use href="#claw" transform="translate(640) scale(-1 1)"/>
+    <path d="M282 306Q263 336 270 392Q278 435 320 454Q362 435 370 392Q377 336 358 306Z" fill="url(#plate)" stroke="url(#edge)" stroke-width="5"/>
+    <path d="M273 354Q320 374 367 354M274 383Q320 404 366 383M285 413Q320 432 355 413" fill="none" stroke="#49384a" stroke-width="8"/>
+    <path d="M278 347Q320 364 362 347M279 376Q320 394 361 376M291 406Q320 421 349 406" fill="none" stroke="#e3b779" stroke-width="3"/>
+    <path d="M280 311 289 278 310 264H330L351 278 360 311 340 338H300Z" fill="url(#bronze)" stroke="url(#edge)" stroke-width="4"/>
+    <path d="M301 282 313 285 313 292 304 291ZM339 282 327 285 327 292 336 291Z" fill="#99edec"/>
+    <path d="M304 307 314 305 317 318 311 314 307 322ZM336 307 326 305 323 318 329 314 333 322Z" fill="#3a3040"/>
+  </g>
+</svg>

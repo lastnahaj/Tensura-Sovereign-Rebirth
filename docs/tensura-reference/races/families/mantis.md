@@ -3,7 +3,7 @@ title: "Mantis Evolution"
 description: 11 connected race forms with documented stats, abilities, and evolution links.
 ---
 
-<section class="race-family-hero race-family-hero--catalogue"><img src="../../../../assets/images/races/mantis.webp" alt="Mantis race reference artwork"><div><p class="reference-eyebrow">Race family · 11 forms</p><h1>Mantis evolution</h1><p>Follow the branches, compare abilities, and check the requirements for your next form.</p><nav class="race-family-jumps" aria-label="Family sections"><a href="#evolution-path">Evolution path ↓</a><a href="#race-stages">Race stages ↓</a></nav></div></section>
+<section class="race-family-hero race-family-hero--catalogue race-family-hero--emblem"><img src="../../../../assets/illustrations/races/mantis.svg" alt="Mantis race reference artwork"><div><p class="reference-eyebrow">Race family · 11 forms</p><h1>Mantis evolution</h1><p>Follow the branches, compare abilities, and check the requirements for your next form.</p><nav class="race-family-jumps" aria-label="Family sections"><a href="#evolution-path">Evolution path ↓</a><a href="#race-stages">Race stages ↓</a></nav></div></section>
 
 [All race families](../index.md)
 
@@ -97,4 +97,4 @@ Stats and relationships retain their source-page context. Evolution methods can 
 
 Source pages credit the [Tensura: Reincarnated Wiki](https://tensura.wiki.gg/) and [TR Mysticism Wiki](https://trmysticism.wiki.gg/) contributors under CC BY-SA 4.0. See [upstream attribution](../../../project/upstream-attribution.md) and [Mysticism attribution](../../../project/mysticism-upstream-attribution.md).
 
-Family image: original TSR illustration; not an in-game model or a depiction of exact evolution stages.
+Family image: original TSR emblem; not an in-game model or a depiction of exact evolution stages.

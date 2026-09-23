@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Beetle family emblem</title>
+  <desc id="desc">An original iridescent beetle with a split horn and six articulated legs. A family symbol, not an in-game model.</desc>
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e9a3"/><stop offset=".18" stop-color="#90b77b"/><stop offset=".48" stop-color="#3b887e"/><stop offset=".76" stop-color="#256078"/><stop offset="1" stop-color="#102f46"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e6a3"/><stop offset=".45" stop-color="#80ac95"/><stop offset="1" stop-color="#347686"/></linearGradient>
+    <linearGradient id="armor" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#93bda0"/><stop offset=".35" stop-color="#3c7476"/><stop offset="1" stop-color="#152c45"/></linearGradient>
+    <radialGradient id="shine" cx=".3" cy=".18" r=".8"><stop stop-color="#e3ffdc" stop-opacity=".46"/><stop offset="1" stop-color="#b1ffe3" stop-opacity="0"/></radialGradient>
+    <radialGradient id="aura"><stop stop-color="#36a5a7" stop-opacity=".2"/><stop offset="1" stop-color="#36a5a7" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="15" stdDeviation="12" flood-color="#020b16" flood-opacity=".7"/></filter>
+    <g id="legs" fill="url(#armor)" stroke="#112d40" stroke-width="5" stroke-linejoin="round">
+      <path d="M246 288 176 263 143 205 119 192 139 241 166 280 239 318Z"/>
+      <path d="M234 352 159 351 111 390 90 400 109 410 166 373 241 382Z"/>
+      <path d="M253 427 196 460 170 509 166 546 184 530 208 484 271 457Z"/>
+      <path d="M178 265 154 247M157 357 137 370M198 464 187 487" fill="none" stroke="#a9c39b" stroke-width="5"/>
+    </g>
+  </defs>
+  <ellipse cx="320" cy="350" rx="240" ry="246" fill="url(#aura)"/>
+  <g filter="url(#shadow)">
+    <use href="#legs"/><use href="#legs" transform="translate(640) scale(-1 1)"/>
+    <path d="M262 307Q231 324 229 383Q224 469 271 510Q296 531 320 534Q345 531 369 510Q416 469 411 383Q409 324 378 307Z" fill="#102a3e" stroke="#719e8c" stroke-width="4"/>
+    <path d="M315 303Q260 288 235 352Q213 429 262 486Q282 509 315 522Z" fill="url(#shell)" stroke="url(#rim)" stroke-width="5"/>
+    <path d="M325 303Q380 288 405 352Q427 429 378 486Q358 509 325 522Z" fill="url(#shell)" stroke="url(#rim)" stroke-width="5"/>
+    <path d="M305 324Q263 319 251 364Q237 420 277 468Q250 412 269 362Q280 338 305 334Z" fill="#c5efd0" opacity=".45"/>
+    <path d="M335 324Q376 322 391 363Q400 403 386 438Q390 376 363 346Z" fill="#bcddac" opacity=".24"/>
+    <path d="M253 293Q243 270 255 240L285 218H355L385 240Q397 270 387 293L360 324H280Z" fill="url(#armor)" stroke="url(#rim)" stroke-width="5"/>
+    <path d="M269 248Q320 216 371 248L360 279Q320 299 280 279Z" fill="url(#shell)"/>
+    <path d="M283 222 269 194 275 165 298 147H342L365 165 371 194 357 222 320 238Z" fill="url(#armor)" stroke="url(#rim)" stroke-width="4"/>
+    <path d="M306 193 295 147 282 119 282 83 297 110 319 124 340 109 355 83 355 118 343 149 335 193 320 213Z" fill="url(#shell)" stroke="url(#rim)" stroke-width="4"/>
+    <path d="M305 143 319 151 333 142 326 182 320 194Z" fill="#c4dcaa" opacity=".6"/>
+    <path d="M275 196 298 203 294 216 278 210ZM365 196 342 203 346 216 362 210Z" fill="#f8c66d"/>
+    <path d="M282 232 262 211 250 175M358 232 378 211 390 175" fill="none" stroke="#89b0a0" stroke-width="5" stroke-linecap="round"/>
+    <path d="M280 312Q320 328 360 312M283 284Q320 301 357 284" fill="none" stroke="#d0dfb0" stroke-opacity=".65" stroke-width="3"/>
+    <path d="M315 330V502M325 330V502" stroke="#081d2c" stroke-width="3"/>
+  </g>
+</svg>

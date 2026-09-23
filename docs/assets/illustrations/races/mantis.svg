@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Mantis family emblem</title>
+  <desc id="desc">An original jade mantis with a triangular face, amber eyes, folded wings and paired sickle forelegs. A family symbol, not an in-game model.</desc>
+  <defs>
+    <linearGradient id="jade" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c4e6a1"/><stop offset=".35" stop-color="#69b581"/><stop offset=".7" stop-color="#2f7c70"/><stop offset="1" stop-color="#173c4b"/></linearGradient>
+    <linearGradient id="blade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f5cc"/><stop offset=".24" stop-color="#b7d99c"/><stop offset=".62" stop-color="#589d79"/><stop offset="1" stop-color="#17494b"/></linearGradient>
+    <linearGradient id="eye" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff3be"/><stop offset=".35" stop-color="#eacb6e"/><stop offset="1" stop-color="#ae6f37"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#58ac7f" stop-opacity=".22"/><stop offset="1" stop-color="#58ac7f" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="13" stdDeviation="10" flood-color="#020c17" flood-opacity=".65"/></filter>
+    <g id="legs" stroke-linejoin="round">
+      <path d="M298 372 223 387 173 462 123 487 163 478 237 407 303 400ZM301 450 253 489 229 553 251 530 271 507 310 486Z" fill="#376c62" stroke="#87b996" stroke-width="3"/>
+    </g>
+    <g id="arm" stroke-linejoin="round">
+      <path d="M298 285 231 321 193 295 213 265 242 286 286 258Z" fill="url(#jade)" stroke="#a3c798" stroke-width="4"/>
+      <path d="M202 301Q152 253 151 184Q151 140 179 103Q163 182 205 229L236 253 220 286Z" fill="url(#blade)" stroke="#b1d3a3" stroke-width="4"/>
+      <path d="M179 111Q163 177 193 226" fill="none" stroke="#f1f2c6" stroke-width="6" stroke-linecap="round"/>
+      <path d="M199 227 187 245 212 244 204 264 227 258 215 281 233 268" fill="#e1e8b9"/>
+    </g>
+  </defs>
+  <ellipse cx="320" cy="343" rx="240" ry="247" fill="url(#aura)"/>
+  <g filter="url(#shadow)">
+    <use href="#legs"/><use href="#legs" transform="translate(640) scale(-1 1)"/>
+    <path d="M303 334Q268 375 276 449Q284 510 320 542Q355 510 365 449Q373 374 337 334Z" fill="#215451" stroke="#7ab591" stroke-width="4"/>
+    <path d="M304 332Q270 344 263 385L279 473 320 529 314 384Z" fill="url(#jade)" stroke="#8ab996" stroke-width="4"/>
+    <path d="M336 332Q370 344 377 385L361 473 320 529 326 384Z" fill="url(#jade)" stroke="#8ab996" stroke-width="4"/>
+    <path d="M283 371 302 452 316 489M357 371 338 452 324 489" fill="none" stroke="#b8d9a7" stroke-opacity=".45" stroke-width="3"/>
+    <use href="#arm"/><use href="#arm" transform="translate(640) scale(-1 1)"/>
+    <path d="M309 224 292 334 310 385 330 385 348 334 331 224Z" fill="url(#jade)" stroke="#a9cd9c" stroke-width="4"/>
+    <path d="M319 243 306 328 320 360 334 328 325 243Z" fill="#163f49" opacity=".58"/>
+    <path d="M274 167Q320 150 366 167L355 207 320 235 285 207Z" fill="url(#blade)" stroke="#c9dda7" stroke-width="4"/>
+    <path d="M268 153Q247 154 254 183Q259 199 282 192L294 181Z" fill="url(#eye)" stroke="#436b55" stroke-width="4"/>
+    <path d="M372 153Q393 154 386 183Q381 199 358 192L346 181Z" fill="url(#eye)" stroke="#436b55" stroke-width="4"/>
+    <ellipse cx="271" cy="175" rx="5" ry="9" fill="#1b3331"/><ellipse cx="369" cy="175" rx="5" ry="9" fill="#1b3331"/>
+    <path d="M298 194 320 201 342 194 320 219Z" fill="#356658"/>
+    <path d="M310 166Q288 117 259 99M330 166Q352 117 381 99" fill="none" stroke="#b7d79d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M287 163 305 170M353 163 335 170" stroke="#eef0bd" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

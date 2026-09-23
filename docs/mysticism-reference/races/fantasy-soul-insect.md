@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/beetle.webp" alt="Fantasy Soul Insect family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/beetle.svg" alt="Fantasy Soul Insect family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>

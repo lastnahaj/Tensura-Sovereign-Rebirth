@@ -2,6 +2,7 @@
 import argparse
 import hashlib
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -60,6 +61,16 @@ def main():
         if not portrait or not portrait.get('src', '').endswith(asset):
             errors.append(f'Race article is not using its curated portrait: {family}')
     directory_source = (ROOT / 'docs/tensura-reference/races/index.md').read_text(encoding='utf-8')
+    emblems = json.loads((ROOT / 'data/race_emblem_sources.json').read_text(encoding='utf-8'))['families']
+    for family, evidence in emblems.items():
+        if overrides.get(family) != evidence['asset'] or not evidence.get('revision'):
+            errors.append(f'Missing emblem mapping or source review: {family}')
+        svg = ET.parse(ROOT / 'docs' / evidence['asset']).getroot()
+        if svg.get('viewBox') != '0 0 640 640' or svg.find('{http://www.w3.org/2000/svg}title') is None:
+            errors.append(f'Invalid emblem canvas or accessible title: {family}')
+        for element in svg.iter():
+            if element.tag.endswith('script') or any(key.endswith('href') and not value.startswith('#') for key, value in element.attrib.items()):
+                errors.append(f'Nonlocal or executable emblem content: {family}')
     for family in families['families']:
         credit = next((entry for entry in media.values() if entry.get('local_path') == family['image']), None)
         if credit and credit['source_file_page'] not in directory_source:

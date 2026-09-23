@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/mantis.webp" alt="Divine Preying Mantis family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/mantis.svg" alt="Divine Preying Mantis family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -63,7 +63,7 @@ Yes</div></div></div><div class="druid-section-container"><div data-druid-sectio
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../divine-lixivant-mantis/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/mantis.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/mantis.svg"/>
 <span class="reference-related-copy">
 <strong>Divine Lixivant Mantis</strong>
 <small>1.21.1 – Added to the game 1.19.2 – ???</small>

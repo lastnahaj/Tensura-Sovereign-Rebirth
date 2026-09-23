@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/mantis.webp" alt="Lixivant Mantis family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/mantis.svg" alt="Lixivant Mantis family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -68,14 +68,14 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lixivant-mantis-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/mantis.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/mantis.svg"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis Insectar</strong>
 <small>Lixivant Mantis Savant - Acquire 400K EP, Kill 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lixivant-mantis-savant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/mantis.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/mantis.svg"/>
 <span class="reference-related-copy">
 <strong>Lixivant Mantis Savant</strong>
 <small>Divine Lixivant Mantis - 2M EP</small>

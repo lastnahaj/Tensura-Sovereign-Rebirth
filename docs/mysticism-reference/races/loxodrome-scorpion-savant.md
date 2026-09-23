@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/scorpion.webp" alt="Loxodrome Scorpion Savant family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/scorpion.svg" alt="Loxodrome Scorpion Savant family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -69,14 +69,14 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../loxodrome-scorpion-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/scorpion.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.svg"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion Insectar</strong>
 <small>Loxodrome Scorpion Savant - Acquire 400K EP. Defeat 4 Bosses</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/scorpion.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.svg"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion</strong>
 <small>Loxodrome Scorpion Insectar - Acquire 100K EP.</small>

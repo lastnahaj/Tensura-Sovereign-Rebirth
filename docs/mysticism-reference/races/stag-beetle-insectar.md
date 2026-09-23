@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/beetle.webp" alt="Stag Beetle Insectar family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/beetle.svg" alt="Stag Beetle Insectar family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -69,14 +69,14 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../stag-beetle/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/beetle.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/beetle.svg"/>
 <span class="reference-related-copy">
 <strong>Stag Beetle</strong>
 <small>Stag Beetle Insectar = 10,000 Ep 1.21.1 – ??? 1.19.2 – Added to the game.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../stag-beetle-saint/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/beetle.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/beetle.svg"/>
 <span class="reference-related-copy">
 <strong>Stag Beetle Savant</strong>
 <small>Divine Stag Beetle = 2M EP 1.21.1 – ??? 1.19.2 – Added to the game.</small>

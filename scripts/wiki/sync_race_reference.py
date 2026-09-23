@@ -25,9 +25,9 @@ HISTORICAL_MEDIA = (
     (('spider', 'silk-soul'), 'assets/upstream/tensura/mobs/black-spider-yellow-c2fa32a0c0.gif'),
     (('wasp',), 'assets/upstream/tensura/mobs/army-wasp-751af321e0.gif'),
     (('centipede',), 'assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png'),
-    (('scorpion',), 'assets/images/races/scorpion.webp'),
-    (('mantis',), 'assets/images/races/mantis.webp'),
-    (('beetle',), 'assets/images/races/beetle.webp'),
+    (('scorpion',), 'assets/illustrations/races/scorpion.svg'),
+    (('mantis',), 'assets/illustrations/races/mantis.svg'),
+    (('beetle',), 'assets/illustrations/races/beetle.svg'),
     (('ant', 'hardshell'), 'assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif'),
     (('wolf', 'fang'), 'assets/upstream/mysticism/races/direwolf-9251a4c081.jpg'),
     (('dryad', 'foliaris', 'pixie', 'verdant'), 'assets/upstream/mysticism/races/fairy-b898cd83c7.jpg'),
@@ -90,6 +90,9 @@ def replace_placeholder_figure(text: str, page: str, decision: dict, asset: str,
     if asset in credits:
         credit = credits[asset]
         caption = f'<a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])} · {html.escape(credit["license"])}</a>'
+        source_class = ' reference-overview-media--source'
+    elif asset.startswith('assets/illustrations/races/'):
+        caption = 'Original TSR family emblem; not an in-game model'
         source_class = ' reference-overview-media--source'
     else:
         caption = 'Original TSR family illustration'

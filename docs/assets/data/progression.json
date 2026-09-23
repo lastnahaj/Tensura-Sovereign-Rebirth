@@ -2232,7 +2232,7 @@
     },
     "mysticism-reference/races/beetle/": {
       "title": "Beetle",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/black-fang/": {
@@ -2327,7 +2327,7 @@
     },
     "mysticism-reference/races/corrosion-soul-insect/": {
       "title": "Corrosion Soul Insect",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/corrosion-transform/": {
@@ -2402,7 +2402,7 @@
     },
     "mysticism-reference/races/divine-drone-beetle/": {
       "title": "Divine Drone Beetle",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-elemental/": {
@@ -2432,17 +2432,17 @@
     },
     "mysticism-reference/races/divine-lixivant-mantis/": {
       "title": "Divine Lixivant Mantis",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-loxodrome-scorpion/": {
       "title": "Divine Loxodrome Scorpion",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-preying-mantis/": {
       "title": "Divine Preying Mantis",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-purple-centipede/": {
@@ -2452,12 +2452,12 @@
     },
     "mysticism-reference/races/divine-singularity-scorpion/": {
       "title": "Divine Singularity Scorpion",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-stag-beetle/": {
       "title": "Divine Stag Beetle",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/divine-tengu/": {
@@ -2487,12 +2487,12 @@
     },
     "mysticism-reference/races/drone-beetle/": {
       "title": "Drone Beetle",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/drone-beetle-insectar/": {
       "title": "Drone Beetle Insectar",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/earth-soul-insect/": {
@@ -2557,7 +2557,7 @@
     },
     "mysticism-reference/races/fantasy-soul-insect/": {
       "title": "Fantasy Soul Insect",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/field-officer/": {
@@ -2607,7 +2607,7 @@
     },
     "mysticism-reference/races/gravity-soul-insect/": {
       "title": "Gravity Soul Insect",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/greater-angel/": {
@@ -2752,37 +2752,37 @@
     },
     "mysticism-reference/races/lightning-soul-insect/": {
       "title": "Lightning Soul Insect",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis/": {
       "title": "Lixivant Mantis",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis-insectar/": {
       "title": "Lixivant Mantis Insectar",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/lixivant-mantis-savant/": {
       "title": "Lixivant Mantis Savant",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion/": {
       "title": "Loxodrome Scorpion",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion-insectar/": {
       "title": "Loxodrome Scorpion Insectar",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/loxodrome-scorpion-savant/": {
       "title": "Loxodrome Scorpion Savant",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/magisteel-body/": {
@@ -2802,7 +2802,7 @@
     },
     "mysticism-reference/races/mantis/": {
       "title": "Mantis",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/medium-elemental/": {
@@ -2867,7 +2867,7 @@
     },
     "mysticism-reference/races/poison-soul-insect/": {
       "title": "Poison Soul Insect",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/skills/intrinsic/poison-transform/": {
@@ -2877,17 +2877,17 @@
     },
     "mysticism-reference/races/preying-mantis/": {
       "title": "Preying Mantis",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/preying-mantis-insectar/": {
       "title": "Preying Mantis Insectar",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/races/preying-mantis-savant/": {
       "title": "Preying Mantis Savant",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/skills/extra/profaned-prominence/": {
@@ -3017,7 +3017,7 @@
     },
     "mysticism-reference/races/scorpion/": {
       "title": "Scorpion",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/sculk-worm/": {
@@ -3032,17 +3032,17 @@
     },
     "mysticism-reference/races/singularity-scorpion/": {
       "title": "Singularity Scorpion",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/singularity-scorpion-insectar/": {
       "title": "Singularity Scorpion Insectar",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/singularity-scorpion-savant/": {
       "title": "Singularity Scorpion Savant",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "category": "races"
     },
     "mysticism-reference/races/soul-aberration/": {
@@ -3082,17 +3082,17 @@
     },
     "mysticism-reference/races/stag-beetle/": {
       "title": "Stag Beetle",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/stag-beetle-insectar/": {
       "title": "Stag Beetle Insectar",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/races/stag-beetle-saint/": {
       "title": "Stag Beetle Savant",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "category": "races"
     },
     "mysticism-reference/skills/unique/stagnator/": {
@@ -3107,7 +3107,7 @@
     },
     "mysticism-reference/races/steel-soul-insect/": {
       "title": "Steel Soul Insect",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "category": "races"
     },
     "mysticism-reference/skills/unique/subjugator/": {

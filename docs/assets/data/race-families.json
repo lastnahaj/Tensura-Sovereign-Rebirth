@@ -150,7 +150,7 @@
     {
       "title": "Beetle",
       "route": "tensura-reference/races/families/beetle/",
-      "image": "assets/images/races/beetle.webp",
+      "image": "assets/illustrations/races/beetle.svg",
       "forms": 10,
       "search": "Beetle Drone Beetle Stag Beetle Drone Beetle Insectar Stag Beetle Insectar Fantasy Soul Insect Lightning Soul Insect Stag Beetle Savant Divine Drone Beetle Divine Stag Beetle"
     },
@@ -185,7 +185,7 @@
     {
       "title": "Mantis",
       "route": "tensura-reference/races/families/mantis/",
-      "image": "assets/images/races/mantis.webp",
+      "image": "assets/illustrations/races/mantis.svg",
       "forms": 11,
       "search": "Mantis Lixivant Mantis Preying Mantis Lixivant Mantis Insectar Preying Mantis Insectar Corrosion Soul Insect Lixivant Mantis Savant Preying Mantis Savant Steel Soul Insect Divine Lixivant Mantis Divine Preying Mantis"
     },
@@ -199,7 +199,7 @@
     {
       "title": "Scorpion",
       "route": "tensura-reference/races/families/scorpion/",
-      "image": "assets/images/races/scorpion.webp",
+      "image": "assets/illustrations/races/scorpion.svg",
       "forms": 11,
       "search": "Poison Soul Insect Scorpion Loxodrome Scorpion Singularity Scorpion Loxodrome Scorpion Insectar Singularity Scorpion Insectar Gravity Soul Insect Loxodrome Scorpion Savant Singularity Scorpion Savant Divine Loxodrome Scorpion Divine Singularity Scorpion"
     },

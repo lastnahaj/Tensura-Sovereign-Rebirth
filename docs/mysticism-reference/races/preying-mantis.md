@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media">
-<img src="../../../assets/images/races/mantis.webp" alt="Preying Mantis family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family illustration</figcaption>
+<figure class="reference-overview-media reference-overview-media--source">
+<img src="../../../assets/illustrations/races/mantis.svg" alt="Preying Mantis family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family emblem; not an in-game model</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -68,14 +68,14 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../preying-mantis-insectar/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/mantis.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/mantis.svg"/>
 <span class="reference-related-copy">
 <strong>Preying Mantis Insectar</strong>
 <small>Preying Mantis Savant - Acquire 400K EP, Kill 4 Bosses. Steel Soul Insect - Acquire Ranged Barrier and 400K EP. 1.21.1…</small>
 </span>
 </a>
 <a class="reference-related-card" href="../preying-mantis-savant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/images/races/mantis.webp"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/mantis.svg"/>
 <span class="reference-related-copy">
 <strong>Preying Mantis Savant</strong>
 <small>Divine Preying Mantis - 2M EP</small>
