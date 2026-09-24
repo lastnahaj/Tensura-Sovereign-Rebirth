@@ -2,16 +2,131 @@
   "schema": 1,
   "entries": {
     "trnightmare:avalon": {
-      "asset": "assets/illustrations/skills/avalon.png",
+      "asset": "assets/upstream/nightmares/skills/avalon.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Avalon"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Avalon.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Avalon.png?ab8e7c&20260503065535",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T06:55:35Z",
+        "sha256": "5f2bed62b9b97f050280c934d0d1a448d22a612acf1a8d68fc23591c006e10e3",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:ideal": {
+      "asset": "assets/upstream/nightmares/skills/ideal.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Ideal"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Ideal.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Ideal.png?238439&20260503065150",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T06:51:50Z",
+        "sha256": "f5ab71758a48fdcd213546d9b86111948f84fdcd0cae56c1f0437dad9ae82203",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:magic_regeneration": {
+      "asset": "assets/upstream/nightmares/skills/restoration.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Restoration"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Magicule_regeneration.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/thumb/Magicule_regeneration.jpeg/1027px-Magicule_regeneration.jpeg?ed6d4d",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:12Z",
+        "sha256": "9c6ae862eef6b49ce9bba9a306b7acad77d922dc496e8a044b18dc07ce32fac0",
+        "modifications": "Wiki-hosted resized preview; no local edits."
+      }
+    },
+    "trnightmare:demonic_power": {
+      "asset": "assets/upstream/nightmares/skills/demonic-power.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Demonic_Power"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Demonicpower.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Demonicpower.png?76cfb7&20260506175208",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-06T17:52:08Z",
+        "sha256": "99ccffe817362bb5cfc638ab2f418713ebb03be8aceccda0dc0906e5e3379233",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:lock": {
+      "asset": "assets/illustrations/skills/lock.png",
       "kind": "original-illustration",
       "credit": "TSR skill artwork",
       "source_review": {
-        "date": "2026-09-23",
-        "article": "https://tensuranightmares.wiki.gg/wiki/Avalon",
-        "reference_release": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
-        "game_asset": "assets/trnightmare/textures/skill/intrinsic/avalon.png",
-        "reuse_status": "Unresolved: the project license page states All Rights Reserved while the reference artifact metadata states MIT. Live wiki file verification was unavailable.",
-        "license_page": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/license"
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Lock",
+        "reference_revision": 2626,
+        "result": "No skill image appears in the live article or the recorded article revision."
+      }
+    },
+    "trnightmare:goddess_incarnation": {
+      "asset": "assets/illustrations/skills/goddess-incarnation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Goddess_Incarnation",
+        "reference_revision": 2910,
+        "result": "No skill image appears in the live article or the recorded article revision."
+      }
+    },
+    "trnightmare:divine_wisdom_core": {
+      "asset": "assets/illustrations/skills/divine-wisdom-core.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Divine_Wisdom_Core",
+        "reference_revision": 2934,
+        "result": "No skill image appears in the live article or the recorded article revision."
+      }
+    },
+    "trnightmare:material_creation": {
+      "asset": "assets/illustrations/skills/material-creation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Material_Creation",
+        "reference_revision": 2936,
+        "result": "No skill image appears in the live article or the recorded article revision."
       }
     }
   }

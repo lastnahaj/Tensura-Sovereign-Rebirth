@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-material_creation.svg" alt="Material Creation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/material-creation.png" alt="Material Creation illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Understanding - Once pressed, the user to begins to research a block they&#x27;re looking at or the item in their hand. They need to research an object 10 times to learn it. This has a 15% chance to destroy the block or item the user is looking at.</p>
@@ -47,4 +47,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Material Creation](https://tensuranightmares.wiki.gg/wiki/Material_Creation) on the Tensura Reincarnated Nightmares Wiki (revision `2936`, modified `2026-09-06T12:45:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

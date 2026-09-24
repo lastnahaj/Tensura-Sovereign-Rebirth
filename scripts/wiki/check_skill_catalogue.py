@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import posixpath
 import re
@@ -35,6 +36,13 @@ def main():
     generated_pages = json.loads(outputs["assets/data/skill-catalogue.json"])["pages"]
     progression = json.loads((DOCS / 'assets/data/progression.json').read_text(encoding='utf-8'))['nodes']
     errors = []
+    artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
+    for skill_id, entry in artwork.items():
+        asset = DOCS / entry['asset']
+        if not asset.is_file():
+            errors.append(f'Missing reviewed artwork: {skill_id}')
+        elif entry['kind'] == 'verified-source' and hashlib.sha256(asset.read_bytes()).hexdigest() != entry['media']['sha256']:
+            errors.append(f'Source artwork checksum mismatch: {skill_id}')
     for name, content in outputs.items():
         if not (DOCS / name).exists() or (DOCS / name).read_text(encoding="utf-8") != content:
             errors.append(f"Stale skill output: {name}")
@@ -96,6 +104,10 @@ def main():
                 errors.append(f"Incorrect class: {target}")
             if decision.get('artwork_kind') == 'original-illustration' and 'TSR artwork' not in link.get_text():
                 errors.append(f'Original skill card mislabeled as source media: {target}')
+            if decision['id'] in artwork:
+                preview = link.select_one('img[src]')
+                if not preview or posixpath.normpath(posixpath.join(route(page), preview['src'])) != artwork[decision['id']]['asset']:
+                    errors.append(f'Reviewed skill artwork differs on its directory card: {target}')
             if decision["id"] in seen:
                 errors.append(f"Duplicate skill card: {decision['id']}")
             seen.add(decision["id"])
@@ -131,6 +143,18 @@ def main():
                 old_asset = 'assets/icons/skills/' + decision['id'].replace(':', '-') + '.svg'
                 if old_asset in outputs[page] or any(entry['route'] == route(page) and entry['image'] != asset for entry in ability_search):
                     errors.append(f'Skill illustration reverted to a legacy emblem: {page}')
+            if decision['id'] in artwork:
+                reviewed = artwork[decision['id']]
+                if asset != reviewed['asset'] or any(entry['route'] == route(page) and entry['image'] != asset for entry in ability_search):
+                    errors.append(f'Reviewed skill artwork differs between surfaces: {page}')
+                if 'assets/icons/skills/' + decision['id'].replace(':', '-') + '.svg' in outputs[page]:
+                    errors.append(f'Legacy skill emblem remains: {page}')
+                if '<!-- skill-artwork-credit:start -->' not in outputs[page]:
+                    errors.append(f'Reviewed artwork lacks its article credit: {page}')
+                if reviewed['kind'] == 'verified-source':
+                    media = reviewed['media']
+                    if any(media[key] not in outputs[page] for key in ('source_file_page', 'uploader', 'license_url', 'modifications')):
+                        errors.append(f'Incomplete source artwork attribution: {page}')
         if decision["status"] == "reference":
             if "Server build match pending." not in soup.get_text() or "Pinned pack inventory" in soup.get_text():
                 errors.append(f"Reference build presented as installed: {page}")

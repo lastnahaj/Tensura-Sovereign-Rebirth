@@ -3223,8 +3223,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-magic_regeneration.svg"
+      "asset": "assets/upstream/nightmares/skills/restoration.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-sunshine.md": {
       "id": "trnightmare:sunshine",
@@ -3283,8 +3284,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-lock.svg"
+      "asset": "assets/illustrations/skills/lock.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/intrinsic/nightmares-goddess-incarnation.md": {
       "id": "trnightmare:goddess_incarnation",
@@ -3303,8 +3305,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-goddess_incarnation.svg"
+      "asset": "assets/illustrations/skills/goddess-incarnation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-gift.md": {
       "id": "trnightmare:gift",
@@ -3403,8 +3406,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-ideal.svg"
+      "asset": "assets/upstream/nightmares/skills/ideal.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/intrinsic/nightmares-avalon.md": {
       "id": "trnightmare:avalon",
@@ -3423,8 +3427,8 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "asset": "assets/illustrations/skills/avalon.png",
-      "artwork_kind": "original-illustration",
+      "asset": "assets/upstream/nightmares/skills/avalon.png",
+      "artwork_kind": "verified-source",
       "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-handler.md": {
@@ -3544,8 +3548,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-demonic_power.svg"
+      "asset": "assets/upstream/nightmares/skills/demonic-power.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-stasis.md": {
       "id": "trnightmare:stasis",
@@ -3904,8 +3909,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-divine_wisdom_core.svg"
+      "asset": "assets/illustrations/skills/divine-wisdom-core.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-haniel.md": {
       "id": "trnightmare:haniel",
@@ -4524,8 +4530,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-material_creation.svg"
+      "asset": "assets/illustrations/skills/material-creation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-divide.md": {
       "id": "trnightmare:divide",

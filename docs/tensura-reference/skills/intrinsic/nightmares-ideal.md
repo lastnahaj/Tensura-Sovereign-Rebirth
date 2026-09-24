@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-ideal.svg" alt="Ideal emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/ideal.png" alt="Ideal source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Ideal.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Paragon - Physical attacks have a 100% chance to land critical.</p>
@@ -47,4 +47,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Ideal](https://tensuranightmares.wiki.gg/wiki/Ideal) on the Tensura Reincarnated Nightmares Wiki (revision `2935`, modified `2026-09-06T12:43:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Ideal](https://tensuranightmares.wiki.gg/wiki/File:Ideal.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-03T06:51:50Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

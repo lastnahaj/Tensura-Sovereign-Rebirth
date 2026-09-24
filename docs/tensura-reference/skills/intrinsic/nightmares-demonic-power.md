@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-demonic_power.svg" alt="Demonic Power emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/demonic-power.png" alt="Demonic Power source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Demonicpower.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>When mastered, Demonic Power will turn the user into a Majin. This will take 15,000 Magicules to do, if you are already majin this will not take magicules</p>
@@ -52,4 +52,6 @@ All</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Demonic Power](https://tensuranightmares.wiki.gg/wiki/Demonic_Power) on the Tensura Reincarnated Nightmares Wiki (revision `2634`, modified `2026-08-07T14:58:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Demonic Power](https://tensuranightmares.wiki.gg/wiki/File:Demonicpower.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-06T17:52:08Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

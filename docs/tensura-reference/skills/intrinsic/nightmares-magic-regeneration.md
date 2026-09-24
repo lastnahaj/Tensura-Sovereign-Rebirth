@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-magic_regeneration.svg" alt="Restoration emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/restoration.jpeg" alt="Restoration source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Magicule_regeneration.jpeg">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Restores a maximum of 10 Million Magicules to the player with a 30 minute cooldown. This cannot exceed your maximum magicules.</p>
@@ -49,4 +49,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Restoration](https://tensuranightmares.wiki.gg/wiki/Restoration) on the Tensura Reincarnated Nightmares Wiki (revision `2629`, modified `2026-08-07T14:50:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Restoration](https://tensuranightmares.wiki.gg/wiki/File:Magicule_regeneration.jpeg), Tensura Reincarnated Nightmares Wiki; uploaded by UnluckyWarl0ck (2025-05-31T20:12Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Wiki-hosted resized preview; no local edits.
+<!-- skill-artwork-credit:end -->

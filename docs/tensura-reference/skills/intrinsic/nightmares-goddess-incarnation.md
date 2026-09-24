@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-goddess_incarnation.svg" alt="Goddess Incarnation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/goddess-incarnation.png" alt="Goddess Incarnation illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Possesion - Works like Possesion , however it only needs 1 requirement instead of 2</p>
@@ -49,4 +49,6 @@ None</div></div></div><div class="druid-section-container"><div data-druid-secti
 
 Tensura Nightmares reference adapted from [Goddess Incarnation](https://tensuranightmares.wiki.gg/wiki/Goddess_Incarnation) on the Tensura Reincarnated Nightmares Wiki (revision `2910`, modified `2026-08-28T17:09:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

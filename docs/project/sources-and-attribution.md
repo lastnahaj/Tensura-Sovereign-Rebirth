@@ -140,6 +140,8 @@ Imported media is accepted only when its source File page supplies reusable lice
 
 The machine-readable records are available in the public repository: [Tensura media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_tensura_media.json) and [Mysticism media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_mysticism_media.json). These records are the detailed source-of-truth behind the human-readable ledger.
 
+The [skill artwork register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/skill_artwork.json) records reviewed Nightmares icons and original skill illustrations. Imported icons retain their wiki File page, uploader, upload timestamp, license evidence, and file checksum. Each affected skill article credits its image; original illustrations are labeled separately from in-game media.
+
 TSR-created branding, diagrams, icons, and concept artwork are identified as project assets. A visual inspired by a game system is not presented as an upstream screenshot or official franchise artwork. Links inherited from an adapted article—including Minecraft Wiki, Fandom, YouTube, or another mod wiki—remain outbound references and do not mean TSR copied material from those destinations.
 
 ## Reporting a source problem

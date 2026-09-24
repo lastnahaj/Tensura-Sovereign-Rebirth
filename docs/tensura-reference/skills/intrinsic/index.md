@@ -54,9 +54,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="A" data-search="avalon faerie blessing - attacks have a 75% chance to be dodged by the user.">
 <a href="nightmares-avalon/" aria-label="Open Avalon">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../../assets/illustrations/skills/avalon.png" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../../assets/upstream/nightmares/skills/avalon.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Avalon</h2>
@@ -190,8 +190,8 @@ hide:
 <article class="reference-card" data-letter="D" data-search="demonic power when mastered, demonic power will turn the user into a majin. this will take 15,000 magicules to do, if you are already majin this will not take magicules">
 <a href="nightmares-demonic-power/" aria-label="Open Demonic Power">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-demonic_power.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/demonic-power.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Demonic Power</h2>
@@ -249,9 +249,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="D" data-search="divine wisdom core information body: the user cannot exist without a host. they begin to lose 1% of their mp every 5 seconds when outside of a body or if they&#x27;re not bound to their host…">
 <a href="nightmares-divine-wisdom-core/" aria-label="Open Divine Wisdom Core">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-divine_wisdom_core.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/divine-wisdom-core.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Divine Wisdom Core</h2>
@@ -429,9 +429,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="G" data-search="goddess incarnation possesion - works like possesion , however it only needs 1 requirement instead of 2">
 <a href="nightmares-goddess-incarnation/" aria-label="Open Goddess Incarnation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-goddess_incarnation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/goddess-incarnation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Goddess Incarnation</h2>
@@ -460,8 +460,8 @@ hide:
 <article class="reference-card" data-letter="I" data-search="ideal paragon - physical attacks have a 100% chance to land critical.">
 <a href="nightmares-ideal/" aria-label="Open Ideal">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-ideal.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/ideal.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ideal</h2>
@@ -519,9 +519,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="L" data-search="lock - deactivates skill plundering, ep steal as well as many other effects">
 <a href="nightmares-lock/" aria-label="Open Lock">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-lock.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/lock.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Lock</h2>
@@ -549,9 +549,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="M" data-search="material creation understanding - once pressed, the user to begins to research a block they&#x27;re looking at or the item in their hand. they need to research an object 10 times to learn it…">
 <a href="nightmares-material-creation/" aria-label="Open Material Creation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-material_creation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/material-creation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Material Creation</h2>
@@ -670,8 +670,8 @@ hide:
 <article class="reference-card" data-letter="R" data-search="restoration restores a maximum of 10 million magicules to the player with a 30 minute cooldown. this cannot exceed your maximum magicules.">
 <a href="nightmares-magic-regeneration/" aria-label="Open Restoration">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-magic_regeneration.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/restoration.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Restoration</h2>

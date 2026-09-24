@@ -3210,7 +3210,7 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-magic-regeneration/": {
       "title": "Restoration",
-      "image": "assets/icons/skills/trnightmare-magic_regeneration.svg",
+      "image": "assets/upstream/nightmares/skills/restoration.jpeg",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
@@ -3228,13 +3228,13 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-lock/": {
       "title": "Lock",
-      "image": "assets/icons/skills/trnightmare-lock.svg",
+      "image": "assets/illustrations/skills/lock.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/intrinsic/nightmares-goddess-incarnation/": {
       "title": "Goddess Incarnation",
-      "image": "assets/icons/skills/trnightmare-goddess_incarnation.svg",
+      "image": "assets/illustrations/skills/goddess-incarnation.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
@@ -3264,13 +3264,13 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-ideal/": {
       "title": "Ideal",
-      "image": "assets/icons/skills/trnightmare-ideal.svg",
+      "image": "assets/upstream/nightmares/skills/ideal.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/intrinsic/nightmares-avalon/": {
       "title": "Avalon",
-      "image": "assets/illustrations/skills/avalon.png",
+      "image": "assets/upstream/nightmares/skills/avalon.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
@@ -3306,7 +3306,7 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-demonic-power/": {
       "title": "Demonic Power",
-      "image": "assets/icons/skills/trnightmare-demonic_power.svg",
+      "image": "assets/upstream/nightmares/skills/demonic-power.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
@@ -3414,7 +3414,7 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-divine-wisdom-core/": {
       "title": "Divine Wisdom Core",
-      "image": "assets/icons/skills/trnightmare-divine_wisdom_core.svg",
+      "image": "assets/illustrations/skills/divine-wisdom-core.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },
@@ -3600,7 +3600,7 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-material-creation/": {
       "title": "Material Creation",
-      "image": "assets/icons/skills/trnightmare-material_creation.svg",
+      "image": "assets/illustrations/skills/material-creation.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },

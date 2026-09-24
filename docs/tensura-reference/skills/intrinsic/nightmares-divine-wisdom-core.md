@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Intrinsic Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-divine_wisdom_core.svg" alt="Divine Wisdom Core emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/divine-wisdom-core.png" alt="Divine Wisdom Core illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Information Body: The user cannot exist without a host. They begin to lose 1% of their MP every 5 seconds when outside of a Body or if they&#x27;re not bound to their host. The user gains +14 Mastery and Learn Speed.</p>
@@ -58,4 +58,6 @@ Manas</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Divine Wisdom Core](https://tensuranightmares.wiki.gg/wiki/Divine_Wisdom_Core) on the Tensura Reincarnated Nightmares Wiki (revision `2934`, modified `2026-09-06T12:42:25Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

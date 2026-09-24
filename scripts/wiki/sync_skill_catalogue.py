@@ -340,7 +340,15 @@ def generate():
     records.extend(supplementary_records())
     source_records = {record["local_page"]: record for record in records}
     source_icons = {}
+    artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
     for page, decision in policy["pages"].items():
+        entry = artwork.get(decision['id'], {})
+        if entry.get('kind') == 'verified-source':
+            media = {**entry['media'], 'local_path': entry['asset'], 'kind': 'source'}
+            source_icons[page] = media
+            decision['asset'] = entry['asset']
+            if hashlib.sha256((DOCS / entry['asset']).read_bytes()).hexdigest() != media['sha256']:
+                raise ValueError(f'Source skill image checksum mismatch: {entry["asset"]}')
         if decision["namespace"] == "mysticism" and decision["status"] in ACTIVE:
             media = verified_source_icon(source_records.get(page))
             if media:
@@ -378,6 +386,19 @@ def generate():
                 caption = 'TSR skill artwork' if illustration else 'TSR skill emblem'
                 text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} {"illustration" if illustration else "emblem"}" width="96" height="96"><figcaption>{caption}</figcaption>' + m[2], text, count=1, flags=re.S)
                 text = replace_placeholder_media(text, page, asset, decision["title"])
+            if decision['id'] in artwork:
+                if media:
+                    credit = (f'Icon: [{decision["title"]}]({media["source_file_page"]}), '
+                              f'{media["source_title"]}; uploaded by {media["uploader"]} '
+                              f'({media["uploaded"]}). [{media["license"]}]({media["license_url"]}). '
+                              f'{media["modifications"]}')
+                else:
+                    credit = 'Original TSR skill artwork; an illustrated interpretation, not an in-game icon.'
+                credit_block = '<!-- skill-artwork-credit:start -->\n' + credit + '\n<!-- skill-artwork-credit:end -->'
+                if '<!-- skill-artwork-credit:start -->' in text:
+                    text = re.sub(r'<!-- skill-artwork-credit:start -->.*?<!-- skill-artwork-credit:end -->', lambda _m: credit_block, text, flags=re.S)
+                else:
+                    text = text.replace('Skill emblems are original TSR interface icons, not in-game artwork.', credit_block)
         outputs[page] = text
     active = []
     seen = set()
