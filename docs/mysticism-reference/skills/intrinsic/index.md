@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/intrinsic">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Intrinsic Skills</h1>
-<p>Intrinsic racial and species-linked skills.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>14</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Intrinsic Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/intrinsic">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Intrinsic Skills</h1><p>Intrinsic racial and species-linked skills.</p><span class="skill-entry-count">14 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../../../tensura-reference/skills/">All abilities</a><a href="../../../tensura-reference/skills/intrinsic/" aria-current="page">Intrinsic</a><a href="../../../tensura-reference/skills/common/">Common</a><a href="../../../tensura-reference/skills/extra/">Extra</a><a href="../../../tensura-reference/skills/unique/">Unique</a><a href="../../../tensura-reference/skills/ultimate/">Ultimate</a><a href="../../../tensura-reference/battlewill/">Battlewill</a><a href="../../../tensura-reference/magic/">Magic</a><a href="../../../tensura-reference/resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -43,7 +41,7 @@
 
 <p>When mastered, becomes toggleable.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -58,7 +56,7 @@
 
 <p>Channel your inner corrosion to burn and bleed of the flesh of your enemies</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -73,7 +71,7 @@
 
 <p>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without thundering weather.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -88,7 +86,7 @@
 
 <p>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that deal massive Electricity Damage to all those…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -103,7 +101,7 @@
 
 <p>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes Toggleable on mastery</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -118,7 +116,7 @@
 
 <p>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -133,7 +131,7 @@
 
 <p>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -148,7 +146,7 @@
 
 <p>Burst forth with great speed and power, enhancing your abilities for a short period of time.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -163,7 +161,7 @@
 
 <p>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -178,7 +176,7 @@
 
 <p>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -193,7 +191,7 @@
 
 <p>Channel your inner poison to inject deadly venom into your target trough every pore.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -208,7 +206,7 @@
 
 <p>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well. Relapse and claim what belongs to you.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -223,7 +221,7 @@
 
 <p>Light your fists and weaponry ablaze.&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -238,7 +236,7 @@
 
 <p>Become tenacious and repair your body. Since magic and mana itself has rejected you, utilise your pure aura alone.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

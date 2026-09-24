@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/unique">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Unique Skills</h1>
-<p>Unique-class skills and their documented mechanics.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>27</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Unique Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/unique">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Unique Skills</h1><p>Unique-class skills and their documented mechanics.</p><span class="skill-entry-count">27 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../../../tensura-reference/skills/">All abilities</a><a href="../../../tensura-reference/skills/intrinsic/">Intrinsic</a><a href="../../../tensura-reference/skills/common/">Common</a><a href="../../../tensura-reference/skills/extra/">Extra</a><a href="../../../tensura-reference/skills/unique/" aria-current="page">Unique</a><a href="../../../tensura-reference/skills/ultimate/">Ultimate</a><a href="../../../tensura-reference/battlewill/">Battlewill</a><a href="../../../tensura-reference/magic/">Magic</a><a href="../../../tensura-reference/resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -45,7 +43,7 @@
 
 <p>Oh, your heart, Aortic work of art, My love, my knife</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -60,7 +58,7 @@
 
 <p>Your previous life, you were the brightest, shining star. Your ability to turn lies into truths… Perhaps it’s the other way around? Whatever it may be, your eyes shine…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -75,7 +73,7 @@
 
 <p>ZA WARUDO!!! Wait, wrong one? Oh well, we got time, itll be fixed later</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -90,7 +88,7 @@
 
 <p>After 15 seconds of holding this ability down, this mode automatically turns off with a longer cooldown of 15 seconds.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -105,7 +103,7 @@
 
 <p>Corroder? More toxic than my ex somehow</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -120,7 +118,7 @@
 
 <p>The essence of &quot;deletion&quot;. Completely and utterly erase your foes from the plane of existence with the power of your sheer will alone.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -135,7 +133,7 @@
 
 <p>Embody the relentless pursuit of ascension, gathering and refining energy to reach unparalleled heights. A Cultivator walks the path of self-perfection and dominion…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -150,7 +148,7 @@
 
 <p>Save your current health, SHP, magicules, aura, and location. Reactivating Dream will restore your stats back to the saved values and instantly teleport you to the…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -165,7 +163,7 @@
 
 <p>Tinkering and tinkering. No one understood the machines as much as you did. In fact, no one understood you either. Perhaps it was always meant to be.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -180,7 +178,7 @@
 
 <p>The crops, the wild, everything was there for you. You sow the seeds and wish only for a bountiful harvest. And in turn, the crops bless you.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -195,7 +193,7 @@
 
 <p>The one who lurks in the shadows... Just waiting for things to happen. The one who answers your questions at every call...</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -210,7 +208,7 @@
 
 <p>&quot;A husk of what you formally were. The leftovers, discarded without a second thought when the split happened. Coldness seeps through your skin as you freeze everything…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -225,7 +223,7 @@
 
 <p>[Sub-Skill] Cold Clay - The user will learn Flame Attack Resistance when Malleable is acquired.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -240,7 +238,7 @@
 
 <p>Summon an aura of sorrow that slows and weakens nearby enemies, filling them with despair. The skill also throws objects or air, amplifying the feeling of hopelessness…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -255,7 +253,7 @@
 
 <p>&quot;When a man learns to love, he must also bear the risk of carrying hate&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -270,7 +268,7 @@
 
 <p>HERE, TAKE MY GLORIOUS STUFF! (I like these texts)</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -285,7 +283,7 @@
 
 <p>Damn bro, no magicules?</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -300,7 +298,7 @@
 
 <p>Any physical damage you perform will be repeated a second time.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -315,7 +313,7 @@
 
 <p>&quot;You seek to build a world of Truths. Are you prepared to scorch and burn everything in your path to make the truthful world you seek so badly?&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -330,7 +328,7 @@
 
 <p>The user of this skill can no longer gain any magicules, nor gain any more skills (except for the ones provided to them on reincarnation by their race, OR if a skill…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -345,7 +343,7 @@
 
 <p>Have you heard about the Scholar of 53?</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -360,7 +358,7 @@
 
 <p>Schrodinger? Like the cat?</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -375,7 +373,7 @@
 
 <p>The Soul formula is as follows: (Mainhand Weapon Damage + Base Atk Dmg) x Critical Multiplier (typically 1.5) / 5</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -390,7 +388,7 @@
 
 <p>Stagnate the world around you, could this be a jojo reference...?</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -405,7 +403,7 @@
 
 <p>Empower your allies to fight with you and benefit from their fait, start subjugating it!</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -420,7 +418,7 @@
 
 <p>You are the forerunner of victory, your presence declares near fated victory, both demon and angel of all battles.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -435,7 +433,7 @@
 
 <p>&quot;You seek to build a world of ideals. Be warned as not everyone shares the same ideals. Raze anything in your path with a clap of lightning.&quot;)</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

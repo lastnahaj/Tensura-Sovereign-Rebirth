@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/ultimate">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Ultimate Skills</h1>
-<p>Ultimate-class skills and related evolutions.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>0</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Ultimate Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">0 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../../../tensura-reference/skills/">All abilities</a><a href="../../../tensura-reference/skills/intrinsic/">Intrinsic</a><a href="../../../tensura-reference/skills/common/">Common</a><a href="../../../tensura-reference/skills/extra/">Extra</a><a href="../../../tensura-reference/skills/unique/">Unique</a><a href="../../../tensura-reference/skills/ultimate/" aria-current="page">Ultimate</a><a href="../../../tensura-reference/battlewill/">Battlewill</a><a href="../../../tensura-reference/magic/">Magic</a><a href="../../../tensura-reference/resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>

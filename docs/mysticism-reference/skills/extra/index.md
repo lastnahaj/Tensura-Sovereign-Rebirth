@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/extra">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Extra Skills</h1>
-<p>Extra-class skills and their documented progressions.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>9</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Extra Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/extra">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Extra Skills</h1><p>Extra-class skills and their documented progressions.</p><span class="skill-entry-count">9 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../../../tensura-reference/skills/">All abilities</a><a href="../../../tensura-reference/skills/intrinsic/">Intrinsic</a><a href="../../../tensura-reference/skills/common/">Common</a><a href="../../../tensura-reference/skills/extra/" aria-current="page">Extra</a><a href="../../../tensura-reference/skills/unique/">Unique</a><a href="../../../tensura-reference/skills/ultimate/">Ultimate</a><a href="../../../tensura-reference/battlewill/">Battlewill</a><a href="../../../tensura-reference/magic/">Magic</a><a href="../../../tensura-reference/resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -38,7 +36,7 @@
 
 <p>Command your absolute authority over Deceleration, allowing you to freeze all enemies with ice and spew superchilled ice. Additionally, freeze the surroundings into ice.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -53,7 +51,7 @@
 
 <p>Boosts the power of Darkness abilities by a great amount.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -68,7 +66,7 @@
 
 <p>Boosts the power of Darkness abilities by a decent amount.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -83,7 +81,7 @@
 
 <p>Boosts the power of Ice abilities by a great amount.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -98,7 +96,7 @@
 
 <p>Boosts the power of Ice abilities by a decent amount.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -113,7 +111,7 @@
 
 <p>Boost the power of Light abilities by a great amount.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -128,7 +126,7 @@
 
 <p>Boosts the power of Light abilities by a decent amount</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -143,7 +141,7 @@
 
 <p>Turn your muscles as hard as Mithril and gain an increase in damage, toggleable when mastered.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -158,7 +156,7 @@
 
 <p>Command your absolute authority over Acceleration, allowing you to inflict all enemies with fire and spew superheated flames. Additionally, melt the surroundings into…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

@@ -59,9 +59,11 @@ extra_css:
   - assets/stylesheets/extra.css
   - assets/stylesheets/home.css
   - assets/stylesheets/races.css
+  - assets/stylesheets/skills.css
 
 extra_javascript:
   - assets/javascripts/reference.js
+  - assets/javascripts/skills.js
   - assets/javascripts/modlist.js
   - assets/javascripts/server-status.js
   - assets/javascripts/onboarding.js

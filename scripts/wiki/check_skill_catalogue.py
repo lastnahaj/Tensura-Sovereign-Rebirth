@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 
 from skill_catalogue import ACTIVE, ROOT, catalogue, inventory, nightmares_manifest
 from sync_skill_catalogue import DOCS, LABELS, generate, render_acquisition_markdown, route
+from skill_presentation import CATEGORIES
 
 
 class FragmentParser(HTMLParser):
@@ -42,6 +43,32 @@ def main():
     nightmares = nightmares_manifest()
     active = {p: d for p, d in policy["pages"].items() if d["status"] in ACTIVE}
     active_routes = {route(p): d for p, d in active.items()}
+    ability_search = json.loads(outputs['assets/data/skill-search.json'])
+    if {entry['route'] for entry in ability_search} != set(active_routes) or len(ability_search) != len(active_routes):
+        errors.append('Ability search must contain each active skill exactly once')
+    for entry in ability_search:
+        decision = active_routes.get(entry['route'])
+        if decision and any(entry[key] != decision[key] for key in ('title', 'category', 'status')):
+            errors.append(f'Ability search loses catalogue metadata: {entry["route"]}')
+        if not entry['image'] or not (DOCS / entry['image']).is_file():
+            errors.append(f'Ability search image missing: {entry["route"]}')
+    hub_page = 'tensura-reference/skills/index.md'
+    hub = BeautifulSoup(outputs[hub_page], 'html.parser')
+    tiles = hub.select('.skill-category-tile')
+    targets = {posixpath.normpath(posixpath.join(route(hub_page), tile['href'])).rstrip('/') for tile in tiles}
+    if targets != {'tensura-reference/' + category for category in CATEGORIES} or len(tiles) != 8:
+        errors.append('Ability hub must link to all eight unified categories')
+    for tile in tiles:
+        destination = posixpath.normpath(posixpath.join(route(hub_page), tile['href']))
+        directory = BeautifulSoup(outputs[destination.rstrip('/') + '/index.md'], 'html.parser')
+        if tile.select_one('.skill-category-count').get_text() != f'{len(directory.select(".reference-card"))} entries':
+            errors.append(f'Ability hub category count mismatch: {destination}')
+    if not BeautifulSoup(outputs['tensura-reference/battlewill/index.md'], 'html.parser').select_one('.reference-directory-overview-link'):
+        errors.append('Battlewill overview link missing')
+    if not hub.select_one('label[for="skill-hub-search"]') or not hub.select_one('.skill-finder-status[role="status"]'):
+        errors.append('Ability search lacks its accessible label or status')
+    if not hub.select_one('.reference-media-credits a[href]'):
+        errors.append('Ability hub lacks image attribution')
     for page in ("tensura-reference/magic/aspectual-possession.md", "tensura-reference/magic/aspectual-strength.md", "mysticism-reference/core-mechanics/effects-lightning-mode.md"):
         if page in policy["pages"]:
             errors.append(f"Non-skill name collision: {page}")
@@ -56,6 +83,8 @@ def main():
     for category in LABELS:
         page = "tensura-reference/" + category + "/index.md"
         soup = BeautifulSoup(outputs[page], "html.parser")
+        if soup.select_one('.reference-directory-hero') or not soup.select_one('.skill-directory-heading'):
+            errors.append(f'Legacy ability banner remains: {page}')
         for link in soup.select(".reference-card > a[href]"):
             target = posixpath.normpath(posixpath.join(route(page), urlsplit(link["href"]).path)).rstrip("/") + "/"
             decision = active_routes.get(target)
@@ -122,6 +151,19 @@ def main():
             return parser.ids
 
         site = ROOT / "site"
+        for page in [hub_page] + ['tensura-reference/' + category + '/index.md' for category in LABELS]:
+            document = site / route(page) / 'index.html'
+            section = BeautifulSoup(document.read_text(encoding='utf-8'), 'html.parser')
+            for element in section.select('.skill-hub a[href], .skill-hub img[src], .skill-type-nav a[href]'):
+                value = element.get('href') or element['src']
+                url = urlsplit(value)
+                if url.scheme or url.netloc:
+                    continue
+                destination = (document.parent / unquote(url.path)).resolve()
+                if destination.is_dir():
+                    destination /= 'index.html'
+                if not destination.is_relative_to(site.resolve()) or not destination.is_file():
+                    errors.append(f'Missing ability hub destination: {page} -> {value}')
         search = json.loads((site / "search/search_index.json").read_text(encoding="utf-8"))
         indexed = {entry["location"].split("#")[0] for entry in search["docs"]}
         parsed = {}

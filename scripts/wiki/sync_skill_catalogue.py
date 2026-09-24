@@ -13,6 +13,7 @@ from urllib.parse import unquote, urlsplit, urlunsplit
 from bs4 import BeautifulSoup
 
 from skill_catalogue import ROOT, POOL, ACTIVE, catalogue
+from skill_presentation import style_directory, generate_hub
 
 DOCS = ROOT / "docs"
 BEGIN, END = "<!-- skill-catalogue:start -->", "<!-- skill-catalogue:end -->"
@@ -391,11 +392,14 @@ def generate():
             record["_html"] = outputs[record["local_page"]]
         active.append(record)
     for category in LABELS:
-        outputs[f"tensura-reference/{category}/index.md"] = generate_category_index(category, active)
+        page = f"tensura-reference/{category}/index.md"
+        outputs[page] = style_directory(generate_category_index(category, active), category, page)
+    outputs.update(generate_hub(active, policy, outputs))
     # Source-specific directory URLs remain usable but obey the same eligibility gate.
     configure_source("mysticism")
     for category in ("skills/extra", "skills/intrinsic", "skills/unique", "skills/ultimate", "skills/other"):
-        outputs[f"mysticism-reference/{category}/index.md"] = generate_category_index(category, [r for r in active if r["local_page"].startswith("mysticism-reference/")])
+        page = f"mysticism-reference/{category}/index.md"
+        outputs[page] = style_directory(generate_category_index(category, [r for r in active if r["local_page"].startswith("mysticism-reference/")]), category, page)
     configure_source("tensura")
     exported = {"schema": 1, "minecraft": "1.21.1", "inventory_sha256": hashlib.sha256(POOL.read_bytes()).hexdigest(), "pages": policy["pages"]}
     outputs["assets/data/skill-catalogue.json"] = json.dumps(exported, indent=2, ensure_ascii=False) + "\n"

@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/ultimate">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Ultimate Skills</h1>
-<p>Ultimate-class skills and related evolutions.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>66</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Ultimate Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">66 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="./" aria-current="page">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -48,7 +46,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;The judge has spoken. Your verdict stands&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -63,7 +61,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -78,7 +76,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Flame Authority - When this skill is toggled on, it increases Flame Damage to x6. (Doesn&#x27;t stack with Flame Manipulation or Domination. ). And bypassess Flame Attack…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -93,7 +91,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -108,7 +106,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>When this is Bestowed to you, u get one of the seven different abilities</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -123,7 +121,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;I command thee KNEEL&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -138,7 +136,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Precision Miner - The user gains the effects of Fortune 2 and Luck 5.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -153,7 +151,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -168,7 +166,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Asmodeus is in truth, the ability to subdue and enslave life itself&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -183,7 +181,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -198,7 +196,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -213,7 +211,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Insert Rheinhardt quote here&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -228,7 +226,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Your Skills will have no effect against me&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -243,7 +241,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;This is it. The Peak over Power&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -258,7 +256,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Tempter can obtain Seeker by mastering 50 Aspectual Magics</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -273,7 +271,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Guardian Gets Gourmet After eatting 10 royal blood</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -288,7 +286,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Gluttony obtains merciless at 11k soul</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -303,7 +301,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;&#x27;What do you have there?&#x27; &#x27;Nothing&#x27; The suspiciously Nihility based skill of Mass destruction being wielded:&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -318,7 +316,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Lord of Lethargy: Whenever the user sleeps in a bed, they fully restore a large sum of magicules, and any amount that would bring them above 100% is stored as temp MP.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -333,7 +331,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>When used normally, the user accelerators forward at high speeds dealing a massive amount of damage in a straight line. 350 (500 Flame Damage when mastered) + Attack…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -348,7 +346,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Eversleeping he stays, as his awakening is the end of humanity&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -363,7 +361,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Da steh ich nun, ich armer Tor. Und bin so klug als wie zuvor&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -378,7 +376,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;ZAA WARUDOOO. What do you mean &#x27;not the right one&#x27;?&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -393,7 +391,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -408,7 +406,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>True Golden Rule - Grants a permanent Luck 10 effects</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -423,7 +421,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Parallel Processing - Increases the amount of Learned Points and Mastery Points gained when learning/using Skills, Magic, Battlewill, and Arts by 14 (15 Total). The…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -438,7 +436,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Above all else, i will regenerate, no matter the Injury&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -453,7 +451,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Thou attempts are pityfull, as my Glory shalt outshine thy being forevermore&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -468,7 +466,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Woof. King in Yellow not included&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -483,7 +481,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -498,7 +496,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>This is the Ultimate Skill of Pride. This is obtained when the user has Mastered the Unique Skill Pride and endures a hit a target with an Ultimate Skill.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -513,7 +511,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Absorb Life: While Mammon is in slot, the user&#x27;s attacks will steal a small amount of MP, AP or Barrier Points.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -528,7 +526,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;The power to sort out all mixed laws, prevent interference, and select pure energy&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -543,7 +541,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>(The castle guard can be bypassed by Nova Break.)</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -558,7 +556,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Honestly, not in the mood to make a Funny text rn&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -573,7 +571,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -588,7 +586,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;This is absurd, one of the strongest abilities concieved!&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -603,7 +601,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>All of Creation - Learn all schematics and aspcetual Magics</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -618,7 +616,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Amplification and Thought Acceleration - The user regenerates Magicules x2 as fast (4x as fast on mastery). The user gains +2 Learning and Mastery Points. Increase…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -633,7 +631,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -648,7 +646,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -663,7 +661,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Oi mate, this is spider Central HQ; your gonna get poisoned no matter what you do&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -678,7 +676,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;The judge has spoken. Your verdict stands&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -693,7 +691,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -708,7 +706,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Breaking Point - While you have the Rampage Effect, the durability damage you cause from attacking armor will increase based off the Rampage Level.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -723,7 +721,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Note: This will store your version of Uriel inside of Shub-Niggurath&#x27;s [ Skill Storage ]</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -738,7 +736,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -753,7 +751,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;Oh cool you got Infinite Regeneration. how about I just Ignore that&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -768,7 +766,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Daemonic Heart - The user and all of their Subordinates become Majins.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -783,7 +781,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Soul Collection - The user deals bonus Spiritual Damage equal to 5% of their Souls on their Physical Attacks.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -798,7 +796,7 @@
 
 <p>Bubble Majin&#x27;s Ultimate evolution.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -813,7 +811,7 @@
 
 <p>Sealer&#x27;s Ultimate evolution.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -828,7 +826,7 @@
 
 <p>Dragon Slayer&#x27;s Ultimate evolution.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -843,7 +841,7 @@
 
 <p>Great Mage&#x27;s Ultimate evolution.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -858,7 +856,7 @@
 
 <p>Imprisoned Jester&#x27;s Ultimate evolution.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -873,7 +871,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Banner of the Supreme King -The user&#x27;s slain subordinates become a Memory. The user loses max EP equal to the subordinates EP. The Memory is automatically stored in […</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -888,7 +886,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;You merely adopted the Dark. i was born in it, molded by it&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -903,7 +901,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Magic Alteration: When toggled, the user can cast any Magic that&#x27;s mastered within an Anti-Magic Area. If the player&#x27;s EP is above 1.000.000, their mastered magic and…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -918,7 +916,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -933,7 +931,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Storm-Type Magic - The user gains the Storm Magics. Their Lightning, Wind and Water Damage gets increased by 50%.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -948,7 +946,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Unobtainable due to no model for boss</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -963,7 +961,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Scorch-Type Magic - The user gains the Scorch Magics. Also boosts their Fire, Heat and Light Damage by 50%.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -978,7 +976,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Frost-Type Magic - The user gains the Frost Magics. Also boosts their Cold Damage by 50%.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -993,7 +991,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>This Also costs 250k MP to use</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -1008,7 +1006,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>&quot;TIME; THOU SHALL FOLLOW MY COMMAND!!!&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -1023,7 +1021,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Divine Blessing of Faith - The user&#x27;s max Spritirons is 1,500. You passively generate 15 Spiritrons a second.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

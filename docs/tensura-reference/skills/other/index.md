@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/other">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Other Skills</h1>
-<p>Skills outside the primary class directories.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>0</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Other Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/other">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Other Skills</h1><p>Skills outside the primary class directories.</p><span class="skill-entry-count">0 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="../ultimate/">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>

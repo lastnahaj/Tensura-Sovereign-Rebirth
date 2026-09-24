@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/intrinsic">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Intrinsic Skills</h1>
-<p>Intrinsic racial and species-linked skills.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>55</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Intrinsic Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/intrinsic">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Intrinsic Skills</h1><p>Intrinsic racial and species-linked skills.</p><span class="skill-entry-count">55 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="./" aria-current="page">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="../ultimate/">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -50,7 +48,7 @@
 
 <p>Dissolve specific items to instantly consume them.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -65,7 +63,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Faerie Blessing - Attacks have a 75% chance to be dodged by the user.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -80,7 +78,7 @@
 
 <p>Transform into a beast to restore your vitality and boost your physical body. The transformation will grant great physical prowess but leave a toll on your body.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -95,7 +93,7 @@
 
 <p>Spill your own blood to summon a mist which steals the vitality of your enemies and can be blown up to harm any nearby entities or shoot a powerful blood beam.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -110,7 +108,7 @@
 
 <p>Protect yourself from harm by summoning armoursaurus scales around your body.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -125,7 +123,7 @@
 
 <p>When mastered, becomes toggleable.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -140,7 +138,7 @@
 
 <p>Use your inherent power to turn your opponents neutral or to temporarily dominate weak opponents.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -155,7 +153,7 @@
 
 <p>An area taunt granted by the Hardshell Ant evolution line.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -170,7 +168,7 @@
 
 <p>Channel your inner corrosion to burn and bleed of the flesh of your enemies</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -185,7 +183,7 @@
 
 <p>Channel your inner darkness to burn and blind nearby opponents.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -200,7 +198,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>When mastered, Demonic Power will turn the user into a Majin. This will take 15,000 Magicules to do, if you are already majin this will not take magicules</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -215,7 +213,7 @@
 
 <p>Strike a bolt of lightning using your inner bio-electricity generated from a sac within you. Can be used without thundering weather.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -230,7 +228,7 @@
 
 <p>You are the calamity. You are the storm, and you are approaching. Strike lightning in all cardinal directions that deal massive Electricity Damage to all those…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -245,7 +243,7 @@
 
 <p>Use your Divine Ki to amplify your battlewill to deal more damage and destroy weaker equipment.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -260,7 +258,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Information Body: The user cannot exist without a host. They begin to lose 1% of their MP every 5 seconds when outside of a Body or if they&#x27;re not bound to their host…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -275,7 +273,7 @@
 
 <p>Use your sensitive hearing to precisely pin the location of any nearby mobs which make sound.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -290,7 +288,7 @@
 
 <p>Use your powerful sight to access the power of any entities and see in the far distance.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -305,7 +303,7 @@
 
 <p>Once a day, draw out your monstrous potential to double your EP and to boost your physical prowess. Doing this will leave a temporary toll on your body.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -320,7 +318,7 @@
 
 <p>Transform your skin into scales which become tougher as you gain more EP</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -335,7 +333,7 @@
 
 <p>Steal the vitality of your opponent and temporarily transform this skill into one of theirs to potentially turn the tables.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -350,7 +348,7 @@
 
 <p>Channel the powers of the earth to deal increased damage and increase local gravity around you.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -365,7 +363,7 @@
 
 <p>Reinforce your shell, making it much harder and gaining progressively stronger armor depending on your EP. Becomes Toggleable on mastery</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -380,7 +378,7 @@
 
 <p>By obtaining the mythical Hero Egg, the veil of deception is torn apart. No illusion or concealment can deceive your sight, and your vision becomes perfect.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -395,7 +393,7 @@
 
 <p>Spew fire to burn away enemies and set fire to the land.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -410,7 +408,7 @@
 
 <p>Channel the powers of fire to burn all nearby foes.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -425,7 +423,7 @@
 
 <p>Cut back on the cookies.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -440,7 +438,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Possesion - Works like Possesion , however it only needs 1 requirement instead of 2</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -455,7 +453,7 @@
 
 <p>Rupture the floor, raising your natural body temperature to liquefy all surfaces around you to molten levels.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -470,7 +468,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Paragon - Physical attacks have a 100% chance to land critical.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -485,7 +483,7 @@
 
 <p>As the King of Scorpions, your poison is highly dangerous. An upgrade to the Poison skill.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -500,7 +498,7 @@
 
 <p>Channel your inner light to deal holy damage and nauseate all nearby entities.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -515,7 +513,7 @@
 
 <p>Burst forth with great speed and power, enhancing your abilities for a short period of time.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -530,7 +528,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>- deactivates skill plundering, Ep steal as well as many other effects</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -545,7 +543,7 @@
 
 <p>Have a body made of magisteel, making it much harder and gaining progressively stronger armor depending on your EP.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -560,7 +558,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Understanding - Once pressed, the user to begins to research a block they&#x27;re looking at or the item in their hand. They need to research an object 10 times to learn it…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -575,7 +573,7 @@
 
 <p>Allow rage to consume you to massively improve your physical powers for a time before the aftereffects set in.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -590,7 +588,7 @@
 
 <p>Spew a horrifying breath to paralyze your prey.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -605,7 +603,7 @@
 
 <p>Channel your inner paralysis to emit paralyzing enzymes that make your target go numb from just your presence</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -620,7 +618,7 @@
 
 <p>Channel your inner poison to inject deadly venom into your target trough every pore.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -635,7 +633,7 @@
 
 <p>Use your disgusting breath to corrode and nauseate your targets.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -650,7 +648,7 @@
 
 <p>Possess a weakened material body to gain access to a whole new world.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -665,7 +663,7 @@
 
 <p>Collapse back into whence you came. Your memory is fleeting and the people you once knew start to forget you as well. Relapse and claim what belongs to you.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -680,7 +678,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Restores a maximum of 10 Million Magicules to the player with a 30 minute cooldown. This cannot exceed your maximum magicules.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -695,7 +693,7 @@
 
 <p>Like the lizardmen, move through water and mud with no penalties while receiving a slight defense buff.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -710,7 +708,7 @@
 
 <p>Kitsune claw damage with a mastered upgrade.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -725,7 +723,7 @@
 
 <p>Channel the powers of space to weaken and damage all nearby entities.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -740,7 +738,7 @@
 
 <p>Light your fists and weaponry ablaze.&quot;</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -755,7 +753,7 @@
 
 <p>Become tenacious and repair your body. Since magic and mana itself has rejected you, utilise your pure aura alone.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -770,7 +768,7 @@
 
 <p>Release thunder from your mouth to damage foes in front of you.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -785,7 +783,7 @@
 
 <p>You should have listened when we said to cut back.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -800,7 +798,7 @@
 
 <p>Shoot out a screech of sound which damages physical bodies or use echolocation to highlight nearby entities.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -815,7 +813,7 @@
 
 <p>In the hands of a True Hero, unpredictability reigns supreme. The Hero sees all, becoming able to ignore dodge and even read the movements of their opponent to disable…</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -830,7 +828,7 @@
 
 <p>Remove the requirement of air underwater.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -845,7 +843,7 @@
 
 <p>Channel the powers of water to damage and poison all nearby foes.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -860,7 +858,7 @@
 
 <p>Channel the powers of wind to paralyze and damage all nearby entities.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

@@ -1,16 +1,13 @@
-<section class="reference-directory" data-reference-directory="battlewill">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Battlewill</h1>
-<p>Aura-powered Battlewill techniques and manuals.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>26</strong> articles</span>
-<a class="reference-directory-overview-link" href="battlewill/">Read collection overview <span aria-hidden="true">→</span></a>
-</div>
-</div>
-</header>
+---
+title: "Battlewill"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="battlewill">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Battlewill</h1><p>Aura-powered Battlewill techniques and manuals.</p><span class="skill-entry-count">26 entries</span><a class="reference-directory-overview-link" href="battlewill/">Read collection overview <span aria-hidden="true">→</span></a></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../skills/">All abilities</a><a href="../skills/intrinsic/">Intrinsic</a><a href="../skills/common/">Common</a><a href="../skills/extra/">Extra</a><a href="../skills/unique/">Unique</a><a href="../skills/ultimate/">Ultimate</a><a href="./" aria-current="page">Battlewill</a><a href="../magic/">Magic</a><a href="../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -47,7 +44,7 @@
 
 <p>Use your aura to propel you forward, and hover in air</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -62,7 +59,7 @@
 
 <p>Create a shield of condensed aura to block attacks</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -77,7 +74,7 @@
 
 <p>Condense your aura along your blade and release a ranged slash</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -92,7 +89,7 @@
 
 <p>Coat your weapon in aura enhancing its blows</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -107,7 +104,7 @@
 
 <p>In all these locations its 50% chance</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -122,7 +119,7 @@
 
 <p>Create a shield of condensed aura to block attacks</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -137,7 +134,7 @@
 
 <p>Launch up to eight devastating aura blasts at foes</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -152,7 +149,7 @@
 
 <p>Gather your aura into a ring of devastating aura spheres that come crashing down</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -167,7 +164,7 @@
 
 <p>Harden your aura around you to block incoming attacks</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -182,7 +179,7 @@
 
 <p>Stomp your foot down upheaving the land around you</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -197,7 +194,7 @@
 
 <p>Throw a ring of aura spheres around you</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -212,7 +209,7 @@
 
 <p>Convert Magicules into Aura and unlock Maximum Charge.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -227,7 +224,7 @@
 
 <p>Match your aura to the surroundings, which makes you imperceptible.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -242,7 +239,7 @@
 
 <p>Wrap yourself in a cloak of aura concealing yourself from even the most of heightened of senses</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -257,7 +254,7 @@
 
 <p>Channel your aura into your arms and bring down a mountain-splitting slash</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -272,7 +269,7 @@
 
 <p>Gather your aura at your feet to travel faster than the eye can see</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -287,7 +284,7 @@
 
 <p>Gather your aura into a powerful blast</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -302,7 +299,7 @@
 
 <p>The mastered upgrade unlocked from Energy Charge.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -317,7 +314,7 @@
 
 <p>Gather your aura into a gargantuan blast obliterating all who dare oppose you</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -332,7 +329,7 @@
 
 <p>Use your aura to create a pillar of fire</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -347,7 +344,7 @@
 
 <p>Condense your aura into a blade projectile</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -362,7 +359,7 @@
 
 <p>Coat your weapon in aura enhancing its blows</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -377,7 +374,7 @@
 
 <p>Create a shield of condensed aura to block attacks</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -392,7 +389,7 @@
 
 <p>Focus your aura into a fearsome blow with the regalness of a lion</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -407,7 +404,7 @@
 
 <p>Fight a clone of your own stats for training rewards.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -422,7 +419,7 @@
 
 <p>Channel your aura recklessly enhancing your strength and cleansing you of any negative effects</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>

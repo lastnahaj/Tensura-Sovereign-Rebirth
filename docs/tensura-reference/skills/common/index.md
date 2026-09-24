@@ -1,15 +1,13 @@
-<section class="reference-directory" data-reference-directory="skills/common">
-<header class="reference-directory-hero reference-theme-abilities">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="eager" decoding="async">
-<div class="reference-directory-hero-copy">
-<p class="reference-eyebrow">Tensura reference collection</p>
-<h1>Common Skills</h1>
-<p>Common skills and broadly available abilities.</p>
-<div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>20</strong> articles</span>
-</div>
-</div>
-</header>
+---
+title: "Common Skills"
+hide:
+  - navigation
+  - toc
+---
+
+<section class="reference-directory skill-directory" data-reference-directory="skills/common">
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Common Skills</h1><p>Common skills and broadly available abilities.</p><span class="skill-entry-count">20 entries</span></header>
+<nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="./" aria-current="page">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="../ultimate/">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
 <span>Filter this collection</span>
@@ -44,7 +42,7 @@
 
 <p>Unleash a deafening roar in front of you scaring any afflicted entities.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -59,7 +57,7 @@
 
 <p>Empower your attacks with the deadly effect of Corrosion, with mastery you can do this automatically.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -74,7 +72,7 @@
 
 <p>Focus your eyes and become able to see things far away.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -89,7 +87,7 @@
 
 <p>Weaken gravity around yourself to make movement easier or create a variously sized sphere granting previous effects while debuffing enemies.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -104,7 +102,7 @@
 
 <p>Manipulate gravity to allow flight, your momentum from before will be continued.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -119,7 +117,7 @@
 
 <p>Propel yourself at high speeds underwater.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -134,7 +132,7 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The inner world is a place where you aren&#x27;t supposed to be able to build or break existing blocks</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -149,7 +147,7 @@
 
 <p>Convert Magicules into Hunger.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -164,7 +162,7 @@
 
 <p>Spend Magicules to pull nearby items.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -179,7 +177,7 @@
 
 <p>Empower your attacks with the effect of Paralysis, with mastery you can do this automatically.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -194,7 +192,7 @@
 
 <p>Empower your attacks with the effect of Poison, with mastery you can do this automatically.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -209,7 +207,7 @@
 
 <p>Apply Bleeding with every melee hit.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -224,7 +222,7 @@
 
 <p>Place down differently sized barriers which block enemies in or out. Strong attacks or special effects can still destroy it.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -239,7 +237,7 @@
 
 <p>Speed up your body’s natural regeneration to increase your survivability.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -254,7 +252,7 @@
 
 <p>Use magicules to strengthen your muscles.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -269,7 +267,7 @@
 
 <p>Give orders to tames when looking at them through commands.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -284,7 +282,7 @@
 
 <p>Send commands to nearby allies and become able to have them attack players.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -299,7 +297,7 @@
 
 <p>Unleash a powerful roar decimating all weak enemies in the way.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -314,7 +312,7 @@
 
 <p>Shoot out a blade of water which flies in a straight line.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
@@ -329,7 +327,7 @@
 
 <p>Manipulate water around you to propel yourself in any direction.</p>
 
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
