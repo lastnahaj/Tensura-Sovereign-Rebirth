@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-spacetime_manipulation.svg" alt="Spacetime Manipulation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/spacetime-manipulation.png" alt="Spacetime Manipulation illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Spacetime Infliction - Increases Spatial Damage by 4x.</p>
@@ -59,4 +59,6 @@ Obtained by having one of the following skills: <a href="../../ultimate/nightmar
 
 Tensura Nightmares reference adapted from [Spacetime Manipulation](https://tensuranightmares.wiki.gg/wiki/Spacetime_Manipulation) on the Tensura Reincarnated Nightmares Wiki (revision `2943`, modified `2026-09-06T12:56:39Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

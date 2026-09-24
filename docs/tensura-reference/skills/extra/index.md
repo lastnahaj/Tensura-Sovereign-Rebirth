@@ -202,9 +202,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="concentrator mp regeneration - regenerates 0.5% mp every 5 seconds">
 <a href="nightmares-concentrator/" aria-label="Open Concentrator">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-concentrator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/concentrator.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Concentrator</h2>
@@ -382,9 +382,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="F" data-search="forbidden knowledge forbidden knowledge - boost learning and mastery points by 8 points">
 <a href="nightmares-forbidden-knowledge/" aria-label="Open Forbidden Knowledge">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-forbidden_knowledge.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/forbidden-knowledge.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Forbidden Knowledge</h2>
@@ -472,9 +472,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="G" data-search="gravity flux disrupt a target with fluctuating gravity or burden.">
 <a href="gravity-flux/" aria-label="Open Gravity Flux">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-gravity_flux.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/gravity-flux.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gravity Flux</h2>
@@ -607,9 +607,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="H" data-search="holy demonic inversion alignment - if the user is chaos, turn the user into holy alignment">
 <a href="nightmares-holy-demonic-inversion/" aria-label="Open Holy Demonic Inversion">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-holy_demonic_inversion.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/holy-demonic-inversion.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Holy Demonic Inversion</h2>
@@ -1087,9 +1087,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="M" data-search="mystic aura the mystic aura effect lets the user deal mystic damage, which bypasses antiskill and deals a combination of magic/battlewill damage">
 <a href="nightmares-mystic-aura/" aria-label="Open Mystic Aura">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-mystic_aura.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/mystic-aura.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mystic Aura</h2>
@@ -1102,9 +1102,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="P" data-search="prayer pray - when subordinates are near while this skill is held, generate spiritrons. the amount of spiritrons is dependant on the amount of subordinates near">
 <a href="nightmares-prayer/" aria-label="Open Prayer">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-prayer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/prayer.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Prayer</h2>
@@ -1297,9 +1297,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="spacetime domination time stop (requires learning) - when used, it will stop time in the local area, rendering all things still. time will be stopped for 9 seconds. (11 when mastered) some…">
 <a href="nightmares-spacetime-domination/" aria-label="Open Spacetime Domination">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-spacetime_domination.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/spacetime-domination.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Spacetime Domination</h2>
@@ -1312,9 +1312,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="spacetime manipulation spacetime infliction - increases spatial damage by 4x.">
 <a href="nightmares-spacetime-manipulation/" aria-label="Open Spacetime Manipulation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-spacetime_manipulation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/spacetime-manipulation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Spacetime Manipulation</h2>

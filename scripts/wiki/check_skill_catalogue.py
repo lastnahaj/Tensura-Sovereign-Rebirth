@@ -50,6 +50,9 @@ def main():
     pool = inventory()
     nightmares = nightmares_manifest()
     active = {p: d for p, d in policy["pages"].items() if d["status"] in ACTIVE}
+    for page, decision in active.items():
+        if decision['category'] in {'skills/intrinsic', 'skills/common'} and generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
+            errors.append(f'Legacy emblem returned to a completed skill category: {page}')
     active_routes = {route(p): d for p, d in active.items()}
     ability_search = json.loads(outputs['assets/data/skill-search.json'])
     if {entry['route'] for entry in ability_search} != set(active_routes) or len(ability_search) != len(active_routes):

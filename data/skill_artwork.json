@@ -158,6 +158,86 @@
         "article": "https://tensuranightmares.wiki.gg/wiki/Inner_World",
         "result": "No skill image appears in the live article."
       }
+    },
+    "mysticism:gravity_flux": {
+      "asset": "assets/illustrations/skills/gravity-flux.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://trmysticism.wiki.gg/wiki/Special:Search?search=Gravity+Flux&ns0=1",
+        "result": "Wiki search returns a race reference, but no dedicated skill article or reusable skill image."
+      }
+    },
+    "trnightmare:concentrator": {
+      "asset": "assets/illustrations/skills/concentrator.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Concentrator",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:forbidden_knowledge": {
+      "asset": "assets/illustrations/skills/forbidden-knowledge.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Forbidden_Knowledge",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:holy_demonic_inversion": {
+      "asset": "assets/illustrations/skills/holy-demonic-inversion.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Holy_Demonic_Inversion,",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:mystic_aura": {
+      "asset": "assets/illustrations/skills/mystic-aura.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Mystic_Aura",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:prayer": {
+      "asset": "assets/illustrations/skills/prayer.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Prayer",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:spacetime_manipulation": {
+      "asset": "assets/illustrations/skills/spacetime-manipulation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Spacetime_Manipulation",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:spacetime_domination": {
+      "asset": "assets/illustrations/skills/spacetime-domination.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Spacetime_Domination",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
     }
   }
 }

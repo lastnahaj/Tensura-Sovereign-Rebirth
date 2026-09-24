@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-spacetime_domination.svg" alt="Spacetime Domination emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/spacetime-domination.png" alt="Spacetime Domination illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Time Stop (Requires Learning) - When used, it will stop time in the local area, rendering all things still. Time will be stopped for 9 Seconds. (11 when mastered) Some entities can bypass this, and moved in Stopped Time, if they have mastered Spacetime Manipulation, Have a Time Manipulation Skill or are a Time Soul.</p>
@@ -49,4 +49,6 @@ Obtained by mastering <a href="../nightmares-spacetime-manipulation/" title="Spa
 
 Tensura Nightmares reference adapted from [Spacetime Domination](https://tensuranightmares.wiki.gg/wiki/Spacetime_Domination) on the Tensura Reincarnated Nightmares Wiki (revision `2893`, modified `2026-08-26T18:10:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

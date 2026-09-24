@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-holy_demonic_inversion.svg" alt="Holy Demonic Inversion emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/holy-demonic-inversion.png" alt="Holy Demonic Inversion illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Alignment - If the user is Chaos, turn the user into holy Alignment</p>
@@ -52,4 +52,6 @@ Master Day-Night Inversion</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Holy Demonic Inversion,](https://tensuranightmares.wiki.gg/wiki/Holy_Demonic_Inversion,) on the Tensura Reincarnated Nightmares Wiki (revision `2939`, modified `2026-09-06T12:52:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

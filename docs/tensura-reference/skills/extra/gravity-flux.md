@@ -3,7 +3,7 @@ title: Gravity Flux
 description: Disrupt a target with fluctuating gravity or Burden.
 ---
 
-<section class="skill-detail-hero"><img src="../../../../assets/icons/skills/mysticism-gravity_flux.svg" alt="Gravity Flux emblem"><div><p class="reference-eyebrow">Extra Skills</p><h1>Gravity Flux</h1><p>Disrupt a target with fluctuating gravity or Burden.</p></div></section>
+<section class="skill-detail-hero"><img src="../../../../assets/illustrations/skills/gravity-flux.png" alt="Gravity Flux illustration"><div><p class="reference-eyebrow">Extra Skills</p><h1>Gravity Flux</h1><p>Disrupt a target with fluctuating gravity or Burden.</p></div></section>
 
 [Browse Extra Skills](index.md)
 
@@ -28,4 +28,8 @@ Aim at a living target within **15 blocks**, increasing to **20 blocks** when ma
 
 ## Evidence
 
-Documented from the `GravityFluxSkill` implementation in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529), the [skill configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/ability/skill/extra_config.toml), and the [Scorpion race configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/race/insect/scorpion_config.toml). These are implementation and configuration checks, not a live-server playtest. Artwork: TSR skill emblem.
+Documented from the `GravityFluxSkill` implementation in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529), the [skill configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/ability/skill/extra_config.toml), and the [Scorpion race configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/race/insect/scorpion_config.toml). These are implementation and configuration checks, not a live-server playtest.
+
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

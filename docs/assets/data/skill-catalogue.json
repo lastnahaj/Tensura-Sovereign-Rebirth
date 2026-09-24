@@ -3122,7 +3122,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "asset": "assets/icons/skills/mysticism-gravity_flux.svg",
+      "asset": "assets/illustrations/skills/gravity-flux.png",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/clangorous-soul.md": {
@@ -4673,8 +4674,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-concentrator.svg"
+      "asset": "assets/illustrations/skills/concentrator.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-forbidden-knowledge.md": {
       "id": "trnightmare:forbidden_knowledge",
@@ -4693,8 +4695,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-forbidden_knowledge.svg"
+      "asset": "assets/illustrations/skills/forbidden-knowledge.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-holy-demonic-inversion.md": {
       "id": "trnightmare:holy_demonic_inversion",
@@ -4713,8 +4716,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-holy_demonic_inversion.svg"
+      "asset": "assets/illustrations/skills/holy-demonic-inversion.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-mystic-aura.md": {
       "id": "trnightmare:mystic_aura",
@@ -4733,8 +4737,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-mystic_aura.svg"
+      "asset": "assets/illustrations/skills/mystic-aura.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-prayer.md": {
       "id": "trnightmare:prayer",
@@ -4753,8 +4758,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-prayer.svg"
+      "asset": "assets/illustrations/skills/prayer.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/resistances/nightmares-void-resistance.md": {
       "id": "trnightmare:void_resistance",
@@ -5273,8 +5279,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-spacetime_manipulation.svg"
+      "asset": "assets/illustrations/skills/spacetime-manipulation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-spacetime-domination.md": {
       "id": "trnightmare:spacetime_domination",
@@ -5293,8 +5300,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-spacetime_domination.svg"
+      "asset": "assets/illustrations/skills/spacetime-domination.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-projection-sorcery.md": {
       "id": "trnightmare:projection_sorcery",

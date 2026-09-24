@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-forbidden_knowledge.svg" alt="Forbidden Knowledge emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/forbidden-knowledge.png" alt="Forbidden Knowledge illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Forbidden Knowledge - Boost Learning and Mastery Points by 8 Points</p>
@@ -49,4 +49,6 @@ Kill 30 wardens, possess atleast 100k EP</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Forbidden Knowledge](https://tensuranightmares.wiki.gg/wiki/Forbidden_Knowledge) on the Tensura Reincarnated Nightmares Wiki (revision `2656`, modified `2026-08-07T15:17:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

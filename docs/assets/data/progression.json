@@ -3642,31 +3642,31 @@
     },
     "tensura-reference/skills/extra/nightmares-concentrator/": {
       "title": "Concentrator",
-      "image": "assets/icons/skills/trnightmare-concentrator.svg",
+      "image": "assets/illustrations/skills/concentrator.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-forbidden-knowledge/": {
       "title": "Forbidden Knowledge",
-      "image": "assets/icons/skills/trnightmare-forbidden_knowledge.svg",
+      "image": "assets/illustrations/skills/forbidden-knowledge.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-holy-demonic-inversion/": {
       "title": "Holy Demonic Inversion",
-      "image": "assets/icons/skills/trnightmare-holy_demonic_inversion.svg",
+      "image": "assets/illustrations/skills/holy-demonic-inversion.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-mystic-aura/": {
       "title": "Mystic Aura",
-      "image": "assets/icons/skills/trnightmare-mystic_aura.svg",
+      "image": "assets/illustrations/skills/mystic-aura.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-prayer/": {
       "title": "Prayer",
-      "image": "assets/icons/skills/trnightmare-prayer.svg",
+      "image": "assets/illustrations/skills/prayer.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
@@ -3822,13 +3822,13 @@
     },
     "tensura-reference/skills/extra/nightmares-spacetime-manipulation/": {
       "title": "Spacetime Manipulation",
-      "image": "assets/icons/skills/trnightmare-spacetime_manipulation.svg",
+      "image": "assets/illustrations/skills/spacetime-manipulation.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-spacetime-domination/": {
       "title": "Spacetime Domination",
-      "image": "assets/icons/skills/trnightmare-spacetime_domination.svg",
+      "image": "assets/illustrations/skills/spacetime-domination.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
@@ -4215,7 +4215,7 @@
     },
     "tensura-reference/skills/extra/gravity-flux/": {
       "title": "Gravity Flux",
-      "image": "assets/icons/skills/mysticism-gravity_flux.svg",
+      "image": "assets/illustrations/skills/gravity-flux.png",
       "category": "skills/extra"
     },
     "tensura-reference/skills/intrinsic/clangorous-soul/": {
