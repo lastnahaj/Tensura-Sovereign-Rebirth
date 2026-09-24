@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/icons/skills/mysticism-mithril_strength.svg" alt="Mithril Strength emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/mithril-strength.png" alt="Mithril Strength illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p></p>
@@ -100,3 +100,7 @@ TR Mysticism reference adapted from [Mithril Strength](https://trmysticism.wiki.
 <ul>
 </ul>
 </details>
+
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

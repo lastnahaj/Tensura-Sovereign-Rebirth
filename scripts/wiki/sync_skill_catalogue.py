@@ -354,7 +354,7 @@ def generate():
             if media:
                 source_icons[page] = media
                 decision["asset"] = media["local_path"]
-            else:
+            elif not entry:
                 decision["asset"] = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
     outputs = {}
     previous_path = DOCS / "assets/data/skill-catalogue.json"
@@ -378,6 +378,8 @@ def generate():
             if not media and not illustration:
                 outputs[asset] = icon(decision["id"], decision["title"])
             decision["asset"] = asset
+            if decision.get('maintained') and decision['id'] in artwork:
+                text = re.sub(r'(<section class="skill-detail-hero">)<img[^>]*>', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} {"illustration" if illustration else "icon"}">', text, count=1)
             if media:
                 caption = f'<a href="{html.escape(media["source_file_page"], quote=True)}">{html.escape(media["source_title"])} · {html.escape(media["license"])}</a>'
                 figure = f'<figure class="reference-overview-media reference-overview-media--source"><img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} source icon" loading="eager" decoding="async"><figcaption>{caption}</figcaption></figure>'
@@ -397,8 +399,11 @@ def generate():
                 credit_block = '<!-- skill-artwork-credit:start -->\n' + credit + '\n<!-- skill-artwork-credit:end -->'
                 if '<!-- skill-artwork-credit:start -->' in text:
                     text = re.sub(r'<!-- skill-artwork-credit:start -->.*?<!-- skill-artwork-credit:end -->', lambda _m: credit_block, text, flags=re.S)
-                else:
+                elif 'Skill emblems are original TSR interface icons, not in-game artwork.' in text:
                     text = text.replace('Skill emblems are original TSR interface icons, not in-game artwork.', credit_block)
+                else:
+                    text = text.replace(' Artwork: TSR skill emblem.', '')
+                    text = text.rstrip() + '\n\n' + credit_block + '\n'
         outputs[page] = text
     active = []
     seen = set()

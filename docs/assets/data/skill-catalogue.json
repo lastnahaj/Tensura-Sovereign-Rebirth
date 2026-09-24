@@ -2391,7 +2391,8 @@
       "source": "https://trmysticism.wiki.gg/wiki/Mithril_Strength",
       "revision": 3472,
       "namespace": "mysticism",
-      "asset": "assets/icons/skills/mysticism-mithril_strength.svg",
+      "asset": "assets/illustrations/skills/mithril-strength.png",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/oizys.md": {
@@ -3132,7 +3133,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "asset": "assets/icons/skills/mysticism-clangorous_soul.svg",
+      "asset": "assets/illustrations/skills/clangorous-soul.png",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/fourth-wall.md": {
@@ -5371,8 +5373,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-inner_world.svg"
+      "asset": "assets/illustrations/skills/inner-world.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-skill-storage.md": {
       "id": "trnightmare:skill_storage",

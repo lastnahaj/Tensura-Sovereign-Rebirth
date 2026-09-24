@@ -144,9 +144,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="clangorous soul an area taunt granted by the hardshell ant evolution line.">
 <a href="clangorous-soul/" aria-label="Open Clangorous Soul">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-clangorous_soul.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/clangorous-soul.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Clangorous Soul</h2>

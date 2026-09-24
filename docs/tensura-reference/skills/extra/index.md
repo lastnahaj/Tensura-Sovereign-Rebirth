@@ -1027,9 +1027,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="M" data-search="mithril strength turn your muscles as hard as mithril and gain an increase in damage, toggleable when mastered.">
 <a href="../../../mysticism-reference/skills/intrinsic/mithril-strength/" aria-label="Open Mithril Strength">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-mithril_strength.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/mithril-strength.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Strength</h2>

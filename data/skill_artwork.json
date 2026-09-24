@@ -128,6 +128,36 @@
         "reference_revision": 2936,
         "result": "No skill image appears in the live article or the recorded article revision."
       }
+    },
+    "mysticism:clangorous_soul": {
+      "asset": "assets/illustrations/skills/clangorous-soul.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://trmysticism.wiki.gg/wiki/Special:Search?search=Clangorous+Soul&ns0=1",
+        "result": "Wiki search returns race references, but no dedicated skill article or reusable skill image."
+      }
+    },
+    "mysticism:mithril_strength": {
+      "asset": "assets/illustrations/skills/mithril-strength.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://trmysticism.wiki.gg/wiki/Mithril_Strength",
+        "result": "Live article shows only a work-in-progress badge, not a skill icon."
+      }
+    },
+    "trnightmare:inner_world": {
+      "asset": "assets/illustrations/skills/inner-world.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Inner_World",
+        "result": "No skill image appears in the live article."
+      }
     }
   }
 }

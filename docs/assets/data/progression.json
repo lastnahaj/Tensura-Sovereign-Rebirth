@@ -2817,7 +2817,7 @@
     },
     "mysticism-reference/skills/intrinsic/mithril-strength/": {
       "title": "Mithril Strength",
-      "image": "assets/icons/skills/mysticism-mithril_strength.svg",
+      "image": "assets/illustrations/skills/mithril-strength.png",
       "category": "skills/extra"
     },
     "mysticism-reference/races/molten-perforator/": {
@@ -3852,7 +3852,7 @@
     },
     "tensura-reference/skills/common/nightmares-inner-world/": {
       "title": "Inner World",
-      "image": "assets/icons/skills/trnightmare-inner_world.svg",
+      "image": "assets/illustrations/skills/inner-world.png",
       "category": "skills/common",
       "verification": "reference-build-only"
     },
@@ -4220,7 +4220,7 @@
     },
     "tensura-reference/skills/intrinsic/clangorous-soul/": {
       "title": "Clangorous Soul",
-      "image": "assets/icons/skills/mysticism-clangorous_soul.svg",
+      "image": "assets/illustrations/skills/clangorous-soul.png",
       "category": "skills/intrinsic"
     },
     "tensura-reference/skills/unique/fourth-wall/": {

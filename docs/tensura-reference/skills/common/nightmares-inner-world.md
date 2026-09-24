@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Common Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-inner_world.svg" alt="Inner World emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/inner-world.png" alt="Inner World illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The inner world is a place where you aren&#x27;t supposed to be able to build or break existing blocks</p>
@@ -58,4 +58,6 @@ All</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Inner World](https://tensuranightmares.wiki.gg/wiki/Inner_World) on the Tensura Reincarnated Nightmares Wiki (revision `2770`, modified `2026-08-13T08:22:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -123,9 +123,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="I" data-search="inner world the inner world is a place where you aren&#x27;t supposed to be able to build or break existing blocks">
 <a href="nightmares-inner-world/" aria-label="Open Inner World">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-inner_world.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/inner-world.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Inner World</h2>

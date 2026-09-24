@@ -3,7 +3,7 @@ title: Clangorous Soul
 description: An area taunt granted by the Hardshell Ant evolution line.
 ---
 
-<section class="skill-detail-hero"><img src="../../../../assets/icons/skills/mysticism-clangorous_soul.svg" alt="Clangorous Soul emblem"><div><p class="reference-eyebrow">Intrinsic Skills</p><h1>Clangorous Soul</h1><p>An area taunt granted by the Hardshell Ant evolution line.</p></div></section>
+<section class="skill-detail-hero"><img src="../../../../assets/illustrations/skills/clangorous-soul.png" alt="Clangorous Soul illustration"><div><p class="reference-eyebrow">Intrinsic Skills</p><h1>Clangorous Soul</h1><p>An area taunt granted by the Hardshell Ant evolution line.</p></div></section>
 
 [Browse Intrinsic Skills](index.md)
 
@@ -30,4 +30,8 @@ The implementation searches an expanded bounding box, rather than measuring a sp
 
 ## Evidence
 
-Documented from `ClangorousSoulSkill` in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529), the [skill configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/ability/skill/intrinsic_config.toml), and the [Ant race configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/race/insect/ant_config.toml). These are implementation and configuration checks, not a live-server playtest. Artwork: TSR skill emblem.
+Documented from `ClangorousSoulSkill` in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529), the [skill configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/ability/skill/intrinsic_config.toml), and the [Ant race configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/mysticism/race/insect/ant_config.toml). These are implementation and configuration checks, not a live-server playtest.
+
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->
