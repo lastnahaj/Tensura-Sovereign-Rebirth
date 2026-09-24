@@ -154,10 +154,13 @@ def validate_collection(spec: dict[str, str], errors: list[str]) -> dict[str, in
                 if required not in text:
                     errors.append(f'Gamerule reference missing {required}')
             continue
-        if 'data-reference-directory=' not in text and 'reference-skill-hub' not in text:
+        ability_hub = path.relative_to(DOCS).as_posix() == 'tensura-reference/skills/index.md' and all(
+            marker in text for marker in ('class="skill-hub"', 'id="skill-hub-search"', 'class="skill-category-grid"', 'class="skill-category-tile"')
+        )
+        if 'data-reference-directory=' not in text and 'reference-skill-hub' not in text and not ability_hub:
             errors.append(f"{label}: missing interactive directory structure in {path.relative_to(DOCS)}")
         hero_title = re.search(
-            r'<header class="reference-directory-hero[^>]*>.*?<h1>([^<]+)</h1>',
+            r'<header class="(?:reference-directory-hero|skill-directory-heading)[^>]*>.*?<h1>([^<]+)</h1>',
             text,
             re.DOTALL,
         )
