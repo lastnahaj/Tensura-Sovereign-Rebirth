@@ -3423,8 +3423,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-avalon.svg"
+      "asset": "assets/illustrations/skills/avalon.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-handler.md": {
       "id": "trnightmare:handler",

@@ -106,6 +106,11 @@ def catalogue() -> dict:
             "reference_build": nightmares["reference_build"],
             "source_partial": entry.get("source_partial", False),
         }
+    artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
+    for decision in pages.values():
+        if decision['id'] in artwork:
+            decision['asset'] = artwork[decision['id']]['asset']
+            decision['artwork_kind'] = artwork[decision['id']]['kind']
     return {"pages": pages, "inventory": pool}
 
 

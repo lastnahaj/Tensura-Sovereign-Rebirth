@@ -3270,7 +3270,7 @@
     },
     "tensura-reference/skills/intrinsic/nightmares-avalon/": {
       "title": "Avalon",
-      "image": "assets/icons/skills/trnightmare-avalon.svg",
+      "image": "assets/illustrations/skills/avalon.png",
       "category": "skills/intrinsic",
       "verification": "reference-build-only"
     },

@@ -94,6 +94,8 @@ def main():
                 continue
             if decision["category"] != category:
                 errors.append(f"Incorrect class: {target}")
+            if decision.get('artwork_kind') == 'original-illustration' and 'TSR artwork' not in link.get_text():
+                errors.append(f'Original skill card mislabeled as source media: {target}')
             if decision["id"] in seen:
                 errors.append(f"Duplicate skill card: {decision['id']}")
             seen.add(decision["id"])
@@ -112,7 +114,7 @@ def main():
         if decision["namespace"] in {"mysticism", "trnightmare"}:
             previews = soup.select(".reference-overview img, .skill-detail-hero img")
             asset = generated_pages[page].get("asset")
-            if decision['namespace'] == 'mysticism' and progression.get(route(page), {}).get('image') != asset:
+            if progression.get(route(page), {}).get('image') != asset:
                 errors.append(f'Skill progression image differs from its verified article icon: {page}')
             if not previews or not asset or any(
                 posixpath.normpath(posixpath.join(route(page), image["src"])) != asset
@@ -123,6 +125,12 @@ def main():
                 errors.append(f"Missing source-icon credit: {page}")
             if any("wip" in image.get("src", "").casefold() for image in soup.select("img")):
                 errors.append(f"Editorial placeholder remains: {page}")
+            if decision.get('artwork_kind') == 'original-illustration':
+                if not asset.startswith('assets/illustrations/skills/') or 'TSR skill artwork' not in soup.get_text():
+                    errors.append(f'Original skill artwork missing its identity: {page}')
+                old_asset = 'assets/icons/skills/' + decision['id'].replace(':', '-') + '.svg'
+                if old_asset in outputs[page] or any(entry['route'] == route(page) and entry['image'] != asset for entry in ability_search):
+                    errors.append(f'Skill illustration reverted to a legacy emblem: {page}')
         if decision["status"] == "reference":
             if "Server build match pending." not in soup.get_text() or "Pinned pack inventory" in soup.get_text():
                 errors.append(f"Reference build presented as installed: {page}")

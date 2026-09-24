@@ -54,9 +54,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="A" data-search="avalon faerie blessing - attacks have a 75% chance to be dodged by the user.">
 <a href="nightmares-avalon/" aria-label="Open Avalon">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-avalon.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/avalon.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Avalon</h2>

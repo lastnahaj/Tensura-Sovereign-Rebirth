@@ -364,7 +364,10 @@ def generate():
         if decision["namespace"] in {"mysticism", "trnightmare"} and decision["status"] in ACTIVE:
             media = source_icons.get(page)
             asset = decision.get("asset") or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
-            if not media:
+            illustration = decision.get('artwork_kind') == 'original-illustration'
+            if illustration and not (DOCS / asset).is_file():
+                raise ValueError(f'Missing skill illustration: {asset}')
+            if not media and not illustration:
                 outputs[asset] = icon(decision["id"], decision["title"])
             decision["asset"] = asset
             if media:
@@ -372,7 +375,8 @@ def generate():
                 figure = f'<figure class="reference-overview-media reference-overview-media--source"><img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} source icon" loading="eager" decoding="async"><figcaption>{caption}</figcaption></figure>'
                 text = re.sub(r'<figure class="reference-overview-media[^>]*>.*?</figure>', lambda _m: figure, text, count=1, flags=re.S)
             else:
-                text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption>' + m[2], text, count=1, flags=re.S)
+                caption = 'TSR skill artwork' if illustration else 'TSR skill emblem'
+                text = re.sub(r'(<figure class="reference-overview-media[^>]*>).*?(</figure>)', lambda m: m[1] + f'<img src="{relative(page, asset)}" alt="{html.escape(decision["title"])} {"illustration" if illustration else "emblem"}" width="96" height="96"><figcaption>{caption}</figcaption>' + m[2], text, count=1, flags=re.S)
                 text = replace_placeholder_media(text, page, asset, decision["title"])
         outputs[page] = text
     active = []
@@ -388,7 +392,7 @@ def generate():
             record = {**record, "category": decision["category"], "registry_id": decision["id"]}
             record["reference_build_only"] = decision["status"] == "reference"
             if decision.get("asset"):
-                record["_primary_media"] = source_icons.get(record["local_page"]) or {"local_path": decision["asset"], "kind": "emblem"}
+                record["_primary_media"] = source_icons.get(record["local_page"]) or {"local_path": decision["asset"], "kind": "original" if decision.get('artwork_kind') == 'original-illustration' else "emblem"}
             record["_html"] = outputs[record["local_page"]]
         active.append(record)
     for category in LABELS:

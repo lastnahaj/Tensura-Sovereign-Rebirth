@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "entries": {
+    "trnightmare:avalon": {
+      "asset": "assets/illustrations/skills/avalon.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-23",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Avalon",
+        "reference_release": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+        "game_asset": "assets/trnightmare/textures/skill/intrinsic/avalon.png",
+        "reuse_status": "Unresolved: the project license page states All Rights Reserved while the reference artifact metadata states MIT. Live wiki file verification was unavailable.",
+        "license_page": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/license"
+      }
+    }
+  }
+}

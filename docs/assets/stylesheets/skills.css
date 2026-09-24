@@ -102,6 +102,7 @@
 .skill-directory .reference-letter-filters { display: flex; flex-wrap: wrap; gap: .2rem; }
 .skill-directory .reference-letter-filters button { min-width: 1.7rem; min-height: 1.7rem; margin: 0; }
 .skill-directory img[src$=".svg"], .skill-hub img[src$=".svg"] { image-rendering: auto; }
+.skill-directory img[src*="/illustrations/skills/"], .skill-hub img[src*="/illustrations/skills/"], .md-content__inner:has(.skill-obtainment) img[src*="/illustrations/skills/"] { image-rendering: auto !important; border-radius: .4rem; }
 /* Article styles stay scoped to pages with verified acquisition panels. */
 .md-content__inner:has(.skill-obtainment) .reference-overview { grid-template-columns: 8rem minmax(0, 1fr); gap: 1.2rem; padding: 1.1rem; background: rgba(36, 82, 112, .1); box-shadow: none; }
 .md-content__inner:has(.skill-obtainment) .reference-overview-media { min-height: 0; align-self: start; background: transparent; overflow: visible; }

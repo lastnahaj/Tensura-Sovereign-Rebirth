@@ -138,7 +138,7 @@ def build() -> dict:
         elif key in nodes:
             nodes[key]["category"] = decision["category"]
             if decision["namespace"] == "trnightmare":
-                nodes[key]["image"] = "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
+                nodes[key]["image"] = decision.get('asset') or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
             if decision["status"] == "reference":
                 nodes[key]["verification"] = "reference-build-only"
     current_edges = [edge for edge in edges.values() if edge["from"] in nodes and edge["to"] in nodes]
