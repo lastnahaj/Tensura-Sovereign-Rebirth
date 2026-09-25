@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-godspeed_regeneration.svg" alt="Godspeed Regeneration emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/godspeed-regeneration.png" alt="Godspeed Regeneration illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>The player&#x27;s MP essentially becomes their HP. Even if their HP reaches 0, as long as their regeneration isn&#x27;t impeded they&#x27;ll regen to max instantly - Costs 80 MP (40 MP with Mastery) per 1 HP. Also instantly regenerates all lost SHP - Cost 240 MP (290 MP with Mastery) per 1 SHP. Godspeed Regeneration&#x27;s HP regeneration takes priority over the Instant…</p>
@@ -49,4 +49,6 @@ Obtain <a href="../../ultimate/nightmares-asmodeus/" title="Asmodeus">「Asmodeu
 
 Tensura Nightmares reference adapted from [Godspeed Regeneration](https://tensuranightmares.wiki.gg/wiki/Godspeed_Regeneration) on the Tensura Reincarnated Nightmares Wiki (revision `2862`, modified `2026-08-24T21:14:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

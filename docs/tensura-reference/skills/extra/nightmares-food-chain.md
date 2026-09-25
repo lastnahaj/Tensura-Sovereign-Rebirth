@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-food_chain.svg" alt="Food Chain emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/food-chain.png" alt="Food Chain illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>[Active, Press] Food Chain - When used normally, the Skill Menu opens allowing you to learn any skill from a Subordinate. (You can enable this to allow the learning of Uniques or Ultimates in the TRNightmareUltimateConfig). When shifted and used, it instead allows you to teach your Subordinate any of your skills. (Same configuration logic. You can config…</p>
@@ -50,4 +50,6 @@ Obtain <a href="../../ultimate/nightmares-beelzebub/" title="Beelzebub">Beelzebu
 
 Tensura Nightmares reference adapted from [Food Chain](https://tensuranightmares.wiki.gg/wiki/Food_Chain) on the Tensura Reincarnated Nightmares Wiki (revision `2938`, modified `2026-09-06T12:49:08Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

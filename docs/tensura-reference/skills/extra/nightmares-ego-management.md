@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-ego_management.svg" alt="Ego Management emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/ego-management.png" alt="Ego Management illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Open Ego Archive - Shows the current egos you have and their stats.</p>
@@ -52,4 +52,6 @@ Obtain an <a href="https://tensuranightmares.wiki.gg/wiki/Egos" title="Egos">Ego
 
 Tensura Nightmares reference adapted from [Ego Management](https://tensuranightmares.wiki.gg/wiki/Ego_Management) on the Tensura Reincarnated Nightmares Wiki (revision `2905`, modified `2026-08-26T22:29:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

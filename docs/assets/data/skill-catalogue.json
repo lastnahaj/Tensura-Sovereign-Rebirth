@@ -5341,8 +5341,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-alteration.svg"
+      "asset": "assets/illustrations/skills/alteration.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-food-chain.md": {
       "id": "trnightmare:food_chain",
@@ -5361,8 +5362,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-food_chain.svg"
+      "asset": "assets/illustrations/skills/food-chain.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/common/nightmares-inner-world.md": {
       "id": "trnightmare:inner_world",
@@ -5402,8 +5404,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-skill_storage.svg"
+      "asset": "assets/illustrations/skills/skill-storage.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-mimicry.md": {
       "id": "trnightmare:mimicry",
@@ -5422,8 +5425,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-mimicry.svg"
+      "asset": "assets/illustrations/skills/mimicry.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-lunatic.md": {
       "id": "trnightmare:lunatic",
@@ -5642,8 +5646,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-hand_of_creation.svg"
+      "asset": "assets/illustrations/skills/hand-of-creation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-hand-of-destruction.md": {
       "id": "trnightmare:hand_of_destruction",
@@ -5662,8 +5667,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-hand_of_destruction.svg"
+      "asset": "assets/illustrations/skills/hand-of-destruction.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-gilgamesh-lord-of-treasures.md": {
       "id": "trnightmare:gilgamesh_lord_of_treasures",
@@ -5782,8 +5788,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-godspeed_regeneration.svg"
+      "asset": "assets/illustrations/skills/godspeed-regeneration.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-future-attack-prediction.md": {
       "id": "trnightmare:future_attack_prediction",
@@ -5802,8 +5809,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-future_attack_prediction.svg"
+      "asset": "assets/illustrations/skills/future-attack-prediction.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-auto-battle-mode.md": {
       "id": "trnightmare:auto_battle_mode",
@@ -5822,8 +5830,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-auto_battle_mode.svg"
+      "asset": "assets/illustrations/skills/auto-battle-mode.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-title-manager.md": {
       "id": "trnightmare:title_manager",
@@ -5842,8 +5851,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-title_manager.svg"
+      "asset": "assets/illustrations/skills/title-manager.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-secret-of-grace.md": {
       "id": "trnightmare:secret_of_grace",
@@ -5862,8 +5872,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-secret_of_grace.svg"
+      "asset": "assets/illustrations/skills/secret-of-grace.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-secret-of-faith.md": {
       "id": "trnightmare:secret_of_faith",
@@ -5882,8 +5893,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-secret_of_faith.svg"
+      "asset": "assets/illustrations/skills/secret-of-faith.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-friendship.md": {
       "id": "trnightmare:friendship",
@@ -5902,8 +5914,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-friendship.svg"
+      "asset": "assets/illustrations/skills/friendship.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-ego-management.md": {
       "id": "trnightmare:ego_management",
@@ -5922,8 +5935,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-ego_management.svg"
+      "asset": "assets/illustrations/skills/ego-management.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     }
   }
 }

@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-hand_of_creation.svg" alt="Hand Of Creation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/hand-of-creation.png" alt="Hand Of Creation illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Skill Evolution - When Pressed, the user opens up the Skill Designer GUI which will contain the various Skill Evolution options. Each Evolution option has various MP costs per. Skill Evolutions MP cost to attempt is offten equal to the Total MP of possible Skills, sometimes x2.</p>
@@ -51,4 +51,6 @@ Obtain <a href="../../ultimate/nightmares-astaroth/" title="Astaroth">「Astarot
 
 Tensura Nightmares reference adapted from [Hand of Creation](https://tensuranightmares.wiki.gg/wiki/Hand_of_Creation) on the Tensura Reincarnated Nightmares Wiki (revision `2804`, modified `2026-08-20T11:50:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

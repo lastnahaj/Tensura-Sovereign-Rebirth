@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-auto_battle_mode.svg" alt="Auto Battle Mode emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/auto-battle-mode.png" alt="Auto Battle Mode illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Copilot - This is used to toggle on and off Copilot mode. This means that Wise Ego will utilize skills to automatically protect you at times.</p>
@@ -54,4 +54,6 @@ Get the <a href="https://tensuranightmares.wiki.gg/wiki/Wise_Manas" title="Wise 
 
 Tensura Nightmares reference adapted from [Auto Battle Mode](https://tensuranightmares.wiki.gg/wiki/Auto_Battle_Mode) on the Tensura Reincarnated Nightmares Wiki (revision `2865`, modified `2026-08-24T21:35:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -52,9 +52,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="A" data-search="alteration alteration - open the skill alteration menu. the skill alteration menu allows you to select a skill and evolve it forcefully, however the requirements must be met…">
 <a href="nightmares-alteration/" aria-label="Open Alteration">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-alteration.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/alteration.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Alteration</h2>
@@ -97,9 +97,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="A" data-search="auto battle mode copilot - this is used to toggle on and off copilot mode. this means that wise ego will utilize skills to automatically protect you at times.">
 <a href="nightmares-auto-battle-mode/" aria-label="Open Auto Battle Mode">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-auto_battle_mode.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/auto-battle-mode.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Auto Battle Mode</h2>
@@ -322,9 +322,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="E" data-search="ego management open ego archive - shows the current egos you have and their stats.">
 <a href="nightmares-ego-management/" aria-label="Open Ego Management">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-ego_management.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/ego-management.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ego Management</h2>
@@ -367,9 +367,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="F" data-search="food chain [active, press] food chain - when used normally, the skill menu opens allowing you to learn any skill from a subordinate. (you can enable this to allow the learning of…">
 <a href="nightmares-food-chain/" aria-label="Open Food Chain">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-food_chain.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/food-chain.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Food Chain</h2>
@@ -397,9 +397,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="F" data-search="friendship talk - a way to gain friendship/dislike/loyalty with certain mobs">
 <a href="nightmares-friendship/" aria-label="Open Friendship">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-friendship.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/friendship.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Friendship</h2>
@@ -412,9 +412,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="F" data-search="future attack prediction future attack prediction - while this skill is in-slot, the user can see attacks before they are made. the user sees the attack almost before it happens, giving them a…">
 <a href="nightmares-future-attack-prediction/" aria-label="Open Future Attack Prediction">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-future_attack_prediction.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/future-attack-prediction.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Future Attack Prediction</h2>
@@ -427,9 +427,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="G" data-search="godspeed regeneration the player&#x27;s mp essentially becomes their hp. even if their hp reaches 0, as long as their regeneration isn&#x27;t impeded they&#x27;ll regen to max instantly - costs 80 mp (40…">
 <a href="nightmares-godspeed-regeneration/" aria-label="Open Godspeed Regeneration">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-godspeed_regeneration.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/godspeed-regeneration.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Godspeed Regeneration</h2>
@@ -517,9 +517,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="H" data-search="hand of creation skill evolution - when pressed, the user opens up the skill designer gui which will contain the various skill evolution options. each evolution option has various mp…">
 <a href="nightmares-hand-of-creation/" aria-label="Open Hand Of Creation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-hand_of_creation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/hand-of-creation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hand Of Creation</h2>
@@ -532,9 +532,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="H" data-search="hand of destruction divine darkness - this is the same as astarte&#x27;s divine darkness, but only the beam.">
 <a href="nightmares-hand-of-destruction/" aria-label="Open Hand Of Destruction">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-hand_of_destruction.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/hand-of-destruction.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hand Of Destruction</h2>
@@ -1012,9 +1012,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="M" data-search="mimicry mimicry - when used while looking at a entity it will begin to analyze them. when used with shift a menu will pop up with all the analyzed entities which you can mimic.">
 <a href="nightmares-mimicry/" aria-label="Open Mimicry">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-mimicry.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/mimicry.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mimicry</h2>
@@ -1162,9 +1162,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="secret of faith [true passive] faithful - the user&#x27;s owner is always their god, even if they were killed by their god, as long as they possess this skill and have their faith, their…">
 <a href="nightmares-secret-of-faith/" aria-label="Open Secret Of Faith">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-secret_of_faith.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/secret-of-faith.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Secret Of Faith</h2>
@@ -1177,9 +1177,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="secret of grace while this skill is in slot, the user increases their subordinates prayer skill&#x27;s spiritron generation. (certain skills made this a passive skill, such as; raphael …">
 <a href="nightmares-secret-of-grace/" aria-label="Open Secret Of Grace">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-secret_of_grace.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/secret-of-grace.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Secret Of Grace</h2>
@@ -1237,9 +1237,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="skill storage [active, press] skill storage when used, it will open up a menu containing all the skills you&#x27;ve owned at least one (permanently) after obtaining shub-niggurath. this…">
 <a href="nightmares-skill-storage/" aria-label="Open Skill Storage">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-skill_storage.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/skill-storage.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Skill Storage</h2>
@@ -1432,9 +1432,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="T" data-search="title manager title manager - open a menu from where you can activate titles you own. shift use will deactivate the current title you have active.">
 <a href="nightmares-title-manager/" aria-label="Open Title Manager">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-title_manager.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/title-manager.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Title Manager</h2>

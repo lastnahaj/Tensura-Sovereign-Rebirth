@@ -3840,13 +3840,13 @@
     },
     "tensura-reference/skills/extra/nightmares-alteration/": {
       "title": "Alteration",
-      "image": "assets/icons/skills/trnightmare-alteration.svg",
+      "image": "assets/illustrations/skills/alteration.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-food-chain/": {
       "title": "Food Chain",
-      "image": "assets/icons/skills/trnightmare-food_chain.svg",
+      "image": "assets/illustrations/skills/food-chain.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
@@ -3858,13 +3858,13 @@
     },
     "tensura-reference/skills/extra/nightmares-skill-storage/": {
       "title": "Skill Storage",
-      "image": "assets/icons/skills/trnightmare-skill_storage.svg",
+      "image": "assets/illustrations/skills/skill-storage.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-mimicry/": {
       "title": "Mimicry",
-      "image": "assets/icons/skills/trnightmare-mimicry.svg",
+      "image": "assets/illustrations/skills/mimicry.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
@@ -3930,13 +3930,13 @@
     },
     "tensura-reference/skills/extra/nightmares-hand-of-creation/": {
       "title": "Hand Of Creation",
-      "image": "assets/icons/skills/trnightmare-hand_of_creation.svg",
+      "image": "assets/illustrations/skills/hand-of-creation.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-hand-of-destruction/": {
       "title": "Hand Of Destruction",
-      "image": "assets/icons/skills/trnightmare-hand_of_destruction.svg",
+      "image": "assets/illustrations/skills/hand-of-destruction.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
@@ -3972,49 +3972,49 @@
     },
     "tensura-reference/skills/extra/nightmares-godspeed-regeneration/": {
       "title": "Godspeed Regeneration",
-      "image": "assets/icons/skills/trnightmare-godspeed_regeneration.svg",
+      "image": "assets/illustrations/skills/godspeed-regeneration.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-future-attack-prediction/": {
       "title": "Future Attack Prediction",
-      "image": "assets/icons/skills/trnightmare-future_attack_prediction.svg",
+      "image": "assets/illustrations/skills/future-attack-prediction.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-auto-battle-mode/": {
       "title": "Auto Battle Mode",
-      "image": "assets/icons/skills/trnightmare-auto_battle_mode.svg",
+      "image": "assets/illustrations/skills/auto-battle-mode.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-title-manager/": {
       "title": "Title Manager",
-      "image": "assets/icons/skills/trnightmare-title_manager.svg",
+      "image": "assets/illustrations/skills/title-manager.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-secret-of-grace/": {
       "title": "Secret Of Grace",
-      "image": "assets/icons/skills/trnightmare-secret_of_grace.svg",
+      "image": "assets/illustrations/skills/secret-of-grace.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-secret-of-faith/": {
       "title": "Secret Of Faith",
-      "image": "assets/icons/skills/trnightmare-secret_of_faith.svg",
+      "image": "assets/illustrations/skills/secret-of-faith.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-friendship/": {
       "title": "Friendship",
-      "image": "assets/icons/skills/trnightmare-friendship.svg",
+      "image": "assets/illustrations/skills/friendship.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/extra/nightmares-ego-management/": {
       "title": "Ego Management",
-      "image": "assets/icons/skills/trnightmare-ego_management.svg",
+      "image": "assets/illustrations/skills/ego-management.png",
       "category": "skills/extra",
       "verification": "reference-build-only"
     },

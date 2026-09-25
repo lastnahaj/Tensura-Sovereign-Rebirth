@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-skill_storage.svg" alt="Skill Storage emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/skill-storage.png" alt="Skill Storage illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>[Active, Press] Skill Storage When used, it will open up a menu containing all the skills you&#x27;ve owned at least one (permanently) after obtaining Shub-Niggurath. This lets you re-create the skill if you lose it, however it comes at the cost of Shub-Niggurath&#x27;s Mastery. You can delete skills within it to gain mastery, however they cannot be obtained again…</p>
@@ -55,4 +55,6 @@ The user can open a Skill Duplication menu, which is full of skills they've made
 
 Tensura Nightmares reference adapted from [Skill Storage](https://tensuranightmares.wiki.gg/wiki/Skill_Storage) on the Tensura Reincarnated Nightmares Wiki (revision `2942`, modified `2026-09-06T12:55:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

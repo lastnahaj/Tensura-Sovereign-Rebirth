@@ -238,6 +238,146 @@
         "article": "https://tensuranightmares.wiki.gg/wiki/Spacetime_Domination",
         "result": "The live article has a File:Soon placeholder and no skill image."
       }
+    },
+    "trnightmare:alteration": {
+      "asset": "assets/illustrations/skills/alteration.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Alteration",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:food_chain": {
+      "asset": "assets/illustrations/skills/food-chain.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Food_Chain",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:skill_storage": {
+      "asset": "assets/illustrations/skills/skill-storage.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Skill_Storage",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:mimicry": {
+      "asset": "assets/illustrations/skills/mimicry.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Mimicry",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:hand_of_creation": {
+      "asset": "assets/illustrations/skills/hand-of-creation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Hand_of_Creation",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:hand_of_destruction": {
+      "asset": "assets/illustrations/skills/hand-of-destruction.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Hand_of_Destruction",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:godspeed_regeneration": {
+      "asset": "assets/illustrations/skills/godspeed-regeneration.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Godspeed_Regeneration",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:future_attack_prediction": {
+      "asset": "assets/illustrations/skills/future-attack-prediction.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Future_Attack_Prediction",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:auto_battle_mode": {
+      "asset": "assets/illustrations/skills/auto-battle-mode.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Auto_Battle_Mode",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:title_manager": {
+      "asset": "assets/illustrations/skills/title-manager.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Title_Manager",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:secret_of_grace": {
+      "asset": "assets/illustrations/skills/secret-of-grace.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Secret_of_Grace",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:secret_of_faith": {
+      "asset": "assets/illustrations/skills/secret-of-faith.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Secret_Of_Faith",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:friendship": {
+      "asset": "assets/illustrations/skills/friendship.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Friendship",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:ego_management": {
+      "asset": "assets/illustrations/skills/ego-management.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-24",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Ego_Management",
+        "result": "The live article has a File:Soon placeholder and no skill image."
+      }
     }
   }
 }

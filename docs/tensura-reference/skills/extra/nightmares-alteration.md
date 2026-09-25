@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-alteration.svg" alt="Alteration emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/alteration.png" alt="Alteration illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Alteration - Open the Skill Alteration Menu. The Skill Alteration Menu allows you to select a skill and evolve it forcefully, however the requirements must be met. (different requirements than normal)</p>
@@ -49,4 +49,6 @@ Obtain <a href="../../ultimate/nightmares-raphael-knowledge/" title="Raphael">Ra
 
 Tensura Nightmares reference adapted from [Alteration](https://tensuranightmares.wiki.gg/wiki/Alteration) on the Tensura Reincarnated Nightmares Wiki (revision `2937`, modified `2026-09-06T12:47:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

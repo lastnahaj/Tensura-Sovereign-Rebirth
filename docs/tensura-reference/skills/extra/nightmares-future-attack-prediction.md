@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-future_attack_prediction.svg" alt="Future Attack Prediction emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/future-attack-prediction.png" alt="Future Attack Prediction illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Future Attack Prediction - While this skill is in-slot, the user can see attacks before they are made. The user sees the attack almost before it happens, giving them a 75% Dodge Chance and 100% Dodge Negation. Future Attack Prediction cannot be bypassed by the likes of normal dodge negation.</p>
@@ -51,4 +51,6 @@ Obtain Raphael and defeat Hinata</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Future Attack Prediction](https://tensuranightmares.wiki.gg/wiki/Future_Attack_Prediction) on the Tensura Reincarnated Nightmares Wiki (revision `2863`, modified `2026-08-24T21:16:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

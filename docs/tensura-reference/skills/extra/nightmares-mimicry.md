@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Extra Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-mimicry.svg" alt="Mimicry emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/mimicry.png" alt="Mimicry illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Mimicry - When used while looking at a entity it will begin to analyze them. When used with shift a menu will pop up with all the analyzed entities which you can mimic.</p>
@@ -50,4 +50,6 @@ Have Predator, Gluttony, <a href="../../ultimate/nightmares-beelzebuth/" title="
 
 Tensura Nightmares reference adapted from [Mimicry](https://tensuranightmares.wiki.gg/wiki/Mimicry) on the Tensura Reincarnated Nightmares Wiki (revision `2940`, modified `2026-09-06T12:53:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->
