@@ -3329,8 +3329,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-gift.svg"
+      "asset": "assets/illustrations/skills/gift.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-satanael.md": {
       "id": "trnightmare:satanael",
@@ -3369,8 +3370,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-lemegeton.svg"
+      "asset": "assets/upstream/nightmares/skills/lemegeton.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-processor.md": {
       "id": "trnightmare:processor",
@@ -3389,8 +3391,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-processor.svg"
+      "asset": "assets/upstream/nightmares/skills/processor.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/intrinsic/nightmares-ideal.md": {
       "id": "trnightmare:ideal",
@@ -3451,8 +3454,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-handler.svg"
+      "asset": "assets/upstream/nightmares/skills/handler.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-soul-shrine.md": {
       "id": "trnightmare:soul_shrine",
@@ -3471,8 +3475,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-soul_shrine.svg"
+      "asset": "assets/upstream/nightmares/skills/soul-shrine.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-ending.md": {
       "id": "trnightmare:ending",

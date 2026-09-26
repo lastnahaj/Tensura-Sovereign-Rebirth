@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-handler.svg" alt="Handler emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/handler.png" alt="Handler source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Handler.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Skill Optimization: Open up a menu that lists skills the user has and are able to alter. Selecting a skill will replace or add onto one of its abilities.</p>
@@ -52,4 +52,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Handler](https://tensuranightmares.wiki.gg/wiki/Handler) on the Tensura Reincarnated Nightmares Wiki (revision `2701`, modified `2026-08-07T15:55:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Handler](https://tensuranightmares.wiki.gg/wiki/File:Handler.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-03T11:26:00Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

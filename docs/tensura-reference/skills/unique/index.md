@@ -852,9 +852,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="G" data-search="gift the creatable blessings are:">
 <a href="nightmares-gift/" aria-label="Open Gift">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-gift.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/gift.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gift</h2>
@@ -1003,8 +1003,8 @@ hide:
 <article class="reference-card" data-letter="H" data-search="handler skill optimization: open up a menu that lists skills the user has and are able to alter. selecting a skill will replace or add onto one of its abilities.">
 <a href="nightmares-handler/" aria-label="Open Handler">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-handler.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/handler.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Handler</h2>
@@ -1153,8 +1153,8 @@ hide:
 <article class="reference-card" data-letter="L" data-search="lemengeton magical prodigy - instant learning and mastery of obtained spells. concentrator is obtained upon acquiring.">
 <a href="nightmares-lemegeton/" aria-label="Open Lemengeton">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-lemegeton.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/lemegeton.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Lemengeton</h2>
@@ -1393,8 +1393,8 @@ hide:
 <article class="reference-card" data-letter="P" data-search="processor multi-threading- user is capable of running/chanting 2 abilities simultaneously. (this is moved to 3 on mastery.)">
 <a href="nightmares-processor/" aria-label="Open Processor">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-processor.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/processor.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Processor</h2>
@@ -1783,8 +1783,8 @@ hide:
 <article class="reference-card" data-letter="S" data-search="soul shrine black flash: there is a 1% chance for melee attacks to have black flash applied on hit. this will multiply damage dealt by 2.5 and put the user in the zone, multiplying…">
 <a href="nightmares-soul-shrine/" aria-label="Open Soul Shrine">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-soul_shrine.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/soul-shrine.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Soul Shrine</h2>

@@ -1,6 +1,100 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:handler": {
+      "asset": "assets/upstream/nightmares/skills/handler.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-26",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Handler"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Handler.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Handler.png?a52b1c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T11:26:00Z",
+        "sha256": "cbaab241ccbaad9139fc540eea5aa2721f7c38abfed552542469014600fcca04",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:processor": {
+      "asset": "assets/upstream/nightmares/skills/processor.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-26",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Processor"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Processor.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Processor.png?50fb0d&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T06:41:00Z",
+        "sha256": "59189849c819833e9de8ce507d2758e56a4355124b02b3cada4f2b34a6a7b027",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:lemegeton": {
+      "asset": "assets/upstream/nightmares/skills/lemegeton.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-26",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Lemegeton"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Lemegeton.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Lemegeton.png?494811&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T06:39:00Z",
+        "sha256": "4d7876be57e97a17a8837b0c1d344cbd896da0ec915c56075d60f794087ee796",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:soul_shrine": {
+      "asset": "assets/upstream/nightmares/skills/soul-shrine.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-26",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Soul_Shrine"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Soul_shrine.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Soul_shrine.png?b0e201&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T11:34:00Z",
+        "sha256": "b82c02dd47a2f5dfdd53ee495eb88f0f509bfa1c024b25d513f96bbc5befbc9f",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:gift": {
+      "asset": "assets/illustrations/skills/gift.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-26",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Gift",
+        "result": "The live article contains no skill image."
+      }
+    },
     "trnightmare:avalon": {
       "asset": "assets/upstream/nightmares/skills/avalon.png",
       "kind": "verified-source",

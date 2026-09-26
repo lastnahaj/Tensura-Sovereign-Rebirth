@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-soul_shrine.svg" alt="Soul Shrine emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/soul-shrine.png" alt="Soul Shrine source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Soul_shrine.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Black Flash: There is a 1% chance for melee attacks to have black flash applied on hit. This will multiply damage dealt by 2.5 and put the user in the zone, multiplying all further attacks by 1.2x and increasing the chance of a black flash to 5%. This chance is increased by 20% after landing a black flash.</p>
@@ -51,4 +51,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Soul Shrine](https://tensuranightmares.wiki.gg/wiki/Soul_Shrine) on the Tensura Reincarnated Nightmares Wiki (revision `2719`, modified `2026-08-07T15:59:39Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Soul Shrine](https://tensuranightmares.wiki.gg/wiki/File:Soul_shrine.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-03T11:34:00Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

@@ -3240,7 +3240,7 @@
     },
     "tensura-reference/skills/unique/nightmares-gift/": {
       "title": "Gift",
-      "image": "assets/icons/skills/trnightmare-gift.svg",
+      "image": "assets/illustrations/skills/gift.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3252,13 +3252,13 @@
     },
     "tensura-reference/skills/unique/nightmares-lemegeton/": {
       "title": "Lemengeton",
-      "image": "assets/icons/skills/trnightmare-lemegeton.svg",
+      "image": "assets/upstream/nightmares/skills/lemegeton.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-processor/": {
       "title": "Processor",
-      "image": "assets/icons/skills/trnightmare-processor.svg",
+      "image": "assets/upstream/nightmares/skills/processor.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3276,13 +3276,13 @@
     },
     "tensura-reference/skills/unique/nightmares-handler/": {
       "title": "Handler",
-      "image": "assets/icons/skills/trnightmare-handler.svg",
+      "image": "assets/upstream/nightmares/skills/handler.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-soul-shrine/": {
       "title": "Soul Shrine",
-      "image": "assets/icons/skills/trnightmare-soul_shrine.svg",
+      "image": "assets/upstream/nightmares/skills/soul-shrine.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
