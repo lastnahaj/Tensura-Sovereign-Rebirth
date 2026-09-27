@@ -1,6 +1,121 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:ending": {
+      "asset": "assets/upstream/nightmares/skills/ending.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Ending"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Ending.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Ending.png?b04b1e&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T11:38Z",
+        "sha256": "60d6253689e836e8da8f3fa4706d9057b8d11d01034b6789120e4f44ebc1d425",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:stasis": {
+      "asset": "assets/upstream/nightmares/skills/stasis.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Stasis"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Stasis.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Stasis.jpeg?1a10be&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:18Z",
+        "sha256": "74ceff7afd045fa8ec139e43bcdf4e7c731e3de4f969dbeec361f4c3fb4e4a2b",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:cadence": {
+      "asset": "assets/upstream/nightmares/skills/cadence.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Cadence"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Cadence.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Cadence.jpeg?edc53d&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T19:57Z",
+        "sha256": "440f94f911d1433f8467e540832608834e3837ac57add860701b9b4ec5dbcde2",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:stripes": {
+      "asset": "assets/upstream/nightmares/skills/stripes.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Stripes"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Duality.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Duality.png?d33aa7&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-06T18:31Z",
+        "sha256": "6285b7576871c059181dabf536aac9d1d696c7405526bcbba2586de24b4ae5d7",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:dominator": {
+      "asset": "assets/upstream/nightmares/skills/dominator.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Dominator"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Dominator.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Dominator.jpeg?200b62&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "ItsRyanFr",
+        "uploaded": "2025-07-08T18:02Z",
+        "sha256": "807349d4468fbbaee7ec179d94d7f800ae1196e9e078a68bb068f824321a2883",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:coffin_of_darkness": {
+      "asset": "assets/illustrations/skills/coffin-of-darkness.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Coffin_of_Darkness",
+        "result": "The live article contains no skill image."
+      }
+    },
     "trnightmare:handler": {
       "asset": "assets/upstream/nightmares/skills/handler.png",
       "kind": "verified-source",

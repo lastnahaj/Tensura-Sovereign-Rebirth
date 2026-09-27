@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-coffin_of_darkness.svg" alt="Coffin of Darkness emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/coffin-of-darkness.png" alt="Coffin of Darkness illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Assault Mode: When this skill is mastered, the first time the user would die, their death is prevented and user enters Assault Mode. This has a 1200 Second Cooldown, Assault Mode is active for 400 seconds (Both configurable)</p>
@@ -53,4 +53,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Coffin of Darkness](https://tensuranightmares.wiki.gg/wiki/Coffin_of_Darkness) on the Tensura Reincarnated Nightmares Wiki (revision `2676`, modified `2026-08-07T15:33:31Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

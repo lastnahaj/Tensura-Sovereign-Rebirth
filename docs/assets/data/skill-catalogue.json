@@ -3496,8 +3496,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-ending.svg"
+      "asset": "assets/upstream/nightmares/skills/ending.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-elementalist.md": {
       "id": "trnightmare:elementalist",
@@ -3536,8 +3537,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-coffin_of_darkness.svg"
+      "asset": "assets/illustrations/skills/coffin-of-darkness.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/intrinsic/nightmares-demonic-power.md": {
       "id": "trnightmare:demonic_power",
@@ -3577,8 +3579,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-stasis.svg"
+      "asset": "assets/upstream/nightmares/skills/stasis.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-cadence.md": {
       "id": "trnightmare:cadence",
@@ -3597,8 +3600,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-cadence.svg"
+      "asset": "assets/upstream/nightmares/skills/cadence.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-stripes.md": {
       "id": "trnightmare:stripes",
@@ -3617,8 +3621,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-stripes.svg"
+      "asset": "assets/upstream/nightmares/skills/stripes.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-amaterasu.md": {
       "id": "trnightmare:amaterasu",
@@ -3697,8 +3702,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-dominator.svg"
+      "asset": "assets/upstream/nightmares/skills/dominator.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-astraea.md": {
       "id": "trnightmare:astraea",

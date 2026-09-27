@@ -3288,7 +3288,7 @@
     },
     "tensura-reference/skills/unique/nightmares-ending/": {
       "title": "Ending",
-      "image": "assets/icons/skills/trnightmare-ending.svg",
+      "image": "assets/upstream/nightmares/skills/ending.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3300,7 +3300,7 @@
     },
     "tensura-reference/skills/unique/nightmares-coffin-of-darkness/": {
       "title": "Coffin of Darkness",
-      "image": "assets/icons/skills/trnightmare-coffin_of_darkness.svg",
+      "image": "assets/illustrations/skills/coffin-of-darkness.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3312,19 +3312,19 @@
     },
     "tensura-reference/skills/unique/nightmares-stasis/": {
       "title": "Stasis",
-      "image": "assets/icons/skills/trnightmare-stasis.svg",
+      "image": "assets/upstream/nightmares/skills/stasis.jpeg",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-cadence/": {
       "title": "Cadence",
-      "image": "assets/icons/skills/trnightmare-cadence.svg",
+      "image": "assets/upstream/nightmares/skills/cadence.jpeg",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-stripes/": {
       "title": "Stripes",
-      "image": "assets/icons/skills/trnightmare-stripes.svg",
+      "image": "assets/upstream/nightmares/skills/stripes.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3348,7 +3348,7 @@
     },
     "tensura-reference/skills/unique/nightmares-dominator/": {
       "title": "Dominator",
-      "image": "assets/icons/skills/trnightmare-dominator.svg",
+      "image": "assets/upstream/nightmares/skills/dominator.jpeg",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

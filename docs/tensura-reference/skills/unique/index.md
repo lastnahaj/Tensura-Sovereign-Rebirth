@@ -223,8 +223,8 @@ hide:
 <article class="reference-card" data-letter="C" data-search="cadence status quo: the user&#x27;s maximum health cannot be reduced by the likes of severance or cook.">
 <a href="nightmares-cadence/" aria-label="Open Cadence">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-cadence.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/cadence.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cadence</h2>
@@ -327,9 +327,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="coffin of darkness assault mode: when this skill is mastered, the first time the user would die, their death is prevented and user enters assault mode. this has a 1200 second cooldown…">
 <a href="nightmares-coffin-of-darkness/" aria-label="Open Coffin of Darkness">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-coffin_of_darkness.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/coffin-of-darkness.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Coffin of Darkness</h2>
@@ -598,8 +598,8 @@ hide:
 <article class="reference-card" data-letter="D" data-search="dominator (castle guard can be bypassed by nova break)">
 <a href="nightmares-dominator/" aria-label="Open Dominator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-dominator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/dominator.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Dominator</h2>
@@ -673,8 +673,8 @@ hide:
 <article class="reference-card" data-letter="E" data-search="ending using the sword without ending, makes it a one time use weapon. aswell it cripples the targets shp regen when hit by it.">
 <a href="nightmares-ending/" aria-label="Open Ending">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-ending.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/ending.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ending</h2>
@@ -1858,8 +1858,8 @@ hide:
 <article class="reference-card" data-letter="S" data-search="stasis status quo: the user&#x27;s maximum health cannot be reduced by the likes of severance or cook.">
 <a href="nightmares-stasis/" aria-label="Open Stasis">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-stasis.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/stasis.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Stasis</h2>
@@ -1873,8 +1873,8 @@ hide:
 <article class="reference-card" data-letter="S" data-search="stripes force: cannot be turned on unless object is turned off. user is unaffected by (disintegration, slowness, slow falling, mining fatigue, burden) and shatter multilayer…">
 <a href="nightmares-stripes/" aria-label="Open Stripes">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-stripes.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/stripes.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Stripes</h2>

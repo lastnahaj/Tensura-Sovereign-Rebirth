@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-stripes.svg" alt="Stripes emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/stripes.png" alt="Stripes source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Duality.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Force: Cannot be turned on unless Object is turned off. User is unaffected by (disintegration, slowness, slow falling, mining fatigue, burden) and shatter multilayer barrier. Entities are damaged when landing physical attacks on the user. Does not stop user from being damaged.</p>
@@ -50,4 +50,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Stripes](https://tensuranightmares.wiki.gg/wiki/Stripes) on the Tensura Reincarnated Nightmares Wiki (revision `2725`, modified `2026-08-07T16:00:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Stripes](https://tensuranightmares.wiki.gg/wiki/File:Duality.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-06T18:31Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->
