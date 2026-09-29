@@ -1580,8 +1580,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way.",
-      "description": "Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way."
+      "summary": "Strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack.",
+      "description": "Strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack."
     },
     {
       "page_id": 898,
@@ -1700,8 +1700,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one else. Violence cannot happen within Domicile.",
-      "description": "Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one else. Violence cannot happen within Domicile."
+      "summary": "Creates peaceful pocket dimensions for a private home or a trading space.",
+      "description": "Creates peaceful pocket dimensions for a private home or a trading space."
     },
     {
       "page_id": 908,
@@ -1738,8 +1738,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "{ \"title\":\"Unique Transfer\",",
-      "description": "{ \"title\":\"Unique Transfer\","
+      "summary": "Creates binding bargains involving EP, skills, and skill settings.",
+      "description": "Creates binding bargains involving EP, skills, and skill settings."
     },
     {
       "page_id": 940,

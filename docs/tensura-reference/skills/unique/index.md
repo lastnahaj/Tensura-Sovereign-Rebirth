@@ -475,16 +475,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="deal maker { &quot;title&quot;:&quot;unique transfer&quot;,">
+<article class="reference-card" data-letter="D" data-search="deal maker creates binding bargains involving ep, skills, and skill settings.">
 <a href="nightmares-deal-maker/" aria-label="Open Deal Maker">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-deal_maker.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/deal-maker.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Deal Maker</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>{ &quot;title&quot;:&quot;Unique Transfer&quot;,</p>
+<p>Creates binding bargains involving EP, skills, and skill settings.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -580,16 +580,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="domicile homestead - when pressed, the user is able to create a pocket dimension for their home. it comes with basic things, can be built in by the owner of the home, but no one…">
+<article class="reference-card" data-letter="D" data-search="domicile creates peaceful pocket dimensions for a private home or a trading space.">
 <a href="nightmares-domicile/" aria-label="Open Domicile">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-domicile.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/domicile.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Domicile</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one…</p>
+<p>Creates peaceful pocket dimensions for a private home or a trading space.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -685,16 +685,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="E" data-search="endorse strengthened, resistance, regeneration, speed, magicule regeneration. when looking at an entity, it instead buffs them the same way.">
+<article class="reference-card" data-letter="E" data-search="endorse strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack.">
 <a href="nightmares-endorse/" aria-label="Open Endorse">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-endorse.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/endorse.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Endorse</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way.</p>
+<p>Strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

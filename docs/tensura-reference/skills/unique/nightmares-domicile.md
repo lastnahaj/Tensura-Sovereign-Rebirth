@@ -1,6 +1,6 @@
 ---
 title: Domicile
-description: Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one else. Violence cannot happen within Domicile.
+description: Creates peaceful pocket dimensions for a private home or a trading space.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-domicile.svg" alt="Domicile emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/domicile.png" alt="Domicile illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Homestead - When pressed, the user is able to create a pocket dimension for their home. It comes with basic things, can be built in by the owner of the home, but no one else. Violence cannot happen within Domicile.</p>
+<p>Creates peaceful pocket dimensions for a private home or a trading space.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -49,4 +49,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Domicile](https://tensuranightmares.wiki.gg/wiki/Domicile) on the Tensura Reincarnated Nightmares Wiki (revision `2686`, modified `2026-08-07T15:42:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

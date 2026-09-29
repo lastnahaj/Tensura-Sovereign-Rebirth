@@ -1,6 +1,36 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:endorse": {
+      "asset": "assets/illustrations/skills/endorse.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Endorse",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:domicile": {
+      "asset": "assets/illustrations/skills/domicile.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Domicile",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:deal_maker": {
+      "asset": "assets/illustrations/skills/deal-maker.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Deal_Maker",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
     "trnightmare:carnation": {
       "asset": "assets/illustrations/skills/carnation.png",
       "kind": "original-illustration",

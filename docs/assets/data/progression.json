@@ -3588,7 +3588,7 @@
     },
     "tensura-reference/skills/unique/nightmares-endorse/": {
       "title": "Endorse",
-      "image": "assets/icons/skills/trnightmare-endorse.svg",
+      "image": "assets/illustrations/skills/endorse.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3624,7 +3624,7 @@
     },
     "tensura-reference/skills/unique/nightmares-domicile/": {
       "title": "Domicile",
-      "image": "assets/icons/skills/trnightmare-domicile.svg",
+      "image": "assets/illustrations/skills/domicile.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3636,7 +3636,7 @@
     },
     "tensura-reference/skills/unique/nightmares-deal-maker/": {
       "title": "Deal Maker",
-      "image": "assets/icons/skills/trnightmare-deal_maker.svg",
+      "image": "assets/illustrations/skills/deal-maker.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

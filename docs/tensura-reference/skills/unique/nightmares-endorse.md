@@ -1,6 +1,6 @@
 ---
 title: Endorse
-description: Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way.
+description: Strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-endorse.svg" alt="Endorse emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/endorse.png" alt="Endorse illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Strengthened, Resistance, Regeneration, Speed, Magicule Regeneration. When looking at an entity, it instead buffs them the same way.</p>
+<p>Strengthens barriers and beneficial effects for yourself or a target, and stores power for your next attack.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -51,4 +51,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Endorse](https://tensuranightmares.wiki.gg/wiki/Endorse) on the Tensura Reincarnated Nightmares Wiki (revision `2697`, modified `2026-08-07T15:54:49Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

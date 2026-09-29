@@ -4513,8 +4513,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-endorse.svg"
+      "asset": "assets/illustrations/skills/endorse.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-witches-envy.md": {
       "id": "trnightmare:witches_envy",
@@ -4635,8 +4636,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-domicile.svg"
+      "asset": "assets/illustrations/skills/domicile.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-imitator.md": {
       "id": "trnightmare:imitator",
@@ -4675,8 +4677,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-deal_maker.svg"
+      "asset": "assets/illustrations/skills/deal-maker.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/extra/nightmares-concentrator.md": {
       "id": "trnightmare:concentrator",
