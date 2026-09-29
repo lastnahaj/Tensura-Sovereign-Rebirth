@@ -1,6 +1,36 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:time_traveler": {
+      "asset": "assets/illustrations/skills/time-traveler.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Time_Traveler",
+        "result": "The live article contains a File:Time Traveler.png placeholder and no image."
+      }
+    },
+    "trnightmare:designer": {
+      "asset": "assets/illustrations/skills/designer.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Designer",
+        "result": "The live article contains a File:Designer.png placeholder and no image."
+      }
+    },
+    "trnightmare:saint": {
+      "asset": "assets/illustrations/skills/saint.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Saint",
+        "result": "The live article contains a File:.png placeholder and no image."
+      }
+    },
     "trnightmare:ending": {
       "asset": "assets/upstream/nightmares/skills/ending.png",
       "kind": "verified-source",

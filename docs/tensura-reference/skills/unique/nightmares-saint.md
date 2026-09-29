@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-saint.svg" alt="Saint emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/saint.png" alt="Saint illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Spiritron Collection - The user gains a new Energy bar below their MP and AP Bars, this containts the user&#x27;s Spiritron Point Bar. This bar will passively fill up so long as the user&#x27;s MP is at 90% or higher. The Spiritron bar will regenerate 1 Spiritron a second (5 when mastered) and has a maximum size of 100.</p>
@@ -54,4 +54,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Saint](https://tensuranightmares.wiki.gg/wiki/Saint) on the Tensura Reincarnated Nightmares Wiki (revision `2714`, modified `2026-08-07T15:57:37Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

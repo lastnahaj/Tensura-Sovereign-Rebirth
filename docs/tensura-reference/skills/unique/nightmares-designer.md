@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-designer.svg" alt="Designer emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/designer.png" alt="Designer illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Skill Evolution - When Pressed, the user opens up the Skill Designer GUI which will contain the various Skill Evolution options. Each Evolution option has various MP costs per. Skill Evolutions MP cost to attempt is offten equal to the Total MP of possible Skills, sometimes x2.</p>
@@ -53,4 +53,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Designer](https://tensuranightmares.wiki.gg/wiki/Designer) on the Tensura Reincarnated Nightmares Wiki (revision `2829`, modified `2026-08-21T13:27:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

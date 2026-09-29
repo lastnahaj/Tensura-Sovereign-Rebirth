@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-time_traveler.svg" alt="Time Traveler emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/time-traveler.png" alt="Time Traveler illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Time Leap: The user will periodically &quot;save&quot; their location and data. If they were to die, they will return to their last random save. This has a 10 minute cooldown between uses</p>
@@ -54,4 +54,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Time Traveler](https://tensuranightmares.wiki.gg/wiki/Time_Traveler) on the Tensura Reincarnated Nightmares Wiki (revision `2729`, modified `2026-08-07T16:01:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

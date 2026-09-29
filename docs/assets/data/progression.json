@@ -3372,7 +3372,7 @@
     },
     "tensura-reference/skills/unique/nightmares-time-traveler/": {
       "title": "Time Traveler",
-      "image": "assets/icons/skills/trnightmare-time_traveler.svg",
+      "image": "assets/illustrations/skills/time-traveler.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3444,7 +3444,7 @@
     },
     "tensura-reference/skills/unique/nightmares-designer/": {
       "title": "Designer",
-      "image": "assets/icons/skills/trnightmare-designer.svg",
+      "image": "assets/illustrations/skills/designer.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3474,7 +3474,7 @@
     },
     "tensura-reference/skills/unique/nightmares-saint/": {
       "title": "Saint",
-      "image": "assets/icons/skills/trnightmare-saint.svg",
+      "image": "assets/illustrations/skills/saint.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

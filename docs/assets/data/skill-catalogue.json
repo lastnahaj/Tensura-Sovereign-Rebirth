@@ -3783,8 +3783,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-time_traveler.svg"
+      "asset": "assets/illustrations/skills/time-traveler.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-hastur.md": {
       "id": "trnightmare:hastur",
@@ -4024,8 +4025,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-designer.svg"
+      "asset": "assets/illustrations/skills/designer.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-astarte.md": {
       "id": "trnightmare:astarte",
@@ -4124,8 +4126,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-saint.svg"
+      "asset": "assets/illustrations/skills/saint.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-belial.md": {
       "id": "trnightmare:belial",

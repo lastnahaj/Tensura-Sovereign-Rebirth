@@ -522,9 +522,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="D" data-search="designer skill evolution - when pressed, the user opens up the skill designer gui which will contain the various skill evolution options. each evolution option has various mp…">
 <a href="nightmares-designer/" aria-label="Open Designer">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-designer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/designer.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Designer</h2>
@@ -1587,9 +1587,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="S" data-search="saint spiritron collection - the user gains a new energy bar below their mp and ap bars, this containts the user&#x27;s spiritron point bar. this bar will passively fill up so…">
 <a href="nightmares-saint/" aria-label="Open Saint">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-saint.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/saint.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Saint</h2>
@@ -1977,9 +1977,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="T" data-search="time traveler time leap: the user will periodically &quot;save&quot; their location and data. if they were to die, they will return to their last random save. this has a 10 minute cooldown…">
 <a href="nightmares-time-traveler/" aria-label="Open Time Traveler">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-time_traveler.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/time-traveler.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Time Traveler</h2>
