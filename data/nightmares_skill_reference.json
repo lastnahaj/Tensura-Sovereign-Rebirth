@@ -1065,8 +1065,8 @@
           "text": "Master Leviathan, Gabriel, have enough MP, killed 15k Mobs and have Insanity lvl 4 applied to yourself"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Eversleeping he stays, as his awakening is the end of humanity\"",
+      "source_partial": true,
+      "summary": "Combine energy siphoning, time control, freezing attacks, and a protective Snow Shell.",
       "description": "\"Eversleeping he stays, as his awakening is the end of humanity\""
     },
     {
@@ -1403,11 +1403,11 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Deadly Poison, have enough MP, master Spatial Dom, Multilayer Barrier and spatial motion, kill 1.5k mobs and hit atleast 25 mobs with Lethal dose"
+          "text": "Master Deadly Poison, Spatial Domination, Multilayer Barrier, and Spatial Motion; meet the MP requirement; kill 1,500 mobs; and reach maximum Lethal Dose 25 times."
         }
       ],
-      "source_partial": false,
-      "summary": "\"Oi mate, this is spider Central HQ; your gonna get poisoned no matter what you do\"",
+      "source_partial": true,
+      "summary": "Refine lethal poisons, inject cursed attacks, and draw targets into Death World.",
       "description": "\"Oi mate, this is spider Central HQ; your gonna get poisoned no matter what you do\""
     },
     {
@@ -1436,8 +1436,8 @@
           "text": "Someone uses Alteration on you while you have Raguel and Uriel mastered"
         }
       ],
-      "source_partial": false,
-      "summary": "When used normally, the user accelerators forward at high speeds dealing a massive amount of damage in a straight line. 350 (500 Flame Damage when mastered) + Attack Damage.",
+      "source_partial": true,
+      "summary": "Amplify magical power, accelerate through enemies, and strengthen allies and barriers.",
       "description": "When used normally, the user accelerators forward at high speeds dealing a massive amount of damage in a straight line. 350 (500 Flame Damage when mastered) + Attack Damage."
     },
     {

@@ -320,31 +320,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="cthugha, king of divine flame when used normally, the user accelerators forward at high speeds dealing a massive amount of damage in a straight line. 350 (500 flame damage when mastered) + attack…">
+<article class="reference-card" data-letter="C" data-search="cthugha, king of divine flame amplify magical power, accelerate through enemies, and strengthen allies and barriers.">
 <a href="nightmares-cthugha/" aria-label="Open Cthugha, King of Divine Flame">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-cthugha.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/cthugha.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cthugha, King of Divine Flame</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>When used normally, the user accelerators forward at high speeds dealing a massive amount of damage in a straight line. 350 (500 Flame Damage when mastered) + Attack…</p>
+<p>Amplify magical power, accelerate through enemies, and strengthen allies and barriers.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="cthulhu, king of divine ice &quot;eversleeping he stays, as his awakening is the end of humanity&quot;">
+<article class="reference-card" data-letter="C" data-search="cthulhu, king of divine ice combine energy siphoning, time control, freezing attacks, and a protective snow shell.">
 <a href="nightmares-cthulhu/" aria-label="Open Cthulhu, King of Divine Ice">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-cthulhu.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/cthulhu.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cthulhu, King of Divine Ice</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Eversleeping he stays, as his awakening is the end of humanity&quot;</p>
+<p>Combine energy siphoning, time control, freezing attacks, and a protective Snow Shell.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -650,16 +650,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="samael, lord of deadly poison &quot;oi mate, this is spider central hq; your gonna get poisoned no matter what you do&quot;">
+<article class="reference-card" data-letter="S" data-search="samael, lord of deadly poison refine lethal poisons, inject cursed attacks, and draw targets into death world.">
 <a href="nightmares-samael/" aria-label="Open Samael, Lord of Deadly Poison">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-samael.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/samael.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Samael, Lord of Deadly Poison</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Oi mate, this is spider Central HQ; your gonna get poisoned no matter what you do&quot;</p>
+<p>Refine lethal poisons, inject cursed attacks, and draw targets into Death World.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

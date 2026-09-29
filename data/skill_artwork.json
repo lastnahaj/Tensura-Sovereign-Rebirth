@@ -1,6 +1,47 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:samael": {
+      "asset": "assets/illustrations/skills/samael.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Samael",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:cthugha": {
+      "asset": "assets/illustrations/skills/cthugha.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Cthugha",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:cthulhu": {
+      "asset": "assets/upstream/nightmares/skills/cthulhu.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Cthulhu"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Cthulhu.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Cthulhu.png?9ab7da&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Maske",
+        "uploaded": "2026-05-28T15:40Z",
+        "sha256": "3dc2aad8a885f650c0a4a67ade288cf046edf8e5f84206af07a77ba2775d755e",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
     "trnightmare:babylon": {
       "asset": "assets/upstream/nightmares/skills/babylon.png",
       "kind": "verified-source",

@@ -4070,9 +4070,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-cthulhu.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/cthulhu.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-belphegor.md": {
       "id": "trnightmare:belphegor",
@@ -4379,9 +4380,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-samael.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/samael.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-cthugha.md": {
       "id": "trnightmare:cthugha",
@@ -4399,9 +4401,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-cthugha.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/cthugha.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-nodens.md": {
       "id": "trnightmare:nodens",

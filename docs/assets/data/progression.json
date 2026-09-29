@@ -3456,7 +3456,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-cthulhu/": {
       "title": "Cthulhu, King of Divine Ice",
-      "image": "assets/icons/skills/trnightmare-cthulhu.svg",
+      "image": "assets/upstream/nightmares/skills/cthulhu.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3546,13 +3546,13 @@
     },
     "tensura-reference/skills/ultimate/nightmares-samael/": {
       "title": "Samael, Lord of Deadly Poison",
-      "image": "assets/icons/skills/trnightmare-samael.svg",
+      "image": "assets/illustrations/skills/samael.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-cthugha/": {
       "title": "Cthugha, King of Divine Flame",
-      "image": "assets/icons/skills/trnightmare-cthugha.svg",
+      "image": "assets/illustrations/skills/cthugha.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },

@@ -34,6 +34,7 @@
 | Nightmares reference | In progress | Reviewed 1.21.1 skills and world content are merged into normal sections; remaining content needs the same evidence and presentation pass |
 | Sources and attribution | Implemented; review queue active | Public ledger, revision attribution, and media provenance are linked; the September 22 live audit found 0 invalid mod URLs and 165 newer upstream article revisions awaiting review |
 | Upstream media | Implemented | File-page CC BY-SA declaration verified; media imported with per-file exception checks and attribution records |
+| Skill artwork | In progress | Intrinsic, Common, Extra, and all 141 Unique entries use reviewed source media or TSR illustrations; remaining Ultimate and Resistance artwork is being reviewed. Original artwork is labeled separately from in-game icons |
 | Terratonic terrain | Playable startup verified; gameplay Under Validation | Terralith, Tectonic, and required libraries are active; extended exploration and density profiling remain |
 | Adventure, bosses, dimensions | Playable startup verified; gameplay Under Validation | Selected targets construct in the assembled runtime; extended progression and encounter testing remain |
 | Curated structures | Planned / Under Validation | One-at-a-time density, collision, restart, and generation profiling required |
