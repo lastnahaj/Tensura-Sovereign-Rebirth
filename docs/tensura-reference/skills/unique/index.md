@@ -102,9 +102,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="A" data-search="arelkos earth bound - the user gains all of the aspectual earth spells.">
 <a href="nightmares-arelkos/" aria-label="Open Arelkos">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-arelkos.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/arelkos.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Arelkos</h2>
@@ -177,9 +177,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="B" data-search="breaker space breaker - the user reduces spatial damage by 10% (20% when mastered). the user&#x27;s adds spatial damage equal to 0.5x the attack damage of the user. this doesn&#x27;t…">
 <a href="nightmares-breaker/" aria-label="Open Breaker">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-breaker.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/breaker.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Breaker</h2>
@@ -865,16 +865,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="glorious &quot;its simply peak. and this is just the beginning!&quot;">
+<article class="reference-card" data-letter="G" data-search="glorious combines spatial protection, faster skill mastery, danger detection, and efficient regeneration.">
 <a href="nightmares-glorious/" aria-label="Open Glorious">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-glorious.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/glorious.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Glorious</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Its simply Peak. And this is just the beginning!&quot;</p>
+<p>Combines spatial protection, faster skill mastery, danger detection, and efficient regeneration.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

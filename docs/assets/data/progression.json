@@ -3486,7 +3486,7 @@
     },
     "tensura-reference/skills/unique/nightmares-breaker/": {
       "title": "Breaker",
-      "image": "assets/icons/skills/trnightmare-breaker.svg",
+      "image": "assets/illustrations/skills/breaker.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3522,7 +3522,7 @@
     },
     "tensura-reference/skills/unique/nightmares-glorious/": {
       "title": "Glorious",
-      "image": "assets/icons/skills/trnightmare-glorious.svg",
+      "image": "assets/illustrations/skills/glorious.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3966,7 +3966,7 @@
     },
     "tensura-reference/skills/unique/nightmares-arelkos/": {
       "title": "Arelkos",
-      "image": "assets/icons/skills/trnightmare-arelkos.svg",
+      "image": "assets/illustrations/skills/arelkos.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

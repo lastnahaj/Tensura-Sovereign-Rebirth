@@ -1,6 +1,36 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:breaker": {
+      "asset": "assets/illustrations/skills/breaker.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-27",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Breaker",
+        "result": "The live article contains a File:Breaker.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:arelkos": {
+      "asset": "assets/illustrations/skills/arelkos.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Arelkos",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:glorious": {
+      "asset": "assets/illustrations/skills/glorious.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Glorious",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
     "trnightmare:elegy": {
       "asset": "assets/upstream/nightmares/skills/elegy.jpeg",
       "kind": "verified-source",

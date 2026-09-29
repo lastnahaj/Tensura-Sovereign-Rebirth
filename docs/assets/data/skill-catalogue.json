@@ -4167,8 +4167,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-breaker.svg"
+      "asset": "assets/illustrations/skills/breaker.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-elegy.md": {
       "id": "trnightmare:elegy",
@@ -4290,8 +4291,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-glorious.svg"
+      "asset": "assets/illustrations/skills/glorious.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-lord-of-magewolves.md": {
       "id": "trnightmare:lord_of_magewolves",
@@ -5785,8 +5787,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-arelkos.svg"
+      "asset": "assets/illustrations/skills/arelkos.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/extra/nightmares-godspeed-regeneration.md": {
       "id": "trnightmare:godspeed_regeneration",
