@@ -1,6 +1,6 @@
 ---
 title: Elementalist
-description: '"The forces of the world itself, dust at the tips of ones fingers."'
+description: Boost elemental damage, choose an elemental affinity, and convert damage into Magicules.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-elementalist.svg" alt="Elementalist emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/elementalist.png" alt="Elementalist illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>&quot;The forces of the world itself, dust at the tips of ones fingers.&quot;</p>
+<p>Boost elemental damage, choose an elemental affinity, and convert damage into Magicules.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -53,4 +53,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Elementalist](https://tensuranightmares.wiki.gg/wiki/Elementalist) on the Tensura Reincarnated Nightmares Wiki (revision `2695`, modified `2026-08-07T15:51:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

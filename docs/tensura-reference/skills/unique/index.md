@@ -55,16 +55,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="acceleration scorching flames - this increases flame damage by +25 (50 when mastered).">
+<article class="reference-card" data-letter="A" data-search="acceleration superheat magicules and unleash concentrated flame attacks.">
 <a href="nightmares-acceleration/" aria-label="Open Acceleration">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-acceleration.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/acceleration.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Acceleration</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Scorching Flames - This increases Flame Damage by +25 (50 when mastered).</p>
+<p>Superheat Magicules and unleash concentrated flame attacks.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -115,16 +115,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="babylon golden rule - grants a permanent luck 5 effect.">
+<article class="reference-card" data-letter="B" data-search="babylon store weapons, fire them through golden portals, and bind targets with holy chains.">
 <a href="nightmares-babylon/" aria-label="Open Babylon">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-babylon.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/babylon.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Babylon</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Golden Rule - Grants a permanent Luck 5 effect.</p>
+<p>Store weapons, fire them through golden portals, and bind targets with holy chains.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -550,16 +550,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="divide dragon&#x27;s claw - the user gains +1 attack damage per 100 mastery. (1,000 mastery by default). this becomes 2 when mastered.">
+<article class="reference-card" data-letter="D" data-search="divide enhance melee damage and slash through resistances.">
 <a href="nightmares-divide/" aria-label="Open Divide">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-divide.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/divide.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Divide</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Dragon&#x27;s Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered.</p>
+<p>Enhance melee damage and slash through resistances.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -655,16 +655,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="E" data-search="elementalist &quot;the forces of the world itself, dust at the tips of ones fingers.&quot;">
+<article class="reference-card" data-letter="E" data-search="elementalist boost elemental damage, choose an elemental affinity, and convert damage into magicules.">
 <a href="nightmares-elementalist/" aria-label="Open Elementalist">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-elementalist.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/elementalist.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Elementalist</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;The forces of the world itself, dust at the tips of ones fingers.&quot;</p>
+<p>Boost elemental damage, choose an elemental affinity, and convert damage into Magicules.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -792,9 +792,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="F" data-search="fourth wall toggle a learning and mastery gain attribute bonus.">
 <a href="fourth-wall/" aria-label="Open Fourth Wall">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/mysticism-fourth_wall.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/fourth-wall.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Fourth Wall</h2>
@@ -1075,16 +1075,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="infinity this skill is almost like cheating, isn&#x27;t it?">
+<article class="reference-card" data-letter="I" data-search="infinity learn spells from incoming magic, amplify casting, and cancel effects.">
 <a href="nightmares-infinity/" aria-label="Open Infinity">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-infinity.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/infinity.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Infinity</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>This skill is almost like cheating, isn&#x27;t it?</p>
+<p>Learn spells from incoming magic, amplify casting, and cancel effects.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1405,16 +1405,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="P" data-search="projection sorcery [passive - toggle] 24 fps - summon 24 copies of your self mimicking your previous movements that hold your momentum. as you move more and more your attack and movement…">
+<article class="reference-card" data-letter="P" data-search="projection sorcery build momentum through movement copies, then spend it on rapid attacks.">
 <a href="nightmares-projection-sorcery/" aria-label="Open Projection Sorcery">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-projection_sorcery.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/projection-sorcery.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Projection Sorcery</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>[Passive - Toggle] 24 FPS - Summon 24 copies of your self mimicking your previous movements that hold your momentum. As you move more and more your attack and movement…</p>
+<p>Build momentum through movement copies, then spend it on rapid attacks.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1750,16 +1750,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="snatch sneak usage lets this mode affect all entities in a 20 block radius with longer cd">
+<article class="reference-card" data-letter="S" data-search="snatch steal strength and resources while supporting regeneration and concealment.">
 <a href="nightmares-snatch/" aria-label="Open Snatch">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-snatch.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/snatch.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Snatch</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD</p>
+<p>Steal strength and resources while supporting regeneration and concealment.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1900,16 +1900,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="sunshine the pinnacle of light, the brilliance of noon.">
+<article class="reference-card" data-letter="S" data-search="sunshine harness daytime power and wield solar flames.">
 <a href="nightmares-sunshine/" aria-label="Open Sunshine">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-sunshine.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/sunshine.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Sunshine</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>The pinnacle of light, the brilliance of noon.</p>
+<p>Harness daytime power and wield solar flames.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -2095,31 +2095,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="W" data-search="witch&#x27;s envy witch&#x27;s gaze - this skill cannot be copied.">
+<article class="reference-card" data-letter="W" data-search="witch&#x27;s envy return to a saved checkpoint after death and wield curse-based retaliation.">
 <a href="nightmares-witches-envy/" aria-label="Open Witch&#x27;s Envy">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-witches_envy.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/witches-envy.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Witch&#x27;s Envy</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Witch&#x27;s Gaze - This skill cannot be copied.</p>
+<p>Return to a saved checkpoint after death and wield curse-based retaliation.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="W" data-search="witch&#x27;s greed lion&#x27;s heart - the user is immune to any damage dealt to their hp stat., unless the attack possess time manipualation from skills or x2 the user&#x27;s ep.. this requires a…">
+<article class="reference-card" data-letter="W" data-search="witch&#x27;s greed protect hp through a heart vessel and wield spatial and time-stopped attacks.">
 <a href="nightmares-witches-greed/" aria-label="Open Witch&#x27;s Greed">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-witches_greed.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/witches-greed.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Witch&#x27;s Greed</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Lion&#x27;s Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user&#x27;s EP.. This requires a…</p>
+<p>Protect HP through a heart vessel and wield spatial and time-stopped attacks.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

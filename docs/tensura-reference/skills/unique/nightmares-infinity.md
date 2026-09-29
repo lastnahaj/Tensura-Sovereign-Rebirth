@@ -1,6 +1,6 @@
 ---
 title: Infinity
-description: This skill is almost like cheating, isn't it?
+description: Learn spells from incoming magic, amplify casting, and cancel effects.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-infinity.svg" alt="Infinity emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/infinity.png" alt="Infinity illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>This skill is almost like cheating, isn&#x27;t it?</p>
+<p>Learn spells from incoming magic, amplify casting, and cancel effects.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -59,4 +59,6 @@ Reincarnation</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Infinity](https://tensuranightmares.wiki.gg/wiki/Infinity) on the Tensura Reincarnated Nightmares Wiki (revision `2765`, modified `2026-08-09T19:00:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -3146,7 +3146,8 @@
       "namespace": "mysticism",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
       "maintained": true,
-      "asset": "assets/icons/skills/mysticism-fourth_wall.svg",
+      "asset": "assets/illustrations/skills/fourth-wall.png",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-asmodeus.md": {
@@ -3186,8 +3187,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-infinity.svg"
+      "asset": "assets/illustrations/skills/infinity.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-snatch.md": {
       "id": "trnightmare:snatch",
@@ -3206,8 +3208,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-snatch.svg"
+      "asset": "assets/illustrations/skills/snatch.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/nightmares-magic-regeneration.md": {
       "id": "trnightmare:magic_regeneration",
@@ -3247,8 +3250,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-sunshine.svg"
+      "asset": "assets/illustrations/skills/sunshine.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-lucifer.md": {
       "id": "trnightmare:lucifer",
@@ -3517,8 +3521,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-elementalist.svg"
+      "asset": "assets/illustrations/skills/elementalist.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-coffin-of-darkness.md": {
       "id": "trnightmare:coffin_of_darkness",
@@ -4538,8 +4543,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-witches_envy.svg"
+      "asset": "assets/illustrations/skills/witches-envy.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/intrinsic/nightmares-material-creation.md": {
       "id": "trnightmare:material_creation",
@@ -4579,8 +4585,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-divide.svg"
+      "asset": "assets/upstream/nightmares/skills/divide.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-acceleration.md": {
       "id": "trnightmare:acceleration",
@@ -4599,8 +4606,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-acceleration.svg"
+      "asset": "assets/illustrations/skills/acceleration.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-cessation.md": {
       "id": "trnightmare:cessation",
@@ -5351,8 +5359,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-projection_sorcery.svg"
+      "asset": "assets/upstream/nightmares/skills/projection-sorcery.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-alteration.md": {
       "id": "trnightmare:alteration",
@@ -5518,8 +5527,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-babylon.svg"
+      "asset": "assets/upstream/nightmares/skills/babylon.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-witches-greed.md": {
       "id": "trnightmare:witches_greed",
@@ -5538,8 +5548,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-witches_greed.svg"
+      "asset": "assets/illustrations/skills/witches-greed.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-scavenger.md": {
       "id": "trnightmare:scavenger",

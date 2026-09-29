@@ -1,6 +1,156 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:babylon": {
+      "asset": "assets/upstream/nightmares/skills/babylon.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Babylon"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Babylon.gif",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Babylon.gif?cdb22a&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-08-20T12:35Z",
+        "sha256": "39095ed2bb3ea265e2a6676f8fa1d9c8fa5ec01a330f66e7a03fb5711dc48392",
+        "original_asset": "assets/upstream/nightmares/skills/babylon.gif",
+        "original_sha256": "46e489cc70300414388359d89a328dd8acad1015618fa0c97756e7e72206e6d7",
+        "modifications": "First frame extracted as a PNG preview; pixel content unaltered. The original animation is available on the source file page."
+      }
+    },
+    "mysticism:fourth_wall": {
+      "asset": "assets/illustrations/skills/fourth-wall.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://trmysticism.wiki.gg/wiki/Special:Search?search=Fourth+Wall",
+        "result": "The wiki search returned no Fourth Wall article or source media; mechanics are documented from the pinned implementation."
+      }
+    },
+    "trnightmare:infinity": {
+      "asset": "assets/illustrations/skills/infinity.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Infinity",
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Infinity.png",
+        "result": "Source icon exists, but the file-specific notice assigns ownership to the game studio or licensors. Reuse permission is not established; original TSR artwork is used."
+      }
+    },
+    "trnightmare:snatch": {
+      "asset": "assets/illustrations/skills/snatch.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Snatch",
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Snatch.png",
+        "result": "Source icon exists, but the file-specific notice assigns ownership to the game studio or licensors. Reuse permission is not established; original TSR artwork is used."
+      }
+    },
+    "trnightmare:sunshine": {
+      "asset": "assets/illustrations/skills/sunshine.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Sunshine",
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Sunshine.png",
+        "result": "Source icon exists, but the file-specific notice assigns ownership to the game studio or licensors. Reuse permission is not established; original TSR artwork is used."
+      }
+    },
+    "trnightmare:elementalist": {
+      "asset": "assets/illustrations/skills/elementalist.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Elementalist",
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Elementalist.png",
+        "result": "Source icon exists, but the file-specific notice assigns ownership to the game studio or licensors. Reuse permission is not established; original TSR artwork is used."
+      }
+    },
+    "trnightmare:acceleration": {
+      "asset": "assets/illustrations/skills/acceleration.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Acceleration",
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Accel.gif",
+        "result": "Source icon exists, but the file-specific notice assigns ownership to the game studio or licensors. Reuse permission is not established; original TSR artwork is used."
+      }
+    },
+    "trnightmare:witches_envy": {
+      "asset": "assets/illustrations/skills/witches-envy.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Witch%27s_Envy",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:witches_greed": {
+      "asset": "assets/illustrations/skills/witches-greed.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Witch%27s_Greed",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:divide": {
+      "asset": "assets/upstream/nightmares/skills/divide.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Divide"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Divide.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Divide.jpeg?191b31&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:03Z",
+        "sha256": "863e1dfea48f0319910f1576188db35d7cbf83fcce94ee29e701e207a8336c91",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:projection_sorcery": {
+      "asset": "assets/upstream/nightmares/skills/projection-sorcery.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Projection_Sorcery"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Projection_sorcery.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Projection_sorcery.png?306f4c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-08-06T08:17Z",
+        "sha256": "3bef4dcbee2df2caf1e13ca5b232a6d3f604905c9cec9e7ecb9b4e2fce53b738",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
     "trnightmare:robotnic": {
       "asset": "assets/upstream/nightmares/skills/robotnic.png",
       "kind": "verified-source",

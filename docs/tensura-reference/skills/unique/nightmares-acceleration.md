@@ -1,6 +1,6 @@
 ---
 title: Acceleration
-description: Scorching Flames - This increases Flame Damage by +25 (50 when mastered).
+description: Superheat Magicules and unleash concentrated flame attacks.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-acceleration.svg" alt="Acceleration emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/acceleration.png" alt="Acceleration illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Scorching Flames - This increases Flame Damage by +25 (50 when mastered).</p>
+<p>Superheat Magicules and unleash concentrated flame attacks.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -52,4 +52,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Acceleration](https://tensuranightmares.wiki.gg/wiki/Acceleration) on the Tensura Reincarnated Nightmares Wiki (revision `2664`, modified `2026-08-07T15:23:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

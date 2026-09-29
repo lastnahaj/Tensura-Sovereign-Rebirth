@@ -60,7 +60,7 @@
         }
       ],
       "source_partial": false,
-      "summary": "This skill is almost like cheating, isn't it?",
+      "summary": "Learn spells from incoming magic, amplify casting, and cancel effects.",
       "description": "This skill is almost like cheating, isn't it?"
     },
     {
@@ -85,7 +85,7 @@
         }
       ],
       "source_partial": false,
-      "summary": "Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD",
+      "summary": "Steal strength and resources while supporting regeneration and concealment.",
       "description": "Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": false,
-      "summary": "The pinnacle of light, the brilliance of noon.",
+      "summary": "Harness daytime power and wield solar flames.",
       "description": "The pinnacle of light, the brilliance of noon."
     },
     {
@@ -404,7 +404,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": false,
-      "summary": "\"The forces of the world itself, dust at the tips of ones fingers.\"",
+      "summary": "Boost elemental damage, choose an elemental affinity, and convert damage into Magicules.",
       "description": "\"The forces of the world itself, dust at the tips of ones fingers.\""
     },
     {
@@ -1599,7 +1599,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Witch's Gaze - This skill cannot be copied.",
+      "summary": "Return to a saved checkpoint after death and wield curse-based retaliation.",
       "description": "Witch's Gaze - This skill cannot be copied."
     },
     {
@@ -1643,7 +1643,7 @@
         }
       ],
       "source_partial": true,
-      "summary": "Dragon's Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered.",
+      "summary": "Enhance melee damage and slash through resistances.",
       "description": "Dragon's Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered."
     },
     {
@@ -1662,7 +1662,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Scorching Flames - This increases Flame Damage by +25 (50 when mastered).",
+      "summary": "Superheat Magicules and unleash concentrated flame attacks.",
       "description": "Scorching Flames - This increases Flame Damage by +25 (50 when mastered)."
     },
     {
@@ -2672,7 +2672,7 @@
         }
       ],
       "source_partial": true,
-      "summary": "[Passive - Toggle] 24 FPS - Summon 24 copies of your self mimicking your previous movements that hold your momentum. As you move more and more your attack and movement speed pile up, however, getting hit at high speed or suddenly stopping can end your momentum or get you stuck in 1 frame",
+      "summary": "Build momentum through movement copies, then spend it on rapid attacks.",
       "description": "[Passive - Toggle] 24 FPS - Summon 24 copies of your self mimicking your previous movements that hold your momentum. As you move more and more your attack and movement speed pile up, however, getting hit at high speed or suddenly stopping can end your momentum or get you stuck in 1 frame"
     },
     {
@@ -2859,7 +2859,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Golden Rule - Grants a permanent Luck 5 effect.",
+      "summary": "Store weapons, fire them through golden portals, and bind targets with holy chains.",
       "description": "Golden Rule - Grants a permanent Luck 5 effect."
     },
     {
@@ -2878,7 +2878,7 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Lion's Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user's EP.. This requires a Vessel to be sat.",
+      "summary": "Protect HP through a heart vessel and wield spatial and time-stopped attacks.",
       "description": "Lion's Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user's EP.. This requires a Vessel to be sat."
     },
     {

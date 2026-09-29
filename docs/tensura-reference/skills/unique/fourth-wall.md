@@ -3,7 +3,7 @@ title: Fourth Wall
 description: Toggle a learning and mastery gain attribute bonus.
 ---
 
-<section class="skill-detail-hero"><img src="../../../../assets/icons/skills/mysticism-fourth_wall.svg" alt="Fourth Wall emblem"><div><p class="reference-eyebrow">Unique Skills</p><h1>Fourth Wall</h1><p>Toggle a learning and mastery gain attribute bonus.</p></div></section>
+<section class="skill-detail-hero"><img src="../../../../assets/illustrations/skills/fourth-wall.png" alt="Fourth Wall illustration"><div><p class="reference-eyebrow">Unique Skills</p><h1>Fourth Wall</h1><p>Toggle a learning and mastery gain attribute bonus.</p></div></section>
 
 [Browse Unique Skills](index.md)
 
@@ -27,4 +27,8 @@ The skill is registered in the pinned build and appears in the exported skill in
 
 ## Evidence
 
-Documented from `FourthWallSkill` in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529). The [exported inventory](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura_skill_books/tensura_skill_books-random-skills.txt) confirms its registry identifier. This is an implementation check, not a live-server playtest. Artwork: TSR skill emblem.
+Documented from `FourthWallSkill` in [Mysticism 2.1.2 for NeoForge 1.21.1](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529). The [exported inventory](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura_skill_books/tensura_skill_books-random-skills.txt) confirms its registry identifier. This is an implementation check, not a live-server playtest.
+
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

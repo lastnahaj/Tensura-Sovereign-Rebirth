@@ -1,6 +1,6 @@
 ---
 title: Divide
-description: Dragon's Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered.
+description: Enhance melee damage and slash through resistances.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-divide.svg" alt="Divide emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/divide.jpeg" alt="Divide source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Divide.jpeg">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Dragon&#x27;s Claw - The user gains +1 Attack Damage per 100 Mastery. (1,000 Mastery by default). This becomes 2 when mastered.</p>
+<p>Enhance melee damage and slash through resistances.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -53,4 +53,6 @@ Gain it from Veldora.</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Divide](https://tensuranightmares.wiki.gg/wiki/Divide) on the Tensura Reincarnated Nightmares Wiki (revision `2685`, modified `2026-08-07T15:42:31Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Divide](https://tensuranightmares.wiki.gg/wiki/File:Divide.jpeg), Tensura Reincarnated Nightmares Wiki; uploaded by UnluckyWarl0ck (2025-05-31T20:03Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

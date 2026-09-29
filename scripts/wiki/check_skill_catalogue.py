@@ -43,6 +43,11 @@ def main():
             errors.append(f'Missing reviewed artwork: {skill_id}')
         elif entry['kind'] == 'verified-source' and hashlib.sha256(asset.read_bytes()).hexdigest() != entry['media']['sha256']:
             errors.append(f'Source artwork checksum mismatch: {skill_id}')
+        original_asset = entry.get('media', {}).get('original_asset')
+        if original_asset:
+            original_path = DOCS / original_asset
+            if not original_path.is_file() or hashlib.sha256(original_path.read_bytes()).hexdigest() != entry['media']['original_sha256']:
+                errors.append(f'Original source artwork checksum mismatch: {skill_id}')
     for name, content in outputs.items():
         if not (DOCS / name).exists() or (DOCS / name).read_text(encoding="utf-8") != content:
             errors.append(f"Stale skill output: {name}")
@@ -51,7 +56,7 @@ def main():
     nightmares = nightmares_manifest()
     active = {p: d for p, d in policy["pages"].items() if d["status"] in ACTIVE}
     for page, decision in active.items():
-        if decision['category'] in {'skills/intrinsic', 'skills/common', 'skills/extra'} and generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
+        if decision['category'] in {'skills/intrinsic', 'skills/common', 'skills/extra', 'skills/unique'} and generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
             errors.append(f'Legacy emblem returned to a completed skill category: {page}')
     active_routes = {route(p): d for p, d in active.items()}
     ability_search = json.loads(outputs['assets/data/skill-search.json'])

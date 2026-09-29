@@ -1,6 +1,6 @@
 ---
 title: Witch's Greed
-description: Lion's Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user's EP.. This requires a Vessel to be sat.
+description: Protect HP through a heart vessel and wield spatial and time-stopped attacks.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-witches_greed.svg" alt="Witch&#x27;s Greed emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/witches-greed.png" alt="Witch&#x27;s Greed illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Lion&#x27;s Heart - The user is immune to any damage dealt to their HP stat., unless the attack possess Time Manipualation from skills or x2 the user&#x27;s EP.. This requires a Vessel to be sat.</p>
+<p>Protect HP through a heart vessel and wield spatial and time-stopped attacks.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -52,4 +52,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Witch's Greed](https://tensuranightmares.wiki.gg/wiki/Witch%27s_Greed) on the Tensura Reincarnated Nightmares Wiki (revision `2787`, modified `2026-08-19T09:22:10Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

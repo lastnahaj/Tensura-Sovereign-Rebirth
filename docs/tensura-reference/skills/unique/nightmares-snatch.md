@@ -1,6 +1,6 @@
 ---
 title: Snatch
-description: Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD
+description: Steal strength and resources while supporting regeneration and concealment.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-snatch.svg" alt="Snatch emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/snatch.png" alt="Snatch illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Sneak Usage lets this Mode affect all Entities in a 20 block radius with longer CD</p>
+<p>Steal strength and resources while supporting regeneration and concealment.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -64,4 +64,6 @@ Reincarnation</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Snatch](https://tensuranightmares.wiki.gg/wiki/Snatch) on the Tensura Reincarnated Nightmares Wiki (revision `2946`, modified `2026-09-06T13:08:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

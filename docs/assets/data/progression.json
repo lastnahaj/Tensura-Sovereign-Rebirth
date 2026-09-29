@@ -3198,13 +3198,13 @@
     },
     "tensura-reference/skills/unique/nightmares-infinity/": {
       "title": "Infinity",
-      "image": "assets/icons/skills/trnightmare-infinity.svg",
+      "image": "assets/illustrations/skills/infinity.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-snatch/": {
       "title": "Snatch",
-      "image": "assets/icons/skills/trnightmare-snatch.svg",
+      "image": "assets/illustrations/skills/snatch.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3216,7 +3216,7 @@
     },
     "tensura-reference/skills/unique/nightmares-sunshine/": {
       "title": "Sunshine",
-      "image": "assets/icons/skills/trnightmare-sunshine.svg",
+      "image": "assets/illustrations/skills/sunshine.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3294,7 +3294,7 @@
     },
     "tensura-reference/skills/unique/nightmares-elementalist/": {
       "title": "Elementalist",
-      "image": "assets/icons/skills/trnightmare-elementalist.svg",
+      "image": "assets/illustrations/skills/elementalist.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3594,7 +3594,7 @@
     },
     "tensura-reference/skills/unique/nightmares-witches-envy/": {
       "title": "Witch's Envy",
-      "image": "assets/icons/skills/trnightmare-witches_envy.svg",
+      "image": "assets/illustrations/skills/witches-envy.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3606,13 +3606,13 @@
     },
     "tensura-reference/skills/unique/nightmares-divide/": {
       "title": "Divide",
-      "image": "assets/icons/skills/trnightmare-divide.svg",
+      "image": "assets/upstream/nightmares/skills/divide.jpeg",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-acceleration/": {
       "title": "Acceleration",
-      "image": "assets/icons/skills/trnightmare-acceleration.svg",
+      "image": "assets/illustrations/skills/acceleration.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3834,7 +3834,7 @@
     },
     "tensura-reference/skills/unique/nightmares-projection-sorcery/": {
       "title": "Projection Sorcery",
-      "image": "assets/icons/skills/trnightmare-projection_sorcery.svg",
+      "image": "assets/upstream/nightmares/skills/projection-sorcery.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3882,13 +3882,13 @@
     },
     "tensura-reference/skills/unique/nightmares-babylon/": {
       "title": "Babylon",
-      "image": "assets/icons/skills/trnightmare-babylon.svg",
+      "image": "assets/upstream/nightmares/skills/babylon.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-witches-greed/": {
       "title": "Witch's Greed",
-      "image": "assets/icons/skills/trnightmare-witches_greed.svg",
+      "image": "assets/illustrations/skills/witches-greed.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -4225,7 +4225,7 @@
     },
     "tensura-reference/skills/unique/fourth-wall/": {
       "title": "Fourth Wall",
-      "image": "assets/icons/skills/mysticism-fourth_wall.svg",
+      "image": "assets/illustrations/skills/fourth-wall.png",
       "category": "skills/unique"
     },
     "tensura-reference/races/angel/#angel": {

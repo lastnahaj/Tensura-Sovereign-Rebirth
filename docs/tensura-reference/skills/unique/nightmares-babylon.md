@@ -1,6 +1,6 @@
 ---
 title: Babylon
-description: Golden Rule - Grants a permanent Luck 5 effect.
+description: Store weapons, fire them through golden portals, and bind targets with holy chains.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-babylon.svg" alt="Babylon emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/babylon.png" alt="Babylon source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Babylon.gif">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Golden Rule - Grants a permanent Luck 5 effect.</p>
+<p>Store weapons, fire them through golden portals, and bind targets with holy chains.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -55,4 +55,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Babylon](https://tensuranightmares.wiki.gg/wiki/Babylon) on the Tensura Reincarnated Nightmares Wiki (revision `2945`, modified `2026-09-06T13:05:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Babylon](https://tensuranightmares.wiki.gg/wiki/File:Babylon.gif), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-08-20T12:35Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). First frame extracted as a PNG preview; pixel content unaltered. The original animation is available on the source file page.
+<!-- skill-artwork-credit:end -->
