@@ -1,6 +1,6 @@
 ---
 title: Scavenger
-description: Evil Eater - This is a predation ability. It is similar to Gluttony's Predator with the sole exception of it's ability to consume item's as well.
+description: Consumes and stores items, absorbing part of their EP and skills associated with their engravements.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-scavenger.svg" alt="Scavenger emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/scavenger.png" alt="Scavenger illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Evil Eater - This is a predation ability. It is similar to Gluttony&#x27;s Predator with the sole exception of it&#x27;s ability to consume item&#x27;s as well.</p>
+<p>Consumes and stores items, absorbing part of their EP and skills associated with their engravements.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -50,4 +50,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Scavenger](https://tensuranightmares.wiki.gg/wiki/Scavenger) on the Tensura Reincarnated Nightmares Wiki (revision `2789`, modified `2026-08-19T12:51:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -1,6 +1,6 @@
 ---
 title: Imitator
-description: Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory.
+description: Learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-imitator.svg" alt="Imitator emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/imitator.png" alt="Imitator illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory.</p>
+<p>Learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -49,4 +49,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Imitator](https://tensuranightmares.wiki.gg/wiki/Imitator) on the Tensura Reincarnated Nightmares Wiki (revision `2703`, modified `2026-08-07T15:55:36Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -1,6 +1,57 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:robotnic": {
+      "asset": "assets/upstream/nightmares/skills/robotnic.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Robotnic"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Robotnic.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Robotnic.png?77c1cd&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-06-16T14:11Z",
+        "sha256": "062fadee905addb0faff29fffdcd5259cbadbd33cd5ccb21d7731319d98df98f",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:imitator": {
+      "asset": "assets/illustrations/skills/imitator.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Imitator",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:scavenger": {
+      "asset": "assets/illustrations/skills/scavenger.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Scavenger",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:deluge": {
+      "asset": "assets/illustrations/skills/deluge.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Deluge",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
     "trnightmare:tempter": {
       "asset": "assets/illustrations/skills/tempter.png",
       "kind": "original-illustration",

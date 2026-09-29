@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-robotnic.svg" alt="Robotnic emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/robotnic.png" alt="Robotnic source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Robotnic.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Deconstruct: Data - Open a menu containing the user‘s entire list of skills, if skill is selected, add 1/2 of the skill‘s obtainment cost to the user‘s maximum MP, and 1/2 to the skill.</p>
@@ -48,4 +48,6 @@ tags:
 
 Tensura Nightmares reference adapted from [Robotnic](https://tensuranightmares.wiki.gg/wiki/Robotnic) on the Tensura Reincarnated Nightmares Wiki (revision `2713`, modified `2026-08-07T15:57:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Robotnic](https://tensuranightmares.wiki.gg/wiki/File:Robotnic.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-06-16T14:11Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

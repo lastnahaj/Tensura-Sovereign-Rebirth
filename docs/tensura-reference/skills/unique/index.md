@@ -505,16 +505,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="deluge wet like water - the user learns the water and ice aspectual magics.">
+<article class="reference-card" data-letter="D" data-search="deluge combines water and ice magic with a mist double, damaging rain illusions, and fast travel over water.">
 <a href="nightmares-deluge/" aria-label="Open Deluge">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-deluge.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/deluge.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Deluge</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Wet Like Water - The user learns the Water and Ice Aspectual Magics.</p>
+<p>Combines water and ice magic with a mist double, damaging rain illusions, and fast travel over water.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1045,16 +1045,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="I" data-search="imitator actor - the user can use this on a player to begin learning them. this is based of learn speed. when at 100%, you can shift use actor and select the name of the player…">
+<article class="reference-card" data-letter="I" data-search="imitator learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double.">
 <a href="nightmares-imitator/" aria-label="Open Imitator">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-imitator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/imitator.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Imitator</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player…</p>
+<p>Learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1558,8 +1558,8 @@ hide:
 <article class="reference-card" data-letter="R" data-search="robotnic deconstruct: data - open a menu containing the user‘s entire list of skills, if skill is selected, add 1/2 of the skill‘s obtainment cost to the user‘s maximum mp, and…">
 <a href="nightmares-robotnic/" aria-label="Open Robotnic">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-robotnic.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/robotnic.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Robotnic</h2>
@@ -1600,16 +1600,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="scavenger evil eater - this is a predation ability. it is similar to gluttony&#x27;s predator with the sole exception of it&#x27;s ability to consume item&#x27;s as well.">
+<article class="reference-card" data-letter="S" data-search="scavenger consumes and stores items, absorbing part of their ep and skills associated with their engravements.">
 <a href="nightmares-scavenger/" aria-label="Open Scavenger">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-scavenger.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/scavenger.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Scavenger</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Evil Eater - This is a predation ability. It is similar to Gluttony&#x27;s Predator with the sole exception of it&#x27;s ability to consume item&#x27;s as well.</p>
+<p>Consumes and stores items, absorbing part of their EP and skills associated with their engravements.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

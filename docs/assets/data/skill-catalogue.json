@@ -4661,8 +4661,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-imitator.svg"
+      "asset": "assets/illustrations/skills/imitator.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-deal-maker.md": {
       "id": "trnightmare:deal_maker",
@@ -4927,8 +4928,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-robotnic.svg"
+      "asset": "assets/upstream/nightmares/skills/robotnic.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-mood-maker.md": {
       "id": "trnightmare:mood_maker",
@@ -5556,8 +5558,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-scavenger.svg"
+      "asset": "assets/illustrations/skills/scavenger.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-deluge.md": {
       "id": "trnightmare:deluge",
@@ -5576,8 +5579,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-deluge.svg"
+      "asset": "assets/illustrations/skills/deluge.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-tantalus.md": {
       "id": "trnightmare:tantalus",

@@ -1719,8 +1719,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory.",
-      "description": "Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory."
+      "summary": "Learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double.",
+      "description": "Learns and imitates other entities, copying their identity, stats, and skills without their inventory; can also imprint an imitation onto a double."
     },
     {
       "page_id": 910,
@@ -2897,8 +2897,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Evil Eater - This is a predation ability. It is similar to Gluttony's Predator with the sole exception of it's ability to consume item's as well.",
-      "description": "Evil Eater - This is a predation ability. It is similar to Gluttony's Predator with the sole exception of it's ability to consume item's as well."
+      "summary": "Consumes and stores items, absorbing part of their EP and skills associated with their engravements.",
+      "description": "Consumes and stores items, absorbing part of their EP and skills associated with their engravements."
     },
     {
       "page_id": 1060,
@@ -2916,8 +2916,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Wet Like Water - The user learns the Water and Ice Aspectual Magics.",
-      "description": "Wet Like Water - The user learns the Water and Ice Aspectual Magics."
+      "summary": "Combines water and ice magic with a mist double, damaging rain illusions, and fast travel over water.",
+      "description": "Combines water and ice magic with a mist double, damaging rain illusions, and fast travel over water."
     },
     {
       "page_id": 1061,

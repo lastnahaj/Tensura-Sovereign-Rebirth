@@ -3630,7 +3630,7 @@
     },
     "tensura-reference/skills/unique/nightmares-imitator/": {
       "title": "Imitator",
-      "image": "assets/icons/skills/trnightmare-imitator.svg",
+      "image": "assets/illustrations/skills/imitator.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3708,7 +3708,7 @@
     },
     "tensura-reference/skills/unique/nightmares-robotnic/": {
       "title": "Robotnic",
-      "image": "assets/icons/skills/trnightmare-robotnic.svg",
+      "image": "assets/upstream/nightmares/skills/robotnic.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3894,13 +3894,13 @@
     },
     "tensura-reference/skills/unique/nightmares-scavenger/": {
       "title": "Scavenger",
-      "image": "assets/icons/skills/trnightmare-scavenger.svg",
+      "image": "assets/illustrations/skills/scavenger.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-deluge/": {
       "title": "Deluge",
-      "image": "assets/icons/skills/trnightmare-deluge.svg",
+      "image": "assets/illustrations/skills/deluge.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
