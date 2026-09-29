@@ -1,6 +1,26 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:tempter": {
+      "asset": "assets/illustrations/skills/tempter.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Tempter",
+        "result": "The live article contains a File:Tempter.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:deadly_poison": {
+      "asset": "assets/illustrations/skills/deadly-poison.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Deadly_Poison",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
     "trnightmare:sentient_being": {
       "asset": "assets/upstream/nightmares/skills/sentient-being.png",
       "kind": "verified-source",

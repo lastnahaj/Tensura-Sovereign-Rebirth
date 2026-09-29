@@ -460,16 +460,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="D" data-search="deadly poison &quot;its poison. deadly poison. so its a neurotoxin?&quot;">
+<article class="reference-card" data-letter="D" data-search="deadly poison builds a lethal dose through attacks or refinement, enabling stronger poisons and a spiritual-damage domain.">
 <a href="nightmares-deadly-poison/" aria-label="Open Deadly Poison">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-deadly_poison.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/deadly-poison.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Deadly Poison</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Its poison. Deadly poison. So its a neurotoxin?&quot;</p>
+<p>Builds a Lethal Dose through attacks or refinement, enabling stronger poisons and a spiritual-damage domain.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1945,16 +1945,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="tempter solicitation (requires mastery): while this skill is in-slot and mastered, the user will be able to copy sub-skills similarly to pride.">
+<article class="reference-card" data-letter="T" data-search="tempter traps charmed or frightened targets in illusions; mastery unlocks a separate dimension and sub-skill copying.">
 <a href="nightmares-tempter/" aria-label="Open Tempter">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-tempter.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/tempter.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Tempter</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Solicitation (Requires Mastery): While this skill is in-slot and mastered, the user will be able to copy sub-skills similarly to Pride.</p>
+<p>Traps charmed or frightened targets in illusions; mastery unlocks a separate dimension and sub-skill copying.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

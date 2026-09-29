@@ -1,6 +1,6 @@
 ---
 title: Deadly Poison
-description: '"Its poison. Deadly poison. So its a neurotoxin?"'
+description: Builds a Lethal Dose through attacks or refinement, enabling stronger poisons and a spiritual-damage domain.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-deadly_poison.svg" alt="Deadly Poison emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/deadly-poison.png" alt="Deadly Poison illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>&quot;Its poison. Deadly poison. So its a neurotoxin?&quot;</p>
+<p>Builds a Lethal Dose through attacks or refinement, enabling stronger poisons and a spiritual-damage domain.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -57,4 +57,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Deadly Poison](https://tensuranightmares.wiki.gg/wiki/Deadly_Poison) on the Tensura Reincarnated Nightmares Wiki (revision `2677`, modified `2026-08-07T15:33:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

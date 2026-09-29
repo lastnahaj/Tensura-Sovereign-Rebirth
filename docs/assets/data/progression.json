@@ -3504,7 +3504,7 @@
     },
     "tensura-reference/skills/unique/nightmares-tempter/": {
       "title": "Tempter",
-      "image": "assets/icons/skills/trnightmare-tempter.svg",
+      "image": "assets/illustrations/skills/tempter.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3516,7 +3516,7 @@
     },
     "tensura-reference/skills/unique/nightmares-deadly-poison/": {
       "title": "Deadly Poison",
-      "image": "assets/icons/skills/trnightmare-deadly_poison.svg",
+      "image": "assets/illustrations/skills/deadly-poison.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

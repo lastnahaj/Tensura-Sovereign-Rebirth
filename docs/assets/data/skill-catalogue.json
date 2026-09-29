@@ -4230,8 +4230,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-tempter.svg"
+      "asset": "assets/illustrations/skills/tempter.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-freezing-flame.md": {
       "id": "trnightmare:freezing_flame",
@@ -4271,8 +4272,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-deadly_poison.svg"
+      "asset": "assets/illustrations/skills/deadly-poison.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-glorious.md": {
       "id": "trnightmare:glorious",
