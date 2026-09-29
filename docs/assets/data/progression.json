@@ -3492,13 +3492,13 @@
     },
     "tensura-reference/skills/unique/nightmares-elegy/": {
       "title": "Elegy",
-      "image": "assets/icons/skills/trnightmare-elegy.svg",
+      "image": "assets/upstream/nightmares/skills/elegy.jpeg",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/unique/nightmares-investigator/": {
       "title": "Investigator",
-      "image": "assets/icons/skills/trnightmare-investigator.svg",
+      "image": "assets/upstream/nightmares/skills/investigator.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3510,7 +3510,7 @@
     },
     "tensura-reference/skills/unique/nightmares-freezing-flame/": {
       "title": "Freezing Flame",
-      "image": "assets/icons/skills/trnightmare-freezing_flame.svg",
+      "image": "assets/upstream/nightmares/skills/freezing-flame.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

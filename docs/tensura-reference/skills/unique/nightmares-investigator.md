@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-investigator.svg" alt="Investigator emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/investigator.png" alt="Investigator source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Investigator.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Pursuit of Tutelage (Requires Mastery) When used, the user can open up a Skill Creation Menu and teach their known Spells and Battlewills to someone.</p>
@@ -62,4 +62,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Investigator](https://tensuranightmares.wiki.gg/wiki/Investigator) on the Tensura Reincarnated Nightmares Wiki (revision `2708`, modified `2026-08-07T15:56:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Investigator](https://tensuranightmares.wiki.gg/wiki/File:Investigator.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-31T06:37Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

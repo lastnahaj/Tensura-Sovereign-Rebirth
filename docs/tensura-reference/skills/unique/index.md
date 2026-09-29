@@ -643,8 +643,8 @@ hide:
 <article class="reference-card" data-letter="E" data-search="elegy a lament sung by spacetime itself, resonating through soul and shadow.">
 <a href="nightmares-elegy/" aria-label="Open Elegy">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-elegy.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/elegy.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Elegy</h2>
@@ -808,8 +808,8 @@ hide:
 <article class="reference-card" data-letter="F" data-search="freezing flame pyromaniac - the user gains all of the flame-type aspectual magics.">
 <a href="nightmares-freezing-flame/" aria-label="Open Freezing Flame">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-freezing_flame.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/freezing-flame.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Freezing Flame</h2>
@@ -1108,8 +1108,8 @@ hide:
 <article class="reference-card" data-letter="I" data-search="investigator pursuit of tutelage (requires mastery) when used, the user can open up a skill creation menu and teach their known spells and battlewills to someone.">
 <a href="nightmares-investigator/" aria-label="Open Investigator">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-investigator.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/investigator.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Investigator</h2>

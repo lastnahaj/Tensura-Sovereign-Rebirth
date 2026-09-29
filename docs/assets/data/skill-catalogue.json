@@ -4187,8 +4187,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-elegy.svg"
+      "asset": "assets/upstream/nightmares/skills/elegy.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-investigator.md": {
       "id": "trnightmare:investigator",
@@ -4207,8 +4208,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-investigator.svg"
+      "asset": "assets/upstream/nightmares/skills/investigator.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-tempter.md": {
       "id": "trnightmare:tempter",
@@ -4247,8 +4249,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-freezing_flame.svg"
+      "asset": "assets/upstream/nightmares/skills/freezing-flame.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-deadly-poison.md": {
       "id": "trnightmare:deadly_poison",

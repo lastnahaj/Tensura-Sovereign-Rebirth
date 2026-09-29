@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-freezing_flame.svg" alt="Freezing Flame emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/freezing-flame.png" alt="Freezing Flame source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Freezing_flame.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Pyromaniac - The user gains all of the Flame-Type Aspectual Magics.</p>
@@ -53,4 +53,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Freezing flame](https://tensuranightmares.wiki.gg/wiki/Freezing_flame) on the Tensura Reincarnated Nightmares Wiki (revision `2698`, modified `2026-08-07T15:54:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Freezing Flame](https://tensuranightmares.wiki.gg/wiki/File:Freezing_flame.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-23T14:54Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

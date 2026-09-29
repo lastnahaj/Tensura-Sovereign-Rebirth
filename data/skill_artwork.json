@@ -1,6 +1,69 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:elegy": {
+      "asset": "assets/upstream/nightmares/skills/elegy.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Elegy"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Elegy.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Elegy.jpeg?4c4309&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:03Z",
+        "sha256": "abf71c59943036274cdcc20112e100895074aff7f70ec24749854170ef8e585f",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:investigator": {
+      "asset": "assets/upstream/nightmares/skills/investigator.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Investigator"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Investigator.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Investigator.png?788aa7&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-31T06:37Z",
+        "sha256": "920cea3a0d6db7d961f0cddf3376451a8303d9d0e467daf7509932de542450cf",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:freezing_flame": {
+      "asset": "assets/upstream/nightmares/skills/freezing-flame.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Freezing_flame"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Freezing_flame.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Freezing_flame.png?727d1c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-23T14:54Z",
+        "sha256": "d1bc5696f12a7b95ba30a32aa0d9ce2451253a2af93dea5f7555a7cd79599cff",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
     "trnightmare:time_traveler": {
       "asset": "assets/illustrations/skills/time-traveler.png",
       "kind": "original-illustration",
