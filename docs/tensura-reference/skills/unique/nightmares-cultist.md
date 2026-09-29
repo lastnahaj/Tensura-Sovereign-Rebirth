@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-cultist.svg" alt="Cultist emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/cultist.png" alt="Cultist illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Joy In Service - The user halves all Spiritual Damage taken. While the user has the Insanity Effect, any mobs killed will give the user 1 Sacrifice Point.</p>
@@ -53,4 +53,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Cultist](https://tensuranightmares.wiki.gg/wiki/Cultist) on the Tensura Reincarnated Nightmares Wiki (revision `2785`, modified `2026-08-19T09:11:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

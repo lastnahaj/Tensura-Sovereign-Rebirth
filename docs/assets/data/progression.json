@@ -3582,7 +3582,7 @@
     },
     "tensura-reference/skills/unique/nightmares-carnation/": {
       "title": "Carnation",
-      "image": "assets/icons/skills/trnightmare-carnation.svg",
+      "image": "assets/illustrations/skills/carnation.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3618,7 +3618,7 @@
     },
     "tensura-reference/skills/unique/nightmares-cessation/": {
       "title": "Cessation",
-      "image": "assets/icons/skills/trnightmare-cessation.svg",
+      "image": "assets/illustrations/skills/cessation.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3876,7 +3876,7 @@
     },
     "tensura-reference/skills/unique/nightmares-cultist/": {
       "title": "Cultist",
-      "image": "assets/icons/skills/trnightmare-cultist.svg",
+      "image": "assets/illustrations/skills/cultist.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

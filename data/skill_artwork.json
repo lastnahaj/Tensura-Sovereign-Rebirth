@@ -1,6 +1,36 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:carnation": {
+      "asset": "assets/illustrations/skills/carnation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Carnation",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
+    "trnightmare:cessation": {
+      "asset": "assets/illustrations/skills/cessation.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Cessation",
+        "result": "The live article contains no skill image."
+      }
+    },
+    "trnightmare:cultist": {
+      "asset": "assets/illustrations/skills/cultist.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-28",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Cultist",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
     "trnightmare:breaker": {
       "asset": "assets/illustrations/skills/breaker.png",
       "kind": "original-illustration",

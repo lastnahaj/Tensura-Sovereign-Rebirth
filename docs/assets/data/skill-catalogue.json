@@ -4492,8 +4492,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-carnation.svg"
+      "asset": "assets/illustrations/skills/carnation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-endorse.md": {
       "id": "trnightmare:endorse",
@@ -4613,8 +4614,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-cessation.svg"
+      "asset": "assets/illustrations/skills/cessation.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-domicile.md": {
       "id": "trnightmare:domicile",
@@ -5485,8 +5487,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-cultist.svg"
+      "asset": "assets/illustrations/skills/cultist.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-babylon.md": {
       "id": "trnightmare:babylon",

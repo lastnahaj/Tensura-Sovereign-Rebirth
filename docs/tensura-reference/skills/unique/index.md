@@ -252,9 +252,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="carnation abundance - your magicule regeneration increases by x2 when below 85% magicules.">
 <a href="nightmares-carnation/" aria-label="Open Carnation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-carnation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/carnation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Carnation</h2>
@@ -267,9 +267,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="cessation ice walk - the user moves as if they had frost walker, causing all water to turn to ice by the user.">
 <a href="nightmares-cessation/" aria-label="Open Cessation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-cessation.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/cessation.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cessation</h2>
@@ -432,9 +432,9 @@ hide:
 </article>
 <article class="reference-card" data-letter="C" data-search="cultist joy in service - the user halves all spiritual damage taken. while the user has the insanity effect, any mobs killed will give the user 1 sacrifice point.">
 <a href="nightmares-cultist/" aria-label="Open Cultist">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-cultist.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/cultist.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Cultist</h2>
