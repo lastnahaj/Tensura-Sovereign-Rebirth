@@ -4312,8 +4312,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-lord_of_magewolves.svg"
+      "asset": "assets/illustrations/skills/lord-of-magewolves.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/ultimate/nightmares-metatron.md": {
       "id": "trnightmare:metatron",
@@ -4472,8 +4473,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-sentient_being.svg"
+      "asset": "assets/upstream/nightmares/skills/sentient-being.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-carnation.md": {
       "id": "trnightmare:carnation",
@@ -5470,8 +5472,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-lunatic.svg"
+      "asset": "assets/illustrations/skills/lunatic.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-cultist.md": {
       "id": "trnightmare:cultist",

@@ -1332,8 +1332,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": false,
-      "summary": "\"I am the lord. Follow me, my pack, for i will guide us to victory!\"",
-      "description": "\"I am the lord. Follow me, my pack, for i will guide us to victory!\""
+      "summary": "Summons and commands a direwolf pack, restores its health, and enables assimilation with a subordinate.",
+      "description": "Summons and commands a direwolf pack, restores its health, and enables assimilation with a subordinate."
     },
     {
       "page_id": 881,
@@ -2821,8 +2821,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered.",
-      "description": "Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered."
+      "summary": "Uses the Insanity effect to increase strength or restore health, with attacks that can inflict Delirium.",
+      "description": "Uses the Insanity effect to increase strength or restore health, with attacks that can inflict Delirium."
     },
     {
       "page_id": 1056,

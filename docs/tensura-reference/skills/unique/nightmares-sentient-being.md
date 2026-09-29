@@ -10,7 +10,7 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-sentient_being.svg" alt="Sentient Being emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/sentient-being.png" alt="Sentient Being source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Sentient_being.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Abundance - Your Magicule Regeneration increases by x2 when below 85% Magicules.</p>
@@ -53,4 +53,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Sentient Being](https://tensuranightmares.wiki.gg/wiki/Sentient_Being) on the Tensura Reincarnated Nightmares Wiki (revision `2715`, modified `2026-08-07T15:57:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Sentient Being](https://tensuranightmares.wiki.gg/wiki/File:Sentient_being.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-28T16:25Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

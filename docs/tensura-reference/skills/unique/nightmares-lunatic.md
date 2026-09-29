@@ -1,6 +1,6 @@
 ---
 title: Lunatic
-description: Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered.
+description: Uses the Insanity effect to increase strength or restore health, with attacks that can inflict Delirium.
 tags:
 - Abilities/1.21.1/Skills/Unique Skills
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Unique Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-lunatic.svg" alt="Lunatic emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/lunatic.png" alt="Lunatic illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered.</p>
+<p>Uses the Insanity effect to increase strength or restore health, with attacks that can inflict Delirium.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -53,4 +53,6 @@ Toggle</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Lunatic](https://tensuranightmares.wiki.gg/wiki/Lunatic) on the Tensura Reincarnated Nightmares Wiki (revision `2783`, modified `2026-08-19T09:06:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

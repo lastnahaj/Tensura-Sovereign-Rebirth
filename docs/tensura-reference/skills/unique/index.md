@@ -1165,31 +1165,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="lord of magewolves &quot;i am the lord. follow me, my pack, for i will guide us to victory!&quot;">
+<article class="reference-card" data-letter="L" data-search="lord of magewolves summons and commands a direwolf pack, restores its health, and enables assimilation with a subordinate.">
 <a href="nightmares-lord-of-magewolves/" aria-label="Open Lord of Magewolves">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-lord_of_magewolves.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/lord-of-magewolves.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Lord of Magewolves</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;I am the lord. Follow me, my pack, for i will guide us to victory!&quot;</p>
+<p>Summons and commands a direwolf pack, restores its health, and enables assimilation with a subordinate.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="lunatic fractured mind - the user insanity at level 3, this becomes level 5 when mastered.">
+<article class="reference-card" data-letter="L" data-search="lunatic uses the insanity effect to increase strength or restore health, with attacks that can inflict delirium.">
 <a href="nightmares-lunatic/" aria-label="Open Lunatic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-lunatic.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/lunatic.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Lunatic</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Fractured Mind - The user Insanity at level 3, this becomes level 5 when mastered.</p>
+<p>Uses the Insanity effect to increase strength or restore health, with attacks that can inflict Delirium.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -1693,8 +1693,8 @@ hide:
 <article class="reference-card" data-letter="S" data-search="sentient being abundance - your magicule regeneration increases by x2 when below 85% magicules.">
 <a href="nightmares-sentient-being/" aria-label="Open Sentient Being">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-sentient_being.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/sentient-being.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Sentient Being</h2>

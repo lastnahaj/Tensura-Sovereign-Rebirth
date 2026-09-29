@@ -3528,7 +3528,7 @@
     },
     "tensura-reference/skills/unique/nightmares-lord-of-magewolves/": {
       "title": "Lord of Magewolves",
-      "image": "assets/icons/skills/trnightmare-lord_of_magewolves.svg",
+      "image": "assets/illustrations/skills/lord-of-magewolves.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3576,7 +3576,7 @@
     },
     "tensura-reference/skills/unique/nightmares-sentient-being/": {
       "title": "Sentient Being",
-      "image": "assets/icons/skills/trnightmare-sentient_being.svg",
+      "image": "assets/upstream/nightmares/skills/sentient-being.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },
@@ -3870,7 +3870,7 @@
     },
     "tensura-reference/skills/unique/nightmares-lunatic/": {
       "title": "Lunatic",
-      "image": "assets/icons/skills/trnightmare-lunatic.svg",
+      "image": "assets/illustrations/skills/lunatic.png",
       "category": "skills/unique",
       "verification": "reference-build-only"
     },

@@ -1,6 +1,47 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:sentient_being": {
+      "asset": "assets/upstream/nightmares/skills/sentient-being.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Sentient_Being"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Sentient_being.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Sentient_being.png?4bf7ad&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-28T16:25Z",
+        "sha256": "1f5d51c385d5282be14b0d46d818c740bc7a8b704d692b64735f9c5e4902d82b",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:lord_of_magewolves": {
+      "asset": "assets/illustrations/skills/lord-of-magewolves.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Lord_of_Magewolves",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:lunatic": {
+      "asset": "assets/illustrations/skills/lunatic.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Lunatic",
+        "result": "The live article contains a File:.png placeholder and no skill image."
+      }
+    },
     "trnightmare:endorse": {
       "asset": "assets/illustrations/skills/endorse.png",
       "kind": "original-illustration",
