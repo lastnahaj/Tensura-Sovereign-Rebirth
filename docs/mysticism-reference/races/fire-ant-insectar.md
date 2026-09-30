@@ -57,7 +57,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 </p>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <p><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Fire Ant Saint <small>not in recorded 1.21.1 build</small></span> - 400K EP + Defeat 4 Bosses
-</p><p><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Flame Soul Ant <small>not in recorded 1.21.1 build</small></span> - 400K EP + <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Flame_Manipulation">Flame Manipulation</a>
+</p><p><span class="reference-unavailable-link" title="Not registered in the recorded Minecraft 1.21.1 build">Flame Soul Ant <small>not in recorded 1.21.1 build</small></span> - 400K EP + <a class="external text" href="../../../tensura-reference/skills/extra/flame-manipulation/">Flame Manipulation</a>
 </p>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>

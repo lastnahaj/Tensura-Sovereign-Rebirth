@@ -54,7 +54,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <h2><span class="mw-headline" id="Special_Traits">Special Traits</span></h2>
 <ul><li>Respawn in Overworld.</li>
 <li>No longer Spiritual Being.</li>
-<li>Loses <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Possession">Possession</a> and <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Light_Transform">Light Transform</a></li></ul>
+<li>Loses <a class="external text" href="../../../tensura-reference/skills/intrinsic/possession/">Possession</a> and <a class="external text" href="../../../tensura-reference/skills/intrinsic/light-transform/">Light Transform</a></li></ul>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <ul><li><a href="../fallen-greater-angel/" title="Fallen Greater Angel">Fallen Greater Angel</a> - 20K EP as a Fallen Lesser Angel.</li>
 <li><a href="../lesser-fallen/" title="Lesser Fallen">Lesser Fallen</a> - Using a Darkness Core as a Fallen Lesser Angel.</li></ul>

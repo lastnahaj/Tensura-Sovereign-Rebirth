@@ -7,7 +7,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 from race_catalogue import race_reference
-from sync_race_reference import generate, replace_placeholder_figure
+from sync_race_reference import generate, normalize_known_skill_links, replace_placeholder_figure
 from refresh_race_portraits import PORTRAITS
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -29,6 +29,10 @@ def main():
     if not replace_placeholder_figure(placeholder + tail, *args_media).endswith(tail):
         errors.append('Portrait replacement removes content after the first figure')
     outputs = generate()
+    sample_links = '<a href="https://tensurareincarnated.wiki.gg/wiki/Steel_Strength">Steel Strength</a><a href="https://trmysticism.wiki.gg/wiki/Unverified_Skill">Unverified skill</a><a href="https://tensura.wiki.gg/wiki/File:RaceHuman.png">Image credit</a>'
+    normalized = normalize_known_skill_links(sample_links, 'mysticism-reference/races/steel-soul-insect.md')
+    if 'href="../../../tensura-reference/skills/extra/steel-strength/"' not in normalized or 'https://trmysticism.wiki.gg/wiki/Unverified_Skill' not in normalized or 'https://tensura.wiki.gg/wiki/File:RaceHuman.png' not in normalized:
+        errors.append('Race skill mapping must localize verified identities and retain unknown references and image credits')
     source_pages = {record['local_page'] for source in ('tensura', 'mysticism') for record in json.loads((ROOT / f'data/upstream_{source}_pages.json').read_text(encoding='utf-8'))['pages'] if record['category'] == 'races'}
     if set(policy['pages']) != source_pages:
         errors.append('Race registry policy must cover every imported race article')

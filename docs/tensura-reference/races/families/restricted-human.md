@@ -37,7 +37,7 @@ No</dd><dt>Intrinsics</dt><dd>
 Hard</dd><dt>Spiritual</dt><dd>
 Yes</dd><dt>Divine</dt><dd>
 Yes</dd><dt>Intrinsics</dt><dd>
-<a href="../../../../mysticism-reference/skills/unique/restricted/" title="Restricted">Restricted</a>, <a href="../../../../mysticism-reference/skills/intrinsic/tenacity/" title="Tenacity">Tenacity</a>, <a class="external text" href="https://tensura.wiki.gg/wiki/Divine_Ki_Release">Divine Ki Release</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../../../mysticism-reference/races/heavenly-restriction/">Open full Heavenly Restriction reference</a></dd></dl><p class="race-card-route"><span><a href="#bound-enlightenment">← Bound Enlightenment</a></span><span>No further evolution documented</span></p></article>
+<a href="../../../../mysticism-reference/skills/unique/restricted/" title="Restricted">Restricted</a>, <a href="../../../../mysticism-reference/skills/intrinsic/tenacity/" title="Tenacity">Tenacity</a>, <a class="external text" href="../../../skills/intrinsic/divine-ki-release/">Divine Ki Release</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../../../mysticism-reference/races/heavenly-restriction/">Open full Heavenly Restriction reference</a></dd></dl><p class="race-card-route"><span><a href="#bound-enlightenment">← Bound Enlightenment</a></span><span>No further evolution documented</span></p></article>
 </div>
 
 Stats and relationships retain their source-page context. Evolution methods can have separate EP, naming, awakening, or other requirements; a connecting arrow alone is not an unlock condition.

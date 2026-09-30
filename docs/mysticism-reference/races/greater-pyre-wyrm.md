@@ -53,7 +53,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <p><br/>
 </p>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
-<ul><li><a href="../scorchtail-salamander/" title="Scorchtail Salamander">Scorchtail Salamander</a> - Have 180K EP, Mastered <a class="external text" href="https://tensura.wiki.gg/wiki/Flame_Manipulation">Flame Manipulation</a> and <a href="../../skills/extra/profaned-prominence/" title="Profaned Prominence">Profaned Prominence</a>.</li>
+<ul><li><a href="../scorchtail-salamander/" title="Scorchtail Salamander">Scorchtail Salamander</a> - Have 180K EP, Mastered <a class="external text" href="../../../tensura-reference/skills/extra/flame-manipulation/">Flame Manipulation</a> and <a href="../../skills/extra/profaned-prominence/" title="Profaned Prominence">Profaned Prominence</a>.</li>
 <li><a href="../sunfire-lindwurm/" title="Sunfire Lindwurm">Sunfire Lindwurm</a> - Have 180K EP, Mastered <a class="text" href="../../skills/extra/light-manipulation/">Light Manipulation</a> and <a href="../../skills/extra/profaned-prominence/" title="Profaned Prominence">Profaned Prominence</a>.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>

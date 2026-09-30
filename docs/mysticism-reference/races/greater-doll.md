@@ -51,7 +51,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Races/Greater_Daemon">Greater Daemon</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../archdoll/" title="Archdoll">Archdoll</a></div></div></div></div>
 <h2><span class="mw-headline" id="Special_Traits">Special Traits</span></h2>
-<ul><li>Loses <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Possession">Possession</a> Skill</li></ul>
+<ul><li>Loses <a class="external text" href="../../../tensura-reference/skills/intrinsic/possession/">Possession</a> Skill</li></ul>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <ul><li>Achieved by Possessing a Golem as a <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Races/Greater_Daemon">Greater Daemon</a>.</li>
 <li><a href="../archdoll/" title="Archdoll">Archdoll</a> - 140K EP as a Greater Doll.</li></ul>

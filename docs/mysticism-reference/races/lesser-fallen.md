@@ -56,7 +56,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <a href="../greater-fallen/" title="Greater Fallen">Greater Fallen</a></div></div></div></div>
 <h2><span class="mw-headline" id="Special_Traits">Special Traits</span></h2>
 <ul><li>Cannot obtain a Spirit of Light.</li>
-<li>Loses <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Possession">Possession</a>, <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Light_Transform">Light Transform</a>, <a class="text" href="../../skills/extra/light-manipulation/">Light Manipulation</a> and any Light magic spells.</li></ul>
+<li>Loses <a class="external text" href="../../../tensura-reference/skills/intrinsic/possession/">Possession</a>, <a class="external text" href="../../../tensura-reference/skills/intrinsic/light-transform/">Light Transform</a>, <a class="text" href="../../skills/extra/light-manipulation/">Light Manipulation</a> and any Light magic spells.</li></ul>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
 <ul><li><a href="../greater-fallen/" title="Greater Fallen">Greater Fallen</a> - 20K EP as a Lesser Fallen.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>

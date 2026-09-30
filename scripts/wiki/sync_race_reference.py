@@ -6,6 +6,7 @@ import html
 import json
 import posixpath
 import re
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -76,14 +77,56 @@ def family_media(page: str, media_overrides: dict[str, str]) -> str | None:
     return next((asset for terms, asset in HISTORICAL_MEDIA if any(term in slug for term in terms)), None)
 
 
+@lru_cache(maxsize=1)
+def known_skill_routes() -> dict[tuple[str, str], str]:
+    from skill_catalogue import ACTIVE, catalogue, nightmares_manifest
+    decisions = catalogue()['pages']
+    candidates = {}
+    manifests = {
+        source: json.loads((ROOT / f'data/upstream_{source}_pages.json').read_text(encoding='utf-8'))
+        for source in ('tensura', 'mysticism')
+    }
+    manifests['nightmares'] = nightmares_manifest()
+    for source, manifest in manifests.items():
+        for record in manifest['pages']:
+            destination = record['local_page']
+            if decisions.get(destination, {}).get('status') not in ACTIVE:
+                continue
+            host = urlsplit(record['source_url']).netloc.casefold()
+            hosts = {host}
+            if source == 'tensura':
+                hosts.add('tensurareincarnated.wiki.gg')
+            for title in {record['source_title'], record['display_title']}:
+                for source_host in hosts:
+                    key = (source_host, title.replace('_', ' ').strip().casefold())
+                    candidates.setdefault(key, set()).add(destination.removesuffix('.md') + '/')
+    return {key: next(iter(destinations)) for key, destinations in candidates.items() if len(destinations) == 1}
+
+
 def normalize_known_skill_links(text: str, page: str) -> str:
     target = relative(page, 'tensura-reference/skills/extra/analytical-appraisal/').rstrip('/') + '/'
-    return re.sub(
+    text = re.sub(
         r'<a\b[^>]*href="(?:https://(?:tensura|tensurareincarnated)\.wiki\.gg/wiki/Analytical_Appraisal(?:Analytical)?|(?:\.\./)+tensura-reference/skills/extra/analytical-appraisal/?)"[^>]*>.*?</a>',
         f'<a href="{target}" title="Analytical Appraisal">Analytical Appraisal</a>',
         text,
         flags=re.I | re.S,
     )
+    routes = known_skill_routes()
+
+    def replace(match: re.Match[str]) -> str:
+        link = urlsplit(html.unescape(match[2]))
+        if link.query or not link.path.startswith('/wiki/'):
+            return match[0]
+        title = unquote(link.path.removeprefix('/wiki/')).replace('_', ' ').strip().casefold()
+        destination = routes.get((link.netloc.casefold(), title))
+        if not destination:
+            return match[0]
+        local = relative(page, destination).rstrip('/') + '/'
+        if link.fragment:
+            local += '#' + link.fragment
+        return match[1] + html.escape(local, quote=True) + match[3]
+
+    return re.sub(r'(<a\b[^>]*\bhref=")([^"]+)("[^>]*>.*?</a>)', replace, text, flags=re.I | re.S)
 
 
 def replace_placeholder_figure(text: str, page: str, decision: dict, asset: str, credits: dict[str, dict]) -> str:

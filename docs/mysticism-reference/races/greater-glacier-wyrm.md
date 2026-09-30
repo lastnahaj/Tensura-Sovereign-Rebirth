@@ -53,7 +53,7 @@ No</div></div></div><div class="druid-section-container"><div data-druid-section
 <p><br/>
 </p>
 <h2><span class="mw-headline" id="Evolution">Evolution</span></h2>
-<ul><li><a href="../frostcoil-sea-serpent/" title="Frostcoil Sea Serpent">Frostcoil Sea Serpent</a> - Have 200K EP, Mastered <a class="external text" href="https://tensura.wiki.gg/wiki/Water_Manipulation">Water Manipulation</a> and <a href="../../skills/extra/cryogenic-cessation/" title="Cryogenic Cessation">Cryogenic Cessation</a>.</li>
+<ul><li><a href="../frostcoil-sea-serpent/" title="Frostcoil Sea Serpent">Frostcoil Sea Serpent</a> - Have 200K EP, Mastered <a class="external text" href="../../../tensura-reference/skills/extra/water-manipulation/">Water Manipulation</a> and <a href="../../skills/extra/cryogenic-cessation/" title="Cryogenic Cessation">Cryogenic Cessation</a>.</li>
 <li><a href="../rimefang-drake/" title="Rimefang Drake">Rimefang Drake</a> - Have 200K EP, Mastered <a class="text" href="../../skills/extra/ice-manipulation/">Ice Manipulation</a> and <a href="../../skills/extra/cryogenic-cessation/" title="Cryogenic Cessation">Cryogenic Cessation</a>.</li></ul>
 <h2><span class="mw-headline" id="Version_history">Version history</span></h2>
 <ul><li><b>1.21.1</b> – ???</li></ul>
