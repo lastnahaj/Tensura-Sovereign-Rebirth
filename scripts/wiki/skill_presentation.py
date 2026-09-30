@@ -26,7 +26,7 @@ def relative(page, target):
     return result + ('/' if target.endswith('/') and not result.endswith('/') else '')
 
 
-def style_directory(content, category, page):
+def style_directory(content, category, page, policy=None):
     """Keep catalogue cards and source metadata; replace only the banner."""
     soup = BeautifulSoup(content, 'html.parser')
     header = soup.select_one('.reference-directory-hero')
@@ -40,6 +40,8 @@ def style_directory(content, category, page):
     overview = header.select_one('.reference-directory-overview-link')
     if category == 'battlewill':
         overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "battlewill-training/")}">Learning &amp; mastery guide <span aria-hidden="true">→</span></a>', 'html.parser').a
+    if category == 'magic':
+        overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "magic-learning/")}">Spell schools &amp; tome learning <span aria-hidden="true">→</span></a>', 'html.parser').a
     if overview:
         replacement = replacement.replace('</header>', str(overview) + '</header>')
     content = re.sub(r'<header class="reference-directory-hero[^>]*>.*?</header>', lambda _: replacement, content, count=1, flags=re.S)
@@ -51,6 +53,23 @@ def style_directory(content, category, page):
     content = content.replace('</header>', '</header>\n' + ''.join(nav), 1)
     content = content.replace('class="reference-directory"', 'class="reference-directory skill-directory"', 1)
     content = content.replace('Open reference <span', 'View ability <span')
+    if category == 'magic' and policy:
+        schools = {relative(page, route.removesuffix('.md') + '/'): decision.get('magic_school') for route, decision in policy['pages'].items() if decision['category'] == 'magic' and decision['status'] in {'registered', 'reference'}}
+        def classify_spell(match):
+            card = match[0]
+            target = re.search(r'<a href="([^"]+)"', card).group(1)
+            school = schools.get(target)
+            if not school:
+                raise ValueError(f'Magic card has no registry school: {target}')
+            card = card.replace('<article ', f'<article data-school="{school}" ', 1)
+            return card.replace('<div class="reference-card-copy">', f'<div class="reference-card-copy"><span class="magic-school-label">{school}</span>', 1)
+        content = re.sub(r'<article class="reference-card"[^>]*>.*?</article>', classify_spell, content, flags=re.S)
+        controls = ['<div class="magic-school-filters" role="group" aria-label="Spell school"><button type="button" data-school-filter="all" aria-pressed="true" class="is-active">All schools</button>']
+        for school in ('Aspectual', 'Spiritual', 'Summoning'):
+            amount = list(schools.values()).count(school)
+            controls.append(f'<button type="button" data-school-filter="{school}" aria-pressed="false">{school} <span>{amount}</span></button>')
+        controls.append('</div>')
+        content = content.replace('<div class="reference-directory-tools">', '<div class="reference-directory-tools">' + ''.join(controls), 1)
     return f'---\ntitle: {json.dumps(title)}\nhide:\n  - navigation\n  - toc\n---\n\n' + content
 
 

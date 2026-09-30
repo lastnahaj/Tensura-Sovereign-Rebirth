@@ -13,7 +13,7 @@ class FileLicenseTests(unittest.TestCase):
     def test_reviewed_unconfirmed_images_are_not_distributed(self):
         root = Path(__file__).resolve().parents[2]
         reviews = json.loads((root / 'data/media-file-reviews.json').read_text(encoding='utf-8'))['reviews']
-        media = {record['source_file_page']: record for record in json.loads((root / 'data/upstream_tensura_media.json').read_text(encoding='utf-8'))['media']}
+        media = {record['source_file_page']: record for namespace in ('tensura', 'mysticism') for record in json.loads((root / f'data/upstream_{namespace}_media.json').read_text(encoding='utf-8'))['media']}
         for review in reviews:
             with self.subTest(file=review['source_title']):
                 record = media[review['file_page']]

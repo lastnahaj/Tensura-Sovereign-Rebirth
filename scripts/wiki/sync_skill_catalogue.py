@@ -26,6 +26,61 @@ MAINTENANCE_DESCRIPTIONS = {
     'mysticism-reference/skills/unique/constant.md': 'A timed control skill that can preserve health, physical output, or resource levels.',
     'tensura-reference/skills/ultimate/nightmares-akashic-records.md': 'Information-skill reference with a source-reported blocked Ego-to-Manas route; normal acquisition remains unverified.',
 }
+# Editorial leads derived from each article's Effect section. Numeric values
+# and mastery changes remain in the attributed source body below the overview.
+MAGIC_SUMMARIES = {
+    'analyze': 'Increase analysis level and detection radius while the spell is active.',
+    'anti-magic-area': 'Create a zone that prevents new aspectual and summoning casts; spiritual magic and existing effects remain usable.',
+    'anti-shock-area': 'Create a protective zone that reduces incoming physical damage.',
+    'aspectual-possession': 'Transfer directly between bodies under Possession requirements while the target remains inside the casting circle.',
+    'burden': 'Fire a projectile that inflicts Burden on its target.',
+    'chain-explosion': 'Release three staggered explosions around the targeted point.',
+    'clairvoyance': 'Magnify distant objects while holding the spell, without a magic circle.',
+    'dimensional-cutter': 'Launch a spatial blade that travels through blocks and entities.',
+    'doppelganger': 'Create two body doubles whose EP scales with the caster’s MP.',
+    'explosion': 'Charge an increasingly powerful blast at a target with an unobstructed view of the sky.',
+    'fire-ball': 'Launch a fire projectile that explodes on contact with a block or entity.',
+    'fire-storm': 'Cover the ground with damaging magical fire and periodic flame surges.',
+    'flight': 'Push the caster in the direction they face while briefly granting Slow Falling.',
+    'float': 'Grant temporary levitation to the caster.',
+    'full-recovery': 'Fully restore the caster or targeted entity’s health, replenish saturation, and grant absorption.',
+    'healing': 'Restore health to the targeted entity, or to the caster when no entity is targeted.',
+    'healthcare': 'Slow hunger and saturation loss while providing gradual health regeneration.',
+    'mirage': 'Create four short-lived decoys that deal no attack damage but can knock targets back.',
+    'search-enemy': 'Highlight nearby hostile mobs; cast again to end the effect.',
+    'sleep-mist': 'Inflict temporary paralysis on entities around the caster.',
+    'spatial-storage': 'Access a spell-bound inventory through a temporary spatial bag.',
+    'thunder': 'Strike the targeted block or enemy with magical lightning.',
+    'wind-gust': 'Launch a wind projectile that pushes entities away on contact.',
+    'teleport': 'Teleport toward the point the caster is looking at.',
+    'earth-storm': 'Barrage nearby targets with falling rocks and intermittent levitation.',
+    'shrink': 'Temporarily reduce the caster’s size, at the cost of armor protection and increased fragility.',
+}
+
+
+def editorial_magic_summary(page):
+    if page.startswith('tensura-reference/magic/'):
+        return MAGIC_SUMMARIES.get(page.rsplit('/', 1)[1].removesuffix('.md'))
+    return None
+
+
+def refine_magic_lead(text, page):
+    summary = editorial_magic_summary(page)
+    if not summary:
+        return text
+    soup = BeautifulSoup(text, 'html.parser')
+    overview = soup.select_one('.reference-overview-copy > p:not(.reference-eyebrow)')
+    article = soup.select_one('.tensura-reference-article .mw-parser-output')
+    intro = article.find('p', recursive=False) if article else None
+    replacement = '<p>' + html.escape(summary) + '</p>'
+    for paragraph in (overview, intro):
+        if paragraph:
+            original = next((match for match in re.finditer(r'<p\b[^>]*>.*?</p>', text, flags=re.S)
+                             if BeautifulSoup(match[0], 'html.parser').get_text(' ', strip=True) == paragraph.get_text(' ', strip=True)), None)
+            if original is None:
+                raise ValueError(f'Magic summary insertion target changed: {page}')
+            text = text[:original.start()] + replacement + text[original.end():]
+    return re.sub(r'(?m)^description:.*$', 'description: ' + json.dumps(summary, ensure_ascii=False), text, count=1)
 
 
 def pinned_learning_requirement(page, decision):
@@ -152,12 +207,16 @@ def localize_skill_links(text, page, policy, records):
             url = urlsplit(anchor["href"])
             target = posixpath.normpath(posixpath.join(route(page), url.path)).rstrip("/") + ".md"
             decision = policy["pages"].get(target)
-            if decision and decision["status"] not in ACTIVE:
+            if (decision and decision["status"] not in ACTIVE) or (policy['pages'][page]['category'] == 'magic' and not decision):
                 anchor.decompose()
-            elif decision and decision.get("asset"):
-                preview = anchor.find("img")
-                if preview:
-                    preview["src"] = relative(page, decision["asset"])
+            else:
+                summary = editorial_magic_summary(target)
+                if summary and anchor.find('small'):
+                    anchor.find('small').string = summary
+                if decision and decision.get("asset"):
+                    preview = anchor.find("img")
+                    if preview:
+                        preview["src"] = relative(page, decision["asset"])
         if not soup.select("a.reference-related-card"):
             return ""
         return re.sub(r"\n[ \t]*\n+", "\n", str(soup))
@@ -309,10 +368,14 @@ def acquisition(text, page, decision):
     previous = soup.select_one(".druid-row-Previous .druid-data")
     if previous and previous.get_text(" ", strip=True) not in {"", "None", "[[]]"}:
         return '<p><strong>Documented prerequisite:</strong> ' + previous.decode_contents() + '</p><p>The source identifies this prerequisite but does not provide a complete obtainment method. Do not assume mastery alone unlocks the skill.</p>', False
+    if decision['category'] == 'magic':
+        guide = relative(page, 'magic-learning/') + '/'
+        return f'<p><strong>Spell-specific acquisition is not verified.</strong> A matching bound Magic Tome can attempt to start learning its stored spell through the normal skill-learning system. This does not establish where a tome for this particular spell drops, whether its acquisition conditions are met, or an automatic racial grant.</p><p>Unbound random Magic Tomes draw from the aspectual-magic tag, not from every registered spell. Read the <a href="{guide}">magic learning guide</a> before spending a tome; failed or duplicate learning can still consume it.</p><p class="skill-evidence-note">General tome behavior was checked in Tensura 2.0.1.2. This entry still needs a complete spell-specific player obtainment review.</p>', False
     return '<p>No verified obtainment method is documented for this entry yet. Registration does not establish a reincarnation, mastery, crafting, or reward route.</p>', False
 
 
 def prepare_page(page, decision, text):
+    text = refine_magic_lead(text, page)
     text = re.sub(re.escape(BEGIN) + r".*?" + re.escape(END) + r"\s*", "", text, flags=re.S)
     label = LABELS[decision["category"]]
     registered = decision["status"] in ACTIVE
@@ -457,6 +520,8 @@ def generate():
         if record["local_page"] in outputs:
             record = {**record, "_html": outputs[record["local_page"]]}
         decision = policy["pages"].get(record["local_page"])
+        if record["category"] == "magic" and not decision:
+            continue
         if decision:
             if decision["status"] not in ACTIVE or decision["id"] in seen:
                 continue
@@ -469,7 +534,7 @@ def generate():
         active.append(record)
     for category in LABELS:
         page = f"tensura-reference/{category}/index.md"
-        outputs[page] = style_directory(generate_category_index(category, active), category, page)
+        outputs[page] = style_directory(generate_category_index(category, active), category, page, policy)
     outputs.update(generate_hub(active, policy, outputs))
     # Source-specific directory URLs remain usable but obey the same eligibility gate.
     configure_source("mysticism")

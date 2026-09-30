@@ -47,7 +47,7 @@ tags: []
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../gravitational-void/">
-<img src="../../../assets/upstream/mysticism/magic/gravitational-void-255636038a.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/illustrations/skills/gravitational-void.webp" alt="Gravitational Void illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Gravitational Void</strong>
 <small>Targets being pulled by the black hole gain Slowness 1.</small>

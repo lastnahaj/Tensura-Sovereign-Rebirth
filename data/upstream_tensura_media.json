@@ -42450,17 +42450,20 @@
         "tensura-reference/magic/magic-resistance.md"
       ],
       "category": "magic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/magic/magic-resistance-2abadd1cc7.png",
       "download_url": "https://tensura.wiki.gg/images/Magic_resistance.png?2abadd",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-09-30",
+      "license_review_evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/magic-resistance.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/magic/magic-resistance-2abadd1cc7.png"
     },
     {
       "source_title": "Magic nullification.png",
@@ -42482,17 +42485,20 @@
         "tensura-reference/magic/magic-nullification.md"
       ],
       "category": "magic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png",
       "download_url": "https://tensura.wiki.gg/images/Magic_nullification.png?bdc673",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-09-30",
+      "license_review_evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/magic-nullification.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png"
     },
     {
       "source_title": "Magic bullet.png",

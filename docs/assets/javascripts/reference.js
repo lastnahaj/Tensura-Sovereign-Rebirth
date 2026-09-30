@@ -7,10 +7,12 @@
 
     const input = directory.querySelector(".reference-filter-input");
     const buttons = Array.from(directory.querySelectorAll(".reference-letter-filters [data-letter]"));
+    const schoolButtons = Array.from(directory.querySelectorAll("[data-school-filter]"));
     const cards = Array.from(directory.querySelectorAll(".reference-card"));
     const status = directory.querySelector(".reference-filter-status");
     const empty = directory.querySelector(".reference-no-results");
     let activeLetter = "all";
+    let activeSchool = "all";
 
     const applyFilter = () => {
       const query = normalize(input?.value || "");
@@ -18,7 +20,8 @@
       cards.forEach((card) => {
         const matchesLetter = activeLetter === "all" || card.dataset.letter === activeLetter;
         const matchesQuery = !query || normalize(card.dataset.search || "").includes(query);
-        const show = matchesLetter && matchesQuery;
+        const matchesSchool = activeSchool === "all" || card.dataset.school === activeSchool;
+        const show = matchesLetter && matchesQuery && matchesSchool;
         card.hidden = !show;
         if (show) visible += 1;
       });
@@ -31,6 +34,17 @@
       button.addEventListener("click", () => {
         activeLetter = button.dataset.letter || "all";
         buttons.forEach((candidate) => {
+          const active = candidate === button;
+          candidate.classList.toggle("is-active", active);
+          candidate.setAttribute("aria-pressed", String(active));
+        });
+        applyFilter();
+      });
+    });
+    schoolButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        activeSchool = button.dataset.schoolFilter || "all";
+        schoolButtons.forEach((candidate) => {
           const active = candidate === button;
           candidate.classList.toggle("is-active", active);
           candidate.setAttribute("aria-pressed", String(active));

@@ -1,6 +1,6 @@
 ---
 title: Anti-Shock Area
-description: 'Domain Expansion: Pillow Fist Arena Creates a 15x15 zone (radius 7.5) where all physical damage taken (normal, slashing, pierce, blunt) regardless of source is reduced to 1. Lasts for 2 minutes. 5s cooldown. Increases radius to 30x30 (radius 15). Increases time to 3 minutes. 3s cooldown View or edit...'
+description: "Create a protective zone that reduces incoming physical damage."
 tags:
 - Aspectual_Magic
 ---
@@ -16,8 +16,9 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Domain Expansion: Pillow Fist Arena</p>
+<p>Create a protective zone that reduces incoming physical damage.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -28,6 +29,13 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Devil Lord</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Anti-Shock Area</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Anti_shock_area.png"><img alt="Anti shock area.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/anti-shock-area-ad9bc8587c.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
@@ -36,8 +44,7 @@ Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-ro
 1000</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Race" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Race">Race</div><div class="druid-data druid-data-Race druid-data-nonempty">
 Devil Lord</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Learning it from a tome</div></div></div></div>
-<p>Domain Expansion: Pillow Fist Arena
-</p>
+<p>Create a protective zone that reduces incoming physical damage.</p>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p><br/>
 </p>
@@ -66,29 +73,15 @@ Learning it from a tome</div></div></div></div>
 <a href="../">Browse all Magic</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../items-schematics-anti-magic-mask-schematic/">
-<img src="../../../assets/upstream/tensura/magic/invicon-anti-magic-mask-schematic-0582a8f23e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Anti-Magic Mask Schematic</strong>
-<small>Obtained by defeating Shizu</small>
-</span>
-</a>
 <a class="reference-related-card" href="../antidote/">
-<img src="../../../assets/upstream/tensura/magic/antidote-7ec4650f0b.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/antidote-7ec4650f0b.png"/>
 <span class="reference-related-copy">
 <strong>Antidote</strong>
 <small>Heal the user from any weak abnormal effects that could be affecting it</small>
 </span>
 </a>
-<a class="reference-related-card" href="../anti-magic-mask/">
-<img src="../../../assets/upstream/tensura/magic/anti-magic-mask-ef2511f499.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Anti-Magic Mask</strong>
-<small>To craft the Anti-Magic Mask, one must have used a Anti-Magic Mask Schematic . To craft, you need a Smithing Bench .</small>
-</span>
-</a>
 <a class="reference-related-card" href="../barrier/">
-<img src="../../../assets/upstream/tensura/magic/barrier-52dc21a8f8.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/barrier-52dc21a8f8.png"/>
 <span class="reference-related-copy">
 <strong>Barrier</strong>
 <small>Create a barrier over yourself protecting from physical attacks</small>

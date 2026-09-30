@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Use pure magic to create a wall in front of you</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Greater Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Magic Wall</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_wall.png"><img alt="Magic wall.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-wall-23122c5c9b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -67,29 +75,15 @@ Learning it from a tome</div></div></div></div>
 <a href="../">Browse all Magic</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../magic-tome/">
-<img src="../../../assets/upstream/tensura/items/invicon-magic-tome-2d21681fbe.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Tome</strong>
-<small>Found in: Wizard Tower</small>
-</span>
-</a>
 <a class="reference-related-card" href="../magic-water-transform/">
-<img src="../../../assets/upstream/tensura/magic/magic-water-transform-a58bc3ff6e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-water-transform-a58bc3ff6e.png"/>
 <span class="reference-related-copy">
 <strong>Magic Water Transform</strong>
 <small>Gain access to Greater Water Spirit Magic and boost your water attacks while buffing yourself and debuffing enemies</small>
 </span>
 </a>
-<a class="reference-related-card" href="../magic-stone/">
-<img src="../../../assets/upstream/tensura/magic/magic-stone-0889a709d3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Stone</strong>
-<small>Can be obtained by crafting at a Smithing Bench</small>
-</span>
-</a>
 <a class="reference-related-card" href="../magic-wind-transform/">
-<img src="../../../assets/upstream/tensura/magic/magic-wind-transform-a530e7f6f4.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-wind-transform-a530e7f6f4.png"/>
 <span class="reference-related-copy">
 <strong>Magic Wind Transform</strong>
 <small>Gain access to Greater Wind Spirit Magic and boost your wind attacks while buffing yourself and debuffing enemies.</small>

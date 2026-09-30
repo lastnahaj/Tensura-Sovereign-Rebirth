@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Summon a sphere of hellfire to deal massive damage in a small area</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -30,6 +31,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Greater Flame Spirit</li><li><strong>Other:</strong>
+Owning <a class="mw-redirect" href="../magic-flame-transform/" title="Abilities/Skills/Magic Flame Transform">Magic Flame Transform</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Hellfire</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Hellfire.png"><img alt="Hellfire.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/hellfire-9343dbf8eb.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -66,28 +74,21 @@ Owning <a class="mw-redirect" href="../magic-flame-transform/" title="Abilities/
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../healthcare/">
-<img src="../../../assets/upstream/tensura/magic/healthcare-aspectual-2a8a1d036e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/healthcare-aspectual-2a8a1d036e.png"/>
 <span class="reference-related-copy">
 <strong>Healthcare</strong>
-<small>Take care of yourself, you non bathing wiki goer!</small>
-</span>
-</a>
-<a class="reference-related-card" href="../high-quality-magic-crystal/">
-<img src="../../../assets/upstream/tensura/magic/high-quality-magic-crystal-33d82fcb11.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>High Quality Magic Crystal</strong>
-<small>A High Quality Magic Crystal</small>
+<small>Slow hunger and saturation loss while providing gradual health regeneration.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../healing-rain/">
-<img src="../../../assets/upstream/tensura/magic/healing-rain-c3e1067ab9.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/healing-rain-c3e1067ab9.png"/>
 <span class="reference-related-copy">
 <strong>Healing Rain</strong>
 <small>Heal everyone in the battlefield by making healing droplets rain</small>
 </span>
 </a>
 <a class="reference-related-card" href="../hypnos/">
-<img src="../../../assets/upstream/tensura/magic/hypnos-4281c5b9a0.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/hypnos-4281c5b9a0.png"/>
 <span class="reference-related-copy">
 <strong>Hypnos</strong>
 <small>Puts the target into a deep slumber</small>

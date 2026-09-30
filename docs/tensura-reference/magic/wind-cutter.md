@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Cast wind scythes to cut the enemy down</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Greater Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Wind Cutter</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Wind_cutter.png"><img alt="Wind cutter.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/wind-cutter-bc0721c753.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -66,28 +74,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../wind-blade/">
-<img src="../../../assets/upstream/tensura/magic/wind-blade-271d41c7fb.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/wind-blade-271d41c7fb.png"/>
 <span class="reference-related-copy">
 <strong>Wind Blade</strong>
 <small>Fires a concentrated blade of wind which has heavy knockback</small>
 </span>
 </a>
 <a class="reference-related-card" href="../wind-gust/">
-<img src="../../../assets/upstream/tensura/magic/wind-gust-8a3d9df8cf.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/wind-gust-8a3d9df8cf.png"/>
 <span class="reference-related-copy">
 <strong>Wind Gust</strong>
-<small>Wind charge but magic</small>
+<small>Launch a wind projectile that pushes entities away on contact.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../wind/">
-<img src="../../../assets/upstream/tensura/magic/wind-e38719e48c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/wind-e38719e48c.png"/>
 <span class="reference-related-copy">
 <strong>Wind</strong>
 <small>Calls forth a small gust of wind which can push targets away or the player up.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../wind-protection/">
-<img src="../../../assets/upstream/tensura/magic/wind-protection-c93fcd1007.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/wind-protection-c93fcd1007.png"/>
 <span class="reference-related-copy">
 <strong>Wind Protection</strong>
 <small>Use winds currents to protect yourself and cool down</small>

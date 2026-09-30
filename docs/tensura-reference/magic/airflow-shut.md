@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Silence the target making them unable to cast magic verbally</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Arch Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Airflow Shut</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Airflow_shut.png"><img alt="Airflow shut.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/airflow-shut-db28670863.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -66,31 +74,31 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../agility/">
-<img src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png"/>
 <span class="reference-related-copy">
 <strong>Agility</strong>
 <small>Greatly increase your agility and speed using magic</small>
 </span>
 </a>
 <a class="reference-related-card" href="../analyze/">
-<img src="../../../assets/upstream/tensura/magic/analyze-aspectual-2e074195b5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/analyze-aspectual-2e074195b5.png"/>
 <span class="reference-related-copy">
 <strong>Analyze</strong>
-<small>Hmmm, hmmmmmmmhmhmhmhmmm, certainly an analysis we are having here.</small>
+<small>Increase analysis level and detection radius while the spell is active.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../aerial-blade/">
-<img src="../../../assets/upstream/tensura/magic/aerial-blade-27b99da0f5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/aerial-blade-27b99da0f5.png"/>
 <span class="reference-related-copy">
 <strong>Aerial Blade</strong>
 <small>Pull in any nearby entities before dealing massive damage by unleashing the power of your spirit</small>
 </span>
 </a>
 <a class="reference-related-card" href="../anti-magic-area/">
-<img src="../../../assets/upstream/tensura/magic/anti-magic-area-5e3f2c5f61.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/anti-magic-area-5e3f2c5f61.png"/>
 <span class="reference-related-copy">
 <strong>Anti-Magic Area</strong>
-<small>Completely stop anyone inside the area to use aspectual or summoning magic, with the sole exception of Satoru Go-…</small>
+<small>Create a zone that prevents new aspectual and summoning casts; spiritual magic and existing effects remain usable.</small>
 </span>
 </a>
 </div>

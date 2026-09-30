@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Summons a temporary light to block out the darkness</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Lesser Light Spirit</li><li><strong>Other:</strong>
+Owning <a class="mw-redirect" href="../../skills/intrinsic/light-transform/" title="Abilities/Skills/Light Transform">Light Transform</a>/<a class="mw-redirect" href="../magic-light-transform/" title="Abilities/Skills/Magic Light Transform">Magic Light Transform</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Light.png"><img alt="Light.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/light-5d6eae8d2a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -63,28 +71,28 @@ Owning <a class="mw-redirect" href="../../skills/intrinsic/light-transform/" tit
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../invisible/">
-<img src="../../../assets/upstream/tensura/magic/invisible-781e27510a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/invisible-781e27510a.png"/>
 <span class="reference-related-copy">
 <strong>Invisible</strong>
 <small>Make yourself transparent, being undetectable for the naked eye</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lighten/">
-<img src="../../../assets/upstream/tensura/magic/lighten-97a52cea6f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/lighten-97a52cea6f.png"/>
 <span class="reference-related-copy">
 <strong>Lighten</strong>
 <small>Makes the caster lighter granting jump and speed boost</small>
 </span>
 </a>
 <a class="reference-related-card" href="../icicle-spear/">
-<img src="../../../assets/upstream/tensura/magic/icicle-spear-222ac6ad79.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/icicle-spear-222ac6ad79.png"/>
 <span class="reference-related-copy">
 <strong>Icicle Spear</strong>
 <small>Create an icicle spear from the ground</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-lance/">
-<img src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Lance</strong>
 <small>Launch a lightning projectile which will electrify your enemies</small>

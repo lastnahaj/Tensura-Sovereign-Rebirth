@@ -2761,6 +2761,48 @@
         "file_page": "https://tensura.wiki.gg/wiki/File:Wind_attack_resistance.png",
         "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
       }
+    },
+    "mysticism:gravitational_void": {
+      "asset": "assets/illustrations/skills/gravitational-void.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ee4289d428447acde33f1015b5f03d0a730494cacc056377fd02bd6d19e5b713",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://trmysticism.wiki.gg/wiki/Gravitational_Void",
+        "file_page": "https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png",
+        "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+      }
+    },
+    "tensura:magic_resistance": {
+      "asset": "assets/illustrations/skills/magic-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "e69a3e74c5f8a2894e0efd57176689fd91b5e505aee803de7c2827a279858da0",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Magic_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Magic_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:magic_nullification": {
+      "asset": "assets/illustrations/skills/magic-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "02e2da2f9b566cfeb8c28998714a95cefbe12e57ab2ade3a748007a91db31a5a",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Magic_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Magic_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
     }
   }
 }

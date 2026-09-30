@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Uses magic to greatly recover the casters vitality</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Arch Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Recovery</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Recovery.png"><img alt="Recovery.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/recovery-9f57760f2a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -67,28 +75,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../protection/">
-<img src="../../../assets/upstream/tensura/magic/protection-6852075bc2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/protection-6852075bc2.png"/>
 <span class="reference-related-copy">
 <strong>Protection</strong>
 <small>Protect your body from damage using magic</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reinforced-barrier/">
-<img src="../../../assets/upstream/tensura/magic/reinforced-barrier-37c2860481.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/reinforced-barrier-37c2860481.png"/>
 <span class="reference-related-copy">
 <strong>Reinforced Barrier</strong>
 <small>Cast Barrier and Magic Barrier at the same time protecting from both magical and physical attacks</small>
 </span>
 </a>
 <a class="reference-related-card" href="../aspectual-possession/">
-<img src="../../../assets/upstream/tensura/magic/possession-aspectual-12e8545790.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/possession-aspectual-12e8545790.png"/>
 <span class="reference-related-copy">
 <strong>Possession</strong>
-<small>When you want to be a daemon but don&#x27;t like the race:</small>
+<small>Transfer directly between bodies under Possession requirements while the target remains inside the casting circle.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../reinforcement/">
-<img src="../../../assets/upstream/tensura/magic/reinforcement-bd91b45cc1.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/reinforcement-bd91b45cc1.png"/>
 <span class="reference-related-copy">
 <strong>Reinforcement</strong>
 <small>Reinforce your body using magic</small>

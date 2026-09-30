@@ -23,9 +23,9 @@ permission prevent a new import. Legacy footer-derived records are historical
 import decisions, not proof of image reuse permission; file-level reviews
 supersede them.
 
-The September 30 review withdrew **65 core ability icons** from current
-distribution: 42 resistance icons and 23 Battlewill icons. Of those files,
-63 have game-studio/licensor ownership notices; two have no verified
+The September 30 review withdrew **67 core ability icons** from current
+distribution: 44 resistance icons and 23 Battlewill icons. Of those files,
+65 have game-studio/licensor ownership notices; two have no verified
 file-specific reusable license. Original TSR illustrations replace them.
 The [file-level review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json)
 retains the source pages and decisions. Other legacy media remains in the

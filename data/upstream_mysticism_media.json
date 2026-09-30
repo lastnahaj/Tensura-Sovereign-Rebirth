@@ -1,7 +1,7 @@
 {
   "source": "https://trmysticism.wiki.gg/",
   "synchronized_at": "2026-09-05T21:59:40Z",
-  "policy": "Media is imported under the upstream File-page CC BY-SA 4.0 declaration unless the individual File page states restrictive or non-free terms.",
+  "policy": "New media imports require an explicit file-specific reusable license and a rendered File-page exception check. Page-content footers do not establish image permission.",
   "media": [
     {
       "source_title": "Bushyasta.png",
@@ -2529,17 +2529,20 @@
         "mysticism-reference/magic/gravitational-void.md"
       ],
       "category": "magic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T21:59:40Z",
-      "local_path": "assets/upstream/mysticism/magic/gravitational-void-255636038a.png",
       "download_url": "https://trmysticism.wiki.gg/images/Gravitational_Void.png?255636",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-09-30",
+      "license_review_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/illustrations/skills/gravitational-void.webp",
+      "withdrawn_local_path": "assets/upstream/mysticism/magic/gravitational-void-255636038a.png"
     },
     {
       "source_title": "Invicon Axiom.png",
@@ -5563,5 +5566,6 @@
       "import_status": "imported",
       "reason": "Reusable File-page media imported with attribution"
     }
-  ]
+  ],
+  "legacy_license_notice": "Unreviewed legacy entries retain the September 5 importer decision as a historical record, not proof of image reuse permission. File-level reviews supersede those decisions."
 }

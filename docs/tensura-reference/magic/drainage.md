@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Drain water around you</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Lesser Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Drainage</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Drainage.png"><img alt="Drainage.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/drainage-f89aa7aa45.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -65,28 +73,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../doppelganger/">
-<img src="../../../assets/upstream/tensura/magic/doppelganger-aspectual-968e0d3d2e.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/doppelganger-aspectual-968e0d3d2e.png"/>
 <span class="reference-related-copy">
 <strong>Doppelganger</strong>
-<small>Everyone wants someone that can understand them, so why not two of yourself?</small>
+<small>Create two body doubles whose EP scales with the caster’s MP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth/">
-<img src="../../../assets/upstream/tensura/magic/earth-9dc7fffe14.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/earth-9dc7fffe14.png"/>
 <span class="reference-related-copy">
 <strong>Earth</strong>
 <small>Place down blocks which mimic those from the surrounding environment</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dominate/">
-<img src="../../../assets/upstream/tensura/magic/dominate-0684395970.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/dominate-0684395970.png"/>
 <span class="reference-related-copy">
 <strong>Dominate</strong>
 <small>Put weak targets under your control</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth-jail/">
-<img src="../../../assets/upstream/tensura/magic/earth-jail-96bbbe64ce.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/earth-jail-96bbbe64ce.png"/>
 <span class="reference-related-copy">
 <strong>Earth Jail</strong>
 <small>Restrict and weaken a single target, applying debuffs to allow you to finish them off</small>

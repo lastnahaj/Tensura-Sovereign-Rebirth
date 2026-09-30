@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Turn soft solid blocks into loose versions</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Lesser Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Liquidize</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Liquidize.png"><img alt="Liquidize.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/liquidize-294d1da967.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -65,31 +73,17 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../lightning-lance/">
-<img src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Lance</strong>
 <small>Launch a lightning projectile which will electrify your enemies</small>
 </span>
 </a>
-<a class="reference-related-card" href="../low-magic-staff/">
-<img src="../../../assets/upstream/tensura/magic/low-magic-staff-72ac8cf77f.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Low Magic Staff</strong>
-<small>A low magic staff for casting magic.</small>
-</span>
-</a>
 <a class="reference-related-card" href="../lighten/">
-<img src="../../../assets/upstream/tensura/magic/lighten-97a52cea6f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/lighten-97a52cea6f.png"/>
 <span class="reference-related-copy">
 <strong>Lighten</strong>
 <small>Makes the caster lighter granting jump and speed boost</small>
-</span>
-</a>
-<a class="reference-related-card" href="../low-quality-magic-crystal/">
-<img src="../../../assets/upstream/tensura/magic/low-quality-magic-crystal-be81b6522f.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Low Quality Magic Crystal</strong>
-<small>A Low Quality Magic Crystal</small>
 </span>
 </a>
 </div>

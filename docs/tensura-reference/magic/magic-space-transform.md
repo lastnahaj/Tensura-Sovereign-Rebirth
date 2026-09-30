@@ -91,7 +91,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/space-transform/" t
 </span>
 </a>
 <a class="reference-related-card" href="../magic-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-resistance-2abadd1cc7.png"/>
+<img alt="Magic Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/magic-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Resistance</strong>
 <small>Magic Resistance is a Resistance Skill in Tensura: Reincarnated.</small>

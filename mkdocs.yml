@@ -90,6 +90,7 @@ nav:
       - "Other Skills": tensura-reference/skills/other/index.md
       - "Resistances": tensura-reference/resistances/index.md
       - "Magic": tensura-reference/magic/index.md
+      - "Magic learning": magic-learning.md
       - "Battlewill": tensura-reference/battlewill/index.md
       - "Battlewill learning": battlewill-training.md
       - "Arts": tensura-reference/arts/index.md

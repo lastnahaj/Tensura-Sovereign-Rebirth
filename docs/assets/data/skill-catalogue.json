@@ -13,6 +13,39 @@
       "namespace": "tensura",
       "obtainment_documented": false
     },
+    "tensura-reference/magic/abilities-magics-fire-bolt.md": {
+      "id": "tensura:fire_bolt",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Bolt",
+      "source": "https://tensura.wiki.gg/wiki/Abilities/Magics/Fire_Bolt",
+      "revision": 12405,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/abilities-magics-flare-circle.md": {
+      "id": "tensura:flare_circle",
+      "status": "registered",
+      "category": "magic",
+      "title": "Flare Circle",
+      "source": "https://tensura.wiki.gg/wiki/Abilities/Magics/Flare_Circle",
+      "revision": 12408,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/abilities-magics-hellfire.md": {
+      "id": "tensura:hellfire",
+      "status": "registered",
+      "category": "magic",
+      "title": "Hellfire",
+      "source": "https://tensura.wiki.gg/wiki/Abilities/Magics/Hellfire",
+      "revision": 13361,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/other/abilities-skills.md": {
       "id": null,
       "status": "guide",
@@ -67,6 +100,50 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/acid-rain.md": {
+      "id": "tensura:acid_rain",
+      "status": "registered",
+      "category": "magic",
+      "title": "Acid Rain",
+      "source": "https://tensura.wiki.gg/wiki/Acid_Rain",
+      "revision": 12320,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/acid-shell.md": {
+      "id": "tensura:acid_shell",
+      "status": "registered",
+      "category": "magic",
+      "title": "Acid Shell",
+      "source": "https://tensura.wiki.gg/wiki/Acid_Shell",
+      "revision": 11046,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/aerial-blade.md": {
+      "id": "tensura:aerial_blade",
+      "status": "registered",
+      "category": "magic",
+      "title": "Aerial Blade",
+      "source": "https://tensura.wiki.gg/wiki/Aerial_Blade",
+      "revision": 12329,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/agility.md": {
+      "id": "tensura:agility",
+      "status": "registered",
+      "category": "magic",
+      "title": "Agility",
+      "source": "https://tensura.wiki.gg/wiki/Agility",
+      "revision": 11090,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/battlewill/air-flight.md": {
       "id": "tensura:air_flight",
       "status": "registered",
@@ -77,6 +154,17 @@
       "namespace": "tensura",
       "asset": "assets/illustrations/skills/air-flight.webp",
       "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/airflow-shut.md": {
+      "id": "tensura:airflow_shut",
+      "status": "registered",
+      "category": "magic",
+      "title": "Airflow Shut",
+      "source": "https://tensura.wiki.gg/wiki/Airflow_Shut",
+      "revision": 11051,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/all-seeing-eye.md": {
@@ -109,6 +197,39 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/analyze.md": {
+      "id": "tensura:analyze",
+      "status": "registered",
+      "category": "magic",
+      "title": "Analyze",
+      "source": "https://tensura.wiki.gg/wiki/Analyze",
+      "revision": 11067,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/anti-magic-area.md": {
+      "id": "tensura:anti_magic_area",
+      "status": "registered",
+      "category": "magic",
+      "title": "Anti-Magic Area",
+      "source": "https://tensura.wiki.gg/wiki/Anti-Magic_Area",
+      "revision": 11120,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/anti-shock-area.md": {
+      "id": "tensura:anti_shock_area",
+      "status": "registered",
+      "category": "magic",
+      "title": "Anti-Shock Area",
+      "source": "https://tensura.wiki.gg/wiki/Anti-Shock_Area",
+      "revision": 11119,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/other/anti-skill.md": {
       "id": "tensura:anti_skill",
       "status": "registered",
@@ -117,6 +238,39 @@
       "source": "https://tensura.wiki.gg/wiki/Anti-Skill",
       "revision": 12446,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/antidote.md": {
+      "id": "tensura:antidote",
+      "status": "registered",
+      "category": "magic",
+      "title": "Antidote",
+      "source": "https://tensura.wiki.gg/wiki/Antidote",
+      "revision": 11096,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/aspectual-possession.md": {
+      "id": "tensura:possession_magic",
+      "status": "registered",
+      "category": "magic",
+      "title": "Possession",
+      "source": "https://tensura.wiki.gg/wiki/Aspectual_Possession",
+      "revision": 13381,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/aspectual-strength.md": {
+      "id": "tensura:strength_aspectual",
+      "status": "registered",
+      "category": "magic",
+      "title": "Strength",
+      "source": "https://tensura.wiki.gg/wiki/Aspectual_Strength",
+      "revision": 11089,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/aura-shield.md": {
@@ -153,6 +307,17 @@
       "namespace": "tensura",
       "asset": "assets/illustrations/skills/aura-sword.webp",
       "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/barrier.md": {
+      "id": "tensura:barrier",
+      "status": "registered",
+      "category": "magic",
+      "title": "Barrier",
+      "source": "https://tensura.wiki.gg/wiki/Barrier",
+      "revision": 11117,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/battlewill.md": {
@@ -227,6 +392,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/blizzard.md": {
+      "id": "tensura:blizzard",
+      "status": "registered",
+      "category": "magic",
+      "title": "Blizzard",
+      "source": "https://tensura.wiki.gg/wiki/Blizzard",
+      "revision": 12327,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/intrinsic/blood-mist.md": {
       "id": "tensura:blood_mist",
       "status": "registered",
@@ -257,6 +433,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/burden.md": {
+      "id": "tensura:burden",
+      "status": "registered",
+      "category": "magic",
+      "title": "Burden",
+      "source": "https://tensura.wiki.gg/wiki/Burden",
+      "revision": 11081,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/other/bypass-degrade-skills.md": {
       "id": null,
       "status": "guide",
@@ -266,6 +453,17 @@
       "revision": 12013,
       "namespace": "tensura",
       "obtainment_documented": false
+    },
+    "tensura-reference/magic/chain-explosion.md": {
+      "id": "tensura:chain_explosion",
+      "status": "registered",
+      "category": "magic",
+      "title": "Chain Explosion",
+      "source": "https://tensura.wiki.gg/wiki/Chain_Explosion",
+      "revision": 11028,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/chant-annulment.md": {
       "id": "tensura:chant_annulment",
@@ -305,6 +503,17 @@
       "source": "https://tensura.wiki.gg/wiki/Chosen_One",
       "revision": 13416,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/clairvoyance.md": {
+      "id": "tensura:clairvoyance",
+      "status": "registered",
+      "category": "magic",
+      "title": "Clairvoyance",
+      "source": "https://tensura.wiki.gg/wiki/Clairvoyance",
+      "revision": 11065,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/common/coercion.md": {
@@ -351,6 +560,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/confusion.md": {
+      "id": "tensura:confusion",
+      "status": "registered",
+      "category": "magic",
+      "title": "Confusion",
+      "source": "https://tensura.wiki.gg/wiki/Confusion",
+      "revision": 11099,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/cook.md": {
       "id": "tensura:cook",
       "status": "registered",
@@ -395,6 +615,28 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/create-greater-undead.md": {
+      "id": "tensura:create_greater_undead",
+      "status": "registered",
+      "category": "magic",
+      "title": "Create Greater Undead",
+      "source": "https://tensura.wiki.gg/wiki/Create_Greater_Undead",
+      "revision": 12376,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/create-lesser-undead.md": {
+      "id": "tensura:create_lesser_undead",
+      "status": "registered",
+      "category": "magic",
+      "title": "Create Lesser Undead",
+      "source": "https://tensura.wiki.gg/wiki/Create_Lesser_Undead",
+      "revision": 12377,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/creator.md": {
       "id": "tensura:creator",
       "status": "registered",
@@ -403,6 +645,28 @@
       "source": "https://tensura.wiki.gg/wiki/Creator",
       "revision": 12558,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/curse.md": {
+      "id": "tensura:curse",
+      "status": "registered",
+      "category": "magic",
+      "title": "Curse",
+      "source": "https://tensura.wiki.gg/wiki/Curse",
+      "revision": 12374,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/curse-bind.md": {
+      "id": "tensura:curse_bind",
+      "status": "registered",
+      "category": "magic",
+      "title": "Curse Bind",
+      "source": "https://tensura.wiki.gg/wiki/Curse_Bind",
+      "revision": 12375,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/danger-sense.md": {
@@ -415,6 +679,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/dark-cube.md": {
+      "id": "tensura:dark_cube",
+      "status": "registered",
+      "category": "magic",
+      "title": "Dark Cube",
+      "source": "https://tensura.wiki.gg/wiki/Dark_Cube",
+      "revision": 12310,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/battlewill/dark-eight-palms.md": {
       "id": "tensura:dark_eight_palms",
       "status": "registered",
@@ -425,6 +700,17 @@
       "namespace": "tensura",
       "asset": "assets/illustrations/skills/dark-eight-palms.webp",
       "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/darkness.md": {
+      "id": "tensura:darkness",
+      "status": "registered",
+      "category": "magic",
+      "title": "Darkness",
+      "source": "https://tensura.wiki.gg/wiki/Darkness",
+      "revision": 12294,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/darkness-attack-nullification.md": {
@@ -449,6 +735,17 @@
       "namespace": "tensura",
       "asset": "assets/illustrations/skills/darkness-attack-resistance.webp",
       "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/darkness-cannon.md": {
+      "id": "tensura:darkness_cannon",
+      "status": "registered",
+      "category": "magic",
+      "title": "Darkness Cannon",
+      "source": "https://tensura.wiki.gg/wiki/Darkness_Cannon",
+      "revision": 12323,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/darkness-transform.md": {
@@ -483,6 +780,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/demon-dominate.md": {
+      "id": "tensura:demon_dominate",
+      "status": "registered",
+      "category": "magic",
+      "title": "Demon Dominate",
+      "source": "https://tensura.wiki.gg/wiki/Demon_Dominate",
+      "revision": 13417,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/demon-lord-haki.md": {
       "id": "tensura:demon_lord_haki",
       "status": "registered",
@@ -491,6 +799,17 @@
       "source": "https://tensura.wiki.gg/wiki/Demon_Lord_Haki",
       "revision": 8388,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/demon-marionette.md": {
+      "id": "tensura:demon_marionette",
+      "status": "registered",
+      "category": "magic",
+      "title": "Demon Marionette",
+      "source": "https://tensura.wiki.gg/wiki/Demon_Marionette",
+      "revision": 12681,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/diamond-path.md": {
@@ -503,6 +822,17 @@
       "namespace": "tensura",
       "asset": "assets/illustrations/skills/diamond-path.webp",
       "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/dimensional-cutter.md": {
+      "id": "tensura:dimension_cutter",
+      "status": "registered",
+      "category": "magic",
+      "title": "Dimensional Cutter",
+      "source": "https://tensura.wiki.gg/wiki/Dimensional_Cutter",
+      "revision": 11086,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/divine-berserker.md": {
@@ -523,6 +853,28 @@
       "source": "https://tensura.wiki.gg/wiki/Divine_Ki_Release",
       "revision": 13351,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/dominate.md": {
+      "id": "tensura:dominate",
+      "status": "registered",
+      "category": "magic",
+      "title": "Dominate",
+      "source": "https://tensura.wiki.gg/wiki/Dominate",
+      "revision": 11895,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/doppelganger.md": {
+      "id": "tensura:doppelganger",
+      "status": "registered",
+      "category": "magic",
+      "title": "Doppelganger",
+      "source": "https://tensura.wiki.gg/wiki/Doppelganger",
+      "revision": 12420,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/double-cherry-blossoms-eight-petals-flash.md": {
@@ -587,6 +939,28 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/drainage.md": {
+      "id": "tensura:drainage",
+      "status": "registered",
+      "category": "magic",
+      "title": "Drainage",
+      "source": "https://tensura.wiki.gg/wiki/Drainage",
+      "revision": 11041,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/earth.md": {
+      "id": "tensura:earth",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth",
+      "source": "https://tensura.wiki.gg/wiki/Earth",
+      "revision": 12306,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/earth-attack-nullification.md": {
       "id": "tensura:earth_attack_nullification",
       "status": "registered",
@@ -621,6 +995,28 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/earth-jail.md": {
+      "id": "tensura:earth_jail",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth Jail",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Jail",
+      "revision": 12304,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/earth-lock.md": {
+      "id": "tensura:earth_lock",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth Lock",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Lock",
+      "revision": 11072,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/earth-manipulation.md": {
       "id": "tensura:earth_manipulation",
       "status": "registered",
@@ -631,6 +1027,28 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/earth-spikes.md": {
+      "id": "tensura:earth_spikes",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth Spikes",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Spikes",
+      "revision": 12460,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/earth-storm.md": {
+      "id": "tensura:earth_storm",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth Storm",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Storm",
+      "revision": 12458,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/intrinsic/earth-transform.md": {
       "id": "tensura:earth_transform",
       "status": "registered",
@@ -639,6 +1057,17 @@
       "source": "https://tensura.wiki.gg/wiki/Earth_Transform",
       "revision": 8652,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/earth-wall.md": {
+      "id": "tensura:earth_wall",
+      "status": "registered",
+      "category": "magic",
+      "title": "Earth Wall",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Wall",
+      "revision": 11074,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/earthshatter-kick.md": {
@@ -677,6 +1106,17 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/electro-blast.md": {
+      "id": "tensura:electro_blast",
+      "status": "registered",
+      "category": "magic",
+      "title": "Electro Blast",
+      "source": "https://tensura.wiki.gg/wiki/Electro_Blast",
+      "revision": 12330,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/battlewill/elephant-stampede.md": {
       "id": "tensura:elephant_stampede",
       "status": "registered",
@@ -707,6 +1147,28 @@
       "source": "https://tensura.wiki.gg/wiki/Envy",
       "revision": 13388,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/escape.md": {
+      "id": "tensura:escape",
+      "status": "registered",
+      "category": "magic",
+      "title": "Escape",
+      "source": "https://tensura.wiki.gg/wiki/Escape",
+      "revision": 11082,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/explosion.md": {
+      "id": "tensura:explosion",
+      "status": "registered",
+      "category": "magic",
+      "title": "Explosion",
+      "source": "https://tensura.wiki.gg/wiki/Explosion",
+      "revision": 11517,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/eye-of-truth.md": {
@@ -747,6 +1209,83 @@
       "source": "https://tensura.wiki.gg/wiki/Fighter",
       "revision": 12693,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-aspectual.md": {
+      "id": "tensura:fire_aspectual",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire (Aspectual)",
+      "source": "https://tensura.wiki.gg/wiki/Fire_(Aspectual)",
+      "revision": 12343,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-spiritual.md": {
+      "id": "tensura:fire",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire (Spiritual)",
+      "source": "https://tensura.wiki.gg/wiki/Fire_(Spiritual)",
+      "revision": 12335,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-ball.md": {
+      "id": "tensura:fire_ball",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Ball",
+      "source": "https://tensura.wiki.gg/wiki/Fire_Ball",
+      "revision": 11123,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-breath.md": {
+      "id": "tensura:fire_breath",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Breath",
+      "source": "https://tensura.wiki.gg/wiki/Fire_Breath",
+      "revision": 12297,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-lance.md": {
+      "id": "tensura:fire_lance",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Lance",
+      "source": "https://tensura.wiki.gg/wiki/Fire_Lance",
+      "revision": 11122,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-storm.md": {
+      "id": "tensura:fire_storm",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Storm",
+      "source": "https://tensura.wiki.gg/wiki/Fire_Storm",
+      "revision": 11672,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/fire-wall.md": {
+      "id": "tensura:fire_wall",
+      "status": "registered",
+      "category": "magic",
+      "title": "Fire Wall",
+      "source": "https://tensura.wiki.gg/wiki/Fire_Wall",
+      "revision": 11025,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/flame-attack-nullification.md": {
@@ -813,6 +1352,39 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/flame-wall.md": {
+      "id": "tensura:flame_wall",
+      "status": "registered",
+      "category": "magic",
+      "title": "Flame Wall",
+      "source": "https://tensura.wiki.gg/wiki/Flame_Wall",
+      "revision": 11132,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/flight.md": {
+      "id": "tensura:flight",
+      "status": "registered",
+      "category": "magic",
+      "title": "Flight",
+      "source": "https://tensura.wiki.gg/wiki/Flight",
+      "revision": 11059,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/float.md": {
+      "id": "tensura:float",
+      "status": "registered",
+      "category": "magic",
+      "title": "Float",
+      "source": "https://tensura.wiki.gg/wiki/Float",
+      "revision": 11078,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/battlewill/formhide.md": {
       "id": "tensura:formhide",
       "status": "registered",
@@ -825,6 +1397,28 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/freeze.md": {
+      "id": "tensura:freeze",
+      "status": "registered",
+      "category": "magic",
+      "title": "Freeze",
+      "source": "https://tensura.wiki.gg/wiki/Freeze",
+      "revision": 11047,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/full-recovery.md": {
+      "id": "tensura:full_recovery",
+      "status": "registered",
+      "category": "magic",
+      "title": "Full Recovery",
+      "source": "https://tensura.wiki.gg/wiki/Full_Recovery",
+      "revision": 11097,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/fusionist.md": {
       "id": "tensura:fusionist",
       "status": "registered",
@@ -833,6 +1427,17 @@
       "source": "https://tensura.wiki.gg/wiki/Fusionist",
       "revision": 12694,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/gate.md": {
+      "id": "tensura:gate",
+      "status": "registered",
+      "category": "magic",
+      "title": "Gate",
+      "source": "https://tensura.wiki.gg/wiki/Gate",
+      "revision": 12317,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/giantification.md": {
@@ -1021,6 +1626,39 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/healing.md": {
+      "id": "tensura:healing",
+      "status": "registered",
+      "category": "magic",
+      "title": "Healing",
+      "source": "https://tensura.wiki.gg/wiki/Healing",
+      "revision": 11093,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/healing-rain.md": {
+      "id": "tensura:healing_rain",
+      "status": "registered",
+      "category": "magic",
+      "title": "Healing Rain",
+      "source": "https://tensura.wiki.gg/wiki/Healing_Rain",
+      "revision": 11094,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/healthcare.md": {
+      "id": "tensura:healthcare",
+      "status": "registered",
+      "category": "magic",
+      "title": "Healthcare",
+      "source": "https://tensura.wiki.gg/wiki/Healthcare",
+      "revision": 13403,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/heat-nullification.md": {
       "id": "tensura:heat_nullification",
       "status": "registered",
@@ -1122,6 +1760,83 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/hypnos.md": {
+      "id": "tensura:hypnos",
+      "status": "registered",
+      "category": "magic",
+      "title": "Hypnos",
+      "source": "https://tensura.wiki.gg/wiki/Hypnos",
+      "revision": 13383,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/ice-blizzard.md": {
+      "id": "tensura:ice_blizzard",
+      "status": "registered",
+      "category": "magic",
+      "title": "Ice Blizzard",
+      "source": "https://tensura.wiki.gg/wiki/Ice_Blizzard",
+      "revision": 11064,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/ice-breaker.md": {
+      "id": "tensura:ice_breaker",
+      "status": "registered",
+      "category": "magic",
+      "title": "Ice Breaker",
+      "source": "https://tensura.wiki.gg/wiki/Ice_Breaker",
+      "revision": 12678,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/ice-wall.md": {
+      "id": "tensura:ice_wall",
+      "status": "registered",
+      "category": "magic",
+      "title": "Ice Wall",
+      "source": "https://tensura.wiki.gg/wiki/Ice_wall",
+      "revision": 11063,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/icicle-lance.md": {
+      "id": "tensura:icicle_lance",
+      "status": "registered",
+      "category": "magic",
+      "title": "Icicle Lance",
+      "source": "https://tensura.wiki.gg/wiki/Icicle_Lance",
+      "revision": 13413,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/icicle-rain.md": {
+      "id": "tensura:icicle_rain",
+      "status": "registered",
+      "category": "magic",
+      "title": "Icicle Rain",
+      "source": "https://tensura.wiki.gg/wiki/Icicle_Rain",
+      "revision": 12349,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/icicle-spear.md": {
+      "id": "tensura:icicle_spear",
+      "status": "registered",
+      "category": "magic",
+      "title": "Icicle Spear",
+      "source": "https://tensura.wiki.gg/wiki/Icicle_Spear",
+      "revision": 11050,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/infinite-regeneration.md": {
       "id": "tensura:infinite_regeneration",
       "status": "registered",
@@ -1154,6 +1869,17 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/invisible.md": {
+      "id": "tensura:invisible",
+      "status": "registered",
+      "category": "magic",
+      "title": "Invisible",
+      "source": "https://tensura.wiki.gg/wiki/Invisible",
+      "revision": 11100,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/battlewill/items-misc-battlewill-manual.md": {
       "id": null,
       "status": "guide",
@@ -1173,6 +1899,17 @@
       "source": "https://tensura.wiki.gg/wiki/Law_Manipulation",
       "revision": 12665,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/light.md": {
+      "id": "tensura:light",
+      "status": "registered",
+      "category": "magic",
+      "title": "Light",
+      "source": "https://tensura.wiki.gg/wiki/Light",
+      "revision": 12295,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/light-attack-nullification.md": {
@@ -1209,6 +1946,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/lighten.md": {
+      "id": "tensura:lighten",
+      "status": "registered",
+      "category": "magic",
+      "title": "Lighten",
+      "source": "https://tensura.wiki.gg/wiki/Lighten",
+      "revision": 11670,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/lightning-domination.md": {
       "id": "tensura:lightning_domination",
       "status": "registered",
@@ -1219,6 +1967,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/lightning-lance.md": {
+      "id": "tensura:lightning_lance",
+      "status": "registered",
+      "category": "magic",
+      "title": "Lightning Lance",
+      "source": "https://tensura.wiki.gg/wiki/Lightning_Lance",
+      "revision": 12321,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/lightning-manipulation.md": {
       "id": "tensura:lightning_manipulation",
       "status": "registered",
@@ -1227,6 +1986,17 @@
       "source": "https://tensura.wiki.gg/wiki/Lightning_Manipulation",
       "revision": 12745,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/liquidize.md": {
+      "id": "tensura:liquidize",
+      "status": "registered",
+      "category": "magic",
+      "title": "Liquidize",
+      "source": "https://tensura.wiki.gg/wiki/Liquidize",
+      "revision": 11073,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/lust.md": {
@@ -1247,6 +2017,17 @@
       "source": "https://tensura.wiki.gg/wiki/Magic_Aura",
       "revision": 12879,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/magic-barrier.md": {
+      "id": "tensura:magic_barrier",
+      "status": "registered",
+      "category": "magic",
+      "title": "Magic Barrier",
+      "source": "https://tensura.wiki.gg/wiki/Magic_Barrier",
+      "revision": 11116,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/battlewill/magic-bullet.md": {
@@ -1311,6 +2092,31 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/magic-nullification.md": {
+      "id": "tensura:magic_nullification",
+      "status": "unavailable",
+      "category": "resistances",
+      "title": "Magic Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Magic_Nullification",
+      "revision": 12493,
+      "namespace": "tensura",
+      "availability_reason": "The upstream article describes Magic Nullification as unobtainable without cheats. No normal player acquisition route has been verified; this entry is reference-only.",
+      "asset": "assets/illustrations/skills/magic-nullification.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
+    },
+    "tensura-reference/magic/magic-resistance.md": {
+      "id": "tensura:magic_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Magic Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Magic_Resistance",
+      "revision": 13426,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/magic-resistance.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/magic/magic-sense.md": {
       "id": "tensura:magic_sense",
       "status": "registered",
@@ -1331,6 +2137,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/magic-wall.md": {
+      "id": "tensura:magic_wall",
+      "status": "registered",
+      "category": "magic",
+      "title": "Magic Wall",
+      "source": "https://tensura.wiki.gg/wiki/Magic_Wall",
+      "revision": 11114,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/magic/magic-water-transform.md": {
       "id": "tensura:magic_water_transform",
       "status": "registered",
@@ -1349,6 +2166,17 @@
       "source": "https://tensura.wiki.gg/wiki/Magic_Wind_Transform",
       "revision": 11328,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/magma-surge.md": {
+      "id": "tensura:magma_surge",
+      "status": "registered",
+      "category": "magic",
+      "title": "Magma Surge",
+      "source": "https://tensura.wiki.gg/wiki/Magma_Surge",
+      "revision": 12333,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/majesty.md": {
@@ -1413,6 +2241,28 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/megiddo.md": {
+      "id": "tensura:megiddo",
+      "status": "registered",
+      "category": "magic",
+      "title": "Megiddo",
+      "source": "https://tensura.wiki.gg/wiki/Megiddo",
+      "revision": 12328,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/mental-crush.md": {
+      "id": "tensura:mental_crush",
+      "status": "registered",
+      "category": "magic",
+      "title": "Mental Crush",
+      "source": "https://tensura.wiki.gg/wiki/Mental_Crush",
+      "revision": 13343,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/merciless.md": {
       "id": "tensura:merciless",
       "status": "registered",
@@ -1421,6 +2271,17 @@
       "source": "https://tensura.wiki.gg/wiki/Merciless",
       "revision": 12701,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/mirage.md": {
+      "id": "tensura:mirage",
+      "status": "registered",
+      "category": "magic",
+      "title": "Mirage",
+      "source": "https://tensura.wiki.gg/wiki/Mirage",
+      "revision": 11101,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/molecular-manipulation.md": {
@@ -1441,6 +2302,28 @@
       "source": "https://tensura.wiki.gg/wiki/Mortal_Fear",
       "revision": 11934,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/mud-hand.md": {
+      "id": "tensura:mud_hand",
+      "status": "registered",
+      "category": "magic",
+      "title": "Mud Hand",
+      "source": "https://tensura.wiki.gg/wiki/Mud_Hand",
+      "revision": 11075,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/mud-spears.md": {
+      "id": "tensura:mud_spears",
+      "status": "registered",
+      "category": "magic",
+      "title": "Mud Spears",
+      "source": "https://tensura.wiki.gg/wiki/Mud_Spears",
+      "revision": 11077,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/multilayer-barrier.md": {
@@ -1741,6 +2624,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/protection.md": {
+      "id": "tensura:protection",
+      "status": "registered",
+      "category": "magic",
+      "title": "Protection",
+      "source": "https://tensura.wiki.gg/wiki/Protection",
+      "revision": 11091,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/ranged-barrier.md": {
       "id": "tensura:ranged_barrier",
       "status": "registered",
@@ -1761,6 +2655,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/recovery.md": {
+      "id": "tensura:recovery",
+      "status": "registered",
+      "category": "magic",
+      "title": "Recovery",
+      "source": "https://tensura.wiki.gg/wiki/Recovery",
+      "revision": 11095,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/reflector.md": {
       "id": "tensura:reflector",
       "status": "registered",
@@ -1769,6 +2674,28 @@
       "source": "https://tensura.wiki.gg/wiki/Reflector",
       "revision": 8317,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/reinforced-barrier.md": {
+      "id": "tensura:reinforced_barrier",
+      "status": "registered",
+      "category": "magic",
+      "title": "Reinforced Barrier",
+      "source": "https://tensura.wiki.gg/wiki/Reinforced_Barrier",
+      "revision": 11118,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/reinforcement.md": {
+      "id": "tensura:reinforcement",
+      "status": "registered",
+      "category": "magic",
+      "title": "Reinforcement",
+      "source": "https://tensura.wiki.gg/wiki/Reinforcement",
+      "revision": 11087,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/researcher.md": {
@@ -1843,6 +2770,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/search-enemy.md": {
+      "id": "tensura:search_enemy",
+      "status": "registered",
+      "category": "magic",
+      "title": "Search Enemy",
+      "source": "https://tensura.wiki.gg/wiki/Search_Enemy",
+      "revision": 11060,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/seeker.md": {
       "id": "tensura:seeker",
       "status": "registered",
@@ -1903,6 +2841,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/shadow-bind.md": {
+      "id": "tensura:shadow_bind",
+      "status": "registered",
+      "category": "magic",
+      "title": "Shadow Bind",
+      "source": "https://tensura.wiki.gg/wiki/Shadow_Bind",
+      "revision": 12309,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/shadow-motion.md": {
       "id": "tensura:shadow_motion",
       "status": "registered",
@@ -1923,6 +2872,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/shrink.md": {
+      "id": "tensura:shrink",
+      "status": "registered",
+      "category": "magic",
+      "title": "Shrink",
+      "source": "https://tensura.wiki.gg/wiki/Shrink",
+      "revision": 12319,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/other/skill-reset-scroll.md": {
       "id": null,
       "status": "historical",
@@ -1932,6 +2892,17 @@
       "revision": 11412,
       "namespace": "tensura",
       "obtainment_documented": false
+    },
+    "tensura-reference/magic/sleep-mist.md": {
+      "id": "tensura:sleep_mist",
+      "status": "registered",
+      "category": "magic",
+      "title": "Sleep Mist",
+      "source": "https://tensura.wiki.gg/wiki/Sleep_Mist",
+      "revision": 11835,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/sloth.md": {
       "id": "tensura:sloth",
@@ -1963,6 +2934,50 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/solar-beam.md": {
+      "id": "tensura:solar_beam",
+      "status": "registered",
+      "category": "magic",
+      "title": "Solar Beam",
+      "source": "https://tensura.wiki.gg/wiki/Solar_Beam",
+      "revision": 12314,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/solar-flare.md": {
+      "id": "tensura:solar_flare",
+      "status": "registered",
+      "category": "magic",
+      "title": "Solar Flare",
+      "source": "https://tensura.wiki.gg/wiki/Solar_Flare",
+      "revision": 12315,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/solar-rain.md": {
+      "id": "tensura:solar_rain",
+      "status": "registered",
+      "category": "magic",
+      "title": "Solar Rain",
+      "source": "https://tensura.wiki.gg/wiki/Solar_Rain",
+      "revision": 12313,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/solar-wave.md": {
+      "id": "tensura:solar_wave",
+      "status": "registered",
+      "category": "magic",
+      "title": "Solar Wave",
+      "source": "https://tensura.wiki.gg/wiki/Solar_Wave",
+      "revision": 12316,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/sound-domination.md": {
       "id": "tensura:sound_domination",
       "status": "registered",
@@ -1981,6 +2996,17 @@
       "source": "https://tensura.wiki.gg/wiki/Sound_Manipulation",
       "revision": 13412,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/space.md": {
+      "id": "tensura:space",
+      "status": "registered",
+      "category": "magic",
+      "title": "Space",
+      "source": "https://tensura.wiki.gg/wiki/Space",
+      "revision": 12302,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/space-transform.md": {
@@ -2045,6 +3071,17 @@
       "source": "https://tensura.wiki.gg/wiki/Spatial_Motion",
       "revision": 13354,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/spatial-storage.md": {
+      "id": "tensura:spatial_storage",
+      "status": "registered",
+      "category": "magic",
+      "title": "Spatial Storage",
+      "source": "https://tensura.wiki.gg/wiki/Spatial_Storage",
+      "revision": 11084,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/spearhead.md": {
@@ -2121,6 +3158,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/stone-shot.md": {
+      "id": "tensura:stone_shot",
+      "status": "registered",
+      "category": "magic",
+      "title": "Stone Shot",
+      "source": "https://tensura.wiki.gg/wiki/Stone_Shot",
+      "revision": 13161,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/strength.md": {
       "id": "tensura:strength",
       "status": "registered",
@@ -2139,6 +3187,61 @@
       "source": "https://tensura.wiki.gg/wiki/Strengthen_Body",
       "revision": 8576,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/summon-basilisk.md": {
+      "id": "tensura:summon_basilisk",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Basilisk",
+      "source": "https://tensura.wiki.gg/wiki/Summon_Basilisk",
+      "revision": 10997,
+      "namespace": "tensura",
+      "magic_school": "Summoning",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/summon-daemon.md": {
+      "id": "tensura:summon_daemon",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Daemon",
+      "source": "https://tensura.wiki.gg/wiki/Summon_Daemon",
+      "revision": 13020,
+      "namespace": "tensura",
+      "magic_school": "Summoning",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/summon-greater-elemental.md": {
+      "id": "tensura:summon_greater_elemental",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Greater Elemental",
+      "source": "https://tensura.wiki.gg/wiki/Summon_Greater_Elemental",
+      "revision": 12456,
+      "namespace": "tensura",
+      "magic_school": "Summoning",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/summon-medium-elemental.md": {
+      "id": "tensura:summon_medium_elemental",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Medium Elemental",
+      "source": "https://tensura.wiki.gg/wiki/Summon_Medium_Elemental",
+      "revision": 12466,
+      "namespace": "tensura",
+      "magic_school": "Summoning",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/summon-otherworlder.md": {
+      "id": "tensura:summon_otherworlder",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Otherworlder",
+      "source": "https://tensura.wiki.gg/wiki/Summon_Otherworlder",
+      "revision": 12187,
+      "namespace": "tensura",
+      "magic_school": "Summoning",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/suppressor.md": {
@@ -2161,6 +3264,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/swipe.md": {
+      "id": "tensura:swipe",
+      "status": "registered",
+      "category": "magic",
+      "title": "Swipe",
+      "source": "https://tensura.wiki.gg/wiki/Swipe",
+      "revision": 12326,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/telepathy.md": {
       "id": "tensura:telepathy",
       "status": "registered",
@@ -2169,6 +3283,17 @@
       "source": "https://tensura.wiki.gg/wiki/Telepathy",
       "revision": 8620,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/teleport.md": {
+      "id": "tensura:teleport",
+      "status": "registered",
+      "category": "magic",
+      "title": "Teleport",
+      "source": "https://tensura.wiki.gg/wiki/Teleport",
+      "revision": 12893,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/thermal-fluctuation-nullification.md": {
@@ -2225,6 +3350,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/thunder.md": {
+      "id": "tensura:thunder",
+      "status": "registered",
+      "category": "magic",
+      "title": "Thunder",
+      "source": "https://tensura.wiki.gg/wiki/Thunder",
+      "revision": 11037,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/intrinsic/thunder-breath.md": {
       "id": "tensura:thunder_breath",
       "status": "registered",
@@ -2233,6 +3369,39 @@
       "source": "https://tensura.wiki.gg/wiki/Thunder_Breath",
       "revision": 8674,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/thunder-lance.md": {
+      "id": "tensura:thunder_lance",
+      "status": "registered",
+      "category": "magic",
+      "title": "Thunder Lance",
+      "source": "https://tensura.wiki.gg/wiki/Thunder_Lance",
+      "revision": 11034,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/thunder-orb.md": {
+      "id": "tensura:thunder_orb",
+      "status": "registered",
+      "category": "magic",
+      "title": "Thunder Orb",
+      "source": "https://tensura.wiki.gg/wiki/Thunder_Orb",
+      "revision": 11036,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/thunder-rain.md": {
+      "id": "tensura:thunder_rain",
+      "status": "registered",
+      "category": "magic",
+      "title": "Thunder Rain",
+      "source": "https://tensura.wiki.gg/wiki/Thunder_Rain",
+      "revision": 12350,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/titanification.md": {
@@ -2245,6 +3414,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/tornado-blade.md": {
+      "id": "tensura:tornado_blade",
+      "status": "registered",
+      "category": "magic",
+      "title": "Tornado Blade",
+      "source": "https://tensura.wiki.gg/wiki/Tornado_Blade",
+      "revision": 11031,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/traveler.md": {
       "id": "tensura:traveler",
       "status": "registered",
@@ -2253,6 +3433,17 @@
       "source": "https://tensura.wiki.gg/wiki/Traveler",
       "revision": 12715,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/true-darkness.md": {
+      "id": "tensura:true_darkness",
+      "status": "registered",
+      "category": "magic",
+      "title": "True Darkness",
+      "source": "https://tensura.wiki.gg/wiki/True_Darkness",
+      "revision": 13324,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/tuner.md": {
@@ -2367,6 +3558,39 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/warp-portal.md": {
+      "id": "tensura:warp_portal",
+      "status": "registered",
+      "category": "magic",
+      "title": "Warp Portal",
+      "source": "https://tensura.wiki.gg/wiki/Warp_Portal",
+      "revision": 11083,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/water-aspectual.md": {
+      "id": "tensura:water_aspectual",
+      "status": "registered",
+      "category": "magic",
+      "title": "Water (Aspectual)",
+      "source": "https://tensura.wiki.gg/wiki/Water_(Aspectual)",
+      "revision": 12574,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/water-spiritual.md": {
+      "id": "tensura:water",
+      "status": "registered",
+      "category": "magic",
+      "title": "Water (Spiritual)",
+      "source": "https://tensura.wiki.gg/wiki/Water_(Spiritual)",
+      "revision": 12285,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/water-attack-nullification.md": {
       "id": "tensura:water_attack_nullification",
       "status": "registered",
@@ -2421,6 +3645,28 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/water-cutter-aspectual.md": {
+      "id": "tensura:water_cutter_aspectual",
+      "status": "registered",
+      "category": "magic",
+      "title": "Water Cutter (Aspectual)",
+      "source": "https://tensura.wiki.gg/wiki/Water_Cutter_(Aspectual)",
+      "revision": 12573,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/water-cutter-spiritual.md": {
+      "id": "tensura:water_cutter",
+      "status": "registered",
+      "category": "magic",
+      "title": "Water Cutter",
+      "source": "https://tensura.wiki.gg/wiki/Water_Cutter_(Spiritual)",
+      "revision": 12354,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/water-domination.md": {
       "id": "tensura:water_domination",
       "status": "registered",
@@ -2429,6 +3675,17 @@
       "source": "https://tensura.wiki.gg/wiki/Water_Domination",
       "revision": 11360,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/water-jail.md": {
+      "id": "tensura:water_jail",
+      "status": "registered",
+      "category": "magic",
+      "title": "Water Jail",
+      "source": "https://tensura.wiki.gg/wiki/Water_Jail",
+      "revision": 11043,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/water-manipulation.md": {
@@ -2471,6 +3728,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/wind.md": {
+      "id": "tensura:wind",
+      "status": "registered",
+      "category": "magic",
+      "title": "Wind",
+      "source": "https://tensura.wiki.gg/wiki/Wind",
+      "revision": 12300,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/wind-attack-nullification.md": {
       "id": "tensura:wind_attack_nullification",
       "status": "registered",
@@ -2495,6 +3763,28 @@
       "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/wind-blade.md": {
+      "id": "tensura:wind_blade",
+      "status": "registered",
+      "category": "magic",
+      "title": "Wind Blade",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Blade",
+      "revision": 12301,
+      "namespace": "tensura",
+      "magic_school": "Spiritual",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/wind-cutter.md": {
+      "id": "tensura:wind_cutter",
+      "status": "registered",
+      "category": "magic",
+      "title": "Wind Cutter",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Cutter",
+      "revision": 11030,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/wind-domination.md": {
       "id": "tensura:wind_domination",
       "status": "registered",
@@ -2505,6 +3795,17 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/magic/wind-gust.md": {
+      "id": "tensura:wind_gust",
+      "status": "registered",
+      "category": "magic",
+      "title": "Wind Gust",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Gust",
+      "revision": 11029,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/wind-manipulation.md": {
       "id": "tensura:wind_manipulation",
       "status": "registered",
@@ -2513,6 +3814,17 @@
       "source": "https://tensura.wiki.gg/wiki/Wind_Manipulation",
       "revision": 13156,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/magic/wind-protection.md": {
+      "id": "tensura:wind_protection",
+      "status": "registered",
+      "category": "magic",
+      "title": "Wind Protection",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Protection",
+      "revision": 11032,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/wind-transform.md": {
@@ -2952,6 +4264,19 @@
       "revision": 2574,
       "namespace": "mysticism",
       "obtainment_documented": false
+    },
+    "mysticism-reference/magic/gravitational-void.md": {
+      "id": "mysticism:gravitational_void",
+      "status": "registered",
+      "category": "magic",
+      "title": "Gravitational Void",
+      "source": "https://trmysticism.wiki.gg/wiki/Gravitational_Void",
+      "revision": 3211,
+      "namespace": "mysticism",
+      "magic_school": "Spiritual",
+      "asset": "assets/illustrations/skills/gravitational-void.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "mysticism-reference/skills/ultimate/hades.md": {
       "id": null,
@@ -3410,6 +4735,16 @@
       "asset": "assets/upstream/mysticism/skills/spark-ae86cc4417.png",
       "obtainment_documented": true
     },
+    "mysticism-reference/magic/spatial-void.md": {
+      "id": null,
+      "status": "historical",
+      "category": "magic",
+      "title": "Spatial Void",
+      "source": "https://trmysticism.wiki.gg/wiki/Spatial_Void",
+      "revision": 3189,
+      "namespace": "mysticism",
+      "obtainment_documented": false
+    },
     "mysticism-reference/skills/unique/spiritualist.md": {
       "id": "mysticism:spiritualist",
       "status": "registered",
@@ -3734,6 +5069,7 @@
       "namespace": "ascension",
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions",
       "maintained": true,
+      "magic_school": "Aspectual",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/toxic-skin.md": {

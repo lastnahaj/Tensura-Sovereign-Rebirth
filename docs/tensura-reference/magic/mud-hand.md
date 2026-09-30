@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Creates hands using mud tying down the target</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Greater Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Mud Hand</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Mud_hand.png"><img alt="Mud hand.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/mud-hand-1d6a9d4515.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -66,31 +74,24 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mirage/">
-<img src="../../../assets/upstream/tensura/magic/mirage-e8185f395c.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/mirage-e8185f395c.png"/>
 <span class="reference-related-copy">
 <strong>Mirage</strong>
-<small>Walmart version of Body Double for broke people</small>
+<small>Create four short-lived decoys that deal no attack damage but can knock targets back.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mud-spears/">
-<img src="../../../assets/upstream/tensura/magic/mud-spears-ab1d246ee5.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/mud-spears-ab1d246ee5.png"/>
 <span class="reference-related-copy">
 <strong>Mud Spears</strong>
 <small>Rise spikes from the ground to pierce the target</small>
 </span>
 </a>
 <a class="reference-related-card" href="../mental-crush/">
-<img src="../../../assets/upstream/tensura/magic/mental-crush-f89f4a0061.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/mental-crush-f89f4a0061.png"/>
 <span class="reference-related-copy">
 <strong>Mental Crush</strong>
 <small>Crushes the targets spirit using magic</small>
-</span>
-</a>
-<a class="reference-related-card" href="../necromancy-spells/">
-<img src="../../../assets/images/reference-skills-magic.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Necromancy Spells</strong>
-<small>Defy the natural order with the power of death! Rule the world as its overlord!</small>
 </span>
 </a>
 </div>

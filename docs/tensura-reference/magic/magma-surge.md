@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Fire a spread of lava that burns and melts anything for a limited time</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Greater Earth Spirit</li><li><strong>Other:</strong>
+Owning <a class="mw-redirect" href="../magic-earth-transform/" title="Abilities/Skills/Magic Earth Transform">Magic Earth Transform</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Magma Surge</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Magma_surge.png"><img alt="Magma surge.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/magma-surge-4190ccf8de.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -63,29 +71,15 @@ Owning <a class="mw-redirect" href="../magic-earth-transform/" title="Abilities/
 <a href="../">Browse all Magic</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../abilities-magics/">
-<img src="../../../assets/upstream/tensura/magic/spiritualicon-be2b1f48f6.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magics</strong>
-<small>Magic The Gathering Aspectual Magic Spiritual Magic Summoning Magic</small>
-</span>
-</a>
-<a class="reference-related-card" href="../medium-quality-magic-crystal/">
-<img src="../../../assets/upstream/tensura/magic/medium-quality-magic-crystal-aad538da12.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Medium Quality Magic Crystal</strong>
-<small>A Medium Quality Magic Crystal</small>
-</span>
-</a>
 <a class="reference-related-card" href="../magic-wind-transform/">
-<img src="../../../assets/upstream/tensura/magic/magic-wind-transform-a530e7f6f4.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-wind-transform-a530e7f6f4.png"/>
 <span class="reference-related-copy">
 <strong>Magic Wind Transform</strong>
 <small>Gain access to Greater Wind Spirit Magic and boost your wind attacks while buffing yourself and debuffing enemies.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../megiddo/">
-<img src="../../../assets/upstream/tensura/magic/megiddo-d5e5eaa4ef.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/megiddo-d5e5eaa4ef.png"/>
 <span class="reference-related-copy">
 <strong>Megiddo</strong>
 <small>Unleash powerful sun blasts using water to kill any nearby foes. It can also be used manually to concentrate fire for…</small>

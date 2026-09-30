@@ -15,12 +15,28 @@
 }
 .battlewill-guide :is(h1, h2, h3) { color: var(--skill-ink); }
 .battlewill-guide .reference-eyebrow { color: var(--skill-accent); }
-.battlewill-guide .reference-directory-overview-link {
-  color: var(--skill-ink);
+.md-typeset :is(.battlewill-guide, .skill-directory) .reference-directory-overview-link {
+  /* Override the shared source-banner link's forced white foreground. */
+  color: var(--skill-ink) !important;
   border-color: var(--skill-border);
   background: var(--skill-surface);
 }
 .battlewill-guide .skill-directory-heading { max-width: 48rem; }
+.magic-school-filters { display: flex; flex-wrap: wrap; gap: .45rem; grid-column: 1 / -1; }
+.magic-school-filters button {
+  color: var(--skill-muted);
+  background: var(--skill-surface);
+  border: 1px solid var(--skill-border);
+  border-radius: .55rem;
+  padding: .55rem .8rem;
+  font: inherit;
+  font-size: .75rem;
+  cursor: pointer;
+}
+.magic-school-filters button.is-active { color: var(--skill-ink); border-color: var(--skill-accent); }
+.magic-school-filters button:focus-visible { outline: 2px solid var(--skill-accent); outline-offset: 3px; }
+.magic-school-filters span { margin-left: .3rem; opacity: .8; }
+.magic-school-label { color: var(--skill-accent); font-size: .65rem; font-weight: 750; text-transform: uppercase; letter-spacing: .08em; }
 .battlewill-path-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

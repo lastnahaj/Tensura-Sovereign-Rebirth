@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Call on your spirit to reduce the enemy&#x27;s vision in a wide area.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Lesser Dark Spirit</li><li><strong>Other:</strong>
+Owning <a class="mw-redirect" href="../../skills/intrinsic/darkness-transform/" title="Abilities/Skills/Darkness Transform">Darkness Transform</a>/<a class="mw-redirect" href="../magic-darkness-transform/" title="Abilities/Skills/Magic Darkness Transform">Magic Darkness Transform</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Darkness.png"><img alt="Darkness.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/darkness-642eaafa5a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -63,28 +71,28 @@ Owning <a class="mw-redirect" href="../../skills/intrinsic/darkness-transform/" 
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dark-cube/">
-<img src="../../../assets/upstream/tensura/magic/dark-cube-163d34ddb8.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/dark-cube-163d34ddb8.png"/>
 <span class="reference-related-copy">
 <strong>Dark Cube</strong>
 <small>Create a cube of darkness that slows movement and deals constant damage</small>
 </span>
 </a>
 <a class="reference-related-card" href="../darkness-cannon/">
-<img src="../../../assets/upstream/tensura/magic/darkness-cannon-1625fd2681.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/darkness-cannon-1625fd2681.png"/>
 <span class="reference-related-copy">
 <strong>Darkness Cannon</strong>
 <small>Shoot a long beam which deals massive damage, destroys Armor and debilitates enemies</small>
 </span>
 </a>
 <a class="reference-related-card" href="../curse-bind/">
-<img src="../../../assets/upstream/tensura/magic/curse-bind-cd9ef54540.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/curse-bind-cd9ef54540.png"/>
 <span class="reference-related-copy">
 <strong>Curse Bind</strong>
 <small>Bind the target using death spirits</small>
 </span>
 </a>
 <a class="reference-related-card" href="../demon-dominate/">
-<img src="../../../assets/upstream/tensura/magic/demon-dominate-da7fb83120.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/demon-dominate-da7fb83120.png"/>
 <span class="reference-related-copy">
 <strong>Demon Dominate</strong>
 <small>Dominate strong targets using magic and put them under your control</small>

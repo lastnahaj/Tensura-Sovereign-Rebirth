@@ -92,13 +92,6 @@ Inert Charybdis Core</div></div></div></div>
 <small>Gain access to the intermediate Earth Spirit Magic and boost your earth attacks while buffing yourself and debuffing…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../magic-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png"/>
-<span class="reference-related-copy">
-<strong>Magic Nullification</strong>
-<small>!!! Unobtainable without cheats !!!</small>
-</span>
-</a>
 </div>
 </section>
 

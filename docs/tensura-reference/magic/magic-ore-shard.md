@@ -116,14 +116,14 @@ When smelted in the <a href="../../blocks/blocks-kiln/" title="Blocks/Kiln">Kiln
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../magic-nullification/">
-<img src="../../../assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/illustrations/skills/magic-nullification.webp" alt="Magic Nullification illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Magic Nullification</strong>
 <small>!!! Unobtainable without cheats !!!</small>
 </span>
 </a>
 <a class="reference-related-card" href="../magic-resistance/">
-<img src="../../../assets/upstream/tensura/magic/magic-resistance-2abadd1cc7.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/illustrations/skills/magic-resistance.webp" alt="Magic Resistance illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Magic Resistance</strong>
 <small>Magic Resistance is a Resistance Skill in Tensura: Reincarnated.</small>

@@ -344,6 +344,24 @@
       "replacement_asset": "assets/illustrations/skills/magic-bullet.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_nullification.png",
+      "source_title": "Magic nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/magic-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_resistance.png",
+      "source_title": "Magic resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/magic-resistance.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Maximum_magic_bullet.png",
       "source_title": "Maximum magic bullet.png",
       "checked_on": "2026-09-30",
@@ -585,6 +603,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/wind-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png",
+      "source_title": "Gravitational Void.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-specific-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/illustrations/skills/gravitational-void.webp"
     }
   ]
 }

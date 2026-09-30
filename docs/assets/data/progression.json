@@ -985,11 +985,6 @@
       "image": "assets/upstream/tensura/magic/magic-light-transform-9f1477bc7e.png",
       "category": "skills/extra"
     },
-    "tensura-reference/magic/magic-nullification/": {
-      "title": "Magic Nullification",
-      "image": "assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png",
-      "category": "magic"
-    },
     "tensura-reference/magic/magic-ore-shard/": {
       "title": "Magic Ore Shard",
       "image": "assets/upstream/tensura/items/magic-ore-ecafa90efc.png",
@@ -997,8 +992,8 @@
     },
     "tensura-reference/magic/magic-resistance/": {
       "title": "Magic Resistance",
-      "image": "assets/upstream/tensura/magic/magic-resistance-2abadd1cc7.png",
-      "category": "magic"
+      "image": "assets/illustrations/skills/magic-resistance.webp",
+      "category": "resistances"
     },
     "tensura-reference/magic/magic-sense/": {
       "title": "Magic Sense",
@@ -2587,7 +2582,7 @@
     },
     "mysticism-reference/magic/gravitational-void/": {
       "title": "Gravitational Void",
-      "image": "assets/upstream/mysticism/magic/gravitational-void-255636038a.png",
+      "image": "assets/illustrations/skills/gravitational-void.webp",
       "category": "magic"
     },
     "mysticism-reference/races/gravity-soul-insect/": {
@@ -3049,11 +3044,6 @@
       "title": "Spatial Soul Insect",
       "image": "assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png",
       "category": "races"
-    },
-    "mysticism-reference/magic/spatial-void/": {
-      "title": "Spatial Void",
-      "image": "assets/upstream/mysticism/magic/spatial-void-ea014cc329.png",
-      "category": "magic"
     },
     "mysticism-reference/skills/unique/spiritualist/": {
       "title": "Spiritualist",

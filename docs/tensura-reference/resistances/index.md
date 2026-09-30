@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="resistances">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Resistances</h1><p>Resistance, immunity, nullification, and cancellation abilities.</p><span class="skill-entry-count">43 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Resistances</h1><p>Resistance, immunity, nullification, and cancellation abilities.</p><span class="skill-entry-count">44 entries</span></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../skills/">All abilities</a><a href="../skills/intrinsic/">Intrinsic</a><a href="../skills/common/">Common</a><a href="../skills/extra/">Extra</a><a href="../skills/unique/">Unique</a><a href="../skills/ultimate/">Ultimate</a><a href="../battlewill/">Battlewill</a><a href="../magic/">Magic</a><a href="./" aria-current="page">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
@@ -23,6 +23,7 @@ hide:
 <button type="button" data-letter="G" aria-pressed="false">G</button>
 <button type="button" data-letter="H" aria-pressed="false">H</button>
 <button type="button" data-letter="L" aria-pressed="false">L</button>
+<button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="N" aria-pressed="false">N</button>
 <button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
@@ -30,7 +31,7 @@ hide:
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 43 of 43 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 44 of 44 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="abnormal condition nullification abnormal condition nullification is a resistance skill in tensura: reincarnated.">
@@ -343,6 +344,21 @@ hide:
 <h2>Light Attack Resistance</h2>
 
 <p>Light Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
+
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magic resistance magic resistance is a resistance skill in tensura: reincarnated.">
+<a href="../magic/magic-resistance/" aria-label="Open Magic Resistance">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/illustrations/skills/magic-resistance.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Resistance</h2>
+
+<p>Magic Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Analyze
-description: Hmmm, hmmmmmmmhmhmhmhmmm, certainly an analysis we are having here. Increase the user’s Analysis Level by 1 and Analysis Radius by 5 blocks. Doesn't have a magic circle. Increased to Analysis level 2 instead of 1, and Analysis Radius to 10 blocks instead of 5. View or edit this templateMagicView or edit...
+description: "Increase analysis level and detection radius while the spell is active."
 tags:
 - Aspectual_Magic
 ---
@@ -16,8 +16,9 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Hmmm, hmmmmmmmhmhmhmhmmm, certainly an analysis we are having here.</p>
+<p>Increase analysis level and detection radius while the spell is active.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -28,6 +29,12 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Analyze</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Analyze_aspectual.png"><img alt="Analyze aspectual.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/analyze-aspectual-2e074195b5.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
@@ -35,8 +42,7 @@ Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-ro
 40 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Learning it from a tome</div></div></div></div>
-<p>Hmmm, hmmmmmmmhmhmhmhmmm, certainly an analysis we are having here.
-</p>
+<p>Increase analysis level and detection radius while the spell is active.</p>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p><br/>
 </p>
@@ -64,31 +70,24 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../airflow-shut/">
-<img src="../../../assets/upstream/tensura/magic/airflow-shut-db28670863.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/airflow-shut-db28670863.png"/>
 <span class="reference-related-copy">
 <strong>Airflow Shut</strong>
 <small>Silence the target making them unable to cast magic verbally</small>
 </span>
 </a>
 <a class="reference-related-card" href="../anti-magic-area/">
-<img src="../../../assets/upstream/tensura/magic/anti-magic-area-5e3f2c5f61.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/anti-magic-area-5e3f2c5f61.png"/>
 <span class="reference-related-copy">
 <strong>Anti-Magic Area</strong>
-<small>Completely stop anyone inside the area to use aspectual or summoning magic, with the sole exception of Satoru Go-…</small>
+<small>Create a zone that prevents new aspectual and summoning casts; spiritual magic and existing effects remain usable.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../agility/">
-<img src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png"/>
 <span class="reference-related-copy">
 <strong>Agility</strong>
 <small>Greatly increase your agility and speed using magic</small>
-</span>
-</a>
-<a class="reference-related-card" href="../anti-magic-mask/">
-<img src="../../../assets/upstream/tensura/magic/anti-magic-mask-ef2511f499.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Anti-Magic Mask</strong>
-<small>To craft the Anti-Magic Mask, one must have used a Anti-Magic Mask Schematic . To craft, you need a Smithing Bench .</small>
 </span>
 </a>
 </div>

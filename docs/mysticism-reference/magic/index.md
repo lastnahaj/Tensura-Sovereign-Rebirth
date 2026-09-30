@@ -40,8 +40,8 @@
 <article class="reference-card" data-letter="G" data-search="gravitational void targets being pulled by the black hole gain slowness 1.">
 <a href="gravitational-void/" aria-label="Open Gravitational Void">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/magic/gravitational-void-255636038a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<img src="../../assets/illustrations/skills/gravitational-void.webp" alt="Gravitational Void illustration" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gravitational Void</h2>

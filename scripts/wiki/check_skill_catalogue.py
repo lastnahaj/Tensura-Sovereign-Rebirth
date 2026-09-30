@@ -13,7 +13,7 @@ from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 
 from skill_catalogue import ACTIVE, ROOT, catalogue, inventory, nightmares_manifest
-from sync_skill_catalogue import DOCS, LABELS, acquisition, generate, render_acquisition_markdown, route
+from sync_skill_catalogue import DOCS, LABELS, MAGIC_SUMMARIES, acquisition, generate, render_acquisition_markdown, route
 from skill_presentation import CATEGORIES
 
 
@@ -62,8 +62,8 @@ def main():
     nightmares = nightmares_manifest()
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
-    if len(resistance_entries) != 41:
-        errors.append("Core resistance catalogue must include 41 matched player entries, excluding command-only Holy Attack Nullification")
+    if len(resistance_entries) != 42:
+        errors.append("Core resistance catalogue must include 42 matched player entries, excluding command-only Holy Attack Nullification and Magic Nullification")
     if policy["pages"].get("tensura-reference/resistances/holy-attack-nullification.md", {}).get("status") != "unavailable":
         errors.append("Command-only Holy Attack Nullification must remain reference-only")
     for record in resistance_records:
@@ -122,9 +122,44 @@ def main():
         errors.append('Ability search lacks its accessible label or status')
     if not hub.select_one('.reference-media-credits a[href]'):
         errors.append('Ability hub lacks image attribution')
-    for page in ("tensura-reference/magic/aspectual-possession.md", "tensura-reference/magic/aspectual-strength.md", "mysticism-reference/core-mechanics/effects-lightning-mode.md"):
+    for page in ("mysticism-reference/core-mechanics/effects-lightning-mode.md", "tensura-reference/magic/magic-tome.md", "tensura-reference/magic/anti-magic-mask.md"):
         if page in policy["pages"]:
             errors.append(f"Non-skill name collision: {page}")
+    for page, identifier in {
+        "tensura-reference/magic/aspectual-possession.md": "tensura:possession_magic",
+        "tensura-reference/magic/aspectual-strength.md": "tensura:strength_aspectual",
+        "tensura-reference/magic/fire-spiritual.md": "tensura:fire",
+        "tensura-reference/magic/water-spiritual.md": "tensura:water",
+    }.items():
+        if active.get(page, {}).get("id") != identifier:
+            errors.append(f"Spell registry mapping mismatch: {page}")
+    if policy['pages']['tensura-reference/magic/magic-nullification.md']['status'] != 'unavailable':
+        errors.append('Command-only Magic Nullification must be reference-only')
+    magic = BeautifulSoup(outputs['tensura-reference/magic/index.md'], 'html.parser')
+    magic_cards = magic.select('.reference-card')
+    if len(magic_cards) != 119 or any(card.get('data-school') not in {'Aspectual', 'Spiritual', 'Summoning'} for card in magic_cards):
+        errors.append('Magic directory must contain 119 registry-matched, school-classified spells')
+    if len(magic.select('[data-school-filter]')) != 4:
+        errors.append('Magic directory needs all three accessible school filters and an all-schools reset')
+    for name, summary in MAGIC_SUMMARIES.items():
+        page = 'tensura-reference/magic/' + name + '.md'
+        article = BeautifulSoup(outputs[page], 'html.parser')
+        overview = article.select_one('.reference-overview-copy > p:not(.reference-eyebrow)')
+        body_intro = article.select_one('.tensura-reference-article .mw-parser-output').find('p', recursive=False)
+        if any(node is None or node.get_text(' ', strip=True) != summary for node in (overview, body_intro)):
+            errors.append(f'Magic editorial summary mismatch: {page}')
+        if summary not in magic.get_text(' ', strip=True):
+            errors.append(f'Magic directory lost its editorial summary: {page}')
+    for page, decision in active.items():
+        if decision['category'] != 'magic':
+            continue
+        for anchor in BeautifulSoup(outputs[page], 'html.parser').select('.reference-related-card'):
+            target = posixpath.normpath(posixpath.join(route(page), urlsplit(anchor['href']).path)).rstrip('/') + '.md'
+            if target not in active:
+                errors.append(f'Magic recommendation is not an available ability: {page} -> {target}')
+    for guide in ('magic-learning.md',):
+        if not (DOCS / guide).is_file():
+            errors.append(f'Magic learning guide missing: {guide}')
     if active["tensura-reference/skills/intrinsic/angel-wings.md"]["category"] != "skills/extra":
         errors.append("Angel Wings must use its Extra classification")
     if active["tensura-reference/skills/extra/purple-lightning.md"]["category"] != "magic":

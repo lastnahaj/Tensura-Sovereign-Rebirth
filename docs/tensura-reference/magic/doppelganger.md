@@ -1,6 +1,6 @@
 ---
 title: Doppelganger
-description: Everyone wants someone that can understand them, so why not two of yourself? Creates 2 clones just like the Body Double skill with EP equal to 5% of the caster's MP each. 5 second cooldown and doesn't need a magic circle. Casting time is reduced to 80 ticks and decreases cooldown to 3s. Sneak while casting...
+description: "Create two body doubles whose EP scales with the caster’s MP."
 tags:
 - Aspectual_Magic
 ---
@@ -16,8 +16,9 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Everyone wants someone that can understand them, so why not two of yourself?</p>
+<p>Create two body doubles whose EP scales with the caster’s MP.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -28,6 +29,12 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Doppelganger</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Doppelganger_aspectual.png"><img alt="Doppelganger aspectual.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/doppelganger-aspectual-968e0d3d2e.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
@@ -35,8 +42,7 @@ Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-ro
 100 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 1000 (Unconfirmed)</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Learning it from a tome</div></div></div></div>
-<p>Everyone wants someone that can understand them, so why not two of yourself?
-</p>
+<p>Create two body doubles whose EP scales with the caster’s MP.</p>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p><br/>
 </p>
@@ -62,28 +68,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../dominate/">
-<img src="../../../assets/upstream/tensura/magic/dominate-0684395970.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/dominate-0684395970.png"/>
 <span class="reference-related-copy">
 <strong>Dominate</strong>
 <small>Put weak targets under your control</small>
 </span>
 </a>
 <a class="reference-related-card" href="../drainage/">
-<img src="../../../assets/upstream/tensura/magic/drainage-f89aa7aa45.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/drainage-f89aa7aa45.png"/>
 <span class="reference-related-copy">
 <strong>Drainage</strong>
 <small>Drain water around you</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dimensional-cutter/">
-<img src="../../../assets/upstream/tensura/magic/dimensional-cutter-2b3bbe5f08.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/dimensional-cutter-2b3bbe5f08.png"/>
 <span class="reference-related-copy">
 <strong>Dimensional Cutter</strong>
-<small>Why does this make want to scream &quot;Yamimatoi: Jigengiri&quot;?</small>
+<small>Launch a spatial blade that travels through blocks and entities.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth/">
-<img src="../../../assets/upstream/tensura/magic/earth-9dc7fffe14.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/earth-9dc7fffe14.png"/>
 <span class="reference-related-copy">
 <strong>Earth</strong>
 <small>Place down blocks which mimic those from the surrounding environment</small>

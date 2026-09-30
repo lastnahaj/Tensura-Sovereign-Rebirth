@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Makes the caster lighter granting jump and speed boost</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -30,6 +31,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Race:</strong>
+Arch Daemon</li><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Lighten</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Lighten.png"><img alt="Lighten.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/lighten-97a52cea6f.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -70,28 +78,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../light/">
-<img src="../../../assets/upstream/tensura/magic/light-5d6eae8d2a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/light-5d6eae8d2a.png"/>
 <span class="reference-related-copy">
 <strong>Light</strong>
 <small>Summons a temporary light to block out the darkness</small>
 </span>
 </a>
 <a class="reference-related-card" href="../lightning-lance/">
-<img src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/lightning-lance-28e03ab20f.png"/>
 <span class="reference-related-copy">
 <strong>Lightning Lance</strong>
 <small>Launch a lightning projectile which will electrify your enemies</small>
 </span>
 </a>
 <a class="reference-related-card" href="../invisible/">
-<img src="../../../assets/upstream/tensura/magic/invisible-781e27510a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/invisible-781e27510a.png"/>
 <span class="reference-related-copy">
 <strong>Invisible</strong>
 <small>Make yourself transparent, being undetectable for the naked eye</small>
 </span>
 </a>
 <a class="reference-related-card" href="../liquidize/">
-<img src="../../../assets/upstream/tensura/magic/liquidize-294d1da967.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/liquidize-294d1da967.png"/>
 <span class="reference-related-copy">
 <strong>Liquidize</strong>
 <small>Turn soft solid blocks into loose versions</small>

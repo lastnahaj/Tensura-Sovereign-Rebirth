@@ -11,14 +11,12 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Magic</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/magic/gravitational-void-255636038a.png" alt="Gravitational Void source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png">Gravitational Void.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/gravitational-void.webp" alt="Gravitational Void illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Targets being pulled by the black hole gain Slowness 1.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 <a href="#Version_history">Version history</a>
@@ -30,10 +28,16 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../../../tensura-reference/magic/">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Spirit Lord Of Earth</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
 </p>
-<div class="druid-infobox druid-container noexcerpt druid-container-magic" id="druid-container-1"><div><div class="druid-title">Gravitational Void</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png"><img alt="Gravitational Void.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/mysticism/magic/gravitational-void-255636038a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="druid-infobox druid-container noexcerpt druid-container-magic" id="druid-container-1"><div><div class="druid-title">Gravitational Void</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Gravitational Void illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/gravitational-void.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Lord</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
 500,000MP</div></div><div class="druid-row druid-row-CastTime" data-druid-section-row="Information"><div class="druid-label druid-label-CastTime">Cast Time</div><div class="druid-data druid-data-CastTime druid-data-nonempty">
 400 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
@@ -62,28 +66,7 @@ Spirit Lord Of Earth</div></div></div></div>
 </div>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Magic</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../abilities-magics/">
-<img src="../../../assets/upstream/mysticism/magic/spiritualicon-be2b1f48f6.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Abilities/Magics</strong>
-<small>Spiritual Magic</small>
-</span>
-</a>
-<a class="reference-related-card" href="../spatial-void/">
-<img src="../../../assets/upstream/mysticism/magic/spatial-void-ea014cc329.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Spatial Void</strong>
-<small>While charging the spell, all entities in a 30 block radius from the user (except subordinates) will gain intense…</small>
-</span>
-</a>
-</div>
-</section>
+
 
 ---
 
@@ -91,9 +74,6 @@ Spirit Lord Of Earth</div></div></div></div>
 
 TR Mysticism reference adapted from [Gravitational Void](https://trmysticism.wiki.gg/wiki/Gravitational_Void) on the Tensura Reincarnated: Mysticism Wiki (revision `3211`, modified `2026-07-02T03:06:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png">Gravitational Void.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3399</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

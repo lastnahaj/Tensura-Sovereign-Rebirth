@@ -1,6 +1,6 @@
 ---
 title: Clairvoyance
-description: Huh? Clair Obscur magic??? Oh, its a better telescope, that's cool too i guess... While held down, creates a spyglass effect similar to the Farsight skill, with a max zoom of 25x. Doesn't need a magic circle. Max zoom increased to 50x. View or edit this templateMagicView or edit this templateAspectual...
+description: "Magnify distant objects while holding the spell, without a magic circle."
 tags:
 - Aspectual_Magic
 ---
@@ -16,8 +16,9 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Huh? Clair Obscur magic??? Oh, its a better telescope, that&#x27;s cool too i guess...</p>
+<p>Magnify distant objects while holding the spell, without a magic circle.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -28,6 +29,12 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Clairvoyance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Clairvoyance_aspectual.png"><img alt="Clairvoyance aspectual.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/clairvoyance-aspectual-b06fd1035a.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-row="Information"><div class="druid-label druid-label-Cost">Cost</div><div class="druid-data druid-data-Cost druid-data-nonempty">
@@ -35,8 +42,7 @@ Aspectual</div></div><div class="druid-row druid-row-Cost" data-druid-section-ro
 20 Ticks</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 100</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Learning it from a tome</div></div></div></div>
-<p>Huh? Clair Obscur magic??? Oh, its a better telescope, that's cool too i guess...
-</p>
+<p>Magnify distant objects while holding the spell, without a magic circle.</p>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p><br/>
 </p>
@@ -62,28 +68,28 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../chain-explosion/">
-<img src="../../../assets/upstream/tensura/magic/chain-explosion-d39623e7fd.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/chain-explosion-d39623e7fd.png"/>
 <span class="reference-related-copy">
 <strong>Chain Explosion</strong>
-<small>Prepare for trouble and make it double! wait no triple!?</small>
+<small>Release three staggered explosions around the targeted point.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../confusion/">
-<img src="../../../assets/upstream/tensura/magic/confusion-8d6ba9bc2a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/confusion-8d6ba9bc2a.png"/>
 <span class="reference-related-copy">
 <strong>Confusion</strong>
 <small>Confuse the target using magic illusions</small>
 </span>
 </a>
 <a class="reference-related-card" href="../burden/">
-<img src="../../../assets/upstream/tensura/magic/burden-aspectual-05b42c0651.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/burden-aspectual-05b42c0651.png"/>
 <span class="reference-related-copy">
 <strong>Burden</strong>
-<small>Increases the weight of the objective (Don&#x27;t use it on Caseoh pls)</small>
+<small>Fire a projectile that inflicts Burden on its target.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../create-greater-undead/">
-<img src="../../../assets/upstream/tensura/magic/create-greater-undead-c89a25facb.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/create-greater-undead-c89a25facb.png"/>
 <span class="reference-related-copy">
 <strong>Create Greater Undead</strong>
 <small>Create a strong undead using the spirits of the dead</small>

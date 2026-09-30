@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Summons a spirit which decided to dwell within the user. Switching skill modes changes the elemental summoned.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -30,6 +31,12 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Greater Earth / Fire / Space / Water / Wind</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Summon Greater Elemental</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Summon_greater_elemental.png"><img alt="Summon greater elemental.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/summon-greater-elemental-5d16c06658.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -66,28 +73,28 @@ Greater Earth / Fire / Space / Water / Wind</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../summon-daemon/">
-<img src="../../../assets/upstream/tensura/magic/summon-daemon-cc8eae8fce.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/summon-daemon-cc8eae8fce.png"/>
 <span class="reference-related-copy">
 <strong>Summon Daemon</strong>
 <small>Summons a Daemon to fight for you.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../summon-medium-elemental/">
-<img src="../../../assets/upstream/tensura/magic/summon-medium-elemental-86e5948455.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/summon-medium-elemental-86e5948455.png"/>
 <span class="reference-related-copy">
 <strong>Summon Medium Elemental</strong>
 <small>Summons a spirit which decided to dwell within the user. Switching skill modes changes the spirit summoned.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../summon-basilisk/">
-<img src="../../../assets/upstream/tensura/magic/summon-basilisk-29d1c2691f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/summon-basilisk-29d1c2691f.png"/>
 <span class="reference-related-copy">
 <strong>Summon Basilisk</strong>
 <small>Summons a Basilisk to fight for you.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../summon-otherworlder/">
-<img src="../../../assets/upstream/tensura/magic/summon-otherworlder-2313dcc642.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/summon-otherworlder-2313dcc642.png"/>
 <span class="reference-related-copy">
 <strong>Summon Otherworlder</strong>
 <small>Summons an Otherworlder.</small>

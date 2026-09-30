@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Bind the target using death spirits</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,12 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Learning it from a tome</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Curse BInd</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Curse_bind.png"><img alt="Curse bind.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/curse-bind-cd9ef54540.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -67,31 +74,31 @@ Learning it from a tome</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../curse/">
-<img src="../../../assets/upstream/tensura/magic/curse-465d89012b.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/curse-465d89012b.png"/>
 <span class="reference-related-copy">
 <strong>Curse</strong>
 <small>Command the spirits of the dead to curse the target</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dark-cube/">
-<img src="../../../assets/upstream/tensura/magic/dark-cube-163d34ddb8.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/dark-cube-163d34ddb8.png"/>
 <span class="reference-related-copy">
 <strong>Dark Cube</strong>
 <small>Create a cube of darkness that slows movement and deals constant damage</small>
 </span>
 </a>
 <a class="reference-related-card" href="../create-lesser-undead/">
-<img src="../../../assets/upstream/tensura/magic/create-lesser-undead-8a4546bc7a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/create-lesser-undead-8a4546bc7a.png"/>
 <span class="reference-related-copy">
 <strong>Create Lesser Undead</strong>
 <small>Create a weak undead using the spirits of the dead</small>
 </span>
 </a>
 <a class="reference-related-card" href="../darkness/">
-<img src="../../../assets/upstream/tensura/magic/darkness-642eaafa5a.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/darkness-642eaafa5a.png"/>
 <span class="reference-related-copy">
 <strong>Darkness</strong>
-<small>Call on your spirit to reduce the enemy&#x27;s vision in a wide area.</small>
+<small>Call on your spirit to reduce the enemy's vision in a wide area.</small>
 </span>
 </a>
 </div>

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-09-30",
+  "minecraft": "1.21.1",
+  "reference_build": {
+    "version": "2.0.1.2",
+    "artifact_sha256": "9291f48d94073903cea9155dc99e042af5477e2c144e3fae1938299b2029da3e",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated"
+  },
+  "tome": {
+    "implementation": "io.github.manasmods.tensura.item.misc.MagicTomeItem",
+    "bound_behavior": "Reads the stored SKILL registry ID and attempts learning through SkillHelper.learnSkill using the ability's acquirement mastery.",
+    "unbound_behavior": "Without a stored skill, selects randomly from TensuraSkillTags.ASPECTUAL_MAGIC. This is not the full magic registry or the Skill Study Book pool.",
+    "release_threshold_ticks": 10,
+    "survival_cooldown_ticks": 200,
+    "consumption": "A resolved skill result consumes the tome and adds cooldown in survival even if learning fails. Infinite-material players are exempt from consumption and cooldown.",
+    "source_url": "https://tensura.wiki.gg/wiki/Magic_Tome"
+  },
+  "unbound_copy_reference": {
+    "source_url": "https://tensura.wiki.gg/wiki/Unbound_tome",
+    "source_limits": "The article is unfinished. It describes copying mastered magic for another player, but does not verify every spell's copy eligibility or a complete item supply route."
+  },
+  "verification_limits": "Artifact behavior and registry matches are not live-server gameplay tests. Generic tome support does not verify spell-specific loot, trades, racial grants, or learning gates."
+}

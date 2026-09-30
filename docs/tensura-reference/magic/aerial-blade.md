@@ -18,6 +18,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Pull in any nearby entities before dealing massive damage by unleashing the power of your spirit</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -27,6 +28,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Magic</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Magic · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Obtaining a Spirit:</strong>
+Greater Wind Spirit</li><li><strong>Other:</strong>
+Owning <a class="mw-redirect" href="../magic-wind-transform/" title="Abilities/Skills/Magic Wind Transform">Magic Wind Transform</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-magic" id="druid-container-1"><div><div class="druid-title">Aerial Blade</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Aerial_blade.png"><img alt="Aerial blade.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/magic/aerial-blade-27b99da0f5.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -63,28 +71,28 @@ Owning <a class="mw-redirect" href="../magic-wind-transform/" title="Abilities/S
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../acid-shell/">
-<img src="../../../assets/upstream/tensura/magic/acid-shell-50d39dd373.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/acid-shell-50d39dd373.png"/>
 <span class="reference-related-copy">
 <strong>Acid Shell</strong>
 <small>Create a ball of acid that corrodes the target</small>
 </span>
 </a>
 <a class="reference-related-card" href="../agility/">
-<img src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/agility-2b49d49265.png"/>
 <span class="reference-related-copy">
 <strong>Agility</strong>
 <small>Greatly increase your agility and speed using magic</small>
 </span>
 </a>
 <a class="reference-related-card" href="../acid-rain/">
-<img src="../../../assets/upstream/tensura/magic/acid-rain-d5e7945b10.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/acid-rain-d5e7945b10.png"/>
 <span class="reference-related-copy">
 <strong>Acid Rain</strong>
 <small>Summon an acidic cloud which will corrode any afflicted entities</small>
 </span>
 </a>
 <a class="reference-related-card" href="../airflow-shut/">
-<img src="../../../assets/upstream/tensura/magic/airflow-shut-db28670863.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/airflow-shut-db28670863.png"/>
 <span class="reference-related-copy">
 <strong>Airflow Shut</strong>
 <small>Silence the target making them unable to cast magic verbally</small>

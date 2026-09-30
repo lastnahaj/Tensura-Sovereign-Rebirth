@@ -16,10 +16,19 @@ ALIASES = {
     "tensura:cherryblossomseightpetalsflash": "tensura:eight_petals_flash",
     "tensura:plumblossomsfivepetalsthrust": "tensura:five_petals_thrust",
 }
+# Spell aliases are scoped to magic infoboxes, never similarly named skills.
+MAGIC_ALIASES = {
+    "tensura:possession": "tensura:possession_magic",
+    "tensura:strength": "tensura:strength_aspectual",
+    "tensura:dimensionalcutter": "tensura:dimension_cutter",
+    "tensura:firespiritual": "tensura:fire",
+    "tensura:waterspiritual": "tensura:water",
+}
 # Registration alone is not a completed gameplay feature.
 HELD = {
     "mysticism:embryo": "The pinned implementation is an unfinished skill; no completed effect is documented.",
     "tensura:holy_attack_nullification": "The upstream article describes Holy Attack Nullification as obtainable only through commands. No normal player acquisition route has been verified; this entry is reference-only.",
+    "tensura:magic_nullification": "The upstream article describes Magic Nullification as unobtainable without cheats. No normal player acquisition route has been verified; this entry is reference-only.",
 }
 ACTIVE = {"registered", "reference"}
 
@@ -41,7 +50,7 @@ def inventory() -> dict[str, dict]:
             category = line.split(":", 1)[1].split("|", 1)[0].strip()
         elif re.fullmatch(r"[a-z0-9_]+:[a-z0-9_]+@\d+", line):
             identifier, weight = line.split("@")
-            result[identifier] = {"id": identifier, "category": TYPES.get(category, "skills/other"), "weight": int(weight)}
+            result[identifier] = {"id": identifier, "category": TYPES.get(category, "skills/other"), "registry_type": category, "weight": int(weight)}
     return result
 
 
@@ -63,11 +72,20 @@ def catalogue() -> dict:
             identifier = identify(namespace, record["display_title"], pool) or identify(namespace, record["source_title"], pool)
             is_skill = record["category"].startswith("skills/") or record["category"] in {"resistances", "battlewill"}
             if not is_skill:
-                if not (identifier and record["category"] == "magic" and pool[identifier]["category"].startswith("skills/")):
+                if record["category"] != "magic":
                     continue
-                # A spell or status effect can share a skill's display name.
                 body = (ROOT / "docs" / record["local_page"]).read_text(encoding="utf-8")
-                if "druid-container-skill" not in body:
+                if "druid-container-magic" in body:
+                    spells = {key: value for key, value in pool.items() if value["category"] == "magic"}
+                    alias_key = namespace + ":" + normalize(record["display_title"])
+                    identifier = MAGIC_ALIASES.get(alias_key) or identify(namespace, record["display_title"], spells) or identify(namespace, record["source_title"], spells)
+                    if identifier and identifier not in spells:
+                        raise ValueError(f"Spell alias does not match the magic inventory: {identifier}")
+                elif "druid-container-skill" in body and identifier and pool[identifier]["category"] != "magic":
+                    # Resistances and skills can be misfiled under Magic upstream.
+                    pass
+                else:
+                    # Keep items and collection guides in their own references.
                     continue
             status = "registered" if identifier else "historical"
             if record["source_title"] in GUIDES:
@@ -119,6 +137,8 @@ def catalogue() -> dict:
         }
     artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
     for decision in pages.values():
+        if decision['category'] == 'magic' and decision['id'] in pool:
+            decision['magic_school'] = {'MAGIC_ASPECTUAL': 'Aspectual', 'MAGIC_SPIRITUAL': 'Spiritual', 'MAGIC_SUMMONING': 'Summoning'}.get(pool[decision['id']]['registry_type'])
         if decision['id'] in artwork:
             decision['asset'] = artwork[decision['id']]['asset']
             decision['artwork_kind'] = artwork[decision['id']]['kind']

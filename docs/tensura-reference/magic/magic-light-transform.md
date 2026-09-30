@@ -83,13 +83,6 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/light-transform/" t
 <small>Interferes with Skills, Magics, Flight and Transformations (with Mastery)</small>
 </span>
 </a>
-<a class="reference-related-card" href="../magic-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-nullification-bdc673d91a.png"/>
-<span class="reference-related-copy">
-<strong>Magic Nullification</strong>
-<small>!!! Unobtainable without cheats !!!</small>
-</span>
-</a>
 <a class="reference-related-card" href="../magic-flame-transform/">
 <img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-flame-transform-1aaef66ff5.png"/>
 <span class="reference-related-copy">
