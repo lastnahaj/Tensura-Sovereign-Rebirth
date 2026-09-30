@@ -1,6 +1,6 @@
 ---
 title: Uriel, Lord of Oaths
-description: 'Magic Alteration: When toggled, the user can cast any Magic that''s mastered within an Anti-Magic Area. If the player''s EP is above 1.000.000, their mastered magic and battlewill are capable of bypassing'
+description: "The Oaths variant of Uriel, combining magic alteration, imprisonment and spatial defense."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-uriel_lord_of_oath.svg" alt="Uriel, Lord of Oaths emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/uriel-lord-of-oath.png" alt="Uriel, Lord of Oaths source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Uriel_oath.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Magic Alteration: When toggled, the user can cast any Magic that&#x27;s mastered within an Anti-Magic Area. If the player&#x27;s EP is above 1.000.000, their mastered magic and battlewill are capable of bypassing</p>
+<p>The Oaths variant of Uriel, combining magic alteration, imprisonment and spatial defense.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -58,6 +58,10 @@ Reach 1.5M Magicules</div></div></div></div>
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Uriel](https://tensuranightmares.wiki.gg/wiki/Uriel) on the Tensura Reincarnated Nightmares Wiki (revision `2929`, modified `2026-09-01T08:34:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Uriel, Lord of Oaths](https://tensuranightmares.wiki.gg/wiki/File:Uriel_oath.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-03T11:11Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

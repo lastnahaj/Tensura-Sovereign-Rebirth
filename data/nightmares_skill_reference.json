@@ -1888,8 +1888,13 @@
         }
       ],
       "source_partial": false,
-      "summary": "When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.",
-      "description": "When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved."
+      "summary": "Protection against Void damage: weaker hits are prevented while stronger hits are reduced.",
+      "description": "Protection against Void damage: weaker hits are prevented while stronger hits are reduced.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Void_Resistance",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 947,
@@ -1909,12 +1914,17 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Taking Nuclear Damage (Not Explosion btw, try Belial)"
+          "text": "Taking Nuclear damage (not ordinary explosion damage; the source suggests Belial)."
         }
       ],
       "source_partial": false,
-      "summary": "When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.",
-      "description": "When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved."
+      "summary": "Protection against Nuclear damage, distinct from ordinary explosion damage.",
+      "description": "Protection against Nuclear damage, distinct from ordinary explosion damage.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Nuclear_Resistance",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 948,
@@ -2260,8 +2270,13 @@
         }
       ],
       "source_partial": false,
-      "summary": "Guardian Gets Gourmet After eatting 10 royal blood",
-      "description": "Guardian Gets Gourmet After eatting 10 royal blood"
+      "summary": "A defensive predation skill combining Gourmet and Guardian, with corrosion, regeneration and subordinate support.",
+      "description": "A defensive predation skill combining Gourmet and Guardian, with corrosion, regeneration and subordinate support.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Beelzebub",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 996,
@@ -2290,8 +2305,13 @@
         }
       ],
       "source_partial": false,
-      "summary": "Gluttony obtains merciless at 11k soul",
-      "description": "Gluttony obtains merciless at 11k soul"
+      "summary": "Gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and Food Chain.",
+      "description": "Gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and Food Chain.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Beelzebuth",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 998,
@@ -2320,14 +2340,19 @@
         }
       ],
       "source_partial": true,
-      "summary": "Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis",
-      "description": "Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis"
+      "summary": "An Envy evolution focused on resource siphoning, regeneration denial and fortune manipulation.",
+      "description": "An Envy evolution focused on resource siphoning, regeneration denial and fortune manipulation.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Leviathan",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 999,
       "display_title": "Mammon, Lord of Greed",
-      "source_title": "Mammon,",
-      "source_url": "https://tensuranightmares.wiki.gg/wiki/Mammon,",
+      "source_title": "Mammon",
+      "source_url": "https://tensuranightmares.wiki.gg/wiki/Mammon",
       "revision_id": 2526,
       "upstream_modified": "2026-07-26T17:39:54Z",
       "category": "skills/ultimate",
@@ -2350,8 +2375,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Absorb Life: While Mammon is in slot, the user's attacks will steal a small amount of MP, AP or Barrier Points.",
-      "description": "Absorb Life: While Mammon is in slot, the user's attacks will steal a small amount of MP, AP or Barrier Points."
+      "summary": "A Greed evolution that builds Desire through trades and items, then spends it on control and skill theft.",
+      "description": "A Greed evolution that builds Desire through trades and items, then spends it on control and skill theft.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Mammon",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1000,
@@ -2385,8 +2415,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)",
-      "description": "Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)"
+      "summary": "Great Sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration.",
+      "description": "Great Sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Raphael",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1001,
@@ -2420,8 +2455,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)",
-      "description": "Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)"
+      "summary": "A distinct Raphael variant adding synthesis to analysis and skill alteration; Degenerate is a documented prerequisite.",
+      "description": "A distinct Raphael variant adding synthesis to analysis and skill alteration; Degenerate is a documented prerequisite.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Raphael,",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1002,
@@ -2441,12 +2481,17 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Murderer, have enough MP"
+          "text": "Master Murderer, have enough MP, win 15 raids, master 25 skills"
         }
       ],
-      "source_partial": false,
-      "summary": "\"The judge has spoken. Your verdict stands\"",
-      "description": "\"The judge has spoken. Your verdict stands\""
+      "source_partial": true,
+      "summary": "Murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption.",
+      "description": "Murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Sandalphon",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1004,
@@ -2480,8 +2525,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Banner of the Supreme King -The user's slain subordinates become a Memory. The user loses max EP equal to the subordinates EP. The Memory is automatically stored in [ Banner of the Supreme King ]",
-      "description": "Banner of the Supreme King -The user's slain subordinates become a Memory. The user loses max EP equal to the subordinates EP. The Memory is automatically stored in [ Banner of the Supreme King ]"
+      "summary": "A champion skill built around courage trials, fallen subordinate memories and heroic support.",
+      "description": "A champion skill built around courage trials, fallen subordinate memories and heroic support.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/True_Hero",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1005,
@@ -2510,8 +2560,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Magic Alteration: When toggled, the user can cast any Magic that's mastered within an Anti-Magic Area. If the player's EP is above 1.000.000, their mastered magic and battlewill are capable of bypassing",
-      "description": "Magic Alteration: When toggled, the user can cast any Magic that's mastered within an Anti-Magic Area. If the player's EP is above 1.000.000, their mastered magic and battlewill are capable of bypassing"
+      "summary": "The Oaths variant of Uriel, combining magic alteration, imprisonment and spatial defense.",
+      "description": "The Oaths variant of Uriel, combining magic alteration, imprisonment and spatial defense.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Uriel",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1006,
@@ -2545,8 +2600,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have.",
-      "description": "Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have."
+      "summary": "The Vows variant of Uriel, linking subordinate support, Absolute Guard and spatial storage.",
+      "description": "The Vows variant of Uriel, linking subordinate support, Absolute Guard and spatial storage.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Uriel,",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1007,
@@ -2580,8 +2640,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "All of Creation - Learn all schematics and aspcetual Magics",
-      "description": "All of Creation - Learn all schematics and aspcetual Magics"
+      "summary": "An investigation-based King Ultimate combining parallel existence, analysis and probability control.",
+      "description": "An investigation-based King Ultimate combining parallel existence, analysis and probability control.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Nyarlathotep",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1008,
@@ -2614,9 +2679,16 @@
           "text": "User new \"memory restoration\" with \"???\" to produce Memory"
         }
       ],
-      "source_partial": false,
-      "summary": "WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN'T DO BECOSE POINTS ARE BUGGED.",
-      "description": "WIP FOR ALL THE SPEKS THAT CANT READ, RIGHT NOW ITS BUGGED, THAT MEANS U CANT GET IT WITHOUT CHEATING BECAUSE U NEED TO EVOLVE THE EGO TO MANAS WHICH YOU CAN'T DO BECOSE POINTS ARE BUGGED."
+      "source_partial": true,
+      "summary": "Information-skill reference with a source-reported blocked Ego-to-Manas route; normal acquisition remains unverified.",
+      "description": "Information-skill reference with a source-reported blocked Ego-to-Manas route; normal acquisition remains unverified.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Akashic_Records",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      },
+      "normal_acquisition_unverified": true,
+      "availability_reason": "Normal acquisition is not verified. The current source article reports a blocked Ego-to-Manas requirement. The reference release has acquisition logic, but the source warning has not been resolved by an installed-build check or gameplay test. This article is reference-only, not an available TSR progression recommendation."
     },
     {
       "page_id": 1019,
@@ -2969,8 +3041,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Daemonic Heart - The user and all of their Subordinates become Majins.",
-      "description": "Daemonic Heart - The user and all of their Subordinates become Majins."
+      "summary": "Villain’s tyrant evolution, combining demonic growth, fear and subordinate support.",
+      "description": "Villain’s tyrant evolution, combining demonic growth, fear and subordinate support.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Tantalus",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1062,
@@ -2990,17 +3067,22 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Spearhead , Starved , 「Shub-Niggurath, King of Harvest」"
+          "text": "Master Spearhead , Starved , Sentient Being , 「Shub-Niggurath, King of Harvest」"
         },
         {
           "label": "",
           "section": "Obtaining",
-          "text": "Reach 35M Ep, Have 5 Uniques, Awaken as a True Demon Lord"
+          "text": "Reach 35M Ep, Have 5 Uniques, Awaken as a True Demon Lord, consume 20 Soul Essence"
         }
       ],
       "source_partial": true,
-      "summary": "Soul Collection - The user deals bonus Spiritual Damage equal to 5% of their Souls on their Physical Attacks.",
-      "description": "Soul Collection - The user deals bonus Spiritual Damage equal to 5% of their Souls on their Physical Attacks."
+      "summary": "A soul-storage God Ultimate combining soul banking, continuity across resets and subordinate abilities.",
+      "description": "A soul-storage God Ultimate combining soul banking, continuity across resets and subordinate abilities.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Tenebrosum",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1063,
@@ -3028,9 +3110,14 @@
           "text": "Reach 300k Magicules, Have 15000 humanoid kills (Orc, Dwarves, Lizardfolk, Goblins and the Humans) Have no other ultimate skill"
         }
       ],
-      "source_partial": false,
-      "summary": "Parallel Processing - Increases the amount of Learned Points and Mastery Points gained when learning/using Skills, Magic, Battlewill, and Arts by 14 (15 Total). The user can also cast more than one spell at a time.",
-      "description": "Parallel Processing - Increases the amount of Learned Points and Mastery Points gained when learning/using Skills, Magic, Battlewill, and Arts by 14 (15 Total). The user can also cast more than one spell at a time."
+      "source_partial": true,
+      "summary": "A magic-focused Ultimate for accelerated learning and knowledge sharing; its source reports incomplete actives.",
+      "description": "A magic-focused Ultimate for accelerated learning and knowledge sharing; its source reports incomplete actives.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Grimoire",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1064,
@@ -3058,9 +3145,14 @@
           "text": "Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and the Humans), Use Alignment Swap 50 times, Use Legion Swap 50 times, Have no other ultimate skill."
         }
       ],
-      "source_partial": false,
-      "summary": "Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.",
-      "description": "Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied."
+      "source_partial": true,
+      "summary": "A magic and undead-command Ultimate; the source reports unfinished necromancy actives.",
+      "description": "A magic and undead-command Ultimate; the source reports unfinished necromancy actives.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Necronomicon",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1065,
@@ -3139,8 +3231,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "True Golden Rule - Grants a permanent Luck 10 effects",
-      "description": "True Golden Rule - Grants a permanent Luck 10 effects"
+      "summary": "Babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains.",
+      "description": "Babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Gilgamesh",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1071,
@@ -3169,8 +3266,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical.",
-      "description": "Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical."
+      "summary": "A separate Gilgamesh evolution focused on spell portals, territory and expanded knowledge.",
+      "description": "A separate Gilgamesh evolution focused on spell portals, territory and expanded knowledge.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Gilgamesh,",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1072,
@@ -3204,8 +3306,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Divine Blessing of Faith - The user's max Spritirons is 1,500. You passively generate 15 Spiritrons a second.",
-      "description": "Divine Blessing of Faith - The user's max Spritirons is 1,500. You passively generate 15 Spiritrons a second."
+      "summary": "A heroic blessing skill centered on Spiritrons, faith and paladin support.",
+      "description": "A heroic blessing skill centered on Spiritrons, faith and paladin support.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Zehirete",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1095,
@@ -3234,8 +3341,13 @@
         }
       ],
       "source_partial": true,
-      "summary": "Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting six of them, the user is able to learn Spacetime Manipulation, when it is mastered, they obtain Spacetime Domination so long as the user has Law Manipulation.",
-      "description": "Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting six of them, the user is able to learn Spacetime Manipulation, when it is mastered, they obtain Spacetime Domination so long as the user has Law Manipulation."
+      "summary": "An ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority.",
+      "description": "An ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Acnologia",
+        "scope": "Live article requirements reviewed; installed server behavior is not verified."
+      }
     },
     {
       "page_id": 1096,

@@ -24,7 +24,7 @@ MAINTENANCE_CREDIT = re.compile(
 )
 MAINTENANCE_DESCRIPTIONS = {
     'mysticism-reference/skills/unique/constant.md': 'A timed control skill that can preserve health, physical output, or resource levels.',
-    'tensura-reference/skills/ultimate/nightmares-akashic-records.md': 'The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.',
+    'tensura-reference/skills/ultimate/nightmares-akashic-records.md': 'Information-skill reference with a source-reported blocked Ego-to-Manas route; normal acquisition remains unverified.',
 }
 
 

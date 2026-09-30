@@ -3672,13 +3672,13 @@
     },
     "tensura-reference/resistances/nightmares-void-resistance/": {
       "title": "Void Resistance",
-      "image": "assets/icons/skills/trnightmare-void_resistance.svg",
+      "image": "assets/illustrations/skills/void-resistance.png",
       "category": "resistances",
       "verification": "reference-build-only"
     },
     "tensura-reference/resistances/nightmares-nuclear-resistance/": {
       "title": "Nuclear Resistance",
-      "image": "assets/icons/skills/trnightmare-nuclear_resistance.svg",
+      "image": "assets/illustrations/skills/nuclear-resistance.png",
       "category": "resistances",
       "verification": "reference-build-only"
     },
@@ -3744,73 +3744,67 @@
     },
     "tensura-reference/skills/ultimate/nightmares-beelzebub/": {
       "title": "Beelzebub, Lord of Gourmet",
-      "image": "assets/icons/skills/trnightmare-beelzebub.svg",
+      "image": "assets/illustrations/skills/beelzebub.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-beelzebuth/": {
       "title": "Beelzebuth, Lord of Gluttony",
-      "image": "assets/icons/skills/trnightmare-beelzebuth.svg",
+      "image": "assets/illustrations/skills/beelzebuth.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-leviathan/": {
       "title": "Leviathan, Lord of Envy",
-      "image": "assets/icons/skills/trnightmare-leviathan.svg",
+      "image": "assets/illustrations/skills/leviathan.jpeg",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-mammon/": {
       "title": "Mammon, Lord of Greed",
-      "image": "assets/icons/skills/trnightmare-mammon.svg",
+      "image": "assets/illustrations/skills/mammon.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-raphael-knowledge/": {
       "title": "Raphael, Lord of Knowledge",
-      "image": "assets/icons/skills/trnightmare-raphael_knowledge.svg",
+      "image": "assets/illustrations/skills/raphael-knowledge.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-raphael-wisdom/": {
       "title": "Raphael, Lord of Wisdom",
-      "image": "assets/icons/skills/trnightmare-raphael_wisdom.svg",
+      "image": "assets/illustrations/skills/raphael-wisdom.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-sandalphon-judgment/": {
       "title": "Sandalphon, Lord of Judgement",
-      "image": "assets/icons/skills/trnightmare-sandalphon_judgment.svg",
+      "image": "assets/illustrations/skills/sandalphon-judgment.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-true-hero/": {
       "title": "True Hero, King of Champions",
-      "image": "assets/icons/skills/trnightmare-true_hero.svg",
+      "image": "assets/illustrations/skills/true-hero.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-uriel-lord-of-oath/": {
       "title": "Uriel, Lord of Oaths",
-      "image": "assets/icons/skills/trnightmare-uriel_lord_of_oath.svg",
+      "image": "assets/illustrations/skills/uriel-lord-of-oath.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-uriel-lord-of-vow/": {
       "title": "Uriel, Lord of Vows",
-      "image": "assets/icons/skills/trnightmare-uriel_lord_of_vow.svg",
+      "image": "assets/illustrations/skills/uriel-lord-of-vow.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-nyarlathotep/": {
       "title": "Nyarlathotep, King of Chaos",
-      "image": "assets/icons/skills/trnightmare-nyarlathotep.svg",
-      "category": "skills/ultimate",
-      "verification": "reference-build-only"
-    },
-    "tensura-reference/skills/ultimate/nightmares-akashic-records/": {
-      "title": "Akashic Records, God of Information",
-      "image": "assets/icons/skills/trnightmare-akashic_records.svg",
+      "image": "assets/illustrations/skills/nyarlathotep.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3900,25 +3894,25 @@
     },
     "tensura-reference/skills/ultimate/nightmares-tantalus/": {
       "title": "Tantalous, King of Evil",
-      "image": "assets/icons/skills/trnightmare-tantalus.svg",
+      "image": "assets/illustrations/skills/tantalus.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-tenebrosum/": {
       "title": "Tenebrosum, God of Souls",
-      "image": "assets/icons/skills/trnightmare-tenebrosum.svg",
+      "image": "assets/illustrations/skills/tenebrosum.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-grimoire/": {
       "title": "Grimoire, Book of Magic",
-      "image": "assets/icons/skills/trnightmare-grimoire.svg",
+      "image": "assets/illustrations/skills/grimoire.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-necronomicon/": {
       "title": "Necronomicon, Book of Magic",
-      "image": "assets/icons/skills/trnightmare-necronomicon.svg",
+      "image": "assets/illustrations/skills/necronomicon.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3936,25 +3930,25 @@
     },
     "tensura-reference/skills/ultimate/nightmares-gilgamesh-lord-of-treasures/": {
       "title": "Gilgamesh, Lord of Treasure",
-      "image": "assets/icons/skills/trnightmare-gilgamesh_lord_of_treasures.svg",
+      "image": "assets/illustrations/skills/gilgamesh-lord-of-treasures.gif",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-gilgamesh-king-of-uruk/": {
       "title": "Gilgamesh, King of Uruk",
-      "image": "assets/icons/skills/trnightmare-gilgamesh_king_of_uruk.svg",
+      "image": "assets/illustrations/skills/gilgamesh-king-of-uruk.gif",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-zehirete/": {
       "title": "Zehirete, God of Faith",
-      "image": "assets/icons/skills/trnightmare-zehirete.svg",
+      "image": "assets/illustrations/skills/zehirete.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-acnologia-lord-of-ancient-times/": {
       "title": "Acnologia, Lord of Ancient Times",
-      "image": "assets/icons/skills/trnightmare-acnologia_lord_of_ancient_times.svg",
+      "image": "assets/illustrations/skills/acnologia-lord-of-ancient-times.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -8426,17 +8420,6 @@
       ],
       "requirements": [
         "「Astraea, Lord of Gifts」"
-      ]
-    },
-    {
-      "from": "tensura-reference/skills/ultimate/nightmares-astral-light/",
-      "to": "tensura-reference/skills/ultimate/nightmares-akashic-records/",
-      "kinds": [
-        "Next",
-        "Evolution"
-      ],
-      "requirements": [
-        "「Astral Light, Lord of Creation」"
       ]
     },
     {

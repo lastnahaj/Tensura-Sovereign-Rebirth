@@ -1,6 +1,6 @@
 ---
 title: Void Resistance
-description: When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.
+description: "Protection against Void damage: weaker hits are prevented while stronger hits are reduced."
 tags:
 - Abilities/1.21.1/Skills/Resistances
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Resistances</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../assets/icons/skills/trnightmare-void_resistance.svg" alt="Void Resistance emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../assets/illustrations/skills/void-resistance.png" alt="Void Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+<p>Protection against Void damage: weaker hits are prevented while stronger hits are reduced.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
@@ -47,6 +47,10 @@ If the attack is not below 50% of your Max HP the damage will be halved.
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Void Resistance](https://tensuranightmares.wiki.gg/wiki/Void_Resistance) on the Tensura Reincarnated Nightmares Wiki (revision `2611`, modified `2026-08-07T14:24:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

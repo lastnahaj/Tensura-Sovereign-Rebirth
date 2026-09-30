@@ -142,3 +142,10 @@
   .skill-category-tile, .skill-directory .reference-card { transition: none; }
   .skill-category-tile:hover, .skill-directory .reference-card:hover { transform: none; }
 }
+/* Source pixel artwork keeps its native edges in articles, search and viewers. */
+body :is(.skill-directory, .skill-hub, .md-content__inner:has(.skill-obtainment), .reference-lightbox) img[src*="assets/illustrations/skills/"]:is(
+  [src$="/beelzebuth.png"], [src$="/leviathan.jpeg"], [src$="/mammon.png"],
+  [src$="/raphael-knowledge.png"], [src$="/raphael-wisdom.png"],
+  [src$="/uriel-lord-of-oath.png"], [src$="/uriel-lord-of-vow.png"],
+  [src$="/gilgamesh-lord-of-treasures.gif"], [src$="/gilgamesh-king-of-uruk.gif"]
+) { image-rendering: pixelated !important; }

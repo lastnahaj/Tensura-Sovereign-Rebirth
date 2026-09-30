@@ -1,6 +1,6 @@
 ---
 title: Sandalphon, Lord of Judgement
-description: '"The judge has spoken. Your verdict stands"'
+description: "Murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-sandalphon_judgment.svg" alt="Sandalphon, Lord of Judgement emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/sandalphon-judgment.png" alt="Sandalphon, Lord of Judgement illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>&quot;The judge has spoken. Your verdict stands&quot;</p>
+<p>Murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -25,10 +25,12 @@ tags:
 </div>
 </section>
 
+<aside class="skill-evidence-note"><strong>Acquisition review.</strong> The current source adds 15 raid wins and 25 mastered skills. These also match the default Sandalphon configuration and acquisition condition table in Nightmares 1.0.3.2.8. Installed configuration and automatic-evolution rules still require a server match.</aside>
+
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
-<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
-Master Murderer, have enough MP</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Master Murderer, have enough MP, win 15 raids, master 25 skills</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
@@ -38,7 +40,7 @@ x</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="In
 Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a class="external text" href="../../unique/murderer/">Murderer</a></div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a href="../nightmares-abaddon/" title="Abbadon">「Abaddon, King of Destruction」</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
-Master Murderer, have enough MP</div></div></div></div>
+Master Murderer, have enough MP, win 15 raids, master 25 skills</div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, Toggle] Silent Movement - The player makes zero noise, undetectable by Sculk or Sense Sound Wave.</li></ul>
@@ -61,6 +63,10 @@ Master Murderer, have enough MP</div></div></div></div>
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Sandalphon](https://tensuranightmares.wiki.gg/wiki/Sandalphon) on the Tensura Reincarnated Nightmares Wiki (revision `2547`, modified `2026-07-26T17:51:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

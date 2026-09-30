@@ -1,6 +1,327 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:void_resistance": {
+      "asset": "assets/illustrations/skills/void-resistance.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Void_Resistance",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:nuclear_resistance": {
+      "asset": "assets/illustrations/skills/nuclear-resistance.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Nuclear_Resistance",
+        "result": "The wiki article has no rendered skill image. A bundled texture exists in the reference release, but artifact metadata and the official project page give conflicting license terms; it is not redistributed.",
+        "license_reference": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/license"
+      }
+    },
+    "trnightmare:beelzebub": {
+      "asset": "assets/illustrations/skills/beelzebub.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Beelzebub",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:sandalphon_judgment": {
+      "asset": "assets/illustrations/skills/sandalphon-judgment.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Sandalphon",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:true_hero": {
+      "asset": "assets/illustrations/skills/true-hero.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/True_Hero",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:nyarlathotep": {
+      "asset": "assets/illustrations/skills/nyarlathotep.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Nyarlathotep",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:akashic_records": {
+      "asset": "assets/illustrations/skills/akashic-records.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Akashic_Records",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:tantalus": {
+      "asset": "assets/illustrations/skills/tantalus.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Tantalus",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:tenebrosum": {
+      "asset": "assets/illustrations/skills/tenebrosum.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Tenebrosum",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:grimoire": {
+      "asset": "assets/illustrations/skills/grimoire.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Grimoire",
+        "result": "The wiki article has no rendered skill image. A bundled texture exists in the reference release, but artifact metadata and the official project page give conflicting license terms; it is not redistributed.",
+        "license_reference": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/license"
+      }
+    },
+    "trnightmare:necronomicon": {
+      "asset": "assets/illustrations/skills/necronomicon.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Necronomicon",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:zehirete": {
+      "asset": "assets/illustrations/skills/zehirete.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Zehirete",
+        "result": "The live article has no reusable skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:acnologia_lord_of_ancient_times": {
+      "asset": "assets/illustrations/skills/acnologia-lord-of-ancient-times.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Acnologia",
+        "result": "The live article has no rendered skill image. The reference release points to a missing ultimate texture; an unused root texture is not substituted."
+      }
+    },
+    "trnightmare:beelzebuth": {
+      "asset": "assets/illustrations/skills/beelzebuth.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Beelzebuth"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Beelzebuth.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Beelzebuth.png?87816c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-06T18:58Z",
+        "sha256": "a24c363f229950e2e5e6c29949becdffe96b3e41ad6089beb656b7c0c0190ec6",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:leviathan": {
+      "asset": "assets/illustrations/skills/leviathan.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Leviathan"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Leviathan.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Leviathan.jpeg?e8ba28&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:10Z",
+        "sha256": "e899c5d81afa350d98c7f1b64aeae443591a5917c4ec47c9fed46ff92739df24",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:mammon": {
+      "asset": "assets/illustrations/skills/mammon.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Mammon"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Mammonn.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Mammonn.png?83de0c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-06T19:12Z",
+        "sha256": "8561781136f6bf80f1af013d52793901fdf4e36ae0835909c27ece76f49b19ca",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:raphael_knowledge": {
+      "asset": "assets/illustrations/skills/raphael-knowledge.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Raphael"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Raphael_knowledge.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Raphael_knowledge.png?196ac9&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-04T16:19Z",
+        "sha256": "8a08fa46d6d96b5f3c69a2b688ceaeb954e086a4255b981139ba3162f9088e37",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:raphael_wisdom": {
+      "asset": "assets/illustrations/skills/raphael-wisdom.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Raphael,"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Raphael_wisdom.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Raphael_wisdom.png?c9c68c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-06-29T22:13Z",
+        "sha256": "4d4695c59a4de397b21187f36868402fbd5cf37ec7af280c75ee828667925c02",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:uriel_lord_of_oath": {
+      "asset": "assets/illustrations/skills/uriel-lord-of-oath.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Uriel"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Uriel_oath.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Uriel_oath.png?7a21c6&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T11:11Z",
+        "sha256": "df298d08e9abcead23e461ca3d49380e9a888079fe59b545259c0ebbc10ec79a",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:uriel_lord_of_vow": {
+      "asset": "assets/illustrations/skills/uriel-lord-of-vow.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Uriel,"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Uriel_vow.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Uriel_vow.png?782dee&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-05-03T11:18Z",
+        "sha256": "382c329428575c98dd84741e50e6ac5b0c18f576a1302295e3bc67d1f2d4e734",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:gilgamesh_lord_of_treasures": {
+      "asset": "assets/illustrations/skills/gilgamesh-lord-of-treasures.gif",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Gilgamesh"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:GilgameshLord.gif",
+        "source_url": "https://tensuranightmares.wiki.gg/images/GilgameshLord.gif?7c58a8&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-08-20T12:39Z",
+        "sha256": "527857a03986a4388c7dfd4755d04b81f9883d4beb97d54e9265b28cf0305d7a",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:gilgamesh_king_of_uruk": {
+      "asset": "assets/illustrations/skills/gilgamesh-king-of-uruk.gif",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Gilgamesh,"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:GilgameshKing.gif",
+        "source_url": "https://tensuranightmares.wiki.gg/images/GilgameshKing.gif?738c8c&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Bob The Bulider3",
+        "uploaded": "2026-08-20T12:55Z",
+        "sha256": "894b1cdf0797967fbd51a620becd9b6ea48aa98e0b5efb4c3229cec54576a389",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
     "trnightmare:surya": {
       "asset": "assets/illustrations/skills/surya.png",
       "kind": "original-illustration",

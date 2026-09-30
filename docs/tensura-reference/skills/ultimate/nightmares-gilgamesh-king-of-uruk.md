@@ -1,6 +1,6 @@
 ---
 title: Gilgamesh, King of Uruk
-description: Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical.
+description: "A separate Gilgamesh evolution focused on spell portals, territory and expanded knowledge."
 tags:
 - King Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-gilgamesh_king_of_uruk.svg" alt="Gilgamesh, King of Uruk emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/gilgamesh-king-of-uruk.gif" alt="Gilgamesh, King of Uruk source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:GilgameshKing.gif">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical.</p>
+<p>A separate Gilgamesh evolution focused on spell portals, territory and expanded knowledge.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -66,6 +66,10 @@ Reach 12M EP, Have Spirit lord of Light, 4 blocks of Oricalcum, Full Hihi'Irokan
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Gilgamesh,](https://tensuranightmares.wiki.gg/wiki/Gilgamesh,) on the Tensura Reincarnated Nightmares Wiki (revision `2892`, modified `2026-08-25T19:06:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Gilgamesh, King of Uruk](https://tensuranightmares.wiki.gg/wiki/File:GilgameshKing.gif), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-08-20T12:55Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

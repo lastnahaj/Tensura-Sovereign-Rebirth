@@ -1,6 +1,6 @@
 ---
 title: Gilgamesh, Lord of Treasure
-description: True Golden Rule - Grants a permanent Luck 10 effects
+description: "Babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-gilgamesh_lord_of_treasures.svg" alt="Gilgamesh, Lord of Treasure emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/gilgamesh-lord-of-treasures.gif" alt="Gilgamesh, Lord of Treasure source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:GilgameshLord.gif">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>True Golden Rule - Grants a permanent Luck 10 effects</p>
+<p>Babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -64,6 +64,10 @@ Reach 2M EP, Have 6 greater spirits.</div></div></div></div>
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Gilgamesh](https://tensuranightmares.wiki.gg/wiki/Gilgamesh) on the Tensura Reincarnated Nightmares Wiki (revision `2891`, modified `2026-08-25T19:06:00Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Gilgamesh, Lord of Treasure](https://tensuranightmares.wiki.gg/wiki/File:GilgameshLord.gif), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-08-20T12:39Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

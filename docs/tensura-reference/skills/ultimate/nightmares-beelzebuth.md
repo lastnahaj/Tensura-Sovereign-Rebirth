@@ -1,6 +1,6 @@
 ---
 title: Beelzebuth, Lord of Gluttony
-description: Gluttony obtains merciless at 11k soul
+description: "Gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and Food Chain."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-beelzebuth.svg" alt="Beelzebuth, Lord of Gluttony emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/beelzebuth.png" alt="Beelzebuth, Lord of Gluttony source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Beelzebuth.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Gluttony obtains merciless at 11k soul</p>
+<p>Gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and Food Chain.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -61,6 +61,10 @@ Alteration with Raphael: Master Raphael, <a class="external text" href="../../un
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Beelzebuth](https://tensuranightmares.wiki.gg/wiki/Beelzebuth) on the Tensura Reincarnated Nightmares Wiki (revision `2573`, modified `2026-08-01T11:56:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Beelzebuth, Lord of Gluttony](https://tensuranightmares.wiki.gg/wiki/File:Beelzebuth.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-06T18:58Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

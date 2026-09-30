@@ -1,6 +1,6 @@
 ---
 title: Uriel, Lord of Vows
-description: 'Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have.'
+description: "The Vows variant of Uriel, linking subordinate support, Absolute Guard and spatial storage."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-uriel_lord_of_vow.svg" alt="Uriel, Lord of Vows emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/uriel-lord-of-vow.png" alt="Uriel, Lord of Vows source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Uriel_vow.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have.</p>
+<p>The Vows variant of Uriel, linking subordinate support, Absolute Guard and spatial storage.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -60,6 +60,10 @@ Win 25 raids, have 50 subordinates</div></div></div></div>
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Uriel,](https://tensuranightmares.wiki.gg/wiki/Uriel,) on the Tensura Reincarnated Nightmares Wiki (revision `2743`, modified `2026-08-07T16:18:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Uriel, Lord of Vows](https://tensuranightmares.wiki.gg/wiki/File:Uriel_vow.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-03T11:18Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

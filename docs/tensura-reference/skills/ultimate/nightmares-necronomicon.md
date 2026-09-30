@@ -1,6 +1,6 @@
 ---
 title: Necronomicon, Book of Magic
-description: Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.
+description: "A magic and undead-command Ultimate; the source reports unfinished necromancy actives."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-necronomicon.svg" alt="Necronomicon, Book of Magic emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/necronomicon.png" alt="Necronomicon, Book of Magic illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.</p>
+<p>A magic and undead-command Ultimate; the source reports unfinished necromancy actives.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -25,11 +25,13 @@ tags:
 </div>
 </section>
 
+<aside class="skill-evidence-note"><strong>Necromancy limits.</strong> The current source reports unfinished necromancy actives. Dominate Death, Release Death, Create Undeath and Command Undead below are reference descriptions, not a verified usable server route.</aside>
+
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
-<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
 Master <a href="../../extra/nightmares-holy-demonic-inversion/" title="Holy Demonic Inversion,">Holy demonic Inversion</a>, 20 Aspecual magics, Thought Acceleration, Universal Perception, Demon Lord Haki, Chant Annulment, Analytical Appraisal.</li><li>
-Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and the Humans), Use Alignment Swap 50 times, Use Legion Swap 50 times, Have no other ultimate skill.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and the Humans), Use Alignment Swap 50 times, Use Legion Swap 50 times, Have no other ultimate skill.</li><li><strong>Alternative · Concept Sharing:</strong> The Grimoire source describes another player using <a href="../nightmares-grimoire/#Active">Grimoire’s Concept Sharing</a> on a recipient who has mastered <a href="../../extra/nightmares-holy-demonic-inversion/">Holy-Demonic Inversion</a>, sharing magic knowledge to evolve the recipient’s skill into Necronomicon. The source does not establish that this bypasses the normal route’s other conditions.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
@@ -38,7 +40,7 @@ Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and t
 5000</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Master <a href="../../extra/nightmares-holy-demonic-inversion/" title="Holy Demonic Inversion,">Holy demonic Inversion</a>, 20 Aspecual magics, Thought Acceleration, Universal Perception, Demon Lord Haki, Chant Annulment, Analytical Appraisal.</div></div><div class="druid-row druid-row-Other2" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other2"> </div><div class="druid-data druid-data-Other2 druid-data-nonempty">
-Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and the Humans), Use Alignment Swap 50 times, Use Legion Swap 50 times, Have no other ultimate skill.</div></div></div></div>
+Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and the Humans), Use Alignment Swap 50 times, Use Legion Swap 50 times, Have no other ultimate skill.</div></div><div class="druid-row druid-row-ConceptSharing" data-druid-section-row="Obtaining"><div class="druid-label">Alternative · Concept Sharing</div><div class="druid-data">The Grimoire source describes another player using <a href="../nightmares-grimoire/#Active">Grimoire’s Concept Sharing</a> on a recipient who has mastered <a href="../../extra/nightmares-holy-demonic-inversion/">Holy-Demonic Inversion</a>, sharing magic knowledge to evolve the recipient’s skill into Necronomicon. The source does not establish that this bypasses the normal route’s other conditions.</div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, True] Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.</li>
@@ -64,6 +66,10 @@ Reach 300K Magicules, 45k Humanoid Kills(Orc, Dwarves, Lizardfolk, Goblins and t
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Necronomicon](https://tensuranightmares.wiki.gg/wiki/Necronomicon) on the Tensura Reincarnated Nightmares Wiki (revision `2932`, modified `2026-09-05T13:12:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

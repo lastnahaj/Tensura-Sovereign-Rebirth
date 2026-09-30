@@ -1,6 +1,6 @@
 ---
 title: Raphael, Lord of Knowledge
-description: 'Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)'
+description: "Great Sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-raphael_knowledge.svg" alt="Raphael, Lord of Knowledge emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/raphael-knowledge.png" alt="Raphael, Lord of Knowledge source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Raphael_knowledge.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</p>
+<p>Great Sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -64,6 +64,10 @@ Reach 900k Magicules</div></div><div class="druid-row druid-row-Other3" data-dru
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Raphael](https://tensuranightmares.wiki.gg/wiki/Raphael) on the Tensura Reincarnated Nightmares Wiki (revision `2773`, modified `2026-08-15T19:33:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Raphael, Lord of Knowledge](https://tensuranightmares.wiki.gg/wiki/File:Raphael_knowledge.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-04T16:19Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

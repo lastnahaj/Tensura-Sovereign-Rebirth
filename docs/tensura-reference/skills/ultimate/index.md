@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">65 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">64 entries</span></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="./" aria-current="page">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
@@ -32,7 +32,7 @@ hide:
 <button type="button" data-letter="Y" aria-pressed="false">Y</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 65 of 65 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 64 of 64 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="abaddon, king of destruction break spatial defenses, exceed power limits, and fire spatial magic bullets.">
@@ -50,16 +50,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="acnologia, lord of ancient times authority over spacetime - when the user of acnologia is able to locate the six between time grimoires(found in ancient cities or rare drop from wardens), by collecting…">
+<article class="reference-card" data-letter="A" data-search="acnologia, lord of ancient times an ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority.">
 <a href="nightmares-acnologia-lord-of-ancient-times/" aria-label="Open Acnologia, Lord of Ancient Times">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-acnologia_lord_of_ancient_times.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/acnologia-lord-of-ancient-times.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Acnologia, Lord of Ancient Times</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting…</p>
+<p>An ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -75,21 +75,6 @@ hide:
 <h2>Agni, Lord of Blaze</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>Amplify flame attacks and wield Blazeball, Blaze Wave, and flame-coated strikes.</p>
-
-<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="A" data-search="akashic records, god of information the reference build marks this skill as unavailable through normal progression because its ego-to-manas requirement is blocked.">
-<a href="nightmares-akashic-records/" aria-label="Open Akashic Records, God of Information">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-akashic_records.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Akashic Records, God of Information</h2>
-<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>The reference build marks this skill as unavailable through normal progression because its Ego-to-Manas requirement is blocked.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -260,31 +245,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="beelzebub, lord of gourmet guardian gets gourmet after eatting 10 royal blood">
+<article class="reference-card" data-letter="B" data-search="beelzebub, lord of gourmet a defensive predation skill combining gourmet and guardian, with corrosion, regeneration and subordinate support.">
 <a href="nightmares-beelzebub/" aria-label="Open Beelzebub, Lord of Gourmet">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-beelzebub.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/beelzebub.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Beelzebub, Lord of Gourmet</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Guardian Gets Gourmet After eatting 10 royal blood</p>
+<p>A defensive predation skill combining Gourmet and Guardian, with corrosion, regeneration and subordinate support.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="beelzebuth, lord of gluttony gluttony obtains merciless at 11k soul">
+<article class="reference-card" data-letter="B" data-search="beelzebuth, lord of gluttony gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and food chain.">
 <a href="nightmares-beelzebuth/" aria-label="Open Beelzebuth, Lord of Gluttony">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-beelzebuth.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/beelzebuth.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Beelzebuth, Lord of Gluttony</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Gluttony obtains merciless at 11k soul</p>
+<p>Gluttony’s advanced predation skill, combining soul devouring, mimicry, storage and Food Chain.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -380,46 +365,46 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="gilgamesh, king of uruk clairvoyance - this gives the user an additional presence sense 20, presence sense raidus 20 and 10 levels of analytical.">
+<article class="reference-card" data-letter="G" data-search="gilgamesh, king of uruk a separate gilgamesh evolution focused on spell portals, territory and expanded knowledge.">
 <a href="nightmares-gilgamesh-king-of-uruk/" aria-label="Open Gilgamesh, King of Uruk">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-gilgamesh_king_of_uruk.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/gilgamesh-king-of-uruk.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gilgamesh, King of Uruk</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Clairvoyance - This gives the user an additional Presence Sense 20, Presence Sense Raidus 20 and 10 Levels of Analytical.</p>
+<p>A separate Gilgamesh evolution focused on spell portals, territory and expanded knowledge.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="gilgamesh, lord of treasure true golden rule - grants a permanent luck 10 effects">
+<article class="reference-card" data-letter="G" data-search="gilgamesh, lord of treasure babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains.">
 <a href="nightmares-gilgamesh-lord-of-treasures/" aria-label="Open Gilgamesh, Lord of Treasure">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-gilgamesh_lord_of_treasures.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/gilgamesh-lord-of-treasures.gif" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gilgamesh, Lord of Treasure</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>True Golden Rule - Grants a permanent Luck 10 effects</p>
+<p>Babylon’s treasure-focused evolution, combining weapon storage, portals and binding chains.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire, book of magic parallel processing - increases the amount of learned points and mastery points gained when learning/using skills, magic, battlewill, and arts by 14 (15 total). the…">
+<article class="reference-card" data-letter="G" data-search="grimoire, book of magic a magic-focused ultimate for accelerated learning and knowledge sharing; its source reports incomplete actives.">
 <a href="nightmares-grimoire/" aria-label="Open Grimoire, Book of Magic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-grimoire.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/grimoire.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Grimoire, Book of Magic</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Parallel Processing - Increases the amount of Learned Points and Mastery Points gained when learning/using Skills, Magic, Battlewill, and Arts by 14 (15 Total). The…</p>
+<p>A magic-focused Ultimate for accelerated learning and knowledge sharing; its source reports incomplete actives.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -470,16 +455,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="leviathan, lord of envy envious hero: if you are a true hero, and awaken leviathan, lord of envy, you will obtain the unique skill - stasis">
+<article class="reference-card" data-letter="L" data-search="leviathan, lord of envy an envy evolution focused on resource siphoning, regeneration denial and fortune manipulation.">
 <a href="nightmares-leviathan/" aria-label="Open Leviathan, Lord of Envy">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-leviathan.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/leviathan.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Leviathan, Lord of Envy</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis</p>
+<p>An Envy evolution focused on resource siphoning, regeneration denial and fortune manipulation.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -500,16 +485,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="mammon, lord of greed absorb life: while mammon is in slot, the user&#x27;s attacks will steal a small amount of mp, ap or barrier points.">
+<article class="reference-card" data-letter="M" data-search="mammon, lord of greed a greed evolution that builds desire through trades and items, then spends it on control and skill theft.">
 <a href="nightmares-mammon/" aria-label="Open Mammon, Lord of Greed">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-mammon.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/mammon.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mammon, Lord of Greed</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Absorb Life: While Mammon is in slot, the user&#x27;s attacks will steal a small amount of MP, AP or Barrier Points.</p>
+<p>A Greed evolution that builds Desire through trades and items, then spends it on control and skill theft.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -560,16 +545,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="N" data-search="necronomicon, book of magic controlled order - the user cannot become a chaos being. this skill cannot be copied.">
+<article class="reference-card" data-letter="N" data-search="necronomicon, book of magic a magic and undead-command ultimate; the source reports unfinished necromancy actives.">
 <a href="nightmares-necronomicon/" aria-label="Open Necronomicon, Book of Magic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-necronomicon.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/necronomicon.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Necronomicon, Book of Magic</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Controlled Order - The user cannot become a Chaos Being. This skill cannot be copied.</p>
+<p>A magic and undead-command Ultimate; the source reports unfinished necromancy actives.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -590,16 +575,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="N" data-search="nyarlathotep, king of chaos all of creation - learn all schematics and aspcetual magics">
+<article class="reference-card" data-letter="N" data-search="nyarlathotep, king of chaos an investigation-based king ultimate combining parallel existence, analysis and probability control.">
 <a href="nightmares-nyarlathotep/" aria-label="Open Nyarlathotep, King of Chaos">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-nyarlathotep.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/nyarlathotep.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Nyarlathotep, King of Chaos</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>All of Creation - Learn all schematics and aspcetual Magics</p>
+<p>An investigation-based King Ultimate combining parallel existence, analysis and probability control.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -620,31 +605,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="R" data-search="raphael, lord of knowledge thought acceleration: increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with mastery), increase attack speed by 0.2 (0.4 with mastery)">
+<article class="reference-card" data-letter="R" data-search="raphael, lord of knowledge great sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration.">
 <a href="nightmares-raphael-knowledge/" aria-label="Open Raphael, Lord of Knowledge">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-raphael_knowledge.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/raphael-knowledge.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Raphael, Lord of Knowledge</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</p>
+<p>Great Sage’s knowledge-focused evolution, with accelerated analysis, parallel processing and skill alteration.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="R" data-search="raphael, lord of wisdom thought acceleration: increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with mastery), increase attack speed by 0.2 (0.4 with mastery)">
+<article class="reference-card" data-letter="R" data-search="raphael, lord of wisdom a distinct raphael variant adding synthesis to analysis and skill alteration; degenerate is a documented prerequisite.">
 <a href="nightmares-raphael-wisdom/" aria-label="Open Raphael, Lord of Wisdom">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-raphael_wisdom.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/raphael-wisdom.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Raphael, Lord of Wisdom</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Thought Acceleration: Increase magic casting speed multiplier by 4, increase movement speed by 0.01 (0.02 with Mastery), increase attack speed by 0.2 (0.4 with Mastery)</p>
+<p>A distinct Raphael variant adding synthesis to analysis and skill alteration; Degenerate is a documented prerequisite.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -665,16 +650,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="sandalphon, lord of judgement &quot;the judge has spoken. your verdict stands&quot;">
+<article class="reference-card" data-letter="S" data-search="sandalphon, lord of judgement murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption.">
 <a href="nightmares-sandalphon-judgment/" aria-label="Open Sandalphon, Lord of Judgement">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-sandalphon_judgment.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/sandalphon-judgment.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Sandalphon, Lord of Judgement</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;The judge has spoken. Your verdict stands&quot;</p>
+<p>Murderer’s judgment-focused evolution, combining silent movement, barrier removal and resource disruption.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -755,31 +740,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="tantalous, king of evil daemonic heart - the user and all of their subordinates become majins.">
+<article class="reference-card" data-letter="T" data-search="tantalous, king of evil villain’s tyrant evolution, combining demonic growth, fear and subordinate support.">
 <a href="nightmares-tantalus/" aria-label="Open Tantalous, King of Evil">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-tantalus.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/tantalus.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Tantalous, King of Evil</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Daemonic Heart - The user and all of their Subordinates become Majins.</p>
+<p>Villain’s tyrant evolution, combining demonic growth, fear and subordinate support.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="tenebrosum, god of souls soul collection - the user deals bonus spiritual damage equal to 5% of their souls on their physical attacks.">
+<article class="reference-card" data-letter="T" data-search="tenebrosum, god of souls a soul-storage god ultimate combining soul banking, continuity across resets and subordinate abilities.">
 <a href="nightmares-tenebrosum/" aria-label="Open Tenebrosum, God of Souls">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-tenebrosum.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/tenebrosum.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Tenebrosum, God of Souls</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Soul Collection - The user deals bonus Spiritual Damage equal to 5% of their Souls on their Physical Attacks.</p>
+<p>A soul-storage God Ultimate combining soul banking, continuity across resets and subordinate abilities.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -860,16 +845,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="true hero, king of champions banner of the supreme king -the user&#x27;s slain subordinates become a memory. the user loses max ep equal to the subordinates ep. the memory is automatically stored in […">
+<article class="reference-card" data-letter="T" data-search="true hero, king of champions a champion skill built around courage trials, fallen subordinate memories and heroic support.">
 <a href="nightmares-true-hero/" aria-label="Open True Hero, King of Champions">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-true_hero.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/true-hero.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>True Hero, King of Champions</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Banner of the Supreme King -The user&#x27;s slain subordinates become a Memory. The user loses max EP equal to the subordinates EP. The Memory is automatically stored in […</p>
+<p>A champion skill built around courage trials, fallen subordinate memories and heroic support.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -890,31 +875,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="U" data-search="uriel, lord of oaths magic alteration: when toggled, the user can cast any magic that&#x27;s mastered within an anti-magic area. if the player&#x27;s ep is above 1.000.000, their mastered magic and…">
+<article class="reference-card" data-letter="U" data-search="uriel, lord of oaths the oaths variant of uriel, combining magic alteration, imprisonment and spatial defense.">
 <a href="nightmares-uriel-lord-of-oath/" aria-label="Open Uriel, Lord of Oaths">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-uriel_lord_of_oath.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/uriel-lord-of-oath.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Uriel, Lord of Oaths</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Magic Alteration: When toggled, the user can cast any Magic that&#x27;s mastered within an Anti-Magic Area. If the player&#x27;s EP is above 1.000.000, their mastered magic and…</p>
+<p>The Oaths variant of Uriel, combining magic alteration, imprisonment and spatial defense.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="U" data-search="uriel, lord of vows believer system: the user gains +1 mastery and +1 learning for every subordinate they have.">
+<article class="reference-card" data-letter="U" data-search="uriel, lord of vows the vows variant of uriel, linking subordinate support, absolute guard and spatial storage.">
 <a href="nightmares-uriel-lord-of-vow/" aria-label="Open Uriel, Lord of Vows">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-uriel_lord_of_vow.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/illustrations/skills/uriel-lord-of-vow.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Uriel, Lord of Vows</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Believer System: The user gains +1 Mastery and +1 Learning for every subordinate they have.</p>
+<p>The Vows variant of Uriel, linking subordinate support, Absolute Guard and spatial storage.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -995,16 +980,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="Z" data-search="zehirete, god of faith divine blessing of faith - the user&#x27;s max spritirons is 1,500. you passively generate 15 spiritrons a second.">
+<article class="reference-card" data-letter="Z" data-search="zehirete, god of faith a heroic blessing skill centered on spiritrons, faith and paladin support.">
 <a href="nightmares-zehirete/" aria-label="Open Zehirete, God of Faith">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-zehirete.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/zehirete.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Zehirete, God of Faith</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Divine Blessing of Faith - The user&#x27;s max Spritirons is 1,500. You passively generate 15 Spiritrons a second.</p>
+<p>A heroic blessing skill centered on Spiritrons, faith and paladin support.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Tantalous, King of Evil
-description: Daemonic Heart - The user and all of their Subordinates become Majins.
+description: "Villain’s tyrant evolution, combining demonic growth, fear and subordinate support."
 tags:
 - King Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-tantalus.svg" alt="Tantalous, King of Evil emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/tantalus.png" alt="Tantalous, King of Evil illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Daemonic Heart - The user and all of their Subordinates become Majins.</p>
+<p>Villain’s tyrant evolution, combining demonic growth, fear and subordinate support.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -67,6 +67,10 @@ Act of No Shame: Kill a entity with Weakness, Blindness and Nausa.</div></div></
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Tantalus](https://tensuranightmares.wiki.gg/wiki/Tantalus) on the Tensura Reincarnated Nightmares Wiki (revision `2793`, modified `2026-08-20T10:34:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

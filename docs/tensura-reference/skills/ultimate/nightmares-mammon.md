@@ -1,6 +1,6 @@
 ---
 title: Mammon, Lord of Greed
-description: 'Absorb Life: While Mammon is in slot, the user''s attacks will steal a small amount of MP, AP or Barrier Points.'
+description: "A Greed evolution that builds Desire through trades and items, then spends it on control and skill theft."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-mammon.svg" alt="Mammon, Lord of Greed emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/mammon.png" alt="Mammon, Lord of Greed source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Mammonn.png">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Absorb Life: While Mammon is in slot, the user&#x27;s attacks will steal a small amount of MP, AP or Barrier Points.</p>
+<p>A Greed evolution that builds Desire through trades and items, then spends it on control and skill theft.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -67,6 +67,10 @@ Reach 1,25M Magicules</div></div></div></div>
 
 ## Source and licensing
 
-Tensura Nightmares reference adapted from [Mammon,](https://tensuranightmares.wiki.gg/wiki/Mammon,) on the Tensura Reincarnated Nightmares Wiki (revision `2526`, modified `2026-07-26T17:39:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+Tensura Nightmares reference adapted from [Mammon](https://tensuranightmares.wiki.gg/wiki/Mammon) on the Tensura Reincarnated Nightmares Wiki (revision `2526`, modified `2026-07-26T17:39:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<!-- skill-artwork-credit:start -->
+Icon: [Mammon, Lord of Greed](https://tensuranightmares.wiki.gg/wiki/File:Mammonn.png), Tensura Reincarnated Nightmares Wiki; uploaded by Bob The Bulider3 (2026-05-06T19:12Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

@@ -1,6 +1,6 @@
 ---
 title: Leviathan, Lord of Envy
-description: 'Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis'
+description: "An Envy evolution focused on resource siphoning, regeneration denial and fortune manipulation."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-leviathan.svg" alt="Leviathan, Lord of Envy emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/illustrations/skills/leviathan.jpeg" alt="Leviathan, Lord of Envy source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Leviathan.jpeg">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Envious hero: If you are a True Hero, and awaken Leviathan, Lord of Envy, you will obtain the Unique Skill - Stasis</p>
+<p>An Envy evolution focused on resource siphoning, regeneration denial and fortune manipulation.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -61,6 +61,10 @@ Reach 1.5M Magicules, win 5 raids</div></div></div></div>
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Leviathan](https://tensuranightmares.wiki.gg/wiki/Leviathan) on the Tensura Reincarnated Nightmares Wiki (revision `2815`, modified `2026-08-20T15:02:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Leviathan, Lord of Envy](https://tensuranightmares.wiki.gg/wiki/File:Leviathan.jpeg), Tensura Reincarnated Nightmares Wiki; uploaded by UnluckyWarl0ck (2025-05-31T20:10Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->

@@ -363,16 +363,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="N" data-search="nuclear resistance when toggled, it prevents nuclear damage if the damage is below 50% of your max hp. if the attack is not below 50% of your max hp the damage will be halved.">
+<article class="reference-card" data-letter="N" data-search="nuclear resistance protection against nuclear damage, distinct from ordinary explosion damage.">
 <a href="nightmares-nuclear-resistance/" aria-label="Open Nuclear Resistance">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/icons/skills/trnightmare-nuclear_resistance.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/illustrations/skills/nuclear-resistance.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Nuclear Resistance</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+<p>Protection against Nuclear damage, distinct from ordinary explosion damage.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -633,16 +633,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="V" data-search="void resistance when toggled, it prevents void damage if the damage is below 50% of your max hp. if the attack is not below 50% of your max hp the damage will be halved.">
+<article class="reference-card" data-letter="V" data-search="void resistance protection against void damage: weaker hits are prevented while stronger hits are reduced.">
 <a href="nightmares-void-resistance/" aria-label="Open Void Resistance">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/icons/skills/trnightmare-void_resistance.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/illustrations/skills/void-resistance.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Void Resistance</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>When toggled, it prevents Void damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+<p>Protection against Void damage: weaker hits are prevented while stronger hits are reduced.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

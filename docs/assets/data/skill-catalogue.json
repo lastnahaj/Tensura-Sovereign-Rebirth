@@ -4847,8 +4847,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-void_resistance.svg"
+      "asset": "assets/illustrations/skills/void-resistance.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/resistances/nightmares-nuclear-resistance.md": {
       "id": "trnightmare:nuclear_resistance",
@@ -4867,8 +4868,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-nuclear_resistance.svg"
+      "asset": "assets/illustrations/skills/nuclear-resistance.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-veldora-lord-of-storms.md": {
       "id": "trnightmare:veldora_lord_of_storms",
@@ -5119,8 +5121,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-beelzebub.svg"
+      "asset": "assets/illustrations/skills/beelzebub.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-beelzebuth.md": {
       "id": "trnightmare:beelzebuth",
@@ -5139,8 +5142,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-beelzebuth.svg"
+      "asset": "assets/illustrations/skills/beelzebuth.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-leviathan.md": {
       "id": "trnightmare:leviathan",
@@ -5159,8 +5163,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-leviathan.svg"
+      "asset": "assets/illustrations/skills/leviathan.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-mammon.md": {
       "id": "trnightmare:mammon",
@@ -5168,7 +5173,7 @@
       "category": "skills/ultimate",
       "title": "Mammon, Lord of Greed",
       "namespace": "trnightmare",
-      "source": "https://tensuranightmares.wiki.gg/wiki/Mammon,",
+      "source": "https://tensuranightmares.wiki.gg/wiki/Mammon",
       "revision": 2526,
       "reference_build": {
         "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
@@ -5179,8 +5184,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-mammon.svg"
+      "asset": "assets/illustrations/skills/mammon.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-raphael-knowledge.md": {
       "id": "trnightmare:raphael_knowledge",
@@ -5199,8 +5205,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-raphael_knowledge.svg"
+      "asset": "assets/illustrations/skills/raphael-knowledge.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-raphael-wisdom.md": {
       "id": "trnightmare:raphael_wisdom",
@@ -5219,8 +5226,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-raphael_wisdom.svg"
+      "asset": "assets/illustrations/skills/raphael-wisdom.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-sandalphon-judgment.md": {
       "id": "trnightmare:sandalphon_judgment",
@@ -5238,9 +5246,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-sandalphon_judgment.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/sandalphon-judgment.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-true-hero.md": {
       "id": "trnightmare:true_hero",
@@ -5259,8 +5268,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-true_hero.svg"
+      "asset": "assets/illustrations/skills/true-hero.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-uriel-lord-of-oath.md": {
       "id": "trnightmare:uriel_lord_of_oath",
@@ -5279,8 +5289,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-uriel_lord_of_oath.svg"
+      "asset": "assets/illustrations/skills/uriel-lord-of-oath.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-uriel-lord-of-vow.md": {
       "id": "trnightmare:uriel_lord_of_vow",
@@ -5299,8 +5310,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-uriel_lord_of_vow.svg"
+      "asset": "assets/illustrations/skills/uriel-lord-of-vow.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-nyarlathotep.md": {
       "id": "trnightmare:nyarlathotep",
@@ -5319,12 +5331,13 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-nyarlathotep.svg"
+      "asset": "assets/illustrations/skills/nyarlathotep.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-akashic-records.md": {
       "id": "trnightmare:akashic_records",
-      "status": "reference",
+      "status": "unavailable",
       "category": "skills/ultimate",
       "title": "Akashic Records, God of Information",
       "namespace": "trnightmare",
@@ -5338,9 +5351,11 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-akashic_records.svg"
+      "source_partial": true,
+      "availability_reason": "Normal acquisition is not verified. The current source article reports a blocked Ego-to-Manas requirement. The reference release has acquisition logic, but the source warning has not been resolved by an installed-build check or gameplay test. This article is reference-only, not an available TSR progression recommendation.",
+      "asset": "assets/illustrations/skills/akashic-records.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/extra/nightmares-spacetime-manipulation.md": {
       "id": "trnightmare:spacetime_manipulation",
@@ -5653,8 +5668,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-tantalus.svg"
+      "asset": "assets/illustrations/skills/tantalus.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-tenebrosum.md": {
       "id": "trnightmare:tenebrosum",
@@ -5673,8 +5689,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-tenebrosum.svg"
+      "asset": "assets/illustrations/skills/tenebrosum.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-grimoire.md": {
       "id": "trnightmare:grimoire",
@@ -5692,9 +5709,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-grimoire.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/grimoire.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-necronomicon.md": {
       "id": "trnightmare:necronomicon",
@@ -5712,9 +5730,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-necronomicon.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/necronomicon.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/nightmares-hand-of-creation.md": {
       "id": "trnightmare:hand_of_creation",
@@ -5775,8 +5794,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-gilgamesh_lord_of_treasures.svg"
+      "asset": "assets/illustrations/skills/gilgamesh-lord-of-treasures.gif",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-gilgamesh-king-of-uruk.md": {
       "id": "trnightmare:gilgamesh_king_of_uruk",
@@ -5795,8 +5815,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-gilgamesh_king_of_uruk.svg"
+      "asset": "assets/illustrations/skills/gilgamesh-king-of-uruk.gif",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-zehirete.md": {
       "id": "trnightmare:zehirete",
@@ -5815,8 +5836,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-zehirete.svg"
+      "asset": "assets/illustrations/skills/zehirete.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-acnologia-lord-of-ancient-times.md": {
       "id": "trnightmare:acnologia_lord_of_ancient_times",
@@ -5835,8 +5857,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-acnologia_lord_of_ancient_times.svg"
+      "asset": "assets/illustrations/skills/acnologia-lord-of-ancient-times.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-arelkos.md": {
       "id": "trnightmare:arelkos",

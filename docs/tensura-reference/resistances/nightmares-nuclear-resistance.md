@@ -1,6 +1,6 @@
 ---
 title: Nuclear Resistance
-description: When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.
+description: "Protection against Nuclear damage, distinct from ordinary explosion damage."
 tags:
 - Abilities/1.21.1/Skills/Resistances
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Resistances</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../assets/icons/skills/trnightmare-nuclear_resistance.svg" alt="Nuclear Resistance emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../assets/illustrations/skills/nuclear-resistance.png" alt="Nuclear Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP. If the attack is not below 50% of your Max HP the damage will be halved.</p>
+<p>Protection against Nuclear damage, distinct from ordinary explosion damage.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
@@ -28,14 +28,14 @@ tags:
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Resistances</a></nav>
 <section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Resistances · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
-Taking Nuclear Damage (Not Explosion btw, try Belial)</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+Taking Nuclear damage (not ordinary explosion damage; the source suggests Belial).</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">Nuclear Resistance</div></div><div class="druid-section-container"></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
-Taking Nuclear Damage (Not Explosion btw, try Belial)</div></div></div></div>
+Taking Nuclear damage (not ordinary explosion damage; the source suggests Belial).</div></div></div></div>
 <h2><span class="mw-headline" id="Effect">Effect</span></h2>
 <p>When toggled, it prevents Nuclear damage if the damage is below 50% of your Max HP.
 If the attack is not below 50% of your Max HP the damage will be halved.
@@ -47,6 +47,10 @@ If the attack is not below 50% of your Max HP the damage will be halved.
 
 ## Source and licensing
 
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Nuclear Resistance](https://tensuranightmares.wiki.gg/wiki/Nuclear_Resistance) on the Tensura Reincarnated Nightmares Wiki (revision `2612`, modified `2026-08-07T14:25:13Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

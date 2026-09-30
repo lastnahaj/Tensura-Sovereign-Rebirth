@@ -1,6 +1,6 @@
 ---
 title: Acnologia, Lord of Ancient Times
-description: Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting six of them, the user is able to learn Spacetime Manipulation, when it is mastered, they obtain Spacetime Domination so long as the user has Law Manipulation.
+description: "An ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-acnologia_lord_of_ancient_times.svg" alt="Acnologia, Lord of Ancient Times emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/acnologia-lord-of-ancient-times.png" alt="Acnologia, Lord of Ancient Times illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Authority over Spacetime - When the user of Acnologia is able to locate the six Between Time Grimoires(found in ancient cities or rare drop from wardens), by collecting six of them, the user is able to learn Spacetime Manipulation, when it is mastered, they obtain Spacetime Domination so long as the user has Law Manipulation.</p>
+<p>An ancient-dragon skill combining magic devouring, dragon-body benefits and spacetime authority.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -24,6 +24,8 @@ tags:
 </div>
 </div>
 </section>
+
+<aside class="skill-evidence-note"><strong>Reference-build difference.</strong> The source describes six Ancient History Books at 500,000 EP. Nightmares 1.0.3.2.8 instead checks for six completed <em>Ancient Grimoires</em> or <em>Between Time Grimoires</em> in inventory: their completion thresholds are 150,000 and 300,000 collected EP respectively. Its acquisition guard also rejects another Ultimate Skill. Ancient History Books are a separate item, not an interchangeable name. These are reference-artifact findings; the installed server build remains unverified.</aside>
 
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
@@ -58,6 +60,12 @@ Reach 5M Magicules</div></div></div></div>
 
 ## Source and licensing
 
+Reference-artifact checks: `AcnologiaSkill.isCompletedGrimoire`, `AncientGrimoireItem.isCompleted` and `BetweenTimeGrimoireItem.isCompleted`, from [Nightmares 1.0.3.2.8](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382), SHA-256 `94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127`.
+
+Acquisition and media reviewed against the live source on September 29, 2026. Text revision details below retain the original import provenance; any later corrections are identified in this article.
+
 Tensura Nightmares reference adapted from [Acnologia](https://tensuranightmares.wiki.gg/wiki/Acnologia) on the Tensura Reincarnated Nightmares Wiki (revision `2859`, modified `2026-08-24T15:40:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->
