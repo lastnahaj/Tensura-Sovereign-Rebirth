@@ -144,6 +144,8 @@ The [skill artwork register](https://github.com/lastnahaj/Tensura-Sovereign-Rebi
 
 TSR-created branding, diagrams, icons, and concept artwork are identified as project assets. A visual inspired by a game system is not presented as an upstream screenshot or official franchise artwork. Links inherited from an adapted article—including Minecraft Wiki, Fandom, YouTube, or another mod wiki—remain outbound references and do not mean TSR copied material from those destinations.
 
+The [race illustration register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/race_emblem_sources.json) records original family portraits where the reviewed source article supplies no usable image. Each record includes the source review, dimensions, and file checksum. These portraits represent their families, not exact in-game models or individual evolution stages.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

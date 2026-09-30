@@ -12,9 +12,9 @@ tags:
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Races</span>
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/illustrations/races/scorpion.svg" alt="Loxodrome Scorpion Insectar family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family emblem; not an in-game model</figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/illustrations/races/scorpion.png" alt="Loxodrome Scorpion Insectar family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration; not an in-game model or exact evolution stage</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -70,14 +70,14 @@ Defeat 4 Bosses
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../loxodrome-scorpion/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion</strong>
 <small>Loxodrome Scorpion Insectar - Acquire 100K EP.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../loxodrome-scorpion-savant/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.svg"/>
+<img alt="" decoding="async" loading="lazy" src="../../../assets/illustrations/races/scorpion.png"/>
 <span class="reference-related-copy">
 <strong>Loxodrome Scorpion Savant</strong>
 <small>Divine Loxodrome Scorpion - Acquire 2M EP.</small>

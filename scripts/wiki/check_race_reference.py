@@ -2,7 +2,7 @@
 import argparse
 import hashlib
 import json
-import xml.etree.ElementTree as ET
+import struct
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -64,13 +64,22 @@ def main():
     emblems = json.loads((ROOT / 'data/race_emblem_sources.json').read_text(encoding='utf-8'))['families']
     for family, evidence in emblems.items():
         if overrides.get(family) != evidence['asset'] or not evidence.get('revision'):
-            errors.append(f'Missing emblem mapping or source review: {family}')
-        svg = ET.parse(ROOT / 'docs' / evidence['asset']).getroot()
-        if svg.get('viewBox') != '0 0 640 640' or svg.find('{http://www.w3.org/2000/svg}title') is None:
-            errors.append(f'Invalid emblem canvas or accessible title: {family}')
-        for element in svg.iter():
-            if element.tag.endswith('script') or any(key.endswith('href') and not value.startswith('#') for key, value in element.attrib.items()):
-                errors.append(f'Nonlocal or executable emblem content: {family}')
+            errors.append(f'Missing illustration mapping or source review: {family}')
+        asset = ROOT / 'docs' / evidence['asset']
+        content = asset.read_bytes() if asset.is_file() else b''
+        if len(content) < 24 or content[:8] != b'\x89PNG\r\n\x1a\n':
+            errors.append(f'Missing or invalid raster illustration: {family}')
+            continue
+        width, height = struct.unpack('>II', content[16:24])
+        if width != height or width < 512 or (width, height) != (evidence.get('width'), evidence.get('height')):
+            errors.append(f'Invalid illustration canvas: {family}')
+        if evidence.get('kind') != 'original-illustration' or hashlib.sha256(content).hexdigest() != evidence.get('sha256'):
+            errors.append(f'Invalid illustration provenance or checksum: {family}')
+        slug = family.casefold().replace(' ', '-')
+        family_source = (ROOT / f'docs/tensura-reference/races/families/{slug}.md').read_text(encoding='utf-8')
+        for label, source in [('directory', directory_source), ('family', family_source)]:
+            if evidence['asset'] not in source or evidence['asset'].removesuffix('.png') + '.svg' in source:
+                errors.append(f'Outdated illustration in {label}: {family}')
     for family in families['families']:
         credit = next((entry for entry in media.values() if entry.get('local_path') == family['image']), None)
         if credit and credit['source_file_page'] not in directory_source:

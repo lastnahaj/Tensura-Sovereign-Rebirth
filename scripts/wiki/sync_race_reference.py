@@ -25,9 +25,9 @@ HISTORICAL_MEDIA = (
     (('spider', 'silk-soul'), 'assets/upstream/tensura/mobs/black-spider-yellow-c2fa32a0c0.gif'),
     (('wasp',), 'assets/upstream/tensura/mobs/army-wasp-751af321e0.gif'),
     (('centipede',), 'assets/upstream/tensura/mobs/evil-centipede-2bc8cccc6a.png'),
-    (('scorpion',), 'assets/illustrations/races/scorpion.svg'),
-    (('mantis',), 'assets/illustrations/races/mantis.svg'),
-    (('beetle',), 'assets/illustrations/races/beetle.svg'),
+    (('scorpion',), 'assets/illustrations/races/scorpion.png'),
+    (('mantis',), 'assets/illustrations/races/mantis.png'),
+    (('beetle',), 'assets/illustrations/races/beetle.png'),
     (('ant', 'hardshell'), 'assets/upstream/tensura/mobs/giant-ant-4e3b228173.gif'),
     (('wolf', 'fang'), 'assets/upstream/mysticism/races/direwolf-9251a4c081.jpg'),
     (('dryad', 'foliaris', 'pixie', 'verdant'), 'assets/upstream/mysticism/races/fairy-b898cd83c7.jpg'),
@@ -92,8 +92,8 @@ def replace_placeholder_figure(text: str, page: str, decision: dict, asset: str,
         caption = f'<a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])} · {html.escape(credit["license"])}</a>'
         source_class = ' reference-overview-media--source'
     elif asset.startswith('assets/illustrations/races/'):
-        caption = 'Original TSR family emblem; not an in-game model'
-        source_class = ' reference-overview-media--source'
+        caption = 'Original TSR family illustration; not an in-game model or exact evolution stage'
+        source_class = ''
     else:
         caption = 'Original TSR family illustration'
         source_class = ''
@@ -166,6 +166,8 @@ def generate():
         text = normalize_known_skill_links(text, page)
         asset = family_media(page, media_overrides)
         if asset:
+            if asset.startswith('assets/illustrations/races/') and asset.endswith('.png'):
+                text = text.replace(asset.removesuffix('.png') + '.svg', asset)
             text = replace_placeholder_figure(text, page, decision, asset, media_credits)
         if decision['status'] != 'registered':
             front, rest = text[4:].split('\n---\n', 1)

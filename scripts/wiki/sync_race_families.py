@@ -103,7 +103,7 @@ def generate() -> dict[str, str]:
         image = next((value for value in images if "/upstream/" in value), "assets/images/reference-races-evolution.png")
         image = media_overrides.get(title, image)
         source_class = ' race-family-hero--source' if image in media_credits else ''
-        if image.startswith('assets/illustrations/races/'):
+        if image.startswith('assets/illustrations/races/') and image.endswith('.svg'):
             source_class = ' race-family-hero--emblem'
         image_url = posixpath.relpath(image, page_route)
         lines = ["---", f"title: {json.dumps(title + ' Evolution', ensure_ascii=False)}", f"description: {len(group)} connected race forms with documented stats, abilities, and evolution links.", "---", "",
@@ -180,7 +180,7 @@ def generate() -> dict[str, str]:
         elif image.startswith('assets/images/races/'):
             lines.extend(['Family image: original TSR illustration; not an in-game model or a depiction of exact evolution stages.', ''])
         elif image.startswith('assets/illustrations/races/'):
-            lines.extend(['Family image: original TSR emblem; not an in-game model or a depiction of exact evolution stages.', ''])
+            lines.extend(['Family image: original TSR illustration; not an in-game model or a depiction of exact evolution stages.', ''])
         outputs[page] = "\n".join(lines)
         families.append({"title": title, "route": page_route, "image": image, "forms": len(group), "search": " ".join(nodes[key]["title"] for key in ordered)})
     extra = json.loads((ROOT / "data/ascension_reference.json").read_text(encoding="utf-8"))
@@ -197,7 +197,7 @@ def generate() -> dict[str, str]:
         target = posixpath.relpath(family["route"], index_route) + "/"
         image = posixpath.relpath(family["image"], index_route)
         search = html.escape((family["title"] + " " + family["search"]).casefold(), quote=True)
-        emblem = family['image'].startswith('assets/illustrations/races/')
+        emblem = family['image'].startswith('assets/illustrations/races/') and family['image'].endswith('.svg')
         media_class = ' reference-card-media--portrait' if family['image'] in media_credits or emblem else ''
         if emblem:
             media_class += ' reference-card-media--emblem'
@@ -211,7 +211,7 @@ def generate() -> dict[str, str]:
             lines.append(f'<li>{html.escape(family["title"])}: <a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])}</a> · {html.escape(credit["license"])}</li>')
         elif family['title'] in emblems:
             record = emblems[family['title']]
-            lines.append(f'<li>{html.escape(family["title"])}: original TSR emblem. <a href="{html.escape(record["source"], quote=True)}">Source race reference</a>.</li>')
+            lines.append(f'<li>{html.escape(family["title"])}: original TSR illustration. <a href="{html.escape(record["source"], quote=True)}">Source race reference</a>.</li>')
     lines.extend(['</ul></details>', ''])
     outputs['tensura-reference/races/index.md'] = "\n".join(lines).replace('data-reference-directory="races"', 'data-reference-directory="races" data-reference-unit="race families"')
     outputs['assets/data/race-families.json'] = json.dumps({"families":families,"destinations":destinations},ensure_ascii=False,indent=2) + "\n"

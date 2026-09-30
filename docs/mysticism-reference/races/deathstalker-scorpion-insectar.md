@@ -18,9 +18,9 @@ search:
 <!-- race-reference:end -->
 
 <section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/illustrations/races/scorpion.svg" alt="Deathstalker Scorpion Insectar family reference artwork" loading="eager" decoding="async">
-<figcaption>Original TSR family emblem; not an in-game model</figcaption>
+<figure class="reference-overview-media">
+<img src="../../../assets/illustrations/races/scorpion.png" alt="Deathstalker Scorpion Insectar family reference artwork" loading="eager" decoding="async">
+<figcaption>Original TSR family illustration; not an in-game model or exact evolution stage</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
