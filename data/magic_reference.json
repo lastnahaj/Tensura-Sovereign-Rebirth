@@ -20,5 +20,27 @@
     "source_url": "https://tensura.wiki.gg/wiki/Unbound_tome",
     "source_limits": "The article is unfinished. It describes copying mastered magic for another player, but does not verify every spell's copy eligibility or a complete item supply route."
   },
+  "recovered_spells": {
+    "tensura:reincarnation": {
+      "source_url": "https://tensura.wiki.gg/wiki/Reincarnation?oldid=13419",
+      "configuration": "pack/config/tensura/ability/magic/aspectual_config.toml",
+      "config_section": "Reincarnation",
+      "implementation": "io.github.manasmods.tensura.ability.magic.aspectual.misc.ReincarnationMagic",
+      "instant_cast": false,
+      "removal_check": "Temporary skill instances and skills recorded as the old race's obtained intrinsics are selected for removal, subject to removal-event checks.",
+      "state_changes": "The implementation resets player data, existence, effects, flight, warp points, and the respawn point before race selection. Retained maximum Aura and Magicules are calculated using the configured cost multipliers.",
+      "scope": "This race-selection spell is not SlimeThrone Extras prestige. Add-on retention and live-server behavior remain untested."
+    },
+    "tensura:summon_hound_dog": {
+      "source_url": "https://tensura.wiki.gg/wiki/Abilities/Magics/Summon_Hound_Dog?oldid=13734",
+      "acquisition_source": "https://tensura.wiki.gg/wiki/Mobs/Hound_Dog",
+      "configuration": "pack/config/tensura/ability/magic/summoning_config.toml",
+      "config_section": "SummonHoundDog",
+      "implementation": "io.github.manasmods.tensura.ability.magic.summon.SummonHoundDogMagic",
+      "learning_hook": "BehaviourHandler registers the POST_TAME_EVENT callback. On the server, after its temporary-owner guard, the callback checks HoundDogVariant.EVOLVED and calls SkillHelper.learnSkill for SUMMON_HOUND_DOG.",
+      "summon_behavior": "Tames the created Hound Dog to a player caster, sets the evolved variant and configured duration, records the summoner, and suppresses experience drops.",
+      "scope": "The upstream mob article describes naming a snake-tailed variant. The artifact confirms a post-tame learning attempt, not a live-server naming test or unconditional grant."
+    }
+  },
   "verification_limits": "Artifact behavior and registry matches are not live-server gameplay tests. Generic tome support does not verify spell-specific loot, trades, racial grants, or learning gates."
 }

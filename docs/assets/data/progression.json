@@ -1615,6 +1615,11 @@
       "image": "assets/upstream/tensura/skills/reflector-55d778ed26.png",
       "category": "skills/unique"
     },
+    "tensura-reference/core-mechanics/reincarnation/": {
+      "title": "Reincarnation",
+      "image": "assets/illustrations/skills/reincarnation.webp",
+      "category": "magic"
+    },
     "tensura-reference/magic/reinforced-barrier/": {
       "title": "Reinforced Barrier",
       "image": "assets/upstream/tensura/magic/reinforced-barrier-37c2860481.png",
@@ -4175,6 +4180,11 @@
       "title": "Shadow Dummy",
       "image": "assets/ascension/skills/shadow_dummy.png",
       "category": "battlewill"
+    },
+    "tensura-reference/magic/summon-hound-dog/": {
+      "title": "Summon Hound Dog",
+      "image": "assets/illustrations/skills/summon-hound-dog.webp",
+      "category": "magic"
     },
     "tensura-reference/skills/extra/gravity-flux/": {
       "title": "Gravity Flux",

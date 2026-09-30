@@ -2225,7 +2225,7 @@ def render_coverage_report(coverage: dict[str, Any]) -> str:
         f"| Images skipped due to licensing | {coverage['images_skipped_due_to_licensing']} |",
         f"| Images failed | {coverage['images_failed']} |",
         "",
-        "The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.",
+        "New media imports require an explicit file-specific reusable image license and a rendered File-page exception check. Page-content footers do not establish image permission. Legacy footer-derived decisions are historical records, not completed permission checks; the file-level review register supersedes them. Other legacy media remains under review.",
         "",
         "## Link conversion",
         "",

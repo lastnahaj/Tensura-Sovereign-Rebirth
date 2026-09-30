@@ -55,11 +55,12 @@ MAGIC_SUMMARIES = {
     'teleport': 'Teleport toward the point the caster is looking at.',
     'earth-storm': 'Barrage nearby targets with falling rocks and intermittent levitation.',
     'shrink': 'Temporarily reduce the caster’s size, at the cost of armor protection and increased fragility.',
+    'reincarnation': 'Re-select a race through a rebirth spell that changes player state and reduces maximum MP and AP.',
 }
 
 
 def editorial_magic_summary(page):
-    if page.startswith('tensura-reference/magic/'):
+    if page.startswith('tensura-reference/magic/') or page == 'tensura-reference/core-mechanics/reincarnation.md':
         return MAGIC_SUMMARIES.get(page.rsplit('/', 1)[1].removesuffix('.md'))
     return None
 
@@ -535,6 +536,8 @@ def generate():
     for category in LABELS:
         page = f"tensura-reference/{category}/index.md"
         outputs[page] = style_directory(generate_category_index(category, active), category, page, policy)
+    # A spell can be filed under mechanics upstream without belonging in that directory.
+    outputs["tensura-reference/core-mechanics/index.md"] = generate_category_index("core-mechanics", active)
     outputs.update(generate_hub(active, policy, outputs))
     # Source-specific directory URLs remain usable but obey the same eligibility gate.
     configure_source("mysticism")

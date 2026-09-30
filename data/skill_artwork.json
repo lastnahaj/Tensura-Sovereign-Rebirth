@@ -1,6 +1,20 @@
 {
   "schema": 1,
   "entries": {
+    "tensura:summon_hound_dog": {
+      "asset": "assets/illustrations/skills/summon-hound-dog.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2f4657c699e1db963b9260b6377d8560c71b2f5fadd8287698a1ea1d6a3dda1b",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Abilities/Magics/Summon_Hound_Dog?oldid=13734",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Summon_hound_dog.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified. The source image was not imported."
+      }
+    },
     "trnightmare:void_resistance": {
       "asset": "assets/illustrations/skills/void-resistance.png",
       "kind": "original-illustration",
@@ -2802,6 +2816,20 @@
         "article": "https://tensura.wiki.gg/wiki/Magic_Nullification",
         "file_page": "https://tensura.wiki.gg/wiki/File:Magic_nullification.png",
         "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:reincarnation": {
+      "asset": "assets/illustrations/skills/reincarnation.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2f1d2d93f8c39af8029bff078517df447601eb6e4b82c7c6af8d844ebe6eb0db",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Reincarnation",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Reincarnation_aspectual.png",
+        "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
       }
     }
   }

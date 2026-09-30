@@ -72,7 +72,7 @@ def catalogue() -> dict:
             identifier = identify(namespace, record["display_title"], pool) or identify(namespace, record["source_title"], pool)
             is_skill = record["category"].startswith("skills/") or record["category"] in {"resistances", "battlewill"}
             if not is_skill:
-                if record["category"] != "magic":
+                if record["category"] != "magic" and not any(tag.endswith('_Magic') for tag in record.get('upstream_categories', [])):
                     continue
                 body = (ROOT / "docs" / record["local_page"]).read_text(encoding="utf-8")
                 if "druid-container-magic" in body:

@@ -6,7 +6,7 @@
 <h1>Core Mechanics</h1>
 <p>Foundational resources and progression mechanics.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>63</strong> articles</span>
+<span class="reference-count"><strong>62</strong> articles</span>
 </div>
 </div>
 </header>
@@ -35,7 +35,7 @@
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 63 of 63 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 62 of 62 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ability usage tensura: reincarnated comes with many different ways of utilizing abilities.">
@@ -783,21 +783,6 @@
 <h2>Reducer Purity Edge</h2>
 
 <p>Reducer Purity Edge is an effect that...</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="R" data-search="reincarnation who would&#x27;ve thought, the isekai mod has a reincarnation magic.">
-<a href="reincarnation/" aria-label="Open Reincarnation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/misc/reincarnation-aspectual-3691f06730.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Reincarnation</h2>
-
-<p>Who would&#x27;ve thought, the isekai mod has a reincarnation magic.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

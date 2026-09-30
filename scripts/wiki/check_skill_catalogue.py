@@ -137,12 +137,12 @@ def main():
         errors.append('Command-only Magic Nullification must be reference-only')
     magic = BeautifulSoup(outputs['tensura-reference/magic/index.md'], 'html.parser')
     magic_cards = magic.select('.reference-card')
-    if len(magic_cards) != 119 or any(card.get('data-school') not in {'Aspectual', 'Spiritual', 'Summoning'} for card in magic_cards):
-        errors.append('Magic directory must contain 119 registry-matched, school-classified spells')
+    if len(magic_cards) != 121 or any(card.get('data-school') not in {'Aspectual', 'Spiritual', 'Summoning'} for card in magic_cards):
+        errors.append('Magic directory must contain 121 registry-matched, school-classified spells')
     if len(magic.select('[data-school-filter]')) != 4:
         errors.append('Magic directory needs all three accessible school filters and an all-schools reset')
     for name, summary in MAGIC_SUMMARIES.items():
-        page = 'tensura-reference/magic/' + name + '.md'
+        page = 'tensura-reference/core-mechanics/reincarnation.md' if name == 'reincarnation' else 'tensura-reference/magic/' + name + '.md'
         article = BeautifulSoup(outputs[page], 'html.parser')
         overview = article.select_one('.reference-overview-copy > p:not(.reference-eyebrow)')
         body_intro = article.select_one('.tensura-reference-article .mw-parser-output').find('p', recursive=False)
@@ -150,6 +150,20 @@ def main():
             errors.append(f'Magic editorial summary mismatch: {page}')
         if summary not in magic.get_text(' ', strip=True):
             errors.append(f'Magic directory lost its editorial summary: {page}')
+    for identifier in ('tensura:reincarnation', 'tensura:summon_hound_dog'):
+        if sum(decision['id'] == identifier and decision['category'] == 'magic' for decision in active.values()) != 1:
+            errors.append(f'Missing or duplicate recovered spell: {identifier}')
+    registered_magic = {identifier for identifier, entry in pool.items() if entry['category'] == 'magic' and entry['weight'] > 0 and identifier not in {'tensura:magic_nullification'}}
+    represented_magic = {decision['id'] for decision in active.values() if decision['category'] == 'magic' and decision['namespace'] != 'trnightmare'}
+    if registered_magic != represented_magic:
+        errors.append(f'Magic inventory coverage mismatch: {sorted(registered_magic ^ represented_magic)}')
+    reincarnation = outputs['tensura-reference/core-mechanics/reincarnation.md']
+    hound = outputs['tensura-reference/magic/summon-hound-dog.md']
+    for phrase in ('Reincarnation is not prestige', 'temporary skills', 'warp points', 'live-server reset test'):
+        if phrase not in reincarnation:
+            errors.append(f'Reincarnation safety note missing: {phrase}')
+    if 'POST_TAME_EVENT' not in hound or 'snake-tailed variant' not in hound or '50 MP' not in hound or '10 MP per second' not in hound:
+        errors.append('Hound Dog acquisition or configured upkeep evidence missing')
     for page, decision in active.items():
         if decision['category'] != 'magic':
             continue

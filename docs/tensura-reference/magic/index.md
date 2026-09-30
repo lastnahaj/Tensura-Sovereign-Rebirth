@@ -6,9 +6,9 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="magic">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Magic</h1><p>Magic systems, aspects, and individual spells.</p><span class="skill-entry-count">119 entries</span><a class="reference-directory-overview-link" href="../../magic-learning/">Spell schools &amp; tome learning <span aria-hidden="true">→</span></a></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Magic</h1><p>Magic systems, aspects, and individual spells.</p><span class="skill-entry-count">121 entries</span><a class="reference-directory-overview-link" href="../../magic-learning/">Spell schools &amp; tome learning <span aria-hidden="true">→</span></a></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../skills/">All abilities</a><a href="../skills/intrinsic/">Intrinsic</a><a href="../skills/common/">Common</a><a href="../skills/extra/">Extra</a><a href="../skills/unique/">Unique</a><a href="../skills/ultimate/">Ultimate</a><a href="../battlewill/">Battlewill</a><a href="./" aria-current="page">Magic</a><a href="../resistances/">Resistances</a></nav>
-<div class="reference-directory-tools"><div class="magic-school-filters" role="group" aria-label="Spell school"><button type="button" data-school-filter="all" aria-pressed="true" class="is-active">All schools</button><button type="button" data-school-filter="Aspectual" aria-pressed="false">Aspectual <span>74</span></button><button type="button" data-school-filter="Spiritual" aria-pressed="false">Spiritual <span>40</span></button><button type="button" data-school-filter="Summoning" aria-pressed="false">Summoning <span>5</span></button></div>
+<div class="reference-directory-tools"><div class="magic-school-filters" role="group" aria-label="Spell school"><button type="button" data-school-filter="all" aria-pressed="true" class="is-active">All schools</button><button type="button" data-school-filter="Aspectual" aria-pressed="false">Aspectual <span>75</span></button><button type="button" data-school-filter="Spiritual" aria-pressed="false">Spiritual <span>40</span></button><button type="button" data-school-filter="Summoning" aria-pressed="false">Summoning <span>6</span></button></div>
 <label class="reference-filter-label">
 <span>Filter this collection</span>
 <input type="search" class="reference-filter-input" placeholder="Search titles and summaries…" autocomplete="off">
@@ -32,7 +32,7 @@ hide:
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 119 of 119 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 121 of 121 articles</p>
 </div>
 <div class="reference-card-grid">
 <article data-school="Spiritual" class="reference-card" data-letter="A" data-search="acid rain summon an acidic cloud which will corrode any afflicted entities">
@@ -1250,6 +1250,21 @@ hide:
 </div>
 </a>
 </article>
+<article data-school="Aspectual" class="reference-card" data-letter="R" data-search="reincarnation re-select a race through a rebirth spell that changes player state and reduces maximum mp and ap.">
+<a href="../core-mechanics/reincarnation/" aria-label="Open Reincarnation">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/illustrations/skills/reincarnation.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy"><span class="magic-school-label">Aspectual</span>
+<h2>Reincarnation</h2>
+
+<p>Re-select a race through a rebirth spell that changes player state and reduces maximum MP and AP.</p>
+
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article data-school="Aspectual" class="reference-card" data-letter="R" data-search="reinforced barrier cast barrier and magic barrier at the same time protecting from both magical and physical attacks">
 <a href="reinforced-barrier/" aria-label="Open Reinforced Barrier">
 <figure class="reference-card-media reference-card-media--source">
@@ -1500,6 +1515,21 @@ hide:
 <h2>Summon Greater Elemental</h2>
 
 <p>Summons a spirit which decided to dwell within the user. Switching skill modes changes the elemental summoned.</p>
+
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article data-school="Summoning" class="reference-card" data-letter="S" data-search="summon hound dog summon a tamed hound dog that obeys its caster. the illustration represents the spell, not the in-game icon or model.">
+<a href="summon-hound-dog/" aria-label="Open Summon Hound Dog">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/illustrations/skills/summon-hound-dog.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy"><span class="magic-school-label">Summoning</span>
+<h2>Summon Hound Dog</h2>
+
+<p>Summon a tamed Hound Dog that obeys its caster. The illustration represents the spell, not the in-game icon or model.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

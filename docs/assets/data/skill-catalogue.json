@@ -2676,6 +2676,19 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/core-mechanics/reincarnation.md": {
+      "id": "tensura:reincarnation",
+      "status": "registered",
+      "category": "magic",
+      "title": "Reincarnation",
+      "source": "https://tensura.wiki.gg/wiki/Reincarnation",
+      "revision": 13419,
+      "namespace": "tensura",
+      "magic_school": "Aspectual",
+      "asset": "assets/illustrations/skills/reincarnation.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/magic/reinforced-barrier.md": {
       "id": "tensura:reinforced_barrier",
       "status": "registered",
@@ -5251,6 +5264,19 @@
       "source": "https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions",
       "maintained": true,
       "obtainment_documented": false
+    },
+    "tensura-reference/magic/summon-hound-dog.md": {
+      "id": "tensura:summon_hound_dog",
+      "status": "registered",
+      "category": "magic",
+      "title": "Summon Hound Dog",
+      "namespace": "tensura",
+      "source": "https://tensura.wiki.gg/wiki/Abilities/Magics/Summon_Hound_Dog",
+      "maintained": true,
+      "magic_school": "Summoning",
+      "asset": "assets/illustrations/skills/summon-hound-dog.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/extra/gravity-flux.md": {
       "id": "mysticism:gravity_flux",

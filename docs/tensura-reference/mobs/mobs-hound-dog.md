@@ -1,6 +1,6 @@
 ---
 title: Hound Dog
-description: If a snake tailed variant is named, the Summon Hound Dog skill is granted, allowing the user to summon it. 1 - 2 Monster Leather (D) 1 Low Quality Magic Crystal View or edit this templateMobsBossesAkash • Charybdis • Elemental Colossus • Gazel Dwargo • Hinata Sakaguchi • Ifrit • Orc Disaster • Orc Lord...
+description: Hound Dog variants, spawn locations, drops, and the source-described route to Summon Hound Dog.
 tags: []
 ---
 
@@ -38,7 +38,7 @@ Daemon Realm: Any biome.</div></div><div class="druid-row druid-row-spawn_count"
 1000</div></div><div class="druid-row druid-row-maximum_ep" data-druid-section-row="Stats"><div class="druid-label druid-label-maximum_ep">Maximum EP</div><div class="druid-data druid-data-maximum_ep druid-data-nonempty">
 1499</div></div></div></div>
 <p><br/>
-If a snake tailed variant is named, the <a class="new" href="https://tensura.wiki.gg/wiki/Abilities/Magics/Summon_Hound_Dog?action=edit&amp;redlink=1" rel="nofollow" title="Abilities/Magics/Summon Hound Dog (page does not exist)">Summon Hound Dog</a> skill is granted, allowing the user to summon it.
+The upstream article describes naming a snake-tailed variant as the route to <a href="../../magic/summon-hound-dog/">Summon Hound Dog</a>. The pinned implementation confirms a post-tame learning attempt; live-server naming and learning conditions remain untested. See the spell page for acquisition evidence and casting costs.
 </p>
 <h2><span class="mw-headline" id="Drops">Drops</span></h2>
 <ul><li>1 - 2 <span class="nowrap"><span class="sprite-file"><a href="../../items/monster-leather-d/" title="Monster Leather (D)"></a></span> <a href="../../items/monster-leather-d/" title="Monster Leather (D)"><span class="sprite-text">Monster Leather (D)</span></a></span></li>

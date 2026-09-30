@@ -100,10 +100,10 @@ tags: []
 </span>
 </a>
 <a class="reference-related-card" href="../reincarnation/">
-<img src="../../../assets/upstream/tensura/misc/reincarnation-aspectual-3691f06730.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/illustrations/skills/reincarnation.webp" alt="Reincarnation illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Reincarnation</strong>
-<small>Who would&#x27;ve thought, the isekai mod has a reincarnation magic.</small>
+<small>Reselect your race through a state-resetting spell; separate from prestige.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../effects-strengthen/">

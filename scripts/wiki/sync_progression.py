@@ -27,12 +27,14 @@ def build() -> dict:
     documents = {}
     document_sources = {}
     titles = {}
-    from skill_catalogue import ACTIVE, nightmares_manifest
+    from skill_catalogue import ACTIVE, catalogue, nightmares_manifest
+    policy = catalogue()
     manifests = {source: json.loads((ROOT / "data" / f"upstream_{source}_pages.json").read_text(encoding="utf-8")) for source in ("tensura", "mysticism")}
     manifests["nightmares"] = nightmares_manifest()
     for source, manifest in manifests.items():
         for record in manifest["pages"]:
-            category = record["category"]
+            decision = policy["pages"].get(record["local_page"])
+            category = decision["category"] if decision and decision["status"] in ACTIVE else record["category"]
             if category == "races" and not is_race_form(record):
                 continue
             if category not in {"races", "battlewill", "magic", "resistances"} and not category.startswith("skills/"):
@@ -129,8 +131,6 @@ def build() -> dict:
         ("tensura-reference/skills/extra/demon-lord-haki/", "hell-passage", "Master Gate while Demon Lord Haki is active."),
     ):
         connect(start, skill[end], "Unlock requirement", requirement)
-    from skill_catalogue import catalogue
-    policy = catalogue()
     for page, decision in policy["pages"].items():
         key = route(page)
         if decision["status"] not in ACTIVE:

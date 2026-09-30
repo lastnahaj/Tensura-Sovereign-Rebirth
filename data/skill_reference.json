@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "registry_id": "tensura:summon_hound_dog",
+      "display_title": "Summon Hound Dog",
+      "category": "magic",
+      "local_page": "tensura-reference/magic/summon-hound-dog.md",
+      "asset": "assets/illustrations/skills/summon-hound-dog.webp",
+      "summary": "Summon a tamed, snake-tailed Hound Dog that obeys the caster.",
+      "source_url": "https://tensura.wiki.gg/wiki/Abilities/Magics/Summon_Hound_Dog",
+      "source_revision": 13734
+    },
+    {
       "registry_id": "mysticism:gravity_flux",
       "display_title": "Gravity Flux",
       "category": "skills/extra",

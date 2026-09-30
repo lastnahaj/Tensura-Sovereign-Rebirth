@@ -43,8 +43,8 @@
       ]
     },
     "Reincarnation": {
-      "status": "Base mechanic",
-      "content": "Reincarnation is the opening and replay foundation for TSR. The pack layers race restrictions, prestige, Soul Grade, and authored campaign guidance around the base mechanic without replacing its documented behavior.",
+      "status": "Race-selection spell",
+      "content": "!!! warning \"Reincarnation is not prestige\"\n    This race-selection spell resets player state and reduces maximum MP and AP. It is separate from the opening character-selection process and SlimeThrone Extras' prestige system. Do not cast it expecting a prestige reward or a harmless race preview.\n\nThe tracked configuration sets a 200-tick cast, 10,000 MP minimum casting cost, and 25% reductions to maximum Aura and Magicules. The pinned implementation removes temporary skills and recorded old-race intrinsics subject to removal-event checks, and resets effects, flight, warp points, and the respawn point. Mastery expands race selection; it does not make this a prestige action. These are artifact/configuration checks, not a live-server reset test.",
       "links": [
         {"label": "Getting Started", "target": "getting-started.md"},
         {"label": "Race & Evolution", "target": "race-and-evolution.md"},
