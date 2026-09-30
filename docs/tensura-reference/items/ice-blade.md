@@ -117,13 +117,7 @@ tags:
 <a href="../">Browse all Items &amp; Materials</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../items-misc-hot-spring-water-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hot Spring Water Bucket</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../insectar-carapace/">
 <img src="../../../assets/upstream/tensura/items/invicon-insectar-carapace-e27e580912.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
@@ -131,13 +125,7 @@ tags:
 <small>A strong armor from the body of an Army Wasp .</small>
 </span>
 </a>
-<a class="reference-related-card" href="../holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Water</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../invisible-feather/">
 <img src="../../../assets/upstream/tensura/items/invicon-invisible-feather-d0761eb10a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">

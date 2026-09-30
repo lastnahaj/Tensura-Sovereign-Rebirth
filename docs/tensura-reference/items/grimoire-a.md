@@ -89,13 +89,7 @@ Cooldown = 15 ticks<br/>
 <a href="../">Browse all Items &amp; Materials</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../greater-holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Greater Holy Water</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../grimoire-b/">
 <img src="../../../assets/upstream/tensura/items/invicon-grimoire-b-eee891cbe3.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">

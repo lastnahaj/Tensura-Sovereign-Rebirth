@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>196</strong> articles</span>
+<span class="reference-count"><strong>191</strong> articles</span>
 </div>
 </div>
 </header>
@@ -39,7 +39,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 196 of 196 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 191 of 191 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -282,21 +282,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="bulldeer milk bucket The upstream reference does not yet document this item's obtainment or use.">
-<a href="bulldeer-milk-bucket/" aria-label="Open Bulldeer Milk Bucket">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Bulldeer Milk Bucket</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="C" data-search="cattledeer beef killing/defeating a cattledeer">
 <a href="cattledeer-beef/" aria-label="Open Cattledeer Beef">
 <figure class="reference-card-media reference-card-media--source">
@@ -307,6 +292,22 @@
 <h2>Cattledeer Beef</h2>
 
 <p>Killing/Defeating a Cattledeer</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="C" data-search="cattledeer milk bucket a registered milk consumable with an older bulldeer name; normal cattledeer milking produces vanilla milk instead.">
+<a href="bulldeer-milk-bucket/" aria-label="Open Cattledeer Milk Bucket">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/cattledeer-milk.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Cattledeer Milk Bucket</h2>
+
+<small class="skill-reference-status">Registered item · acquisition unverified</small>
+<p>A registered milk consumable with an older Bulldeer name; normal Cattledeer milking produces vanilla Milk instead.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -959,7 +960,7 @@
 </article>
 <article class="reference-card" data-letter="E" data-search="explorer maps master-level dwarf cartographers can offer maps to hell gates for 5–15 gold coins or charybdis caves for 5–25 gold coins.">
 <a href="explorer-maps/" aria-label="Open Explorer Maps">
-<figure class="reference-card-media reference-card-media--source">
+<figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/items/explorer-map.svg" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
@@ -1087,21 +1088,6 @@
 <h2>Great Sword Schematic</h2>
 
 <p>Found in Weaponsmith Village Houses - 20% Chance</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="G" data-search="greater holy water The upstream reference does not yet document this item's obtainment or use.">
-<a href="greater-holy-water/" aria-label="Open Greater Holy Water">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/items/greater-holy-water.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Greater Holy Water</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1372,66 +1358,6 @@
 <h2>Hipokute Seeds</h2>
 
 <p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This whether naturally generated in the wild or grown by hipokute farming…</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="H" data-search="holy milk The upstream reference does not yet document this item's obtainment or use.">
-<a href="holy-milk/" aria-label="Open Holy Milk">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Holy Milk</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="H" data-search="holy milk bucket The upstream reference does not yet document this item's obtainment or use.">
-<a href="holy-milk-bucket/" aria-label="Open Holy Milk Bucket">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Holy Milk Bucket</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="H" data-search="holy water The upstream reference does not yet document this item's obtainment or use.">
-<a href="holy-water/" aria-label="Open Holy Water">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Holy Water</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="H" data-search="hot spring water bucket The upstream reference does not yet document this item's obtainment or use.">
-<a href="items-misc-hot-spring-water-bucket/" aria-label="Open Hot Spring Water Bucket">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Hot Spring Water Bucket</h2>
-
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2517,16 +2443,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="R" data-search="revival elixir The upstream reference does not yet document this item's obtainment or use.">
+<article class="reference-card" data-letter="R" data-search="revival elixir a high-tier healing drink for living targets: restores up to a full health bar and 20,000 mp, subject to maximum mp.">
 <a href="revival-elixir/" aria-label="Open Revival Elixir">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/cs5-d00a5bad58.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/revival-elixir.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Revival Elixir</h2>
 
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
+<small class="skill-reference-status">Registered item · acquisition unverified</small>
+<p>A high-tier healing drink for living targets: restores up to a full health bar and 20,000 MP, subject to maximum MP.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2879,7 +2806,7 @@
 </article>
 <article class="reference-card" data-letter="U" data-search="unbound tome can only be found not crafted.">
 <a href="unbound-tome/" aria-label="Open Unbound Tome">
-<figure class="reference-card-media reference-card-media--source">
+<figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/items/unbound-tome.svg" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>

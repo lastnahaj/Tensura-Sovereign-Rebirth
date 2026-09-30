@@ -110,6 +110,60 @@
       "replacement_asset": "assets/illustrations/skills/corrosion-resistance.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS1.png",
+      "source_title": "CS1.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_action": "omitted-non-content"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS11.png",
+      "source_title": "CS11.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_action": "omitted-non-content"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS5.png",
+      "source_title": "CS5.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/items/revival-elixir.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS6.png",
+      "source_title": "CS6.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_action": "omitted-non-content"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS8.png",
+      "source_title": "CS8.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_action": "omitted-non-content"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS9.png",
+      "source_title": "CS9.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/items/cattledeer-milk.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Dark_eight_palms.png",
       "source_title": "Dark eight palms.png",
       "checked_on": "2026-09-30",
@@ -504,6 +558,15 @@
       "notice": "no-file-specific-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/illustrations/skills/reincarnation.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Revival_Elixir.gif",
+      "source_title": "Revival Elixir.gif",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/revival-elixir.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Roaring_lion_punch.png",

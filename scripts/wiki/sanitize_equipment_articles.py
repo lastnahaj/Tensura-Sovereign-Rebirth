@@ -66,6 +66,13 @@ def clean_text(text: str, path: Path | None = None) -> str:
     text = EXPLORER_IMAGE.sub("../../../assets/images/items/explorer-map.svg", text)
     text = LEGACY_MAP_CELLS.sub("", text)
     text = LEGACY_MAP_CREDIT.sub("", text)
+    if path and path.name in {'items-consumables.md', 'items-misc.md'}:
+        from sync_item_reference import manifest as item_manifest
+        for page in item_manifest()['pages']:
+            if page['catalogue_entry']:
+                continue
+            route = Path(page['local_page']).stem
+            text = re.sub(r'<td>(?:(?!</td>).)*href="\.\./' + re.escape(route) + r'/"(?:(?!</td>).)*</td>', '', text, flags=re.DOTALL)
     if path and path.name == "explorer-maps.md":
         text = re.sub(r"(?m)^- Labyrinth Explorer Map\s*\r?\n", "- Charybdis Cave Explorer Map\n", text)
         text = re.sub(

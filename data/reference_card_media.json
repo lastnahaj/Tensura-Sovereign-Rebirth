@@ -193,7 +193,6 @@
     "asset": "assets/upstream/tensura/items/invicon-silver-apple-a26a2e36dd.png",
     "kind": "source"
   },
-  "tensura-reference/items/greater-holy-water.md": "assets/images/items/greater-holy-water.webp",
   "tensura-reference/blocks/blocks-block-of-adamantite.md": {
     "asset": "assets/upstream/tensura/items/block-of-adamantite-16d7fc960c.gif",
     "kind": "source",
@@ -383,5 +382,31 @@
     "asset": "assets/upstream/mysticism/biomes/wind-biome-ec10b1f6fb.png",
     "kind": "source",
     "summary": "An elemental-realm biome populated by Dragon Peacocks and Feathered Serpents, with rare Sylphides."
+  },
+  "tensura-reference/items/revival-elixir.md": {
+    "asset": "assets/images/items/revival-elixir.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "515ffefecaad2d2ad1d6567e8da61c6b84e016935ea6669af451b7b909281c24",
+    "source_review": {
+      "date": "2026-09-30",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Revival_Elixir.gif",
+      "result": "No file-specific reusable image license was verified; original illustration used."
+    }
+  },
+  "tensura-reference/items/bulldeer-milk-bucket.md": {
+    "asset": "assets/images/items/cattledeer-milk.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3edd1350ec45a5606fa5e8b57aa59027e4a6559e9162ff303a8feac8dd234391",
+    "source_review": {
+      "date": "2026-09-30",
+      "file_page": "https://tensura.wiki.gg/wiki/File:CS9.png",
+      "result": "No file-specific reusable image license was verified; original illustration used."
+    }
   }
 }

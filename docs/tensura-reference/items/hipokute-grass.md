@@ -120,13 +120,7 @@ This is a worse version of a <span class="nowrap"><span class="sprite-file"><a h
 <small>Obtained by picking up an HihiIrokane Ingot</small>
 </span>
 </a>
-<a class="reference-related-card" href="../holy-milk/">
-<img src="../../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Milk</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 </div>
 </section>
 

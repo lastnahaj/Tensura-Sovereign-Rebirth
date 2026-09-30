@@ -1489,6 +1489,7 @@ def render_page(
             lines.append("**TSR guides:** " + " · ".join(rendered_links))
             lines.append("")
 
+    related = [item for item in related if item.get('_catalogue_entry', True)]
     if related:
         category_index = (
             PurePosixPath(REFERENCE_SLUG) / record["category"] / "index.md"
@@ -1589,6 +1590,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
             }
             if override.get("summary"):
                 record["_summary_override"] = override["summary"]
+    from sync_item_reference import apply as apply_item_references
+    apply_item_references(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -1811,6 +1814,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
             record
             for record in category_records
             if record["local_page"] not in overview_local_pages
+            and record.get('_catalogue_entry', True)
             and not (category == "items" and normalize_title(record["display_title"]).casefold() == "cargotest")
         ],
         key=lambda item: item["display_title"].casefold(),
@@ -1937,6 +1941,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 pairs = curated
             if category == 'blocks':
                 pairs = [(label, value) for label, value in pairs if label.casefold() not in {'registry id', 'visual'}]
+            if category == 'items' and record.get('_availability_status'):
+                pairs = []
             if pairs:
                 default_stat_note = (
                     'Pinned Minecraft 1.21.1 artifact.'
@@ -1961,6 +1967,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 '<div class="reference-card-copy">',
                 f"<h2>{html.escape(record['display_title'])}</h2>",
                 '<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>' if record.get("reference_build_only") else "",
+                *([f'<small class="skill-reference-status">{html.escape(record["_availability_status"])}</small>'] if record.get('_availability_status') else []),
                 f"<p>{html.escape(summary)}</p>",
                 card_stats,
                 '<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>',
@@ -2486,6 +2493,9 @@ def main() -> int:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_text(content, encoding="utf-8")
         sanitize_block_articles(check=False)
+        from sync_item_reference import generate as generate_item_references
+        for name, content in generate_item_references().items():
+            (DOCS / name).write_text(content, encoding="utf-8")
         from sync_progression import OUTPUT as progression_output, build as build_progression
         write_json(progression_output, build_progression())
         from sync_race_families import generate as generate_race_families
@@ -2613,6 +2623,9 @@ def main() -> int:
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(content, encoding="utf-8")
     sanitize_block_articles(check=False)
+    from sync_item_reference import generate as generate_item_references
+    for name, content in generate_item_references().items():
+        (DOCS / name).write_text(content, encoding="utf-8")
 
     # Upstream maintenance banners are useful to editors on the source wiki,
     # but they are not item artwork or player-facing reference content.

@@ -1,91 +1,35 @@
 ---
-title: Hot Spring Water Bucket
-description: The upstream reference does not yet document this item's obtainment or use.
-tags:
-- Hot Spring Water Bucket
+title: "Hot Spring Water Bucket"
+description: "An unfinished upstream reference, not a verified item for the pinned 1.21.1 build."
 ---
 
 # Hot Spring Water Bucket
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-**Also known as:** Hot Spring Water Bucket
-
-<section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="Hot Spring Water Bucket source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:CS1.png">CS1.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<section class="reference-overview reference-theme-world reference-overview--text-only">
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a></nav>
 </div>
 </section>
+
+!!! warning "Source archive · not verified for current play"
+    This name is preserved for existing links, not recommended as an obtainable item.
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="hide-content-template">
-<div class="center"><div class="floatnone"><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:CS1.png"><img alt="Coming Soon" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" width="512"/></a></div></div><br/>
-<div>
-<p><big><big><b>The upstream reference does not yet document this item's obtainment or use.</b><br/></big></big>
-<big><b>Big Things Coming Soon!!</b></big>
-</p>
-</div></div>
-
-
-
-</div>
+<p>This upstream article does not contain usable obtainment or effect documentation.</p>
 </div>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs6-ca28e722ef.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Water</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ice-blade/">
-<img src="../../../assets/upstream/tensura/items/invicon-ice-blade-88d548eb7c.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ice Blade</strong>
-<small>To craft, you need a Smithing Bench and have used High Magisteel Gear Schematic , and Long Sword Schematic</small>
-</span>
-</a>
-<a class="reference-related-card" href="../holy-milk-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Milk Bucket</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../insectar-carapace/">
-<img src="../../../assets/upstream/tensura/items/invicon-insectar-carapace-e27e580912.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Insectar Carapace</strong>
-<small>A strong armor from the body of an Army Wasp .</small>
-</span>
-</a>
-</div>
-</section>
+## Availability
 
----
+No matching player item or survival acquisition route was verified. A historical wiki link is not proof that this consumable exists in the selected release. This source archive is excluded from the current item directory.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Items/Misc/Hot Spring Water Bucket](https://tensura.wiki.gg/wiki/Items/Misc/Hot_Spring_Water_Bucket) on the Tensura: Reincarnated Wiki (revision `7899`, modified `2025-03-05T09:16:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Items/Misc/Hot Spring Water Bucket](https://tensura.wiki.gg/wiki/Items/Misc/Hot_Spring_Water_Bucket) on the Tensura: Reincarnated Wiki, recorded revision `7899`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished source artwork is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:CS1.png">CS1.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4753</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.

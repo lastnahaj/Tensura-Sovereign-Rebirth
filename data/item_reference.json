@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-09-30",
+  "reference_build": {
+    "version": "2.0.1.2",
+    "minecraft": "1.21.1",
+    "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+    "sha256": "9291f48d94073903cea9155dc99e042af5477e2c144e3fae1938299b2029da3e",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+    "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml"
+  },
+  "pages": [
+    {
+      "local_page": "tensura-reference/items/revival-elixir.md",
+      "display_title": "Revival Elixir",
+      "asset": "assets/images/items/revival-elixir.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:revival_elixir",
+      "summary": "A high-tier healing drink for living targets: restores up to a full health bar and 20,000 MP, subject to maximum MP.",
+      "status": "Registered item · acquisition unverified",
+      "warning": "Despite its name, this item does not resurrect a dead player. HealingPotionItem returns without applying its effect when the target is not alive.",
+      "obtainment": "The item is registered in the pinned build, but no survival acquisition route was verified. The reviewed brewing registrations produce Low, High, and Full Potions, not Revival Elixir. Its presence in the creative inventory and dissolving data does not establish a craft, trade, or loot route. Check the server's recipe browser before planning around it.",
+      "use": "Use normally to drink; the inherited drink duration is 16 ticks (0.8 seconds at 20 TPS). Sneak-use throws a healing-potion projectile. Direct interaction with a living entity applies the effect to that target. Drinking consumes the elixir and returns a Magic Bottle in survival.",
+      "effects": "At full effect strength, healing equals 100% of the target's maximum health. Magicule restoration adds a fixed 20,000 MP and is capped at the target's maximum MP; it is not 100% MP restoration and does not increase maximum MP. Thrown applications can use a reduced strength multiplier.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class",
+        "io/github/manasmods/tensura/item/consumable/HealingPotionItem.class",
+        "io/github/manasmods/tensura/item/consumable/ManaPotionItem.class",
+        "io/github/manasmods/tensura/entity/projectile/ThrownHealingPotion.class",
+        "io/github/manasmods/tensura/recipe/SpecialRecipeRegister.class",
+        "data/tensura/item_dissolving/revival_elixir.json"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/items/bulldeer-milk-bucket.md",
+      "display_title": "Cattledeer Milk Bucket",
+      "asset": "assets/images/items/cattledeer-milk.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:bucket_of_cattledeer_milk",
+      "summary": "A registered milk consumable with an older Bulldeer name; normal Cattledeer milking produces vanilla Milk instead.",
+      "status": "Registered item · acquisition unverified",
+      "warning": "Do not confuse this registered item with the result of milking a Cattledeer. In the reviewed build, using an empty bucket on that mob explicitly returns minecraft:milk_bucket.",
+      "obtainment": "No survival route for the separate Cattledeer Milk Bucket was verified. CattledeerEntity.mobInteract checks for an empty bucket and creates vanilla Milk. A Monstrous Diet advancement criterion references the separate Tensura item, but an advancement requirement is not an acquisition method.",
+      "use": "The separate item is constructed as Minecraft's MilkBucketItem with a stack limit of one. Its base-class behavior is milk consumption, not a unique skill-unlock or evolution item. This is an implementation check; interactions with server-specific effects have not been tested in gameplay.",
+      "effects": "The older source title is Bulldeer Milk Bucket. The current registry uses bucket_of_cattledeer_milk. This article retains its original URL so existing links continue to work.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class",
+        "io/github/manasmods/tensura/entity/monster/CattledeerEntity.class",
+        "data/tensura/advancement/monstrous_diet.json"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/items/holy-water.md",
+      "display_title": "Holy Water",
+      "catalogue_entry": false,
+      "summary": "An unfinished upstream item reference; a matching obtainable item has not been verified for the pinned 1.21.1 build.",
+      "detail": "The artifact contains a ThrownHolyWater projectile and an entity registry name. That is not evidence of a player-obtainable Holy Water item. No matching consumable registration or acquisition route was verified. This source archive is excluded from the current item directory."
+    },
+    {
+      "local_page": "tensura-reference/items/greater-holy-water.md",
+      "display_title": "Greater Holy Water",
+      "catalogue_entry": false,
+      "summary": "An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.",
+      "detail": "No matching registered consumable or survival acquisition route was verified. The upstream name alone does not establish availability. This source archive is excluded from the current item directory."
+    },
+    {
+      "local_page": "tensura-reference/items/holy-milk.md",
+      "display_title": "Holy Milk",
+      "catalogue_entry": false,
+      "summary": "An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.",
+      "detail": "The artifact includes legacy holy-milk texture files, but a texture is not an item registration or acquisition method. No matching obtainable consumable was verified. This source archive is excluded from the current item directory."
+    },
+    {
+      "local_page": "tensura-reference/items/holy-milk-bucket.md",
+      "display_title": "Holy Milk Bucket",
+      "catalogue_entry": false,
+      "summary": "An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.",
+      "detail": "Legacy milk-bucket textures do not confirm an active item. No matching consumable registration or acquisition route was verified. This source archive is excluded from the current item directory."
+    },
+    {
+      "local_page": "tensura-reference/items/items-misc-hot-spring-water-bucket.md",
+      "display_title": "Hot Spring Water Bucket",
+      "catalogue_entry": false,
+      "summary": "An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.",
+      "detail": "No matching player item or survival acquisition route was verified. A historical wiki link is not proof that this consumable exists in the selected release. This source archive is excluded from the current item directory."
+    }
+  ]
+}

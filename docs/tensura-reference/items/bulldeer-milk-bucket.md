@@ -1,91 +1,58 @@
 ---
-title: Bulldeer Milk Bucket
-description: The upstream reference does not yet document this item's obtainment or use.
-tags:
-- Items/Consumables/Bulldeer Milk Bucket
+title: "Cattledeer Milk Bucket"
+description: "A registered milk consumable with an older Bulldeer name; normal Cattledeer milking produces vanilla Milk instead."
 ---
 
-# Bulldeer Milk Bucket
+# Cattledeer Milk Bucket
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
-
-**Also known as:** Items/Consumables/Bulldeer Milk Bucket
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="Bulldeer Milk Bucket source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:CS9.png">CS9.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/cattledeer-milk.webp" alt="Cattledeer Milk Bucket illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>The upstream reference does not yet document this item's obtainment or use.</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>A registered milk consumable with an older Bulldeer name; normal Cattledeer milking produces vanilla Milk instead.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="hide-content-template">
-<div class="center"><div class="floatnone"><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:CS9.png"><img alt="Coming Soon" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" width="512"/></a></div></div><br/>
-<div>
-<p><big><big><b>The upstream reference does not yet document this item's obtainment or use.</b><br/></big></big>
-<big><b>Big Things Coming Soon!!</b></big>
-</p>
-</div></div>
+!!! warning "Registered item · acquisition unverified"
+    Do not confuse this registered item with the result of milking a Cattledeer. In the reviewed build, using an empty bucket on that mob explicitly returns minecraft:milk_bucket.
 
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="druid-title">Cattledeer Milk Bucket</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:bucket_of_cattledeer_milk</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Survival route not verified</div></div>
+</aside></div></div>
 
+## Availability
 
-</div>
-</div>
+No survival route for the separate Cattledeer Milk Bucket was verified. CattledeerEntity.mobInteract checks for an empty bucket and creates vanilla Milk. A Monstrous Diet advancement criterion references the separate Tensura item, but an advancement requirement is not an acquisition method.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../items-misc-bucket-of-slime/">
-<img src="../../../assets/upstream/tensura/skills/bucket-of-slime-e0a53af79e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Bucket of Slime</strong>
-<small>This item can be obtained by right clicking a Slime with a Bucket .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../cargotest/">
-<img src="../../../assets/upstream/tensura/weapons/invicon-pure-magisteel-ingot-6667c91da2.gif" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>CargoTest</strong>
-<small>Upstream reference information for CargoTest.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blade-tiger-tail/">
-<img src="../../../assets/upstream/tensura/items/invicon-blade-tiger-tail-fb7c95d60a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Blade Tiger Tail</strong>
-<small>A razor sharp blade from the tail of a Blade Tiger .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../cattledeer-beef/">
-<img src="../../../assets/upstream/tensura/items/invicon-cattledeer-beef-36c1a18e39.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Cattledeer Beef</strong>
-<small>Killing/Defeating a Cattledeer</small>
-</span>
-</a>
-</div>
-</section>
+## How to use
 
----
+The separate item is constructed as Minecraft's MilkBucketItem with a stack limit of one. Its base-class behavior is milk consumption, not a unique skill-unlock or evolution item. This is an implementation check; interactions with server-specific effects have not been tested in gameplay.
+
+## Behavior and limits
+
+The older source title is Bulldeer Milk Bucket. The current registry uses bucket_of_cattledeer_milk. This article retains its original URL so existing links continue to work.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Bulldeer Milk Bucket](https://tensura.wiki.gg/wiki/Bulldeer_Milk_Bucket) on the Tensura: Reincarnated Wiki (revision `9200`, modified `2025-04-14T10:24:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Bulldeer Milk Bucket](https://tensura.wiki.gg/wiki/Bulldeer_Milk_Bucket) on the Tensura: Reincarnated Wiki, recorded revision `9200`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished source artwork is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:CS9.png">CS9.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4749</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class`
+    - `io/github/manasmods/tensura/entity/monster/CattledeerEntity.class`
+    - `data/tensura/advancement/monstrous_diet.json`

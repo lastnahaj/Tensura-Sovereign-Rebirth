@@ -199,7 +199,7 @@ tags:
 <td><span class="nowrap"><span class="sprite-file"><a href="../items-misc-bucket-of-slime/" title="Bucket of Slime"></a></span> <a class="mw-redirect" href="../items-misc-bucket-of-slime/" title="Bucket of Slime"><span class="sprite-text">Bucket of Slime</span></a></span></td>
 <td></td>
 <td></td>
-<td><span class="nowrap"><span class="sprite-file"><a href="../items-misc-hot-spring-water-bucket/" title="Hot Spring Water Bucket"></a></span> <a class="mw-redirect" href="../items-misc-hot-spring-water-bucket/" title="Hot Spring Water Bucket"><span class="sprite-text">Hot Spring Water Bucket</span></a></span></td>
+
 <td></td>
 <td></td>
 <td><span class="nowrap"><span class="sprite-file"><a href="../explorer-maps/" title="Hell Gate Explorer Map"></a></span> <a class="mw-redirect" href="../explorer-maps/" title="Hell Gate Explorer Map"><span class="sprite-text">Hell Gate Explorer Map</span></a></span>

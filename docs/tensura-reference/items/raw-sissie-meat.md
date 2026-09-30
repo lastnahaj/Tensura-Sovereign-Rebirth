@@ -122,10 +122,10 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../revival-elixir/">
-<img src="../../../assets/upstream/tensura/items/cs5-d00a5bad58.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/revival-elixir.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Revival Elixir</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
+<small>A high-tier healing drink for living targets: restores up to a full health bar and 20,000 MP, subject to maximum MP.</small>
 </span>
 </a>
 </div>

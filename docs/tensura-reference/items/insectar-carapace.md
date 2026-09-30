@@ -100,13 +100,7 @@ A strong armor from the body of an <a href="../../mobs/mobs-army-wasp/" title="M
 <small>A transparent feather plucked from a One Eyed Owl .</small>
 </span>
 </a>
-<a class="reference-related-card" href="../items-misc-hot-spring-water-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs1-f7a8fc05a2.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hot Spring Water Bucket</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../items-schematics-iron-gear-schematic/">
 <img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">

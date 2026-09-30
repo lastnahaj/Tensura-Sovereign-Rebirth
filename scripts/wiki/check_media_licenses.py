@@ -21,7 +21,10 @@ class FileLicenseTests(unittest.TestCase):
                 self.assertEqual(record['import_status'], 'skipped-license')
                 self.assertNotIn('local_path', record)
                 self.assertFalse((root / 'docs' / record['withdrawn_local_path']).exists())
-                self.assertTrue((root / 'docs' / review['replacement_asset']).is_file())
+                if review.get('replacement_asset'):
+                    self.assertTrue((root / 'docs' / review['replacement_asset']).is_file())
+                else:
+                    self.assertEqual(review.get('replacement_action'), 'omitted-non-content')
 
     def test_footer_is_not_an_image_license(self):
         self.assertIsNone(determine_license({"_file_page_checked": True}, FOOTER)[0])

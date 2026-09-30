@@ -94,13 +94,7 @@ Hipokute is used to make different potions that heal your health and magicules <
 <small>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../holy-milk/">
-<img src="../../../assets/upstream/tensura/items/cs11-684406c2cb.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Milk</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../hipokute-flower/">
 <img src="../../../assets/upstream/tensura/items/invicon-hipokute-flower-d2d832901a.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
@@ -108,13 +102,7 @@ Hipokute is used to make different potions that heal your health and magicules <
 <small>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by…</small>
 </span>
 </a>
-<a class="reference-related-card" href="../holy-milk-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Holy Milk Bucket</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 </div>
 </section>
 

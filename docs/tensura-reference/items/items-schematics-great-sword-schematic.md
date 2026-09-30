@@ -152,13 +152,7 @@ Allows Crafting of
 <small>Obtained by picking up a Gold Ingot</small>
 </span>
 </a>
-<a class="reference-related-card" href="../greater-holy-water/">
-<img src="../../../assets/upstream/tensura/items/cs8-09044718a9.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Greater Holy Water</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
-</span>
-</a>
+
 <a class="reference-related-card" href="../goblin-club/">
 <img src="../../../assets/upstream/tensura/items/invicon-goblin-club-8774ab3680.png" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">

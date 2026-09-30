@@ -65,6 +65,24 @@ assert all(card.select_one('.reference-card-media img') for card in item_cards),
 item_titles = {card.h2.get_text(' ', strip=True) for card in item_cards}
 non_items = {'Items', 'Armours', 'Consumables', 'Gear', 'Learnable', 'Misc', 'Mob Drops', 'Ores', 'CargoTest'}
 assert item_titles.isdisjoint(non_items), 'A collection page or debug entry is still rendered as an item card'
+from sync_item_reference import manifest as item_manifest, generate as generate_item_references
+curated_items = item_manifest()
+item_build = curated_items['reference_build']
+item_selection = (ROOT / item_build['pack_manifest']).read_text(encoding='utf-8')
+assert item_build['minecraft'] == '1.21.1' and item_build['sha1'] in item_selection and 'file-id = 8665599' in item_selection, 'Curated item build selection changed'
+for local_page, expected_content in generate_item_references().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale item reference: {local_page}'
+for entry in curated_items['pages']:
+    if not entry['catalogue_entry']:
+        assert entry['display_title'] not in item_titles, f'Unverified item promoted: {entry["display_title"]}'
+    else:
+        card = next(card for card in item_cards if card.h2.get_text(' ', strip=True) == entry['display_title'])
+        assert 'acquisition unverified' in card.get_text(' ', strip=True), 'Registered-only item needs an acquisition warning'
+assert all(not Path(image.get('src', '')).name.casefold().startswith('cs') for image in items.select('.reference-card-media img')), 'Coming Soon portrait remains in Items'
+elixir = (ROOT / 'docs/tensura-reference/items/revival-elixir.md').read_text(encoding='utf-8')
+assert 'does not resurrect' in elixir and '20,000 MP' in elixir and 'fixed' in elixir, 'Elixir healing limits missing'
+milk = (ROOT / 'docs/tensura-reference/items/bulldeer-milk-bucket.md').read_text(encoding='utf-8')
+assert 'minecraft:milk_bucket' in milk and 'No survival route' in milk, 'Cattledeer milk acquisition is overstated'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

@@ -136,16 +136,15 @@ tags:
 <td><span class="nowrap"><span class="sprite-file"><a href="../revival-elixir/" title="Revival Elixir"></a></span> <a href="../revival-elixir/" title="Revival Elixir"><span class="sprite-text">Revival Elixir</span></a></span></td>
 <td></td>
 <td></td>
-<td><span class="nowrap"><span class="sprite-file"><a href="../holy-water/" title="Holy Water"></a></span> <a href="../holy-water/" title="Holy Water"><span class="sprite-text">Holy Water</span></a></span></td>
+
 <td></td>
 <td></td>
-<td><span class="nowrap"><span class="sprite-file"><a href="../greater-holy-water/" title="Greater Holy Water"></a></span> <a href="../greater-holy-water/" title="Greater Holy Water"><span class="sprite-text">Greater Holy Water</span></a></span></td>
+
 <td></td>
 <td></td>
-<td><span class="nowrap"><span class="sprite-file"><a href="../holy-milk/" title="Holy Milk"></a></span> <a href="../holy-milk/" title="Holy Milk"><span class="sprite-text">Holy Milk</span></a></span>
-</td></tr>
+</tr>
 <tr>
-<td><span class="nowrap"><span class="sprite-file"><a href="../holy-milk-bucket/" title="Holy Milk Bucket"></a></span> <a href="../holy-milk-bucket/" title="Holy Milk Bucket"><span class="sprite-text">Holy Milk Bucket</span></a></span></td>
+
 <td></td>
 <td></td>
 <td><span class="nowrap"><span class="sprite-file"><a href="../bulldeer-milk-bucket/" title="Bulldeer Milk Bucket"></a></span> <a href="../bulldeer-milk-bucket/" title="Bulldeer Milk Bucket"><span class="sprite-text">Bulldeer Milk Bucket</span></a></span>
@@ -217,7 +216,7 @@ tags:
 Base Tensura reference adapted from [Items/Consumables](https://tensura.wiki.gg/wiki/Items/Consumables) on the Tensura: Reincarnated Wiki (revision `13049`, modified `2026-06-13T09:04:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (43 source files)</summary>
+<summary>Media credits (41 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
@@ -251,7 +250,6 @@ Base Tensura reference adapted from [Items/Consumables](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png">Invicon Low Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6609</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png">Invicon Full Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6513</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Revival_Elixir.gif">Revival Elixir.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10583</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Holy_Water.gif">Holy Water.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4395</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Greater_Holy_Water.gif">Greater Holy Water.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4396</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Holy_Milk.gif">Holy Milk.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4397</li>

@@ -260,6 +260,10 @@
   box-shadow: 0 .7rem 2rem rgba(0, 0, 0, .14);
 }
 
+.reference-overview--text-only {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .reference-overview-media {
   position: relative;
   min-height: 10rem;

@@ -107,10 +107,10 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../bulldeer-milk-bucket/">
-<img src="../../../assets/upstream/tensura/items/cs9-7200e1b6bf.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/cattledeer-milk.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Bulldeer Milk Bucket</strong>
-<small>The upstream reference does not yet document this item's obtainment or use.</small>
+<strong>Cattledeer Milk Bucket</strong>
+<small>A registered milk consumable with an older Bulldeer name; normal Cattledeer milking produces vanilla Milk instead.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../centipede-stinger/">
