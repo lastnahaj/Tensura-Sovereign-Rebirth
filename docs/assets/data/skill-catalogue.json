@@ -3880,9 +3880,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-gabriel.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/gabriel.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-raguel.md": {
       "id": "trnightmare:raguel",
@@ -3900,9 +3901,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-raguel.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/raguel.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-sariel.md": {
       "id": "trnightmare:sariel",
@@ -3921,8 +3923,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-sariel.svg"
+      "asset": "assets/illustrations/skills/sariel.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/nightmares-divine-wisdom-core.md": {
       "id": "trnightmare:divine_wisdom_core",
@@ -3961,9 +3964,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-haniel.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/haniel.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-alternative.md": {
       "id": "trnightmare:alternative",
@@ -3982,8 +3986,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-alternative.svg"
+      "asset": "assets/illustrations/skills/alternative.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-hamiel.md": {
       "id": "trnightmare:hamiel",
@@ -4001,9 +4006,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-hamiel.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/hamiel.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-shub-niggurath.md": {
       "id": "trnightmare:shub_niggurath",
@@ -4022,8 +4028,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": false,
-      "asset": "assets/icons/skills/trnightmare-shub_niggurath.svg"
+      "asset": "assets/illustrations/skills/shub-niggurath.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-designer.md": {
       "id": "trnightmare:designer",
@@ -4063,8 +4070,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-astarte.svg"
+      "asset": "assets/illustrations/skills/astarte.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-cthulhu.md": {
       "id": "trnightmare:cthulhu",
@@ -4104,8 +4112,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-belphegor.svg"
+      "asset": "assets/illustrations/skills/belphegor.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-astaroth.md": {
       "id": "trnightmare:astaroth",
@@ -4124,8 +4133,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-astaroth.svg"
+      "asset": "assets/illustrations/skills/astaroth.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-saint.md": {
       "id": "trnightmare:saint",
@@ -4164,9 +4174,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-belial.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/belial.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-breaker.md": {
       "id": "trnightmare:breaker",
@@ -4352,9 +4363,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-metatron.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/metatron.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-surya.md": {
       "id": "trnightmare:surya",

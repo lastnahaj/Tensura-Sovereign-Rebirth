@@ -1,6 +1,137 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:gabriel": {
+      "asset": "assets/upstream/nightmares/skills/gabriel.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Gabriel"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Gabriel.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Gabriel.jpeg?2af078&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:04Z",
+        "sha256": "444c1d765bbe1efac81db49fad0b66446c77e407489503f9330d2e7aff65fa51",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:raguel": {
+      "asset": "assets/illustrations/skills/raguel.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Raguel",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:sariel": {
+      "asset": "assets/illustrations/skills/sariel.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Sariel",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:haniel": {
+      "asset": "assets/illustrations/skills/haniel.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Haniel",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:alternative": {
+      "asset": "assets/illustrations/skills/alternative.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Alternative",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:hamiel": {
+      "asset": "assets/illustrations/skills/hamiel.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Hamiel",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:shub_niggurath": {
+      "asset": "assets/illustrations/skills/shub-niggurath.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Shub-Niggurath",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:astarte": {
+      "asset": "assets/illustrations/skills/astarte.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Astarte",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:belphegor": {
+      "asset": "assets/illustrations/skills/belphegor.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Belphegor",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:astaroth": {
+      "asset": "assets/illustrations/skills/astaroth.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Astaroth",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:belial": {
+      "asset": "assets/illustrations/skills/belial.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Belial",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:metatron": {
+      "asset": "assets/illustrations/skills/metatron.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Metatron",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
     "trnightmare:asmodeus": {
       "asset": "assets/upstream/nightmares/skills/asmodeus.jpeg",
       "kind": "verified-source",

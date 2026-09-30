@@ -817,9 +817,9 @@
           "text": "Master Cadence, have enough MP, win 10 raids, use Time Freeze 50 times"
         }
       ],
-      "source_partial": false,
-      "summary": "\"ZAA WARUDOOO. What do you mean 'not the right one'?\"",
-      "description": "\"ZAA WARUDOOO. What do you mean 'not the right one'?\""
+      "source_partial": true,
+      "summary": "Freeze time and temperature, protect against heat, and wield ice-based control.",
+      "description": "Freeze time and temperature, protect against heat, and wield ice-based control."
     },
     {
       "page_id": 855,
@@ -842,9 +842,9 @@
           "text": "Master Endorse, have enough MP, win 25 raids and heal a zombie villager"
         }
       ],
-      "source_partial": false,
-      "summary": "Amplification and Thought Acceleration - The user regenerates Magicules x2 as fast (4x as fast on mastery). The user gains +2 Learning and Mastery Points. Increase magic casting speed multiplier by 3, increase movement speed by 0.02 (0.04 with Mastery), increase attack speed by 0.3 (0.6 with Mastery)",
-      "description": "Amplification and Thought Acceleration - The user regenerates Magicules x2 as fast (4x as fast on mastery). The user gains +2 Learning and Mastery Points. Increase magic casting speed multiplier by 3, increase movement speed by 0.02 (0.04 with Mastery), increase attack speed by 0.3 (0.6 with Mastery)"
+      "source_partial": true,
+      "summary": "Amplify magic, accelerate thought, store energy, and support regeneration.",
+      "description": "Amplify magic, accelerate thought, store energy, and support regeneration."
     },
     {
       "page_id": 856,
@@ -878,8 +878,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob is too far away. If a subordinate dies to a damage source not from the owner, the user will gain 10% of the sub’s EP for each 60 points (5 minutes) it has - The maximum amount of EP can…",
-      "description": "Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob is too far away. If a subordinate dies to a damage source not from the owner, the user will gain 10% of the sub’s EP for each 60 points (5 minutes) it has - The maximum amount of EP can…"
+      "summary": "Preserve subordinate strength, restore life, and create a protective backup body.",
+      "description": "Preserve subordinate strength, restore life, and create a protective backup body."
     },
     {
       "page_id": 857,
@@ -927,9 +927,9 @@
           "text": "Master Glorious, have enough MP, win 6 raids and have 100 armour points"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Thou attempts are pityfull, as my Glory shalt outshine thy being forevermore\"",
-      "description": "\"Thou attempts are pityfull, as my Glory shalt outshine thy being forevermore\""
+      "source_partial": true,
+      "summary": "Regenerate behind reinforced defenses and reflect incoming damage.",
+      "description": "Regenerate behind reinforced defenses and reflect incoming damage."
     },
     {
       "page_id": 860,
@@ -953,8 +953,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "When this is Bestowed to you, u get one of the seven different abilities",
-      "description": "When this is Bestowed to you, u get one of the seven different abilities"
+      "summary": "Receive one of seven bestowed abilities through Michael’s player Manas.",
+      "description": "Receive one of seven bestowed abilities through Michael’s player Manas."
     },
     {
       "page_id": 861,
@@ -977,9 +977,9 @@
           "text": "Master Haniel, have enough MP, win 12 raids, master day-night inversion and stand in an ancient forest biome"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Above all else, i will regenerate, no matter the Injury\"",
-      "description": "\"Above all else, i will regenerate, no matter the Injury\""
+      "source_partial": true,
+      "summary": "Restore defenses, absorb damage, and retaliate with reflected force.",
+      "description": "Restore defenses, absorb damage, and retaliate with reflected force."
     },
     {
       "page_id": 862,
@@ -997,8 +997,8 @@
       ],
       "obtainment_rows": [],
       "source_partial": true,
-      "summary": "Note: This will store your version of Uriel inside of Shub-Niggurath's [ Skill Storage ]",
-      "description": "Note: This will store your version of Uriel inside of Shub-Niggurath's [ Skill Storage ]"
+      "summary": "Store, recreate, duplicate, and bestow skills through a shared skill archive.",
+      "description": "Store, recreate, duplicate, and bestow skills through a shared skill archive."
     },
     {
       "page_id": 863,
@@ -1041,8 +1041,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine.",
-      "description": "Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine."
+      "summary": "Evolve and recycle skills while generating Magicules through a magic furnace.",
+      "description": "Evolve and recycle skills while generating Magicules through a magic furnace."
     },
     {
       "page_id": 865,
@@ -1092,7 +1092,7 @@
         {
           "label": "",
           "section": "Obtaining",
-          "text": "Sleep 50 times"
+          "text": "Stay in a bed for 12,000 ticks"
         },
         {
           "label": "",
@@ -1101,8 +1101,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Lord of Lethargy: Whenever the user sleeps in a bed, they fully restore a large sum of magicules, and any amount that would bring them above 100% is stored as temp MP.",
-      "description": "Lord of Lethargy: Whenever the user sleeps in a bed, they fully restore a large sum of magicules, and any amount that would bring them above 100% is stored as temp MP."
+      "summary": "Store surplus Magicules through rest and weaken enemies with drowsiness.",
+      "description": "Store surplus Magicules through rest and weaken enemies with drowsiness."
     },
     {
       "page_id": 867,
@@ -1136,8 +1136,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of Destruction",
-      "description": "Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of Destruction"
+      "summary": "Control fallen dream worlds, create illusions, and draw on stored Magicules.",
+      "description": "Control fallen dream worlds, create illusions, and draw on stored Magicules."
     },
     {
       "page_id": 868,
@@ -1179,9 +1179,9 @@
           "text": "Master Freezing Flame, aswell as 5 flame skills, Spatial Domination, Multilayer Barrier, have enough MP, murder 4.500 Mobs and have 15 subordinates"
         }
       ],
-      "source_partial": false,
-      "summary": "\"'What do you have there?' 'Nothing' The suspiciously Nihility based skill of Mass destruction being wielded:\"",
-      "description": "\"'What do you have there?' 'Nothing' The suspiciously Nihility based skill of Mass destruction being wielded:\""
+      "source_partial": true,
+      "summary": "Combine white freezing flames, soul collection, and nihility-based attacks.",
+      "description": "Combine white freezing flames, soul collection, and nihility-based attacks."
     },
     {
       "page_id": 871,
@@ -1356,9 +1356,9 @@
           "text": "Master Saint, have enough MP, master 5 holy Spells, win 7 raids"
         }
       ],
-      "source_partial": false,
-      "summary": "\"The power to sort out all mixed laws, prevent interference, and select pure energy\"",
-      "description": "\"The power to sort out all mixed laws, prevent interference, and select pure energy\""
+      "source_partial": true,
+      "summary": "Collect Spiritrons and channel purified holy attacks, Disintegration, and Melt Cut.",
+      "description": "Collect Spiritrons and channel purified holy attacks, Disintegration, and Melt Cut."
     },
     {
       "page_id": 882,

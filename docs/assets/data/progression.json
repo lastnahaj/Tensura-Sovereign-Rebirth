@@ -3396,19 +3396,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-gabriel/": {
       "title": "Gabriel, Lord of Patience",
-      "image": "assets/icons/skills/trnightmare-gabriel.svg",
+      "image": "assets/upstream/nightmares/skills/gabriel.jpeg",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-raguel/": {
       "title": "Raguel, Lord of Charity",
-      "image": "assets/icons/skills/trnightmare-raguel.svg",
+      "image": "assets/illustrations/skills/raguel.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-sariel/": {
       "title": "Sariel, Lord of Hope",
-      "image": "assets/icons/skills/trnightmare-sariel.svg",
+      "image": "assets/illustrations/skills/sariel.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3420,25 +3420,25 @@
     },
     "tensura-reference/skills/ultimate/nightmares-haniel/": {
       "title": "Haniel, Lord of Glory",
-      "image": "assets/icons/skills/trnightmare-haniel.svg",
+      "image": "assets/illustrations/skills/haniel.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-alternative/": {
       "title": "Alternative, Proxy Rights",
-      "image": "assets/icons/skills/trnightmare-alternative.svg",
+      "image": "assets/illustrations/skills/alternative.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-hamiel/": {
       "title": "Hamiel, King of Splendour",
-      "image": "assets/icons/skills/trnightmare-hamiel.svg",
+      "image": "assets/illustrations/skills/hamiel.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-shub-niggurath/": {
       "title": "Shub-Niggurath, King of Harvest",
-      "image": "assets/icons/skills/trnightmare-shub_niggurath.svg",
+      "image": "assets/illustrations/skills/shub-niggurath.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3450,7 +3450,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-astarte/": {
       "title": "Astarte, Lord of Heaven",
-      "image": "assets/icons/skills/trnightmare-astarte.svg",
+      "image": "assets/illustrations/skills/astarte.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3462,13 +3462,13 @@
     },
     "tensura-reference/skills/ultimate/nightmares-belphegor/": {
       "title": "Belphegor, Lord of Sloth",
-      "image": "assets/icons/skills/trnightmare-belphegor.svg",
+      "image": "assets/illustrations/skills/belphegor.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-astaroth/": {
       "title": "Astaroth, King of Fallen",
-      "image": "assets/icons/skills/trnightmare-astaroth.svg",
+      "image": "assets/illustrations/skills/astaroth.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3480,7 +3480,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-belial/": {
       "title": "Belial, Lord of The Dead",
-      "image": "assets/icons/skills/trnightmare-belial.svg",
+      "image": "assets/illustrations/skills/belial.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3534,7 +3534,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-metatron/": {
       "title": "Metatron, Lord of Purity",
-      "image": "assets/icons/skills/trnightmare-metatron.svg",
+      "image": "assets/illustrations/skills/metatron.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },

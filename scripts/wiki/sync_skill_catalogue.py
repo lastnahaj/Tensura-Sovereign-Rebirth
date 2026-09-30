@@ -257,14 +257,20 @@ def acquisition(text, page, decision):
         return render_acquisition_markdown("\n\n".join(lines), page), True
     # Some source articles describe acquisition under a prose heading.
     for heading in soup.find_all(["h2", "h3"]):
-        if not re.fullmatch(r"Obtaining|Obtainment|Acquisition|How to obtain", heading.get_text(" ", strip=True), re.I):
+        if not re.fullmatch(r"Obtaining|Obtainment(?: Method)?|Acquisition|How to obtain", heading.get_text(" ", strip=True), re.I):
             continue
         parts = []
         for node in heading.next_siblings:
-            if getattr(node, "name", None) in {"h2", "h3"}:
+            name = getattr(node, "name", None)
+            if name in {"h1", "h2"} or (heading.name == "h3" and name == "h3"):
                 break
-            if getattr(node, "name", None) in {"p", "ul", "ol"}:
-                parts.append(str(node))
+            if name in {"h3", "p", "ul", "ol"}:
+                # The source section remains below the summary: copied IDs would
+                # otherwise create ambiguous links to its nested routes.
+                fragment = BeautifulSoup(str(node), "html.parser")
+                for element in fragment.select("[id]"):
+                    del element["id"]
+                parts.append(str(fragment))
         if parts:
             return "".join(parts), True
     previous = soup.select_one(".druid-row-Previous .druid-data")

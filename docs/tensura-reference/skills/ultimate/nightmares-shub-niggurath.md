@@ -1,6 +1,6 @@
 ---
 title: Shub-Niggurath, King of Harvest
-description: 'Note: This will store your version of Uriel inside of Shub-Niggurath''s [ Skill Storage ]'
+description: "Store, recreate, duplicate, and bestow skills through a shared skill archive."
 tags:
 - King Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-shub_niggurath.svg" alt="Shub-Niggurath, King of Harvest emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/shub-niggurath.png" alt="Shub-Niggurath, King of Harvest illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Note: This will store your version of Uriel inside of Shub-Niggurath&#x27;s [ Skill Storage ]</p>
+<p>Store, recreate, duplicate, and bestow skills through a shared skill archive.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Obtainment_Method">Obtainment Method</a>
@@ -28,8 +28,12 @@ tags:
 
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
-<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p><strong>Documented prerequisite:</strong>
-<a href="../nightmares-uriel-lord-of-vow/" title="Uriel,">「Uriel, Lord of Vows」</a>, <a href="../nightmares-uriel-lord-of-oath/" title="Uriel">「Uriel, Lord of Oaths」</a></p><p>The source identifies this prerequisite but does not provide a complete obtainment method. Do not assume mastery alone unlocks the skill.</p></section>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p>Note: This will store your version of Uriel inside of Shub-Niggurath's [ Skill Storage ]
+</p><h3><span></span><span class="mw-headline">「Oath Lord, Uriel」</span></h3><ul><li>Method One:
+<ul><li>When the user has two Ultimate Skills, not including Uriel, and the user has 100 Skills Mastered.</li></ul></li></ul><ul><li>Method Two:
+<ul><li>The user alters Uriel, Lord of Oaths into Raguel, to evolve it into Cthuga for another player, which will evolve Uriel, Lord of Oaths into Shub-Niggurath, King of Harvest</li></ul></li></ul><h3><span></span><span class="mw-headline">「Vow Lord, Uriel」</span></h3><ul><li>Method
+<ul><li>When the user has two Ultimate Skills, not including Uriel, and the user has 100 Skills Mastered.</li></ul></li></ul><p><br/>
+</p></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
@@ -76,4 +80,6 @@ Toggle</div></div></div><div class="druid-section-container"><div data-druid-sec
 
 Tensura Nightmares reference adapted from [Shub-Niggurath](https://tensuranightmares.wiki.gg/wiki/Shub-Niggurath) on the Tensura Reincarnated Nightmares Wiki (revision `2795`, modified `2026-08-20T10:47:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

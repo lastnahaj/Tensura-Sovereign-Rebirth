@@ -1,6 +1,6 @@
 ---
 title: Astarte, Lord of Heaven
-description: Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine.
+description: "Evolve and recycle skills while generating Magicules through a magic furnace."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-astarte.svg" alt="Astarte, Lord of Heaven emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/astarte.png" alt="Astarte, Lord of Heaven illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine.</p>
+<p>Evolve and recycle skills while generating Magicules through a magic furnace.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -58,4 +58,6 @@ Master Designer, Master 100 skills, kill 500 mobs</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Astarte](https://tensuranightmares.wiki.gg/wiki/Astarte) on the Tensura Reincarnated Nightmares Wiki (revision `2780`, modified `2026-08-18T19:48:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

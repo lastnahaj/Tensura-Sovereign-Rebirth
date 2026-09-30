@@ -13,7 +13,7 @@ from urllib.parse import unquote, urlsplit
 from bs4 import BeautifulSoup
 
 from skill_catalogue import ACTIVE, ROOT, catalogue, inventory, nightmares_manifest
-from sync_skill_catalogue import DOCS, LABELS, generate, render_acquisition_markdown, route
+from sync_skill_catalogue import DOCS, LABELS, acquisition, generate, render_acquisition_markdown, route
 from skill_presentation import CATEGORIES
 
 
@@ -36,6 +36,10 @@ def main():
     generated_pages = json.loads(outputs["assets/data/skill-catalogue.json"])["pages"]
     progression = json.loads((DOCS / 'assets/data/progression.json').read_text(encoding='utf-8'))['nodes']
     errors = []
+    nested_routes = '<h2>Obtainment Method</h2><h3 id="first-route">First route</h3><p>Two other Ultimate Skills.</p><h3 id="second-route">Second route</h3><ul><li>Alter Uriel for another player.</li></ul><h2>Usage</h2><p>Not an acquisition condition.</p>'
+    nested, documented = acquisition(nested_routes, 'test.md', {'namespace': 'trnightmare', 'category': 'skills/ultimate'})
+    if not documented or any(part not in nested for part in ('Two other Ultimate Skills.', 'Alter Uriel for another player.')) or 'Not an acquisition condition.' in nested or 'id=' in nested:
+        errors.append('Nested source acquisition routes must remain complete without duplicate IDs or usage text')
     artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
     for skill_id, entry in artwork.items():
         asset = DOCS / entry['asset']
@@ -180,6 +184,8 @@ def main():
         for row in record["obtainment_rows"]:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:
                 errors.append(f"Source obtainment condition dropped: {record['registry_id']} / {row['label']}")
+        if record['registry_id'] == 'trnightmare:shub_niggurath' and any(condition not in panel_text for condition in ('100SkillsMastered', 'MethodTwo:', 'Raguel')):
+            errors.append('Shub-Niggurath acquisition panel omits a documented route')
     sample = render_acquisition_markdown("[Skill](../unique/great-mage.md#great-mage)", "tensura-reference/skills/ultimate/the-timeless-mage.md")
     if 'href="../../unique/great-mage/#great-mage"' not in sample:
         errors.append("Markdown acquisition route conversion failed")

@@ -1,6 +1,6 @@
 ---
 title: Astaroth, King of Fallen
-description: Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of Destruction
+description: "Control fallen dream worlds, create illusions, and draw on stored Magicules."
 tags:
 - King Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-astaroth.svg" alt="Astaroth, King of Fallen emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/astaroth.png" alt="Astaroth, King of Fallen illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of Destruction</p>
+<p>Control fallen dream worlds, create illusions, and draw on stored Magicules.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -24,6 +24,8 @@ tags:
 </div>
 </div>
 </section>
+
+<aside class="skill-evidence-note"><p><strong>Source naming conflict:</strong> Astaroth’s requirement calls the Astarte mode “Heavenly Design,” while the current Astarte article labels its crafting mode “Skill Evolution.” Their equivalence has not been verified; confirm the mode name against the installed build.</p></aside>
 
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
@@ -67,4 +69,6 @@ Astarte to have used Heavenly Design and Recycle 10 times each.</div></div></div
 
 Tensura Nightmares reference adapted from [Astaroth](https://tensuranightmares.wiki.gg/wiki/Astaroth) on the Tensura Reincarnated Nightmares Wiki (revision `2803`, modified `2026-08-20T11:46:36Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

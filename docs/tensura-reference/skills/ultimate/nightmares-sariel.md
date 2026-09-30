@@ -1,6 +1,6 @@
 ---
 title: Sariel, Lord of Hope
-description: 'Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob is too far away. If a subordinate dies to a damage source not from the owner, the user will gain 10% of the sub’s EP for each 60 points (5 minutes) it has - The maximum amount of EP can…'
+description: "Preserve subordinate strength, restore life, and create a protective backup body."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-sariel.svg" alt="Sariel, Lord of Hope emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/sariel.png" alt="Sariel, Lord of Hope illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob is too far away. If a subordinate dies to a damage source not from the owner, the user will gain 10% of the sub’s EP for each 60 points (5 minutes) it has - The maximum amount of EP can…</p>
+<p>Preserve subordinate strength, restore life, and create a protective backup body.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -78,4 +78,6 @@ Kill 100 or more Daemon mobs</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Sariel](https://tensuranightmares.wiki.gg/wiki/Sariel) on the Tensura Reincarnated Nightmares Wiki (revision `2534`, modified `2026-07-26T17:44:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

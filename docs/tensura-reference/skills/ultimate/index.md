@@ -95,16 +95,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="alternative, proxy rights when this is bestowed to you, u get one of the seven different abilities">
+<article class="reference-card" data-letter="A" data-search="alternative, proxy rights receive one of seven bestowed abilities through michael’s player manas.">
 <a href="nightmares-alternative/" aria-label="Open Alternative, Proxy Rights">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-alternative.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/alternative.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Alternative, Proxy Rights</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>When this is Bestowed to you, u get one of the seven different abilities</p>
+<p>Receive one of seven bestowed abilities through Michael’s player Manas.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -170,31 +170,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="astaroth, king of fallen fallen lord - the user becomes a majin alignment, however they take 15% less damage from holy and spiritual. the user gains the extra skill hand of creation and hand of…">
+<article class="reference-card" data-letter="A" data-search="astaroth, king of fallen control fallen dream worlds, create illusions, and draw on stored magicules.">
 <a href="nightmares-astaroth/" aria-label="Open Astaroth, King of Fallen">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-astaroth.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/astaroth.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Astaroth, King of Fallen</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Fallen Lord - The user becomes a Majin Alignment, however they take 15% less damage from Holy and Spiritual. The user gains the Extra Skill Hand of Creation and Hand Of…</p>
+<p>Control fallen dream worlds, create illusions, and draw on stored Magicules.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="astarte, lord of heaven heavenly lord - the user becomes a holy alignment. the user is considered divine.">
+<article class="reference-card" data-letter="A" data-search="astarte, lord of heaven evolve and recycle skills while generating magicules through a magic furnace.">
 <a href="nightmares-astarte/" aria-label="Open Astarte, Lord of Heaven">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-astarte.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/astarte.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Astarte, Lord of Heaven</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Heavenly Lord - The user becomes a Holy alignment. The user is considered Divine.</p>
+<p>Evolve and recycle skills while generating Magicules through a magic furnace.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -290,31 +290,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="belial, lord of the dead &quot;&#x27;what do you have there?&#x27; &#x27;nothing&#x27; the suspiciously nihility based skill of mass destruction being wielded:&quot;">
+<article class="reference-card" data-letter="B" data-search="belial, lord of the dead combine white freezing flames, soul collection, and nihility-based attacks.">
 <a href="nightmares-belial/" aria-label="Open Belial, Lord of The Dead">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-belial.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/belial.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Belial, Lord of The Dead</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;&#x27;What do you have there?&#x27; &#x27;Nothing&#x27; The suspiciously Nihility based skill of Mass destruction being wielded:&quot;</p>
+<p>Combine white freezing flames, soul collection, and nihility-based attacks.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="B" data-search="belphegor, lord of sloth lord of lethargy: whenever the user sleeps in a bed, they fully restore a large sum of magicules, and any amount that would bring them above 100% is stored as temp mp.">
+<article class="reference-card" data-letter="B" data-search="belphegor, lord of sloth store surplus magicules through rest and weaken enemies with drowsiness.">
 <a href="nightmares-belphegor/" aria-label="Open Belphegor, Lord of Sloth">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-belphegor.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/belphegor.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Belphegor, Lord of Sloth</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Lord of Lethargy: Whenever the user sleeps in a bed, they fully restore a large sum of magicules, and any amount that would bring them above 100% is stored as temp MP.</p>
+<p>Store surplus Magicules through rest and weaken enemies with drowsiness.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -365,16 +365,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="gabriel, lord of patience &quot;zaa warudooo. what do you mean &#x27;not the right one&#x27;?&quot;">
+<article class="reference-card" data-letter="G" data-search="gabriel, lord of patience freeze time and temperature, protect against heat, and wield ice-based control.">
 <a href="nightmares-gabriel/" aria-label="Open Gabriel, Lord of Patience">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-gabriel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/gabriel.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gabriel, Lord of Patience</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;ZAA WARUDOOO. What do you mean &#x27;not the right one&#x27;?&quot;</p>
+<p>Freeze time and temperature, protect against heat, and wield ice-based control.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -425,31 +425,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hamiel, king of splendour &quot;above all else, i will regenerate, no matter the injury&quot;">
+<article class="reference-card" data-letter="H" data-search="hamiel, king of splendour restore defenses, absorb damage, and retaliate with reflected force.">
 <a href="nightmares-hamiel/" aria-label="Open Hamiel, King of Splendour">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-hamiel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/hamiel.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hamiel, King of Splendour</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Above all else, i will regenerate, no matter the Injury&quot;</p>
+<p>Restore defenses, absorb damage, and retaliate with reflected force.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="haniel, lord of glory &quot;thou attempts are pityfull, as my glory shalt outshine thy being forevermore&quot;">
+<article class="reference-card" data-letter="H" data-search="haniel, lord of glory regenerate behind reinforced defenses and reflect incoming damage.">
 <a href="nightmares-haniel/" aria-label="Open Haniel, Lord of Glory">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-haniel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/haniel.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Haniel, Lord of Glory</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Thou attempts are pityfull, as my Glory shalt outshine thy being forevermore&quot;</p>
+<p>Regenerate behind reinforced defenses and reflect incoming damage.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -515,16 +515,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="metatron, lord of purity &quot;the power to sort out all mixed laws, prevent interference, and select pure energy&quot;">
+<article class="reference-card" data-letter="M" data-search="metatron, lord of purity collect spiritrons and channel purified holy attacks, disintegration, and melt cut.">
 <a href="nightmares-metatron/" aria-label="Open Metatron, Lord of Purity">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-metatron.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/metatron.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Metatron, Lord of Purity</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;The power to sort out all mixed laws, prevent interference, and select pure energy&quot;</p>
+<p>Collect Spiritrons and channel purified holy attacks, Disintegration, and Melt Cut.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -605,16 +605,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="R" data-search="raguel, lord of charity amplification and thought acceleration - the user regenerates magicules x2 as fast (4x as fast on mastery). the user gains +2 learning and mastery points. increase…">
+<article class="reference-card" data-letter="R" data-search="raguel, lord of charity amplify magic, accelerate thought, store energy, and support regeneration.">
 <a href="nightmares-raguel/" aria-label="Open Raguel, Lord of Charity">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-raguel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/raguel.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Raguel, Lord of Charity</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Amplification and Thought Acceleration - The user regenerates Magicules x2 as fast (4x as fast on mastery). The user gains +2 Learning and Mastery Points. Increase…</p>
+<p>Amplify magic, accelerate thought, store energy, and support regeneration.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -680,16 +680,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="sariel, lord of hope unyield: once a mob is named by the user, it will gain 1 (2 with mastery) unyielding point each 5s that it’s 30 blocks around the player, this will decrease if the mob…">
+<article class="reference-card" data-letter="S" data-search="sariel, lord of hope preserve subordinate strength, restore life, and create a protective backup body.">
 <a href="nightmares-sariel/" aria-label="Open Sariel, Lord of Hope">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-sariel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/sariel.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Sariel, Lord of Hope</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Unyield: Once a mob is named by the user, it will gain 1 (2 with Mastery) Unyielding Point each 5s that it’s 30 blocks around the player, this will decrease if the mob…</p>
+<p>Preserve subordinate strength, restore life, and create a protective backup body.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -710,16 +710,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="shub-niggurath, king of harvest note: this will store your version of uriel inside of shub-niggurath&#x27;s [ skill storage ]">
+<article class="reference-card" data-letter="S" data-search="shub-niggurath, king of harvest store, recreate, duplicate, and bestow skills through a shared skill archive.">
 <a href="nightmares-shub-niggurath/" aria-label="Open Shub-Niggurath, King of Harvest">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-shub_niggurath.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/shub-niggurath.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Shub-Niggurath, King of Harvest</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Note: This will store your version of Uriel inside of Shub-Niggurath&#x27;s [ Skill Storage ]</p>
+<p>Store, recreate, duplicate, and bestow skills through a shared skill archive.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

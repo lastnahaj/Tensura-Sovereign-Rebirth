@@ -1,6 +1,6 @@
 ---
 title: Alternative, Proxy Rights
-description: When this is Bestowed to you, u get one of the seven different abilities
+description: "Receive one of seven bestowed abilities through Michael’s player Manas."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-alternative.svg" alt="Alternative, Proxy Rights emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/alternative.png" alt="Alternative, Proxy Rights illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>When this is Bestowed to you, u get one of the seven different abilities</p>
+<p>Receive one of seven bestowed abilities through Michael’s player Manas.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -71,4 +71,6 @@ Have player manas of <a href="../nightmares-michael/" title="Michael.">「Michae
 
 Tensura Nightmares reference adapted from [Alternative](https://tensuranightmares.wiki.gg/wiki/Alternative) on the Tensura Reincarnated Nightmares Wiki (revision `2492`, modified `2026-07-26T17:23:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->
