@@ -800,11 +800,6 @@
       "image": "assets/upstream/tensura/magic/high-quality-magic-crystal-33d82fcb11.png",
       "category": "magic"
     },
-    "tensura-reference/resistances/holy-attack-nullification/": {
-      "title": "Holy Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/holy-attack-nullification-72e0a621d2.png",
-      "category": "resistances"
-    },
     "tensura-reference/resistances/holy-attack-resistance/": {
       "title": "Holy Attack Resistance",
       "image": "assets/upstream/tensura/resistances/holy-attack-resistance-2c9f909310.png",
@@ -1206,7 +1201,7 @@
       "category": "resistances"
     },
     "tensura-reference/resistances/physical-attack-nullification/": {
-      "title": "Physicial Attack Nullification",
+      "title": "Physical Attack Nullification",
       "image": "assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png",
       "category": "resistances"
     },
@@ -1824,11 +1819,6 @@
       "title": "Spearhead",
       "image": "assets/upstream/tensura/skills/spearhead-ab7cc5d028.png",
       "category": "skills/unique"
-    },
-    "tensura-reference/resistances/spellbinding-table/": {
-      "title": "Spellbinding Table",
-      "image": "assets/upstream/tensura/items/invicon-diamond-pickaxe-676ae7b86b.png",
-      "category": "resistances"
     },
     "tensura-reference/resistances/spiritual-attack-nullification/": {
       "title": "Spiritual Attack Nullification",

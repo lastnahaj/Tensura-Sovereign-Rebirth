@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Flame Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -30,11 +31,19 @@ tags:
 </div>
 </section>
 
+<aside class="skill-evidence-note"><strong>Acquisition source review.</strong> The current upstream article also lists copying or stealing from a Ghast. That source-described route is retained alongside awakening with Flame Attack Resistance; it has not been tested on the live server.</aside>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Resistances</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Resistances · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Copying/Stealing:</strong> Ghast</li><li><strong>Other:</strong>
+Awakening while in possession of <a class="mw-redirect" href="../flame-attack-resistance/" title="Abilities/Skills/Flame Attack Resistance">Flame Attack Resistance</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Flame Attack Nullification</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Flame_attack_nullification.png"><img alt="Flame attack nullification.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/flame-attack-nullification-91c84e10da.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
-<a class="mw-redirect" href="../flame-attack-resistance/" title="Abilities/Skills/Flame Attack Resistance">Flame Attack Resistance</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
+<a class="mw-redirect" href="../flame-attack-resistance/" title="Abilities/Skills/Flame Attack Resistance">Flame Attack Resistance</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-CopyingStealing" data-druid-section-row="Obtaining"><div class="druid-label druid-label-CopyingStealing">Copying/Stealing</div><div class="druid-data druid-data-CopyingStealing druid-data-nonempty">Ghast</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
 Awakening while in possession of <a class="mw-redirect" href="../flame-attack-resistance/" title="Abilities/Skills/Flame Attack Resistance">Flame Attack Resistance</a></div></div></div></div>
 <p>Flame Attack Nullification is a Resistance Skill in Tensura: Reincarnated.
 </p>
@@ -57,28 +66,28 @@ Awakening while in possession of <a class="mw-redirect" href="../flame-attack-re
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../electricity-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/electricity-resistance-6d25cbff6b.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/electricity-resistance-6d25cbff6b.png"/>
 <span class="reference-related-copy">
 <strong>Electricity Resistance</strong>
 <small>Electricity Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../flame-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/flame-attack-resistance-cbcf8ae885.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/flame-attack-resistance-cbcf8ae885.png"/>
 <span class="reference-related-copy">
 <strong>Flame Attack Resistance</strong>
 <small>Flame Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../electricity-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/electricity-nullification-2dace8feae.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/electricity-nullification-2dace8feae.png"/>
 <span class="reference-related-copy">
 <strong>Electricity Nullification</strong>
 <small>Electricity Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../gravity-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/gravity-attack-nullification-f56b5174e7.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/gravity-attack-nullification-f56b5174e7.png"/>
 <span class="reference-related-copy">
 <strong>Gravity Attack Nullification</strong>
 <small>Gravity Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -90,6 +99,8 @@ Awakening while in possession of <a class="mw-redirect" href="../flame-attack-re
 ---
 
 ## Source and licensing
+
+Acquisition reviewed against the live source on September 29, 2026. The Ghast copying/stealing entry reflects that review; original text-import provenance is retained below.
 
 Base Tensura reference adapted from [Flame Attack Nullification](https://tensura.wiki.gg/wiki/Flame_Attack_Nullification) on the Tensura: Reincarnated Wiki (revision `9685`, modified `2025-05-29T22:20:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Thermal Fluctuation Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Tips">Tips</a>
 </nav>
@@ -30,6 +31,13 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Resistances</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Resistances · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Combination of <a href="../cold-resistance/" title="Cold Resistance">Cold Resistance</a> and <a href="../heat-resistance/" title="Heat Resistance">Heat Resistance</a></li><li><strong>Other2:</strong>
+Combination of <a href="../cold-nullification/" title="Cold Nullification">Cold Nullification</a> and <a href="../heat-nullification/" title="Heat Nullification">Heat Nullification</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Thermal Fluctuation Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Thermal_fluctuation_resistance.png"><img alt="Thermal fluctuation resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/thermal-fluctuation-resistance-60600c8030.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -70,28 +78,28 @@ Combination of <a href="../cold-nullification/" title="Cold Nullification">Cold 
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../thermal-fluctuation-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/thermal-fluctuation-nullification-1567b3f54d.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/thermal-fluctuation-nullification-1567b3f54d.png"/>
 <span class="reference-related-copy">
 <strong>Thermal Fluctuation Nullification</strong>
 <small>Thermal Fluctuation Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../water-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/water-attack-nullification-da5643ea35.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/water-attack-nullification-da5643ea35.png"/>
 <span class="reference-related-copy">
 <strong>Water Attack Nullification</strong>
 <small>Water Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritual-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png"/>
 <span class="reference-related-copy">
 <strong>Spiritual Attack Resistance</strong>
 <small>Spiritual Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../water-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/water-attack-resistance-0616d22f34.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/water-attack-resistance-0616d22f34.png"/>
 <span class="reference-related-copy">
 <strong>Water Attack Resistance</strong>
 <small>Water Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>

@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Holy Attack Nullification
 description: '!!! Unobtainable without commands !!! Holy Attack Nullification is a Resistance Skill in Tensura: Reincarnated When toggled, nullifies all forms of Holy damage. View or edit this templateSkillsIntrinsic SkillsAbsorb & Dissolve • Beast Transformation • Blood Mist • Body Armor • Charm • Darkness Transform...'
 tags:
@@ -12,6 +14,10 @@ tags:
 
 **Also known as:** Abilities/Skills/Holy Attack Nullification
 
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2 id="reference-status">Reference status</h2><p>The upstream article describes Holy Attack Nullification as obtainable only through commands. No normal player acquisition route has been verified; this entry is reference-only.</p><a href="../../skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
+
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/upstream/tensura/resistances/holy-attack-nullification-72e0a621d2.png" alt="Holy Attack Nullification source reference" loading="eager" decoding="async">
@@ -21,6 +27,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>!!! Unobtainable without commands !!!</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#reference-status">Reference status</a>
 <a href="#Effect">Effect</a>
 </nav>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
@@ -56,28 +63,28 @@ Toggled</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../heat-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/heat-resistance-86c26cc740.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/heat-resistance-86c26cc740.png"/>
 <span class="reference-related-copy">
 <strong>Heat Resistance</strong>
 <small>Heat Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../holy-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/holy-attack-resistance-2c9f909310.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/holy-attack-resistance-2c9f909310.png"/>
 <span class="reference-related-copy">
 <strong>Holy Attack Resistance</strong>
 <small>Holy Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../heat-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/heat-nullification-0b3f178e06.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/heat-nullification-0b3f178e06.png"/>
 <span class="reference-related-copy">
 <strong>Heat Nullification</strong>
 <small>Heat Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/light-attack-nullification-e6d5d9918f.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/light-attack-nullification-e6d5d9918f.png"/>
 <span class="reference-related-copy">
 <strong>Light Attack Nullification</strong>
 <small>Light Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>

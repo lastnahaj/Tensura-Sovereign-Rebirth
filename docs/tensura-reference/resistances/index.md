@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="resistances">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Resistances</h1><p>Resistance, immunity, nullification, and cancellation abilities.</p><span class="skill-entry-count">45 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Resistances</h1><p>Resistance, immunity, nullification, and cancellation abilities.</p><span class="skill-entry-count">43 entries</span></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../skills/">All abilities</a><a href="../skills/intrinsic/">Intrinsic</a><a href="../skills/common/">Common</a><a href="../skills/extra/">Extra</a><a href="../skills/unique/">Unique</a><a href="../skills/ultimate/">Ultimate</a><a href="../battlewill/">Battlewill</a><a href="../magic/">Magic</a><a href="./" aria-current="page">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
@@ -30,7 +30,7 @@ hide:
 <button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 45 of 45 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 43 of 43 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="abnormal condition nullification abnormal condition nullification is a resistance skill in tensura: reincarnated.">
@@ -303,21 +303,6 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="holy attack nullification !!! unobtainable without commands !!!">
-<a href="holy-attack-nullification/" aria-label="Open Holy Attack Nullification">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/resistances/holy-attack-nullification-72e0a621d2.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Holy Attack Nullification</h2>
-
-<p>!!! Unobtainable without commands !!!</p>
-
-<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="H" data-search="holy attack resistance holy attack resistance is a resistance skill in tensura: reincarnated.">
 <a href="holy-attack-resistance/" aria-label="Open Holy Attack Resistance">
 <figure class="reference-card-media reference-card-media--source">
@@ -438,6 +423,21 @@ hide:
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="P" data-search="physical attack nullification physical attack nullification is a resistance skill in tensura: reincarnated.">
+<a href="physical-attack-nullification/" aria-label="Open Physical Attack Nullification">
+<figure class="reference-card-media reference-card-media--source">
+<img src="../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Physical Attack Nullification</h2>
+
+<p>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
+
+<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="P" data-search="physical attack resistance physical attack resistance is a resistance skill in tensura: reincarnated.">
 <a href="physical-attack-resistance/" aria-label="Open Physical Attack Resistance">
 <figure class="reference-card-media reference-card-media--source">
@@ -448,21 +448,6 @@ hide:
 <h2>Physical Attack Resistance</h2>
 
 <p>Physical Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
-
-<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="P" data-search="physicial attack nullification physical attack nullification is a resistance skill in tensura: reincarnated.">
-<a href="physical-attack-nullification/" aria-label="Open Physicial Attack Nullification">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Physicial Attack Nullification</h2>
-
-<p>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -553,21 +538,6 @@ hide:
 <h2>Spatial Attack Resistance</h2>
 
 <p>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
-
-<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="S" data-search="spellbinding table a table for binding spells.">
-<a href="spellbinding-table/" aria-label="Open Spellbinding Table">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-diamond-pickaxe-676ae7b86b.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Spellbinding Table</h2>
-
-<p>A table for binding spells.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

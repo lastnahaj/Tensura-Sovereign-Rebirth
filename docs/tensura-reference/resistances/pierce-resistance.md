@@ -21,6 +21,7 @@ tags:
 <p class="reference-eyebrow">At a glance</p>
 <p>Pierce Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Effect">Effect</a>
 <a href="#Obtainment">Obtainment</a>
 <a href="#Tips">Tips</a>
@@ -31,6 +32,12 @@ tags:
 </div>
 </div>
 </section>
+
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Resistances</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Resistances · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Taking over 15 damage at once from any source of piercing attacks.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Pierce Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Pierce_resistance.png"><img alt="Pierce resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/pierce-resistance-503c545c51.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
@@ -73,28 +80,28 @@ a spear or a trident.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../pierce-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/pierce-nullification-cb360f52d9.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/pierce-nullification-cb360f52d9.png"/>
 <span class="reference-related-copy">
 <strong>Pierce Nullification</strong>
 <small>Pierce Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/poison-nullification-9d13a1e369.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/poison-nullification-9d13a1e369.png"/>
 <span class="reference-related-copy">
 <strong>Poison Nullification</strong>
 <small>Poison Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../physical-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png"/>
 <span class="reference-related-copy">
 <strong>Physicial Attack Nullification</strong>
 <small>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/poison-resistance-0641fa05ff.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/poison-resistance-0641fa05ff.png"/>
 <span class="reference-related-copy">
 <strong>Poison Resistance</strong>
 <small>Poison Resistance is a Resistance Skill in Tensura: Reincarnated.</small>

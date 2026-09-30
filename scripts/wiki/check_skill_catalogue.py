@@ -58,6 +58,17 @@ def main():
     policy = catalogue()
     pool = inventory()
     nightmares = nightmares_manifest()
+    resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
+    resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
+    if len(resistance_entries) != 41:
+        errors.append("Core resistance catalogue must include 41 matched player entries, excluding command-only Holy Attack Nullification")
+    if policy["pages"].get("tensura-reference/resistances/holy-attack-nullification.md", {}).get("status") != "unavailable":
+        errors.append("Command-only Holy Attack Nullification must remain reference-only")
+    for record in resistance_records:
+        if record["category"] == "resistances" and record["local_page"] not in policy["pages"]:
+            errors.append(f'Resistance article missing a registry decision: {record["local_page"]}')
+    if policy["pages"].get("tensura-reference/resistances/spellbinding-table.md", {}).get("status") != "guide":
+        errors.append("Spellbinding Table must not be presented as a resistance skill")
     active = {p: d for p, d in policy["pages"].items() if d["status"] in ACTIVE}
     for page, decision in active.items():
         if generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
@@ -66,6 +77,9 @@ def main():
         if any(re.fullmatch(r'x|\?{2,}|TBD|Coming soon', cell.get_text(strip=True), re.I) for cell in article.select('.druid-data')):
             errors.append(f'Undefined infobox placeholder in active skill: {page}')
     sandalphon = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-sandalphon-judgment.md'], 'html.parser')
+    flame_nullification = BeautifulSoup(outputs['tensura-reference/resistances/flame-attack-nullification.md'], 'html.parser')
+    if any(value not in flame_nullification.select_one('.skill-obtainment').get_text(' ', strip=True) for value in ('Ghast', 'Flame Attack Resistance')):
+        errors.append('Flame Attack Nullification acquisition panel omits a reviewed source route')
     if sandalphon.select_one('#Passive_2').get_text(strip=True) != 'Active abilities':
         errors.append('Sandalphon active abilities mislabeled as passives')
     active_routes = {route(p): d for p, d in active.items()}

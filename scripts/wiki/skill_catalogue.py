@@ -9,10 +9,13 @@ ROOT = Path(__file__).resolve().parents[2]
 POOL = ROOT / "pack/config/tensura_skill_books/tensura_skill_books-random-skills.txt"
 TYPES = {name.upper(): "skills/" + name for name in ("common", "extra", "intrinsic", "unique", "ultimate")}
 TYPES.update({"COMBAT": "battlewill", "MAGIC_ASPECTUAL": "magic", "MAGIC_SPIRITUAL": "magic", "MAGIC_SUMMONING": "magic", "RESISTANCE": "resistances"})
-GUIDES = {"Abilities", "Abilities/Skills", "Bypass/Degrade Skills", "Mastery Boost Skills", "Ultimate Skill Aquisition"}
+GUIDES = {"Abilities", "Abilities/Skills", "Bypass/Degrade Skills", "Mastery Boost Skills", "Ultimate Skill Aquisition", "Spellbinding Table"}
 ALIASES = {"ascension:shadowdummy": "ascension:image_training"}
 # Registration alone is not a completed gameplay feature.
-HELD = {"mysticism:embryo": "The pinned implementation is an unfinished skill; no completed effect is documented."}
+HELD = {
+    "mysticism:embryo": "The pinned implementation is an unfinished skill; no completed effect is documented.",
+    "tensura:holy_attack_nullification": "The upstream article describes Holy Attack Nullification as obtainable only through commands. No normal player acquisition route has been verified; this entry is reference-only.",
+}
 ACTIVE = {"registered", "reference"}
 
 
@@ -53,7 +56,7 @@ def catalogue() -> dict:
         manifest = json.loads((ROOT / f"data/upstream_{namespace}_pages.json").read_text(encoding="utf-8"))
         for record in manifest["pages"]:
             identifier = identify(namespace, record["display_title"], pool) or identify(namespace, record["source_title"], pool)
-            is_skill = record["category"].startswith("skills/")
+            is_skill = record["category"].startswith("skills/") or record["category"] == "resistances"
             if not is_skill:
                 if not (identifier and record["category"] == "magic" and pool[identifier]["category"].startswith("skills/")):
                     continue
@@ -71,6 +74,7 @@ def catalogue() -> dict:
                 "category": pool[identifier]["category"] if identifier else record["category"],
                 "title": record["display_title"], "source": record["source_url"],
                 "revision": record["revision_id"], "namespace": namespace,
+                **({"availability_reason": HELD[identifier]} if identifier in HELD else {}),
             }
     maintained = json.loads((ROOT / "data/ascension_reference.json").read_text(encoding="utf-8"))
     for entry in maintained["entries"]:

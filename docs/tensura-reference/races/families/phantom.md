@@ -43,7 +43,7 @@ Yes</dd><dt>Intrinsics</dt><dd>
 Chaos</dd><dt>Spiritual</dt><dd>
 Yes</dd><dt>Divine</dt><dd>
 Yes</dd><dt>Intrinsics</dt><dd>
-<a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Darkness_Attack_Resistance">Darkness Attack Resistance</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../../../mysticism-reference/races/mystic-angel/">Open full Mystic Angel reference</a></dd></dl><p class="race-card-route"><span><a href="#staff-officer">← Staff Officer</a></span><span>No further evolution documented</span></p></article>
+<a class="external text" href="../../../resistances/darkness-attack-resistance/">Darkness Attack Resistance</a></dd><dt>Requirements &amp; abilities</dt><dd><a href="../../../../mysticism-reference/races/mystic-angel/">Open full Mystic Angel reference</a></dd></dl><p class="race-card-route"><span><a href="#staff-officer">← Staff Officer</a></span><span>No further evolution documented</span></p></article>
 </div>
 
 ## Connections to other families

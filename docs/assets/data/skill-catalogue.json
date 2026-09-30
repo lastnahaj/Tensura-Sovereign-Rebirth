@@ -23,6 +23,26 @@
       "namespace": "tensura",
       "obtainment_documented": false
     },
+    "tensura-reference/resistances/abnormal-condition-nullification.md": {
+      "id": "tensura:abnormal_condition_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Abnormal Condition Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Nullification",
+      "revision": 13356,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/abnormal-condition-resistance.md": {
+      "id": "tensura:abnormal_condition_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Abnormal Condition Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance",
+      "revision": 12896,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/absolute-severance.md": {
       "id": "tensura:absolute_severance",
       "status": "registered",
@@ -233,6 +253,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/cold-nullification.md": {
+      "id": "tensura:cold_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Cold Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Cold_Nullification",
+      "revision": 8416,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/cold-resistance.md": {
+      "id": "tensura:cold_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Cold Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Cold_Resistance",
+      "revision": 13376,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/commander.md": {
       "id": "tensura:commander",
       "status": "registered",
@@ -263,6 +303,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/corrosion-nullification.md": {
+      "id": "tensura:corrosion_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Corrosion Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Corrosion_Nullification",
+      "revision": 9675,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/corrosion-resistance.md": {
+      "id": "tensura:corrosion_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Corrosion Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Corrosion_Resistance",
+      "revision": 13154,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/creator.md": {
       "id": "tensura:creator",
       "status": "registered",
@@ -280,6 +340,26 @@
       "title": "Danger Sense",
       "source": "https://tensura.wiki.gg/wiki/Danger_Sense",
       "revision": 11069,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/darkness-attack-nullification.md": {
+      "id": "tensura:darkness_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Darkness Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Darkness_Attack_Nullification",
+      "revision": 9678,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/darkness-attack-resistance.md": {
+      "id": "tensura:darkness_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Darkness Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Darkness_Attack_Resistance",
+      "revision": 10100,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -383,6 +463,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/earth-attack-nullification.md": {
+      "id": "tensura:earth_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Earth Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Attack_Nullification",
+      "revision": 9681,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/earth-attack-resistance.md": {
+      "id": "tensura:earth_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Earth Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Earth_Attack_Resistance",
+      "revision": 10101,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/earth-domination.md": {
       "id": "tensura:earth_domination",
       "status": "registered",
@@ -410,6 +510,26 @@
       "title": "Earth Transform",
       "source": "https://tensura.wiki.gg/wiki/Earth_Transform",
       "revision": 8652,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/electricity-nullification.md": {
+      "id": "tensura:electricity_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Electricity Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Electricity_Nullification",
+      "revision": 9683,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/electricity-resistance.md": {
+      "id": "tensura:electricity_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Electricity Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Electricity_Resistance",
+      "revision": 13378,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -470,6 +590,26 @@
       "title": "Fighter",
       "source": "https://tensura.wiki.gg/wiki/Fighter",
       "revision": 12693,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/flame-attack-nullification.md": {
+      "id": "tensura:flame_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Flame Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Flame_Attack_Nullification",
+      "revision": 9685,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/flame-attack-resistance.md": {
+      "id": "tensura:flame_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Flame Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Flame_Attack_Resistance",
+      "revision": 13377,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -583,6 +723,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/gravity-attack-nullification.md": {
+      "id": "tensura:gravity_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Gravity Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Gravity_Attack_Nullification",
+      "revision": 11341,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/gravity-attack-resistance.md": {
+      "id": "tensura:gravity_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Gravity Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Gravity_Attack_Resistance",
+      "revision": 11339,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/gravity-domination.md": {
       "id": "tensura:gravity_domination",
       "status": "registered",
@@ -673,6 +833,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/heat-nullification.md": {
+      "id": "tensura:heat_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Heat Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Heat_Nullification",
+      "revision": 12444,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/heat-resistance.md": {
+      "id": "tensura:heat_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Heat Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Heat_Resistance",
+      "revision": 12445,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/heat-wave.md": {
       "id": "tensura:heat_wave",
       "status": "registered",
@@ -700,6 +880,27 @@
       "title": "Hero Haki",
       "source": "https://tensura.wiki.gg/wiki/Hero_Haki",
       "revision": 8513,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/holy-attack-nullification.md": {
+      "id": "tensura:holy_attack_nullification",
+      "status": "unavailable",
+      "category": "resistances",
+      "title": "Holy Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Holy_Attack_Nullification",
+      "revision": 12497,
+      "namespace": "tensura",
+      "availability_reason": "The upstream article describes Holy Attack Nullification as obtainable only through commands. No normal player acquisition route has been verified; this entry is reference-only.",
+      "obtainment_documented": false
+    },
+    "tensura-reference/resistances/holy-attack-resistance.md": {
+      "id": "tensura:holy_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Holy Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Holy_Attack_Resistance",
+      "revision": 12473,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -740,6 +941,26 @@
       "title": "Law Manipulation",
       "source": "https://tensura.wiki.gg/wiki/Law_Manipulation",
       "revision": 12665,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/light-attack-nullification.md": {
+      "id": "tensura:light_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Light Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Light_Attack_Nullification",
+      "revision": 12489,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/light-attack-resistance.md": {
+      "id": "tensura:light_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Light Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Light_Attack_Resistance",
+      "revision": 12491,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -1023,6 +1244,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/pain-nullification.md": {
+      "id": "tensura:pain_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Pain Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Pain_Nullification",
+      "revision": 12487,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/pain-resistance.md": {
+      "id": "tensura:pain_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Pain Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Pain_Resistance",
+      "revision": 12485,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/intrinsic/paralysing-breath.md": {
       "id": "tensura:paralysing_breath",
       "status": "registered",
@@ -1043,6 +1284,66 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/paralysis-nullification.md": {
+      "id": "tensura:paralysis_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Paralysis Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Paralysis_Nullification",
+      "revision": 12483,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/paralysis-resistance.md": {
+      "id": "tensura:paralysis_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Paralysis Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Paralysis_Resistance",
+      "revision": 12903,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/physical-attack-nullification.md": {
+      "id": "tensura:physical_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Physical Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Physical_Attack_Nullification",
+      "revision": 8885,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/physical-attack-resistance.md": {
+      "id": "tensura:physical_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Physical Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Physical_Attack_Resistance",
+      "revision": 10113,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/pierce-nullification.md": {
+      "id": "tensura:pierce_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Pierce Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Pierce_Nullification",
+      "revision": 12499,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/pierce-resistance.md": {
+      "id": "tensura:pierce_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Pierce Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Pierce_Resistance",
+      "revision": 12448,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/poison.md": {
       "id": "tensura:poison",
       "status": "registered",
@@ -1050,6 +1351,26 @@
       "title": "Poison",
       "source": "https://tensura.wiki.gg/wiki/Poison",
       "revision": 13363,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/poison-nullification.md": {
+      "id": "tensura:poison_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Poison Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Poison_Nullification",
+      "revision": 12501,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/poison-resistance.md": {
+      "id": "tensura:poison_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Poison Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Poison_Resistance",
+      "revision": 12503,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -1333,6 +1654,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/spatial-attack-nullification.md": {
+      "id": "tensura:spatial_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Spatial Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Spatial_Attack_Nullification",
+      "revision": 12505,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/spatial-attack-resistance.md": {
+      "id": "tensura:spatial_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Spatial Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Spatial_Attack_Resistance",
+      "revision": 12507,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/spatial-domination.md": {
       "id": "tensura:spatial_domination",
       "status": "registered",
@@ -1370,6 +1711,36 @@
       "title": "Spearhead",
       "source": "https://tensura.wiki.gg/wiki/Spearhead",
       "revision": 12711,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/spellbinding-table.md": {
+      "id": null,
+      "status": "guide",
+      "category": "resistances",
+      "title": "Spellbinding Table",
+      "source": "https://tensura.wiki.gg/wiki/Spellbinding_Table",
+      "revision": 12066,
+      "namespace": "tensura",
+      "obtainment_documented": false
+    },
+    "tensura-reference/resistances/spiritual-attack-nullification.md": {
+      "id": "tensura:spiritual_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Spiritual Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Nullification",
+      "revision": 12509,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/spiritual-attack-resistance.md": {
+      "id": "tensura:spiritual_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Spiritual Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Resistance",
+      "revision": 13352,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -1450,6 +1821,26 @@
       "title": "Telepathy",
       "source": "https://tensura.wiki.gg/wiki/Telepathy",
       "revision": 8620,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/thermal-fluctuation-nullification.md": {
+      "id": "tensura:thermal_fluctuation_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Thermal Fluctuation Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Nullification",
+      "revision": 12436,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/thermal-fluctuation-resistance.md": {
+      "id": "tensura:thermal_fluctuation_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Thermal Fluctuation Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Resistance",
+      "revision": 12443,
       "namespace": "tensura",
       "obtainment_documented": true
     },
@@ -1613,6 +2004,26 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/resistances/water-attack-nullification.md": {
+      "id": "tensura:water_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Water Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Water_Attack_Nullification",
+      "revision": 12511,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/water-attack-resistance.md": {
+      "id": "tensura:water_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Water Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Water_Attack_Resistance",
+      "revision": 13391,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/water-blade.md": {
       "id": "tensura:water_blade",
       "status": "registered",
@@ -1690,6 +2101,26 @@
       "title": "Weather Manipulation",
       "source": "https://tensura.wiki.gg/wiki/Weather_Manipulation",
       "revision": 8592,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/wind-attack-nullification.md": {
+      "id": "tensura:wind_attack_nullification",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Wind Attack Nullification",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Attack_Nullification",
+      "revision": 12513,
+      "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/resistances/wind-attack-resistance.md": {
+      "id": "tensura:wind_attack_resistance",
+      "status": "registered",
+      "category": "resistances",
+      "title": "Wind Attack Resistance",
+      "source": "https://tensura.wiki.gg/wiki/Wind_Attack_Resistance",
+      "revision": 13375,
       "namespace": "tensura",
       "obtainment_documented": true
     },

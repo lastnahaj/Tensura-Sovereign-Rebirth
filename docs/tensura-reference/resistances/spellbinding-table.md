@@ -1,8 +1,9 @@
 ---
+search:
+  exclude: true
 title: Spellbinding Table
 description: A table for binding spells. Can be used to bind spells to Grimoires and Staffs.
 tags:
-- Work_in_Progress
 - Pages_with_broken_file_links
 - Missing_blast_resistance
 - Pages_with_overridden_hardness
@@ -13,6 +14,10 @@ tags:
 # Spellbinding Table
 
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Resistances</span>
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This is a guide, not an individual skill.</p><a href="../../skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -34,14 +39,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP11.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip11-ddf1d3e3ac.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Spellbinding_Table?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Spellbinding Table</div>
 <div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
 <p>Spellbinding Table
@@ -137,28 +135,28 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../spatial-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/spatial-attack-resistance-b8d6e51ab2.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spatial-attack-resistance-b8d6e51ab2.png"/>
 <span class="reference-related-copy">
 <strong>Spatial Attack Resistance</strong>
 <small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritual-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/spiritual-attack-nullification-7e9a43565d.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spiritual-attack-nullification-7e9a43565d.png"/>
 <span class="reference-related-copy">
 <strong>Spiritual Attack Nullification</strong>
 <small>Spiritual Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spatial-attack-nullification/">
-<img src="../../../assets/upstream/tensura/resistances/spatial-attack-nullification-0fea80c81d.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spatial-attack-nullification-0fea80c81d.png"/>
 <span class="reference-related-copy">
 <strong>Spatial Attack Nullification</strong>
 <small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritual-attack-resistance/">
-<img src="../../../assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png" alt="" loading="lazy" decoding="async">
+<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png"/>
 <span class="reference-related-copy">
 <strong>Spiritual Attack Resistance</strong>
 <small>Spiritual Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -176,7 +174,6 @@ Base Tensura reference adapted from [Spellbinding Table](https://tensura.wiki.gg
 <details class="reference-media-credits">
 <summary>Media credits (2 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5559</li>
 </ul>
 </details>
