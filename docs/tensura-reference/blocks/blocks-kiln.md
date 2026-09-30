@@ -1,8 +1,7 @@
 ---
 title: Kiln
-description: To activate, right click the Kiln to open the menu Middle Slot is for the Output, There are arrows either side to swap which item you wish to meld. Right Side - Top is for what you wish to Smelt Right Side - Bottom is for your fuel The Kiln smelt raw Magic Ore Shard, creating Molten Magisteel. The Molten...
+description: "A processing station that melts Magic Ore Shards into Molten Magisteel and refines that material into ingots."
 tags:
-- Work_in_Progress
 - Resources_with_invalid_renewability
 - Stackable_resources
 ---
@@ -18,7 +17,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>To activate, right click the Kiln to open the menu</p>
+<p>A processing station that melts Magic Ore Shards into Molten Magisteel and refines that material into ingots.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Usage">Usage</a>
 <a href="#Crafting">Crafting</a>
@@ -31,14 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Kiln?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Kiln</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Kiln.png"><img alt="Kiln.png: Infobox image for Kiln the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Kiln
@@ -196,7 +188,6 @@ Base Tensura reference adapted from [Blocks/Kiln](https://tensura.wiki.gg/wiki/B
 <summary>Media credits (22 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kiln.png">Invicon Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6913</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Kiln.png">Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4151</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5559</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Kiln_GUI.png">Kiln GUI.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10009</li>

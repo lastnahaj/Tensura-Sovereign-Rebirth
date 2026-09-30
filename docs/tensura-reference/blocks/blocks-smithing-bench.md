@@ -1,8 +1,7 @@
 ---
 title: Smithing Bench
-description: 'The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the gear created with the Smithing Bench is unlocked through Schematics. Here is a list of all the gear sets the Smithing Bench is used to craft: Monster Leather (D) SetClick to show more...'
+description: "The workstation used to craft Tensura armor, weapons, tools, and other schematic-gated equipment."
 tags:
-- Work_in_Progress
 - Pages_with_overridden_hardness
 - Non-renewable_resources
 - Stackable_resources
@@ -23,7 +22,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the gear created with the Smithing Bench is unlocked through Schematics .</p>
+<p>The workstation used to craft Tensura armor, weapons, tools, and other schematic-gated equipment.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#Monster_Leather">Monster Leather</a>
 <a href="#Magisteel">Magisteel</a>
@@ -38,15 +37,13 @@ tags:
 </div>
 </section>
 
+<!-- block-verification:start -->
+!!! note "Recipe coverage"
+    The imported catalogue lists some set names without full recipes. Those names are preserved for reference, not treated as verified crafting instructions or proof of availability in this pack. Check the in-game recipe browser before gathering materials for an undocumented set.
+<!-- block-verification:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP12.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Smithing_Bench?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Smithing Bench</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png"><img alt="Smithing Bench.png: Infobox image for Smithing Bench the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Smithing Bench
@@ -140,7 +137,7 @@ tags:
 <p>Here is a list of all the gear sets the Smithing Bench is used to craft:
 </p>
 <h2><span class="mw-headline" id="Monster_Leather">Monster Leather</span></h2>
-<div class="collapsible-header"><code><b>Monster Leather (D) Set</b></code>Click to show more</div>
+<div class="collapsible-header"><code><b>Monster Leather (D) Set</b></code></div>
 <div class="collapsible-content">
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
@@ -186,7 +183,7 @@ tags:
 </p><p><br/>
 </p>
 </div>
-<div class="collapsible-header"><code><b>Monster Leather (C) Set</b></code>Click to show more</div>
+<div class="collapsible-header"><code><b>Monster Leather (C) Set</b></code></div>
 <div class="collapsible-content">
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
@@ -232,7 +229,7 @@ tags:
 </p><p><br/>
 </p>
 </div>
-<div class="collapsible-header"><code><b>Monster Leather (B) Set</b></code>Click to show more</div>
+<div class="collapsible-header"><code><b>Monster Leather (B) Set</b></code></div>
 <div class="collapsible-content">
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
@@ -278,7 +275,7 @@ tags:
 </p><p><br/>
 </p>
 </div>
-<div class="collapsible-header"><code><b>Monster Leather (A) Set</b></code>Click to show more</div>
+<div class="collapsible-header"><code><b>Monster Leather (A) Set</b></code></div>
 <div class="collapsible-content">
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
@@ -324,7 +321,7 @@ tags:
 </p><p><br/>
 </p>
 </div>
-<div class="collapsible-header"><code><b>Monster Leather (Special A) Set</b></code>Click to show more</div>
+<div class="collapsible-header"><code><b>Monster Leather (Special A) Set</b></code></div>
 <div class="collapsible-content">
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
@@ -370,22 +367,22 @@ tags:
 </p><p><br/>
 </p>
 </div>
-<ul><li>Dark Set (WIP)</li></ul>
+<ul><li>Dark Set</li></ul>
 <h2><span class="mw-headline" id="Magisteel">Magisteel</span></h2>
-<ul><li>Silver Set (WIP)</li>
-<li>Low Magisteel Set (WIP)</li>
-<li>High Magisteel Set (WIP)</li>
-<li>Pure Magisteel Set (WIP)</li>
-<li>Adamantite Set (WIP)</li>
-<li>Mithril Set (WIP)</li>
-<li>Orichalcum Set (WIP)</li>
-<li>Hihi'Irokani Set (WIP)</li></ul>
+<ul><li>Silver Set</li>
+<li>Low Magisteel Set</li>
+<li>High Magisteel Set</li>
+<li>Pure Magisteel Set</li>
+<li>Adamantite Set</li>
+<li>Mithril Set</li>
+<li>Orichalcum Set</li>
+<li>Hihi'Irokani Set</li></ul>
 <h2><span class="mw-headline" id="Monster_Drops">Monster Drops</span></h2>
-<ul><li>Ant Set (WIP)</li>
-<li>Armorsaurus Set (WIP)</li>
-<li>Charybdis Set (WIP)</li>
-<li>Knight Spider Set (WIP)</li>
-<li>Serpent Set (WIP)</li></ul>
+<ul><li>Ant Set</li>
+<li>Armorsaurus Set</li>
+<li>Charybdis Set</li>
+<li>Knight Spider Set</li>
+<li>Serpent Set</li></ul>
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
 <th><a class="mw-redirect" href="./" title="Smithing">Smithing</a> recipe</th>
@@ -411,8 +408,8 @@ tags:
 <p><br/>
 </p><p><br/>
 </p>
-<ul><li>Spider Bows (WIP)</li>
-<li>Web Gun Set (WIP)</li></ul>
+<ul><li>Spider Bows</li>
+<li>Web Gun Set</li></ul>
 <table class="wikitable collapsible">
 <tbody><tr><th>Ingredients</th>
 <th><a class="mw-redirect" href="./" title="Smithing">Smithing</a> recipe</th>
@@ -461,8 +458,8 @@ tags:
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Spider_Dagger?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Spider Dagger (page does not exist)">Spider Dagger</a></li>
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Speared_Fin_Arrow?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Speared Fin Arrow (page does not exist)">Speared Fin Arrow</a></li></ul>
 <h2><span id="Special_Sets.2FItems"></span><span class="mw-headline" id="Special_Sets/Items">Special Sets/Items</span></h2>
-<ul><li>Clown Masks (WIP)</li>
-<li>Reset Scrolls (WIP)</li>
+<ul><li>Clown Masks</li>
+<li>Reset Scrolls</li>
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Severer_Blade?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Severer Blade (page does not exist)">Severer Blade</a></li>
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Armours/Anti-Magic_Mask?action=edit&amp;redlink=1" rel="nofollow" title="Armours/Anti-Magic Mask (page does not exist)">Anti-Magic Mask</a></li>
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Dragon_Knuckle?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Dragon Knuckle (page does not exist)">Dragon Knuckle</a></li>
@@ -514,13 +511,13 @@ tags:
 <ul><li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Staff_of_Slime?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Staff of Slime (page does not exist)">Staff of Slime</a></li>
 <li><a class="new" href="https://tensura.wiki.gg/wiki/Gear/Spatial_Blade?action=edit&amp;redlink=1" rel="nofollow" title="Gear/Spatial Blade (page does not exist)">Spatial Blade</a></li></ul>
 <h2><span class="mw-headline" id="Basic_Material">Basic Material</span></h2>
-<ul><li>Magic Crystals (WIP)</li>
-<li>Leasther Set (WIP)</li>
-<li>Wooden Set (WIP)</li>
-<li>Stone Set (WIP)</li>
-<li>Iron Set (WIP)</li>
-<li>Gold Set (WIP)</li>
-<li>Dimaond Set (WIP)</li></ul>
+<ul><li>Magic Crystals</li>
+<li>Leasther Set</li>
+<li>Wooden Set</li>
+<li>Stone Set</li>
+<li>Iron Set</li>
+<li>Gold Set</li>
+<li>Dimaond Set</li></ul>
 
 
 
@@ -576,7 +573,6 @@ Base Tensura reference adapted from [Blocks/Smithing Bench](https://tensura.wiki
 <details class="reference-media-credits">
 <summary>Media credits (66 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP12.png">WIP12.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4736</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png">Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12929</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>

@@ -22,14 +22,14 @@
 |---|---:|
 | Images discovered | 164 |
 | Distinct File records resolved | 164 |
-| Images retained from the import | 162 |
+| Images retained from the import | 161 |
 | Imported image placements | 400 |
-| Images withdrawn after file-level review | 1 |
+| Images withdrawn after file-level review | 2 |
 | Images failed | 1 |
 
 These counts describe the historical import, not a completed image-permission audit. New imports require a file-specific reusable image license and a rendered File-page exception check. Older footer-derived decisions remain under review; see the [public source ledger](sources-and-attribution.md#media-and-image-attribution).
 
-The September 30 review found no file-specific reusable image license for Gravitational Void. Its imported icon was withdrawn and replaced with an original TSR illustration.
+The September 30 review found no file-specific reusable image license for Gravitational Void or Ice Ore. Both imported images were withdrawn and replaced with original TSR illustrations.
 
 ## Link conversion
 

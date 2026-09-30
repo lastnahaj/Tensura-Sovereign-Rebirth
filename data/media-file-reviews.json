@@ -621,6 +621,15 @@
       "notice": "no-file-specific-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/illustrations/skills/gravitational-void.webp"
+    },
+    {
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Ice_Ore.png",
+      "source_title": "Ice Ore.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-specific-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/ice-ore.webp"
     }
   ]
 }

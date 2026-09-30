@@ -1,10 +1,6 @@
 ---
-title: Ice Ore
-description: Upon breaking the ore with a ..., one can get Ice Essence
-tags:
-- Pages_with_overridden_hardness
-- Non-renewable_resources
-- Stackable_resources
+title: "Ice Ore"
+description: "Mysticism's Ice Essence ore, verified for cold-biome generation in the pinned 1.21.1 build."
 ---
 
 # Ice Ore
@@ -13,140 +9,57 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png" alt="Ice Ore source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Ice_Ore.png">Ice Ore.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/blocks/ice-ore.webp" alt="Ice Ore illustration" loading="eager" decoding="async">
+<figcaption>TSR block illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Upon breaking the ore with a ... , one can get Ice Essence</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Mysticism&#x27;s Ice Essence ore, verified for cold-biome generation in the pinned 1.21.1 build.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#what-it-does">What it does</a><a href="#player-access">Player access</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Ice Ore</div>
-<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://trmysticism.wiki.gg/wiki/File:Ice_Ore.png"><img alt="Ice Ore.png: Infobox image for Ice Ore the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png" width="150"/></a><div class="infobox-imagecaption">
-<p>Ice Ore
-</p>
-</div></div>
-</div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="new" href="https://trmysticism.wiki.gg/wiki/Renewable_resource?action=edit&amp;redlink=1" rel="nofollow" title="Renewable resource (page does not exist)">Renewable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-<tr>
-<th>Tool
-</th>
-<td class="pixel-image">
-<p>?
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Explosion#Blast_resistance" title="mcw:Explosion">Blast resistance</a>
-</th>
-<td>
-<p>10
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Breaking#Blocks_by_hardness" title="mcw:Breaking">Hardness</a>
-</th>
-<td>
-<p><b>Ice Ore</b>: 7<br/>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Light" title="mcw:Light">Luminous</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Opacity" title="mcw:Opacity">Transparent</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Flammable" title="mcw:Flammable">Flammable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Catches fire from <a class="extiw" href="https://minecraft.wiki/w/lava" title="mcw:lava">lava</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Pinned Minecraft 1.21.1 build"
 
+    Verified against **TR Mysticism 2.1.2** selected by the TSR pack manifest.
 
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<h3><span class="mw-headline" id="Mining">Mining</span></h3>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<h3><span class="mw-headline" id="Upon_breaking">Upon breaking</span></h3>
-<p>Upon breaking the ore with a  ... , one can get <span class="nowrap"><span class="sprite-file"><a href="../../other/ice-essence/" title="Ice Essence"></a></span> <a href="../../other/ice-essence/" title="Ice Essence"><span class="sprite-text">Ice Essence</span></a></span>
-</p>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="druid-title">Ice Ore</div>
+<div class="druid-row"><div class="druid-label">Source</div><div class="druid-data">TR Mysticism 2.1.2</div></div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">mysticism:ice_ore</div></div>
+<div class="druid-row"><div class="druid-label">Role</div><div class="druid-data">Ice Essence ore</div></div>
+<div class="druid-row"><div class="druid-label">Visual</div><div class="druid-data">Original illustration; not the in-game texture</div></div>
+<div class="druid-row"><div class="druid-label">Player access</div><div class="druid-data">Diamond-tier pickaxe or better</div></div>
+</aside></div></div>
 
+## What it does
 
+The pinned build places veins of up to three Ice Ore blocks inside ice between Y 55 and 100. It makes 75 placement attempts per chunk in biomes carrying Mysticism's ice-spikes biome tag. In this artifact, that tag contains only Minecraft's Ice Spikes biome. The current upstream article also mentions the Spirit Realm; broader realm generation is not confirmed by this check.
 
-</div>
-</div>
+## Player access
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
-
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Blocks</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../blocks/">
-<img src="../../../assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Blocks</strong>
-<small>Ice Ore</small>
-</span>
-</a>
-</div>
-</section>
-
----
+Ice Ore is tagged for pickaxe mining and requires a diamond-tier tool. Silk Touch drops the ore block; otherwise it drops Ice Essence, with the standard ore Fortune bonus and explosion decay applied.
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Blocks/Ice Ore](https://trmysticism.wiki.gg/wiki/Blocks/Ice_Ore) on the Tensura Reincarnated: Mysticism Wiki (revision `3340`, modified `2026-07-04T08:41:08Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+??? info "Sources and verification"
 
-<details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
-<ul>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Ice_Ore.png">Ice Ore.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3329</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Invicon_Ice_Essence.png">Invicon Ice Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 1983</li>
-</ul>
-</details>
+    [TR Mysticism 2.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-mysticism.pw.toml)
+
+    Artifact SHA-1: `cca1bd878b46c21ddbbf507bd4489fbb217899c7`.
+
+    Upstream article: [TR Mysticism Wiki revision 3499](https://trmysticism.wiki.gg/wiki/Blocks/Ice_Ore?oldid=3499). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+    Packaged implementation evidence:
+
+    - `data/minecraft/tags/block/mineable/pickaxe.json`
+    - `data/minecraft/tags/block/needs_diamond_tool.json`
+    - `data/mysticism/loot_table/blocks/ice_ore.json`
+    - `data/mysticism/neoforge/biome_modifier/ice_ore.json`
+    - `data/mysticism/tags/worldgen/biome/ice_spikes.json`
+    - `data/mysticism/worldgen/configured_feature/ice_ore.json`
+    - `data/mysticism/worldgen/placed_feature/ice_ore.json`
+
+    The illustration on this page is original TSR artwork; it is not the in-game texture.
+
+[Back to Blocks](../../tensura-reference/blocks/index.md)

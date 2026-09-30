@@ -1,5 +1,6 @@
 """Check encyclopedia navigation and rendered stat-card coverage."""
 import json
+import hashlib
 from pathlib import Path
 import tomllib
 
@@ -26,10 +27,13 @@ for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     assert not prefixed_titles, f'Upstream namespace leaked into {section} card titles: {prefixed_titles}'
 media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
 for local_page, asset in media_overrides.items():
+    metadata = asset if isinstance(asset, dict) else {}
     if isinstance(asset, dict):
         asset = asset['asset']
     asset_path = ROOT / 'docs' / asset
     assert asset_path.exists(), f'Missing card artwork: {asset}'
+    if metadata.get('sha256'):
+        assert hashlib.sha256(asset_path.read_bytes()).hexdigest() == metadata['sha256'], f'Artwork checksum mismatch: {local_page}'
     section = Path(local_page).parts[1]
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     route = Path(local_page).stem
@@ -181,6 +185,8 @@ from sync_block_catalogue import generate as generate_blocks, load_manifest as l
 block_manifest = load_block_manifest()
 for local_page, expected_content in generate_blocks().items():
     assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale page: {local_page}'
+from sync_block_catalogue import sanitize_imported as sanitize_block_articles
+assert not sanitize_block_articles(check=True), 'An imported block article still contains maintenance debris'
 for icon_path, expected_content in generate_block_icons().items():
     assert icon_path.read_text(encoding='utf-8') == expected_content, f'Stale block symbol: {icon_path}'
 block_builds = block_manifest['reference_builds']
@@ -206,6 +212,23 @@ for page in block_manifest['pages']:
 block_text = blocks.get_text(' ', strip=True)
 assert 'Upstream reference information for' not in block_text, 'A generic block summary remains'
 assert '\ufffd' not in block_text, 'A broken block separator remains'
+block_sources = [
+    ROOT / 'docs/tensura-reference/blocks/blocks-charybdis-core.md',
+    ROOT / 'docs/tensura-reference/blocks/blocks-kiln.md',
+    ROOT / 'docs/tensura-reference/blocks/blocks-magic-engine.md',
+    ROOT / 'docs/tensura-reference/blocks/blocks-smithing-bench.md',
+]
+assert all('Work In Progress' not in path.read_text(encoding='utf-8') for path in block_sources), 'A block article still exposes an upstream maintenance banner'
+smithing = block_sources[-1].read_text(encoding='utf-8')
+assert all(name in smithing for name in ('Dark Set', 'Silver Set', 'Ant Set', 'Clown Masks')), 'Block cleanup discarded source gear-set names'
+assert 'Recipe coverage' in smithing, 'Undocumented smithing sets need an explicit recipe-coverage limit'
+ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
+for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
+    assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'
+assert 'only Minecraft\'s Ice Spikes biome' in ice_ore, 'Ice Ore overstates verified biome generation'
+assert 'original TSR artwork' in ice_ore and 'source game texture' not in ice_ore.casefold(), 'Ice Ore illustration mislabeled as in-game media'
+magic_engine = (ROOT / 'docs/tensura-reference/blocks/blocks-magic-engine.md').read_text(encoding='utf-8')
+assert 'reduces area Magicules' in magic_engine and 'decorative light-emitting' not in magic_engine, 'Magic Engine functional summary is misleading'
 bosses = BeautifulSoup((site / 'tensura-reference/bosses/index.html').read_text(encoding='utf-8'), 'html.parser')
 boss_cards = bosses.select('.reference-card')
 boss_titles = [card.h2.get_text(' ', strip=True) for card in boss_cards]

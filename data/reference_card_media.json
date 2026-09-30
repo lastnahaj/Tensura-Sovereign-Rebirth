@@ -315,9 +315,19 @@
     "summary": "The ore source for Raw Silver; its regular and deepslate variants require different minimum pickaxe tiers."
   },
   "mysticism-reference/blocks/blocks-ice-ore.md": {
-    "asset": "assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png",
-    "kind": "source",
-    "summary": "Mysticism's Ice Essence ore, documented for cold-biome generation in the pinned 1.21.1 build."
+    "asset": "assets/images/blocks/ice-ore.webp",
+    "kind": "original",
+    "summary": "Mysticism's Ice Essence ore, documented for cold-biome generation in the pinned 1.21.1 build.",
+    "credit": "TSR block illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "68590c06c09d3415cc19d2efe82c59270a20726b3212a8bdb4866af9e9f794ed",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://trmysticism.wiki.gg/wiki/Blocks/Ice_Ore?oldid=3499",
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Ice_Ore.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/blocks/underworld-barrens.md": {
     "asset": "assets/images/encyclopedia/underworld-barrens.webp",

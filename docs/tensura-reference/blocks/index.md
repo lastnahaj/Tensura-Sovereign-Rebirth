@@ -194,7 +194,7 @@
 <h2>Cadence Acceleration Glass</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>A replaceable glass field block tracked by the Nightmares Cadence time-acceleration handler.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Registry ID</dt><dd>trnightmare:cadence_accel_glass</dd><dt>Role</dt><dd>Cadence time-field helper</dd><dt>Visual</dt><dd>Glass-textured field block</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Cadence time-field helper</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -239,7 +239,7 @@
 <h2>Domicile Door</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>An ownership-aware doorway that connects a player with the private space created by Domicile.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Registry ID</dt><dd>trnightmare:domicile_door</dd><dt>Role</dt><dd>Owned Domicile entrance</dd><dt>Visual</dt><dd>Oak-door model</dd><dt>Player access</dt><dd>Domicile-generated block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Owned Domicile entrance</dd><dt>Player access</dt><dd>Domicile-generated block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -254,7 +254,7 @@
 <h2>Domicile Trapdoor</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>The trapdoor form of the Domicile entrance, with the same ownership and return-travel checks.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Registry ID</dt><dd>trnightmare:domicile_trapdoor</dd><dt>Role</dt><dd>Owned Domicile entrance</dd><dt>Visual</dt><dd>Oak-trapdoor model</dd><dt>Player access</dt><dd>Domicile-generated block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Owned Domicile entrance</dd><dt>Player access</dt><dd>Domicile-generated block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -269,7 +269,7 @@
 <h2>Elemental Realm Portal</h2>
 
 <p>The invisible, collisionless portal surface used by Mysticism&#x27;s registered Elemental Realm portals.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>TR Mysticism 2.1.2</dd><dt>Registry ID</dt><dd>mysticism:elemental_realm_portal</dd><dt>Role</dt><dd>Dimension portal surface</dd><dt>Visual</dt><dd>Invisible in-world render</dd><dt>Player access</dt><dd>Structure/internal block</dd></dl><small class="reference-card-source-note">Pinned TR Mysticism 2.1.2 artifact.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>TR Mysticism 2.1.2</dd><dt>Role</dt><dd>Dimension portal surface</dd><dt>Player access</dt><dd>Structure/internal block</dd></dl><small class="reference-card-source-note">Pinned TR Mysticism 2.1.2 artifact.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -284,7 +284,7 @@
 <h2>Gabriel Snow Crystal</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>A non-occluding ice-textured support block registered for Gabriel&#x27;s frost mechanics.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Registry ID</dt><dd>trnightmare:gabriel_snow_crystal</dd><dt>Role</dt><dd>Gabriel frost-field helper</dd><dt>Visual</dt><dd>Ice-textured crystal block</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Gabriel frost-field helper</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -306,15 +306,15 @@
 </article>
 <article class="reference-card" data-letter="I" data-search="ice ore mysticism&#x27;s ice essence ore, documented for cold-biome generation in the pinned 1.21.1 build.">
 <a href="../../mysticism-reference/blocks/blocks-ice-ore/" aria-label="Open Ice Ore">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/ice-ore.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Ore</h2>
 
 <p>Mysticism&#x27;s Ice Essence ore, documented for cold-biome generation in the pinned 1.21.1 build.</p>
-
+<dl class="reference-card-stats"><dt>Source</dt><dd>TR Mysticism 2.1.2</dd><dt>Role</dt><dd>Ice Essence ore</dd><dt>Player access</dt><dd>Diamond-tier pickaxe or better</dd></dl><small class="reference-card-source-note">Pinned Minecraft 1.21.1 artifact.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
@@ -494,7 +494,7 @@
 <h2>Stasis Lattice</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>An invisible lattice block registered as implementation support for Nightmares&#x27; Stasis field.</p>
-<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Registry ID</dt><dd>trnightmare:stasis_lattice</dd><dt>Role</dt><dd>Stasis field boundary</dd><dt>Visual</dt><dd>Structure-void model</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
+<dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Stasis field boundary</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

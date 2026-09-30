@@ -1,8 +1,7 @@
 ---
 title: Charybdis Core
-description: Found inside the Core room of the Charybdis Cave and used to summon Charybdis. The core must consume 100K EP before being left clicked to summon the boss. To consume EP the Core must be placed down within a 16 block radius while you kill a mob, mobs killed within its radius won't give you and EP and...
+description: "A boss-summoning core found in Charybdis Cave that must absorb 100,000 EP from nearby kills before activation."
 tags:
-- Work_in_Progress
 - Pages_with_overridden_hardness
 - Non-renewable_resources
 - Non-stackable_resources
@@ -19,7 +18,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Found inside the Core room of the Charybdis Cave and used to summon Charybdis .</p>
+<p>A boss-summoning core found in Charybdis Cave that must absorb 100,000 EP from nearby kills before activation.</p>
 <div class="reference-reading-controls" role="group" aria-label="Article reading mode">
 <button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
 <button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
@@ -28,14 +27,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP10.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks/Charybdis_Core?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="infobox notaninfobox">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
 <div class="mcwiki-header infobox-title">Charybdis Core</div>
 <div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png: Infobox image for Charybdis Core the block in Minecraft" data-file-height="500" data-file-width="500" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="150"/></a><div class="infobox-imagecaption">
 <p>Charybdis Core
@@ -167,7 +159,6 @@ Base Tensura reference adapted from [Blocks/Charybdis Core](https://tensura.wiki
 <details class="reference-media-credits">
 <summary>Media credits (3 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png">Invicon Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6467</li>
 </ul>

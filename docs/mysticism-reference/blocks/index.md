@@ -23,15 +23,17 @@
 <p class="reference-filter-status" aria-live="polite">Showing 1 of 1 articles</p>
 </div>
 <div class="reference-card-grid">
-<article class="reference-card" data-letter="I" data-search="ice ore upon breaking the ore with a ... , one can get ice essence">
+<article class="reference-card" data-letter="I" data-search="ice ore mysticism&#x27;s ice essence ore, documented for cold-biome generation in the pinned 1.21.1 build.">
 <a href="blocks-ice-ore/" aria-label="Open Ice Ore">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/items/ice-ore-294a5ba9e1.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/ice-ore.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ice Ore</h2>
-<p>Upon breaking the ore with a ... , one can get Ice Essence</p>
+
+<p>Mysticism&#x27;s Ice Essence ore, documented for cold-biome generation in the pinned 1.21.1 build.</p>
+<dl class="reference-card-stats"><dt>Source</dt><dd>TR Mysticism 2.1.2</dd><dt>Role</dt><dd>Ice Essence ore</dd><dt>Player access</dt><dd>Diamond-tier pickaxe or better</dd></dl><small class="reference-card-source-note">Pinned Minecraft 1.21.1 artifact.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

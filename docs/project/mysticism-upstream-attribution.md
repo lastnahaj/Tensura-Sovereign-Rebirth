@@ -27,6 +27,10 @@ The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in
 `data/upstream_mysticism_media.json`.
 
+The September 30 file-level review withdrew Gravitational Void and Ice Ore
+because no reusable image-specific license was verified. Original TSR
+illustrations replace those images and are not presented as in-game assets.
+
 ## Separation from TSR
 
 Tensura: Sovereign Rebirth did not create the upstream mod or wiki. Upstream

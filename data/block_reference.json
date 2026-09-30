@@ -21,6 +21,35 @@
   },
   "pages": [
     {
+      "display_title": "Ice Ore",
+      "source_key": "mysticism",
+      "local_page": "mysticism-reference/blocks/blocks-ice-ore.md",
+      "asset": "assets/images/blocks/ice-ore.webp",
+      "artwork_kind": "original-illustration",
+      "source_article_url": "https://trmysticism.wiki.gg/wiki/Blocks/Ice_Ore",
+      "source_revision": 3499,
+      "reviewed_on": "2026-09-30",
+      "catalogue_entry": false,
+      "registry_id": "mysticism:ice_ore",
+      "role": "Ice Essence ore",
+      "visual": "Original illustration; not the in-game texture",
+      "access": "Diamond-tier pickaxe or better",
+      "summary": "Mysticism's Ice Essence ore, verified for cold-biome generation in the pinned 1.21.1 build.",
+      "details": [
+        "The pinned build places veins of up to three Ice Ore blocks inside ice between Y 55 and 100. It makes 75 placement attempts per chunk in biomes carrying Mysticism's ice-spikes biome tag. In this artifact, that tag contains only Minecraft's Ice Spikes biome. The current upstream article also mentions the Spirit Realm; broader realm generation is not confirmed by this check.",
+        "Ice Ore is tagged for pickaxe mining and requires a diamond-tier tool. Silk Touch drops the ore block; otherwise it drops Ice Essence, with the standard ore Fortune bonus and explosion decay applied."
+      ],
+      "evidence_paths": [
+        "data/minecraft/tags/block/mineable/pickaxe.json",
+        "data/minecraft/tags/block/needs_diamond_tool.json",
+        "data/mysticism/loot_table/blocks/ice_ore.json",
+        "data/mysticism/neoforge/biome_modifier/ice_ore.json",
+        "data/mysticism/tags/worldgen/biome/ice_spikes.json",
+        "data/mysticism/worldgen/configured_feature/ice_ore.json",
+        "data/mysticism/worldgen/placed_feature/ice_ore.json"
+      ]
+    },
+    {
       "display_title": "Elemental Realm Portal",
       "source_key": "mysticism",
       "local_page": "tensura-reference/blocks/elemental-realm-portal.md",

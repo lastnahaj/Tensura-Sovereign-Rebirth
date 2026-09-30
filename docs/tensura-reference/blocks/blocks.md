@@ -1,8 +1,7 @@
 ---
 title: Blocks
-description: Palm Log Palm Wood Stripped Palm Log Stripped Palm Wood Palm Planks Palm Stairs Palm Slab Palm Fence Palm Fence Gate Palm Door Palm Trapdoor Palm Pressure Plate Palm Button Palm Sign Palm Sapling Palm Leaves Cherry Blossom Log Cherry Blossom Wood Stripped Cherry Blossom Log Stripped Cherry Blossom Wood...
+description: "A source catalogue of Tensura: Reincarnated building materials, ores, workstations, resource blocks, and special-purpose blocks."
 tags:
-- Work_in_Progress
 - Pages_with_broken_file_links
 ---
 
@@ -17,7 +16,7 @@ tags:
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Palm Log Palm Wood Stripped Palm Log Stripped Palm Wood Palm Planks Palm Stairs Palm Slab Palm Fence Palm Fence Gate Palm Door Palm Trapdoor Palm Pressure Plate Palm Button Palm Sign Palm Sapling Palm Leaves Cherry Blossom Log Cherry Blossom Wood Stripped Cherry Blossom Log Stripped Cherry Blossom Wood...</p>
+<p>A source catalogue of Tensura: Reincarnated building materials, ores, workstations, resource blocks, and special-purpose blocks.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#TR:Blocks">TR:Blocks</a>
 <a href="#TR:Dungeon_Blocks">TR:Dungeon Blocks</a>
@@ -30,14 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP7.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip7-a00a58b38e.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Blocks?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="TR:Blocks">TR:Blocks</span></h2>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h2><span class="mw-headline" id="TR:Blocks">TR:Blocks</span></h2>
 <div class="div-col columns column-width">
 <ul><li><a class="image" href="https://tensura.wiki.gg/wiki/File:Palm_Log.png"><img alt="Palm Log.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/palm-log-7d04272437.png" width="30"/></a> <a href="../blocks-palm-log/" title="Blocks/Palm Log">Palm Log</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png"><img alt="Palm Wood.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/palm-wood-7a70ca82a0.png" width="30"/></a> <a href="../blocks-palm-wood/" title="Blocks/Palm Wood">Palm Wood</a></li>
@@ -265,7 +257,6 @@ Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks
 <details class="reference-media-credits">
 <summary>Media credits (113 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP7.png">WIP7.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Log.png">Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Stripped_Palm_Log.png">Stripped Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3923</li>

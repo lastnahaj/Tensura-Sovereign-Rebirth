@@ -1935,8 +1935,15 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 elif minimum or maximum:
                     curated.append(('EP', minimum or maximum))
                 pairs = curated
+            if category == 'blocks':
+                pairs = [(label, value) for label, value in pairs if label.casefold() not in {'registry id', 'visual'}]
             if pairs:
-                stat_note = record.get('_stat_source_note', 'Upstream reference values; server settings may differ.')
+                default_stat_note = (
+                    'Pinned Minecraft 1.21.1 artifact.'
+                    if category == 'blocks' and 'Pinned Minecraft 1.21.1 build' in card_source
+                    else 'Upstream reference values; server settings may differ.'
+                )
+                stat_note = record.get('_stat_source_note', default_stat_note)
                 stat_rows = []
                 for label, value in pairs[:8]:
                     if label.casefold() in {'biome', 'biomes', 'mobs'} and ',' in value:
@@ -2473,6 +2480,12 @@ def main() -> int:
             destination = DOCS / name
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_text(content, encoding="utf-8")
+        from sync_block_catalogue import generate as generate_block_catalogue, sanitize_imported as sanitize_block_articles
+        for name, content in generate_block_catalogue().items():
+            destination = DOCS / name
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_text(content, encoding="utf-8")
+        sanitize_block_articles(check=False)
         from sync_progression import OUTPUT as progression_output, build as build_progression
         write_json(progression_output, build_progression())
         from sync_race_families import generate as generate_race_families
@@ -2593,6 +2606,13 @@ def main() -> int:
         destination = DOCS / name
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(content, encoding="utf-8")
+
+    from sync_block_catalogue import generate as generate_block_catalogue, sanitize_imported as sanitize_block_articles
+    for name, content in generate_block_catalogue().items():
+        destination = DOCS / name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(content, encoding="utf-8")
+    sanitize_block_articles(check=False)
 
     # Upstream maintenance banners are useful to editors on the source wiki,
     # but they are not item artwork or player-facing reference content.
