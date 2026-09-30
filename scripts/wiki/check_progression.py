@@ -63,6 +63,21 @@ def main() -> int:
     for edge in graph["edges"]:
         if edge["from"] not in graph["nodes"] or edge["to"] not in graph["nodes"]:
             errors.append(f"Unknown progression endpoint: {edge}")
+    reviewed_skills = json.loads((ROOT / "data/nightmares_skill_reference.json").read_text(encoding="utf-8"))["pages"]
+    reviewed_routes = {record["registry_id"]: record["local_page"].removesuffix(".md") + "/" for record in reviewed_skills}
+    connections = {(edge["from"], edge["to"]): edge for edge in graph["edges"]}
+    for record in reviewed_skills:
+        review = record.get("progression_review")
+        if not review:
+            continue
+        target = reviewed_routes[record["registry_id"]]
+        predecessor = reviewed_routes[review["predecessor_registry_id"]]
+        edge = connections.get((predecessor, target))
+        if not edge or review["requirements"] not in edge["requirements"]:
+            errors.append(f'Reviewed skill requirements missing: {record["registry_id"]}')
+        for identifier in review.get("not_independent_predecessors", []):
+            if (reviewed_routes[identifier], target) in connections:
+                errors.append(f'Related skill promoted as an independent unlock: {identifier} -> {record["registry_id"]}')
 
     for source, destination in json.loads((SITE / "assets/data/skill-redirects.json").read_text(encoding="utf-8")).items():
         check(destination)

@@ -143,6 +143,22 @@
   .skill-category-tile:hover, .skill-directory .reference-card:hover { transform: none; }
 }
 /* Source pixel artwork keeps its native edges in articles, search and viewers. */
+.skill-route-review {
+  margin: 1.2rem 0;
+  padding: 1.25rem;
+  border: 1px solid #365a6d;
+  border-radius: .8rem;
+  background: #0e1c2b;
+}
+.md-typeset .skill-route-review h2 { margin: .2rem 0 1rem; border: 0; font-size: 1.15rem; }
+.skill-route-review-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; }
+.skill-route-review-grid > div { min-width: 0; padding: .85rem; border-left: 2px solid #66d9eb; background: #081522; }
+.md-typeset .skill-route-review-grid h3 { margin: .35rem 0 .6rem; font-size: .95rem; }
+.md-typeset .skill-route-review-grid p { margin: 0; color: #b4c6d5; font-size: .7rem; line-height: 1.6; }
+.md-typeset .skill-route-review-grid .skill-route-review-label { color: #8be5ee; font-size: .58rem; font-weight: 700; letter-spacing: .055em; text-transform: uppercase; }
+.skill-route-review .skill-source-limits { margin-top: 1rem; }
+.skill-route-review > .skill-evidence-note { margin-bottom: 0; }
+@media (max-width: 42rem) { .skill-route-review-grid { grid-template-columns: 1fr; } }
 body :is(.skill-directory, .skill-hub, .md-content__inner:has(.skill-obtainment), .reference-lightbox) img[src*="assets/illustrations/skills/"]:is(
   [src$="/beelzebuth.png"], [src$="/leviathan.jpeg"], [src$="/mammon.png"],
   [src$="/raphael-knowledge.png"], [src$="/raphael-wisdom.png"],

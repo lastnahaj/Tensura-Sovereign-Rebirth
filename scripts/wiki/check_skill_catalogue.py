@@ -62,6 +62,12 @@ def main():
     for page, decision in active.items():
         if generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
             errors.append(f'Legacy emblem returned to a completed skill category: {page}')
+        article = BeautifulSoup(outputs[page], 'html.parser')
+        if any(re.fullmatch(r'x|\?{2,}|TBD|Coming soon', cell.get_text(strip=True), re.I) for cell in article.select('.druid-data')):
+            errors.append(f'Undefined infobox placeholder in active skill: {page}')
+    sandalphon = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-sandalphon-judgment.md'], 'html.parser')
+    if sandalphon.select_one('#Passive_2').get_text(strip=True) != 'Active abilities':
+        errors.append('Sandalphon active abilities mislabeled as passives')
     active_routes = {route(p): d for p, d in active.items()}
     ability_search = json.loads(outputs['assets/data/skill-search.json'])
     if {entry['route'] for entry in ability_search} != set(active_routes) or len(ability_search) != len(active_routes):

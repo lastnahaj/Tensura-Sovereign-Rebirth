@@ -8563,14 +8563,6 @@
       ]
     },
     {
-      "from": "tensura-reference/skills/ultimate/nightmares-sandalphon-judgment/",
-      "to": "tensura-reference/skills/ultimate/nightmares-abaddon/",
-      "kinds": [
-        "Next"
-      ],
-      "requirements": []
-    },
-    {
       "from": "tensura-reference/skills/ultimate/nightmares-shub-niggurath/",
       "to": "tensura-reference/skills/ultimate/nightmares-tenebrosum/",
       "kinds": [
@@ -8890,10 +8882,12 @@
       "to": "tensura-reference/skills/ultimate/nightmares-abaddon/",
       "kinds": [
         "Next",
-        "Evolution"
+        "Evolution",
+        "Mastery / evolution"
       ],
       "requirements": [
-        "Breaker"
+        "Breaker",
+        "Master Breaker, Multilayer Barrier and Spatial Domination; master 5 Battlewills and 30 Magics; hold 25 Daemon Essence; kill 5,000 mobs; meet the configured maximum-MP threshold (reference default: 750,000). Nightmares Ultimates and Automatic Evolution must be enabled."
       ]
     },
     {

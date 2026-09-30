@@ -1493,7 +1493,31 @@
       ],
       "source_partial": true,
       "summary": "Break spatial defenses, exceed power limits, and fire spatial magic bullets.",
-      "description": "Break spatial defenses, exceed power limits, and fire spatial magic bullets."
+      "description": "Break spatial defenses, exceed power limits, and fire spatial magic bullets.",
+      "obtainment_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Abbadon",
+        "scope": "Live source requirements and reference-build evolution conditions reviewed; installed server behavior is not verified."
+      },
+      "progression_review": {
+        "reviewed_on": "2026-09-29",
+        "predecessor_registry_id": "trnightmare:breaker",
+        "not_independent_predecessors": [
+          "trnightmare:sandalphon_judgment"
+        ],
+        "requirements": "Master Breaker, Multilayer Barrier and Spatial Domination; master 5 Battlewills and 30 Magics; hold 25 Daemon Essence; kill 5,000 mobs; meet the configured maximum-MP threshold (reference default: 750,000). Nightmares Ultimates and Automatic Evolution must be enabled.",
+        "artifact": {
+          "version": "1.0.3.2.8-neoforge-1.21.1",
+          "release_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+          "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127"
+        },
+        "implementation": [
+          "com.github.hvnbael.trnightmare.TRNightmare.BREAKER_TO_ABADDON",
+          "com.github.hvnbael.trnightmare.main.ultimates.AbaddonSkill.checkAcquiringRequirement",
+          "com.github.hvnbael.trnightmare.util.UltimateEvolutionHelper.completeEvolution"
+        ],
+        "finding": "Breaker mastery is required by the condition table. Sandalphon Judgement is passed to predecessor cleanup and is not an independent acquisition route. The wiki lists 500,000 MP; the reference artifact's Abaddon configuration defaults to 750,000 maximum MP."
+      }
     },
     {
       "page_id": 890,

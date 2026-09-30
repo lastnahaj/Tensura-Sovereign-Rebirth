@@ -141,6 +141,19 @@ def build() -> dict:
                 nodes[key]["image"] = decision.get('asset') or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
             if decision["status"] == "reference":
                 nodes[key]["verification"] = "reference-build-only"
+    reviewed_skills = {record["registry_id"]: route(record["local_page"]) for record in manifests["nightmares"]["pages"]}
+    for record in manifests["nightmares"]["pages"]:
+        review = record.get("progression_review")
+        if not review:
+            continue
+        target = route(record["local_page"])
+        for identifier in review.get("not_independent_predecessors", []):
+            start = reviewed_skills.get(identifier)
+            if start:
+                edges.pop((start, target), None)
+        predecessor = reviewed_skills.get(review["predecessor_registry_id"])
+        if predecessor:
+            connect(predecessor, target, "Mastery / evolution", review["requirements"])
     current_edges = [edge for edge in edges.values() if edge["from"] in nodes and edge["to"] in nodes]
     return {"nodes": nodes, "edges": sorted(current_edges, key=lambda edge: (edge["from"], edge["to"]))}
 

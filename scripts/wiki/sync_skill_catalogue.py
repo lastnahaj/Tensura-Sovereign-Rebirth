@@ -67,6 +67,10 @@ def render_acquisition_markdown(content, page):
 
 def strip_maintenance_markup(text, page):
     """Remove source-wiki editorial banners without discarding skill details."""
+    text = re.sub(
+        r'(<div\b[^>]*class="druid-data\b[^"]*"[^>]*>)\s*(?:x|\?{2,}|TBD|Coming soon)\s*(</div>)',
+        r'\1Not documented\2', text, flags=re.I,
+    )
     text = MAINTENANCE_BLOCK.sub(
         lambda match: "" if "work in progress" in BeautifulSoup(match.group(0), "html.parser").get_text(" ", strip=True).casefold() else match.group(0),
         text,
