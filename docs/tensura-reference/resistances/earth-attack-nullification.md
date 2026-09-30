@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Earth Attack Nullification
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/earth-attack-nullification-089725682d.png" alt="Earth Attack Nullification source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Earth_attack_nullification.png">Earth attack nullification.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/earth-attack-nullification.webp" alt="Earth Attack Nullification illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Earth Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -38,7 +35,7 @@ Awakening while in possession of <a class="mw-redirect" href="../earth-attack-re
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Earth Attack Nullification</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Earth_attack_nullification.png"><img alt="Earth attack nullification.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/earth-attack-nullification-089725682d.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Earth Attack Nullification</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Earth Attack Nullification illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/earth-attack-nullification.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a class="mw-redirect" href="../earth-attack-resistance/" title="Abilities/Skills/Earth Attack Resistance">Earth Attack Resistance</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
@@ -64,28 +61,28 @@ Awakening while in possession of <a class="mw-redirect" href="../earth-attack-re
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../darkness-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/darkness-attack-resistance-7466c1988c.png"/>
+<img alt="Darkness Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/darkness-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Darkness Attack Resistance</strong>
 <small>Darkness Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/earth-attack-resistance-fa6e0019a8.png"/>
+<img alt="Earth Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/earth-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Earth Attack Resistance</strong>
 <small>Earth Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../darkness-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/darkness-attack-nullification-13357acb0b.png"/>
+<img alt="Darkness Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/darkness-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Darkness Attack Nullification</strong>
 <small>Darkness Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../electricity-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/electricity-nullification-2dace8feae.png"/>
+<img alt="Electricity Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/electricity-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Electricity Nullification</strong>
 <small>Electricity Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -100,9 +97,6 @@ Awakening while in possession of <a class="mw-redirect" href="../earth-attack-re
 
 Base Tensura reference adapted from [Earth Attack Nullification](https://tensura.wiki.gg/wiki/Earth_Attack_Nullification) on the Tensura: Reincarnated Wiki (revision `9681`, modified `2025-05-29T22:19:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Earth_attack_nullification.png">Earth attack nullification.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3217</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

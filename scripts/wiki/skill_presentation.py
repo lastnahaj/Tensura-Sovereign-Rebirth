@@ -14,9 +14,9 @@ CATEGORIES = {
     'skills/extra': ('Extra', 'Specialized techniques and mastery upgrades.', 'assets/upstream/tensura/skills/analytical-appraisal-bb01737e8d.png'),
     'skills/unique': ('Unique', 'Build-defining powers, modes and passives.', 'assets/upstream/tensura/skills/great-sage-157839d932.png'),
     'skills/ultimate': ('Ultimate', 'Advanced powers and awakening requirements.', 'assets/ascension/ultimates/the_timeless_mage.png'),
-    'battlewill': ('Battlewill', 'Aura techniques, training and resource control.', 'assets/ascension/skills/energy_charge.png'),
+    'battlewill': ('Battlewill', 'Aura techniques, training and resource control.', 'assets/illustrations/skills/battlewill.webp'),
     'magic': ('Magic', 'Spells, schools and their casting mechanics.', 'assets/upstream/tensura/magic/gate-2ede9e9877.png'),
-    'resistances': ('Resistances', 'Defensive effects and nullifications.', 'assets/upstream/tensura/resistances/pain-nullification-404b1c5c4b.png'),
+    'resistances': ('Resistances', 'Defensive effects and nullifications.', 'assets/illustrations/skills/pain-nullification.webp'),
 }
 
 
@@ -33,8 +33,13 @@ def style_directory(content, category, page):
     count = len(soup.select('.reference-card'))
     title = header.h1.get_text(strip=True)
     description = header.select_one('.reference-directory-hero-copy > p:not(.reference-eyebrow)').get_text(' ', strip=True)
+    if category == 'battlewill':
+        title = 'Battlewill techniques'
+        description = 'Learn aura techniques from configured manuals, then follow verified mastery paths.'
     replacement = f'<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>{html.escape(title)}</h1><p>{html.escape(description)}</p><span class="skill-entry-count">{count} entries</span></header>'
     overview = header.select_one('.reference-directory-overview-link')
+    if category == 'battlewill':
+        overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "battlewill-training/")}">Learning &amp; mastery guide <span aria-hidden="true">→</span></a>', 'html.parser').a
     if overview:
         replacement = replacement.replace('</header>', str(overview) + '</header>')
     content = re.sub(r'<header class="reference-directory-hero[^>]*>.*?</header>', lambda _: replacement, content, count=1, flags=re.S)
@@ -47,6 +52,31 @@ def style_directory(content, category, page):
     content = content.replace('class="reference-directory"', 'class="reference-directory skill-directory"', 1)
     content = content.replace('Open reference <span', 'View ability <span')
     return f'---\ntitle: {json.dumps(title)}\nhide:\n  - navigation\n  - toc\n---\n\n' + content
+
+
+def generate_battlewill_guide(policy):
+    import tomllib
+    evidence = json.loads((ROOT / 'data/battlewill_reference.json').read_text(encoding='utf-8'))
+    manual = evidence['manual']
+    pool = tomllib.loads((ROOT / manual['configuration']).read_text(encoding='utf-8'))[manual['config_key']]
+    abilities = {decision['id']: (page, decision) for page, decision in policy['pages'].items() if decision['namespace'] == 'tensura' and decision['category'] == 'battlewill' and decision['status'] == 'registered'}
+    page = 'battlewill-training.md'
+    lines = ['---', 'title: Battlewill Learning & Mastery', 'description: Understand the configured manual pool, skill learning, and six verified Battlewill mastery paths.', 'hide:', '  - navigation', '---', '', '<div class="battlewill-guide" markdown="1">', '<header class="skill-directory-heading"><p class="reference-eyebrow">Aura training · Minecraft 1.21.1</p><h1>Learn the technique.<br>Master the next step.</h1><p>A random manual starts a learning route. Mastery can open a different technique. They are not the same unlock.</p><a class="reference-directory-overview-link" href="../tensura-reference/battlewill/">Browse all Battlewill techniques →</a></header>', '', '## Your training route', '', '<div class="skill-reading-guide">', f'<div><span>01</span><h3>Find a manual</h3><p>The upstream item guide lists loot chests and dwarf trainer trades. See the <a href="{relative(page, manual["local_page"].removesuffix(".md") + "/")}">Battlewill Manual reference</a>; actual availability depends on server loot and trading settings.</p></div>', f'<div><span>02</span><h3>Learn its result</h3><p>The tracked random pool contains {len(pool)} core techniques. A random manual cannot target a specific result and can be consumed without granting a new ability. Bound manuals use their stored technique instead.</p></div>', '<div><span>03</span><h3>Train toward mastery</h3><p>Equip the learned technique through the character menu, use its documented controls, and track its learning and mastery separately. A successor enters learning through its predecessor’s mastery hook.</p></div>', '</div>', '', '## Verified mastery paths', '', 'These six connections are checked against Tensura 2.0.1.2. Mastery must occur on your own skill instance, not a borrowed sub-instance. The successor starts through the skill-learning system; it is not already mastered.', '', '<div class="battlewill-path-grid">']
+    for unlock in evidence['mastery_unlocks']:
+        start, end = abilities[unlock['from']], abilities[unlock['to']]
+        links = []
+        for route, decision in (start, end):
+            asset = decision.get('asset')
+            visual = f'<img src="{relative(page, asset)}" alt="" loading="lazy">' if asset else ''
+            links.append(f'<a href="{relative(page, route.removesuffix(".md") + "/")}">{visual}<strong>{html.escape(decision["title"])}</strong></a>')
+        lines.append('<article class="battlewill-path">' + links[0] + '<span aria-hidden="true">→</span>' + links[1] + '</article>')
+    lines.extend(['</div>', '', '## What a random manual can teach', '', 'The following list comes from the tracked `battlewillManualList`, not from every registered Battlewill. Loot tables and server overrides can change access without changing this documented pool.', '', '<ul class="battlewill-manual-pool">'])
+    for identifier in sorted(pool, key=lambda key: abilities[key][1]['title'].casefold()):
+        target, decision = abilities[identifier]
+        lines.append(f'<li><a href="{relative(page, target.removesuffix(".md") + "/")}">{html.escape(decision["title"])}</a></li>')
+    five = abilities['tensura:five_petals_thrust']
+    lines.extend(['</ul>', '', '!!! warning "Five Petals Thrust: access is not verified"', f'    <a href=\"{relative(page, five[0].removesuffix(".md") + "/")}\">Five Petals Thrust</a> is registered, but is absent from the random manual pool and has no verified player acquisition route in this review. Its mastery-to-Eight Petals connection is verified; that does not explain how to obtain Five Petals first.', '', '## Before using another manual', '', '- Check whether you already know the result. Consumption does not guarantee a new ability.', '- A configured random pool is not a starting-race roll or a list of every skill-book reward.', '- Read the technique’s active controls and resource cost before training it.', '- Keep learning progress distinct from mastery progress.', '', '## Sources and verification', '', '[Implementation review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/battlewill_reference.json) · [Tracked manual configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura/ability/ability_config.toml) · [Upstream manual guide](https://tensura.wiki.gg/wiki/Items/Misc/Battlewill_Manual) · [Tensura project](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated).', '', 'The learning pool and six mastery hooks are artifact/configuration checks, not a live-server gameplay test. Illustrations are original TSR artwork, not in-game icons.', '', '</div>', ''])
+    return '\n'.join(lines)
 
 
 def generate_hub(records, policy, directories):
@@ -87,5 +117,5 @@ def generate_hub(records, policy, directories):
         if asset in media:
             credit = media[asset]
             lines.append(f'<li><a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])}</a> · {html.escape(credit["license"])}</li>')
-    lines.extend(['<li>Energy Charge and The Timeless Mage: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions">Tensura: Ascension</a>.</li></ul></details>', '</div>', ''])
-    return {page: '\n'.join(lines), 'assets/data/skill-search.json': json.dumps(sorted(entries, key=lambda e: e['title'].casefold()), ensure_ascii=False, separators=(',', ':')) + '\n'}
+    lines.extend(['<li>Battlewill and resistance category illustrations: original TSR artwork, not in-game icons.</li><li>The Timeless Mage: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions">Tensura: Ascension</a>.</li></ul></details>', '</div>', ''])
+    return {page: '\n'.join(lines), 'assets/data/skill-search.json': json.dumps(sorted(entries, key=lambda e: e['title'].casefold()), ensure_ascii=False, separators=(',', ':')) + '\n', 'battlewill-training.md': generate_battlewill_guide(policy)}

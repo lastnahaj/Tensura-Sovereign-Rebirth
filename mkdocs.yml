@@ -60,6 +60,7 @@ extra_css:
   - assets/stylesheets/home.css
   - assets/stylesheets/races.css
   - assets/stylesheets/skills.css
+  - assets/stylesheets/battlewill.css
 
 extra_javascript:
   - assets/javascripts/reference.js
@@ -90,6 +91,7 @@ nav:
       - "Resistances": tensura-reference/resistances/index.md
       - "Magic": tensura-reference/magic/index.md
       - "Battlewill": tensura-reference/battlewill/index.md
+      - "Battlewill learning": battlewill-training.md
       - "Arts": tensura-reference/arts/index.md
       - "Skills, EP & Magicules": skills-ep-and-magicules.md
       - "Great Sage": great-sage.md

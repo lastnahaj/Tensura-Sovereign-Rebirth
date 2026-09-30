@@ -20,14 +20,14 @@
 
 | Measure | Count |
 |---|---:|
-| Images discovered | 1728 |
-| Distinct File records resolved | 1724 |
-| Images imported | 1621 |
+| Images discovered | 1737 |
+| Distinct File records resolved | 1733 |
+| Images retained from the import | 1565 |
 | Imported image placements | 1333 |
-| Images skipped due to licensing | 0 |
+| Images withdrawn after file-level review | 65 |
 | Images failed | 103 |
 
-The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.
+The September 30 file-level review withdrew 42 resistance and 23 Battlewill icons and replaced them with original TSR illustrations. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
 
 ## Link conversion
 

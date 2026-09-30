@@ -33,6 +33,9 @@ jobs:
       - name: Validate generated Tensura reference
         run: python scripts/wiki/check_reference.py
 
+      - name: Validate file-specific media licensing
+        run: python scripts/wiki/check_media_licenses.py
+
       - name: Build documentation strictly
         run: mkdocs build --strict
 

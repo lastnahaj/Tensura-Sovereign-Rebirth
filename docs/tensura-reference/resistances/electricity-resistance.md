@@ -14,10 +14,7 @@ tags:
 **Also known as:** Abilities/Skills/Electricity Resistance
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/electricity-resistance-6d25cbff6b.png" alt="Electricity Resistance source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Electricity_resistance.png">Electricity resistance.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/electricity-resistance.webp" alt="Electricity Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Electricity Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -41,7 +38,7 @@ Taking over 15 damage at once from any source of Lightning damage.</li></ul><p c
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Electricity Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Electricity_resistance.png"><img alt="Electricity resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/electricity-resistance-6d25cbff6b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Electricity Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Electricity Resistance illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/electricity-resistance.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 500</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -74,28 +71,28 @@ If the attack is not below 50% of your Max HP the damage will be halved.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../electricity-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/electricity-nullification-2dace8feae.png"/>
+<img alt="Electricity Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/electricity-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Electricity Nullification</strong>
 <small>Electricity Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../flame-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/flame-attack-nullification-91c84e10da.png"/>
+<img alt="Flame Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/flame-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Flame Attack Nullification</strong>
 <small>Flame Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../earth-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/earth-attack-resistance-fa6e0019a8.png"/>
+<img alt="Earth Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/earth-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Earth Attack Resistance</strong>
 <small>Earth Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../flame-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/flame-attack-resistance-cbcf8ae885.png"/>
+<img alt="Flame Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/flame-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Flame Attack Resistance</strong>
 <small>Flame Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -110,9 +107,6 @@ If the attack is not below 50% of your Max HP the damage will be halved.
 
 Base Tensura reference adapted from [Electricity Resistance](https://tensura.wiki.gg/wiki/Electricity_Resistance) on the Tensura: Reincarnated Wiki (revision `13378`, modified `2026-08-22T06:53:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Electricity_resistance.png">Electricity resistance.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3214</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

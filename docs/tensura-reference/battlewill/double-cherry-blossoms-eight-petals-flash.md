@@ -1,6 +1,6 @@
 ---
 title: Cherry Blossoms - Eight Petals Flash
-description: 'Create a shield of condensed aura to block attacks [Active - Press] Cherry Blossoms - Eight Petals Flash: When held down with a sharp weapon in either hand, forms a pink blossom behind the user and reduces the user’s speed by 75%, and after 4s and release, the user instantly move forward in 20 blocks...'
+description: Charge a weapon dash, then retain a petal-based defense against melee hits.
 tags:
 - Battlewill
 - Cherry Blossoms - Eight Petals Flash
@@ -13,14 +13,12 @@ tags:
 **Also known as:** Cherry Blossoms - Eight Petals Flash
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/battlewill/cherry-blossoms-eight-petals-flash-512b46c9e5.png" alt="Cherry Blossoms - Eight Petals Flash source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png">Cherry blossoms eight petals flash.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/eight-petals-flash.webp" alt="Cherry Blossoms - Eight Petals Flash illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Create a shield of condensed aura to block attacks</p>
+<p>Charge a weapon dash, then retain a petal-based defense against melee hits.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
+<a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
 <a href="#Mastery_Bonus">Mastery Bonus</a>
 </nav>
@@ -31,13 +29,18 @@ tags:
 </div>
 </section>
 
+<!-- skill-catalogue:start -->
+<nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Battlewill</a></nav>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Battlewill · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p><strong>Mastery route:</strong> Fully master <a href="../plum-blossoms-five-petals-thrust/">Plum Blossoms - Five Petals Thrust</a>. Its mastery hook attempts to start learning this technique through the normal skill-learning system.</p><p>This must be your own skill instance, not a borrowed sub-instance. Finish learning the new technique before treating it as mastered. It is <strong>not</strong> in the configured random Battlewill Manual pool.</p><p class="skill-evidence-note">Checked against Tensura 2.0.1.2 and the tracked 1.21.1 configuration. This is not a live-server acquisition test. <a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/battlewill_reference.json">Review the implementation evidence</a>.</p></section>
+<!-- skill-catalogue:end -->
+
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-battlewill" id="druid-container-1"><div><div class="druid-title">Cherry Blossoms - Eight Petals Flash</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png"><img alt="Cherry blossoms eight petals flash.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/battlewill/cherry-blossoms-eight-petals-flash-512b46c9e5.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-battlewill" id="druid-container-1"><div><div class="druid-title">Cherry Blossoms - Eight Petals Flash</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Cherry Blossoms - Eight Petals Flash illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/eight-petals-flash.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Battlewill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 100</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 400</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../plum-blossoms-five-petals-thrust/" title="Plum Blossoms - Five Petals Thrust">Plum Blossoms - Five Petals Thrust</a></div></div></div></div>
-<p>Create a shield of condensed aura to block attacks
+<p>Charge a weapon dash, then retain a petal-based defense against melee hits.
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <p><br/>
@@ -65,29 +68,22 @@ Battlewill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-
 <a href="../">Browse all Battlewill</a>
 </div>
 <div class="reference-related-grid">
-<a class="reference-related-card" href="../items-misc-battlewill-manual/">
-<img src="../../../assets/upstream/tensura/items/battlewill-manual-0e4bcb240e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Battlewill Manual</strong>
-<small>In all these locations its 50% chance</small>
-</span>
-</a>
 <a class="reference-related-card" href="../dark-eight-palms/">
-<img src="../../../assets/upstream/tensura/battlewill/dark-eight-palms-d5504ea658.png" alt="" loading="lazy" decoding="async">
+<img alt="Dark Eight Palms illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/dark-eight-palms.webp"/>
 <span class="reference-related-copy">
 <strong>Dark Eight Palms</strong>
 <small>Launch up to eight devastating aura blasts at foes</small>
 </span>
 </a>
 <a class="reference-related-card" href="../battlewill/">
-<img src="../../../assets/upstream/tensura/battlewill/battlewill-88fcb5e3c2.png" alt="" loading="lazy" decoding="async">
+<img alt="Battlewill illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/battlewill.webp"/>
 <span class="reference-related-copy">
 <strong>Battlewill</strong>
 <small>Channel your will, converting magicules into aura</small>
 </span>
 </a>
 <a class="reference-related-card" href="../death-march-dance/">
-<img src="../../../assets/upstream/tensura/battlewill/death-march-dance-2e9a45f1dc.png" alt="" loading="lazy" decoding="async">
+<img alt="Death March Dance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/death-march-dance.webp"/>
 <span class="reference-related-copy">
 <strong>Death March Dance</strong>
 <small>Gather your aura into a ring of devastating aura spheres that come crashing down</small>
@@ -102,9 +98,6 @@ Battlewill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-
 
 Base Tensura reference adapted from [Double Cherry Blossoms - Eight Petals Flash](https://tensura.wiki.gg/wiki/Double_Cherry_Blossoms_-_Eight_Petals_Flash) on the Tensura: Reincarnated Wiki (revision `12413`, modified `2026-04-22T13:24:49Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png">Cherry blossoms eight petals flash.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12172</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

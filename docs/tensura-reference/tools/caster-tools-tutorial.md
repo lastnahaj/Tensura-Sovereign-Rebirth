@@ -90,9 +90,3 @@ tags:
 ## Source and licensing
 
 Base Tensura reference adapted from [Caster Tools Tutorial](https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial) on the Tensura: Reincarnated Wiki (revision `12819`, modified `2026-05-07T07:49:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-</ul>
-</details>

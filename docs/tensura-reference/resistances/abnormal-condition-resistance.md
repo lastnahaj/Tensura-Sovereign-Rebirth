@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Abnormal Condition Resistance
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/abnormal-condition-resistance-ff74fa2d2b.png" alt="Abnormal Condition Resistance source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png">Abnormal condition resistance.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/abnormal-condition-resistance.webp" alt="Abnormal Condition Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Abnormal Condition Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -39,7 +36,7 @@ Taking 15 points of damage from Fear, Insanity, Petrification</li></ul><p class=
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png"><img alt="Abnormal condition resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/abnormal-condition-resistance-ff74fa2d2b.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Abnormal Condition Resistance illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/abnormal-condition-resistance.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 700</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -70,28 +67,28 @@ Taking 15 points of damage from Fear, Insanity, Petrification</div></div></div><
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../abnormal-condition-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/abnormal-condition-nullification-86698d5927.png"/>
+<img alt="Abnormal Condition Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/abnormal-condition-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Abnormal Condition Nullification</strong>
 <small>Abnormal Condition Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cold-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/cold-nullification-1a6202c19b.png"/>
+<img alt="Cold Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/cold-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Cold Nullification</strong>
 <small>Cold Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cold-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/cold-resistance-3e4c9f9684.png"/>
+<img alt="Cold Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/cold-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Cold Resistance</strong>
 <small>Cold Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corrosion-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/corrosion-nullification-bc1162b309.png"/>
+<img alt="Corrosion Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/corrosion-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Corrosion Nullification</strong>
 <small>Corrosion Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -106,9 +103,6 @@ Taking 15 points of damage from Fear, Insanity, Petrification</div></div></div><
 
 Base Tensura reference adapted from [Abnormal Condition Resistance](https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance) on the Tensura: Reincarnated Wiki (revision `12896`, modified `2026-05-18T08:57:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png">Abnormal condition resistance.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3223</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

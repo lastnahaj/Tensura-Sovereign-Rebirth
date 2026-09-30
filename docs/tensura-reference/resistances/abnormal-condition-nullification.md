@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Abnormal Condition Nullification
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/abnormal-condition-nullification-86698d5927.png" alt="Abnormal Condition Nullification source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_nullification.png">Abnormal condition nullification.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/abnormal-condition-nullification.webp" alt="Abnormal Condition Nullification illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Abnormal Condition Nullification is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -38,7 +35,7 @@ Awakening while in possession of <a class="mw-redirect" href="../abnormal-condit
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Nullification</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_nullification.png"><img alt="Abnormal condition nullification.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/abnormal-condition-nullification-86698d5927.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Abnormal Condition Nullification</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Abnormal Condition Nullification illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/abnormal-condition-nullification.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a class="mw-redirect" href="../abnormal-condition-resistance/" title="Abilities/Skills/Abnormal Condition Resistance">Abnormal Condition Resistance</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
@@ -66,28 +63,28 @@ Infection is unaffected by this
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../abnormal-condition-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/abnormal-condition-resistance-ff74fa2d2b.png"/>
+<img alt="Abnormal Condition Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/abnormal-condition-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Abnormal Condition Resistance</strong>
 <small>Abnormal Condition Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cold-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/cold-nullification-1a6202c19b.png"/>
+<img alt="Cold Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/cold-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Cold Nullification</strong>
 <small>Cold Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cold-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/cold-resistance-3e4c9f9684.png"/>
+<img alt="Cold Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/cold-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Cold Resistance</strong>
 <small>Cold Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../corrosion-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/corrosion-nullification-bc1162b309.png"/>
+<img alt="Corrosion Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/corrosion-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Corrosion Nullification</strong>
 <small>Corrosion Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -102,9 +99,6 @@ Infection is unaffected by this
 
 Base Tensura reference adapted from [Abnormal Condition Nullification](https://tensura.wiki.gg/wiki/Abnormal_Condition_Nullification) on the Tensura: Reincarnated Wiki (revision `13356`, modified `2026-08-14T03:10:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Abnormal_condition_nullification.png">Abnormal condition nullification.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3224</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

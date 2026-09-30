@@ -27,7 +27,7 @@
 | Images skipped due to licensing | 0 |
 | Images failed | 1 |
 
-The upstream File pages declare page content under CC BY-SA 4.0 unless otherwise noted. The synchronizer preserves source and revision records, imports media under that declaration, and rejects any file whose metadata or page text states restrictive or non-free terms.
+These counts describe the historical import, not a completed image-permission audit. New imports require a file-specific reusable image license and a rendered File-page exception check. Older footer-derived decisions remain under review; see the [public source ledger](sources-and-attribution.md#media-and-image-attribution).
 
 ## Link conversion
 

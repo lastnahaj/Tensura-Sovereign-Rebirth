@@ -15,12 +15,13 @@ Rebirth** heading.
 
 ## Media license policy
 
-The upstream File pages declare page content under
-[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise
-noted. The synchronizer verifies that File-page declaration, records each
-file's source page and revision, and checks its metadata and page text for
-exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
-file to be skipped.
+New imports require a file-specific reusable image license and a check of the
+rendered File-page licensing notice, including expanded templates. The general
+page-content footer does not establish image reuse permission. Unconfirmed
+permission, ownership notices, fair-use claims, and non-free terms prevent a
+new import. Older footer-derived records remain historical import decisions
+until their file-specific permissions are reviewed; see the
+[public source ledger](sources-and-attribution.md#media-and-image-attribution).
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in

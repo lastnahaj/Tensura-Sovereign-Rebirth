@@ -31,6 +31,8 @@
       "source": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Nullification",
       "revision": 13356,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/abnormal-condition-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/abnormal-condition-resistance.md": {
@@ -41,6 +43,8 @@
       "source": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance",
       "revision": 12896,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/abnormal-condition-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/absolute-severance.md": {
@@ -61,6 +65,18 @@
       "source": "https://tensura.wiki.gg/wiki/Absorb_%26_Dissolve",
       "revision": 13302,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/air-flight.md": {
+      "id": "tensura:air_flight",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Air Flight",
+      "source": "https://tensura.wiki.gg/wiki/Air_Flight",
+      "revision": 11361,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/air-flight.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/all-seeing-eye.md": {
@@ -101,6 +117,54 @@
       "source": "https://tensura.wiki.gg/wiki/Anti-Skill",
       "revision": 12446,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/aura-shield.md": {
+      "id": "tensura:aura_shield",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Aura Shield",
+      "source": "https://tensura.wiki.gg/wiki/Aura_Shield",
+      "revision": 11350,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/aura-shield.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/aura-slash.md": {
+      "id": "tensura:aura_slash",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Aura Slash",
+      "source": "https://tensura.wiki.gg/wiki/Aura_Slash",
+      "revision": 8478,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/aura-slash.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/aura-sword.md": {
+      "id": "tensura:aura_sword",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Aura Sword",
+      "source": "https://tensura.wiki.gg/wiki/Aura_Sword",
+      "revision": 10981,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/aura-sword.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/battlewill.md": {
+      "id": "tensura:battlewill",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Battlewill",
+      "source": "https://tensura.wiki.gg/wiki/Battlewill",
+      "revision": 8474,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/battlewill.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/beast-transformation.md": {
@@ -261,6 +325,8 @@
       "source": "https://tensura.wiki.gg/wiki/Cold_Nullification",
       "revision": 8416,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/cold-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/cold-resistance.md": {
@@ -271,6 +337,8 @@
       "source": "https://tensura.wiki.gg/wiki/Cold_Resistance",
       "revision": 13376,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/cold-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/commander.md": {
@@ -311,6 +379,8 @@
       "source": "https://tensura.wiki.gg/wiki/Corrosion_Nullification",
       "revision": 9675,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/corrosion-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/corrosion-resistance.md": {
@@ -321,6 +391,8 @@
       "source": "https://tensura.wiki.gg/wiki/Corrosion_Resistance",
       "revision": 13154,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/corrosion-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/creator.md": {
@@ -343,6 +415,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/dark-eight-palms.md": {
+      "id": "tensura:dark_eight_palms",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Dark Eight Palms",
+      "source": "https://tensura.wiki.gg/wiki/Dark_Eight_Palms",
+      "revision": 8472,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/dark-eight-palms.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/darkness-attack-nullification.md": {
       "id": "tensura:darkness_attack_nullification",
       "status": "registered",
@@ -351,6 +435,8 @@
       "source": "https://tensura.wiki.gg/wiki/Darkness_Attack_Nullification",
       "revision": 9678,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/darkness-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/darkness-attack-resistance.md": {
@@ -361,6 +447,8 @@
       "source": "https://tensura.wiki.gg/wiki/Darkness_Attack_Resistance",
       "revision": 10100,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/darkness-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/darkness-transform.md": {
@@ -371,6 +459,18 @@
       "source": "https://tensura.wiki.gg/wiki/Darkness_Transform",
       "revision": 10048,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/death-march-dance.md": {
+      "id": "tensura:death_march_dance",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Death March Dance",
+      "source": "https://tensura.wiki.gg/wiki/Death_March_Dance",
+      "revision": 11595,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/death-march-dance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/degenerate.md": {
@@ -393,6 +493,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/diamond-path.md": {
+      "id": "tensura:diamond_path",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Diamond Path",
+      "source": "https://tensura.wiki.gg/wiki/Diamond_Path",
+      "revision": 8468,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/diamond-path.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/divine-berserker.md": {
       "id": "tensura:divine_berserker",
       "status": "registered",
@@ -411,6 +523,18 @@
       "source": "https://tensura.wiki.gg/wiki/Divine_Ki_Release",
       "revision": 13351,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/double-cherry-blossoms-eight-petals-flash.md": {
+      "id": "tensura:eight_petals_flash",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Cherry Blossoms - Eight Petals Flash",
+      "source": "https://tensura.wiki.gg/wiki/Double_Cherry_Blossoms_-_Eight_Petals_Flash",
+      "revision": 12413,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/eight-petals-flash.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/dragon-ear.md": {
@@ -471,6 +595,8 @@
       "source": "https://tensura.wiki.gg/wiki/Earth_Attack_Nullification",
       "revision": 9681,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/earth-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/earth-attack-resistance.md": {
@@ -481,6 +607,8 @@
       "source": "https://tensura.wiki.gg/wiki/Earth_Attack_Resistance",
       "revision": 10101,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/earth-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/earth-domination.md": {
@@ -513,6 +641,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/earthshatter-kick.md": {
+      "id": "tensura:earthshatter_kick",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Earthshatter Kick",
+      "source": "https://tensura.wiki.gg/wiki/Earthshatter_Kick",
+      "revision": 9967,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/earthshatter-kick.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/resistances/electricity-nullification.md": {
       "id": "tensura:electricity_nullification",
       "status": "registered",
@@ -521,6 +661,8 @@
       "source": "https://tensura.wiki.gg/wiki/Electricity_Nullification",
       "revision": 9683,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/electricity-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/electricity-resistance.md": {
@@ -531,6 +673,20 @@
       "source": "https://tensura.wiki.gg/wiki/Electricity_Resistance",
       "revision": 13378,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/electricity-resistance.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/elephant-stampede.md": {
+      "id": "tensura:elephant_stampede",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Elephant Stampede",
+      "source": "https://tensura.wiki.gg/wiki/Elephant_Stampede",
+      "revision": 8464,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/elephant-stampede.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/engorger.md": {
@@ -601,6 +757,8 @@
       "source": "https://tensura.wiki.gg/wiki/Flame_Attack_Nullification",
       "revision": 9685,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/flame-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/flame-attack-resistance.md": {
@@ -611,6 +769,8 @@
       "source": "https://tensura.wiki.gg/wiki/Flame_Attack_Resistance",
       "revision": 13377,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/flame-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/flame-breath.md": {
@@ -651,6 +811,18 @@
       "source": "https://tensura.wiki.gg/wiki/Flame_Transform",
       "revision": 8658,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/formhide.md": {
+      "id": "tensura:formhide",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Formhide",
+      "source": "https://tensura.wiki.gg/wiki/Formhide",
+      "revision": 8462,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/formhide.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/fusionist.md": {
@@ -731,6 +903,8 @@
       "source": "https://tensura.wiki.gg/wiki/Gravity_Attack_Nullification",
       "revision": 11341,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/gravity-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/gravity-attack-resistance.md": {
@@ -741,6 +915,8 @@
       "source": "https://tensura.wiki.gg/wiki/Gravity_Attack_Resistance",
       "revision": 11339,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/gravity-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/gravity-domination.md": {
@@ -823,6 +999,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/haze.md": {
+      "id": "tensura:haze",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Haze",
+      "source": "https://tensura.wiki.gg/wiki/Haze",
+      "revision": 10651,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/haze.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/healer.md": {
       "id": "tensura:healer",
       "status": "registered",
@@ -841,6 +1029,8 @@
       "source": "https://tensura.wiki.gg/wiki/Heat_Nullification",
       "revision": 12444,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/heat-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/heat-resistance.md": {
@@ -851,6 +1041,8 @@
       "source": "https://tensura.wiki.gg/wiki/Heat_Resistance",
       "revision": 12445,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/heat-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/heat-wave.md": {
@@ -873,6 +1065,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/heavy-slash.md": {
+      "id": "tensura:heavy_slash",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Heavy Slash",
+      "source": "https://tensura.wiki.gg/wiki/Heavy_Slash",
+      "revision": 12577,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/heavy-slash.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/extra/hero-haki.md": {
       "id": "tensura:hero_haki",
       "status": "registered",
@@ -892,6 +1096,8 @@
       "revision": 12497,
       "namespace": "tensura",
       "availability_reason": "The upstream article describes Holy Attack Nullification as obtainable only through commands. No normal player acquisition route has been verified; this entry is reference-only.",
+      "asset": "assets/illustrations/skills/holy-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": false
     },
     "tensura-reference/resistances/holy-attack-resistance.md": {
@@ -902,6 +1108,8 @@
       "source": "https://tensura.wiki.gg/wiki/Holy_Attack_Resistance",
       "revision": 12473,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/holy-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/common/hydraulic-propulsion.md": {
@@ -934,6 +1142,29 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/instant-move.md": {
+      "id": "tensura:instant_move",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Instant-move",
+      "source": "https://tensura.wiki.gg/wiki/Instant-move",
+      "revision": 12829,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/instant-move.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/items-misc-battlewill-manual.md": {
+      "id": null,
+      "status": "guide",
+      "category": "battlewill",
+      "title": "Battlewill Manual",
+      "source": "https://tensura.wiki.gg/wiki/Items/Misc/Battlewill_Manual",
+      "revision": 13048,
+      "namespace": "tensura",
+      "availability_reason": "Battlewill Manual is a consumable learning item, not an ability. Its item reference is retained here; it is excluded from ability cards and mastery paths.",
+      "obtainment_documented": false
+    },
     "tensura-reference/skills/extra/law-manipulation.md": {
       "id": "tensura:law_manipulation",
       "status": "registered",
@@ -952,6 +1183,8 @@
       "source": "https://tensura.wiki.gg/wiki/Light_Attack_Nullification",
       "revision": 12489,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/light-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/light-attack-resistance.md": {
@@ -962,6 +1195,8 @@
       "source": "https://tensura.wiki.gg/wiki/Light_Attack_Resistance",
       "revision": 12491,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/light-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/light-transform.md": {
@@ -1012,6 +1247,18 @@
       "source": "https://tensura.wiki.gg/wiki/Magic_Aura",
       "revision": 12879,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/magic-bullet.md": {
+      "id": "tensura:magic_bullet",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Magic Bullet",
+      "source": "https://tensura.wiki.gg/wiki/Magic_Bullet",
+      "revision": 11136,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/magic-bullet.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/magic/magic-darkness-transform.md": {
@@ -1154,6 +1401,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/maximum-magic-bullet.md": {
+      "id": "tensura:maximum_magic_bullet",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Maximum Magic Bullet",
+      "source": "https://tensura.wiki.gg/wiki/Maximum_Magic_Bullet",
+      "revision": 11354,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/maximum-magic-bullet.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/unique/merciless.md": {
       "id": "tensura:merciless",
       "status": "registered",
@@ -1224,6 +1483,30 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/ogre-sword-cannon.md": {
+      "id": "tensura:ogre_sword_cannon",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Ogre-sword Cannon",
+      "source": "https://tensura.wiki.gg/wiki/Ogre-sword_Cannon",
+      "revision": 9966,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/ogre-sword-cannon.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/ogre-sword-guillotine.md": {
+      "id": "tensura:ogre_sword_guillotine",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Ogre-sword Guillotine",
+      "source": "https://tensura.wiki.gg/wiki/Ogre-sword_Guillotine",
+      "revision": 11355,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/ogre-sword-guillotine.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/intrinsic/ogre-berserker.md": {
       "id": "tensura:ogre_berserker",
       "status": "registered",
@@ -1232,6 +1515,18 @@
       "source": "https://tensura.wiki.gg/wiki/Ogre_Berserker",
       "revision": 11316,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/ogre-flame.md": {
+      "id": "tensura:ogre_flame",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Ogre Flame",
+      "source": "https://tensura.wiki.gg/wiki/Ogre_Flame",
+      "revision": 8452,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/ogre-flame.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/oppressor.md": {
@@ -1252,6 +1547,8 @@
       "source": "https://tensura.wiki.gg/wiki/Pain_Nullification",
       "revision": 12487,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/pain-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/pain-resistance.md": {
@@ -1262,6 +1559,8 @@
       "source": "https://tensura.wiki.gg/wiki/Pain_Resistance",
       "revision": 12485,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/pain-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/paralysing-breath.md": {
@@ -1292,6 +1591,8 @@
       "source": "https://tensura.wiki.gg/wiki/Paralysis_Nullification",
       "revision": 12483,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/paralysis-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/paralysis-resistance.md": {
@@ -1302,6 +1603,8 @@
       "source": "https://tensura.wiki.gg/wiki/Paralysis_Resistance",
       "revision": 12903,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/paralysis-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/physical-attack-nullification.md": {
@@ -1312,6 +1615,8 @@
       "source": "https://tensura.wiki.gg/wiki/Physical_Attack_Nullification",
       "revision": 8885,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/physical-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/physical-attack-resistance.md": {
@@ -1322,6 +1627,8 @@
       "source": "https://tensura.wiki.gg/wiki/Physical_Attack_Resistance",
       "revision": 10113,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/physical-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/pierce-nullification.md": {
@@ -1332,6 +1639,8 @@
       "source": "https://tensura.wiki.gg/wiki/Pierce_Nullification",
       "revision": 12499,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/pierce-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/pierce-resistance.md": {
@@ -1342,7 +1651,21 @@
       "source": "https://tensura.wiki.gg/wiki/Pierce_Resistance",
       "revision": 12448,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/pierce-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/plum-blossoms-five-petals-thrust.md": {
+      "id": "tensura:five_petals_thrust",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Plum Blossoms - Five Petals Thrust",
+      "source": "https://tensura.wiki.gg/wiki/Plum_Blossoms_-_Five_Petals_Thrust",
+      "revision": 12178,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/five-petals-thrust.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/common/poison.md": {
       "id": "tensura:poison",
@@ -1362,6 +1685,8 @@
       "source": "https://tensura.wiki.gg/wiki/Poison_Nullification",
       "revision": 12501,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/poison-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/poison-resistance.md": {
@@ -1372,6 +1697,8 @@
       "source": "https://tensura.wiki.gg/wiki/Poison_Resistance",
       "revision": 12503,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/poison-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/poisonous-breath.md": {
@@ -1462,6 +1789,18 @@
       "source": "https://tensura.wiki.gg/wiki/Reverser",
       "revision": 12798,
       "namespace": "tensura",
+      "obtainment_documented": true
+    },
+    "tensura-reference/battlewill/roaring-lion-punch.md": {
+      "id": "tensura:roaring_lion_punch",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Roaring Lion Punch",
+      "source": "https://tensura.wiki.gg/wiki/Roaring_Lion_Punch",
+      "revision": 11363,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/roaring-lion-punch.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/royal-beast.md": {
@@ -1662,6 +2001,8 @@
       "source": "https://tensura.wiki.gg/wiki/Spatial_Attack_Nullification",
       "revision": 12505,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/spatial-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/spatial-attack-resistance.md": {
@@ -1672,6 +2013,8 @@
       "source": "https://tensura.wiki.gg/wiki/Spatial_Attack_Resistance",
       "revision": 12507,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/spatial-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/spatial-domination.md": {
@@ -1732,6 +2075,8 @@
       "source": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Nullification",
       "revision": 12509,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/spiritual-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/spiritual-attack-resistance.md": {
@@ -1742,6 +2087,8 @@
       "source": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Resistance",
       "revision": 13352,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/spiritual-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/unique/starved.md": {
@@ -1832,6 +2179,8 @@
       "source": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Nullification",
       "revision": 12436,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/thermal-fluctuation-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/thermal-fluctuation-resistance.md": {
@@ -1842,6 +2191,8 @@
       "source": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Resistance",
       "revision": 12443,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/thermal-fluctuation-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/thought-acceleration.md": {
@@ -1994,6 +2345,18 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
+    "tensura-reference/battlewill/violent-break.md": {
+      "id": "tensura:violent_break",
+      "status": "registered",
+      "category": "battlewill",
+      "title": "Violent Break",
+      "source": "https://tensura.wiki.gg/wiki/Violent_Break",
+      "revision": 9138,
+      "namespace": "tensura",
+      "asset": "assets/illustrations/skills/violent-break.webp",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
+    },
     "tensura-reference/skills/common/voice-cannon.md": {
       "id": "tensura:voice_cannon",
       "status": "registered",
@@ -2012,6 +2375,8 @@
       "source": "https://tensura.wiki.gg/wiki/Water_Attack_Nullification",
       "revision": 12511,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/water-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/water-attack-resistance.md": {
@@ -2022,6 +2387,8 @@
       "source": "https://tensura.wiki.gg/wiki/Water_Attack_Resistance",
       "revision": 13391,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/water-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/common/water-blade.md": {
@@ -2112,6 +2479,8 @@
       "source": "https://tensura.wiki.gg/wiki/Wind_Attack_Nullification",
       "revision": 12513,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/wind-attack-nullification.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/resistances/wind-attack-resistance.md": {
@@ -2122,6 +2491,8 @@
       "source": "https://tensura.wiki.gg/wiki/Wind_Attack_Resistance",
       "revision": 13375,
       "namespace": "tensura",
+      "asset": "assets/illustrations/skills/wind-attack-resistance.webp",
+      "artwork_kind": "original-illustration",
       "obtainment_documented": true
     },
     "tensura-reference/skills/extra/wind-domination.md": {

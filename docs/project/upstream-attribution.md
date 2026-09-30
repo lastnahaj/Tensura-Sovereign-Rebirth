@@ -15,12 +15,21 @@ Rebirth** heading.
 
 ## Media license policy
 
-The upstream File pages declare page content under
-[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise
-noted. The synchronizer verifies that File-page declaration, records each
-file's source page and revision, and checks its metadata and page text for
-exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
-file to be skipped.
+New imports require an explicit reusable license for the image itself and a
+check of the rendered File-page licensing notice, including expanded templates.
+The general page-content footer does not establish an image license.
+Game-studio ownership notices, fair-use claims, non-free terms, and unconfirmed
+permission prevent a new import. Legacy footer-derived records are historical
+import decisions, not proof of image reuse permission; file-level reviews
+supersede them.
+
+The September 30 review withdrew **65 core ability icons** from current
+distribution: 42 resistance icons and 23 Battlewill icons. Of those files,
+63 have game-studio/licensor ownership notices; two have no verified
+file-specific reusable license. Original TSR illustrations replace them.
+The [file-level review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json)
+retains the source pages and decisions. Other legacy media remains in the
+permission-review queue; its old import status is not a completed license audit.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in

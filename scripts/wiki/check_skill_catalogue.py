@@ -47,6 +47,8 @@ def main():
             errors.append(f'Missing reviewed artwork: {skill_id}')
         elif entry['kind'] == 'verified-source' and hashlib.sha256(asset.read_bytes()).hexdigest() != entry['media']['sha256']:
             errors.append(f'Source artwork checksum mismatch: {skill_id}')
+        elif entry.get('sha256') and hashlib.sha256(asset.read_bytes()).hexdigest() != entry['sha256']:
+            errors.append(f'Original artwork checksum mismatch: {skill_id}')
         original_asset = entry.get('media', {}).get('original_asset')
         if original_asset:
             original_path = DOCS / original_asset
@@ -69,6 +71,17 @@ def main():
             errors.append(f'Resistance article missing a registry decision: {record["local_page"]}')
     if policy["pages"].get("tensura-reference/resistances/spellbinding-table.md", {}).get("status") != "guide":
         errors.append("Spellbinding Table must not be presented as a resistance skill")
+    battlewill_entries = {page: decision for page, decision in policy['pages'].items() if decision['namespace'] == 'tensura' and decision['category'] == 'battlewill' and decision['status'] in ACTIVE}
+    if len(battlewill_entries) != 23 or len({decision['id'] for decision in battlewill_entries.values()}) != 23:
+        errors.append('Core Battlewill catalogue must include 23 distinct registry-matched techniques')
+    if policy['pages'].get('tensura-reference/battlewill/items-misc-battlewill-manual.md', {}).get('status') != 'guide':
+        errors.append('Battlewill Manual must not be presented as an ability')
+    for page, decision in battlewill_entries.items():
+        panel = BeautifulSoup(outputs[page], 'html.parser').select_one('.skill-obtainment')
+        if not panel:
+            errors.append(f'Battlewill learning panel missing: {page}')
+        elif decision['id'] == 'tensura:five_petals_thrust' and 'Normal acquisition unverified' not in panel.get_text():
+            errors.append('Five Petals Thrust must not invent a random-manual or mastery acquisition route')
     active = {p: d for p, d in policy["pages"].items() if d["status"] in ACTIVE}
     for page, decision in active.items():
         if generated_pages[page].get('asset', '').startswith('assets/icons/skills/'):
@@ -155,7 +168,7 @@ def main():
                 errors.append(f"Obtainment panel obscures visual overview: {page}")
             if not soup.select_one('.reference-quick-jumps a[href="#how-to-obtain"]'):
                 errors.append(f"Missing obtainment jump: {page}")
-        if decision["namespace"] in {"mysticism", "trnightmare"}:
+        if decision["namespace"] in {"mysticism", "trnightmare"} or decision['id'] in artwork:
             previews = soup.select(".reference-overview img, .skill-detail-hero img")
             asset = generated_pages[page].get("asset")
             if progression.get(route(page), {}).get('image') != asset:

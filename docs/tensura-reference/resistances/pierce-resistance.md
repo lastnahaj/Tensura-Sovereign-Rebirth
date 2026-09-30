@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Pierce Resistance
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/pierce-resistance-503c545c51.png" alt="Pierce Resistance source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Pierce_resistance.png">Pierce resistance.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/pierce-resistance.webp" alt="Pierce Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Pierce Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -40,7 +37,7 @@ Taking over 15 damage at once from any source of piercing attacks.</li></ul><p c
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Pierce Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Pierce_resistance.png"><img alt="Pierce resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/pierce-resistance-503c545c51.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Pierce Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Pierce Resistance illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/pierce-resistance.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 350</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -80,28 +77,28 @@ a spear or a trident.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../pierce-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/pierce-nullification-cb360f52d9.png"/>
+<img alt="Pierce Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/pierce-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Pierce Nullification</strong>
 <small>Pierce Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/poison-nullification-9d13a1e369.png"/>
+<img alt="Poison Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/poison-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Poison Nullification</strong>
 <small>Poison Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../physical-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png"/>
+<img alt="Physical Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/physical-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Physicial Attack Nullification</strong>
 <small>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../poison-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/poison-resistance-0641fa05ff.png"/>
+<img alt="Poison Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/poison-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Poison Resistance</strong>
 <small>Poison Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -116,9 +113,6 @@ a spear or a trident.
 
 Base Tensura reference adapted from [Pierce Resistance](https://tensura.wiki.gg/wiki/Pierce_Resistance) on the Tensura: Reincarnated Wiki (revision `12448`, modified `2026-04-24T08:24:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Pierce_resistance.png">Pierce resistance.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3237</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

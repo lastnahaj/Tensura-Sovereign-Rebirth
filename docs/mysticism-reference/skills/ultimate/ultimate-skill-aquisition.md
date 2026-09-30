@@ -61,9 +61,3 @@ tags:
 ## Source and licensing
 
 TR Mysticism reference adapted from [Ultimate Skill Aquisition](https://trmysticism.wiki.gg/wiki/Ultimate_Skill_Aquisition) on the Tensura Reincarnated: Mysticism Wiki (revision `3427`, modified `2026-07-23T02:34:39Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-</ul>
-</details>

@@ -154,6 +154,14 @@ def build() -> dict:
         predecessor = reviewed_skills.get(review["predecessor_registry_id"])
         if predecessor:
             connect(predecessor, target, "Mastery / evolution", review["requirements"])
+    battlewill = json.loads((ROOT / 'data/battlewill_reference.json').read_text(encoding='utf-8'))
+    ability_routes = {decision['id']: route(page) for page, decision in policy['pages'].items() if decision['status'] in ACTIVE}
+    for unlock in battlewill['mastery_unlocks']:
+        start, end = ability_routes.get(unlock['from']), ability_routes.get(unlock['to'])
+        if not start or not end:
+            raise ValueError(f'Battlewill mastery endpoint missing: {unlock}')
+        edges.pop((start, end), None)
+        connect(start, end, 'Mastery', 'Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock.')
     current_edges = [edge for edge in edges.values() if edge["from"] in nodes and edge["to"] in nodes]
     return {"nodes": nodes, "edges": sorted(current_edges, key=lambda edge: (edge["from"], edge["to"]))}
 

@@ -135,28 +135,28 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../spatial-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spatial-attack-resistance-b8d6e51ab2.png"/>
+<img alt="Spatial Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spatial-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Spatial Attack Resistance</strong>
 <small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritual-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spiritual-attack-nullification-7e9a43565d.png"/>
+<img alt="Spiritual Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spiritual-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Spiritual Attack Nullification</strong>
 <small>Spiritual Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spatial-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spatial-attack-nullification-0fea80c81d.png"/>
+<img alt="Spatial Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spatial-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Spatial Attack Nullification</strong>
 <small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../spiritual-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png"/>
+<img alt="Spiritual Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spiritual-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Spiritual Attack Resistance</strong>
 <small>Spiritual Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>

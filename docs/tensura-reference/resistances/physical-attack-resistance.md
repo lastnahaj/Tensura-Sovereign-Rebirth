@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Physical Attack Resistance
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/physical-attack-resistance-3a55334e16.png" alt="Physical Attack Resistance source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Physical_attack_resistance.png">Physical attack resistance.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/physical-attack-resistance.webp" alt="Physical Attack Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Physical Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -40,7 +37,7 @@ Taking over 20 damage at once from any source of physical attack.</li></ul><p cl
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Physical Attack Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Physical_attack_resistance.png"><img alt="Physical attack resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/physical-attack-resistance-3a55334e16.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Physical Attack Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Physical Attack Resistance illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/physical-attack-resistance.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-PointstoLearn" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoLearn">Points to Learn</div><div class="druid-data druid-data-PointstoLearn druid-data-nonempty">
 700</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
@@ -82,28 +79,28 @@ Not be generic magic damage. <br/>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../paralysis-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/paralysis-resistance-eb8193647d.png"/>
+<img alt="Paralysis Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/paralysis-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Paralysis Resistance</strong>
 <small>Paralysis Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../physical-attack-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png"/>
+<img alt="Physical Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/physical-attack-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Physicial Attack Nullification</strong>
 <small>Physical Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/paralysis-nullification-dcf64e275f.png"/>
+<img alt="Paralysis Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/paralysis-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Paralysis Nullification</strong>
 <small>Paralysis Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../pierce-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/pierce-nullification-cb360f52d9.png"/>
+<img alt="Pierce Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/pierce-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Pierce Nullification</strong>
 <small>Pierce Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -118,9 +115,6 @@ Not be generic magic damage. <br/>
 
 Base Tensura reference adapted from [Physical Attack Resistance](https://tensura.wiki.gg/wiki/Physical_Attack_Resistance) on the Tensura: Reincarnated Wiki (revision `10113`, modified `2025-08-20T19:35:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Physical_attack_resistance.png">Physical attack resistance.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3197</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

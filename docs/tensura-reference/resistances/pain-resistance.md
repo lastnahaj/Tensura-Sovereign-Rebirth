@@ -13,10 +13,7 @@ tags:
 **Also known as:** Abilities/Skills/Pain Resistance
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/resistances/pain-resistance-94e81b4a72.png" alt="Pain Resistance source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Pain_resistance.png">Pain resistance.png · CC BY-SA 4.0</a></figcaption>
-</figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../assets/illustrations/skills/pain-resistance.webp" alt="Pain Resistance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>Pain Resistance is a Resistance Skill in Tensura: Reincarnated.</p>
@@ -39,7 +36,7 @@ Taking over 15 damage at once from any source</li></ul><p class="skill-evidence-
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Pain Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Pain_resistance.png"><img alt="Pain resistance.png" data-file-height="512" data-file-width="512" decoding="async" height="256" loading="lazy" src="../../../assets/upstream/tensura/resistances/pain-resistance-94e81b4a72.png" width="256"/></a></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="druid-infobox druid-container druid-container-skill" id="druid-container-1"><div><div class="druid-title">Pain Resistance</div></div><div class="druid-section-container"><div class="druid-main-image"><img alt="Pain Resistance illustration" decoding="async" height="256" loading="lazy" src="../../../assets/illustrations/skills/pain-resistance.webp" width="256"/></div></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">
 Resistance Skill</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggled</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Next" data-druid-section-row="Evolution"><div class="druid-label druid-label-Next">Next</div><div class="druid-data druid-data-Next druid-data-nonempty">
 <a class="mw-redirect" href="../pain-nullification/" title="Abilities/Skills/Pain Nullification">Pain Nullification</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
@@ -68,28 +65,28 @@ Taking over 15 damage at once from any source</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../pain-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/pain-nullification-404b1c5c4b.png"/>
+<img alt="Pain Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/pain-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Pain Nullification</strong>
 <small>Pain Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-nullification/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/paralysis-nullification-dcf64e275f.png"/>
+<img alt="Paralysis Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/paralysis-nullification.webp"/>
 <span class="reference-related-copy">
 <strong>Paralysis Nullification</strong>
 <small>Paralysis Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../light-attack-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/light-attack-resistance-cd12540ad8.png"/>
+<img alt="Light Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/light-attack-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Light Attack Resistance</strong>
 <small>Light Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../paralysis-resistance/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/resistances/paralysis-resistance-eb8193647d.png"/>
+<img alt="Paralysis Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/paralysis-resistance.webp"/>
 <span class="reference-related-copy">
 <strong>Paralysis Resistance</strong>
 <small>Paralysis Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
@@ -104,9 +101,6 @@ Taking over 15 damage at once from any source</div></div></div></div>
 
 Base Tensura reference adapted from [Pain Resistance](https://tensura.wiki.gg/wiki/Pain_Resistance) on the Tensura: Reincarnated Wiki (revision `12485`, modified `2026-04-24T09:38:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Pain_resistance.png">Pain resistance.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3200</li>
-</ul>
-</details>
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

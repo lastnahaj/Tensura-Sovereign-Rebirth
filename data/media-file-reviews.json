@@ -1,0 +1,590 @@
+{
+  "schema": 1,
+  "reviews": [
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Abnormal_condition_nullification.png",
+      "source_title": "Abnormal condition nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/abnormal-condition-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png",
+      "source_title": "Abnormal condition resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/abnormal-condition-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Air_flight.png",
+      "source_title": "Air flight.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/air-flight.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Aura_shield.png",
+      "source_title": "Aura shield.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/aura-shield.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Aura_slash.png",
+      "source_title": "Aura slash.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/aura-slash.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Aura_sword.png",
+      "source_title": "Aura sword.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/aura-sword.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Battlewill.png",
+      "source_title": "Battlewill.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/battlewill.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png",
+      "source_title": "Cherry blossoms eight petals flash.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-specific-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/illustrations/skills/eight-petals-flash.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Cold_nullification.png",
+      "source_title": "Cold nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/cold-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Cold_resistance.png",
+      "source_title": "Cold resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/cold-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Corrosion_nullification.png",
+      "source_title": "Corrosion nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/corrosion-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Corrosion_resistance.png",
+      "source_title": "Corrosion resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/corrosion-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Dark_eight_palms.png",
+      "source_title": "Dark eight palms.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/dark-eight-palms.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Darkness_attack_nullification.png",
+      "source_title": "Darkness attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/darkness-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Darkness_attack_resistance.png",
+      "source_title": "Darkness attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/darkness-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Death_march_dance.png",
+      "source_title": "Death march dance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/death-march-dance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Diamond_path.png",
+      "source_title": "Diamond path.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/diamond-path.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Earth_attack_nullification.png",
+      "source_title": "Earth attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/earth-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Earth_attack_resistance.png",
+      "source_title": "Earth attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/earth-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Earthshatter_kick.png",
+      "source_title": "Earthshatter kick.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/earthshatter-kick.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Electricity_nullification.png",
+      "source_title": "Electricity nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/electricity-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Electricity_resistance.png",
+      "source_title": "Electricity resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/electricity-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Elephant_stampede.png",
+      "source_title": "Elephant stampede.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/elephant-stampede.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Flame_attack_nullification.png",
+      "source_title": "Flame attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/flame-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Flame_attack_resistance.png",
+      "source_title": "Flame attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/flame-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Formhide.png",
+      "source_title": "Formhide.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/formhide.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Gravity_attack_nullification.png",
+      "source_title": "Gravity attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/gravity-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Gravity_attack_resistance.png",
+      "source_title": "Gravity attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/gravity-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Haze.png",
+      "source_title": "Haze.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/haze.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Heat_nullification.png",
+      "source_title": "Heat nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/heat-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Heat_resistance.png",
+      "source_title": "Heat resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/heat-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Heavy_slash.png",
+      "source_title": "Heavy slash.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/heavy-slash.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_nullification.png",
+      "source_title": "Holy attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/holy-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_resistance.png",
+      "source_title": "Holy attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/holy-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Instant_move.png",
+      "source_title": "Instant move.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/instant-move.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_nullification.png",
+      "source_title": "Light attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/light-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_resistance.png",
+      "source_title": "Light attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/light-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_bullet.png",
+      "source_title": "Magic bullet.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/magic-bullet.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Maximum_magic_bullet.png",
+      "source_title": "Maximum magic bullet.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/maximum-magic-bullet.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_flame.png",
+      "source_title": "Ogre flame.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/ogre-flame.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_sword_cannon.png",
+      "source_title": "Ogre sword cannon.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/ogre-sword-cannon.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_sword_guillotine.png",
+      "source_title": "Ogre sword guillotine.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/ogre-sword-guillotine.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Pain_nullification.png",
+      "source_title": "Pain nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/pain-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Pain_resistance.png",
+      "source_title": "Pain resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/pain-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Paralysis_nullification.png",
+      "source_title": "Paralysis nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/paralysis-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Paralysis_resistance.png",
+      "source_title": "Paralysis resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/paralysis-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Physical_attack_nullification.png",
+      "source_title": "Physical attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/physical-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Physical_attack_resistance.png",
+      "source_title": "Physical attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/physical-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Pierce_nullification.png",
+      "source_title": "Pierce nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/pierce-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Pierce_resistance.png",
+      "source_title": "Pierce resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/pierce-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Plum_blossoms_five_petals_thrust.png",
+      "source_title": "Plum blossoms five petals thrust.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-specific-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/illustrations/skills/five-petals-thrust.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Poison_nullification.png",
+      "source_title": "Poison nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/poison-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Poison_resistance.png",
+      "source_title": "Poison resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/poison-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Roaring_lion_punch.png",
+      "source_title": "Roaring lion punch.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/roaring-lion-punch.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Spatial_attack_nullification.png",
+      "source_title": "Spatial attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/spatial-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Spatial_attack_resistance.png",
+      "source_title": "Spatial attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/spatial-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Spiritual_attack_nullification.png",
+      "source_title": "Spiritual attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/spiritual-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Spiritual_attack_resistance.png",
+      "source_title": "Spiritual attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/spiritual-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Thermal_fluctuation_nullification.png",
+      "source_title": "Thermal fluctuation nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/thermal-fluctuation-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Thermal_fluctuation_resistance.png",
+      "source_title": "Thermal fluctuation resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/thermal-fluctuation-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Violent_break.png",
+      "source_title": "Violent break.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/violent-break.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Water_attack_nullification.png",
+      "source_title": "Water attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/water-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Water_attack_resistance.png",
+      "source_title": "Water attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/water-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Wind_attack_nullification.png",
+      "source_title": "Wind attack nullification.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/wind-attack-nullification.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Wind_attack_resistance.png",
+      "source_title": "Wind attack resistance.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/illustrations/skills/wind-attack-resistance.webp"
+    }
+  ]
+}

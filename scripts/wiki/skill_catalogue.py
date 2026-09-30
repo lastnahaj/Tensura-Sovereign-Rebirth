@@ -9,8 +9,13 @@ ROOT = Path(__file__).resolve().parents[2]
 POOL = ROOT / "pack/config/tensura_skill_books/tensura_skill_books-random-skills.txt"
 TYPES = {name.upper(): "skills/" + name for name in ("common", "extra", "intrinsic", "unique", "ultimate")}
 TYPES.update({"COMBAT": "battlewill", "MAGIC_ASPECTUAL": "magic", "MAGIC_SPIRITUAL": "magic", "MAGIC_SUMMONING": "magic", "RESISTANCE": "resistances"})
-GUIDES = {"Abilities", "Abilities/Skills", "Bypass/Degrade Skills", "Mastery Boost Skills", "Ultimate Skill Aquisition", "Spellbinding Table"}
-ALIASES = {"ascension:shadowdummy": "ascension:image_training"}
+GUIDES = {"Abilities", "Abilities/Skills", "Bypass/Degrade Skills", "Mastery Boost Skills", "Ultimate Skill Aquisition", "Spellbinding Table", "Items/Misc/Battlewill Manual"}
+ALIASES = {
+    "ascension:shadowdummy": "ascension:image_training",
+    "tensura:doublecherryblossomseightpetalsflash": "tensura:eight_petals_flash",
+    "tensura:cherryblossomseightpetalsflash": "tensura:eight_petals_flash",
+    "tensura:plumblossomsfivepetalsthrust": "tensura:five_petals_thrust",
+}
 # Registration alone is not a completed gameplay feature.
 HELD = {
     "mysticism:embryo": "The pinned implementation is an unfinished skill; no completed effect is documented.",
@@ -56,7 +61,7 @@ def catalogue() -> dict:
         manifest = json.loads((ROOT / f"data/upstream_{namespace}_pages.json").read_text(encoding="utf-8"))
         for record in manifest["pages"]:
             identifier = identify(namespace, record["display_title"], pool) or identify(namespace, record["source_title"], pool)
-            is_skill = record["category"].startswith("skills/") or record["category"] == "resistances"
+            is_skill = record["category"].startswith("skills/") or record["category"] in {"resistances", "battlewill"}
             if not is_skill:
                 if not (identifier and record["category"] == "magic" and pool[identifier]["category"].startswith("skills/")):
                     continue
@@ -75,6 +80,7 @@ def catalogue() -> dict:
                 "title": record["display_title"], "source": record["source_url"],
                 "revision": record["revision_id"], "namespace": namespace,
                 **({"availability_reason": HELD[identifier]} if identifier in HELD else {}),
+                **({"availability_reason": "Battlewill Manual is a consumable learning item, not an ability. Its item reference is retained here; it is excluded from ability cards and mastery paths."} if record["source_title"] == "Items/Misc/Battlewill Manual" else {}),
             }
     maintained = json.loads((ROOT / "data/ascension_reference.json").read_text(encoding="utf-8"))
     for entry in maintained["entries"]:

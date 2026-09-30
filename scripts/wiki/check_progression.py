@@ -66,6 +66,14 @@ def main() -> int:
     reviewed_skills = json.loads((ROOT / "data/nightmares_skill_reference.json").read_text(encoding="utf-8"))["pages"]
     reviewed_routes = {record["registry_id"]: record["local_page"].removesuffix(".md") + "/" for record in reviewed_skills}
     connections = {(edge["from"], edge["to"]): edge for edge in graph["edges"]}
+    from skill_catalogue import ACTIVE, catalogue
+    battlewill_routes = {decision['id']: page.removesuffix('.md') + '/' for page, decision in catalogue()['pages'].items() if decision['status'] in ACTIVE}
+    for unlock in json.loads((ROOT / 'data/battlewill_reference.json').read_text(encoding='utf-8'))['mastery_unlocks']:
+        pair = (battlewill_routes[unlock['from']], battlewill_routes[unlock['to']])
+        if 'Mastery' not in connections.get(pair, {}).get('kinds', []):
+            errors.append(f'Verified Battlewill mastery connection missing: {unlock["from"]} -> {unlock["to"]}')
+    if 'tensura-reference/battlewill/items-misc-battlewill-manual/' in graph['nodes']:
+        errors.append('Battlewill Manual item must not be an ability progression node')
     for record in reviewed_skills:
         review = record.get("progression_review")
         if not review:

@@ -95,12 +95,6 @@ tags:
 
 TR Mysticism reference adapted from [Mithril Strength](https://trmysticism.wiki.gg/wiki/Mithril_Strength) on the Tensura Reincarnated: Mysticism Wiki (revision `3472`, modified `2026-09-05T18:18:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-</ul>
-</details>
-
 <!-- skill-artwork-credit:start -->
 Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
 <!-- skill-artwork-credit:end -->

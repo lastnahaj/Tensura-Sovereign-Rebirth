@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 title: Battlewill Manual
 description: 'Found in: Abandoned Mineshaft Bastion (Hoglin stable) Desert Pyramid Igloo Ruined Portal Spawner Stronghold Underwater ruin (Big) Woodland Mansion Trial Chambers Vault (regular loot) Trial chambers Ominous Vault (regular/Common) In all these locations its 50% chance Randomly gives one of the many battlewill...'
 tags:
@@ -11,6 +13,10 @@ tags:
 <span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Battlewill</span>
 
 **Also known as:** Battlewill Manual
+
+<!-- skill-catalogue:start -->
+<aside class="skill-availability skill-availability--historical"><h2 id="reference-status">Reference status</h2><p>Battlewill Manual is a consumable learning item, not an ability. Its item reference is retained here; it is excluded from ability cards and mastery paths.</p><a href="../../skills/">Browse current skills →</a></aside>
+<!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
 <figure class="reference-overview-media reference-overview-media--source">
@@ -99,28 +105,28 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../battlewill/">
-<img src="../../../assets/upstream/tensura/battlewill/battlewill-88fcb5e3c2.png" alt="" loading="lazy" decoding="async">
+<img alt="Battlewill illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/battlewill.webp"/>
 <span class="reference-related-copy">
 <strong>Battlewill</strong>
 <small>Channel your will, converting magicules into aura</small>
 </span>
 </a>
 <a class="reference-related-card" href="../double-cherry-blossoms-eight-petals-flash/">
-<img src="../../../assets/upstream/tensura/battlewill/cherry-blossoms-eight-petals-flash-512b46c9e5.png" alt="" loading="lazy" decoding="async">
+<img alt="Cherry Blossoms - Eight Petals Flash illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/eight-petals-flash.webp"/>
 <span class="reference-related-copy">
 <strong>Cherry Blossoms - Eight Petals Flash</strong>
 <small>Create a shield of condensed aura to block attacks</small>
 </span>
 </a>
 <a class="reference-related-card" href="../aura-sword/">
-<img src="../../../assets/upstream/tensura/battlewill/aura-sword-8dedd42c0b.png" alt="" loading="lazy" decoding="async">
+<img alt="Aura Sword illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/aura-sword.webp"/>
 <span class="reference-related-copy">
 <strong>Aura Sword</strong>
 <small>Coat your weapon in aura enhancing its blows</small>
 </span>
 </a>
 <a class="reference-related-card" href="../dark-eight-palms/">
-<img src="../../../assets/upstream/tensura/battlewill/dark-eight-palms-d5504ea658.png" alt="" loading="lazy" decoding="async">
+<img alt="Dark Eight Palms illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/dark-eight-palms.webp"/>
 <span class="reference-related-copy">
 <strong>Dark Eight Palms</strong>
 <small>Launch up to eight devastating aura blasts at foes</small>

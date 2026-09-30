@@ -1851,6 +1851,916 @@
         "article": "https://tensuranightmares.wiki.gg/wiki/Ego_Management",
         "result": "The live article has a File:Soon placeholder and no skill image."
       }
+    },
+    "tensura:air_flight": {
+      "asset": "assets/illustrations/skills/air-flight.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9e8f9990086e4ab478c0b523fd5f9e006bdfff91c3df7c9ee874e5da8d926f37",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Air_Flight",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Air_flight.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:aura_shield": {
+      "asset": "assets/illustrations/skills/aura-shield.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fdb43071db6cf50cf173a192610bb2eb009824e429b119cef71c2533225670db",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Aura_Shield",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Aura_shield.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:aura_slash": {
+      "asset": "assets/illustrations/skills/aura-slash.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "88208a1d7dc640228dd89664bffe9830df27da5429eedc216c08a3fabe119a61",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Aura_Slash",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Aura_slash.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:aura_sword": {
+      "asset": "assets/illustrations/skills/aura-sword.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "da748db80b8ffcf1444451828fc5fdb086bc45f8d0272db53cac3bb37cc93dbd",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Aura_Sword",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Aura_sword.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:battlewill": {
+      "asset": "assets/illustrations/skills/battlewill.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ac9118695dfa7064ef7354822c5a4dc6a1d3b42698e9173088666f6538d8c64b",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Battlewill",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Battlewill.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:dark_eight_palms": {
+      "asset": "assets/illustrations/skills/dark-eight-palms.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ab07ccce23232a92570b42dc1f90fef25c6c421c41c8e2fce6889057f36dbf36",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Dark_Eight_Palms",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Dark_eight_palms.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:death_march_dance": {
+      "asset": "assets/illustrations/skills/death-march-dance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "f9326826cac7ebcb28ddc1c395cf0c51eb7d731b05fefdf6f3083691b21789d5",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Death_March_Dance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Death_march_dance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:diamond_path": {
+      "asset": "assets/illustrations/skills/diamond-path.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1677423865f3a7da8e4d8e660853e408b85fdcd75be2a034258cbd0da604691a",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Diamond_Path",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Diamond_path.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:eight_petals_flash": {
+      "asset": "assets/illustrations/skills/eight-petals-flash.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2aa1ad52e0b260c3db92b3bd84b2a5711b4a2bc8a923ae6bd6ba1c1ae9e3b6cd",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Double_Cherry_Blossoms_-_Eight_Petals_Flash",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png",
+        "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+      }
+    },
+    "tensura:earthshatter_kick": {
+      "asset": "assets/illustrations/skills/earthshatter-kick.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "3f3e4b274fdfaf729dfb4a83fc5c48a738acc0b675b9d03255465de687c6e9c8",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Earthshatter_Kick",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Earthshatter_kick.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:elephant_stampede": {
+      "asset": "assets/illustrations/skills/elephant-stampede.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ca112b50d1e4f67651da498ed60b0ff684bf12454beef5c72741c9bac2fe3ac3",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Elephant_Stampede",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Elephant_stampede.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:formhide": {
+      "asset": "assets/illustrations/skills/formhide.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "89a46a54f0575cd8d261d565a53579b03835f170b124d5fc34758b7c5834ecb1",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Formhide",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Formhide.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:haze": {
+      "asset": "assets/illustrations/skills/haze.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2e0b191d3895a19d5c9c97ab44df728f3ca92d8ad5d0472be5a1c050fcf6fd32",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Haze",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Haze.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:heavy_slash": {
+      "asset": "assets/illustrations/skills/heavy-slash.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "3a109818b86bf0613b37da768c855a06e1f4a781777d3a91a55a93fe0981f964",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Heavy_Slash",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Heavy_slash.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:instant_move": {
+      "asset": "assets/illustrations/skills/instant-move.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b87f58bd32efedf47021f73acfd33b02e1b9760460e7d752093d855555ade714",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Instant-move",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Instant_move.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:magic_bullet": {
+      "asset": "assets/illustrations/skills/magic-bullet.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "af621c62a6e122ea7f2c882fa3046db7f33238b3d83d511550f44faee5fd18c9",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Magic_Bullet",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Magic_bullet.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:maximum_magic_bullet": {
+      "asset": "assets/illustrations/skills/maximum-magic-bullet.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8983827b778ec9adf8c145a6db99795e2218aa91323ad5a519079bf51c8a0ffc",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Maximum_Magic_Bullet",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Maximum_magic_bullet.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:ogre_sword_cannon": {
+      "asset": "assets/illustrations/skills/ogre-sword-cannon.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1a905537961e8aeb5218ed9e6149a1463be98b12143fb604a87138ad88c181e6",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Ogre-sword_Cannon",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_sword_cannon.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:ogre_sword_guillotine": {
+      "asset": "assets/illustrations/skills/ogre-sword-guillotine.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "332b93bf16ca6a4b74978b4aeb9201024d124d9f00d141c86ff13c83de63496a",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Ogre-sword_Guillotine",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_sword_guillotine.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:ogre_flame": {
+      "asset": "assets/illustrations/skills/ogre-flame.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bfd70caf3f9d16bee2e674d0814888a492f408eea5f422ac5e72a27b42816172",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Ogre_Flame",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_flame.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:five_petals_thrust": {
+      "asset": "assets/illustrations/skills/five-petals-thrust.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cb9399b763451374fc61b96d11be308840c692372e607627057daa0e6909fc51",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Plum_Blossoms_-_Five_Petals_Thrust",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Plum_blossoms_five_petals_thrust.png",
+        "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+      }
+    },
+    "tensura:roaring_lion_punch": {
+      "asset": "assets/illustrations/skills/roaring-lion-punch.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1ee442f032d61f921e442e536bc08773b7e66c3ac05857bcc9cd1d860b25e07b",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Roaring_Lion_Punch",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Roaring_lion_punch.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:violent_break": {
+      "asset": "assets/illustrations/skills/violent-break.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "92a5f3c298c01987fe6722a0f3646b2fcc3930a46b93d954e328a450d6ace64d",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Violent_Break",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Violent_break.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:abnormal_condition_resistance": {
+      "asset": "assets/illustrations/skills/abnormal-condition-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "e03ca466382a9aaddd280b9d9295109c6292ec6998f854d5f82274f2541fdf8e",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Abnormal_condition_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:abnormal_condition_nullification": {
+      "asset": "assets/illustrations/skills/abnormal-condition-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6ab149396ee13e375145c6834ae0a796082176a50c9fa736cf00e43ec0bb5aa5",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Abnormal_Condition_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Abnormal_condition_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:cold_resistance": {
+      "asset": "assets/illustrations/skills/cold-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6a5a2b4af4bb49fa3686fdfd4f6eb476a1e18f43609025828d25d7339f6f69b2",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Cold_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Cold_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:cold_nullification": {
+      "asset": "assets/illustrations/skills/cold-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "dd98d107c33ef39ad51d71eebe5eac3522518b65ae95531b00b0e7a049396298",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Cold_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Cold_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:corrosion_resistance": {
+      "asset": "assets/illustrations/skills/corrosion-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6d769f39739507bd39d04d785ada450c628c8c16c2e869b1ed3cd8654bf3e53b",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Corrosion_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Corrosion_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:corrosion_nullification": {
+      "asset": "assets/illustrations/skills/corrosion-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "17d77ce3978d8662ec1c582f33c01f40d9198131141947cd5f2aeb7eb2810011",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Corrosion_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Corrosion_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:darkness_attack_nullification": {
+      "asset": "assets/illustrations/skills/darkness-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "99f67bd6e35483dbe4c5283fc8ebf924af6174b4fc64cf75333a2d7fd8f7af92",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Darkness_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Darkness_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:darkness_attack_resistance": {
+      "asset": "assets/illustrations/skills/darkness-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "e9db62d13fab50c0dd82b4331150a164890392ccc5671d95dd6da968f19ed3f2",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Darkness_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Darkness_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:electricity_resistance": {
+      "asset": "assets/illustrations/skills/electricity-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cf8fb09c609366ef2ec20b8f116fa8d624ac21399074239bff21e6263b6b0226",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Electricity_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Electricity_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:electricity_nullification": {
+      "asset": "assets/illustrations/skills/electricity-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "baed4fd636bcdec34f6e564afb7004b89773d10a85a42d79fcaed4ef4b418c35",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Electricity_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Electricity_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:earth_attack_resistance": {
+      "asset": "assets/illustrations/skills/earth-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5339f2c9c65ba6e5908192034acdfada8b0286859775a27276b200b7f07a03da",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Earth_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Earth_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:earth_attack_nullification": {
+      "asset": "assets/illustrations/skills/earth-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1cb133f1f5c19494257f5bd694773210c0680e587ddd0a389f5652dc316cf636",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Earth_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Earth_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:flame_attack_resistance": {
+      "asset": "assets/illustrations/skills/flame-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "befad3fb8da2170fd045bcc327e68b9f160bbcadd08556523a3711110e43baff",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Flame_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Flame_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:flame_attack_nullification": {
+      "asset": "assets/illustrations/skills/flame-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9c973770a98b6b41c73ef8ff8a99267b09abede34f54b0178ee414b3ece664b1",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Flame_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Flame_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:gravity_attack_resistance": {
+      "asset": "assets/illustrations/skills/gravity-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bde82cf4229e0e9598570c16d2e014e641d1970cc159d4d4c8bc4a0ef4992998",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Gravity_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Gravity_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:gravity_attack_nullification": {
+      "asset": "assets/illustrations/skills/gravity-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "844e010cc257e50f7371a0dbe738ca4f7c12e9f197622d3b8e9a9466999f84bf",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Gravity_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Gravity_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:heat_resistance": {
+      "asset": "assets/illustrations/skills/heat-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d3aeea2862f0ab3d4e0d63d39918ddf7071829e0f600906466c29a072721a885",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Heat_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Heat_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:heat_nullification": {
+      "asset": "assets/illustrations/skills/heat-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ae884172aea2917d10f3768c63341c65d5f585cbe5f82046dbe769279de85a6f",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Heat_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Heat_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:holy_attack_resistance": {
+      "asset": "assets/illustrations/skills/holy-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fddd06298cba925614a18591a88da64a03c80d96511d49242796f9f809795cf1",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Holy_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:holy_attack_nullification": {
+      "asset": "assets/illustrations/skills/holy-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ae231ffe8ccd173ed1260d334ae560b5f166560a3b296fdc1b450e79af2d6fe0",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Holy_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:light_attack_resistance": {
+      "asset": "assets/illustrations/skills/light-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8197679ec8e0b2cc2beb34e7040d201fc591483a81faf53bbd6b488f3cde7fb6",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Light_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:light_attack_nullification": {
+      "asset": "assets/illustrations/skills/light-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2844c009f6e46409c221e1b8d27ab9eda5e4bffa456418c1a8b213f63442c9e1",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Light_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:pain_resistance": {
+      "asset": "assets/illustrations/skills/pain-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6353ddcee1e5c0c1f57c81f6ba7f97cd19c1119fb9d16a6675d0161f26f3dedc",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Pain_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Pain_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:pain_nullification": {
+      "asset": "assets/illustrations/skills/pain-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d1811c4193f04826a982b5d635551697ea9cbc1ff3170483e5db7e86fb4d22dd",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Pain_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Pain_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:pierce_nullification": {
+      "asset": "assets/illustrations/skills/pierce-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fd9f216371c1ae0cb4c6d2b56bd2413455a0cb4b7b5266df359f8892d1d3a6da",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Pierce_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Pierce_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:physical_attack_resistance": {
+      "asset": "assets/illustrations/skills/physical-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "565580d19b3919024447f33ac1e563b6339817c23e4a68b137b448cf7b5959c2",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Physical_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Physical_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:physical_attack_nullification": {
+      "asset": "assets/illustrations/skills/physical-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c5789bc588d36938ee871c4ee5b6fa927a599227c56b07ca6670232e56136fe9",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Physical_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Physical_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:paralysis_resistance": {
+      "asset": "assets/illustrations/skills/paralysis-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7dca6f655bc9dacc021796b9ab0f3a8136fd34d3940bce23d1635b479a7210bf",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Paralysis_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Paralysis_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:paralysis_nullification": {
+      "asset": "assets/illustrations/skills/paralysis-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "eafab23143a71b38ece053819b58e75ef797366585ff75c2b498921b0deb867f",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Paralysis_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Paralysis_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:pierce_resistance": {
+      "asset": "assets/illustrations/skills/pierce-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "95d118ae370f2a167f4dd07ce7922227db99eccaa131e0a5ba02a484fcb5593b",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Pierce_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Pierce_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:poison_resistance": {
+      "asset": "assets/illustrations/skills/poison-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6918c1160a4b7f2c13154213cc761d5dbe4e62baa898c74f0ee83d0b45003eba",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Poison_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Poison_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:poison_nullification": {
+      "asset": "assets/illustrations/skills/poison-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9dd6423707ef45ea0386eca61f28fc5d8595782d2ee3024d388b16e88459ef02",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Poison_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Poison_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:spatial_attack_resistance": {
+      "asset": "assets/illustrations/skills/spatial-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8e08166642a0ee0489937a00414dea2e5192bf34bd4fdd22568065e14c790059",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Spatial_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Spatial_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:spatial_attack_nullification": {
+      "asset": "assets/illustrations/skills/spatial-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8d6ceff8a0129ef823e94973b881fb440785a81c746fedd8f99fc82ca9d79145",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Spatial_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Spatial_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:spiritual_attack_resistance": {
+      "asset": "assets/illustrations/skills/spiritual-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9b05d969c9498191a5d74a891654ebabeea0421e09e9f40c76a7a52856b8125d",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Spiritual_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:spiritual_attack_nullification": {
+      "asset": "assets/illustrations/skills/spiritual-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "060941ec3291f6f913294cc005f8fa27407bc55a52b1448477fa888efd88f096",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Spiritual_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Spiritual_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:thermal_fluctuation_resistance": {
+      "asset": "assets/illustrations/skills/thermal-fluctuation-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2de2485f22615d07174f7a9fb4f065efb2fca76eab576f107879f46afd4dc5eb",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Thermal_fluctuation_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:thermal_fluctuation_nullification": {
+      "asset": "assets/illustrations/skills/thermal-fluctuation-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ec4e198d0ad5f56466ba040d961ccdb8f75a19cbbf13f4493e0b444dba6518c1",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Thermal_Fluctuation_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Thermal_fluctuation_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:water_attack_resistance": {
+      "asset": "assets/illustrations/skills/water-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7d8d724b144c1f0ae85ae91cc3f3dd2aff06fbbb7bf552f9f2668d3b2f776f6c",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Water_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Water_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:water_attack_nullification": {
+      "asset": "assets/illustrations/skills/water-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9c99e52d3840524397f99e1d07320e1e6411bd059d11436151a7bf88352ff0d0",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Water_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Water_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:wind_attack_nullification": {
+      "asset": "assets/illustrations/skills/wind-attack-nullification.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "49248d301c01aca7b247aaeaef17c736a295d4dcd86444b0036908123055ae73",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Wind_Attack_Nullification",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Wind_attack_nullification.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
+    },
+    "tensura:wind_attack_resistance": {
+      "asset": "assets/illustrations/skills/wind-attack-resistance.webp",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fc19b739adc66bbad2bd041f0ed110da028770ae641b8ac8a43e2ad7f686b53a",
+      "source_review": {
+        "date": "2026-09-30",
+        "article": "https://tensura.wiki.gg/wiki/Wind_Attack_Resistance",
+        "file_page": "https://tensura.wiki.gg/wiki/File:Wind_attack_resistance.png",
+        "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+      }
     }
   }
 }

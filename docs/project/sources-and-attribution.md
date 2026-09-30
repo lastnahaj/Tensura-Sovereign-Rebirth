@@ -39,17 +39,17 @@ These collections contribute adapted material to the public wiki. Individual gen
 
 <div class="source-collection-grid">
 <article>
-<header><span class="source-status source-status--adapted">Adapted · CC BY-SA 4.0</span><h3>Tensura: Reincarnated Wiki</h3></header>
+<header><span class="source-status source-status--adapted">Adapted text · CC BY-SA 4.0</span><h3>Tensura: Reincarnated Wiki</h3></header>
 <p>The base reference for races, skills, magic, mobs, equipment, structures, commands, and mechanics.</p>
 <footer><a href="https://tensura.wiki.gg/">Open source wiki</a><a href="../upstream-attribution/">Attribution record</a><a href="../ingestion-coverage/">Coverage audit</a></footer>
 </article>
 <article>
-<header><span class="source-status source-status--adapted">Adapted · CC BY-SA 4.0</span><h3>Tensura Reincarnated: Mysticism Wiki</h3></header>
+<header><span class="source-status source-status--adapted">Adapted text · CC BY-SA 4.0</span><h3>Tensura Reincarnated: Mysticism Wiki</h3></header>
 <p>The upstream Mysticism reference, version-filtered and merged into TSR's unified race and ability navigation.</p>
 <footer><a href="https://trmysticism.wiki.gg/">Open source wiki</a><a href="../mysticism-upstream-attribution/">Attribution record</a><a href="../mysticism-ingestion-coverage/">Coverage audit</a></footer>
 </article>
 <article>
-<header><span class="source-status source-status--adapted">Adapted · CC BY-SA 4.0</span><h3>Tensura Reincarnated Nightmares Wiki</h3></header>
+<header><span class="source-status source-status--adapted">Adapted text · CC BY-SA 4.0</span><h3>Tensura Reincarnated Nightmares Wiki</h3></header>
 <p>Selected 1.21.1 skills, resistances, bosses, and world references. Every adapted entry records its reviewed revision and matching release evidence.</p>
 <footer><a href="https://tensuranightmares.wiki.gg/">Open source wiki</a><a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/nightmares_skill_reference.json">Skill evidence</a><a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/nightmares_world_reference.json">World evidence</a></footer>
 </article>
@@ -136,7 +136,10 @@ The strongest verification layer is local and reproducible:
 
 ## Media and image attribution
 
-Imported media is accepted only when its source File page supplies reusable license evidence and no restrictive exception applies. The source URL, File page, revision, license evidence, local path, and associated articles are retained in the repository's media records. Files marked non-free, fair use, or otherwise incompatible are excluded.
+New media imports require a file-specific reusable image license and a rendered File-page exception check. A wiki's general page-content footer is not proof of image reuse permission. Source URLs, File pages, revisions, decisions, and article associations remain in the provenance records.
+
+!!! warning "Legacy media permission review"
+    The older importer accepted some images from the general wiki footer without resolving expanded licensing templates. Those records are historical decisions, not completed permission checks. On September 30, **65 core ability icons** were withdrawn from current distribution and replaced with original TSR illustrations: 42 resistance icons and 23 Battlewill icons. Sixty-three source files have game-studio/licensor ownership notices; two have no verified file-specific reusable license. The [file-level review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) records every decision. Other legacy media remains under review.
 
 The machine-readable records are available in the public repository: [Tensura media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_tensura_media.json) and [Mysticism media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_mysticism_media.json). These records are the detailed source-of-truth behind the human-readable ledger.
 

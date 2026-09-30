@@ -113,9 +113,3 @@ tags:
 ## Source and licensing
 
 Base Tensura reference adapted from [Unbound tome](https://tensura.wiki.gg/wiki/Unbound_tome) on the Tensura: Reincarnated Wiki (revision `13340`, modified `2026-08-01T18:34:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-</ul>
-</details>

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-09-30",
+  "minecraft": "1.21.1",
+  "reference_build": {
+    "version": "2.0.1.2",
+    "artifact_sha256": "9291f48d94073903cea9155dc99e042af5477e2c144e3fae1938299b2029da3e",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated"
+  },
+  "manual": {
+    "registry_id": "tensura:battlewill_manual",
+    "local_page": "tensura-reference/battlewill/items-misc-battlewill-manual.md",
+    "source_url": "https://tensura.wiki.gg/wiki/Items/Misc/Battlewill_Manual",
+    "configuration": "pack/config/tensura/ability/ability_config.toml",
+    "config_key": "battlewillManualList",
+    "implementation": "io.github.manasmods.tensura.item.misc.BattlewillManualItem",
+    "evidence": "The random manual resolves registry entries from battlewillManualList. Bound manuals use their stored skill instead. Learning can fail and consumption does not guarantee a new ability."
+  },
+  "mastery_unlocks": [
+    {"from": "tensura:aura_slash", "to": "tensura:heavy_slash", "class": "io.github.manasmods.tensura.ability.battlewill.melee.AuraSlashArt"},
+    {"from": "tensura:magic_bullet", "to": "tensura:maximum_magic_bullet", "class": "io.github.manasmods.tensura.ability.battlewill.projectile.MagicBulletArt"},
+    {"from": "tensura:maximum_magic_bullet", "to": "tensura:death_march_dance", "class": "io.github.manasmods.tensura.ability.battlewill.projectile.MaximumMagicBulletArt"},
+    {"from": "tensura:formhide", "to": "tensura:haze", "class": "io.github.manasmods.tensura.ability.battlewill.utility.FormhideArt"},
+    {"from": "tensura:ogre_sword_guillotine", "to": "tensura:ogre_sword_cannon", "class": "io.github.manasmods.tensura.ability.battlewill.melee.OgreSwordGuillotineArt"},
+    {"from": "tensura:five_petals_thrust", "to": "tensura:eight_petals_flash", "class": "io.github.manasmods.tensura.ability.battlewill.melee.FivePetalsThrustArt"}
+  ],
+  "mastery_evidence": "Each recorded onSkillMastered hook rejects sub-instances, creates a learning instance for its successor and calls SkillHelper.learnSkill. These are artifact checks, not live-server gameplay tests.",
+  "acquisition_unverified": ["tensura:five_petals_thrust"]
+}

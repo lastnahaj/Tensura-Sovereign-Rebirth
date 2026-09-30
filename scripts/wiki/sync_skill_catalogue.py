@@ -228,10 +228,39 @@ def icon(identifier, title=""):
     return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img"><title>{html.escape(name.replace("_", " ").title())} emblem</title><rect x="1" y="1" width="94" height="94" rx="20" fill="#0b172a" stroke="{color}" stroke-opacity=".35"/><g fill="none" stroke="{color}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">{glyph}{dots}</g></svg>\n'
 
 
+def battlewill_acquisition(page, decision):
+    """Keep random manual eligibility separate from mastery-triggered learning."""
+    if decision.get('namespace') != 'tensura' or decision.get('category') != 'battlewill':
+        return None
+    evidence = json.loads((ROOT / 'data/battlewill_reference.json').read_text(encoding='utf-8'))
+    manual = evidence['manual']
+    pool = tomllib.loads((ROOT / manual['configuration']).read_text(encoding='utf-8'))[manual['config_key']]
+    identifier = decision.get('id')
+    note = '<p class="skill-evidence-note">Checked against Tensura 2.0.1.2 and the tracked 1.21.1 configuration. This is not a live-server acquisition test. <a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/battlewill_reference.json">Review the implementation evidence</a>.</p>'
+    if identifier in pool:
+        url = relative(page, route(manual['local_page'])) + '/'
+        return (f'<p><strong>Random manual route:</strong> Use a <a href="{url}">Battlewill Manual</a>. This ability is one of the <strong>{len(pool)} configured random results</strong>; a manual does not let you choose it.</p><p>The manual can be consumed without adding a new ability, including when its result is already known. A bound manual is a separate case: it uses its stored ability instead of this random pool.</p>' + note, True)
+    for unlock in evidence['mastery_unlocks']:
+        if unlock['to'] != identifier:
+            continue
+        predecessor = next((record for record in catalogue()['pages'].items() if record[1].get('id') == unlock['from']), None)
+        if not predecessor:
+            raise ValueError(f'Missing Battlewill predecessor: {unlock["from"]}')
+        url = relative(page, route(predecessor[0])) + '/'
+        title = html.escape(predecessor[1]['title'])
+        return (f'<p><strong>Mastery route:</strong> Fully master <a href="{url}">{title}</a>. Its mastery hook attempts to start learning this technique through the normal skill-learning system.</p><p>This must be your own skill instance, not a borrowed sub-instance. Finish learning the new technique before treating it as mastered. It is <strong>not</strong> in the configured random Battlewill Manual pool.</p>' + note, True)
+    if identifier in evidence['acquisition_unverified']:
+        return ('<p><strong>Normal acquisition unverified.</strong> This technique is registered in the pinned build, but is not in the configured random Battlewill Manual pool. No predecessor mastery hook or complete player obtainment route has been verified. Do not spend random manuals expecting this result.</p>' + note, False)
+    raise ValueError(f'Battlewill acquisition decision missing: {identifier}')
+
+
 def acquisition(text, page, decision):
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
+    battlewill = battlewill_acquisition(page, decision)
+    if battlewill:
+        return battlewill
     soup = BeautifulSoup(text, "html.parser")
     items = []
     for row in soup.select('.druid-row[data-druid-section-row="Obtaining"]'):
@@ -338,6 +367,10 @@ def prepare_page(page, decision, text):
     text = text[:offset] + BEGIN + "\n" + section + "\n" + END + "\n\n" + text[offset:]
     # Remove editorial instructions from player-facing summaries.
     text = text.replace("(Remove this once finalized)", "")
+    if decision.get('id') in {'tensura:five_petals_thrust', 'tensura:eight_petals_flash'}:
+        summary = 'Charge a weapon dash, then retain a petal-based defense against melee hits.'
+        text = text.replace('Create a shield of condensed aura to block attacks', summary)
+        text = re.sub(r'(?m)^description:.*$', 'description: ' + summary, text, count=1)
     text = strip_maintenance_markup(text, page)
     text = re.sub(r"(?<=>)[ \t]+$", "", text, flags=re.M)
     return text, documented
@@ -382,7 +415,7 @@ def generate():
         original = localize_skill_links((DOCS / page).read_text(encoding="utf-8"), page, policy, records)
         text, documented = prepare_page(page, decision, original)
         decision["obtainment_documented"] = documented
-        if decision["namespace"] in {"mysticism", "trnightmare"} and (decision["status"] in ACTIVE or decision['id'] in artwork):
+        if (decision["namespace"] in {"mysticism", "trnightmare"} or decision['id'] in artwork) and (decision["status"] in ACTIVE or decision['id'] in artwork):
             media = source_icons.get(page)
             asset = decision.get("asset") or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
             illustration = decision.get('artwork_kind') == 'original-illustration'

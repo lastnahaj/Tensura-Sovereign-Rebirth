@@ -1,0 +1,75 @@
+/* Battlewill learning routes: compact artwork, clear order, accessible links. */
+.battlewill-guide {
+  --skill-surface: #101f30;
+  --skill-border: #284258;
+  --skill-ink: #f0f6fb;
+  --skill-muted: #aec0cf;
+  --skill-accent: #72deec;
+}
+[data-md-color-scheme="default"] .battlewill-guide {
+  --skill-surface: #f1f6fa;
+  --skill-border: #b8cedb;
+  --skill-ink: #142e43;
+  --skill-muted: #425e72;
+  --skill-accent: #006b83;
+}
+.battlewill-guide :is(h1, h2, h3) { color: var(--skill-ink); }
+.battlewill-guide .reference-eyebrow { color: var(--skill-accent); }
+.battlewill-guide .reference-directory-overview-link {
+  color: var(--skill-ink);
+  border-color: var(--skill-border);
+  background: var(--skill-surface);
+}
+.battlewill-guide .skill-directory-heading { max-width: 48rem; }
+.battlewill-path-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  margin: 1.2rem 0 1.8rem;
+}
+.battlewill-path {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: .5rem;
+  padding: .8rem;
+  border: 1px solid var(--skill-border);
+  border-radius: .8rem;
+  background: var(--skill-surface);
+}
+.battlewill-path > a {
+  display: grid;
+  justify-items: center;
+  gap: .45rem;
+  text-align: center;
+  line-height: 1.4;
+  min-width: 0;
+}
+.battlewill-path img {
+  width: 5rem;
+  aspect-ratio: 1;
+  border-radius: .6rem;
+  object-fit: contain;
+}
+.battlewill-path strong { font-size: .75rem; overflow-wrap: anywhere; }
+.battlewill-path > span { color: var(--skill-accent); font-size: 1.3rem; }
+.battlewill-path a:focus-visible,
+.battlewill-manual-pool a:focus-visible { outline: 2px solid var(--skill-accent); outline-offset: 4px; }
+.md-typeset ul.battlewill-manual-pool {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .35rem .8rem;
+  padding: .8rem 1.2rem;
+  border: 1px solid var(--skill-border);
+  border-radius: .8rem;
+  background: var(--skill-surface);
+}
+.battlewill-manual-pool li { line-height: 1.5; font-size: .75rem; }
+@media (max-width: 44rem) {
+  .battlewill-path-grid { grid-template-columns: minmax(0, 1fr); }
+  .md-typeset ul.battlewill-manual-pool { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 24rem) {
+  .md-typeset ul.battlewill-manual-pool { grid-template-columns: minmax(0, 1fr); }
+  .battlewill-path { padding: .6rem; }
+}

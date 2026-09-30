@@ -22,12 +22,12 @@
     },
     "tensura-reference/resistances/abnormal-condition-nullification/": {
       "title": "Abnormal Condition Nullification",
-      "image": "assets/upstream/tensura/resistances/abnormal-condition-nullification-86698d5927.png",
+      "image": "assets/illustrations/skills/abnormal-condition-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/abnormal-condition-resistance/": {
       "title": "Abnormal Condition Resistance",
-      "image": "assets/upstream/tensura/resistances/abnormal-condition-resistance-ff74fa2d2b.png",
+      "image": "assets/illustrations/skills/abnormal-condition-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/unique/absolute-severance/": {
@@ -62,7 +62,7 @@
     },
     "tensura-reference/battlewill/air-flight/": {
       "title": "Air Flight",
-      "image": "assets/upstream/tensura/battlewill/air-flight-d1ba2ad843.png",
+      "image": "assets/illustrations/skills/air-flight.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/airflow-shut/": {
@@ -127,17 +127,17 @@
     },
     "tensura-reference/battlewill/aura-shield/": {
       "title": "Aura Shield",
-      "image": "assets/upstream/tensura/battlewill/aura-shield-4c0e4b7ca6.png",
+      "image": "assets/illustrations/skills/aura-shield.webp",
       "category": "battlewill"
     },
     "tensura-reference/battlewill/aura-slash/": {
       "title": "Aura Slash",
-      "image": "assets/upstream/tensura/battlewill/aura-slash-7eaed3f82b.png",
+      "image": "assets/illustrations/skills/aura-slash.webp",
       "category": "battlewill"
     },
     "tensura-reference/battlewill/aura-sword/": {
       "title": "Aura Sword",
-      "image": "assets/upstream/tensura/battlewill/aura-sword-8dedd42c0b.png",
+      "image": "assets/illustrations/skills/aura-sword.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/barrier/": {
@@ -147,7 +147,7 @@
     },
     "tensura-reference/battlewill/battlewill/": {
       "title": "Battlewill",
-      "image": "assets/upstream/tensura/battlewill/battlewill-88fcb5e3c2.png",
+      "image": "assets/illustrations/skills/battlewill.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/intrinsic/beast-transformation/": {
@@ -242,12 +242,12 @@
     },
     "tensura-reference/resistances/cold-nullification/": {
       "title": "Cold Nullification",
-      "image": "assets/upstream/tensura/resistances/cold-nullification-1a6202c19b.png",
+      "image": "assets/illustrations/skills/cold-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/cold-resistance/": {
       "title": "Cold Resistance",
-      "image": "assets/upstream/tensura/resistances/cold-resistance-3e4c9f9684.png",
+      "image": "assets/illustrations/skills/cold-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/unique/commander/": {
@@ -272,12 +272,12 @@
     },
     "tensura-reference/resistances/corrosion-nullification/": {
       "title": "Corrosion Nullification",
-      "image": "assets/upstream/tensura/resistances/corrosion-nullification-bc1162b309.png",
+      "image": "assets/illustrations/skills/corrosion-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/corrosion-resistance/": {
       "title": "Corrosion Resistance",
-      "image": "assets/upstream/tensura/resistances/corrosion-resistance-241dd6e5bb.png",
+      "image": "assets/illustrations/skills/corrosion-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/magic/create-greater-undead/": {
@@ -317,7 +317,7 @@
     },
     "tensura-reference/battlewill/dark-eight-palms/": {
       "title": "Dark Eight Palms",
-      "image": "assets/upstream/tensura/battlewill/dark-eight-palms-d5504ea658.png",
+      "image": "assets/illustrations/skills/dark-eight-palms.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/darkness/": {
@@ -327,12 +327,12 @@
     },
     "tensura-reference/resistances/darkness-attack-nullification/": {
       "title": "Darkness Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/darkness-attack-nullification-13357acb0b.png",
+      "image": "assets/illustrations/skills/darkness-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/darkness-attack-resistance/": {
       "title": "Darkness Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/darkness-attack-resistance-7466c1988c.png",
+      "image": "assets/illustrations/skills/darkness-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/magic/darkness-cannon/": {
@@ -347,7 +347,7 @@
     },
     "tensura-reference/battlewill/death-march-dance/": {
       "title": "Death March Dance",
-      "image": "assets/upstream/tensura/battlewill/death-march-dance-2e9a45f1dc.png",
+      "image": "assets/illustrations/skills/death-march-dance.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/unique/degenerate/": {
@@ -372,7 +372,7 @@
     },
     "tensura-reference/battlewill/diamond-path/": {
       "title": "Diamond Path",
-      "image": "assets/upstream/tensura/battlewill/diamond-path-689eccf631.png",
+      "image": "assets/illustrations/skills/diamond-path.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/dimensional-cutter/": {
@@ -402,7 +402,7 @@
     },
     "tensura-reference/battlewill/double-cherry-blossoms-eight-petals-flash/": {
       "title": "Cherry Blossoms - Eight Petals Flash",
-      "image": "assets/upstream/tensura/battlewill/cherry-blossoms-eight-petals-flash-512b46c9e5.png",
+      "image": "assets/illustrations/skills/eight-petals-flash.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/intrinsic/dragon-ear/": {
@@ -442,12 +442,12 @@
     },
     "tensura-reference/resistances/earth-attack-nullification/": {
       "title": "Earth Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/earth-attack-nullification-089725682d.png",
+      "image": "assets/illustrations/skills/earth-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/earth-attack-resistance/": {
       "title": "Earth Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/earth-attack-resistance-fa6e0019a8.png",
+      "image": "assets/illustrations/skills/earth-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/extra/earth-domination/": {
@@ -492,17 +492,17 @@
     },
     "tensura-reference/battlewill/earthshatter-kick/": {
       "title": "Earthshatter Kick",
-      "image": "assets/upstream/tensura/battlewill/earthshatter-kick-b68fa71d14.png",
+      "image": "assets/illustrations/skills/earthshatter-kick.webp",
       "category": "battlewill"
     },
     "tensura-reference/resistances/electricity-nullification/": {
       "title": "Electricity Nullification",
-      "image": "assets/upstream/tensura/resistances/electricity-nullification-2dace8feae.png",
+      "image": "assets/illustrations/skills/electricity-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/electricity-resistance/": {
       "title": "Electricity Resistance",
-      "image": "assets/upstream/tensura/resistances/electricity-resistance-6d25cbff6b.png",
+      "image": "assets/illustrations/skills/electricity-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/magic/electro-blast/": {
@@ -512,7 +512,7 @@
     },
     "tensura-reference/battlewill/elephant-stampede/": {
       "title": "Elephant Stampede",
-      "image": "assets/upstream/tensura/battlewill/elephant-stampede-0d9989c51d.png",
+      "image": "assets/illustrations/skills/elephant-stampede.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/unique/engorger/": {
@@ -592,12 +592,12 @@
     },
     "tensura-reference/resistances/flame-attack-nullification/": {
       "title": "Flame Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/flame-attack-nullification-91c84e10da.png",
+      "image": "assets/illustrations/skills/flame-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/flame-attack-resistance/": {
       "title": "Flame Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/flame-attack-resistance-cbcf8ae885.png",
+      "image": "assets/illustrations/skills/flame-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/intrinsic/flame-breath/": {
@@ -637,7 +637,7 @@
     },
     "tensura-reference/battlewill/formhide/": {
       "title": "Formhide",
-      "image": "assets/upstream/tensura/battlewill/formhide-4d0b7c80a3.png",
+      "image": "assets/illustrations/skills/formhide.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/freeze/": {
@@ -692,12 +692,12 @@
     },
     "tensura-reference/resistances/gravity-attack-nullification/": {
       "title": "Gravity Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/gravity-attack-nullification-f56b5174e7.png",
+      "image": "assets/illustrations/skills/gravity-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/gravity-attack-resistance/": {
       "title": "Gravity Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/gravity-attack-resistance-c0cd4c597a.png",
+      "image": "assets/illustrations/skills/gravity-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/extra/gravity-domination/": {
@@ -742,7 +742,7 @@
     },
     "tensura-reference/battlewill/haze/": {
       "title": "Haze",
-      "image": "assets/upstream/tensura/battlewill/haze-615c258c45.png",
+      "image": "assets/illustrations/skills/haze.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/unique/healer/": {
@@ -767,12 +767,12 @@
     },
     "tensura-reference/resistances/heat-nullification/": {
       "title": "Heat Nullification",
-      "image": "assets/upstream/tensura/resistances/heat-nullification-0b3f178e06.png",
+      "image": "assets/illustrations/skills/heat-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/heat-resistance/": {
       "title": "Heat Resistance",
-      "image": "assets/upstream/tensura/resistances/heat-resistance-86c26cc740.png",
+      "image": "assets/illustrations/skills/heat-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/extra/heat-wave/": {
@@ -787,7 +787,7 @@
     },
     "tensura-reference/battlewill/heavy-slash/": {
       "title": "Heavy Slash",
-      "image": "assets/upstream/tensura/battlewill/heavy-slash-bc81080127.png",
+      "image": "assets/illustrations/skills/heavy-slash.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/extra/hero-haki/": {
@@ -802,7 +802,7 @@
     },
     "tensura-reference/resistances/holy-attack-resistance/": {
       "title": "Holy Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/holy-attack-resistance-2c9f909310.png",
+      "image": "assets/illustrations/skills/holy-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/common/hydraulic-propulsion/": {
@@ -857,18 +857,13 @@
     },
     "tensura-reference/battlewill/instant-move/": {
       "title": "Instant-move",
-      "image": "assets/upstream/tensura/battlewill/instant-move-747d8c253e.png",
+      "image": "assets/illustrations/skills/instant-move.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/invisible/": {
       "title": "Invisible",
       "image": "assets/upstream/tensura/magic/invisible-781e27510a.png",
       "category": "magic"
-    },
-    "tensura-reference/battlewill/items-misc-battlewill-manual/": {
-      "title": "Battlewill Manual",
-      "image": "assets/upstream/tensura/items/battlewill-manual-0e4bcb240e.png",
-      "category": "battlewill"
     },
     "tensura-reference/magic/items-schematics-anti-magic-mask-schematic/": {
       "title": "Anti-Magic Mask Schematic",
@@ -887,12 +882,12 @@
     },
     "tensura-reference/resistances/light-attack-nullification/": {
       "title": "Light Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/light-attack-nullification-e6d5d9918f.png",
+      "image": "assets/illustrations/skills/light-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/light-attack-resistance/": {
       "title": "Light Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/light-attack-resistance-cd12540ad8.png",
+      "image": "assets/illustrations/skills/light-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/intrinsic/light-transform/": {
@@ -962,7 +957,7 @@
     },
     "tensura-reference/battlewill/magic-bullet/": {
       "title": "Magic Bullet",
-      "image": "assets/upstream/tensura/battlewill/magic-bullet-cde69522ab.png",
+      "image": "assets/illustrations/skills/magic-bullet.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/magic-darkness-transform/": {
@@ -1072,7 +1067,7 @@
     },
     "tensura-reference/battlewill/maximum-magic-bullet/": {
       "title": "Maximum Magic Bullet",
-      "image": "assets/upstream/tensura/battlewill/maximum-magic-bullet-5136fc1f52.png",
+      "image": "assets/illustrations/skills/maximum-magic-bullet.webp",
       "category": "battlewill"
     },
     "tensura-reference/magic/medium-quality-magic-crystal/": {
@@ -1147,12 +1142,12 @@
     },
     "tensura-reference/battlewill/ogre-sword-cannon/": {
       "title": "Ogre-sword Cannon",
-      "image": "assets/upstream/tensura/battlewill/ogre-sword-cannon-4979c402bb.png",
+      "image": "assets/illustrations/skills/ogre-sword-cannon.webp",
       "category": "battlewill"
     },
     "tensura-reference/battlewill/ogre-sword-guillotine/": {
       "title": "Ogre-sword Guillotine",
-      "image": "assets/upstream/tensura/battlewill/ogre-sword-guillotine-79a46aa4c5.png",
+      "image": "assets/illustrations/skills/ogre-sword-guillotine.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/intrinsic/ogre-berserker/": {
@@ -1162,7 +1157,7 @@
     },
     "tensura-reference/battlewill/ogre-flame/": {
       "title": "Ogre Flame",
-      "image": "assets/upstream/tensura/battlewill/ogre-flame-4692265f01.png",
+      "image": "assets/illustrations/skills/ogre-flame.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/unique/oppressor/": {
@@ -1172,12 +1167,12 @@
     },
     "tensura-reference/resistances/pain-nullification/": {
       "title": "Pain Nullification",
-      "image": "assets/upstream/tensura/resistances/pain-nullification-404b1c5c4b.png",
+      "image": "assets/illustrations/skills/pain-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/pain-resistance/": {
       "title": "Pain Resistance",
-      "image": "assets/upstream/tensura/resistances/pain-resistance-94e81b4a72.png",
+      "image": "assets/illustrations/skills/pain-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/intrinsic/paralysing-breath/": {
@@ -1192,37 +1187,37 @@
     },
     "tensura-reference/resistances/paralysis-nullification/": {
       "title": "Paralysis Nullification",
-      "image": "assets/upstream/tensura/resistances/paralysis-nullification-dcf64e275f.png",
+      "image": "assets/illustrations/skills/paralysis-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/paralysis-resistance/": {
       "title": "Paralysis Resistance",
-      "image": "assets/upstream/tensura/resistances/paralysis-resistance-eb8193647d.png",
+      "image": "assets/illustrations/skills/paralysis-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/physical-attack-nullification/": {
       "title": "Physical Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/physical-attack-nullification-af692e0cbd.png",
+      "image": "assets/illustrations/skills/physical-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/physical-attack-resistance/": {
       "title": "Physical Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/physical-attack-resistance-3a55334e16.png",
+      "image": "assets/illustrations/skills/physical-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/pierce-nullification/": {
       "title": "Pierce Nullification",
-      "image": "assets/upstream/tensura/resistances/pierce-nullification-cb360f52d9.png",
+      "image": "assets/illustrations/skills/pierce-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/pierce-resistance/": {
       "title": "Pierce Resistance",
-      "image": "assets/upstream/tensura/resistances/pierce-resistance-503c545c51.png",
+      "image": "assets/illustrations/skills/pierce-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/battlewill/plum-blossoms-five-petals-thrust/": {
       "title": "Plum Blossoms - Five Petals Thrust",
-      "image": "assets/upstream/tensura/battlewill/plum-blossoms-five-petals-thrust-f3e6b381ac.png",
+      "image": "assets/illustrations/skills/five-petals-thrust.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/common/poison/": {
@@ -1232,12 +1227,12 @@
     },
     "tensura-reference/resistances/poison-nullification/": {
       "title": "Poison Nullification",
-      "image": "assets/upstream/tensura/resistances/poison-nullification-9d13a1e369.png",
+      "image": "assets/illustrations/skills/poison-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/poison-resistance/": {
       "title": "Poison Resistance",
-      "image": "assets/upstream/tensura/resistances/poison-resistance-0641fa05ff.png",
+      "image": "assets/illustrations/skills/poison-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/intrinsic/poisonous-breath/": {
@@ -1647,7 +1642,7 @@
     },
     "tensura-reference/battlewill/roaring-lion-punch/": {
       "title": "Roaring Lion Punch",
-      "image": "assets/upstream/tensura/battlewill/roaring-lion-punch-f293474067.png",
+      "image": "assets/illustrations/skills/roaring-lion-punch.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/unique/royal-beast/": {
@@ -1787,12 +1782,12 @@
     },
     "tensura-reference/resistances/spatial-attack-nullification/": {
       "title": "Spatial Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/spatial-attack-nullification-0fea80c81d.png",
+      "image": "assets/illustrations/skills/spatial-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/spatial-attack-resistance/": {
       "title": "Spatial Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/spatial-attack-resistance-b8d6e51ab2.png",
+      "image": "assets/illustrations/skills/spatial-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/extra/spatial-domination/": {
@@ -1822,12 +1817,12 @@
     },
     "tensura-reference/resistances/spiritual-attack-nullification/": {
       "title": "Spiritual Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/spiritual-attack-nullification-7e9a43565d.png",
+      "image": "assets/illustrations/skills/spiritual-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/spiritual-attack-resistance/": {
       "title": "Spiritual Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/spiritual-attack-resistance-45c3de2aaa.png",
+      "image": "assets/illustrations/skills/spiritual-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/unique/starved/": {
@@ -1912,12 +1907,12 @@
     },
     "tensura-reference/resistances/thermal-fluctuation-nullification/": {
       "title": "Thermal Fluctuation Nullification",
-      "image": "assets/upstream/tensura/resistances/thermal-fluctuation-nullification-1567b3f54d.png",
+      "image": "assets/illustrations/skills/thermal-fluctuation-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/thermal-fluctuation-resistance/": {
       "title": "Thermal Fluctuation Resistance",
-      "image": "assets/upstream/tensura/resistances/thermal-fluctuation-resistance-60600c8030.png",
+      "image": "assets/illustrations/skills/thermal-fluctuation-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/extra/thought-acceleration/": {
@@ -2032,7 +2027,7 @@
     },
     "tensura-reference/battlewill/violent-break/": {
       "title": "Violent Break",
-      "image": "assets/upstream/tensura/battlewill/violent-break-c90be0a6d8.png",
+      "image": "assets/illustrations/skills/violent-break.webp",
       "category": "battlewill"
     },
     "tensura-reference/skills/common/voice-cannon/": {
@@ -2057,12 +2052,12 @@
     },
     "tensura-reference/resistances/water-attack-nullification/": {
       "title": "Water Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/water-attack-nullification-da5643ea35.png",
+      "image": "assets/illustrations/skills/water-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/water-attack-resistance/": {
       "title": "Water Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/water-attack-resistance-0616d22f34.png",
+      "image": "assets/illustrations/skills/water-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/skills/common/water-blade/": {
@@ -2127,12 +2122,12 @@
     },
     "tensura-reference/resistances/wind-attack-nullification/": {
       "title": "Wind Attack Nullification",
-      "image": "assets/upstream/tensura/resistances/wind-attack-nullification-778a5a85d9.png",
+      "image": "assets/illustrations/skills/wind-attack-nullification.webp",
       "category": "resistances"
     },
     "tensura-reference/resistances/wind-attack-resistance/": {
       "title": "Wind Attack Resistance",
-      "image": "assets/upstream/tensura/resistances/wind-attack-resistance-fd9761e386.png",
+      "image": "assets/illustrations/skills/wind-attack-resistance.webp",
       "category": "resistances"
     },
     "tensura-reference/magic/wind-blade/": {
@@ -6077,13 +6072,10 @@
       "from": "tensura-reference/battlewill/aura-slash/",
       "to": "tensura-reference/battlewill/heavy-slash/",
       "kinds": [
-        "Next",
-        "Evolution",
-        "Mastery / combination"
+        "Mastery"
       ],
       "requirements": [
-        "Aura Slash",
-        "Mastered Aura Slash"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {
@@ -6108,55 +6100,50 @@
       "from": "tensura-reference/battlewill/formhide/",
       "to": "tensura-reference/battlewill/haze/",
       "kinds": [
-        "Next",
-        "Evolution"
+        "Mastery"
       ],
       "requirements": [
-        "Formhide"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {
       "from": "tensura-reference/battlewill/magic-bullet/",
       "to": "tensura-reference/battlewill/maximum-magic-bullet/",
       "kinds": [
-        "Next",
-        "Evolution"
+        "Mastery"
       ],
       "requirements": [
-        "Magic Bullet"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {
       "from": "tensura-reference/battlewill/maximum-magic-bullet/",
       "to": "tensura-reference/battlewill/death-march-dance/",
       "kinds": [
-        "Evolution",
-        "Next"
+        "Mastery"
       ],
       "requirements": [
-        "Maximum Magic Bullet"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {
       "from": "tensura-reference/battlewill/ogre-sword-guillotine/",
       "to": "tensura-reference/battlewill/ogre-sword-cannon/",
       "kinds": [
-        "Evolution",
-        "Next"
+        "Mastery"
       ],
       "requirements": [
-        "Ogre-sword Guillotine"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {
       "from": "tensura-reference/battlewill/plum-blossoms-five-petals-thrust/",
       "to": "tensura-reference/battlewill/double-cherry-blossoms-eight-petals-flash/",
       "kinds": [
-        "Evolution",
-        "Next"
+        "Mastery"
       ],
       "requirements": [
-        "Plum Blossoms - Five Petals Thrust"
+        "Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock."
       ]
     },
     {

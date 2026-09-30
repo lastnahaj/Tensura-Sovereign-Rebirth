@@ -292,7 +292,9 @@ ALLOWED_LICENSE_PATTERNS: tuple[tuple[re.Pattern[str], str], ...] = (
 
 RESTRICTIVE_LICENSE_RE = re.compile(
     r"fair use|non[- ]?free|all rights reserved|copyrighted|no redistribution|"
-    r"permission only|proprietary",
+    r"permission only|proprietary|owned by the applicable game studio|"
+    r"\{\{\s*license\s*\|\s*game\s*(?:[|}])|"
+    r"\{\{\s*(?:copyright|game[- _]?copyright|non[- _]?free)(?:[|}])",
     re.I,
 )
 
@@ -978,11 +980,14 @@ def determine_license(
                 metadata_value(metadata, "UsageTerms"),
                 metadata_value(metadata, "License"),
                 record.get("_wikitext", ""),
+                record.get("_file_page_text", ""),
             ),
         )
     )
     if RESTRICTIVE_LICENSE_RE.search(candidates):
         return None, None, "File page identifies restrictive or non-free terms"
+    if not record.get("_file_page_checked"):
+        return None, None, "Rendered File-page licensing notice has not been checked"
     for pattern, canonical in ALLOWED_LICENSE_PATTERNS:
         if pattern.search(candidates):
             license_url = metadata_value(metadata, "LicenseUrl")
@@ -994,11 +999,7 @@ def determine_license(
                     "Public domain": "https://creativecommons.org/publicdomain/mark/1.0/",
                 }.get(canonical, "")
             return canonical, license_url or None, "Explicit reusable license on File page"
-    return (
-        file_page_license["name"],
-        file_page_license["url"],
-        file_page_license["evidence"],
-    )
+    return None, None, "No file-specific reusable license; the page-content footer is not an image license"
 
 
 def safe_media_filename(title: str, sha1: str | None) -> str:
@@ -1032,6 +1033,21 @@ def prepare_media(
         primary_article_category = article_categories.most_common(1)[0][0] if article_categories else "other"
         media_category = MEDIA_CATEGORY_MAP.get(primary_article_category, "misc")
         record["category"] = media_category
+        if record.get("source_url") and record.get("source_file_page"):
+            try:
+                file_html = client.get_text(
+                    record["source_file_page"],
+                    f"file-pages/{hashlib.sha256(record['source_file_page'].encode()).hexdigest()}.html",
+                )
+                file_soup = BeautifulSoup(file_html, "html.parser")
+                # Exclude the general page-content footer: expanded ownership
+                # templates inside the File page take precedence over it.
+                file_body = file_soup.select_one("#mw-content-text")
+                if file_body:
+                    record["_file_page_text"] = file_body.get_text(" ", strip=True)
+                    record["_file_page_checked"] = True
+            except requests.RequestException:
+                record["_file_page_checked"] = False
         license_name, license_url, license_reason = determine_license(record, file_page_license)
         record["license"] = license_name
         record["license_url"] = license_url
@@ -1073,6 +1089,8 @@ def prepare_media(
         category_counts[media_category] += 1
         record.pop("extmetadata", None)
         record.pop("_wikitext", None)
+        record.pop("_file_page_text", None)
+        record.pop("_file_page_checked", None)
         media_lookup[key] = record
 
     return media_records, media_lookup, dict(sorted(category_counts.items()))
@@ -1527,7 +1545,7 @@ def render_page(
             revision = f"; revision {item['file_revision_id']}" if item.get("file_revision_id") else ""
             lines.append(
                 f'<li><a href="{html.escape(item["source_file_page"], quote=True)}">{html.escape(item["source_title"])}</a>'
-                f" — {html.escape(item.get('license') or 'CC BY-SA 4.0')}{uploader}{revision}</li>"
+                f" — {html.escape(item.get('license') or 'Image reuse permission unconfirmed')}{uploader}{revision}</li>"
             )
         lines.extend(["</ul>", "</details>", ""])
     return "\n".join(lines)
@@ -1772,6 +1790,10 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     overview_local_pages = {
         record["local_page"] for record in overview_records
     }
+    if category == 'battlewill':
+        # Battlewill is also a real technique, not the collection overview.
+        overview_records = []
+        overview_local_pages.clear()
     if category == "structures":
         # The old overview promotes a dungeon grouping that is not a feature of
         # the pinned 1.21.1 pack. Preserve the archive without surfacing it.
@@ -2123,8 +2145,8 @@ def write_reports(
             "source": WIKI_ROOT + "/",
             "synchronized_at": SYNCED_AT,
             "policy": (
-                "Media is imported under the upstream File-page CC BY-SA 4.0 declaration unless "
-                "the individual File page states restrictive or non-free terms."
+                "New media imports require an explicit file-specific reusable license and "
+                "a rendered File-page exception check. Page-content footers do not establish image permission."
             ),
             "media": media_records,
         },
@@ -2263,12 +2285,13 @@ Rebirth** heading.
 
 ## Media license policy
 
-The upstream File pages declare page content under
-[Creative Commons Attribution-ShareAlike 4.0]({TEXT_LICENSE_URL}) unless otherwise
-noted. The synchronizer verifies that File-page declaration, records each
-file's source page and revision, and checks its metadata and page text for
-exceptions. Fair-use claims, non-free terms, and restrictive notices cause the
-file to be skipped.
+New imports require an explicit reusable license for the image itself and a
+check of the rendered File-page licensing notice, including expanded templates.
+The general page-content footer does not establish an image license.
+Game-studio ownership notices, fair-use claims, non-free terms, and unconfirmed
+permission prevent a new import. Legacy footer-derived records are historical
+import decisions, not proof of image reuse permission; file-level reviews
+supersede them.
 
 The complete decision record, source URL, File page, license evidence, local
 path, and page associations are stored in

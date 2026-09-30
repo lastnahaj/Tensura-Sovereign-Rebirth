@@ -95,9 +95,3 @@ Intrinsic Skill</div></div><div class="druid-row druid-row-ObtainCost" data-drui
 ## Source and licensing
 
 TR Mysticism reference adapted from [Corruption](https://trmysticism.wiki.gg/wiki/Corruption) on the Tensura Reincarnated: Mysticism Wiki (revision `3188`, modified `2026-07-01T18:01:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
-<ul>
-</ul>
-</details>
