@@ -1,6 +1,146 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:surya": {
+      "asset": "assets/illustrations/skills/surya.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Surya",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:nodens": {
+      "asset": "assets/illustrations/skills/nodens.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Nodens",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:abaddon": {
+      "asset": "assets/illustrations/skills/abaddon.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Abbadon",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:azathoth": {
+      "asset": "assets/illustrations/skills/azathoth.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Azathoth",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:veldora_lord_of_storms": {
+      "asset": "assets/illustrations/skills/veldora-lord-of-storms.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Veldora",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:velgrynd_lord_of_scorch": {
+      "asset": "assets/illustrations/skills/velgrynd-lord-of-scorch.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Velgrynd",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:velzard_lord_of_frost": {
+      "asset": "assets/illustrations/skills/velzard-lord-of-frost.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Velzard",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:velgaia_lord_of_earth": {
+      "asset": "assets/illustrations/skills/velgaia-lord-of-earth.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Velgaia",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:mood_maker": {
+      "asset": "assets/illustrations/skills/mood-maker.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Mood_Maker",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:yog-sotohort": {
+      "asset": "assets/illustrations/skills/yog-sotohort.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Yog-Sotohort",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:artist": {
+      "asset": "assets/illustrations/skills/artist.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Artist",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:agni": {
+      "asset": "assets/illustrations/skills/agni.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Agni",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:amatsumara": {
+      "asset": "assets/illustrations/skills/amatsumara.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Amatsumara",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
+    "trnightmare:azazel": {
+      "asset": "assets/illustrations/skills/azazel.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Azazel",
+        "result": "The live article has no rendered skill image; placeholder media is not used."
+      }
+    },
     "trnightmare:gabriel": {
       "asset": "assets/upstream/nightmares/skills/gabriel.jpeg",
       "kind": "verified-source",

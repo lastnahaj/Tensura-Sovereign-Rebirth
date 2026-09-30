@@ -180,6 +180,10 @@ def main():
         errors.append("Non-gameplay Sandalphon variant in normal directories")
     for record in nightmares["pages"]:
         soup = BeautifulSoup(outputs[record["local_page"]], "html.parser")
+        if policy['pages'][record['local_page']]['status'] not in ACTIVE:
+            if soup.select_one('.skill-obtainment') or not soup.select_one('.skill-availability') or record['registry_id'] in seen or route(record['local_page']) in progression:
+                errors.append(f'Unavailable Nightmares skill promoted as normal progression: {record["registry_id"]}')
+            continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         for row in record["obtainment_rows"]:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

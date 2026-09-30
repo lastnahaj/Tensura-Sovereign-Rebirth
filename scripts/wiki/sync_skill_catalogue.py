@@ -287,7 +287,10 @@ def prepare_page(page, decision, text):
         if text.startswith("---\n") and "search:\n  exclude: true" not in text.split("\n---", 1)[0]:
             text = text.replace("---\n", "---\nsearch:\n  exclude: true\n", 1)
         message = ("This is a guide, not an individual skill." if decision["status"] == "guide" else "This entry is not part of the current registered skill catalogue. Its upstream mechanics are historical reference, not an available TSR progression path.")
-        section = f'<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>{message}</p><a href="{relative(page, "tensura-reference/skills/")}/">Browse current skills →</a></aside>'
+        message = decision.get('availability_reason', message)
+        heading_id = ' id="reference-status"' if decision.get('availability_reason') else ''
+        section = f'<aside class="skill-availability skill-availability--historical"><h2{heading_id}>Reference status</h2><p>{html.escape(message)}</p><a href="{relative(page, "tensura-reference/skills/")}/">Browse current skills →</a></aside>'
+        text = text.replace('<a href="#how-to-obtain">How to obtain</a>', '<a href="#reference-status">Reference status</a>')
         documented = False
     else:
         obtain, documented = acquisition(text, page, decision)
@@ -375,7 +378,7 @@ def generate():
         original = localize_skill_links((DOCS / page).read_text(encoding="utf-8"), page, policy, records)
         text, documented = prepare_page(page, decision, original)
         decision["obtainment_documented"] = documented
-        if decision["namespace"] in {"mysticism", "trnightmare"} and decision["status"] in ACTIVE:
+        if decision["namespace"] in {"mysticism", "trnightmare"} and (decision["status"] in ACTIVE or decision['id'] in artwork):
             media = source_icons.get(page)
             asset = decision.get("asset") or "assets/icons/skills/" + decision["id"].replace(":", "-") + ".svg"
             illustration = decision.get('artwork_kind') == 'original-illustration'

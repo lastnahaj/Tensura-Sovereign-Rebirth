@@ -1,6 +1,6 @@
 ---
 title: Amatsumara, Lord of Crafts
-description: Precision Miner - The user gains the effects of Fortune 2 and Luck 5.
+description: "Forge and refine equipment, use a portable kiln, and engrave skills onto items."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-amatsumara.svg" alt="Amatsumara, Lord of Crafts emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/amatsumara.png" alt="Amatsumara, Lord of Crafts illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Precision Miner - The user gains the effects of Fortune 2 and Luck 5.</p>
+<p>Forge and refine equipment, use a portable kiln, and engrave skills onto items.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -56,4 +56,6 @@ Master <a class="external text" href="../../unique/godly-craftsman/">Godly Craft
 
 Tensura Nightmares reference adapted from [Amatsumara](https://tensuranightmares.wiki.gg/wiki/Amatsumara) on the Tensura Reincarnated Nightmares Wiki (revision `2495`, modified `2026-07-26T17:24:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

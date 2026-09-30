@@ -1378,12 +1378,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Metatron, have enough MP, master 10 holy Spells, win 15 raids and use 10k Spiritrons"
+          "text": "Master Metatron, have enough MP, master 5 holy Spells, win 15 raids and use 10k Spiritrons"
         }
       ],
-      "source_partial": false,
-      "summary": "\"The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally\"",
-      "description": "\"The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally\""
+      "source_partial": true,
+      "summary": "Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration.",
+      "description": "Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration."
     },
     {
       "page_id": 883,
@@ -1466,9 +1466,9 @@
           "text": "If the user has Lucifer, it is able to Arroganz 'Soul Gluttony' from Azathoth, as well as [ Skill Storage ]  from Shub-Niggurath, those two skills can superceed the requirement of four analyze ultimates, however this method will cost 4,750,000 MP from Shub-Niggurath and 4,150,000 MP from Azathoth, as well as having over 30,000,000 EP, instead making Nodens cost 12,300,000 MP."
         }
       ],
-      "source_partial": false,
-      "summary": "\"This is absurd, one of the strongest abilities concieved!\"",
-      "description": "\"This is absurd, one of the strongest abilities concieved!\""
+      "source_partial": true,
+      "summary": "Analyze and store copied ability modes, control spacetime, and wield abyssal energy.",
+      "description": "Analyze and store copied ability modes, control spacetime, and wield abyssal energy."
     },
     {
       "page_id": 889,
@@ -1491,9 +1491,9 @@
           "text": "Master Breaker , Master Multilayer Barrier, Master spatial domination, Master 5 battlewills, Master 30 magics, Have 25 daemon essence, kill 5000 mobs"
         }
       ],
-      "source_partial": false,
-      "summary": "\"The judge has spoken. Your verdict stands\"",
-      "description": "\"The judge has spoken. Your verdict stands\""
+      "source_partial": true,
+      "summary": "Break spatial defenses, exceed power limits, and fire spatial magic bullets.",
+      "description": "Break spatial defenses, exceed power limits, and fire spatial magic bullets."
     },
     {
       "page_id": 890,
@@ -1516,9 +1516,9 @@
           "text": "Master Raphael, Lord of Wisdom (IT HAS TO BE WISDOM, NO KNOWLEDGE DOESNT WORK), Beelzebuth, 100 subordinates, 100 skills mastered AND More then 40M EP"
         }
       ],
-      "source_partial": false,
-      "summary": "\"This is it. The Peak over Power\"",
-      "description": "\"This is it. The Peak over Power\""
+      "source_partial": true,
+      "summary": "Combine soul predation, imaginary-space storage, dragon cores, and nihility.",
+      "description": "Combine soul predation, imaginary-space storage, dragon cores, and nihility."
     },
     {
       "page_id": 895,
@@ -1937,9 +1937,9 @@
           "text": "Obtain 500+ Bond Points"
         }
       ],
-      "source_partial": false,
-      "summary": "Storm-Type Magic - The user gains the Storm Magics. Their Lightning, Wind and Water Damage gets increased by 50%.",
-      "description": "Storm-Type Magic - The user gains the Storm Magics. Their Lightning, Wind and Water Damage gets increased by 50%."
+      "source_partial": true,
+      "summary": "Channel storm-type magic and summon Veldora’s human-form body.",
+      "description": "Channel storm-type magic and summon Veldora’s human-form body."
     },
     {
       "page_id": 949,
@@ -1962,9 +1962,9 @@
           "text": "Obtain 500+ Bond Points"
         }
       ],
-      "source_partial": false,
-      "summary": "Scorch-Type Magic - The user gains the Scorch Magics. Also boosts their Fire, Heat and Light Damage by 50%.",
-      "description": "Scorch-Type Magic - The user gains the Scorch Magics. Also boosts their Fire, Heat and Light Damage by 50%."
+      "source_partial": true,
+      "summary": "Channel scorch-type magic and summon Velgrynd’s human-form body.",
+      "description": "Channel scorch-type magic and summon Velgrynd’s human-form body."
     },
     {
       "page_id": 950,
@@ -1987,9 +1987,9 @@
           "text": "Obtain 500+ Bond Points"
         }
       ],
-      "source_partial": false,
-      "summary": "Frost-Type Magic - The user gains the Frost Magics. Also boosts their Cold Damage by 50%.",
-      "description": "Frost-Type Magic - The user gains the Frost Magics. Also boosts their Cold Damage by 50%."
+      "source_partial": true,
+      "summary": "Channel frost-type magic and summon Velzard’s human-form body.",
+      "description": "Channel frost-type magic and summon Velzard’s human-form body."
     },
     {
       "page_id": 951,
@@ -2012,9 +2012,22 @@
           "text": "Obtain 500 Bond Points"
         }
       ],
-      "source_partial": false,
-      "summary": "Unobtainable due to no model for boss",
-      "description": "Unobtainable due to no model for boss"
+      "source_partial": true,
+      "summary": "Earth-dragon skill reference with no verified normal acquisition route.",
+      "description": "Earth-dragon skill reference with no verified normal acquisition route.",
+      "normal_acquisition_unverified": true,
+      "availability_reason": "Normal acquisition is not verified. The source wiki lists Velgaia as unobtainable, and Nightmares 1.0.3.2.8 has no Velgaia boss or human summon model. Teaching logic exists in the reference build, but a playable entry into that route has not been established. This article is reference-only, not an available TSR progression recommendation.",
+      "availability_review": {
+        "date": "2026-09-29",
+        "source_url": "https://tensuranightmares.wiki.gg/wiki/Velgaia",
+        "artifact_sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+        "inspected_types": [
+          "com.github.hvnbael.trnightmare.main.dragon.DragonType",
+          "com.github.hvnbael.trnightmare.main.dragon.TrueDragonHelper",
+          "com.github.hvnbael.trnightmare.main.ultimates.VelgaiaLordOfEarthSkill"
+        ],
+        "findings": "No Velgaia boss or clone definition. The shared teaching helper includes a 500-bond check, but normal acquisition is not established by that helper alone."
+      }
     },
     {
       "page_id": 966,
@@ -2056,9 +2069,9 @@
           "text": "Master Tuner, have enough MP, use Destiny Change atleast 100 Times. IMPORTANT: YOU NEED TO HAVE ACTIVATED DESTINY CHANGE VERY RECEntly"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Honestly, not in the mood to make a Funny text rn\"",
-      "description": "\"Honestly, not in the mood to make a Funny text rn\""
+      "source_partial": true,
+      "summary": "Manipulate destiny, restore resources, and gain health-dependent combat effects.",
+      "description": "Manipulate destiny, restore resources, and gain health-dependent combat effects."
     },
     {
       "page_id": 972,
@@ -2079,11 +2092,16 @@
           "label": "Other",
           "section": "Obtaining",
           "text": "Master 「Yog-Sothoth, Lord of Space-Time」 , Have enough MP, have 10M EP, obtain the composite data of \"Courage\", \"Hope\" and \"Justice\""
+        },
+        {
+          "label": "Composite data",
+          "section": "Obtaining",
+          "text": "For Courage, use Yog-Sothoth’s Usurper on a target with Chosen One, True Hero, or Sacred Haki. For Justice, target Dominator or Michael. For Hope, target Unyielding or Sariel."
         }
       ],
-      "source_partial": false,
-      "summary": "\"TIME; THOU SHALL FOLLOW MY COMMAND!!!\"",
-      "description": "\"TIME; THOU SHALL FOLLOW MY COMMAND!!!\""
+      "source_partial": true,
+      "summary": "Combine Courage, Hope, and Justice data with advanced spacetime abilities.",
+      "description": "Combine Courage, Hope, and Justice data with advanced spacetime abilities."
     },
     {
       "page_id": 991,
@@ -2112,8 +2130,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory. While…",
-      "description": "Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player to become them. This also works on entities. If a player has more than 50% of your EP, you cannot imitate them. You gain their stats, name, skills, and such, but not their inventory. While…"
+      "summary": "Imitate known entities, create stage doubles, and reuse recorded abilities.",
+      "description": "Imitate known entities, create stage doubles, and reuse recorded abilities."
     },
     {
       "page_id": 992,
@@ -2147,8 +2165,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Flame Authority - When this skill is toggled on, it increases Flame Damage to x6. (Doesn't stack with Flame Manipulation or Domination. ). And bypassess Flame Attack Resistance, and degrades Nullification to Resistance.",
-      "description": "Flame Authority - When this skill is toggled on, it increases Flame Damage to x6. (Doesn't stack with Flame Manipulation or Domination. ). And bypassess Flame Attack Resistance, and degrades Nullification to Resistance."
+      "summary": "Amplify flame attacks and wield Blazeball, Blaze Wave, and flame-coated strikes.",
+      "description": "Amplify flame attacks and wield Blazeball, Blaze Wave, and flame-coated strikes."
     },
     {
       "page_id": 993,
@@ -2172,8 +2190,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "Precision Miner - The user gains the effects of Fortune 2 and Luck 5.",
-      "description": "Precision Miner - The user gains the effects of Fortune 2 and Luck 5."
+      "summary": "Forge and refine equipment, use a portable kiln, and engrave skills onto items.",
+      "description": "Forge and refine equipment, use a portable kiln, and engrave skills onto items."
     },
     {
       "page_id": 994,
@@ -2206,9 +2224,9 @@
           "text": "master Multilayer barrier , 50 magics, have 25 subordinates, and win 10 raids."
         }
       ],
-      "source_partial": false,
-      "summary": "Tempter can obtain Seeker by mastering 50 Aspectual Magics",
-      "description": "Tempter can obtain Seeker by mastering 50 Aspectual Magics"
+      "source_partial": true,
+      "summary": "Control mental influence, copy ability modes, and create a spatial world.",
+      "description": "Control mental influence, copy ability modes, and create a spatial world."
     },
     {
       "page_id": 995,

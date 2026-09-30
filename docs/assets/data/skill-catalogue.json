@@ -4384,9 +4384,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-surya.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/surya.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-samael.md": {
       "id": "trnightmare:samael",
@@ -4446,9 +4447,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-nodens.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/nodens.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-abaddon.md": {
       "id": "trnightmare:abaddon",
@@ -4466,9 +4468,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-abaddon.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/abaddon.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-azathoth.md": {
       "id": "trnightmare:azathoth",
@@ -4486,9 +4489,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-azathoth.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/azathoth.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-sentient-being.md": {
       "id": "trnightmare:sentient_being",
@@ -4882,9 +4886,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-veldora_lord_of_storms.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/veldora-lord-of-storms.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-velgrynd-lord-of-scorch.md": {
       "id": "trnightmare:velgrynd_lord_of_scorch",
@@ -4902,9 +4907,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-velgrynd_lord_of_scorch.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/velgrynd-lord-of-scorch.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-velzard-lord-of-frost.md": {
       "id": "trnightmare:velzard_lord_of_frost",
@@ -4922,13 +4928,14 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-velzard_lord_of_frost.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/velzard-lord-of-frost.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-velgaia-lord-of-earth.md": {
       "id": "trnightmare:velgaia_lord_of_earth",
-      "status": "reference",
+      "status": "unavailable",
       "category": "skills/ultimate",
       "title": "Velgaia, Lord of Earth-Star",
       "namespace": "trnightmare",
@@ -4942,9 +4949,11 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-velgaia_lord_of_earth.svg"
+      "source_partial": true,
+      "availability_reason": "Normal acquisition is not verified. The source wiki lists Velgaia as unobtainable, and Nightmares 1.0.3.2.8 has no Velgaia boss or human summon model. Teaching logic exists in the reference build, but a playable entry into that route has not been established. This article is reference-only, not an available TSR progression recommendation.",
+      "asset": "assets/illustrations/skills/velgaia-lord-of-earth.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": false
     },
     "tensura-reference/skills/unique/nightmares-robotnic.md": {
       "id": "trnightmare:robotnic",
@@ -4983,9 +4992,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-mood_maker.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/mood-maker.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-yog-sotohort.md": {
       "id": "trnightmare:yog-sotohort",
@@ -5003,9 +5013,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-yog-sotohort.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/yog-sotohort.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-artist.md": {
       "id": "trnightmare:artist",
@@ -5024,8 +5035,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-artist.svg"
+      "asset": "assets/illustrations/skills/artist.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-agni.md": {
       "id": "trnightmare:agni",
@@ -5044,8 +5056,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-agni.svg"
+      "asset": "assets/illustrations/skills/agni.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-amatsumara.md": {
       "id": "trnightmare:amatsumara",
@@ -5064,8 +5077,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-amatsumara.svg"
+      "asset": "assets/illustrations/skills/amatsumara.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-azazel.md": {
       "id": "trnightmare:azazel",
@@ -5083,9 +5097,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-azazel.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/azazel.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-beelzebub.md": {
       "id": "trnightmare:beelzebub",

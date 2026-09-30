@@ -3540,7 +3540,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-surya/": {
       "title": "Surya, King of Brillance",
-      "image": "assets/icons/skills/trnightmare-surya.svg",
+      "image": "assets/illustrations/skills/surya.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3558,19 +3558,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-nodens/": {
       "title": "Nodens, God of Abyss",
-      "image": "assets/icons/skills/trnightmare-nodens.svg",
+      "image": "assets/illustrations/skills/nodens.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-abaddon/": {
       "title": "Abaddon, King of Destruction",
-      "image": "assets/icons/skills/trnightmare-abaddon.svg",
+      "image": "assets/illustrations/skills/abaddon.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-azathoth/": {
       "title": "Azathoth, God of The Void",
-      "image": "assets/icons/skills/trnightmare-azathoth.svg",
+      "image": "assets/illustrations/skills/azathoth.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3684,25 +3684,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-veldora-lord-of-storms/": {
       "title": "Veldora, Lord of Storms",
-      "image": "assets/icons/skills/trnightmare-veldora_lord_of_storms.svg",
+      "image": "assets/illustrations/skills/veldora-lord-of-storms.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-velgrynd-lord-of-scorch/": {
       "title": "Velgrynd, Lord of Scorch",
-      "image": "assets/icons/skills/trnightmare-velgrynd_lord_of_scorch.svg",
+      "image": "assets/illustrations/skills/velgrynd-lord-of-scorch.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-velzard-lord-of-frost/": {
       "title": "Velzard, Lord of Frost",
-      "image": "assets/icons/skills/trnightmare-velzard_lord_of_frost.svg",
-      "category": "skills/ultimate",
-      "verification": "reference-build-only"
-    },
-    "tensura-reference/skills/ultimate/nightmares-velgaia-lord-of-earth/": {
-      "title": "Velgaia, Lord of Earth-Star",
-      "image": "assets/icons/skills/trnightmare-velgaia_lord_of_earth.svg",
+      "image": "assets/illustrations/skills/velzard-lord-of-frost.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3714,37 +3708,37 @@
     },
     "tensura-reference/skills/ultimate/nightmares-mood-maker/": {
       "title": "Mood Maker, Lord of Psychology",
-      "image": "assets/icons/skills/trnightmare-mood_maker.svg",
+      "image": "assets/illustrations/skills/mood-maker.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-yog-sotohort/": {
       "title": "Yog-Sotohort, God of Space-Time",
-      "image": "assets/icons/skills/trnightmare-yog-sotohort.svg",
+      "image": "assets/illustrations/skills/yog-sotohort.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-artist/": {
       "title": "Artist, Authentic Writer",
-      "image": "assets/icons/skills/trnightmare-artist.svg",
+      "image": "assets/illustrations/skills/artist.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-agni/": {
       "title": "Agni, Lord of Blaze",
-      "image": "assets/icons/skills/trnightmare-agni.svg",
+      "image": "assets/illustrations/skills/agni.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-amatsumara/": {
       "title": "Amatsumara, Lord of Crafts",
-      "image": "assets/icons/skills/trnightmare-amatsumara.svg",
+      "image": "assets/illustrations/skills/amatsumara.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-azazel/": {
       "title": "Azazel, Lord of Temptation",
-      "image": "assets/icons/skills/trnightmare-azazel.svg",
+      "image": "assets/illustrations/skills/azazel.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },

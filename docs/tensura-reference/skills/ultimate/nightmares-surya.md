@@ -1,6 +1,6 @@
 ---
 title: Surya, King of Brillance
-description: '"The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally"'
+description: "Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration."
 tags:
 - King Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-surya.svg" alt="Surya, King of Brillance emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/surya.png" alt="Surya, King of Brillance illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>&quot;The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally&quot;</p>
+<p>Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -27,17 +27,17 @@ tags:
 
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
-<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
-Master Metatron, have enough MP, master 10 holy Spells, win 15 raids and use 10k Spiritrons</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+Master Metatron, have enough MP, master 5 holy Spells, win 15 raids and use 10k Spiritrons</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally" </p><div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">「Surya, King of Brillance」</div></div><div class="druid-section-container"></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration.</p><div class="druid-infobox druid-container noexcerpt druid-container-skill" id="druid-container-1"><div><div class="druid-title">「Surya, King of Brillance」</div></div><div class="druid-section-container"></div><div class="druid-section-container"><div data-druid-section="Information"><div class="druid-section druid-section-Information">Information</div></div><div class="druid-row druid-row-Type" data-druid-section-row="Information"><div class="druid-label druid-label-Type">Type</div><div class="druid-data druid-data-Type druid-data-nonempty">Ultimate Skill</div></div><div class="druid-row druid-row-ObtainCost" data-druid-section-row="Information"><div class="druid-label druid-label-ObtainCost">Obtain Cost</div><div class="druid-data druid-data-ObtainCost druid-data-nonempty">
 1.5M MP</div></div><div class="druid-row druid-row-PointstoMaster" data-druid-section-row="Information"><div class="druid-label druid-label-PointstoMaster">Points to Master</div><div class="druid-data druid-data-PointstoMaster druid-data-nonempty">
 x</div></div><div class="druid-row druid-row-Passive" data-druid-section-row="Information"><div class="druid-label druid-label-Passive">Passive</div><div class="druid-data druid-data-Passive druid-data-nonempty">
 Toggle</div></div></div><div class="druid-section-container"><div data-druid-section="Evolution"><div class="druid-section druid-section-Evolution">Evolution</div></div><div class="druid-row druid-row-Previous" data-druid-section-row="Evolution"><div class="druid-label druid-label-Previous">Previous</div><div class="druid-data druid-data-Previous druid-data-nonempty">
 <a href="../nightmares-metatron/" title="Metatron">「Metatron, Lord of Purity」</a></div></div></div><div class="druid-section-container"><div data-druid-section="Obtaining"><div class="druid-section druid-section-Obtaining">Obtaining</div></div><div class="druid-row druid-row-Other" data-druid-section-row="Obtaining"><div class="druid-label druid-label-Other">Other</div><div class="druid-data druid-data-Other druid-data-nonempty">
-Master Metatron, have enough MP, master 10 holy Spells, win 15 raids and use 10k Spiritrons</div></div></div></div>
+Master Metatron, have enough MP, master 5 holy Spells, win 15 raids and use 10k Spiritrons</div></div></div></div>
 <h2><span class="mw-headline" id="Usage">Usage</span></h2>
 <h3><span class="mw-headline" id="Passive">Passive</span></h3>
 <ul><li>[Passive, True] Spiritron Collection - The user gains a new Energy bar below their MP and AP Bars, this containts the user's Spiritron Point Bar. This bar will passively fill up so long as the user's MP is at 60% or higher. The Spiritron bar will regenerate 10 Spiritrons a second (15 when mastered) and has a maximum size of 500 by default, 800 on mastery. If the user's SP bar is above 150, they pay 35% less magicules when needed.</li>
@@ -56,6 +56,10 @@ Master Metatron, have enough MP, master 10 holy Spells, win 15 raids and use 10k
 
 ## Source and licensing
 
+Acquisition requirements reviewed against the [current source article](https://tensuranightmares.wiki.gg/wiki/Surya) on 29 September 2026. These source changes have not been confirmed against the installed server build.
+
 Tensura Nightmares reference adapted from [Surya](https://tensuranightmares.wiki.gg/wiki/Surya) on the Tensura Reincarnated Nightmares Wiki (revision `2528`, modified `2026-07-26T17:40:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

@@ -100,11 +100,12 @@ def catalogue() -> dict:
         if nightmares["registry"][identifier]["registry_category"] != entry["category"]:
             raise ValueError(f"Nightmares reference type mismatch: {identifier}")
         pages[entry["local_page"]] = {
-            "id": identifier, "status": "reference", "category": entry["category"],
+            "id": identifier, "status": "unavailable" if entry.get("normal_acquisition_unverified") else "reference", "category": entry["category"],
             "title": entry["display_title"], "namespace": "trnightmare",
             "source": entry["source_url"], "revision": entry["revision_id"],
             "reference_build": nightmares["reference_build"],
             "source_partial": entry.get("source_partial", False),
+            **({"availability_reason": entry["availability_reason"]} if entry.get("normal_acquisition_unverified") else {}),
         }
     artwork = json.loads((ROOT / 'data/skill_artwork.json').read_text(encoding='utf-8'))['entries']
     for decision in pages.values():

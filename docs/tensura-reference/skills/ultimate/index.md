@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">66 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">65 entries</span></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="./" aria-current="page">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">
@@ -32,19 +32,19 @@ hide:
 <button type="button" data-letter="Y" aria-pressed="false">Y</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 66 of 66 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 65 of 65 articles</p>
 </div>
 <div class="reference-card-grid">
-<article class="reference-card" data-letter="A" data-search="abaddon, king of destruction &quot;the judge has spoken. your verdict stands&quot;">
+<article class="reference-card" data-letter="A" data-search="abaddon, king of destruction break spatial defenses, exceed power limits, and fire spatial magic bullets.">
 <a href="nightmares-abaddon/" aria-label="Open Abaddon, King of Destruction">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-abaddon.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/abaddon.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Abaddon, King of Destruction</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;The judge has spoken. Your verdict stands&quot;</p>
+<p>Break spatial defenses, exceed power limits, and fire spatial magic bullets.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -65,16 +65,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="agni, lord of blaze flame authority - when this skill is toggled on, it increases flame damage to x6. (doesn&#x27;t stack with flame manipulation or domination. ). and bypassess flame attack…">
+<article class="reference-card" data-letter="A" data-search="agni, lord of blaze amplify flame attacks and wield blazeball, blaze wave, and flame-coated strikes.">
 <a href="nightmares-agni/" aria-label="Open Agni, Lord of Blaze">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-agni.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/agni.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Agni, Lord of Blaze</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Flame Authority - When this skill is toggled on, it increases Flame Damage to x6. (Doesn&#x27;t stack with Flame Manipulation or Domination. ). And bypassess Flame Attack…</p>
+<p>Amplify flame attacks and wield Blazeball, Blaze Wave, and flame-coated strikes.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -125,31 +125,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="amatsumara, lord of crafts precision miner - the user gains the effects of fortune 2 and luck 5.">
+<article class="reference-card" data-letter="A" data-search="amatsumara, lord of crafts forge and refine equipment, use a portable kiln, and engrave skills onto items.">
 <a href="nightmares-amatsumara/" aria-label="Open Amatsumara, Lord of Crafts">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-amatsumara.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/amatsumara.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Amatsumara, Lord of Crafts</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Precision Miner - The user gains the effects of Fortune 2 and Luck 5.</p>
+<p>Forge and refine equipment, use a portable kiln, and engrave skills onto items.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="artist, authentic writer actor - the user can use this on a player to begin learning them. this is based of learn speed. when at 100%, you can shift use actor and select the name of the player…">
+<article class="reference-card" data-letter="A" data-search="artist, authentic writer imitate known entities, create stage doubles, and reuse recorded abilities.">
 <a href="nightmares-artist/" aria-label="Open Artist, Authentic Writer">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-artist.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/artist.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Artist, Authentic Writer</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Actor - The user can use this on a player to begin learning them. This is based of Learn Speed. When at 100%, you can shift use Actor and select the name of the player…</p>
+<p>Imitate known entities, create stage doubles, and reuse recorded abilities.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -230,31 +230,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="azathoth, god of the void &quot;this is it. the peak over power&quot;">
+<article class="reference-card" data-letter="A" data-search="azathoth, god of the void combine soul predation, imaginary-space storage, dragon cores, and nihility.">
 <a href="nightmares-azathoth/" aria-label="Open Azathoth, God of The Void">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-azathoth.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/azathoth.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Azathoth, God of The Void</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;This is it. The Peak over Power&quot;</p>
+<p>Combine soul predation, imaginary-space storage, dragon cores, and nihility.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="azazel, lord of temptation tempter can obtain seeker by mastering 50 aspectual magics">
+<article class="reference-card" data-letter="A" data-search="azazel, lord of temptation control mental influence, copy ability modes, and create a spatial world.">
 <a href="nightmares-azazel/" aria-label="Open Azazel, Lord of Temptation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-azazel.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/azazel.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Azazel, Lord of Temptation</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Tempter can obtain Seeker by mastering 50 Aspectual Magics</p>
+<p>Control mental influence, copy ability modes, and create a spatial world.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -545,16 +545,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="mood maker, lord of psychology &quot;honestly, not in the mood to make a funny text rn&quot;">
+<article class="reference-card" data-letter="M" data-search="mood maker, lord of psychology manipulate destiny, restore resources, and gain health-dependent combat effects.">
 <a href="nightmares-mood-maker/" aria-label="Open Mood Maker, Lord of Psychology">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-mood_maker.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/mood-maker.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mood Maker, Lord of Psychology</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Honestly, not in the mood to make a Funny text rn&quot;</p>
+<p>Manipulate destiny, restore resources, and gain health-dependent combat effects.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -575,16 +575,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="N" data-search="nodens, god of abyss &quot;this is absurd, one of the strongest abilities concieved!&quot;">
+<article class="reference-card" data-letter="N" data-search="nodens, god of abyss analyze and store copied ability modes, control spacetime, and wield abyssal energy.">
 <a href="nightmares-nodens/" aria-label="Open Nodens, God of Abyss">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-nodens.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/nodens.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Nodens, God of Abyss</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;This is absurd, one of the strongest abilities concieved!&quot;</p>
+<p>Analyze and store copied ability modes, control spacetime, and wield abyssal energy.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -725,16 +725,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="surya, king of brillance &quot;the power to sort out all mixed laws, prevent interference, and select pure energy. refined enough to not harm others unintentionally&quot;">
+<article class="reference-card" data-letter="S" data-search="surya, king of brillance channel spiritrons into refined holy attacks, protective barriers, and disintegration.">
 <a href="nightmares-surya/" aria-label="Open Surya, King of Brillance">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-surya.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/surya.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Surya, King of Brillance</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;The power to sort out all mixed laws, prevent interference, and select pure energy. Refined enough to not harm others unintentionally&quot;</p>
+<p>Channel Spiritrons into refined holy attacks, protective barriers, and Disintegration.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -920,61 +920,46 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="V" data-search="veldora, lord of storms storm-type magic - the user gains the storm magics. their lightning, wind and water damage gets increased by 50%.">
+<article class="reference-card" data-letter="V" data-search="veldora, lord of storms channel storm-type magic and summon veldora’s human-form body.">
 <a href="nightmares-veldora-lord-of-storms/" aria-label="Open Veldora, Lord of Storms">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-veldora_lord_of_storms.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/veldora-lord-of-storms.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Veldora, Lord of Storms</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Storm-Type Magic - The user gains the Storm Magics. Their Lightning, Wind and Water Damage gets increased by 50%.</p>
+<p>Channel storm-type magic and summon Veldora’s human-form body.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="V" data-search="velgaia, lord of earth-star unobtainable due to no model for boss">
-<a href="nightmares-velgaia-lord-of-earth/" aria-label="Open Velgaia, Lord of Earth-Star">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-velgaia_lord_of_earth.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Velgaia, Lord of Earth-Star</h2>
-<small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Unobtainable due to no model for boss</p>
-
-<span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="V" data-search="velgrynd, lord of scorch scorch-type magic - the user gains the scorch magics. also boosts their fire, heat and light damage by 50%.">
+<article class="reference-card" data-letter="V" data-search="velgrynd, lord of scorch channel scorch-type magic and summon velgrynd’s human-form body.">
 <a href="nightmares-velgrynd-lord-of-scorch/" aria-label="Open Velgrynd, Lord of Scorch">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-velgrynd_lord_of_scorch.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/velgrynd-lord-of-scorch.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Velgrynd, Lord of Scorch</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Scorch-Type Magic - The user gains the Scorch Magics. Also boosts their Fire, Heat and Light Damage by 50%.</p>
+<p>Channel scorch-type magic and summon Velgrynd’s human-form body.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="V" data-search="velzard, lord of frost frost-type magic - the user gains the frost magics. also boosts their cold damage by 50%.">
+<article class="reference-card" data-letter="V" data-search="velzard, lord of frost channel frost-type magic and summon velzard’s human-form body.">
 <a href="nightmares-velzard-lord-of-frost/" aria-label="Open Velzard, Lord of Frost">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-velzard_lord_of_frost.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/velzard-lord-of-frost.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Velzard, Lord of Frost</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Frost-Type Magic - The user gains the Frost Magics. Also boosts their Cold Damage by 50%.</p>
+<p>Channel frost-type magic and summon Velzard’s human-form body.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -995,16 +980,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="Y" data-search="yog-sotohort, god of space-time &quot;time; thou shall follow my command!!!&quot;">
+<article class="reference-card" data-letter="Y" data-search="yog-sotohort, god of space-time combine courage, hope, and justice data with advanced spacetime abilities.">
 <a href="nightmares-yog-sotohort/" aria-label="Open Yog-Sotohort, God of Space-Time">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-yog-sotohort.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/yog-sotohort.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Yog-Sotohort, God of Space-Time</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;TIME; THOU SHALL FOLLOW MY COMMAND!!!&quot;</p>
+<p>Combine Courage, Hope, and Justice data with advanced spacetime abilities.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

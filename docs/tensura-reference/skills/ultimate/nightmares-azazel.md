@@ -1,6 +1,6 @@
 ---
 title: Azazel, Lord of Temptation
-description: Tempter can obtain Seeker by mastering 50 Aspectual Magics
+description: "Control mental influence, copy ability modes, and create a spatial world."
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-azazel.svg" alt="Azazel, Lord of Temptation emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/azazel.png" alt="Azazel, Lord of Temptation illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Tempter can obtain Seeker by mastering 50 Aspectual Magics</p>
+<p>Control mental influence, copy ability modes, and create a spatial world.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -27,7 +27,7 @@ tags:
 
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Ultimate Skills</a></nav>
-<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
+<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Ultimate Skills · 1.21.1 reference build</p><h2 id="how-to-obtain">How to obtain</h2><p class="skill-evidence-note"><strong>Server build match pending.</strong> Reference: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382">Nightmares 1.0.3.2.8-neoforge-1.21.1</a>.</p><details class="skill-source-limits"><summary>Version and source limits</summary><p>This skill is registered in the reference release. The installed version and server configuration have not yet been matched. Requirements and effects describe the cited wiki revision, not verified server behavior.</p><p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p></details><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
 Master <a href="../../unique/nightmares-tempter/" title="Tempter">Tempter</a>, <a class="external text" href="../../unique/seeker/">Seeker</a></li><li>
 Reach 940k Magicules</li><li>
 master <a class="external text" href="../../extra/multilayer-barrier/">Multilayer barrier</a>, 50 magics, have 25 subordinates, and win 10 raids.</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
@@ -71,4 +71,6 @@ master <a class="external text" href="../../extra/multilayer-barrier/">Multilaye
 
 Tensura Nightmares reference adapted from [Azazel](https://tensuranightmares.wiki.gg/wiki/Azazel) on the Tensura Reincarnated Nightmares Wiki (revision `2907`, modified `2026-08-27T12:48:31Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->
