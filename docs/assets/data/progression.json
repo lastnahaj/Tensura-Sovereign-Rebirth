@@ -3192,7 +3192,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-asmodeus/": {
       "title": "Asmodeus, Lord of Lust",
-      "image": "assets/icons/skills/trnightmare-asmodeus.svg",
+      "image": "assets/upstream/nightmares/skills/asmodeus.jpeg",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3222,7 +3222,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-lucifer/": {
       "title": "Lucifer, Lord of Pride",
-      "image": "assets/icons/skills/trnightmare-lucifer.svg",
+      "image": "assets/upstream/nightmares/skills/lucifer.jpeg",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3246,7 +3246,7 @@
     },
     "tensura-reference/skills/ultimate/nightmares-satanael/": {
       "title": "Satanael, Lord of Wrath",
-      "image": "assets/icons/skills/trnightmare-satanael.svg",
+      "image": "assets/upstream/nightmares/skills/satanael.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3330,19 +3330,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-amaterasu/": {
       "title": "Amaterasu, Lord of Shimmering Flames",
-      "image": "assets/icons/skills/trnightmare-amaterasu.svg",
+      "image": "assets/upstream/nightmares/skills/amaterasu.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-tsukiyomi/": {
       "title": "Tsukiyomi, Lord of Moonshadow",
-      "image": "assets/icons/skills/trnightmare-tsukiyomi.svg",
+      "image": "assets/illustrations/skills/tsukiyomi.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-susanoo/": {
       "title": "Susano'o, Lord of Tyranny",
-      "image": "assets/icons/skills/trnightmare-susanoo.svg",
+      "image": "assets/upstream/nightmares/skills/susanoo.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3354,19 +3354,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-astraea/": {
       "title": "Astraea, Lord of Gifts",
-      "image": "assets/icons/skills/trnightmare-astraea.svg",
+      "image": "assets/illustrations/skills/astraea.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-faust/": {
       "title": "Faust, Lord of Investigation",
-      "image": "assets/icons/skills/trnightmare-faust.svg",
+      "image": "assets/illustrations/skills/faust.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-michael/": {
       "title": "Michael, Lord of Justice",
-      "image": "assets/icons/skills/trnightmare-michael.svg",
+      "image": "assets/upstream/nightmares/skills/michael.jpeg",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
@@ -3378,19 +3378,19 @@
     },
     "tensura-reference/skills/ultimate/nightmares-hastur/": {
       "title": "Hastur, Lord of Starwind",
-      "image": "assets/icons/skills/trnightmare-hastur.svg",
+      "image": "assets/illustrations/skills/hastur.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-astral-light/": {
       "title": "Astral Light, Lord of Creation",
-      "image": "assets/icons/skills/trnightmare-astral_light.svg",
+      "image": "assets/illustrations/skills/astral-light.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },
     "tensura-reference/skills/ultimate/nightmares-yog-sothoth/": {
       "title": "Yog-Sothoth, Lord of Space-Time",
-      "image": "assets/icons/skills/trnightmare-yog_sothoth.svg",
+      "image": "assets/illustrations/skills/yog-sothoth.png",
       "category": "skills/ultimate",
       "verification": "reference-build-only"
     },

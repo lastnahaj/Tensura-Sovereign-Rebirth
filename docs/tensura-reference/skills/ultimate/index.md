@@ -110,16 +110,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="amaterasu, lord of shimmering flames &quot;i command thee kneel&quot;">
+<article class="reference-card" data-letter="A" data-search="amaterasu, lord of shimmering flames command subordinates and amplify light, heat, flame, and spatial attacks.">
 <a href="nightmares-amaterasu/" aria-label="Open Amaterasu, Lord of Shimmering Flames">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-amaterasu.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/amaterasu.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Amaterasu, Lord of Shimmering Flames</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;I command thee KNEEL&quot;</p>
+<p>Command subordinates and amplify light, heat, flame, and spatial attacks.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -155,16 +155,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="asmodeus, lord of lust &quot;asmodeus is in truth, the ability to subdue and enslave life itself&quot;">
+<article class="reference-card" data-letter="A" data-search="asmodeus, lord of lust dominate life force, heal allies, drain enemies, and revive fallen subordinates.">
 <a href="nightmares-asmodeus/" aria-label="Open Asmodeus, Lord of Lust">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-asmodeus.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/asmodeus.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Asmodeus, Lord of Lust</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Asmodeus is in truth, the ability to subdue and enslave life itself&quot;</p>
+<p>Dominate life force, heal allies, drain enemies, and revive fallen subordinates.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -200,31 +200,31 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="astraea, lord of gifts &quot;insert rheinhardt quote here&quot;">
+<article class="reference-card" data-letter="A" data-search="astraea, lord of gifts create and bestow blessings, enhance holy weapons, and gain sword saint effects.">
 <a href="nightmares-astraea/" aria-label="Open Astraea, Lord of Gifts">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-astraea.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/astraea.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Astraea, Lord of Gifts</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Insert Rheinhardt quote here&quot;</p>
+<p>Create and bestow blessings, enhance holy weapons, and gain Sword Saint effects.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="A" data-search="astral light, lord of creation &quot;your skills will have no effect against me&quot;">
+<article class="reference-card" data-letter="A" data-search="astral light, lord of creation create skills and materials, protect stored abilities, and imprint a skill ego.">
 <a href="nightmares-astral-light/" aria-label="Open Astral Light, Lord of Creation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-astral_light.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/astral-light.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Astral Light, Lord of Creation</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Your Skills will have no effect against me&quot;</p>
+<p>Create skills and materials, protect stored abilities, and imprint a skill Ego.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -350,16 +350,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="F" data-search="faust, lord of investigation &quot;da steh ich nun, ich armer tor. und bin so klug als wie zuvor&quot;">
+<article class="reference-card" data-letter="F" data-search="faust, lord of investigation investigate entities, reveal hazards and treasure, and teach learned abilities.">
 <a href="nightmares-faust/" aria-label="Open Faust, Lord of Investigation">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-faust.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/faust.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Faust, Lord of Investigation</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Da steh ich nun, ich armer Tor. Und bin so klug als wie zuvor&quot;</p>
+<p>Investigate entities, reveal hazards and treasure, and teach learned abilities.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -455,16 +455,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hastur, lord of starwind &quot;woof. king in yellow not included&quot;">
+<article class="reference-card" data-letter="H" data-search="hastur, lord of starwind accelerate into black wind, shield allies, and unleash a lightning-laced storm.">
 <a href="nightmares-hastur/" aria-label="Open Hastur, Lord of Starwind">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-hastur.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/hastur.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hastur, Lord of Starwind</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Woof. King in Yellow not included&quot;</p>
+<p>Accelerate into black wind, shield allies, and unleash a lightning-laced storm.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -485,16 +485,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="lucifer, lord of pride this is the ultimate skill of pride. this is obtained when the user has mastered the unique skill pride and endures a hit a target with an ultimate skill.">
+<article class="reference-card" data-letter="L" data-search="lucifer, lord of pride copy individual ability modes and develop countermeasures through mastery.">
 <a href="nightmares-lucifer/" aria-label="Open Lucifer, Lord of Pride">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-lucifer.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/lucifer.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Lucifer, Lord of Pride</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>This is the Ultimate Skill of Pride. This is obtained when the user has Mastered the Unique Skill Pride and endures a hit a target with an Ultimate Skill.</p>
+<p>Copy individual ability modes and develop countermeasures through mastery.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -530,16 +530,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="michael, lord of justice (the castle guard can be bypassed by nova break.)">
+<article class="reference-card" data-letter="M" data-search="michael, lord of justice protect yourself with castle guard and command subordinates through dominion.">
 <a href="nightmares-michael/" aria-label="Open Michael, Lord of Justice">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-michael.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/michael.jpeg" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Michael, Lord of Justice</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>(The castle guard can be bypassed by Nova Break.)</p>
+<p>Protect yourself with Castle Guard and command subordinates through Dominion.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -695,16 +695,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="satanael, lord of wrath breaking point - while you have the rampage effect, the durability damage you cause from attacking armor will increase based off the rampage level.">
+<article class="reference-card" data-letter="S" data-search="satanael, lord of wrath generate magicules, build rampage, and regulate a powerful energy reactor.">
 <a href="nightmares-satanael/" aria-label="Open Satanael, Lord of Wrath">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-satanael.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/satanael.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Satanael, Lord of Wrath</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>Breaking Point - While you have the Rampage Effect, the durability damage you cause from attacking armor will increase based off the Rampage Level.</p>
+<p>Generate Magicules, build Rampage, and regulate a powerful energy reactor.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -740,16 +740,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="susano&#x27;o, lord of tyranny &quot;oh cool you got infinite regeneration. how about i just ignore that&quot;">
+<article class="reference-card" data-letter="S" data-search="susano&#x27;o, lord of tyranny bypass defenses, force critical hits, and inflict lasting maximum-health damage.">
 <a href="nightmares-susanoo/" aria-label="Open Susano&#x27;o, Lord of Tyranny">
 <figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-susanoo.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<img src="../../../assets/upstream/nightmares/skills/susanoo.png" alt="" loading="lazy" decoding="async">
+<figcaption>Source media</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Susano&#x27;o, Lord of Tyranny</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;Oh cool you got Infinite Regeneration. how about I just Ignore that&quot;</p>
+<p>Bypass defenses, force critical hits, and inflict lasting maximum-health damage.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -875,16 +875,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="T" data-search="tsukiyomi, lord of moonshadow &quot;you merely adopted the dark. i was born in it, molded by it&quot;">
+<article class="reference-card" data-letter="T" data-search="tsukiyomi, lord of moonshadow move through shadows, evade attacks, and strike at spiritual health.">
 <a href="nightmares-tsukiyomi/" aria-label="Open Tsukiyomi, Lord of Moonshadow">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-tsukiyomi.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/tsukiyomi.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Tsukiyomi, Lord of Moonshadow</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>&quot;You merely adopted the Dark. i was born in it, molded by it&quot;</p>
+<p>Move through shadows, evade attacks, and strike at spiritual health.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>
@@ -980,16 +980,16 @@ hide:
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="Y" data-search="yog-sothoth, lord of space-time this also costs 250k mp to use">
+<article class="reference-card" data-letter="Y" data-search="yog-sothoth, lord of space-time combine spatial severance, imprisonment, skill theft, and time manipulation.">
 <a href="nightmares-yog-sothoth/" aria-label="Open Yog-Sothoth, Lord of Space-Time">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../../assets/icons/skills/trnightmare-yog_sothoth.svg" alt="" loading="lazy" decoding="async">
-<figcaption>TSR skill emblem</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../../assets/illustrations/skills/yog-sothoth.png" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Yog-Sothoth, Lord of Space-Time</h2>
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
-<p>This Also costs 250k MP to use</p>
+<p>Combine spatial severance, imprisonment, skill theft, and time manipulation.</p>
 
 <span class="reference-card-action">View ability <span aria-hidden="true">→</span></span>
 </div>

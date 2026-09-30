@@ -3166,9 +3166,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-asmodeus.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/asmodeus.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-infinity.md": {
       "id": "trnightmare:infinity",
@@ -3271,8 +3272,9 @@
         "installed_version_verified": false
       },
       "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-lucifer.svg"
+      "asset": "assets/upstream/nightmares/skills/lucifer.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/intrinsic/nightmares-lock.md": {
       "id": "trnightmare:lock",
@@ -3353,9 +3355,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-satanael.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/satanael.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-lemegeton.md": {
       "id": "trnightmare:lemegeton",
@@ -3646,9 +3649,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-amaterasu.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/amaterasu.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-tsukiyomi.md": {
       "id": "trnightmare:tsukiyomi",
@@ -3666,9 +3670,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-tsukiyomi.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/tsukiyomi.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-susanoo.md": {
       "id": "trnightmare:susanoo",
@@ -3686,9 +3691,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-susanoo.svg"
+      "source_partial": true,
+      "asset": "assets/upstream/nightmares/skills/susanoo.png",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-dominator.md": {
       "id": "trnightmare:dominator",
@@ -3727,9 +3733,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-astraea.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/astraea.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-faust.md": {
       "id": "trnightmare:faust",
@@ -3747,9 +3754,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-faust.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/faust.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-michael.md": {
       "id": "trnightmare:michael",
@@ -3768,8 +3776,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-michael.svg"
+      "asset": "assets/upstream/nightmares/skills/michael.jpeg",
+      "artwork_kind": "verified-source",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-time-traveler.md": {
       "id": "trnightmare:time_traveler",
@@ -3808,9 +3817,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-hastur.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/hastur.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-astral-light.md": {
       "id": "trnightmare:astral_light",
@@ -3828,9 +3838,10 @@
         "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
         "installed_version_verified": false
       },
-      "source_partial": false,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-astral_light.svg"
+      "source_partial": true,
+      "asset": "assets/illustrations/skills/astral-light.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-yog-sothoth.md": {
       "id": "trnightmare:yog_sothoth",
@@ -3849,8 +3860,9 @@
         "installed_version_verified": false
       },
       "source_partial": true,
-      "obtainment_documented": true,
-      "asset": "assets/icons/skills/trnightmare-yog_sothoth.svg"
+      "asset": "assets/illustrations/skills/yog-sothoth.png",
+      "artwork_kind": "original-illustration",
+      "obtainment_documented": true
     },
     "tensura-reference/skills/ultimate/nightmares-gabriel.md": {
       "id": "trnightmare:gabriel",

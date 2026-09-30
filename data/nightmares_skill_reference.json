@@ -34,9 +34,9 @@
           "text": "Master Lust, obtain enough MP, obtain 25 subordinates and breed 100 entities"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Asmodeus is in truth, the ability to subdue and enslave life itself\"",
-      "description": "\"Asmodeus is in truth, the ability to subdue and enslave life itself\""
+      "source_partial": true,
+      "summary": "Dominate life force, heal allies, drain enemies, and revive fallen subordinates.",
+      "description": "Dominate life force, heal allies, drain enemies, and revive fallen subordinates."
     },
     {
       "page_id": 447,
@@ -164,8 +164,8 @@
         }
       ],
       "source_partial": false,
-      "summary": "This is the Ultimate Skill of Pride. This is obtained when the user has Mastered the Unique Skill Pride and endures a hit a target with an Ultimate Skill.",
-      "description": "This is the Ultimate Skill of Pride. This is obtained when the user has Mastered the Unique Skill Pride and endures a hit a target with an Ultimate Skill."
+      "summary": "Copy individual ability modes and develop countermeasures through mastery.",
+      "description": "Copy individual ability modes and develop countermeasures through mastery."
     },
     {
       "page_id": 720,
@@ -248,12 +248,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Wrath, obtain enough MP, Fall under 40% HP, Kill 500 mobs, deal 50k damage and take 25k damage and win 20 raids"
+          "text": "Master Wrath, obtain enough MP, fall below 40% HP, kill 500 mobs, and win 20 raids"
         }
       ],
-      "source_partial": false,
-      "summary": "Breaking Point - While you have the Rampage Effect, the durability damage you cause from attacking armor will increase based off the Rampage Level.",
-      "description": "Breaking Point - While you have the Rampage Effect, the durability damage you cause from attacking armor will increase based off the Rampage Level."
+      "source_partial": true,
+      "summary": "Generate Magicules, build Rampage, and regulate a powerful energy reactor.",
+      "description": "Generate Magicules, build Rampage, and regulate a powerful energy reactor."
     },
     {
       "page_id": 806,
@@ -531,12 +531,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Commander, obtain enough MP, obtain Flame Domination and Spatial Domination"
+          "text": "Master Commander, obtain enough MP, obtain Flame Domination and Spatial Domination, have 20 subordinates, and fall below 60% HP"
         }
       ],
-      "source_partial": false,
-      "summary": "\"I command thee KNEEL\"",
-      "description": "\"I command thee KNEEL\""
+      "source_partial": true,
+      "summary": "Command subordinates and amplify light, heat, flame, and spatial attacks.",
+      "description": "Command subordinates and amplify light, heat, flame, and spatial attacks."
     },
     {
       "page_id": 844,
@@ -556,12 +556,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Shadow Striker, have enough MP"
+          "text": "Master Shadow Striker, have enough MP, fall below 50% HP, and kill 500 mobs"
         }
       ],
-      "source_partial": false,
-      "summary": "\"You merely adopted the Dark. i was born in it, molded by it\"",
-      "description": "\"You merely adopted the Dark. i was born in it, molded by it\""
+      "source_partial": true,
+      "summary": "Move through shadows, evade attacks, and strike at spiritual health.",
+      "description": "Move through shadows, evade attacks, and strike at spiritual health."
     },
     {
       "page_id": 845,
@@ -581,12 +581,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Cook, have enough MP"
+          "text": "Master Cook, have enough MP, kill 350 mobs, and master 45 skills"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Oh cool you got Infinite Regeneration. how about I just Ignore that\"",
-      "description": "\"Oh cool you got Infinite Regeneration. how about I just Ignore that\""
+      "source_partial": true,
+      "summary": "Bypass defenses, force critical hits, and inflict lasting maximum-health damage.",
+      "description": "Bypass defenses, force critical hits, and inflict lasting maximum-health damage."
     },
     {
       "page_id": 846,
@@ -628,9 +628,9 @@
           "text": "Master Gift, have enough MP, complete 50 raids, have 50 subordinates, have 50 skills mastered, and kill 500 Mobs"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Insert Rheinhardt quote here\"",
-      "description": "\"Insert Rheinhardt quote here\""
+      "source_partial": true,
+      "summary": "Create and bestow blessings, enhance holy weapons, and gain Sword Saint effects.",
+      "description": "Create and bestow blessings, enhance holy weapons, and gain Sword Saint effects."
     },
     {
       "page_id": 848,
@@ -653,9 +653,9 @@
           "text": "Master Investigator, have enough MP and investigate atleast 10 entities fully"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Da steh ich nun, ich armer Tor. Und bin so klug als wie zuvor\"",
-      "description": "\"Da steh ich nun, ich armer Tor. Und bin so klug als wie zuvor\""
+      "source_partial": true,
+      "summary": "Investigate entities, reveal hazards and treasure, and teach learned abilities.",
+      "description": "Investigate entities, reveal hazards and treasure, and teach learned abilities."
     },
     {
       "page_id": 849,
@@ -689,8 +689,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "(The castle guard can be bypassed by Nova Break.)",
-      "description": "(The castle guard can be bypassed by Nova Break.)"
+      "summary": "Protect yourself with Castle Guard and command subordinates through Dominion.",
+      "description": "Protect yourself with Castle Guard and command subordinates through Dominion."
     },
     {
       "page_id": 850,
@@ -729,12 +729,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Cannot be obtained if already in possesion of an ultimate skill. It requires Thought Acceleration, Universal Perception, Demon Lord's Haki, Weather Domination, Sound Domination, Wind Domination, Spatial Domination, Voice Canon and Multilayer Barrier to be mastered."
+          "text": "Cannot be obtained while already possessing an Ultimate Skill. Master Thought Acceleration, Universal Perception, Demon Lord's Haki, Weather Domination, Sound Domination, Wind Domination, Spatial Domination, Voice Canon, and Multilayer Barrier. Have 35 mastered skills and 30 named subordinates."
         }
       ],
-      "source_partial": false,
-      "summary": "\"Woof. King in Yellow not included\"",
-      "description": "\"Woof. King in Yellow not included\""
+      "source_partial": true,
+      "summary": "Accelerate into black wind, shield allies, and unleash a lightning-laced storm.",
+      "description": "Accelerate into black wind, shield allies, and unleash a lightning-laced storm."
     },
     {
       "page_id": 852,
@@ -754,12 +754,12 @@
         {
           "label": "Other",
           "section": "Obtaining",
-          "text": "Master Creator, BE HUMAN, have enough MP, create Anti- Skill 10 times"
+          "text": "Master Creator, be Human or have the Esper trait, have enough MP, create Anti-Skill 10 times, and master Law Manipulation"
         }
       ],
-      "source_partial": false,
-      "summary": "\"Your Skills will have no effect against me\"",
-      "description": "\"Your Skills will have no effect against me\""
+      "source_partial": true,
+      "summary": "Create skills and materials, protect stored abilities, and imprint a skill Ego.",
+      "description": "Create skills and materials, protect stored abilities, and imprint a skill Ego."
     },
     {
       "page_id": 853,
@@ -793,8 +793,8 @@
         }
       ],
       "source_partial": true,
-      "summary": "This Also costs 250k MP to use",
-      "description": "This Also costs 250k MP to use"
+      "summary": "Combine spatial severance, imprisonment, skill theft, and time manipulation.",
+      "description": "Combine spatial severance, imprisonment, skill theft, and time manipulation."
     },
     {
       "page_id": 854,

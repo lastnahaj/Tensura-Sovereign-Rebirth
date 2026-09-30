@@ -1,6 +1,6 @@
 ---
 title: Yog-Sothoth, Lord of Space-Time
-description: This Also costs 250k MP to use
+description: Combine spatial severance, imprisonment, skill theft, and time manipulation.
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-yog_sothoth.svg" alt="Yog-Sothoth, Lord of Space-Time emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/illustrations/skills/yog-sothoth.png" alt="Yog-Sothoth, Lord of Space-Time illustration" width="96" height="96"><figcaption>TSR skill artwork</figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>This Also costs 250k MP to use</p>
+<p>Combine spatial severance, imprisonment, skill theft, and time manipulation.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -79,4 +79,6 @@ Use Time Travelers passive 25 times</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Yog-Sothoth](https://tensuranightmares.wiki.gg/wiki/Yog-Sothoth) on the Tensura Reincarnated Nightmares Wiki (revision `2543`, modified `2026-07-26T17:48:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Original TSR skill artwork; an illustrated interpretation, not an in-game icon.
+<!-- skill-artwork-credit:end -->

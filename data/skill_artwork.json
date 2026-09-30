@@ -1,6 +1,192 @@
 {
   "schema": 1,
   "entries": {
+    "trnightmare:asmodeus": {
+      "asset": "assets/upstream/nightmares/skills/asmodeus.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Asmodeus"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Asmodeus.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Asmodeus.jpeg?c90035&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T19:55Z",
+        "sha256": "cc786f060814522149026154cc4d6c8da049b1baeb904a72c486635f8835ade8",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:lucifer": {
+      "asset": "assets/upstream/nightmares/skills/lucifer.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Lucifer"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Lucifer.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Lucifer.jpeg?b72f21&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "UnluckyWarl0ck",
+        "uploaded": "2025-05-31T20:11Z",
+        "sha256": "75d50f1d95e0a81d8dfedc58bf4dc900b2cbedc646fb3111787d38f8369b2d78",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:satanael": {
+      "asset": "assets/upstream/nightmares/skills/satanael.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Satanael"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Satanael.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Satanael.png?fb7a28&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Maske",
+        "uploaded": "2026-05-28T15:33Z",
+        "sha256": "c12d993c63c9ab7c05e48c4c32cbb6a33bbb72979f9455446d93ab496c1fce2b",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:amaterasu": {
+      "asset": "assets/upstream/nightmares/skills/amaterasu.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Amaterasu"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Amaterasu.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Amaterasu.png?4a3f34&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "license_evidence": "Explicit file licensing section specifies CC BY-SA 3.0.",
+        "uploader": "Maske",
+        "uploaded": "2026-05-27T22:39Z",
+        "sha256": "10ac78b6be65e1c0639b6c868367bd371023ebc1a1eef0be25eb1cba8377a23f",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:susanoo": {
+      "asset": "assets/upstream/nightmares/skills/susanoo.png",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Susano%27o"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Susanoo.png",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Susanoo.png?34d357&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "Maske",
+        "uploaded": "2026-05-27T22:44Z",
+        "sha256": "3f24032a8c39491f3e9e94572e6ca1081f692475140de32ec4b8b33427429a9d",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:michael": {
+      "asset": "assets/upstream/nightmares/skills/michael.jpeg",
+      "kind": "verified-source",
+      "credit": "Tensura Reincarnated Nightmares Wiki",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Michael"
+      },
+      "media": {
+        "source_file_page": "https://tensuranightmares.wiki.gg/wiki/File:Michael.jpeg",
+        "source_url": "https://tensuranightmares.wiki.gg/images/Michael.jpeg?2da575&format=original",
+        "source_title": "Tensura Reincarnated Nightmares Wiki",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "license_evidence": "File page states CC BY-SA 4.0 unless otherwise noted; no restrictive exception was displayed.",
+        "uploader": "ItsRyanFr",
+        "uploaded": "2025-07-08T18:01Z",
+        "sha256": "3d06a6a53d020beb433cbd9f95944cf09a2bb837ca4e82040fc15c35f10d6b06",
+        "modifications": "Unmodified wiki-hosted image."
+      }
+    },
+    "trnightmare:tsukiyomi": {
+      "asset": "assets/illustrations/skills/tsukiyomi.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Tsukiyomi",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:astraea": {
+      "asset": "assets/illustrations/skills/astraea.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Astraea",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:faust": {
+      "asset": "assets/illustrations/skills/faust.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Faust",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:hastur": {
+      "asset": "assets/illustrations/skills/hastur.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Hastur",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:astral_light": {
+      "asset": "assets/illustrations/skills/astral-light.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Astral_Light",
+        "result": "The live article contains a File:Soon placeholder and no skill image."
+      }
+    },
+    "trnightmare:yog_sothoth": {
+      "asset": "assets/illustrations/skills/yog-sothoth.png",
+      "kind": "original-illustration",
+      "credit": "TSR skill artwork",
+      "source_review": {
+        "date": "2026-09-29",
+        "article": "https://tensuranightmares.wiki.gg/wiki/Yog-Sothoth",
+        "result": "The live article displays File:Yog.jpeg without a rendered skill image."
+      }
+    },
     "trnightmare:samael": {
       "asset": "assets/illustrations/skills/samael.png",
       "kind": "original-illustration",

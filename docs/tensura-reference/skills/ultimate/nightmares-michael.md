@@ -1,6 +1,6 @@
 ---
 title: Michael, Lord of Justice
-description: (The castle guard can be bypassed by Nova Break.)
+description: Protect yourself with Castle Guard and command subordinates through Dominion.
 tags:
 - Ultimates
 ---
@@ -10,10 +10,10 @@ tags:
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Ultimate Skills</span>
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--theme"><img src="../../../../assets/icons/skills/trnightmare-michael.svg" alt="Michael, Lord of Justice emblem" width="96" height="96"><figcaption>TSR skill emblem</figcaption></figure>
+<figure class="reference-overview-media reference-overview-media--source"><img src="../../../../assets/upstream/nightmares/skills/michael.jpeg" alt="Michael, Lord of Justice source icon" loading="eager" decoding="async"><figcaption><a href="https://tensuranightmares.wiki.gg/wiki/File:Michael.jpeg">Tensura Reincarnated Nightmares Wiki · CC BY-SA 4.0</a></figcaption></figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>(The castle guard can be bypassed by Nova Break.)</p>
+<p>Protect yourself with Castle Guard and command subordinates through Dominion.</p>
 <nav class="reference-quick-jumps" aria-label="Article sections">
 <a href="#how-to-obtain">How to obtain</a>
 <a href="#Usage">Usage</a>
@@ -75,4 +75,6 @@ Kill 5000 Majin mobs</div></div></div></div>
 
 Tensura Nightmares reference adapted from [Michael.](https://tensuranightmares.wiki.gg/wiki/Michael.) on the Tensura Reincarnated Nightmares Wiki (revision `2948`, modified `2026-09-06T13:12:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Skill emblems are original TSR interface icons, not in-game artwork.
+<!-- skill-artwork-credit:start -->
+Icon: [Michael, Lord of Justice](https://tensuranightmares.wiki.gg/wiki/File:Michael.jpeg), Tensura Reincarnated Nightmares Wiki; uploaded by ItsRyanFr (2025-07-08T18:01Z). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Unmodified wiki-hosted image.
+<!-- skill-artwork-credit:end -->
