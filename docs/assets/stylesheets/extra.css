@@ -298,6 +298,23 @@
 .staff-capacity span { max-width: 6rem; color: var(--md-default-fg-color--light); font-size: .68rem; }
 .staff-tier-card details { margin: .7rem 1rem 1rem; font-size: .65rem; line-height: 1.6; }
 .staff-tier-card details p { margin: .55rem 0; }
+.caster-step { display: flex; flex-direction: column; }
+.caster-step h2 { min-height: 3.1em; margin: .2rem 1rem .6rem; }
+.caster-step > p:not(.reference-eyebrow) { flex: 1; }
+.caster-step > .reference-eyebrow { margin: 1rem 1rem .35rem !important; }
+.caster-step details { margin: .7rem 1rem 1rem; font-size: .72rem; line-height: 1.6; }
+.caster-step details p { margin: .65rem 0; }
+.caster-cost-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .85rem; margin: 1rem 0; }
+.caster-cost-grid > article { padding: 1.1rem; border: 1px solid rgba(51,214,255,.25); border-radius: .9rem; background: linear-gradient(145deg,rgba(17,85,164,.1),rgba(105,54,184,.08)); }
+.caster-cost-grid strong { display: block; color: var(--tsr-cyan); font-size: 2.6rem; line-height: 1.2; }
+.caster-cost-grid h3 { margin: .55rem 0; font-size: .9rem; font-weight: 700; }
+.caster-cost-grid article > p:last-child { font-size: .74rem; line-height: 1.6; }
+.caster-exclusions { display: flex; flex-wrap: wrap; gap: .55rem; list-style: none !important; margin: 1rem 0 !important; padding: 0 !important; }
+.caster-exclusions li { margin: 0 !important; }
+.caster-exclusions a { display: block; padding: .45rem .75rem; border: 1px solid rgba(51,214,255,.25); border-radius: .6rem; font-size: .74rem; }
+.caster-exclusions a:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 3px; }
+[data-md-color-scheme="default"] .caster-cost-grid strong { color: #075b83; }
+[data-md-color-scheme="default"] .caster-cost-grid .reference-eyebrow { color: #075b83; }
 [data-md-color-scheme="default"] .staff-capacity strong { color: #075b83; }
 .potion-guide .potion-recipe-list { list-style: none; margin: .8rem 1rem 1rem; padding: 0; }
 .potion-guide .potion-recipe-list li { display: grid; gap: .25rem; margin: 0 0 .8rem; font-size: .7rem; line-height: 1.5; }
@@ -306,6 +323,7 @@
 .potion-selected[hidden] { display: none; }
 .potion-guide-footnote { font-size: .7rem; opacity: .8; }
 @media (max-width: 760px) {
+  .caster-cost-grid { grid-template-columns: minmax(0, 1fr); }
   .potion-guide-grid { grid-template-columns: minmax(0, 1fr); }
   .potion-guide-card img { max-height: 18rem; }
   .potion-planner-controls { grid-template-columns: minmax(0, 1fr); }

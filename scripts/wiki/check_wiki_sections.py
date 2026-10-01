@@ -154,6 +154,15 @@ for material in ('low_magisteel', 'high_magisteel', 'pure_magisteel'):
     assert all(text in article for text in ('inventory_changed', 'advancement reward', 'use', '16')), 'Material schematic reward or learning guidance missing'
     assert f'data/tensura/advancement/{material}.json' in entry['evidence_paths'] and f'data/tensura/loot_table/advancement_reward/{material}.json' in entry['evidence_paths'], 'Advancement reward evidence missing'
 assert 'matching ingot inventory advancements' in staff_guide.get_text(), 'Material schematic route missing from staff guide'
+magic_evidence = json.loads((ROOT / 'data/magic_reference.json').read_text(encoding='utf-8'))
+caster = magic_evidence['caster_tools']
+magic_config = tomllib.loads((ROOT / caster['configuration']).read_text(encoding='utf-8'))
+assert magic_config['unlearntCostMultiplier'] == caster['unlearned_cost_multiplier'] and magic_config['unlearntCastMultiplier'] == caster['unlearned_chant_multiplier'], 'Casting modifiers disagree with the checked-in configuration'
+caster_guide = BeautifulSoup((site / 'tensura-reference/tools/caster-tools-tutorial/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(caster_guide.select('.caster-step details summary')) == 3 and len(caster_guide.select('.caster-cost-grid > article')) == 2, 'Casting walkthrough lost its step controls or cost comparison'
+assert len(caster_guide.select('.caster-exclusions li')) == 7, 'Unlearned casting exclusion list is incomplete'
+assert all(text in caster_guide.get_text() for text in ('Possession', 'Next Ability Mode', 'Previous Ability Mode', 'EP_DURABILITY', 'Reset-scroll')), 'Casting exclusions, controls, or scope missing'
+assert 'will remain even after' not in caster_guide.get_text(), 'Unverified reset retention claim remains'
 insanity = (ROOT / 'docs/tensura-reference/core-mechanics/effects-insanity.md').read_text(encoding='utf-8')
 assert 'Work In Progress' not in insanity and 'href="#Causes"' not in insanity, 'Editorial banner or nonexistent cause link remains'
 nightmares_item_art = {

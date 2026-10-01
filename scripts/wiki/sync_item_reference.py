@@ -86,6 +86,9 @@ def generate():
     output['tensura-reference/items/magic-crystals.md'] = generate_crystal_guide(data)
     from staff_guide import generate as generate_staff_guide
     output['tensura-reference/items/magic-staves.md'] = generate_staff_guide(data)
+    from caster_guide import generate as generate_caster_guide
+    magic_data = json.loads((ROOT / 'data/magic_reference.json').read_text(encoding='utf-8'))
+    output['tensura-reference/tools/caster-tools-tutorial.md'] = generate_caster_guide(magic_data)
     return output
 
 

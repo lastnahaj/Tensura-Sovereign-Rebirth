@@ -1,97 +1,93 @@
 ---
 title: Caster Tools Tutorial
-description: Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool. Caster tools can have spells applied to them through the use of the Spellbinding Table. These magics can then be used from the tool, even if the user does not have that magic unlocked(with some exceptions...
-tags:
+description: Bind compatible spells, select a stored spell, and understand casting costs and learning exclusions for Minecraft 1.21.1.
 ---
 
-# Caster Tools Tutorial
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Casting equipment</span>
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Tools</span>
+<section data-reference-section="items" class="reference-overview reference-theme-abilities staff-guide-hero">
+<figure class="reference-overview-media"><img src="../../../assets/images/items/low-magic-staff.webp" alt="Original wooden casting staff illustration with a cyan crystal" loading="eager" decoding="async"><figcaption>TSR illustration · casting staff example</figcaption></figure>
+<div class="reference-overview-copy"><p class="reference-eyebrow">Casting field guide · Minecraft 1.21.1</p><h1>Bind. Select. Cast.</h1><p>Turn a compatible casting tool into a spell loadout. Keep stored spells separate from character learning, and budget for the extra cost of casting magic you have not learned.</p>
+<nav class="reference-quick-jumps" aria-label="Casting guide"><a href="#prepare-your-loadout">Prepare a loadout</a><a href="#budget-for-unlearned-casting">Casting costs</a><a href="#learning-required">Learning required</a></nav></div></section>
 
-<section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/items/low-magic-staff.webp" alt="Original casting staff illustration" loading="eager" decoding="async">
-<figcaption>TSR illustration · casting staff example</figcaption>
-</figure>
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#What_are_Caster_Tools.3F">What are Caster Tools?</a>
-<a href="#How_do_Caster_Tools_work.3F">How do Caster Tools work?</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
+<span id="Caster_Tools"></span><span id="What_are_Caster_Tools.3F"></span><span id="What_are_Caster_Tools?"></span>
+
+## Prepare your loadout
+
+<div class="tensura-reference-article"><section class="potion-guide caster-guide"><div class="potion-guide-grid">
+<article class="potion-guide-card caster-step"><p class="reference-eyebrow">01 · Bind</p><h2>Build the loadout</h2><p>Place a compatible item in the <a href="../../resistances/spellbinding-table/">Spellbinding Table</a> and choose an eligible spell from its list.</p><details><summary>Check binding requirements</summary><p>The spell must be magic, outside the unbindable tag, and have nonnegative mastery. The tool needs a free spell slot; slot and equip hooks can reject it.</p><p>Ordinary staff binding does not require full mastery. Copying a spell into an Unbound Tome is a separate branch with mastery and copy-exclusion checks.</p></details></article>
+<article class="potion-guide-card caster-step"><p class="reference-eyebrow">02 · Select</p><h2>Choose the spell</h2><p>Hold the casting tool in your main hand. Hold <strong>Next Ability Mode</strong> or <strong>Previous Ability Mode</strong> while scrolling to change the stored spell.</p><details><summary>Spell versus mode</summary><p>Holding Next Ability Mode while using the tool requests a mode change for the current spell. It does not select another stored spell. A spell without extra modes cannot gain one this way.</p><p>Check Minecraft Controls for your assigned keys; these control names do not assume a default keyboard layout.</p></details></article>
+<article class="potion-guide-card caster-step"><p class="reference-eyebrow">03 · Cast</p><h2>Use the selected spell</h2><p>Use the tool without the mode modifier. An empty stored spell list fails the staff use check. Watch the selected spell, resource messages, and cooldown.</p><details><summary>Stored is not learned</summary><p>A tool can supply an eligible unlearned spell instance without teaching the spell to your character. Excluded spells still require learning; possession of a tool is not a bypass.</p><p>Spell-specific conditions, modes, and add-on restrictions can still prevent casting.</p></details></article>
+</div></section></div>
+
+For base slots, crafting materials, and learned-schematic requirements, use the [staff comparison guide](../items/magic-staves.md). Low / Medium / High staffs start at **3 / 4 / 5 slots**, plus the Magic Capacity enchantment level.
+
+<span id="How_do_Caster_Tools_work.3F"></span><span id="How_do_Caster_Tools_work?"></span>
+
+## Budget for unlearned casting
+
+<section class="caster-cost-grid" aria-label="Unlearned casting modifiers">
+<article><p class="reference-eyebrow">Resource inputs</p><strong>×5</strong><h3>Aura and Magicules</h3><p>The shared resource check multiplies both cost inputs before later adjustments. This is not a universal final-cost quote.</p></article>
+<article><p class="reference-eyebrow">Normal chant input</p><strong>×2</strong><h3>Before Chant Speed</h3><p>The normal path applies the multiplier before Chant Speed. An allowed instant-cast path returns one tick first.</p></article>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><h1><span class="mw-headline" id="Caster_Tools">Caster Tools</span></h1>
-<h2><span id="What_are_Caster_Tools.3F"></span><span class="mw-headline" id="What_are_Caster_Tools?">What are Caster Tools?</span></h2>
-<p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.
-</p>
-<p>For checked staff capacities, ingredients, schematic obtainment, and learning behavior, see the <a href="../../items/magic-staves/">casting-staff guide</a>. The following adapted explanation preserves the upstream reference; spell-specific cost multipliers and reset retention have not been verified for the live server.</p>
-<h2><span id="How_do_Caster_Tools_work.3F"></span><span class="mw-headline" id="How_do_Caster_Tools_work?">How do Caster Tools work?</span></h2>
-<p>Caster tools store spells through the <a href="../../resistances/spellbinding-table/" title="Spellbinding Table">Spellbinding Table</a>. Eligible stored spells can be used without learning the spell, but the exclusions below still apply. Storing a spell does not teach it to your character. Reset-scroll and prestige retention have not been verified.</p>
-<p>In the checked configuration, an unlearned cast multiplies both Aura and Magicule cost inputs by 5.0 and the normal chant input by 2.0 before further modifiers. These are not guarantees of final resource cost or elapsed cast time; attributes, spell behavior, and the instant-cast path can change the result.
-</p>
-<h3><span class="mw-headline" id="Magics_that_require_learning_to_use">Magics that require learning to use</span></h3>
-<ul><li>All <a href="../../magic/abilities-magics/" title="Abilities/Magics"> Spiritual Magics</a></li>
-<li><a href="../../magic/summon-medium-elemental/" title="Summon Medium Elemental"> Summon Medium Elemental</a></li>
-<li><a href="../../magic/summon-greater-elemental/" title="Summon Greater Elemental"> Summon Greater Elemental</a></li>
-<li><a href="../../magic/summon-otherworlder/" title="Summon Otherworlder"> Summon Otherworlder</a></li>
-<li><a href="../../magic/spatial-storage/" title="Spatial Storage"> Spatial Storage</a></li>
-<li><a href="../../magic/aspectual-possession/" title="Possession">Possession</a></li>
-<li><a href="../../core-mechanics/reincarnation/" title="Reincarnation"> Reincarnation</a></li></ul>
+Magicule cost also uses the character’s Magic Cost Multiplier attribute. On the normal chant path, a nonzero Chant Speed divides the adjusted input; integer conversion and a one-tick minimum apply. Staff cooldown and chant duration are different values. These implementation inputs do not guarantee elapsed server time.
 
+??? info "What stored gear EP can pay for"
 
+    A qualifying casting weapon in use, with nonnegative spell mastery and an `EP_DURABILITY` component, can contribute stored EP toward the **Magicule** cost. That pool is separate from the item’s ordinary durability bar and does not replace the **Aura** check. Do not assume unlimited fuel or a refund on every failed cast; live fuel behavior is untested.
 
-</div>
-</div>
+<span id="Magics_that_require_learning_to_use"></span>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Tools</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../adamantite-shovel/">
-<img src="../../../assets/upstream/tensura/items/invicon-adamantite-shovel-3173ebb180.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Adamantite Shovel</strong>
-<small>Obtainable through killing mobs while having Pure Magisteel Shovel in your offhand or equipped</small>
-</span>
-</a>
-<a class="reference-related-card" href="../high-magisteel-axe/">
-<img src="../../../assets/upstream/tensura/items/invicon-high-magisteel-axe-5d326d07af.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>High Magisteel Axe</strong>
-<small>Obtainable through killing mobs while having Low Magisteel Axe in your offhand or equipped</small>
-</span>
-</a>
-<a class="reference-related-card" href="../adamantite-pickaxe/">
-<img src="../../../assets/upstream/tensura/items/invicon-adamantite-pickaxe-30d9b4339b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Adamantite Pickaxe</strong>
-<small>Obtainable through killing mobs while having Pure Magisteel Pickaxe in your offhand or equipped</small>
-</span>
-</a>
-<a class="reference-related-card" href="../high-magisteel-hoe/">
-<img src="../../../assets/upstream/tensura/items/invicon-high-magisteel-hoe-f88f8f2d38.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>High Magisteel Hoe</strong>
-<small>Obtainable through killing mobs while having Low Magisteel Hoe in your offhand or equipped</small>
-</span>
-</a>
-</div>
-</section>
+## Learning required
 
----
+The selected artifact’s unlearned-cast exclusion tag contains the following entries. This is a restriction on casting **without learning**, not a list of every spell that can or cannot be bound.
+
+<ul class="caster-exclusions">
+<li><a href="../../magic/">All Spiritual magic</a></li>
+<li><a href="../../magic/summon-medium-elemental/">Summon Medium Elemental</a></li>
+<li><a href="../../magic/summon-greater-elemental/">Summon Greater Elemental</a></li>
+<li><a href="../../magic/summon-otherworlder/">Summon Otherworlder</a></li>
+<li><a href="../../magic/spatial-storage/">Spatial Storage</a></li>
+<li><a href="../../magic/aspectual-possession/">Possession</a></li>
+<li><a href="../../core-mechanics/reincarnation/">Reincarnation</a></li>
+</ul>
+
+## Troubleshoot a cast
+
+??? question "The spell will not bind"
+    Check the table’s eligible list, available capacity, nonnegative mastery, and spell-specific slot/equip conditions. A listing in the wiki is not proof of binding compatibility.
+
+??? question "The tool will not cast"
+    Check that it contains a spell, the selected spell is correct, and no mode modifier is held. If the spell is unlearned, check the exclusions above. Resource, cooldown, and spell-specific checks still apply.
+
+??? question "Changing modes does not change spells"
+    Use the modifier **with scrolling** to select another stored spell. Modifier **with item use** requests a mode change within the current spell.
+
+??? question "Will the loadout survive a reset or prestige?"
+    Reset-scroll and SlimeThrone Extras prestige retention have not been verified. Do not rely on a guaranteed stored-spell or learned-spell retention rule here.
+
+!!! note "Verification scope"
+    Artifact and checked-in configuration checks, not live casting tests. Client key assignments, spell-specific behavior, add-on tag changes, reset-scroll and prestige retention, and failed-cast resource refunds remain unverified.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Caster Tools Tutorial](https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial) on the Tensura: Reincarnated Wiki (revision `12819`, modified `2026-05-07T07:49:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Adapted from [Caster Tools Tutorial](https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial) on the Tensura: Reincarnated Wiki, recorded revision `12819`; the live article was reviewed on 2026-09-30. Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original staff illustration is not an in-game appearance guarantee.
 
-Casting costs and exclusions were checked against the [selected Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599), `SimpleSpellCastItem.getMagicInstance`, `Magic.getCastingTime`, `Magic.isOutOfEnergy`, `data/tensura/tags/manascore_skill/skills/unlearnt_cast_excluded.json`, and TSR's [magic configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura/ability/magic_config.toml). These are artifact and configuration checks, not live-server gameplay tests.
+Implementation: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [casting evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/magic_reference.json) · [TSR magic configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura/ability/magic_config.toml). The checked artifact SHA-256 is `9291f48d94073903cea9155dc99e042af5477e2c144e3fae1938299b2029da3e`.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/menu/SpellbindingMenu.class`
+    - `io/github/manasmods/tensura/network/c2s/RequestSpellbindingPacket.class`
+    - `io/github/manasmods/tensura/network/c2s/RequestSpellChangePacket.class`
+    - `io/github/manasmods/tensura/item/weapon/spell/SimpleSpellCastItem.class`
+    - `io/github/manasmods/tensura/handler/client/PlayerInputHandler.class`
+    - `io/github/manasmods/tensura/handler/GearHandler.class`
+    - `io/github/manasmods/tensura/ability/magic/Magic.class`
+    - `io/github/manasmods/tensura/ability/magic/MagicUtils.class`
+    - `data/tensura/tags/manascore_skill/skills/unlearnt_cast_excluded.json`
+    - `data/tensura/tags/item/spell_bindable.json`
+    - `pack/config/tensura/ability/magic_config.toml`
+
+[Compare casting staves](../items/magic-staves.md) · [Learn magic](../../magic-learning.md) · [Browse Tools](index.md)

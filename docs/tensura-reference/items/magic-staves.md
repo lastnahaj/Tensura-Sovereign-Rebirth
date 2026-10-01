@@ -45,7 +45,7 @@ The [Low](items-schematics-low-magisteel-gear-schematic.md), [High](items-schema
 
 ## Prepare the staff
 
-Use the [Spellbinding Table](../resistances/spellbinding-table.md) to bind compatible spells. An empty stored spell list causes the staff’s use method to fail. The [Low Staff reference](../magic/low-magic-staff.md) gives the starter recipe and implementation evidence.
+Use the [Spellbinding Table](../resistances/spellbinding-table.md) to bind compatible spells. An empty stored spell list causes the staff’s use method to fail. Follow the [casting walkthrough](../tools/caster-tools-tutorial.md) for selection controls, learning exclusions, and resource modifiers. The [Low Staff reference](../magic/low-magic-staff.md) gives the starter recipe and implementation evidence.
 
 ## Read capacity correctly
 

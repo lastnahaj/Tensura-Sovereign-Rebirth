@@ -42,5 +42,39 @@
       "scope": "The upstream mob article describes naming a snake-tailed variant. The artifact confirms a post-tame learning attempt, not a live-server naming test or unconditional grant."
     }
   },
+  "caster_tools": {
+    "source_url": "https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial",
+    "configuration": "pack/config/tensura/ability/magic_config.toml",
+    "binding": "The menu lists learned MAGIC-tagged instances with nonnegative mastery outside UNBINDABLE_MAGIC, plus eligible spells already stored in the item. The packet requires a SPELL_BINDABLE item, an eligible menu entry, room within getMagicSlots, and successful slot/equip hooks. Binding stores a spell ID; it does not learn the spell for the player.",
+    "binding_mastery": "Ordinary staff binding checks nonnegative mastery, not full mastery. The separate Unbound Tome copying branch requires isMastered and excludes TOME_COPY_EXCLUDED.",
+    "selection": "Hold Next Ability Mode or Previous Ability Mode while scrolling with a casting weapon in the main hand. The client sends a spell-change request; Next reverses the scroll delta and Previous preserves it. Hold Next Ability Mode while using a casting weapon to request a mode change for the current spell, rather than selecting another spell.",
+    "unlearned_cost_multiplier": 5.0,
+    "unlearned_chant_multiplier": 2.0,
+    "cost_scope": "Magic.isOutOfEnergy multiplies both positive Aura and Magicule cost inputs for removeTime -3 instances. Magicule cost then uses MAGIC_COST_MULTIPLIER. A qualifying used casting weapon's EP_DURABILITY pool can supply the Magicule portion; it does not replace the separate Aura check or the ordinary durability bar. Failed-cast refunds are not guaranteed by this check.",
+    "chant_scope": "The normal getCastingTime path multiplies the unlearned chant input before MagicUtils.getChantTime divides it by a nonzero CHANT_SPEED value, truncates to an integer, and clamps to at least one tick. An allowed instant-cast path returns one tick before this multiplication. Final elapsed gameplay time is not verified.",
+    "unlearned_exclusions": [
+      {"id": "#tensura:spiritual_magic", "label": "All Spiritual magic", "page": "../magic/index.md"},
+      {"id": "tensura:summon_medium_elemental", "label": "Summon Medium Elemental", "page": "../magic/summon-medium-elemental.md"},
+      {"id": "tensura:summon_greater_elemental", "label": "Summon Greater Elemental", "page": "../magic/summon-greater-elemental.md"},
+      {"id": "tensura:summon_otherworlder", "label": "Summon Otherworlder", "page": "../magic/summon-otherworlder.md"},
+      {"id": "tensura:spatial_storage", "label": "Spatial Storage", "page": "../magic/spatial-storage.md"},
+      {"id": "tensura:possession_magic", "label": "Possession", "page": "../magic/aspectual-possession.md"},
+      {"id": "tensura:reincarnation", "label": "Reincarnation", "page": "../core-mechanics/reincarnation.md"}
+    ],
+    "evidence_paths": [
+      "io/github/manasmods/tensura/menu/SpellbindingMenu.class",
+      "io/github/manasmods/tensura/network/c2s/RequestSpellbindingPacket.class",
+      "io/github/manasmods/tensura/network/c2s/RequestSpellChangePacket.class",
+      "io/github/manasmods/tensura/item/weapon/spell/SimpleSpellCastItem.class",
+      "io/github/manasmods/tensura/handler/client/PlayerInputHandler.class",
+      "io/github/manasmods/tensura/handler/GearHandler.class",
+      "io/github/manasmods/tensura/ability/magic/Magic.class",
+      "io/github/manasmods/tensura/ability/magic/MagicUtils.class",
+      "data/tensura/tags/manascore_skill/skills/unlearnt_cast_excluded.json",
+      "data/tensura/tags/item/spell_bindable.json",
+      "pack/config/tensura/ability/magic_config.toml"
+    ],
+    "verification_limits": "Artifact and checked-in configuration checks, not live casting tests. Client key assignments, spell-specific behavior, add-on tag changes, reset-scroll and prestige retention, and failed-cast resource refunds remain unverified."
+  },
   "verification_limits": "Artifact behavior and registry matches are not live-server gameplay tests. Generic tome support does not verify spell-specific loot, trades, racial grants, or learning gates."
 }

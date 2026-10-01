@@ -153,6 +153,8 @@ The file-level register now records **105 withdrawals** across the reference lib
 
 The [reviewed evolution requirement register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/race_evolution_requirements.json) records individually checked progression gates. Metal Slime's ore-consumption requirement is tied to the selected artifact, item-use implementation, and race configuration; it is not a live-server or prestige-reset test.
 
+The [casting evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/magic_reference.json) ties the casting walkthrough to the selected artifact's binding menu, server requests, client controls, resource checks, and exclusion tag. The upstream Caster Tools Tutorial was reviewed on September 30; implementation-specific corrections and unresolved reset retention are distinguished from its adapted text.
+
 The machine-readable records are available in the public repository: [Tensura media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_tensura_media.json) and [Mysticism media provenance](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/upstream_mysticism_media.json). These records are the detailed source-of-truth behind the human-readable ledger.
 
 The [skill artwork register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/skill_artwork.json) records reviewed skill icons and original skill illustrations. Imported icons retain their wiki File page, uploader, upload timestamp, license evidence, and file checksum. Each affected skill article credits its image; original illustrations are labeled separately from in-game media.
