@@ -964,5 +964,62 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(Special_A).png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/items/hipokute-grass.md": {
+    "asset": "assets/images/items/hipokute-grass.webp",
+    "kind": "original",
+    "credit": "TSR botanical illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a200c996994a0039299460f839529cabe6d5195798d850fb4d9285d1c901c6bc",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Hipokute_Grass",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/hipokute-flower.md": {
+    "asset": "assets/images/items/hipokute-flower.webp",
+    "kind": "original",
+    "credit": "TSR botanical illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7b90120728b7e45c27bbd6740b5c63d8823773a35320edb8830ddc5214d529c6",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Hipokute_Flower",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/hipokute-seeds.md": {
+    "asset": "assets/images/items/hipokute-seeds.webp",
+    "kind": "original",
+    "credit": "TSR botanical illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "c7252044006f7e5903407c97e131916f0cb6ebbfc5c231a88b542808448ed3fe",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Hipokute_Seeds",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Seeds.png",
+      "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+    }
+  },
+  "tensura-reference/core-mechanics/mechanics-hipokute-farming.md": {
+    "asset": "assets/images/items/hipokute-flower.webp",
+    "summary": "Follow the 1.21.1 growth decisions, compare area Magicules, and choose the right harvest for your potion ingredients.",
+    "kind": "original",
+    "credit": "TSR botanical illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7b90120728b7e45c27bbd6740b5c63d8823773a35320edb8830ddc5214d529c6",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Mechanics/Hipokute_Farming",
+      "file_page": "https://tensura.wiki.gg/wiki/File:RenderHipokuteFlower.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

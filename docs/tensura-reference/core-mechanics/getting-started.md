@@ -216,10 +216,10 @@ TSR uses the base reincarnation and race opening as the start of a larger progre
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics-hipokute-farming/">
-<img src="../../../assets/upstream/tensura/items/hipokute-seeds-3b87e171fc.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/hipokute-seeds.webp" alt="Hipokute seeds illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hipokute Farming</strong>
-<small>Place down Hipokute Seeds</small>
+<small>Follow the 1.21.1 growth decisions, compare area Magicules, and harvest potion ingredients.</small>
 </span>
 </a>
 </div>

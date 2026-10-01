@@ -1847,6 +1847,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     if category == 'mobs':
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/bosses/index.md")}">Browse boss encounters →</a>')
     if category == 'items':
+        lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/core-mechanics/mechanics-hipokute-farming.md")}">Grow potion ingredients →</a>')
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/healing-potions.md")}">Build a healing kit →</a>')
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/grimoires.md")}">Compare grimoires →</a>')
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/magic-crystals.md")}">Compare Magic Crystals →</a>')

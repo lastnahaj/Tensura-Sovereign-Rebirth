@@ -7,6 +7,7 @@
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>202</strong> articles</span>
+<a class="reference-directory-overview-link" href="../core-mechanics/mechanics-hipokute-farming/">Grow potion ingredients →</a>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 <a class="reference-directory-overview-link" href="grimoires/">Compare grimoires →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
@@ -1347,46 +1348,49 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hipokute flower this item can be obtained by right clicking a hipokute grass or destroying it. this whether in the wild or whether by hipokute farming .">
+<article class="reference-card" data-letter="H" data-search="hipokute flower pick the flower branch for stronger brewing recipes, or inspect a level-three alchemist’s offer before selling a surplus.">
 <a href="hipokute-flower/" aria-label="Open Hipokute Flower">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-hipokute-flower-d2d832901a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/hipokute-flower.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Flower</h2>
 
-<p>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by hipokute farming .</p>
+<small class="skill-reference-status">Plant harvest and loot checked</small>
+<p>Pick the flower branch for stronger brewing recipes, or inspect a level-three Alchemist’s offer before selling a surplus.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hipokute grass this item can be obtained by destroying/harvesting hipokute grass sprouts in the world. this is whether it is found in the wild or by hipokute farming .">
+<article class="reference-card" data-letter="H" data-search="hipokute grass harvest the grass branch for brewing. waiting longer does not turn a finished grass plant into a flower.">
 <a href="hipokute-grass/" aria-label="Open Hipokute Grass">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-hipokute-grass-2a7d33f577.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/hipokute-grass.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Grass</h2>
 
-<p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming .</p>
+<small class="skill-reference-status">Plant harvest and loot checked</small>
+<p>Harvest the grass branch for brewing. Waiting longer does not turn a finished grass plant into a flower.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hipokute seeds this item can be obtained by destroying/harvesting hipokute grass sprouts in the world. this whether naturally generated in the wild or grown by hipokute farming…">
+<article class="reference-card" data-letter="H" data-search="hipokute seeds plant a renewable supply of potion ingredients. area magicules affect the first growth outcome; seeds are not guaranteed to remain hipokute.">
 <a href="hipokute-seeds/" aria-label="Open Hipokute Seeds">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-hipokute-seeds-b883efa2a7.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/hipokute-seeds.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Seeds</h2>
 
-<p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This whether naturally generated in the wild or grown by hipokute farming…</p>
+<small class="skill-reference-status">Plant harvest and loot checked</small>
+<p>Plant a renewable supply of potion ingredients. Area Magicules affect the first growth outcome; seeds are not guaranteed to remain Hipokute.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

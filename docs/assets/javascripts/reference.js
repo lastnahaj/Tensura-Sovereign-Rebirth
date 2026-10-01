@@ -446,6 +446,27 @@
     update();
   }
 
+  function setupHipokuteCalculator(calculator) {
+    if (calculator.dataset.hipokuteReady === "true") return;
+    const input = calculator.querySelector("[data-hipokute-magicules]");
+    const result = calculator.querySelector("[data-hipokute-result]");
+    if (!input || !result) return;
+    calculator.dataset.hipokuteReady = "true";
+    const update = () => {
+      const magicules = Number(input.value);
+      if (!Number.isFinite(magicules) || magicules < 0) {
+        result.textContent = "Choose a nonnegative current-area Magicule example.";
+        return;
+      }
+      const divisor = Math.max(1, 10 - Math.trunc(Math.trunc(magicules) / 500));
+      const sprout = 100 / divisor;
+      const percent = (value) => Number(value.toFixed(2)).toLocaleString("en-US") + "%";
+      result.textContent = `At ${magicules.toLocaleString("en-US")} current area Magicules: ${percent(sprout)} Hipokute sprout / ${percent(100 - sprout)} wheat at the first decision.`;
+    };
+    input.addEventListener("change", update);
+    update();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
@@ -453,6 +474,7 @@
     document.querySelectorAll("[data-config-reference]").forEach(setupConfigReference);
     document.querySelectorAll("[data-gamerule-reference]").forEach(setupGameruleReference);
     document.querySelectorAll("[data-potion-planner]").forEach(setupPotionPlanner);
+    document.querySelectorAll("[data-hipokute-calculator]").forEach(setupHipokuteCalculator);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

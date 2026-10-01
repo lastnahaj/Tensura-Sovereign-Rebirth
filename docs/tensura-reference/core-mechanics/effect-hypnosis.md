@@ -50,10 +50,10 @@ Negative</div></div></div></div>
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mechanics-hipokute-farming/">
-<img src="../../../assets/upstream/tensura/items/hipokute-seeds-3b87e171fc.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/hipokute-seeds.webp" alt="Hipokute seeds illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hipokute Farming</strong>
-<small>Place down Hipokute Seeds</small>
+<small>Follow the 1.21.1 growth decisions, compare area Magicules, and harvest potion ingredients.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../effects-infection/">
@@ -87,7 +87,7 @@ Negative</div></div></div></div>
 Base Tensura reference adapted from [Effect/Hypnosis](https://tensura.wiki.gg/wiki/Effect/Hypnosis) on the Tensura: Reincarnated Wiki (revision `13097`, modified `2026-06-15T10:07:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hyposis.png">Hyposis.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13099</li>
 </ul>

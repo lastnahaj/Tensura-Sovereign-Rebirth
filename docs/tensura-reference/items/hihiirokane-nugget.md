@@ -132,10 +132,10 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../hipokute-flower/">
-<img src="../../../assets/upstream/tensura/items/invicon-hipokute-flower-d2d832901a.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/hipokute-flower.webp" alt="Hipokute flower illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Hipokute Flower</strong>
-<small>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by…</small>
+<small>Pick a flowering age-3 plant with an empty hand, or break it for a flower and seed loot.</small>
 </span>
 </a>
 </div>

@@ -1,144 +1,72 @@
 ---
-title: Hipokute Grass
-description: This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming. This can be used to brew Low Potion and High Potion. This is a worse version of a Hipokute Flower
-tags:
-- Stackable_resources
+title: "Hipokute Grass"
+description: "Harvest the grass branch for brewing. Waiting longer does not turn a finished grass plant into a flower."
 ---
 
 # Hipokute Grass
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-hipokute-grass-2a7d33f577.png" alt="Hipokute Grass source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/hipokute-grass.webp" alt="Hipokute Grass illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by hipokute farming .</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Harvest the grass branch for brewing. Waiting longer does not turn a finished grass plant into a flower.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Hipokute Grass</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Hipokute_Grass.png"><img alt="Hipokute Grass.png: Infobox image for Hipokute Grass the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/hipokute-grass-dbd366cb53.png" width="160"/></a></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Grass"><a href="./" title="Hipokute Grass"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity tier</a>
-</th>
-<td class="list-style-none">
-<p>Common
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Plant harvest and loot checked"
+    Growth, harvest, and loot rules are checked against Tensura 2.0.1.2 for Minecraft 1.21.1. Live farm yields, server datapack overrides, and add-on interactions remain untested.
 
-<p><br/>
-</p>
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<p>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This is whether it is found in the wild or by <a href="../../core-mechanics/mechanics-hipokute-farming/" title="Mechanics/Hipokute Farming">hipokute farming</a>.
-</p>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<p>This can be used to brew <span class="nowrap"><span class="sprite-file"><a href="../low-potion/" title="Low Potion"></a></span> <a href="../low-potion/" title="Low Potion"><span class="sprite-text">Low Potion</span></a></span> and <span class="nowrap"><span class="sprite-file"><a href="../high-potion/" title="High Potion"></a></span> <a href="../high-potion/" title="High Potion"><span class="sprite-text">High Potion</span></a></span>. <br/>
-This is a worse version of a <span class="nowrap"><span class="sprite-file"><a href="../hipokute-flower/" title="Hipokute Flower"></a></span> <a href="../hipokute-flower/" title="Hipokute Flower"><span class="sprite-text">Hipokute Flower</span></a></span> <br/>
-</p>
-<table class="wikitable" data-description="Base potions">
-<tbody><tr>
-<th>Potion
-</th>
-<th>Reagent, base
-</th></tr>
-<tr>
-<th><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Low Potion"><a href="../low-potion/" title="Low Potion"></a></span></span><br/>Low Potion
-</th>
-<td><div><span class="mcui mcui-Brewing_Stand pixel-image"><span class="mcui-input"><span class="mcui-bubbling"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Grass"><a href="./" title="Hipokute Grass"></a></span></span><span class="mcui-arrow"><br/></span></span><span class="mcui-paths"><br/></span><span class="mcui-output"><span class="invslot mcui-output1"></span><span class="invslot mcui-output2"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Bottle of Water"><a href="../../magic/magic-bottle-of-water/" title="Magic Bottle of Water"></a></span></span><span class="invslot mcui-output3"></span></span></span></div>
-</td></tr>
-<tr>
-<th><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Potion"><a href="../high-potion/" title="High Potion"></a></span></span><br/>High potion
-</th>
-<td><div><span class="mcui mcui-Brewing_Stand pixel-image"><span class="mcui-input"><span class="mcui-bubbling"><br/></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Hipokute Grass"><a href="./" title="Hipokute Grass"></a></span></span><span class="mcui-arrow"><br/></span></span><span class="mcui-paths"><br/></span><span class="mcui-output"><span class="invslot mcui-output1"></span><span class="invslot mcui-output2"><span class="invslot-item invslot-item-image" data-minetip-title="Vacuumed Magic Bottle of Water"><a href="../../magic/vacuumed-magic-bottle-of-water/" title="Vacuumed Magic Bottle of Water"></a></span></span><span class="invslot mcui-output3"></span></span></span></div>
-</td></tr>
-</tbody></table>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
+<div class="druid-title">Hipokute Grass</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:hipokute_grass</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Plant harvest and loot checked</div></div>
+<div class="druid-row"><div class="druid-label">Rarity</div><div class="druid-data">Common</div></div>
+<div class="druid-row"><div class="druid-label">Stack limit</div><div class="druid-data">64</div></div>
+</aside></div></div>
 
+<span id="Obtainment"></span>
 
+## Availability
 
-</div>
-</div>
+Break the **age-2 grass branch** to collect one Hipokute Grass item and the separate seed loot entry. The checked crop does not randomly tick at age 2, so this branch will not become a flower by waiting. Natural generation includes Hipokute plants; a world-generation candidate is not a guaranteed find in a particular chunk.
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+<span id="Usage"></span>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../hipokute-flower/">
-<img src="../../../assets/upstream/tensura/items/invicon-hipokute-flower-d2d832901a.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hipokute Flower</strong>
-<small>This item can be obtained by right clicking a hipokute grass or destroying it. This whether in the wild or whether by…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hipokute-seeds/">
-<img src="../../../assets/upstream/tensura/items/invicon-hipokute-seeds-b883efa2a7.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hipokute Seeds</strong>
-<small>This item can be obtained by destroying/harvesting hipokute grass sprouts in the world. This whether naturally…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../items-schematics-hihiirokane-gear-schematic/">
-<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>HihiIrokane Gear Schematic</strong>
-<small>Obtained by picking up an HihiIrokane Ingot</small>
-</span>
-</a>
+## How to use
 
-</div>
-</section>
+At a brewing stand, combine grass with [Magic Bottle of Water](../magic/magic-bottle-of-water.md) for [Low Potion](low-potion.md), or [Vacuumed Magic Bottle of Water](../magic/vacuumed-magic-bottle-of-water.md) for [High Potion](high-potion.md). [Compare brewing recipes](healing-potions.md); refining recipes are a separate system.
 
----
+## Behavior and limits
+
+The grass item is not the planting item: use [Hipokute Seeds](hipokute-seeds.md) to replant. Breaking a finished grass plant removes it. Keep seed reserves and see the [farming guide](../core-mechanics/mechanics-hipokute-farming.md) for the two growth decisions and seed-return limits.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Hipokute Grass](https://tensura.wiki.gg/wiki/Hipokute_Grass) on the Tensura: Reincarnated Wiki (revision `13022`, modified `2026-06-05T16:25:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Hipokute Grass](https://tensura.wiki.gg/wiki/Hipokute_Grass) on the Tensura: Reincarnated Wiki, recorded revision `13022`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4445</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Hipokute_Grass.png">Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7072</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png">Invicon Low Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6609</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle_of_Water.png">Invicon Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4381</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png">Invicon Vacuumed Magic Bottle of Water.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4356</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/block/HipokuteGrass.class`
+    - `io/github/manasmods/tensura/registry/item/TensuraMaterialItems.class`
+    - `io/github/manasmods/tensura/item/misc/HipokuteFlowerItem.class`
+    - `io/github/manasmods/tensura/entity/merchant/profession/DwarfProfession.class`
+    - `io/github/manasmods/tensura/entity/merchant/trade/OneForOneTrade.class`
+    - `data/tensura/loot_table/blocks/hipokute_grass.json`
+    - `data/tensura/neoforge/biome_modifier/hipokute_grass.json`
+    - `data/tensura/worldgen/configured_feature/hipokute_grass.json`
+    - `data/tensura/worldgen/placed_feature/hipokute_grass.json`
+    - `data/minecraft/recipe/white_dye_from_hipokute_flower.json`
+    - `io/github/manasmods/tensura/recipe/SpecialRecipeRegister.class`

@@ -371,6 +371,33 @@
       "replacement_asset": "assets/images/items/high-quality-magic-crystal.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png",
+      "source_title": "Hipokute Flower.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-flower.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Hipokute_Grass.png",
+      "source_title": "Hipokute Grass.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-grass.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Hipokute_Seeds.png",
+      "source_title": "Hipokute Seeds.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-seeds.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_nullification.png",
       "source_title": "Holy attack nullification.png",
       "checked_on": "2026-09-30",
@@ -468,6 +495,33 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/high-quality-magic-crystal.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png",
+      "source_title": "Invicon Hipokute Flower.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-flower.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png",
+      "source_title": "Invicon Hipokute Grass.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-grass.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Seeds.png",
+      "source_title": "Invicon Hipokute Seeds.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/items/hipokute-seeds.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magic_Staff.png",
@@ -846,6 +900,33 @@
       "notice": "no-file-specific-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/illustrations/skills/reincarnation.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:RenderHipokuteFlower.png",
+      "source_title": "RenderHipokuteFlower.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-flower.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:RenderHipokuteSmallGrass.png",
+      "source_title": "RenderHipokuteSmallGrass.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-grass.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:RenderHipokuteStage2.png",
+      "source_title": "RenderHipokuteStage2.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/hipokute-grass.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Revival_Elixir.gif",

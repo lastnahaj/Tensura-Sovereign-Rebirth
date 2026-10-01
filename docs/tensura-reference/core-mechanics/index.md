@@ -488,16 +488,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="hipokute farming place down hipokute seeds">
+<article class="reference-card" data-letter="H" data-search="hipokute farming follow the 1.21.1 growth decisions, compare area magicules, and choose the right harvest for your potion ingredients.">
 <a href="mechanics-hipokute-farming/" aria-label="Open Hipokute Farming">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/hipokute-seeds-3b87e171fc.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/hipokute-flower.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Hipokute Farming</h2>
 
-<p>Place down Hipokute Seeds</p>
+<p>Follow the 1.21.1 growth decisions, compare area Magicules, and choose the right harvest for your potion ingredients.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

@@ -14,6 +14,8 @@ def manifest():
     data = json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))
     from grimoire_reference import entries
     data['pages'].extend(entries(data))
+    from hipokute_reference import entries as hipokute_entries
+    data['pages'].extend(hipokute_entries(data))
     return data
 
 
@@ -96,6 +98,8 @@ def generate():
     output['tensura-reference/items/magic-staves.md'] = generate_staff_guide(data)
     from grimoire_reference import generate as generate_grimoire_guide
     output['tensura-reference/items/grimoires.md'] = generate_grimoire_guide(data)
+    from hipokute_reference import generate as generate_hipokute_guide
+    output['tensura-reference/core-mechanics/mechanics-hipokute-farming.md'] = generate_hipokute_guide(data)
     from caster_guide import generate as generate_caster_guide
     magic_data = json.loads((ROOT / 'data/magic_reference.json').read_text(encoding='utf-8'))
     output['tensura-reference/tools/caster-tools-tutorial.md'] = generate_caster_guide(magic_data)

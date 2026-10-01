@@ -73,6 +73,20 @@ non_items = {'Items', 'Armours', 'Consumables', 'Gear', 'Learnable', 'Misc', 'Mo
 assert item_titles.isdisjoint(non_items), 'A collection page or debug entry is still rendered as an item card'
 from sync_item_reference import manifest as item_manifest, generate as generate_item_references
 curated_items = item_manifest()
+hipokute = curated_items['hipokute']
+assert hipokute['ages'] == {'seed': 0, 'sprout': 1, 'grass': 2, 'flower': 3}, 'Hipokute growth states changed'
+assert hipokute['flower_pick']['reset_age'] == 1 and hipokute['flower_pick']['output_count'] == 1, 'Flower picking contract changed'
+assert hipokute['sprout_branches'] == {'grass': .5, 'flower': .5}, 'Hipokute branch probabilities changed'
+hipokute_guide = BeautifulSoup((site / 'tensura-reference/core-mechanics/mechanics-hipokute-farming/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(hipokute_guide.select('.hipokute-harvest-card img')) == 3 and len(hipokute_guide.select('.hipokute-harvest-card details')) == 3, 'Hipokute harvest guide incomplete'
+assert hipokute_guide.select_one('[data-hipokute-magicules]') and hipokute_guide.select_one('[data-hipokute-result]'), 'Hipokute comparison controls missing'
+assert all(fact in hipokute_guide.get_text() for fact in ('conditional', 'growth-speed gate', 'not measured yields', 'not arbitrary stone', '50% grass / 50% flower')), 'Hipokute scope or growth limits missing'
+for kind in ('grass', 'flower', 'seeds'):
+    assert 'Hipokute ' + kind.title() in item_titles, 'Hipokute item missing from Items'
+    page = (ROOT / f'docs/tensura-reference/items/hipokute-{kind}.md').read_text(encoding='utf-8')
+    assert 'mechanics-hipokute-farming.md' in page and all('id="' + anchor + '"' in page for anchor in ('Usage', 'Obtainment')), 'Hipokute routes or legacy anchors lost'
+hipokute_config = tomllib.loads((ROOT / 'pack/config/tensura/entity/entity_config.toml').read_text(encoding='utf-8'))
+assert hipokute_config['Dwarf']['alchemistPriceMultiplier'] == hipokute['alchemist_flower_trade']['tracked_price_multiplier'], 'Alchemist price configuration changed'
 grimoire_tiers = curated_items['grimoire_tiers']
 assert [(tier['base_slots'], tier['cooldown_ticks'], tier['durability']) for tier in grimoire_tiers] == [(3,40,100),(4,30,200),(5,20,300),(6,15,400),(7,10,500)], 'Grimoire constructor values changed'
 assert [tier['rarity'] for tier in grimoire_tiers] == ['Common','Uncommon','Uncommon','Rare','Rare'], 'Grimoire rarity mismatch'

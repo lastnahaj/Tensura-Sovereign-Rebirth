@@ -304,6 +304,16 @@
 .caster-step > .reference-eyebrow { margin: 1rem 1rem .35rem !important; }
 .caster-step details { margin: .7rem 1rem 1rem; font-size: .72rem; line-height: 1.6; }
 .caster-step details p { margin: .65rem 0; }
+.hipokute-growth { display: grid; gap: .7rem; margin: 1.2rem 0 !important; padding: 0 !important; list-style: none !important; counter-reset: hipokute-step; }
+.hipokute-growth li { position: relative; margin: 0 !important; padding: .95rem 1rem .95rem 3.25rem; border: 1px solid rgba(51,214,255,.25); border-radius: .8rem; background: rgba(36,197,232,.06); counter-increment: hipokute-step; }
+.hipokute-growth li::before { content: counter(hipokute-step); position: absolute; left: 1rem; top: .9rem; color: var(--tsr-cyan); font-size: 1.5rem; font-weight: 750; }
+.hipokute-growth strong, .hipokute-growth span { display: block; }
+.hipokute-growth span { margin-top: .3rem; font-size: .75rem; line-height: 1.6; }
+.hipokute-calculator h3 { margin-top: 0; font-weight: 750; }
+.hipokute-harvest-card details { margin: .8rem 1rem 1rem; font-size: .7rem; line-height: 1.6; }
+.hipokute-harvest-card details p { margin: .6rem 0; }
+.hipokute-harvest-card .reference-eyebrow { color: var(--tsr-cyan); }
+[data-md-color-scheme="default"] .hipokute-growth li::before, [data-md-color-scheme="default"] .hipokute-harvest-card .reference-eyebrow { color: #075b83; }
 .caster-cost-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .85rem; margin: 1rem 0; }
 .caster-cost-grid > article { padding: 1.1rem; border: 1px solid rgba(51,214,255,.25); border-radius: .9rem; background: linear-gradient(145deg,rgba(17,85,164,.1),rgba(105,54,184,.08)); }
 .caster-cost-grid strong { display: block; color: var(--tsr-cyan); font-size: 2.6rem; line-height: 1.2; }

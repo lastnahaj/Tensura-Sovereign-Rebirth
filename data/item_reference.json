@@ -9,6 +9,29 @@
     "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
     "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml"
   },
+  "hipokute": {
+    "plant_registry_id": "tensura:hipokute_grass",
+    "ages": {"seed": 0, "sprout": 1, "grass": 2, "flower": 3},
+    "survival_blocks": ["minecraft:grass_block", "minecraft:dirt", "minecraft:farmland"],
+    "first_decision": "1 / max(1, 10 - trunc(trunc(current_area_magicules) / 500)) after the growth-speed gate",
+    "sprout_branches": {"grass": 0.5, "flower": 0.5},
+    "flower_pick": {"requires_age": 3, "output_count": 1, "reset_age": 1, "interaction": "useWithoutItem"},
+    "alchemist_flower_trade": {"profession_level": 3, "base_flower_count": 4, "output_silver_min": 20, "output_silver_max": 50, "tracked_price_multiplier": 1.0},
+    "live_gameplay_verified": false,
+    "evidence_paths": [
+      "io/github/manasmods/tensura/block/HipokuteGrass.class",
+      "io/github/manasmods/tensura/registry/item/TensuraMaterialItems.class",
+      "io/github/manasmods/tensura/item/misc/HipokuteFlowerItem.class",
+      "io/github/manasmods/tensura/entity/merchant/profession/DwarfProfession.class",
+      "io/github/manasmods/tensura/entity/merchant/trade/OneForOneTrade.class",
+      "data/tensura/loot_table/blocks/hipokute_grass.json",
+      "data/tensura/neoforge/biome_modifier/hipokute_grass.json",
+      "data/tensura/worldgen/configured_feature/hipokute_grass.json",
+      "data/tensura/worldgen/placed_feature/hipokute_grass.json",
+      "data/minecraft/recipe/white_dye_from_hipokute_flower.json",
+      "io/github/manasmods/tensura/recipe/SpecialRecipeRegister.class"
+    ]
+  },
   "grimoire_tiers": [
     {"tier":"D","slug":"grimoire-d","registry_id":"tensura:grimoire_d","base_slots":3,"cooldown_ticks":40,"durability":100,"chant_bonus":0,"rarity":"Common","min_ep":1000,"max_ep":2500,"ep_gain":0.0025,"next_slug":"grimoire-c","next_tier":"C"},
     {"tier":"C","slug":"grimoire-c","registry_id":"tensura:grimoire_c","base_slots":4,"cooldown_ticks":30,"durability":200,"chant_bonus":0.05,"rarity":"Uncommon","min_ep":2500,"max_ep":5000,"ep_gain":0.005,"next_slug":"grimoire-b","next_tier":"B"},
