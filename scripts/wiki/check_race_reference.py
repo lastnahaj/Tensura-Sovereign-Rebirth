@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from race_catalogue import race_reference
 from sync_race_reference import generate, normalize_known_skill_links, replace_placeholder_figure
 from refresh_race_portraits import PORTRAITS
+from race_requirements import manifest as requirements_manifest, reviewed_requirement, requirement_label
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -29,6 +30,29 @@ def main():
     if not replace_placeholder_figure(placeholder + tail, *args_media).endswith(tail):
         errors.append('Portrait replacement removes content after the first figure')
     outputs = generate()
+    requirements = requirements_manifest()
+    if requirements['build']['sha1'] != policy['builds']['tensura']['sha1'] or requirements['build']['minecraft'] != policy['minecraft']:
+        errors.append('Reviewed race requirement build differs from the race registry policy')
+    for race_id, entry in requirements['races'].items():
+        decision = policy['pages'][entry['local_page']]
+        if decision.get('registry_id') != race_id or decision['status'] != 'registered':
+            errors.append('Reviewed requirement is not mapped to a registered race')
+        current = reviewed_requirement(decision)
+        recorded = decision['configuration']
+        if current['count'] != recorded['values'][entry['config_key']] or recorded['path'] != entry['config_path'] or recorded['section'] != entry['config_section']:
+            errors.append('Reviewed requirement no longer matches the recorded configuration')
+        article = BeautifulSoup(outputs[entry['local_page']], 'html.parser')
+        if len(article.select('#verified-evolution-requirement')) != 1:
+            errors.append('Reviewed requirement panel is missing or duplicated')
+        if 'Each consumed shard records one item use' not in article.get_text() or 'not live-server gameplay tests' not in article.get_text():
+            errors.append('Consumption action or verification scope is missing')
+    metal = policy['pages']['tensura-reference/races/races-metal-slime.md']
+    slime_family = BeautifulSoup((ROOT / 'docs/tensura-reference/races/families/slime.md').read_text(encoding='utf-8'), 'html.parser')
+    metal_stage = slime_family.select_one('#races-metal-slime')
+    if not metal_stage or requirement_label(metal) not in metal_stage.get_text() or 'counts item uses, not inventory holdings' not in metal_stage.get_text():
+        errors.append('Metal Slime family card omits the reviewed consumption gate')
+    if requirement_label({'registry_id': 'unreviewed:race'}) is not None:
+        errors.append('Unreviewed races must not inherit a consumption rule')
     sample_links = '<a href="https://tensurareincarnated.wiki.gg/wiki/Steel_Strength">Steel Strength</a><a href="https://trmysticism.wiki.gg/wiki/Unverified_Skill">Unverified skill</a><a href="https://tensura.wiki.gg/wiki/File:RaceHuman.png">Image credit</a>'
     normalized = normalize_known_skill_links(sample_links, 'mysticism-reference/races/steel-soul-insect.md')
     if 'href="../../../tensura-reference/skills/extra/steel-strength/"' not in normalized or 'https://trmysticism.wiki.gg/wiki/Unverified_Skill' not in normalized or 'https://tensura.wiki.gg/wiki/File:RaceHuman.png' not in normalized:

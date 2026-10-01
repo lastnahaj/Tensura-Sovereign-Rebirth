@@ -192,6 +192,7 @@ def mark_unavailable_links(text: str, page: str, policy: dict) -> str:
 
 
 def generate():
+    from race_requirements import BEGIN as REQUIREMENT_BEGIN, END as REQUIREMENT_END, article_panel
     policy = race_reference()
     media_overrides = json.loads((ROOT / 'data/race_family_media.json').read_text(encoding='utf-8'))
     media_credits = {
@@ -205,8 +206,16 @@ def generate():
         text = (DOCS / page).read_text(encoding='utf-8')
         text = re.sub(re.escape(BEGIN) + r'.*?' + re.escape(END) + r'\s*', '', text, flags=re.S)
         text = re.sub(re.escape(UNAVAILABLE_BEGIN) + r'.*?' + re.escape(UNAVAILABLE_END) + r'\s*', '', text, flags=re.S)
+        text = re.sub(re.escape(REQUIREMENT_BEGIN) + r'.*?' + re.escape(REQUIREMENT_END) + r'\s*', '', text, flags=re.S)
         text = strip_maintenance_markup(text)
         text = normalize_known_skill_links(text, page)
+        requirement = article_panel(decision, page)
+        if requirement:
+            index = text.find('<section class="reference-overview ')
+            if index < 0:
+                raise ValueError(f'Missing race overview: {page}')
+            end = text.find('</section>', index) + len('</section>')
+            text = text[:end] + '\n\n' + requirement + text[end:].lstrip()
         asset = family_media(page, media_overrides)
         if asset:
             if asset.startswith('assets/illustrations/races/') and asset.endswith('.png'):

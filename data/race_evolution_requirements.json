@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-09-30",
+  "build": {
+    "minecraft": "1.21.1",
+    "version": "2.0.1.2",
+    "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599"
+  },
+  "races": {
+    "tensura:metal_slime": {
+      "local_page": "tensura-reference/races/races-metal-slime.md",
+      "previous_race": "tensura:slime",
+      "kind": "item-use-statistic",
+      "item_id": "tensura:magic_ore_shard",
+      "item_title": "Magic Ore Shard",
+      "item_page": "tensura-reference/magic/magic-ore-shard.md",
+      "ability_page": "tensura-reference/skills/intrinsic/absorb-dissolve.md",
+      "config_path": "pack/config/tensura/race/slime_config.toml",
+      "config_section": "MetalSlime",
+      "config_key": "oreRequirement",
+      "statistic": "minecraft:used",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/race/slime/MetalSlimeRace.class",
+        "io/github/manasmods/tensura/race/template/EvolutionRequirement$ItemConsumeRequirement.class",
+        "io/github/manasmods/tensura/registry/item/TensuraMaterialItems.class",
+        "io/github/manasmods/tensura/ability/skill/intrinsic/AbsorbDissolveSkill.class"
+      ]
+    }
+  }
+}

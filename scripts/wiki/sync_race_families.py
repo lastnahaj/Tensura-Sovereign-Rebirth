@@ -141,7 +141,7 @@ def generate() -> dict[str, str]:
             stage = [f'<article class="race-stage-card" id="{anchors[key]}"><p class="race-stage-kicker">{tier}</p><h2>{html.escape(nodes[key]["title"])}</h2><div class="race-stats">']
             stage.extend(f'<span><b>{html.escape(text)}</b> {html.escape(label)}</span>' for label, text in stats)
             stage.append('</div><dl>')
-            stage.append(configuration_details(decision))
+            stage.append(configuration_details(decision, page_route))
             primary_labels = {"Difficulty", "Alignment", "Spiritual", "Divine", "Intrinsics", "Skills", "Learnable", "Learnables"}
             stage.extend(f'<dt>{html.escape(label)}</dt><dd>{value}</dd>' for label, _, value in rows if label in primary_labels)
             if not rows:

@@ -1944,12 +1944,15 @@
 .race-stats { display: flex; flex-wrap: wrap; gap: .35rem; }
 .race-stats span { min-width: 4rem; padding: .38rem .5rem; border: 1px solid rgba(240, 187, 75, .16); border-radius: .45rem; color: var(--md-default-fg-color--light); font-size: .62rem; background: rgba(240, 187, 75, .05); }
 .race-stats b { display: block; color: var(--tsr-gold); font-size: .82rem; }
-.race-stage-card dl { display: grid; grid-template-columns: 5rem minmax(0, 1fr); gap: .35rem .6rem; margin: .8rem 0; font-size: .7rem; }
-.race-stage-card dt { color: var(--md-default-fg-color--light); font-weight: 800; }
-.race-stage-card dd { margin: 0; }
+.race-stage-card dl { display: block; margin: .8rem 0; font-size: .7rem; }
+.race-stage-card dt { margin-top: .7rem; color: var(--md-default-fg-color--light); font-size: .62rem; font-weight: 800; }
+.md-typeset .race-stage-card dd { margin: .15rem 0 .55rem; line-height: 1.6; }
 .md-typeset .race-stage-card a,
 .md-typeset .ascension-entry a { color: var(--tsr-cyan); text-decoration: underline; text-underline-offset: .15em; }
-.race-stage-card dd a { display: inline-block; }
+.race-stage-card dd a { display: inline; }
+[data-md-color-scheme="default"] .race-stage-kicker,
+[data-md-color-scheme="default"] .md-typeset .race-stage-card a { color: #075b83; }
+[data-md-color-scheme="default"] .race-stats b { color: #725013; }
 [data-md-color-scheme="slate"] { --md-typeset-a-color: var(--tsr-cyan); }
 .race-secondary-stats { margin: .65rem 0; }
 .race-family-hero--source > img,

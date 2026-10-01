@@ -29,6 +29,10 @@ tags:
 </div>
 </section>
 
+<!-- verified-race-requirement:start -->
+<section class="skill-availability"><h2 id="verified-evolution-requirement">Evolve from Slime</h2><p>The checked-in consumption gate is <strong>100 <a href="../../magic/magic-ore-shard/">Magic Ore Shard uses</a></strong>.</p><ol><li>Slime is the recorded predecessor for this route.</li><li>Hold an ore shard in your main hand and activate <a href="../../skills/intrinsic/absorb-dissolve/">Absorb &amp; Dissolve</a>. Each consumed shard records one item use.</li><li>Check the in-game evolution menu for the completed consumption gate and any remaining conditions.</li></ol><p>Carrying shards, crafting their storage block, or mining ore is not the documented consumption action. The requirement reads the item-use statistic; this check does not establish how add-ons or prestige resets affect that statistic.</p><p>Evidence: <a href="https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura/race/slime_config.toml">MetalSlime.oreRequirement configuration</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599">Tensura 2.0.1.2 artifact</a>. Code and configuration checks are not live-server gameplay tests.</p><details><summary>Artifact evidence</summary><ul><li><code>io/github/manasmods/tensura/race/slime/MetalSlimeRace.class</code></li><li><code>io/github/manasmods/tensura/race/template/EvolutionRequirement$ItemConsumeRequirement.class</code></li><li><code>io/github/manasmods/tensura/registry/item/TensuraMaterialItems.class</code></li><li><code>io/github/manasmods/tensura/ability/skill/intrinsic/AbsorbDissolveSkill.class</code></li></ul></details></section>
+<!-- verified-race-requirement:end -->
+
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>"<i>The Hardest Slime around</i>"
 </p>

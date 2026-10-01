@@ -1,5 +1,6 @@
 """Render recorded race configuration without confusing bonuses with totals."""
 import html
+from race_requirements import requirement_label, family_details
 
 
 def number(value):
@@ -19,17 +20,23 @@ def configured_stats(decision):
     return result
 
 
-def configuration_details(decision):
+def configuration_details(decision, current_route=None):
     config = decision['configuration']
     values = config['values']
     source = 'https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/' + config['path']
     requirements = []
+    reviewed = requirement_label(decision)
+    if reviewed:
+        requirements.append(reviewed)
     if 'epRequirement' in values:
         requirements.append(number(values['epRequirement']) + ' EP')
     if 'bossRequirement' in values:
         requirements.append('boss-count setting: ' + number(values['bossRequirement']))
     requirement = '; '.join(requirements) if requirements else 'No EP or boss-count threshold is declared in this configuration section.'
+    if reviewed:
+        requirement = requirement.rstrip('.') + '.'
     return ('<dt>Configured evolution thresholds</dt><dd>' + html.escape(requirement)
             + ' Other route, skill, naming, or awakening conditions can still apply.</dd>'
+            + (family_details(decision, current_route) if current_route else '')
             + '<dt>Stat source</dt><dd><a href="' + source + '">Recorded race configuration</a> · '
             + html.escape(config['section']) + '. Bonuses are not total character stats; live server overrides may differ.</dd>')
