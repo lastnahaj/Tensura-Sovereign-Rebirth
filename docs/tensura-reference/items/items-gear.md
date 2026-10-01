@@ -486,7 +486,7 @@ tags: []
 Base Tensura reference adapted from [Items/Gear](https://tensura.wiki.gg/wiki/Items/Gear) on the Tensura: Reincarnated Wiki (revision `13198`, modified `2026-06-25T16:37:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (224 source files)</summary>
+<summary>Media credits (223 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sword.png">Invicon Low Magisteel Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6607</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Short_Sword.png">Invicon Low Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6603</li>
@@ -703,7 +703,7 @@ Base Tensura reference adapted from [Items/Gear](https://tensura.wiki.gg/wiki/It
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armoursaurus_Shield.png">Invicon Armoursaurus Shield.png</a> — CC BY-SA 4.0; uploaded by Q DOGG 666; revision 13215</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Tempest_Scale_Shield.png">Invicon Tempest Scale Shield.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6760</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Staff_of_Slime.png">Invicon Staff of Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10139</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magic_Staff.png">Invicon Low Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12800</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Magic_Staff.png">Invicon Medium Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12801</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magic_Staff.png">Invicon High Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12802</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(D).png">Invicon Grimoire(D).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12803</li>

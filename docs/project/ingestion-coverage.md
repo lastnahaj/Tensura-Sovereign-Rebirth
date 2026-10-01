@@ -22,9 +22,9 @@
 |---|---:|
 | Images discovered | 1737 |
 | Distinct File records resolved | 1733 |
-| Images retained from the import | 1533 |
+| Images retained from the import | 1531 |
 | Imported image placements | 1333 |
-| Images withdrawn after file-level review | 97 |
+| Images withdrawn after file-level review | 99 |
 | Images failed | 103 |
 
 The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill icons, and the Reincarnation icon and replaced them with original TSR illustrations. The resistance review includes Magic Resistance and the command-only Magic Nullification reference. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
@@ -38,6 +38,8 @@ The bottle review withdrew six empty, filled, and vacuumed Magic Bottle images w
 The crystal review withdrew six Low, Medium, and High Quality Magic Crystal images without verified reusable image licenses. Three original illustrations replace them. The references now appear in Items with a tier-comparison guide, verified absorption and bottle yields, storage recipes, schematic-gated downgrades, and precise shared-loot eligibility rules.
 
 The Magic Stone and Ore Shard review withdrew four inventory and article images without verified reusable image licenses. Two original illustrations replace them. Their item references document artifact-backed crafting, mining, refining, absorption, and the configured ore-consumption evolution gate.
+
+The Low Magic Staff review withdrew its article image and inventory icon after File-page permission checks. An original illustration replaces them. The staff reference and comparison guide document cumulative schematic unlocks, all three tiers' base capacities, Magic Capacity modifiers, cooldowns, and durability from the selected artifact.
 
 ## Link conversion
 

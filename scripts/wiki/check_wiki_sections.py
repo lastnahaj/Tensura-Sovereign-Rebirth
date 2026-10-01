@@ -130,6 +130,14 @@ ore = (ROOT / 'docs/tensura-reference/magic/magic-ore-shard.md').read_text(encod
 assert all(text in ore for text in ('Netherite-tier pickaxe', 'Silk Touch', 'Fortune', 'hold Sneak', '100 ore-shard uses', '5,000 base MP')), 'Ore acquisition, refining, or consumption gate missing'
 slime_config = tomllib.loads((ROOT / 'pack/config/tensura/race/slime_config.toml').read_text(encoding='utf-8'))
 assert slime_config['MetalSlime']['oreRequirement'] == 100, 'Recorded Metal Slime ore requirement is stale'
+staff = next(entry for entry in curated_items['pages'] if entry.get('registry_id') == 'tensura:low_magic_staff')
+assert staff['display_title'] in item_titles and staff['display_title'] not in magic_titles, 'Low Staff is missing from Items or classified as a spell'
+staff_article = (ROOT / 'docs' / staff['local_page']).read_text(encoding='utf-8')
+assert 'both listed schematics' in staff_article and 'three spells' in staff_article and 'Magic Capacity' in staff_article, 'Staff crafting gate or slot calculation missing'
+assert [(entry['base_slots'], entry['cooldown_ticks'], entry['durability']) for entry in curated_items['staff_tiers']] == [(3, 20, 100), (4, 10, 300), (5, 5, 500)], 'Staff constructor values changed'
+staff_guide = BeautifulSoup((site / 'tensura-reference/items/magic-staves/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(staff_guide.select('.staff-tier-card')) == 3 and len(staff_guide.select('.staff-tier-card details summary')) == 3, 'Staff comparison cards or crafting controls missing'
+assert items.find('a', href='magic-staves/'), 'Staff guide is missing from Items'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

@@ -6,9 +6,10 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>199</strong> articles</span>
+<span class="reference-count"><strong>200</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
+<a class="reference-directory-overview-link" href="magic-staves/">Compare casting staves →</a>
 </div>
 </div>
 </header>
@@ -42,7 +43,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 199 of 199 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 200 of 200 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1574,6 +1575,22 @@
 <h2>Long Sword Schematic</h2>
 
 <p>Found in Dwarf Blacksmiths - 10% OR Found in Toolsmith Villager Houses - 20% Chance</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="L" data-search="low magic staff a three-slot casting staff crafted with magic stone, low magisteel, and sticks. both the low magisteel gear and magic staff schematics must be learned.">
+<a href="../magic/low-magic-staff/" aria-label="Open Low Magic Staff">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/low-magic-staff.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Low Magic Staff</h2>
+
+<small class="skill-reference-status">Crafting unlocks and base capacity verified</small>
+<p>A three-slot casting staff crafted with Magic Stone, Low Magisteel, and sticks. Both the Low Magisteel Gear and Magic Staff schematics must be learned.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

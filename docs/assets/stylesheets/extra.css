@@ -289,6 +289,16 @@
 .potion-guide-card dd { margin: .1rem 0 0; font-size: 1.25rem; font-weight: 750; }
 .potion-guide-card dd small { display: block; font-size: .65rem; font-weight: 450; }
 .potion-guide-card > p { margin: .8rem 1rem 1rem; font-size: .72rem; line-height: 1.5; }
+.staff-guide-hero .reference-overview-media { align-self: center; }
+.staff-guide-hero .reference-overview-media img { height: auto; max-height: none; }
+.staff-tier-card h2 { min-height: 3.1em; margin: .2rem 1rem .6rem; }
+.staff-tier-card > .reference-eyebrow { margin: 1rem 1rem .35rem !important; }
+.staff-tier-card .staff-capacity { display: flex; align-items: center; gap: .65rem; margin: .75rem 1rem 1rem; }
+.staff-capacity strong { color: var(--tsr-cyan); font-size: 2.4rem; line-height: 1; }
+.staff-capacity span { max-width: 6rem; color: var(--md-default-fg-color--light); font-size: .68rem; }
+.staff-tier-card details { margin: .7rem 1rem 1rem; font-size: .65rem; line-height: 1.6; }
+.staff-tier-card details p { margin: .55rem 0; }
+[data-md-color-scheme="default"] .staff-capacity strong { color: #075b83; }
 .potion-guide .potion-recipe-list { list-style: none; margin: .8rem 1rem 1rem; padding: 0; }
 .potion-guide .potion-recipe-list li { display: grid; gap: .25rem; margin: 0 0 .8rem; font-size: .7rem; line-height: 1.5; }
 .potion-recipe-list b { color: #24c5e8; }

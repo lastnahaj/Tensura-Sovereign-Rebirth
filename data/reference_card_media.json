@@ -567,5 +567,19 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/magic/low-magic-staff.md": {
+    "asset": "assets/images/items/low-magic-staff.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "14a19d8b049d6184af9edf1654ba2f0777b1f7a875225381b0ecae0df5a0451e",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Low_Magic_Staff",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_Magic_Staff.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

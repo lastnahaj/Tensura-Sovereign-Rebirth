@@ -112,10 +112,10 @@ Allows Crafting of
 Base Tensura reference adapted from [Magic Staff Schematic](https://tensura.wiki.gg/wiki/Magic_Staff_Schematic) on the Tensura: Reincarnated Wiki (revision `13424`, modified `2026-09-04T14:19:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magic_Staff.png">Invicon Low Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12800</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Magic_Staff.png">Invicon Medium Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12801</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magic_Staff.png">Invicon High Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12802</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Staff_of_Slime.png">Invicon Staff of Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10139</li>

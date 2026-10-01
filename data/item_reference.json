@@ -9,7 +9,34 @@
     "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
     "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml"
   },
+  "staff_tiers": [
+    {"tier": "Low", "registry_id": "tensura:low_magic_staff", "base_slots": 3, "cooldown_ticks": 20, "durability": 100, "chant_bonus": 0.05, "ingot": "Low Magisteel", "ingot_page": "low-magisteel-ingot.md", "schematic": "Low Magisteel Gear", "schematic_page": "items-schematics-low-magisteel-gear-schematic.md", "recipe": "data/tensura/recipe/smithing/low_magic_staff.json"},
+    {"tier": "Medium", "registry_id": "tensura:medium_magic_staff", "base_slots": 4, "cooldown_ticks": 10, "durability": 300, "chant_bonus": 0.1, "ingot": "High Magisteel", "ingot_page": "high-magisteel-ingot.md", "schematic": "High Magisteel Gear", "schematic_page": "items-schematics-high-magisteel-gear-schematic.md", "recipe": "data/tensura/recipe/smithing/medium_magic_staff.json"},
+    {"tier": "High", "registry_id": "tensura:high_magic_staff", "base_slots": 5, "cooldown_ticks": 5, "durability": 500, "chant_bonus": 0.2, "ingot": "Pure Magisteel", "ingot_page": "pure-magisteel-ingot.md", "schematic": "Pure Magisteel Gear", "schematic_page": "items-schematics-pure-magisteel-gear-schematic.md", "recipe": "data/tensura/recipe/smithing/high_magic_staff.json"}
+  ],
   "pages": [
+    {
+      "local_page": "tensura-reference/magic/low-magic-staff.md",
+      "display_title": "Low Magic Staff",
+      "category": "items",
+      "asset": "assets/images/items/low-magic-staff.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:low_magic_staff",
+      "summary": "A three-slot casting staff crafted with Magic Stone, Low Magisteel, and sticks. Both the Low Magisteel Gear and Magic Staff schematics must be learned.",
+      "status": "Crafting unlocks and base capacity verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "Survival smithing checks require both listed schematics, not either one. The three-slot figure is the base capacity; Magic Capacity adds its enchantment level to that value.",
+      "obtainment": "Learn the [Low Magisteel Gear Schematic](../items/items-schematics-low-magisteel-gear-schematic.md) and the [Magic Staff Schematic](magic-staff-schematic.md). At a [Smithing Bench](../blocks/blocks-smithing-bench.md), combine one [Magic Stone](magic-stone.md), two [Low Magisteel Ingots](../items/low-magisteel-ingot.md), and three Sticks to produce one Low Magic Staff. SmithingBenchRecipe.hasUnlocked checks that the learned schematic set contains all required schematics; Creative mode has a separate bypass.",
+      "use": "Bind a compatible spell through the [Spellbinding Table](../resistances/spellbinding-table.md), then use the staff with a selected bound spell. The staff's use method fails if its stored spell list is empty. Base capacity is three spells; getMagicSlots adds the item's Magic Capacity enchantment level. See the [staff comparison guide](../items/magic-staves.md) for Medium and High crafting requirements and base capacities.",
+      "effects": "The registered Low staff has 100 base durability, a 20-tick base staff cooldown, and a +0.05 additive Chant Speed attribute modifier while held. The cooldown is not the spell's chant duration, and the attribute value is not stated here as a percentage reduction. Binding slots do not establish an acquisition route for every spell. Spell-specific costs, gear-evolution triggers, server overrides, and live casting behavior are outside this check.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraToolItems.class",
+        "io/github/manasmods/tensura/item/weapon/spell/SimpleSpellCastItem.class",
+        "io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class",
+        "data/tensura/recipe/smithing/low_magic_staff.json"
+      ]
+    },
     {
       "local_page": "tensura-reference/magic/magic-stone.md",
       "display_title": "Magic Stone",

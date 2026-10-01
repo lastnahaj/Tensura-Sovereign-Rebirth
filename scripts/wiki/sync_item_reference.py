@@ -84,6 +84,8 @@ def generate():
         output[page['local_page']] = '\n'.join(lines)
     output['tensura-reference/items/healing-potions.md'] = generate_guide(data)
     output['tensura-reference/items/magic-crystals.md'] = generate_crystal_guide(data)
+    from staff_guide import generate as generate_staff_guide
+    output['tensura-reference/items/magic-staves.md'] = generate_staff_guide(data)
     return output
 
 

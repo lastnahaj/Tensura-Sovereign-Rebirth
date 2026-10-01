@@ -425,6 +425,15 @@
       "replacement_asset": "assets/images/items/high-quality-magic-crystal.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magic_Staff.png",
+      "source_title": "Invicon Low Magic Staff.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-magic-staff.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png",
       "source_title": "Invicon Low Potion.png",
       "checked_on": "2026-09-30",
@@ -513,6 +522,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/light-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_Magic_Staff.png",
+      "source_title": "Low Magic Staff.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-magic-staff.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Low_Potion.png",

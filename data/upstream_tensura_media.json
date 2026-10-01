@@ -27380,17 +27380,20 @@
         "tensura-reference/magic/magic-staff-schematic.md"
       ],
       "category": "magic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/magic/invicon-low-magic-staff-59c57411ee.png",
       "download_url": "https://tensura.wiki.gg/images/Invicon_Low_Magic_Staff.png?59c574",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-09-30",
+      "license_review_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-magic-staff.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/magic/invicon-low-magic-staff-59c57411ee.png"
     },
     {
       "source_title": "Invicon Labyrinth Brick Magic Engine.png",
@@ -41443,17 +41446,20 @@
         "tensura-reference/magic/low-magic-staff.md"
       ],
       "category": "magic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/magic/low-magic-staff-72ac8cf77f.png",
       "download_url": "https://tensura.wiki.gg/images/Low_Magic_Staff.png?72ac8c",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-09-30",
+      "license_review_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-magic-staff.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/magic/low-magic-staff-72ac8cf77f.png"
     },
     {
       "source_title": "Low Magisteel Gear Schematic.png",

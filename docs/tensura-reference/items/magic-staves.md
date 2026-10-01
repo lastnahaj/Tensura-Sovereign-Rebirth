@@ -1,0 +1,66 @@
+---
+title: Magic Staves
+description: Compare staff capacities, cooldowns, durability, and smithing requirements for Minecraft 1.21.1.
+---
+
+<section class="reference-overview reference-theme-abilities staff-guide-hero">
+<figure class="reference-overview-media"><img src="../../../assets/images/items/low-magic-staff.webp" alt="Original wooden casting staff illustration with a cyan crystal" loading="eager" decoding="async"><figcaption>TSR illustration · not the in-game texture</figcaption></figure>
+<div class="reference-overview-copy"><p class="reference-eyebrow">Casting equipment · Minecraft 1.21.1</p><h1>Choose your casting staff</h1><p>Compare the three registered staff tiers. Prepare the materials and learned schematics, then account for base spell capacity and the Magic Capacity enchantment.</p>
+<nav class="reference-quick-jumps" aria-label="Staff guide"><a href="../">Browse Items</a><a href="../../magic/low-magic-staff/">Low Staff reference</a></nav></div></section>
+
+<section class="potion-guide"><div class="potion-guide-grid">
+<article class="potion-guide-card staff-tier-card">
+<p class="reference-eyebrow">Low tier</p>
+<h2>Low Magic Staff</h2>
+<p class="staff-capacity"><strong>3</strong><span>base spell slots</span></p>
+<dl><div><dt>Base cooldown</dt><dd>20 <small>ticks · not chant duration</small></dd></div><div><dt>Durability</dt><dd>100 <small>base maximum</small></dd></div></dl>
+<details><summary>Crafting &amp; schematics</summary><p>At a <a href="../../blocks/blocks-smithing-bench/">Smithing Bench</a>: one <a href="../../magic/magic-stone/">Magic Stone</a>, two <a href="../low-magisteel-ingot/">Low Magisteel Ingots</a>, and three Sticks produce one staff.</p>
+<p>Learn <strong>both</strong>:</p><ul><li><a href="../items-schematics-low-magisteel-gear-schematic/">Low Magisteel Gear Schematic</a></li><li><a href="../../magic/magic-staff-schematic/">Magic Staff Schematic</a></li></ul></details>
+</article>
+<article class="potion-guide-card staff-tier-card">
+<p class="reference-eyebrow">Medium tier</p>
+<h2>Medium Magic Staff</h2>
+<p class="staff-capacity"><strong>4</strong><span>base spell slots</span></p>
+<dl><div><dt>Base cooldown</dt><dd>10 <small>ticks · not chant duration</small></dd></div><div><dt>Durability</dt><dd>300 <small>base maximum</small></dd></div></dl>
+<details><summary>Crafting &amp; schematics</summary><p>At a <a href="../../blocks/blocks-smithing-bench/">Smithing Bench</a>: one <a href="../../magic/magic-stone/">Magic Stone</a>, two <a href="../high-magisteel-ingot/">High Magisteel Ingots</a>, and three Sticks produce one staff.</p>
+<p>Learn <strong>both</strong>:</p><ul><li><a href="../items-schematics-high-magisteel-gear-schematic/">High Magisteel Gear Schematic</a></li><li><a href="../../magic/magic-staff-schematic/">Magic Staff Schematic</a></li></ul></details>
+</article>
+<article class="potion-guide-card staff-tier-card">
+<p class="reference-eyebrow">High tier</p>
+<h2>High Magic Staff</h2>
+<p class="staff-capacity"><strong>5</strong><span>base spell slots</span></p>
+<dl><div><dt>Base cooldown</dt><dd>5 <small>ticks · not chant duration</small></dd></div><div><dt>Durability</dt><dd>500 <small>base maximum</small></dd></div></dl>
+<details><summary>Crafting &amp; schematics</summary><p>At a <a href="../../blocks/blocks-smithing-bench/">Smithing Bench</a>: one <a href="../../magic/magic-stone/">Magic Stone</a>, two <a href="../pure-magisteel-ingot/">Pure Magisteel Ingots</a>, and three Sticks produce one staff.</p>
+<p>Learn <strong>both</strong>:</p><ul><li><a href="../items-schematics-pure-magisteel-gear-schematic/">Pure Magisteel Gear Schematic</a></li><li><a href="../../magic/magic-staff-schematic/">Magic Staff Schematic</a></li></ul></details>
+</article>
+</div></section>
+
+## Prepare the staff
+
+Use the [Spellbinding Table](../resistances/spellbinding-table.md) to bind compatible spells. An empty stored spell list causes the staff’s use method to fail. The [Low Staff reference](../magic/low-magic-staff.md) gives the starter recipe and implementation evidence.
+
+## Read capacity correctly
+
+Base capacities are **3 / 4 / 5** for Low / Medium / High. The slot calculation adds the item’s **Magic Capacity enchantment level**. These figures do not prove an acquisition route or binding compatibility for every spell.
+
+## Separate cooldown from chant speed
+
+The staff constructors specify **20 / 10 / 5 ticks** of base staff cooldown, separate from spell chant duration. Their additive Chant Speed attribute bonuses are **+0.05 / +0.10 / +0.20** while held; these raw attribute values are not described as percentage reductions.
+
+!!! note "Verification scope"
+    Registration, ingredients, learned-schematic checks, base slots, cooldowns, and durability are checked against the selected artifact. Spell-specific costs, gear-evolution triggers, server overrides, and live casting tests remain outside this check.
+
+## Sources and artwork
+
+Implementation: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR item evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/item_reference.json). The [Low Staff article](../magic/low-magic-staff.md) credits its imported upstream revision. The original illustration is not an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/registry/item/TensuraToolItems.class`
+    - `io/github/manasmods/tensura/item/weapon/spell/SimpleSpellCastItem.class`
+    - `io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class`
+    - `data/tensura/recipe/smithing/low_magic_staff.json`
+    - `data/tensura/recipe/smithing/medium_magic_staff.json`
+    - `data/tensura/recipe/smithing/high_magic_staff.json`
+
+[Return to Items](index.md)

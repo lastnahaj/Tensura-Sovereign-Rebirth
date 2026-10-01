@@ -84,7 +84,7 @@ Grants the player a buff that effects their physical attacks and Battlewill atta
 </span>
 </a>
 <a class="reference-related-card" href="../low-magic-staff/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/low-magic-staff-72ac8cf77f.png"/>
+<img alt="Low Magic Staff illustration" decoding="async" loading="lazy" src="../../../assets/images/items/low-magic-staff.webp"/>
 <span class="reference-related-copy">
 <strong>Low Magic Staff</strong>
 <small>A low magic staff for casting magic.</small>

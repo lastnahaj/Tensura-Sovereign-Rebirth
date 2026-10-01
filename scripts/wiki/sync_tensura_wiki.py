@@ -1847,6 +1847,7 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     if category == 'items':
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/healing-potions.md")}">Build a healing kit →</a>')
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/magic-crystals.md")}">Compare Magic Crystals →</a>')
+        lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/magic-staves.md")}">Compare casting staves →</a>')
     if not combined_directory or not ordered:
         for position, overview_record in enumerate(visible_overviews):
             label = "Read collection overview" if position == 0 else "Read additional overview"
