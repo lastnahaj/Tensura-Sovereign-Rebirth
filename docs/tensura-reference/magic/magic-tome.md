@@ -1,124 +1,64 @@
 ---
-title: Magic Tome
-description: Found in:Wizard Tower Upon usage gives you the spell assigned to the tome if it has one
-tags:
-- Non-stackable_resources
+title: "Magic Tome"
+description: "Read a tome to attempt learning its stored spell. Chest loot can assign a spell before use; a tome with no stored spell instead draws from the aspectual-magic tag."
 ---
 
 # Magic Tome
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-abilities">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-magic-tome-2d21681fbe.png" alt="Magic Tome source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/magic-tome.webp" alt="Magic Tome illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Found in: Wizard Tower</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Read a tome to attempt learning its stored spell. Chest loot can assign a spell before use; a tome with no stored spell instead draws from the aspectual-magic tag.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Magic Tome</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Magic_tome.png"><img alt="Magic tome.png: Infobox image for Magic Tome the item in Minecraft" class="pixel-image" data-file-height="64" data-file-width="64" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-tome-2d21681fbe.png" width="160"/></a></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Tome"><a href="./" title="Magic Tome"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity tier</a>
-</th>
-<td class="list-style-none">
-<p><span>Rare</span>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! warning "Chest loot and learning behavior verified"
+    A resolved learning attempt can consume the tome even if learning fails or the spell is already known. It is not a guaranteed new spell or a random result from every magic school.
 
-<p><br/>
-</p>
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<p>Found in:<a href="../../structures/structures-wizard-tower/" title="Structures/Wizard Tower">Wizard Tower</a>
-</p><p>Upon usage gives you the spell assigned to the tome if it has one
-</p>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
+<div class="druid-title">Magic Tome</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:magic_tome</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Chest loot and learning behavior verified</div></div>
+</aside></div></div>
 
+<span id="Obtainment"></span>
 
+## Availability
 
-</div>
-</div>
+The selected artifact's Buried, Burnt, Frozen, Rotted, and Ruined Wizard Tower chest loot tables contain Magic Tome entries. Their apply_skill_data functions assign a stored spell from the corresponding loot tag. These are randomized loot definitions, not guaranteed contents in each chest or proof that every spell can appear. Server generation, datapack overrides, and complete spell-specific supply routes remain untested.
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+## How to use
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Magic</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../magic-stone/">
-<img src="../../../assets/images/items/magic-stone.webp" alt="Magic Stone illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Stone</strong>
-<small>Can be obtained by crafting at a Smithing Bench</small>
-</span>
-</a>
-<a class="reference-related-card" href="../magic-wall/">
-<img src="../../../assets/upstream/tensura/magic/magic-wall-23122c5c9b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Wall</strong>
-<small>Use pure magic to create a wall in front of you</small>
-</span>
-</a>
-<a class="reference-related-card" href="../magic-staff-schematic/">
-<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Staff Schematic</strong>
-<small>Can be acquired from master magic trainer dwarves for 10 gold coins.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../magic-water-transform/">
-<img src="../../../assets/upstream/tensura/magic/magic-water-transform-a58bc3ff6e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Water Transform</strong>
-<small>Gain access to Greater Water Spirit Magic and boost your water attacks while buffing yourself and debuffing enemies</small>
-</span>
-</a>
-</div>
-</section>
+Use the tome and release after at least ten ticks. A stored SKILL ID resolves to that spell and attempts SkillHelper.learnSkill with its acquirement mastery. Without a stored spell, the method randomly selects from the ASPECTUAL_MAGIC tag. It does not use every registered magic school or the Skill Study Book pool. Read the [magic learning guide](../../magic-learning.md) before spending it.
 
----
+## Behavior and limits
+
+MagicTomeItem registers Rare rarity, stack size one, and fire resistance. After a resolved survival learning attempt, it consumes one item and adds a 200-tick cooldown even if learning fails. Infinite-material players are exempt from consumption and cooldown. Ten ticks and 200 ticks are nominal tick counts, not guaranteed wall-clock durations. A copied tome can also be created from an eligible mastered spell using an [Unbound Tome](../items/unbound-tome.md).
+
+[Return to Items](../items/index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Magic Tome](https://tensura.wiki.gg/wiki/Magic_Tome) on the Tensura: Reincarnated Wiki (revision `13289`, modified `2026-06-27T16:10:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Magic Tome](https://tensura.wiki.gg/wiki/Magic_Tome) on the Tensura: Reincarnated Wiki, recorded revision `13289`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13290</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_tome.png">Magic tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13288</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/item/misc/MagicTomeItem.class`
+    - `io/github/manasmods/tensura/data/template/function/ApplySkillDataFunction.class`
+    - `data/tensura/loot_table/chests/buried_wizard_tower.json`
+    - `data/tensura/loot_table/chests/burnt_wizard_tower.json`
+    - `data/tensura/loot_table/chests/frozen_wizard_tower.json`
+    - `data/tensura/loot_table/chests/rotted_wizard_tower.json`
+    - `data/tensura/loot_table/chests/ruined_wizard_tower.json`

@@ -216,10 +216,10 @@ tags:
 Base Tensura reference adapted from [Items/Learnable](https://tensura.wiki.gg/wiki/Items/Learnable) on the Tensura: Reincarnated Wiki (revision `13341`, modified `2026-08-01T18:39:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (38 source files)</summary>
+<summary>Media credits (37 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Battlewill_Manual.png">Invicon Battlewill Manual.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6452</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13290</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kunai_Schematic.png">Invicon Kunai Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12032</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Long_Sword_Schematic.png">Invicon Long Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12035</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Great_Sword_Schematic.png">Invicon Great Sword Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12036</li>

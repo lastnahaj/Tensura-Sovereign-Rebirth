@@ -22,9 +22,9 @@
 |---|---:|
 | Images discovered | 1737 |
 | Distinct File records resolved | 1733 |
-| Images retained from the import | 1527 |
+| Images retained from the import | 1525 |
 | Imported image placements | 1333 |
-| Images withdrawn after file-level review | 103 |
+| Images withdrawn after file-level review | 105 |
 | Images failed | 103 |
 
 The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill icons, and the Reincarnation icon and replaced them with original TSR illustrations. The resistance review includes Magic Resistance and the command-only Magic Nullification reference. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
@@ -63,7 +63,7 @@ The Low Magisteel Gear Schematic article image and inventory icon were subsequen
 | Configuration | 3 |
 | Core Mechanics | 34 |
 | Gamerules | 1 |
-| Items & Materials | 201 |
+| Items & Materials | 202 |
 | Magic | 144 |
 | Mobs | 56 |
 | Other Reference | 1 |

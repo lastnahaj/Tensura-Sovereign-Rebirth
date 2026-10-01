@@ -5,8 +5,17 @@
     "credit": "TSR arrival illustration"
   },
   "tensura-reference/items/unbound-tome.md": {
-    "asset": "assets/images/items/unbound-tome.svg",
-    "kind": "original"
+    "asset": "assets/images/items/magic-tome.webp",
+    "kind": "original",
+    "credit": "TSR tome illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "dce1feb23432848a6eda2aa9ea72d9e3940cc0f0d605fe79cd12506fdf064006",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Unbound_tome",
+      "result": "The unfinished article does not provide an item illustration. Original tome artwork replaces the earlier vector illustration."
+    }
   },
   "tensura-reference/items/explorer-maps.md": {
     "asset": "assets/images/items/explorer-map.svg",
@@ -855,6 +864,20 @@
       "date": "2026-09-30",
       "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic",
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/magic-tome.md": {
+    "asset": "assets/images/items/magic-tome.webp",
+    "kind": "original",
+    "credit": "TSR tome illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "dce1feb23432848a6eda2aa9ea72d9e3940cc0f0d605fe79cd12506fdf064006",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Tome",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_tome.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   }

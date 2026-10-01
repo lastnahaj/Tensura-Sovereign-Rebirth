@@ -81,7 +81,11 @@ def generate():
             lines.extend(['??? info "Artifact evidence"', ''])
             lines.extend(f'    - `{path}`' for path in page['evidence_paths'])
             lines.append('')
-        output[page['local_page']] = '\n'.join(lines)
+        content = '\n'.join(lines)
+        for heading, anchors in page.get('legacy_anchors', {}).items():
+            aliases = ''.join('<span id="' + html.escape(anchor, quote=True) + '"></span>' for anchor in anchors)
+            content = content.replace('## ' + heading + '\n', aliases + '\n\n## ' + heading + '\n', 1)
+        output[page['local_page']] = content
     output['tensura-reference/items/healing-potions.md'] = generate_guide(data)
     output['tensura-reference/items/magic-crystals.md'] = generate_crystal_guide(data)
     from staff_guide import generate as generate_staff_guide

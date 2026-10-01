@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>201</strong> articles</span>
+<span class="reference-count"><strong>202</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
 <a class="reference-directory-overview-link" href="magic-staves/">Compare casting staves →</a>
@@ -43,7 +43,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 201 of 201 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 202 of 202 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1770,6 +1770,22 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="magic tome read a tome to attempt learning its stored spell. chest loot can assign a spell before use; a tome with no stored spell instead draws from the aspectual-magic tag.">
+<a href="../magic/magic-tome/" aria-label="Open Magic Tome">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Tome</h2>
+
+<small class="skill-reference-status">Chest loot and learning behavior verified</small>
+<p>Read a tome to attempt learning its stored spell. Chest loot can assign a spell before use; a tome with no stored spell instead draws from the aspectual-magic tag.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="marionette heart a rare magic item that can turn the user into a majin with the cost of half their max hp in damage and most of their current magicule. this does not mean that the…">
 <a href="marionette-heart/" aria-label="Open Marionette Heart">
 <figure class="reference-card-media reference-card-media--source">
@@ -2958,16 +2974,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="U" data-search="unbound tome can only be found not crafted.">
+<article class="reference-card" data-letter="U" data-search="unbound tome copy an eligible mastered spell into a magic tome at the spellbinding table. the blank item does not learn or randomly roll a spell when held.">
 <a href="unbound-tome/" aria-label="Open Unbound Tome">
 <figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/items/unbound-tome.svg" alt="" loading="lazy" decoding="async">
+<img src="../../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Unbound Tome</h2>
 
-<p>Can only be Found not Crafted.</p>
+<small class="skill-reference-status">Chest loot and copying checks verified</small>
+<p>Copy an eligible mastered spell into a Magic Tome at the Spellbinding Table. The blank item does not learn or randomly roll a spell when held.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

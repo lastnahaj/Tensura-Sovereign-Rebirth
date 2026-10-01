@@ -163,6 +163,14 @@ assert len(caster_guide.select('.caster-step details summary')) == 3 and len(cas
 assert len(caster_guide.select('.caster-exclusions li')) == 7, 'Unlearned casting exclusion list is incomplete'
 assert all(text in caster_guide.get_text() for text in ('Possession', 'Next Ability Mode', 'Previous Ability Mode', 'EP_DURABILITY', 'Reset-scroll')), 'Casting exclusions, controls, or scope missing'
 assert 'will remain even after' not in caster_guide.get_text(), 'Unverified reset retention claim remains'
+for tome_id in ('magic_tome', 'unbound_tome'):
+    tome = next(entry for entry in curated_items['pages'] if entry.get('registry_id') == 'tensura:' + tome_id)
+    assert tome['display_title'] in item_titles and tome['display_title'] not in magic_titles, 'Tome is missing from Items or appears as a spell'
+    article = (ROOT / 'docs' / tome['local_page']).read_text(encoding='utf-8')
+    required = ('Rare', 'Wizard Tower', 'Spellbinding', 'Source and licensing') if tome_id == 'unbound_tome' else ('Rare', 'Wizard Tower', 'ten ticks', '200-tick', 'fails')
+    assert all(text in article for text in required), 'Tome item facts or learning scope missing'
+    assert '???' not in article.replace('??? info', ''), 'Unfinished tome infobox remains'
+assert magic_evidence['unbound_copy_reference']['copy_exclusions'] == ['#tensura:spiritual_magic', 'tensura:summon_medium_elemental', 'tensura:summon_greater_elemental'], 'Tome copying exclusions changed'
 insanity = (ROOT / 'docs/tensura-reference/core-mechanics/effects-insanity.md').read_text(encoding='utf-8')
 assert 'Work In Progress' not in insanity and 'href="#Causes"' not in insanity, 'Editorial banner or nonexistent cause link remains'
 nightmares_item_art = {

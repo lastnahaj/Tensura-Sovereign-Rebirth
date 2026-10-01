@@ -91,7 +91,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/water-transform/" t
 </span>
 </a>
 <a class="reference-related-card" href="../magic-tome/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/items/invicon-magic-tome-2d21681fbe.png"/>
+<img alt="Magic Tome illustration" decoding="async" loading="lazy" src="../../../assets/images/items/magic-tome.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Tome</strong>
 <small>Found in: Wizard Tower</small>
@@ -114,7 +114,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/water-transform/" t
 Base Tensura reference adapted from [Magic Water Transform](https://tensura.wiki.gg/wiki/Magic_Water_Transform) on the Tensura: Reincarnated Wiki (revision `11330`, modified `2026-03-31T20:48:07Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_water_transform.png">Magic water transform.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3344</li>
 </ul>

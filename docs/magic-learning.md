@@ -26,11 +26,15 @@ hide:
 
 The pinned item implementation requires at least **10 ticks of use before release** and applies a **200-tick survival cooldown** after a resolved attempt. At the normal 20 ticks per second these are 0.5 seconds and 10 seconds; server lag changes real elapsed time. Infinite-material players do not consume the item or receive this cooldown.
 
-The [upstream Magic Tome article](tensura-reference/magic/magic-tome.md) lists Wizard Towers as a supply source. That is a general item reference, **not a verified drop table for every spell**, and loot settings can change availability.
+The [Magic Tome item reference](tensura-reference/magic/magic-tome.md) records checked entries in five Wizard Tower chest loot tables. Their loot function stores a spell from the matching tag before the tome is used. This is **not a guaranteed drop or a verified supply route for every spell**; loot settings and live world generation can change availability.
 
 ## Copying mastered magic
 
-The [Unbound Tome reference](tensura-reference/items/unbound-tome.md) describes placing mastered magic into a tome for another player to learn. The source article is unfinished. Copy exclusions, spell-specific eligibility, and a complete supply route have not been verified in this guide; do not assume every mastered spell can be copied.
+Place one [Unbound Tome](tensura-reference/items/unbound-tome.md) in the **Spellbinding Table** and choose an eligible mastered magic. The checked server branch replaces it with a Magic Tome containing that spell's ID. This is copying, not automatic learning for the recipient, who must use the finished tome and satisfy normal learning checks.
+
+The selected copying tag excludes **all Spiritual magic**, **Summon Medium Elemental**, and **Summon Greater Elemental**. Magic, mastery, and unbindable checks also apply. These copying exclusions are not the same as the [unlearned casting list](tensura-reference/tools/caster-tools-tutorial.md#learning-required); do not assume every mastered spell can be copied.
+
+The blank item is **Rare**, stacks to **16**, and appears in five checked Wizard Tower chest loot definitions. The table itself accepts **one item**. Complete spell-specific eligibility, live loot availability, and add-on/reset interactions remain untested.
 
 ## Read an entry before committing resources
 

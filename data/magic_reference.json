@@ -18,7 +18,9 @@
   },
   "unbound_copy_reference": {
     "source_url": "https://tensura.wiki.gg/wiki/Unbound_tome",
-    "source_limits": "The article is unfinished. It describes copying mastered magic for another player, but does not verify every spell's copy eligibility or a complete item supply route."
+    "source_limits": "The article is unfinished. The selected artifact independently verifies the blank tome as Rare with stack size 16, the table's single-item limit, mastery-gated copying, and the separate copying exclusion tag. Complete spell-specific eligibility and live-server supply remain untested.",
+    "copy_exclusions": ["#tensura:spiritual_magic", "tensura:summon_medium_elemental", "tensura:summon_greater_elemental"],
+    "loot_evidence": ["data/tensura/loot_table/chests/buried_wizard_tower.json", "data/tensura/loot_table/chests/burnt_wizard_tower.json", "data/tensura/loot_table/chests/frozen_wizard_tower.json", "data/tensura/loot_table/chests/rotted_wizard_tower.json", "data/tensura/loot_table/chests/ruined_wizard_tower.json"]
   },
   "recovered_spells": {
     "tensura:reincarnation": {

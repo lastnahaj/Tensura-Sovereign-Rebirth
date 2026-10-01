@@ -497,6 +497,15 @@
       "replacement_asset": "assets/images/items/magic-stone.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png",
+      "source_title": "Invicon Magic Tome.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-tome.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png",
       "source_title": "Invicon Medium Quality Magic Crystal.png",
       "checked_on": "2026-09-30",
@@ -630,6 +639,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/magic-stone.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_tome.png",
+      "source_title": "Magic tome.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-tome.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Maximum_magic_bullet.png",
