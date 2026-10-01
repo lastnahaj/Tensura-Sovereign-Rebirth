@@ -10,8 +10,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/items/caster-tools.svg" alt="Illustrated caster tools" loading="eager" decoding="async">
-<figcaption>TSR artwork</figcaption>
+<img src="../../../assets/images/items/low-magic-staff.webp" alt="Original casting staff illustration" loading="eager" decoding="async">
+<figcaption>TSR illustration · casting staff example</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -32,8 +32,10 @@ tags:
 <h2><span id="What_are_Caster_Tools.3F"></span><span class="mw-headline" id="What_are_Caster_Tools?">What are Caster Tools?</span></h2>
 <p>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.
 </p>
+<p>For checked staff capacities, ingredients, schematic obtainment, and learning behavior, see the <a href="../../items/magic-staves/">casting-staff guide</a>. The following adapted explanation preserves the upstream reference; spell-specific cost multipliers and reset retention have not been verified for the live server.</p>
 <h2><span id="How_do_Caster_Tools_work.3F"></span><span class="mw-headline" id="How_do_Caster_Tools_work?">How do Caster Tools work?</span></h2>
-<p>Caster tools can have spells applied to them through the use of the <a href="../../resistances/spellbinding-table/" title="Spellbinding Table"> Spellbinding Table</a>. These magics can then be used from the tool, even if the user does not have that magic unlocked(with some exceptions listed below). Casting unlearnt magics will increase the spells magicule cost by 5x and its cast time by 2x. Magics applied to the tool will remain even after using a <a href="../../skills/other/skill-reset-scroll/" title="Skill Reset Scroll"> Skill Reset Scroll</a> or a <a href="../../items/character-reset-scroll/" title="Character Reset Scroll"> Character Reset Scroll</a>.
+<p>Caster tools store spells through the <a href="../../resistances/spellbinding-table/" title="Spellbinding Table">Spellbinding Table</a>. Eligible stored spells can be used without learning the spell, but the exclusions below still apply. Storing a spell does not teach it to your character. Reset-scroll and prestige retention have not been verified.</p>
+<p>In the checked configuration, an unlearned cast multiplies both Aura and Magicule cost inputs by 5.0 and the normal chant input by 2.0 before further modifiers. These are not guarantees of final resource cost or elapsed cast time; attributes, spell behavior, and the instant-cast path can change the result.
 </p>
 <h3><span class="mw-headline" id="Magics_that_require_learning_to_use">Magics that require learning to use</span></h3>
 <ul><li>All <a href="../../magic/abilities-magics/" title="Abilities/Magics"> Spiritual Magics</a></li>
@@ -41,6 +43,7 @@ tags:
 <li><a href="../../magic/summon-greater-elemental/" title="Summon Greater Elemental"> Summon Greater Elemental</a></li>
 <li><a href="../../magic/summon-otherworlder/" title="Summon Otherworlder"> Summon Otherworlder</a></li>
 <li><a href="../../magic/spatial-storage/" title="Spatial Storage"> Spatial Storage</a></li>
+<li><a href="../../magic/aspectual-possession/" title="Possession">Possession</a></li>
 <li><a href="../../core-mechanics/reincarnation/" title="Reincarnation"> Reincarnation</a></li></ul>
 
 
@@ -90,3 +93,5 @@ tags:
 ## Source and licensing
 
 Base Tensura reference adapted from [Caster Tools Tutorial](https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial) on the Tensura: Reincarnated Wiki (revision `12819`, modified `2026-05-07T07:49:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Casting costs and exclusions were checked against the [selected Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599), `SimpleSpellCastItem.getMagicInstance`, `Magic.getCastingTime`, `Magic.isOutOfEnergy`, `data/tensura/tags/manascore_skill/skills/unlearnt_cast_excluded.json`, and TSR's [magic configuration](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/config/tensura/ability/magic_config.toml). These are artifact and configuration checks, not live-server gameplay tests.

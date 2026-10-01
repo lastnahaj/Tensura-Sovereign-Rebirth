@@ -216,7 +216,7 @@ tags:
 Base Tensura reference adapted from [Items/Learnable](https://tensura.wiki.gg/wiki/Items/Learnable) on the Tensura: Reincarnated Wiki (revision `13341`, modified `2026-08-01T18:39:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (40 source files)</summary>
+<summary>Media credits (38 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Battlewill_Manual.png">Invicon Battlewill Manual.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6452</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Tome.png">Invicon Magic Tome.png</a> — CC BY-SA 4.0; uploaded by Just grinding; revision 13290</li>
@@ -247,7 +247,7 @@ Base Tensura reference adapted from [Items/Learnable](https://tensura.wiki.gg/wi
 <li><a href="https://tensura.wiki.gg/wiki/File:Knight_Spider_Carapace_Gear_Schematic.png">Knight Spider Carapace Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2546</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Armorsaurus_Scalemail_Gear_Schematic.png">Invicon Armorsaurus Scalemail Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12263</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Gear_Schematic.png">Invicon Charybdis Scalemail Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12055</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12056</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Gear_Schematic.png">Invicon High Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12057</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Gear_Schematic.png">Invicon Pure Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12058</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Gear_Schematic.png">Mithril Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2547</li>

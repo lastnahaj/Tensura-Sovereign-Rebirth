@@ -157,7 +157,7 @@ Allows Crafting of
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-low-magisteel-gear-schematic/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Low Magisteel Gear Schematic</strong>
 <small>Obtained by picking up a Low Magisteel Ingot</small>

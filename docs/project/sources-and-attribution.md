@@ -147,7 +147,9 @@ The consumable pass withdrew six inherited editor portraits and the Revival Elix
 
 The healing-potion, bottle, and crystal passes each replaced six inherited images with no verified reusable image license. Four Magic Stone and Ore Shard images, two Low Magic Staff images, and the shared Schematic image were subsequently replaced after the same permission check. Original illustrations are labeled separately from game textures.
 
-The file-level register now records **102 withdrawals** across abilities, blocks, and items. The [item evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/item_reference.json) distinguishes crafting, loot, absorption, filling, cooking, brewing, schematic learning and trading, item registration, survival acquisition, inherited names, and projectile-only evidence.
+Two Low Magisteel Gear Schematic images were replaced after File-page review. The WIP12 editorial portrait was omitted; caster-related links use the original staff illustration rather than an editor portrait. These File pages provide no verified reusable image license.
+
+The file-level register now records **105 withdrawals** across the reference library. The [item evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/item_reference.json) distinguishes crafting, loot, absorption, filling, cooking, brewing, schematic learning, advancement rewards and trading, item registration, survival acquisition, inherited names, and projectile-only evidence.
 
 The [reviewed evolution requirement register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/race_evolution_requirements.json) records individually checked progression gates. Metal Slime's ore-consumption requirement is tied to the selected artifact, item-use implementation, and race configuration; it is not a live-server or prestige-reset test.
 

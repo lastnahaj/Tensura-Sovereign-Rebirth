@@ -90,7 +90,7 @@ Allows the player to possess it and works as a physical body, can also be given 
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-low-magisteel-gear-schematic/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Low Magisteel Gear Schematic</strong>
 <small>Obtained by picking up a Low Magisteel Ingot</small>
@@ -120,7 +120,7 @@ Allows the player to possess it and works as a physical body, can also be given 
 Base Tensura reference adapted from [Low Magisteel Bone Golem](https://tensura.wiki.gg/wiki/Low_Magisteel_Bone_Golem) on the Tensura: Reincarnated Wiki (revision `12909`, modified `2026-05-25T08:38:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_magisteel_bone_golem.png">Low magisteel bone golem.png</a> — CC BY-SA 4.0; uploaded by Rip Gold; revision 11957</li>
 </ul>

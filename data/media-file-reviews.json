@@ -434,6 +434,15 @@
       "replacement_asset": "assets/images/items/low-magic-staff.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png",
+      "source_title": "Invicon Low Magisteel Gear Schematic.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/crafting-schematic.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png",
       "source_title": "Invicon Low Potion.png",
       "checked_on": "2026-09-30",
@@ -531,6 +540,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/low-magic-staff.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png",
+      "source_title": "Low Magisteel Gear Schematic.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/crafting-schematic.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Low_Potion.png",
@@ -900,6 +918,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/wind-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:WIP12.png",
+      "source_title": "WIP12.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The work-in-progress portrait is editorial material, not an item or effect illustration.",
+      "replacement_action": "omitted-non-content"
     },
     {
       "file_page": "https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png",

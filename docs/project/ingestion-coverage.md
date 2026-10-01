@@ -22,9 +22,9 @@
 |---|---:|
 | Images discovered | 1737 |
 | Distinct File records resolved | 1733 |
-| Images retained from the import | 1530 |
+| Images retained from the import | 1527 |
 | Imported image placements | 1333 |
-| Images withdrawn after file-level review | 100 |
+| Images withdrawn after file-level review | 103 |
 | Images failed | 103 |
 
 The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill icons, and the Reincarnation icon and replaced them with original TSR illustrations. The resistance review includes Magic Resistance and the command-only Magic Nullification reference. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
@@ -42,6 +42,8 @@ The Magic Stone and Ore Shard review withdrew four inventory and article images 
 The Low Magic Staff review withdrew its article image and inventory icon after File-page permission checks. An original illustration replaces them. The staff reference and comparison guide document cumulative schematic unlocks, all three tiers' base capacities, Magic Capacity modifiers, cooldowns, and durability from the selected artifact.
 
 The shared Schematic image was withdrawn after its File page provided no verified reusable image license. An original crafting-document illustration replaces its retained placements. The Magic Staff Schematic reference now appears under Items and documents the Master Magic Trainer trade, the checked-in price multiplier, and one-copy learning behavior without claiming live-server trade or prestige tests.
+
+The Low Magisteel Gear Schematic article image and inventory icon were subsequently replaced after the same File-page review. The Low, High, and Pure Magisteel Gear references document the matching inventory advancements, blueprint rewards, and separate learning step. The WIP12 editorial portrait was also withdrawn: caster-related thumbnails use the original staff illustration, while its remaining imported maintenance banner was omitted.
 
 ## Link conversion
 

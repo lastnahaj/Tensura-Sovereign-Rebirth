@@ -91,8 +91,8 @@
 </article>
 <article class="reference-card" data-letter="C" data-search="caster tools tutorial caster tools include grimoires and staffs, storing spells and enabling their use through the tool.">
 <a href="caster-tools-tutorial/" aria-label="Open Caster Tools Tutorial">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/images/items/caster-tools.svg" alt="" loading="lazy" decoding="async">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/low-magic-staff.webp" alt="Original casting staff illustration" loading="lazy" decoding="async">
 <figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">

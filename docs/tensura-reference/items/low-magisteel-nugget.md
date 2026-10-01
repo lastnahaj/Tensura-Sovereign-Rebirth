@@ -122,7 +122,7 @@ Each Low Magisteel Nugget is made with 1 part Molten Magisteel and 8 parts Molte
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-low-magisteel-gear-schematic/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Low Magisteel Gear Schematic</strong>
 <small>Obtained by picking up a Low Magisteel Ingot</small>
@@ -145,7 +145,7 @@ Each Low Magisteel Nugget is made with 1 part Molten Magisteel and 8 parts Molte
 Base Tensura reference adapted from [Low Magisteel Nugget](https://tensura.wiki.gg/wiki/Low_Magisteel_Nugget) on the Tensura: Reincarnated Wiki (revision `9235`, modified `2025-04-14T10:47:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Nugget.png">Invicon Low Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6599</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Nugget.png">Low Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7116</li>

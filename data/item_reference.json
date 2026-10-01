@@ -16,6 +16,77 @@
   ],
   "pages": [
     {
+      "local_page": "tensura-reference/items/items-schematics-low-magisteel-gear-schematic.md",
+      "display_title": "Low Magisteel Gear Schematic",
+      "category": "items",
+      "asset": "assets/images/items/crafting-schematic.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:low_magisteel_gear_schematic",
+      "summary": "Receive the blueprint through the Low Magisteel inventory advancement, then use it to learn the crafting unlock. Receiving and learning are separate steps.",
+      "status": "Advancement reward and learning verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "Getting an ingot rewards the schematic through an advancement; it does not directly teach every recipe. Use the rewarded schematic to learn it before smithing.",
+      "obtainment": "Obtain a [Low Magisteel Ingot](low-magisteel-ingot.md). The tensura:low_magisteel advancement uses an inventory_changed criterion matching that item and calls the low_magisteel advancement-reward loot table, which contains this schematic. The documented supply is an advancement reward, not a repeatable reward for every ingot pickup. Replacement copies after loss, advancement resets, or prestige have not been verified.",
+      "use": "Hold the rewarded schematic and use it. SmithingSchematicItem.use records the unlock and consumes one copy only if this schematic is not already learned. Carrying an unused blueprint is not sufficient for the Smithing Bench's learned-schematic check.",
+      "effects": "This registered schematic is Uncommon and stacks to 16. It is required for the [Magic Stone](../magic/magic-stone.md) recipe and [Magic Crystal downgrades](magic-crystals.md). A [Low Magic Staff](../magic/low-magic-staff.md) also requires the separate Magic Staff Schematic. Recipes can demand multiple learned schematics; this item does not unlock every Low Magisteel recipe on its own. Live-server overrides and prestige retention remain untested.",
+      "evidence_paths": [
+        "data/tensura/advancement/low_magisteel.json",
+        "data/tensura/loot_table/advancement_reward/low_magisteel.json",
+        "io/github/manasmods/tensura/registry/item/TensuraSmithingSchematicItems.class",
+        "io/github/manasmods/tensura/item/misc/SmithingSchematicItem.class",
+        "io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/items/items-schematics-high-magisteel-gear-schematic.md",
+      "display_title": "High Magisteel Gear Schematic",
+      "category": "items",
+      "asset": "assets/images/items/crafting-schematic.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:high_magisteel_gear_schematic",
+      "summary": "Receive the blueprint through the High Magisteel inventory advancement, then use it to learn the crafting unlock. It supplies the material-tier requirement for a Medium Magic Staff.",
+      "status": "Advancement reward and learning verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "Receiving the advancement reward and learning the schematic are separate steps. Medium Magic Staff crafting also requires the Magic Staff Schematic.",
+      "obtainment": "Obtain a [High Magisteel Ingot](high-magisteel-ingot.md). The tensura:high_magisteel advancement checks for that item on inventory_changed and supplies its advancement-reward loot table, which contains this schematic. This is an advancement reward, not a repeatable drop from every ingot pickup. Replacement copies and reset interactions are unverified.",
+      "use": "Use the rewarded blueprint to learn it. The shared SmithingSchematicItem implementation consumes one copy only when unlocking an unknown schematic. Already learned copies are not consumed by that method. Check the recipe browser for the full set of learned requirements.",
+      "effects": "The registered item is Uncommon and stacks to 16. The [Medium Magic Staff recipe](magic-staves.md) requires this High Magisteel Gear Schematic plus the Magic Staff Schematic: one Magic Stone, two High Magisteel Ingots, and three Sticks. Do not substitute the Low or Pure material-tier schematic. Server overrides and prestige retention have not been tested.",
+      "evidence_paths": [
+        "data/tensura/advancement/high_magisteel.json",
+        "data/tensura/loot_table/advancement_reward/high_magisteel.json",
+        "data/tensura/recipe/smithing/medium_magic_staff.json",
+        "io/github/manasmods/tensura/registry/item/TensuraSmithingSchematicItems.class",
+        "io/github/manasmods/tensura/item/misc/SmithingSchematicItem.class",
+        "io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/items/items-schematics-pure-magisteel-gear-schematic.md",
+      "display_title": "Pure Magisteel Gear Schematic",
+      "category": "items",
+      "asset": "assets/images/items/crafting-schematic.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:pure_magisteel_gear_schematic",
+      "summary": "Receive the blueprint through the Pure Magisteel inventory advancement, then use it to learn the crafting unlock. It supplies the material-tier requirement for a High Magic Staff.",
+      "status": "Advancement reward and learning verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "Receiving the advancement reward does not replace learning the schematic. High Magic Staff crafting requires this blueprint's unlock and the separate Magic Staff Schematic.",
+      "obtainment": "Obtain a [Pure Magisteel Ingot](pure-magisteel-ingot.md). The tensura:pure_magisteel advancement checks for that item on inventory_changed and calls its advancement-reward loot table, which contains this schematic. The route is an advancement reward, not a repeatable reward for every ingot pickup. Replacement copies after loss or resets are unverified.",
+      "use": "Hold and use the rewarded schematic. The shared item method records its unlock and consumes one copy only if it is not already learned. A blueprint left unused in your inventory does not satisfy the learned-schematic gate.",
+      "effects": "The registered schematic is Uncommon and stacks to 16. The [High Magic Staff recipe](magic-staves.md) requires this Pure Magisteel Gear Schematic plus the Magic Staff Schematic: one Magic Stone, two Pure Magisteel Ingots, and three Sticks. Do not confuse High staff tier with High Magisteel material tier. Live-server recipe overrides and prestige retention remain untested.",
+      "evidence_paths": [
+        "data/tensura/advancement/pure_magisteel.json",
+        "data/tensura/loot_table/advancement_reward/pure_magisteel.json",
+        "data/tensura/recipe/smithing/high_magic_staff.json",
+        "io/github/manasmods/tensura/registry/item/TensuraSmithingSchematicItems.class",
+        "io/github/manasmods/tensura/item/misc/SmithingSchematicItem.class",
+        "io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class"
+      ]
+    },
+    {
       "local_page": "tensura-reference/magic/magic-staff-schematic.md",
       "display_title": "Magic Staff Schematic",
       "category": "items",

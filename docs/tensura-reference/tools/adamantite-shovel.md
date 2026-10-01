@@ -135,7 +135,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </span>
 </a>
 <a class="reference-related-card" href="../caster-tools-tutorial/">
-<img src="../../../assets/upstream/tensura/weapons/wip12-9b79032338.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/low-magic-staff.webp" alt="Casting staff illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Caster Tools Tutorial</strong>
 <small>Caster Tools include grimoires and staffs, storing spells and enabling their use through the tool.</small>

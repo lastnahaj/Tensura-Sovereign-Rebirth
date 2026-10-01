@@ -148,6 +148,14 @@ assert all(text in schematic_article for text in ('level-five (Master)', 'ten Go
 entity_config = tomllib.loads((ROOT / 'pack/config/tensura/entity/entity_config.toml').read_text(encoding='utf-8'))
 assert entity_config['Dwarf']['magicTrainerPriceMultiplier'] == 1.0, 'Recorded Magic Trainer price multiplier is stale'
 assert 'Learn the schematics' in staff_guide.get_text() and 'carrying the item alone' in staff_guide.get_text(), 'Staff learning guidance missing'
+for material in ('low_magisteel', 'high_magisteel', 'pure_magisteel'):
+    entry = next(entry for entry in curated_items['pages'] if entry.get('registry_id') == f'tensura:{material}_gear_schematic')
+    article = (ROOT / 'docs' / entry['local_page']).read_text(encoding='utf-8')
+    assert all(text in article for text in ('inventory_changed', 'advancement reward', 'use', '16')), 'Material schematic reward or learning guidance missing'
+    assert f'data/tensura/advancement/{material}.json' in entry['evidence_paths'] and f'data/tensura/loot_table/advancement_reward/{material}.json' in entry['evidence_paths'], 'Advancement reward evidence missing'
+assert 'matching ingot inventory advancements' in staff_guide.get_text(), 'Material schematic route missing from staff guide'
+insanity = (ROOT / 'docs/tensura-reference/core-mechanics/effects-insanity.md').read_text(encoding='utf-8')
+assert 'Work In Progress' not in insanity and 'href="#Causes"' not in insanity, 'Editorial banner or nonexistent cause link remains'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

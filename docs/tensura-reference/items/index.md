@@ -1203,7 +1203,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="high magisteel gear schematic obtained by picking up a high magisteel ingot">
+<article class="reference-card" data-letter="H" data-search="high magisteel gear schematic receive the blueprint through the high magisteel inventory advancement, then use it to learn the crafting unlock. it supplies the material-tier requirement for a medium…">
 <a href="items-schematics-high-magisteel-gear-schematic/" aria-label="Open High Magisteel Gear Schematic">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
@@ -1212,7 +1212,8 @@
 <div class="reference-card-copy">
 <h2>High Magisteel Gear Schematic</h2>
 
-<p>Obtained by picking up a High Magisteel Ingot</p>
+<small class="skill-reference-status">Advancement reward and learning verified</small>
+<p>Receive the blueprint through the High Magisteel inventory advancement, then use it to learn the crafting unlock. It supplies the material-tier requirement for a Medium…</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1611,16 +1612,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="low magisteel gear schematic obtained by picking up a low magisteel ingot">
+<article class="reference-card" data-letter="L" data-search="low magisteel gear schematic receive the blueprint through the low magisteel inventory advancement, then use it to learn the crafting unlock. receiving and learning are separate steps.">
 <a href="items-schematics-low-magisteel-gear-schematic/" aria-label="Open Low Magisteel Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-low-magisteel-gear-schematic-ae49a08f03.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Low Magisteel Gear Schematic</h2>
 
-<p>Obtained by picking up a Low Magisteel Ingot</p>
+<small class="skill-reference-status">Advancement reward and learning verified</small>
+<p>Receive the blueprint through the Low Magisteel inventory advancement, then use it to learn the crafting unlock. Receiving and learning are separate steps.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -2399,7 +2401,7 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="P" data-search="pure magisteel gear schematic obtained by picking up a pure magisteel ingot">
+<article class="reference-card" data-letter="P" data-search="pure magisteel gear schematic receive the blueprint through the pure magisteel inventory advancement, then use it to learn the crafting unlock. it supplies the material-tier requirement for a high…">
 <a href="items-schematics-pure-magisteel-gear-schematic/" aria-label="Open Pure Magisteel Gear Schematic">
 <figure class="reference-card-media reference-card-media--theme">
 <img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
@@ -2408,7 +2410,8 @@
 <div class="reference-card-copy">
 <h2>Pure Magisteel Gear Schematic</h2>
 
-<p>Obtained by picking up a Pure Magisteel Ingot</p>
+<small class="skill-reference-status">Advancement reward and learning verified</small>
+<p>Receive the blueprint through the Pure Magisteel inventory advancement, then use it to learn the crafting unlock. It supplies the material-tier requirement for a High…</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

@@ -14,8 +14,18 @@
     "summary": "Master-level Dwarf Cartographers can offer maps to Hell Gates for 5–15 Gold Coins or Charybdis Caves for 5–25 Gold Coins."
   },
   "tensura-reference/tools/caster-tools-tutorial.md": {
-    "asset": "assets/images/items/caster-tools.svg",
-    "kind": "original"
+    "asset": "assets/images/items/low-magic-staff.webp",
+    "kind": "original",
+    "credit": "Casting staff illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "14a19d8b049d6184af9edf1654ba2f0777b1f7a875225381b0ecae0df5a0451e",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Caster_Tools_Tutorial",
+      "file_page": "https://tensura.wiki.gg/wiki/File:WIP12.png",
+      "result": "No file-specific reusable image license was verified. The work-in-progress portrait is editorial material, not an item or effect illustration."
+    }
   },
   "tensura-reference/mobs/mobs-arch-daemon.md": "assets/images/mobs/arch-daemon.webp",
   "tensura-reference/mobs/mobs-army-wasp.md": {
@@ -831,6 +841,20 @@
       "date": "2026-09-30",
       "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Winged_Shoes_Schematic",
       "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-low-magisteel-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   }

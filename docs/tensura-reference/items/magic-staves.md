@@ -41,6 +41,8 @@ Use a schematic to learn it; carrying the item alone does not unlock smithing. L
 
 The [Magic Staff Schematic](../magic/magic-staff-schematic.md) appears in level-five Magic Trainer dwarf trades for a base cost of ten Gold Coins with TSR’s checked-in price multiplier of 1.0. The final trade price and the merchant’s selected offers can differ; check the in-game trading screen. Material-tier schematics remain separate requirements.
 
+The [Low](items-schematics-low-magisteel-gear-schematic.md), [High](items-schematics-high-magisteel-gear-schematic.md), and [Pure](items-schematics-pure-magisteel-gear-schematic.md) Magisteel Gear schematics are rewards from the matching ingot inventory advancements. Receive the reward, then use the blueprint to learn it. The advancement reward is not granted anew for every ingot pickup; replacement copies and reset interactions remain unverified.
+
 ## Prepare the staff
 
 Use the [Spellbinding Table](../resistances/spellbinding-table.md) to bind compatible spells. An empty stored spell list causes the staff’s use method to fail. The [Low Staff reference](../magic/low-magic-staff.md) gives the starter recipe and implementation evidence.
@@ -68,5 +70,11 @@ Implementation: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/m
     - `data/tensura/recipe/smithing/low_magic_staff.json`
     - `data/tensura/recipe/smithing/medium_magic_staff.json`
     - `data/tensura/recipe/smithing/high_magic_staff.json`
+    - `data/tensura/advancement/low_magisteel.json`
+    - `data/tensura/loot_table/advancement_reward/low_magisteel.json`
+    - `data/tensura/advancement/high_magisteel.json`
+    - `data/tensura/loot_table/advancement_reward/high_magisteel.json`
+    - `data/tensura/advancement/pure_magisteel.json`
+    - `data/tensura/loot_table/advancement_reward/pure_magisteel.json`
 
 [Return to Items](index.md)
