@@ -97,7 +97,7 @@ Allows the player to possess it and works as a physical body, can also be given 
 </span>
 </a>
 <a class="reference-related-card" href="../grimoire-special-a/">
-<img src="../../../assets/upstream/tensura/items/invicon-grimoire-special-a-ae8fdc5896.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/grimoire.webp" alt="Grimoire illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Grimoire(Special A)</strong>
 <small>A high level grimoire for casting magic.</small>

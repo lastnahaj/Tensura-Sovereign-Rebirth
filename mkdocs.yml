@@ -102,6 +102,8 @@ nav:
       - "Race & Evolution Guide": race-and-evolution.md
   - Items:
       - "Items & Materials": tensura-reference/items/index.md
+      - "Grimoire Tiers": tensura-reference/items/grimoires.md
+      - "Magic Staves": tensura-reference/items/magic-staves.md
       - "Weapons": tensura-reference/weapons/index.md
       - "Armor": tensura-reference/armor/index.md
       - "Tools": tensura-reference/tools/index.md

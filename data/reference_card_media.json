@@ -894,5 +894,75 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_tome.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/items/grimoire-d.md": {
+    "asset": "assets/images/items/grimoire.webp",
+    "kind": "original",
+    "credit": "TSR grimoire illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d62da5b553ad4dc38d07c2341cbd970f3e70ab8d8393dc6ee1d6a4fc6f41b268",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Grimoire(D)",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(D).png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/grimoire-c.md": {
+    "asset": "assets/images/items/grimoire.webp",
+    "kind": "original",
+    "credit": "TSR grimoire illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d62da5b553ad4dc38d07c2341cbd970f3e70ab8d8393dc6ee1d6a4fc6f41b268",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Grimoire(C)",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(C).png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/grimoire-b.md": {
+    "asset": "assets/images/items/grimoire.webp",
+    "kind": "original",
+    "credit": "TSR grimoire illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d62da5b553ad4dc38d07c2341cbd970f3e70ab8d8393dc6ee1d6a4fc6f41b268",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Grimoire(B)",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(B).png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/grimoire-a.md": {
+    "asset": "assets/images/items/grimoire.webp",
+    "kind": "original",
+    "credit": "TSR grimoire illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d62da5b553ad4dc38d07c2341cbd970f3e70ab8d8393dc6ee1d6a4fc6f41b268",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Grimoire(A)",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(A).png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/grimoire-special-a.md": {
+    "asset": "assets/images/items/grimoire.webp",
+    "kind": "original",
+    "credit": "TSR grimoire illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d62da5b553ad4dc38d07c2341cbd970f3e70ab8d8393dc6ee1d6a4fc6f41b268",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Grimoire(Special_A)",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(Special_A).png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

@@ -407,6 +407,51 @@
       "replacement_asset": "assets/images/items/full-potion.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(A).png",
+      "source_title": "Invicon Grimoire(A).png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/grimoire.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(B).png",
+      "source_title": "Invicon Grimoire(B).png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/grimoire.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(C).png",
+      "source_title": "Invicon Grimoire(C).png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/grimoire.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(D).png",
+      "source_title": "Invicon Grimoire(D).png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/grimoire.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(Special_A).png",
+      "source_title": "Invicon Grimoire(Special A).png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/grimoire.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png",
       "source_title": "Invicon High Potion.png",
       "checked_on": "2026-09-30",

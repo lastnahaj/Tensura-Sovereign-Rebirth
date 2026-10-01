@@ -9,6 +9,24 @@
     "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
     "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml"
   },
+  "grimoire_tiers": [
+    {"tier":"D","slug":"grimoire-d","registry_id":"tensura:grimoire_d","base_slots":3,"cooldown_ticks":40,"durability":100,"chant_bonus":0,"rarity":"Common","min_ep":1000,"max_ep":2500,"ep_gain":0.0025,"next_slug":"grimoire-c","next_tier":"C"},
+    {"tier":"C","slug":"grimoire-c","registry_id":"tensura:grimoire_c","base_slots":4,"cooldown_ticks":30,"durability":200,"chant_bonus":0.05,"rarity":"Uncommon","min_ep":2500,"max_ep":5000,"ep_gain":0.005,"next_slug":"grimoire-b","next_tier":"B"},
+    {"tier":"B","slug":"grimoire-b","registry_id":"tensura:grimoire_b","base_slots":5,"cooldown_ticks":20,"durability":300,"chant_bonus":0.1,"rarity":"Uncommon","min_ep":5000,"max_ep":8000,"ep_gain":0.01,"next_slug":"grimoire-a","next_tier":"A"},
+    {"tier":"A","slug":"grimoire-a","registry_id":"tensura:grimoire_a","base_slots":6,"cooldown_ticks":15,"durability":400,"chant_bonus":0.15,"rarity":"Rare","min_ep":8000,"max_ep":80000,"ep_gain":0.015,"next_slug":"grimoire-special-a","next_tier":"Special A"},
+    {"tier":"Special A","slug":"grimoire-special-a","registry_id":"tensura:grimoire_special_a","base_slots":7,"cooldown_ticks":10,"durability":500,"chant_bonus":0.2,"rarity":"Rare","min_ep":80000,"max_ep":2000000,"max_ep_from_codec_default":true,"ep_gain":0.025,"next_slug":null,"next_tier":null}
+  ],
+  "grimoire_verification": {
+    "wizard_tower_loot": ["buried", "burnt", "frozen", "rotted", "ruined"],
+    "ordinary_crafting_recipe_verified": false,
+    "special_a_direct_chest_drop_verified": false,
+    "live_gameplay_verified": false,
+    "addon_thresholds_verified": false,
+    "gear_evolution_pack_manifest": "pack/mods/tensura-gear-evolution.pw.toml",
+    "gear_evolution_sha1": "e176fb3cc6821570f667e47f63e2ba0cffe81c57",
+    "gear_evolution_config": "pack/config/gearevolution-common.toml",
+    "base_chain": "D → C at 2,500 EP → B at 5,000 EP → A at 8,000 EP → Special A at 80,000 EP"
+  },
   "staff_tiers": [
     {"tier": "Low", "registry_id": "tensura:low_magic_staff", "base_slots": 3, "cooldown_ticks": 20, "durability": 100, "chant_bonus": 0.05, "ingot": "Low Magisteel", "ingot_page": "low-magisteel-ingot.md", "schematic": "Low Magisteel Gear", "schematic_page": "items-schematics-low-magisteel-gear-schematic.md", "recipe": "data/tensura/recipe/smithing/low_magic_staff.json"},
     {"tier": "Medium", "registry_id": "tensura:medium_magic_staff", "base_slots": 4, "cooldown_ticks": 10, "durability": 300, "chant_bonus": 0.1, "ingot": "High Magisteel", "ingot_page": "high-magisteel-ingot.md", "schematic": "High Magisteel Gear", "schematic_page": "items-schematics-high-magisteel-gear-schematic.md", "recipe": "data/tensura/recipe/smithing/medium_magic_staff.json"},

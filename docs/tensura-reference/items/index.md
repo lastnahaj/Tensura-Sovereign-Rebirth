@@ -8,6 +8,7 @@
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>202</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
+<a class="reference-directory-overview-link" href="grimoires/">Compare grimoires →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
 <a class="reference-directory-overview-link" href="magic-staves/">Compare casting staves →</a>
 </div>
@@ -1098,76 +1099,81 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire(a) a semi-high level grimoire for casting magic.">
-<a href="grimoire-a/" aria-label="Open Grimoire(A)">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-grimoire-a-6325a24d77.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<article class="reference-card" data-letter="G" data-search="grimoire a a 6-slot caster book with a 15-tick base item cooldown. compare its loot route, spell controls, and base gear progression.">
+<a href="grimoire-a/" aria-label="Open Grimoire A">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/grimoire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Grimoire(A)</h2>
+<h2>Grimoire A</h2>
 
-<p>A semi-high level grimoire for casting magic.</p>
+<small class="skill-reference-status">Wizard Tower chest loot checked</small>
+<p>A 6-slot caster book with a 15-tick base item cooldown. Compare its loot route, spell controls, and base gear progression.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire(b) a mid level grimoire for casting magic.">
-<a href="grimoire-b/" aria-label="Open Grimoire(B)">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-grimoire-b-eee891cbe3.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<article class="reference-card" data-letter="G" data-search="grimoire b a 5-slot caster book with a 20-tick base item cooldown. compare its loot route, spell controls, and base gear progression.">
+<a href="grimoire-b/" aria-label="Open Grimoire B">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/grimoire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Grimoire(B)</h2>
+<h2>Grimoire B</h2>
 
-<p>A mid level grimoire for casting magic.</p>
+<small class="skill-reference-status">Wizard Tower chest loot checked</small>
+<p>A 5-slot caster book with a 20-tick base item cooldown. Compare its loot route, spell controls, and base gear progression.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire(c) a low level grimoire for casting magic.">
-<a href="grimoire-c/" aria-label="Open Grimoire(C)">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-grimoire-c-69d4b4d853.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<article class="reference-card" data-letter="G" data-search="grimoire c a 4-slot caster book with a 30-tick base item cooldown. compare its loot route, spell controls, and base gear progression.">
+<a href="grimoire-c/" aria-label="Open Grimoire C">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/grimoire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Grimoire(C)</h2>
+<h2>Grimoire C</h2>
 
-<p>A low level grimoire for casting magic.</p>
+<small class="skill-reference-status">Wizard Tower chest loot checked</small>
+<p>A 4-slot caster book with a 30-tick base item cooldown. Compare its loot route, spell controls, and base gear progression.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire(d) a low level grimoire for casting magic.">
-<a href="grimoire-d/" aria-label="Open Grimoire(D)">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-grimoire-d-22b9aee8f4.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<article class="reference-card" data-letter="G" data-search="grimoire d a 3-slot caster book with a 40-tick base item cooldown. compare its loot route, spell controls, and base gear progression.">
+<a href="grimoire-d/" aria-label="Open Grimoire D">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/grimoire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Grimoire(D)</h2>
+<h2>Grimoire D</h2>
 
-<p>A low level grimoire for casting magic.</p>
+<small class="skill-reference-status">Wizard Tower chest loot checked</small>
+<p>A 3-slot caster book with a 40-tick base item cooldown. Compare its loot route, spell controls, and base gear progression.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="G" data-search="grimoire(special a) a high level grimoire for casting magic.">
-<a href="grimoire-special-a/" aria-label="Open Grimoire(Special A)">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-grimoire-special-a-ae8fdc5896.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<article class="reference-card" data-letter="G" data-search="grimoire special a a 7-slot caster book with a 10-tick base item cooldown. compare its loot route, spell controls, and base gear progression.">
+<a href="grimoire-special-a/" aria-label="Open Grimoire Special A">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/grimoire.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
-<h2>Grimoire(Special A)</h2>
+<h2>Grimoire Special A</h2>
 
-<p>A high level grimoire for casting magic.</p>
+<small class="skill-reference-status">Base evolution route checked</small>
+<p>A 7-slot caster book with a 10-tick base item cooldown. Compare its loot route, spell controls, and base gear progression.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

@@ -11,7 +11,10 @@ ROOT = Path(__file__).resolve().parents[2]
 
 
 def manifest():
-    return json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))
+    data = json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))
+    from grimoire_reference import entries
+    data['pages'].extend(entries(data))
+    return data
 
 
 def apply(records):
@@ -61,7 +64,8 @@ def generate():
                           f'<div class="druid-title">{title}</div>',
                           f'<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">{page["registry_id"]}</div></div>',
                           f'<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura {build["version"]} · Minecraft {build["minecraft"]}</div></div>',
-                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + (html.escape(page['status']) if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>', '</aside></div></div>', '',
+                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + (html.escape(page['status']) if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>',
+                          *[f'<div class="druid-row"><div class="druid-label">{html.escape(label)}</div><div class="druid-data">{html.escape(str(value))}</div></div>' for label, value in page.get('stats', {}).items()], '</aside></div></div>', '',
                           '## Availability', '', page['obtainment'], '', '## How to use', '', page['use'], '', '## Behavior and limits', '', page['effects'], ''])
             if page.get('related_guide'):
                 related = posixpath.relpath('tensura-reference/items/' + page['related_guide'], posixpath.dirname(page['local_page']))
@@ -90,6 +94,8 @@ def generate():
     output['tensura-reference/items/magic-crystals.md'] = generate_crystal_guide(data)
     from staff_guide import generate as generate_staff_guide
     output['tensura-reference/items/magic-staves.md'] = generate_staff_guide(data)
+    from grimoire_reference import generate as generate_grimoire_guide
+    output['tensura-reference/items/grimoires.md'] = generate_grimoire_guide(data)
     from caster_guide import generate as generate_caster_guide
     magic_data = json.loads((ROOT / 'data/magic_reference.json').read_text(encoding='utf-8'))
     output['tensura-reference/tools/caster-tools-tutorial.md'] = generate_caster_guide(magic_data)

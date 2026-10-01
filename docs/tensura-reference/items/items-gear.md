@@ -486,7 +486,7 @@ tags: []
 Base Tensura reference adapted from [Items/Gear](https://tensura.wiki.gg/wiki/Items/Gear) on the Tensura: Reincarnated Wiki (revision `13198`, modified `2026-06-25T16:37:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (223 source files)</summary>
+<summary>Media credits (218 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sword.png">Invicon Low Magisteel Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6607</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Short_Sword.png">Invicon Low Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6603</li>
@@ -706,11 +706,6 @@ Base Tensura reference adapted from [Items/Gear](https://tensura.wiki.gg/wiki/It
 
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Magic_Staff.png">Invicon Medium Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12801</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magic_Staff.png">Invicon High Magic Staff.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12802</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(D).png">Invicon Grimoire(D).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12803</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(C).png">Invicon Grimoire(C).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12804</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(B).png">Invicon Grimoire(B).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12805</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(A).png">Invicon Grimoire(A).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12806</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Grimoire(Special_A).png">Invicon Grimoire(Special A).png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12807</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orb_of_Domination.png">Invicon Orb of Domination.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10138</li>
 </ul>
 </details>

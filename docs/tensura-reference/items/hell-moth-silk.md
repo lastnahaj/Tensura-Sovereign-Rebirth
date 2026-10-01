@@ -87,7 +87,7 @@ A soft silk spun by a <a href="../../mobs/mobs-hell-moth/" title="Mobs/Hell Moth
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../grimoire-special-a/">
-<img src="../../../assets/upstream/tensura/items/invicon-grimoire-special-a-ae8fdc5896.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/grimoire.webp" alt="Grimoire illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Grimoire(Special A)</strong>
 <small>A high level grimoire for casting magic.</small>
@@ -101,7 +101,7 @@ A soft silk spun by a <a href="../../mobs/mobs-hell-moth/" title="Mobs/Hell Moth
 </span>
 </a>
 <a class="reference-related-card" href="../grimoire-d/">
-<img src="../../../assets/upstream/tensura/items/invicon-grimoire-d-22b9aee8f4.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/grimoire.webp" alt="Grimoire illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Grimoire(D)</strong>
 <small>A low level grimoire for casting magic.</small>

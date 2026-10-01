@@ -73,6 +73,20 @@ non_items = {'Items', 'Armours', 'Consumables', 'Gear', 'Learnable', 'Misc', 'Mo
 assert item_titles.isdisjoint(non_items), 'A collection page or debug entry is still rendered as an item card'
 from sync_item_reference import manifest as item_manifest, generate as generate_item_references
 curated_items = item_manifest()
+grimoire_tiers = curated_items['grimoire_tiers']
+assert [(tier['base_slots'], tier['cooldown_ticks'], tier['durability']) for tier in grimoire_tiers] == [(3,40,100),(4,30,200),(5,20,300),(6,15,400),(7,10,500)], 'Grimoire constructor values changed'
+assert [tier['rarity'] for tier in grimoire_tiers] == ['Common','Uncommon','Uncommon','Rare','Rare'], 'Grimoire rarity mismatch'
+assert [tier['max_ep'] for tier in grimoire_tiers] == [2500,5000,8000,80000,2000000], 'Base grimoire evolution thresholds or terminal codec default changed'
+for tier in grimoire_tiers:
+    article = (ROOT / 'docs/tensura-reference/items' / (tier['slug'] + '.md')).read_text(encoding='utf-8')
+    assert f'Grimoire {tier["tier"]}' in item_titles, 'Grimoire missing from Items'
+    assert all(fact in article for fact in ('Magic Capacity', 'not a percentage', 'EP_DURABILITY', 'Gear Evolution', 'grimoire.webp')), 'Grimoire casting or scope limits missing'
+    assert all('id="' + anchor + '"' in article for anchor in ('Description','Usage','Obtainment')), 'Legacy grimoire fragments lost'
+grimoire_guide = BeautifulSoup((site / 'tensura-reference/items/grimoires/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(grimoire_guide.select('.staff-tier-card')) == 5 and len(grimoire_guide.select('.staff-tier-card details')) == 5, 'Grimoire tier comparison incomplete'
+assert '80,000' in grimoire_guide.get_text() and 'not a live-server guarantee' in grimoire_guide.get_text() and 'Stagnation' in grimoire_guide.get_text(), 'Grimoire base-chain limits missing'
+assert '2,000,000' in grimoire_guide.get_text() and 'codec' in grimoire_guide.get_text(), 'Terminal grimoire codec default omitted'
+assert [card.select_one('h2 a')['href'] for card in grimoire_guide.select('.staff-tier-card')] == ['../' + tier['slug'] + '/' for tier in grimoire_tiers], 'Grimoire card routes mismatch'
 item_build = curated_items['reference_build']
 item_selection = (ROOT / item_build['pack_manifest']).read_text(encoding='utf-8')
 assert item_build['minecraft'] == '1.21.1' and item_build['sha1'] in item_selection and 'file-id = 8665599' in item_selection, 'Curated item build selection changed'

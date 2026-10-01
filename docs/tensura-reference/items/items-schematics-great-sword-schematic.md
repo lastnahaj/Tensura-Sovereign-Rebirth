@@ -161,7 +161,7 @@ Allows Crafting of
 </span>
 </a>
 <a class="reference-related-card" href="../grimoire-a/">
-<img src="../../../assets/upstream/tensura/items/invicon-grimoire-a-6325a24d77.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/grimoire.webp" alt="Grimoire illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Grimoire(A)</strong>
 <small>A semi-high level grimoire for casting magic.</small>
