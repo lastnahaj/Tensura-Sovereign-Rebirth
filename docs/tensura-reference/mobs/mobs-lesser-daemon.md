@@ -113,11 +113,11 @@ Awww its a small adorable goat...
 Base Tensura reference adapted from [Mobs/Lesser Daemon](https://tensura.wiki.gg/wiki/Mobs/Lesser_Daemon) on the Tensura: Reincarnated Wiki (revision `12781`, modified `2026-05-06T10:26:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Lesser_Daemon.gif">Lesser Daemon.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12653</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP4.png">WIP4.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4721</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

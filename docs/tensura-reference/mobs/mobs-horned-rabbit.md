@@ -95,10 +95,10 @@ tags: []
 Base Tensura reference adapted from [Mobs/Horned Rabbit](https://tensura.wiki.gg/wiki/Mobs/Horned_Rabbit) on the Tensura: Reincarnated Wiki (revision `11834`, modified `2026-04-10T23:57:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Beast_Horn.png">Invicon Beast Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6453</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

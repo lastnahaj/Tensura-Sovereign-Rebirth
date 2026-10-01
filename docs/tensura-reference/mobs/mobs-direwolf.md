@@ -179,11 +179,11 @@ If failed, the baby will have random elemental. <br/>
 Base Tensura reference adapted from [Mobs/Direwolf](https://tensura.wiki.gg/wiki/Mobs/Direwolf) on the Tensura: Reincarnated Wiki (revision `12603`, modified `2026-04-27T09:22:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (17 source files)</summary>
+<summary>Media credits (16 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Direwolf.gif">Direwolf.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2666</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Redfang.png">Redfang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10029</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Greenfang.png">Greenfang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10030</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Bluefang.png">Bluefang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10031</li>

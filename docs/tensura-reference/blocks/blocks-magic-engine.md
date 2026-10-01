@@ -192,7 +192,7 @@ Mobs also will not target enemies if they are in an area that has under 10 magic
 Base Tensura reference adapted from [Blocks/Magic engine](https://tensura.wiki.gg/wiki/Blocks/Magic_engine) on the Tensura: Reincarnated Wiki (revision `13328`, modified `2026-07-28T07:03:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (43 source files)</summary>
+<summary>Media credits (41 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Brick_Magic_Engine.png">Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4149</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Cream_Labyrinth_Brick_Magic_Engine.png">Cream Labyrinth Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12943</li>
@@ -233,7 +233,7 @@ Base Tensura reference adapted from [Blocks/Magic engine](https://tensura.wiki.g
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5559</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Engine_Hitbox.png">Magic Engine Hitbox.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12962</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Bricks.png">Invicon Stone Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2852</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bricks.png">Invicon Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2851</li>
 </ul>

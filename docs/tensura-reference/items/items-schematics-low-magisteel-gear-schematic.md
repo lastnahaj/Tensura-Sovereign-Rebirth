@@ -323,13 +323,13 @@ Allows Crafting of the following items:
 Base Tensura reference adapted from [Items/Schematics/Low Magisteel Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Low_Magisteel_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `13088`, modified `2026-06-15T09:48:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (31 source files)</summary>
+<summary>Media credits (27 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Gear_Schematic.png">Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13078</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
+
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warp_Core.png">Invicon Warp Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13086</li>

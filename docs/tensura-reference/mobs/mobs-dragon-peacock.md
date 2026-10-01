@@ -108,12 +108,12 @@ tags: []
 Base Tensura reference adapted from [Mobs/Dragon Peacock](https://tensura.wiki.gg/wiki/Mobs/Dragon_Peacock) on the Tensura: Reincarnated Wiki (revision `11142`, modified `2026-03-30T02:50:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Dragon_peacock_dancing.gif">Dragon peacock dancing.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4083</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Riding_Player.png">Dragon Peacock Riding Player.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9956</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Dragon_Peacock_Slowing_Fall.gif">Dragon Peacock Slowing Fall.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9957</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

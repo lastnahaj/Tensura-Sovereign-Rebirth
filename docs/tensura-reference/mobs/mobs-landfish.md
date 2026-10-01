@@ -99,10 +99,10 @@ tags: []
 Base Tensura reference adapted from [Mobs/Landfish](https://tensura.wiki.gg/wiki/Mobs/Landfish) on the Tensura: Reincarnated Wiki (revision `12887`, modified `2026-05-12T18:54:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Landfish.gif">Landfish.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8913</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Landfish_variants.gif">Landfish variants.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8914</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

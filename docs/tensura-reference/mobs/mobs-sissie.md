@@ -98,12 +98,12 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Sissie](https://tensura.wiki.gg/wiki/Mobs/Sissie) on the Tensura: Reincarnated Wiki (revision `9483`, modified `2025-04-23T18:10:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Sissie.gif">Sissie.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4031</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Tooth.png">Invicon Sissie Tooth.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6726</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Fin.png">Invicon Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Sissie_Meat.png">Invicon Raw Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6686</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 </ul>
 </details>

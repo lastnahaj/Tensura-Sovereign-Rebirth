@@ -267,6 +267,7 @@
 .potion-guide-heading { margin: 1rem 0 1.4rem; }
 .potion-guide-heading h1 { margin: .4rem 0 .7rem; font-weight: 750; }
 .potion-guide-heading > p:last-child { max-width: 42rem; }
+[data-md-color-scheme="default"] .potion-guide .reference-eyebrow { color: #075b83; }
 .potion-planner-controls { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
 .potion-planner-controls label { display: grid; gap: .45rem; font-weight: 650; }
 .potion-planner-controls select { width: 100%; padding: .65rem .8rem; color: var(--md-default-fg-color); background: var(--md-default-bg-color); border: 1px solid rgba(51,214,255,.45); border-radius: .6rem; font: inherit; }
@@ -283,6 +284,7 @@
 .potion-guide-card dt { font-size: .65rem; opacity: .8; }
 .potion-guide-card dd { margin: .1rem 0 0; font-size: 1.25rem; font-weight: 750; }
 .potion-guide-card dd small { display: block; font-size: .65rem; font-weight: 450; }
+.potion-guide-card > p { margin: .8rem 1rem 1rem; font-size: .72rem; line-height: 1.5; }
 .potion-guide .potion-recipe-list { list-style: none; margin: .8rem 1rem 1rem; padding: 0; }
 .potion-guide .potion-recipe-list li { display: grid; gap: .25rem; margin: 0 0 .8rem; font-size: .7rem; line-height: 1.5; }
 .potion-recipe-list b { color: #24c5e8; }

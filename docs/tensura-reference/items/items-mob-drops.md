@@ -10,8 +10,8 @@ tags: []
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-low-quality-magic-crystal-148c872487.png" alt="Mob Drops source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/low-quality-magic-crystal.webp" alt="Low Quality Magic Crystal illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -213,11 +213,11 @@ tags: []
 Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wiki/Items/Mob_Drops) on the Tensura: Reincarnated Wiki (revision `12783`, modified `2026-05-06T10:27:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (37 source files)</summary>
+<summary>Media credits (34 source files)</summary>
 <ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
+
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(B).png">Invicon Monster Leather (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6819</li>

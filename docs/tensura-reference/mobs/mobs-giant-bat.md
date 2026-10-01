@@ -96,11 +96,11 @@ tags: []
 Base Tensura reference adapted from [Mobs/Giant Bat](https://tensura.wiki.gg/wiki/Mobs/Giant_Bat) on the Tensura: Reincarnated Wiki (revision `10701`, modified `2025-10-07T22:03:24Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Giant_bat.gif">Giant bat.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5503</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

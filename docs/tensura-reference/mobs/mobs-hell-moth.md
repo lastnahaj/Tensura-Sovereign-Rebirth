@@ -95,10 +95,10 @@ Dark Roofed Forest</div></div><div class="druid-row druid-row-spawn_count" data-
 Base Tensura reference adapted from [Mobs/Hell Moth](https://tensura.wiki.gg/wiki/Mobs/Hell_Moth) on the Tensura: Reincarnated Wiki (revision `11194`, modified `2026-03-31T01:28:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hell_moth.gif">Hell moth.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8919</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hell-Moth_Silk.png">Invicon Hell-Moth Silk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6814</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

@@ -6,8 +6,9 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>194</strong> articles</span>
+<span class="reference-count"><strong>197</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
+<a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
 </div>
 </div>
 </header>
@@ -41,7 +42,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 194 of 194 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 197 of 197 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1262,6 +1263,22 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="H" data-search="high quality magic crystal recover 5,000 base mp through absorb &amp; dissolve, craft nine magic bottles, or split into two medium crystals at the smithing bench.">
+<a href="../magic/high-quality-magic-crystal/" aria-label="Open High Quality Magic Crystal">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/high-quality-magic-crystal.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>High Quality Magic Crystal</h2>
+
+<small class="skill-reference-status">Loot and crafting routes verified</small>
+<p>Recover 5,000 base MP through Absorb &amp; Dissolve, craft nine Magic Bottles, or split into two Medium crystals at the Smithing Bench.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="H" data-search="hihi&#x27;irokane  bone golem a golem resembling a skeleton made out of hihi&#x27;irokane. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
 <a href="hihiirokane-bone-golem/" aria-label="Open Hihi&#x27;irokane  Bone Golem">
 <figure class="reference-card-media reference-card-media--theme">
@@ -1638,6 +1655,22 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="L" data-search="low quality magic crystal a crafting resource with 1,000 base mp recovery through absorb &amp; dissolve. one crystal makes three magic bottles with three glass.">
+<a href="../magic/low-quality-magic-crystal/" aria-label="Open Low Quality Magic Crystal">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/low-quality-magic-crystal.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Low Quality Magic Crystal</h2>
+
+<small class="skill-reference-status">Loot and crafting routes verified</small>
+<p>A crafting resource with 1,000 base MP recovery through Absorb &amp; Dissolve. One crystal makes three Magic Bottles with three Glass.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="magic bottle craft empty bottles from glass and a magic crystal, then fill them at a water source to begin brewing.">
 <a href="../magic/magic-bottle/" aria-label="Open Magic Bottle">
 <figure class="reference-card-media reference-card-media--theme">
@@ -1695,6 +1728,22 @@
 <h2>Meat Crusher</h2>
 
 <p>Holding right click and releasing it when fully charge deals a heavy blow which deals 26 damage but also deals Corrosion damage for ~2 seconds(40 ticks)</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="medium quality magic crystal recover 2,500 base mp through absorb &amp; dissolve, make six magic bottles, or downgrade into two low crystals with the required schematic.">
+<a href="../magic/medium-quality-magic-crystal/" aria-label="Open Medium Quality Magic Crystal">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/medium-quality-magic-crystal.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Medium Quality Magic Crystal</h2>
+
+<small class="skill-reference-status">Loot and crafting routes verified</small>
+<p>Recover 2,500 base MP through Absorb &amp; Dissolve, make six Magic Bottles, or downgrade into two Low crystals with the required schematic.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

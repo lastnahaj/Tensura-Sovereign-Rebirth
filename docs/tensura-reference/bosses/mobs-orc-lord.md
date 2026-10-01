@@ -146,10 +146,10 @@ Desert, Badlands</div></div></div><div class="druid-section-container"><div data
 Base Tensura reference adapted from [Mobs/Orc Lord](https://tensura.wiki.gg/wiki/Mobs/Orc_Lord) on the Tensura: Reincarnated Wiki (revision `12637`, modified `2026-04-29T12:10:18Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orc_lord.gif">Orc lord.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2482</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
 </ul>
 </details>

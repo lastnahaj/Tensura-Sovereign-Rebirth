@@ -100,11 +100,11 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Metal Slime](https://tensura.wiki.gg/wiki/Mobs/Metal_Slime) on the Tensura: Reincarnated Wiki (revision `12768`, modified `2026-05-06T08:42:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Metalslime.gif">Metalslime.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Nugget.gif">Invicon Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9652</li>
 </ul>
 </details>

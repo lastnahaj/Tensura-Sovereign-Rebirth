@@ -362,6 +362,15 @@
       "replacement_asset": "assets/images/items/high-potion.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png",
+      "source_title": "High quality magic crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/high-quality-magic-crystal.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_nullification.png",
       "source_title": "Holy attack nullification.png",
       "checked_on": "2026-09-30",
@@ -407,6 +416,15 @@
       "replacement_asset": "assets/images/items/high-potion.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png",
+      "source_title": "Invicon High Quality Magic Crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/high-quality-magic-crystal.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png",
       "source_title": "Invicon Low Potion.png",
       "checked_on": "2026-09-30",
@@ -414,6 +432,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/low-potion.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png",
+      "source_title": "Invicon Low Quality Magic Crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-quality-magic-crystal.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle.png",
@@ -432,6 +459,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/magic-bottle-of-water.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png",
+      "source_title": "Invicon Medium Quality Magic Crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/medium-quality-magic-crystal.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png",
@@ -468,6 +504,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/low-potion.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_quality_magic_crystal.png",
+      "source_title": "Low quality magic crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-quality-magic-crystal.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Bottle.png",
@@ -522,6 +567,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/maximum-magic-bullet.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Medium_quality_magic_crystal.png",
+      "source_title": "Medium quality magic crystal.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/medium-quality-magic-crystal.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_flame.png",

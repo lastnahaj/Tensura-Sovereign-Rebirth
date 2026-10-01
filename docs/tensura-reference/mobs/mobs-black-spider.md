@@ -103,7 +103,7 @@ A large spider type monster. It lurks underground or in caves. After being named
 Base Tensura reference adapted from [Mobs/Black Spider](https://tensura.wiki.gg/wiki/Mobs/Black_Spider) on the Tensura: Reincarnated Wiki (revision `9493`, modified `2025-04-23T18:15:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (9 source files)</summary>
+<summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Black_spider_yellow.gif">Black spider yellow.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4060</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Black_spider_black.png">Black spider black.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4057</li>
@@ -112,7 +112,7 @@ Base Tensura reference adapted from [Mobs/Black Spider](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Fang.png">Invicon Spider Fang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6742</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sticky_Thread.png">Invicon Sticky Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6746</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Steel_Thread.png">Invicon Steel Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6743</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Black_spider_saddled.png">Black spider saddled.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9123</li>
 </ul>
 </details>

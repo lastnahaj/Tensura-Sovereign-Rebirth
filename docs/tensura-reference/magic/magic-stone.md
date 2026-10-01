@@ -197,12 +197,12 @@ tags:
 Base Tensura reference adapted from [Magic Stone](https://tensura.wiki.gg/wiki/Magic_Stone) on the Tensura: Reincarnated Wiki (revision `9515`, modified `2025-04-23T18:33:42Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (19 source files)</summary>
+<summary>Media credits (17 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Stone.png">Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7130</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
@@ -216,7 +216,7 @@ Base Tensura reference adapted from [Magic Stone](https://tensura.wiki.gg/wiki/M
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Race_Reset_Scroll.png">Invicon Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3103</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
 </ul>
 </details>

@@ -102,12 +102,12 @@ tags: []
 Base Tensura reference adapted from [Mobs/Giant Ant](https://tensura.wiki.gg/wiki/Mobs/Giant_Ant) on the Tensura: Reincarnated Wiki (revision `9484`, modified `2025-04-23T18:10:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Giant_ant.gif">Giant ant.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5501</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Carapace.png">Invicon Giant Ant Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6515</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Leg.png">Invicon Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6516</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Saddle.png">Monster Saddle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7166</li>
 </ul>
 </details>

@@ -795,11 +795,6 @@
       "image": "assets/upstream/tensura/skills/hero-haki-48aa72466a.png",
       "category": "skills/extra"
     },
-    "tensura-reference/magic/high-quality-magic-crystal/": {
-      "title": "High Quality Magic Crystal",
-      "image": "assets/upstream/tensura/magic/high-quality-magic-crystal-33d82fcb11.png",
-      "category": "magic"
-    },
     "tensura-reference/resistances/holy-attack-resistance/": {
       "title": "Holy Attack Resistance",
       "image": "assets/illustrations/skills/holy-attack-resistance.webp",
@@ -923,11 +918,6 @@
     "tensura-reference/magic/low-magic-staff/": {
       "title": "Low Magic Staff",
       "image": "assets/upstream/tensura/magic/low-magic-staff-72ac8cf77f.png",
-      "category": "magic"
-    },
-    "tensura-reference/magic/low-quality-magic-crystal/": {
-      "title": "Low Quality Magic Crystal",
-      "image": "assets/upstream/tensura/magic/low-quality-magic-crystal-be81b6522f.png",
       "category": "magic"
     },
     "tensura-reference/skills/unique/lust/": {
@@ -1054,11 +1044,6 @@
       "title": "Maximum Magic Bullet",
       "image": "assets/illustrations/skills/maximum-magic-bullet.webp",
       "category": "battlewill"
-    },
-    "tensura-reference/magic/medium-quality-magic-crystal/": {
-      "title": "Medium Quality Magic Crystal",
-      "image": "assets/upstream/tensura/magic/medium-quality-magic-crystal-aad538da12.png",
-      "category": "magic"
     },
     "tensura-reference/magic/megiddo/": {
       "title": "Megiddo",

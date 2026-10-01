@@ -98,9 +98,9 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Giant Salmon](https://tensura.wiki.gg/wiki/Mobs/Giant_Salmon) on the Tensura: Reincarnated Wiki (revision `9510`, modified `2025-04-23T18:30:04Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Giant_salmon.gif">Giant salmon.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5510</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

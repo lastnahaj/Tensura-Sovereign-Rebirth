@@ -8,7 +8,7 @@ This library combines Tensura references with curated directories for the curren
 <div class="reference-metric-grid">
 <div><strong>1340</strong><span>articles</span></div>
 <div><strong>394</strong><span>local aliases</span></div>
-<div><strong>1704</strong><span>source images</span></div>
+<div><strong>1698</strong><span>source images</span></div>
 <div><strong>2</strong><span>source wikis</span></div>
 </div>
 
@@ -61,7 +61,7 @@ This library combines Tensura references with curated directories for the curren
 <h2>World &amp; Equipment</h2>
 <p>Browse gear, materials, structures, terrain, and the technical reference.</p>
 <div class="reference-path-links">
-<a href="items/">Items &amp; Materials <span>194</span></a>
+<a href="items/">Items &amp; Materials <span>197</span></a>
 <a href="weapons/">Weapons <span>91</span></a>
 <a href="armor/">Armor <span>51</span></a>
 <a href="tools/">Tools <span>30</span></a>

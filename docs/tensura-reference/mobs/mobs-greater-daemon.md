@@ -114,11 +114,11 @@ Any Underworld biome</div></div></div><div class="druid-section-container"><div 
 Base Tensura reference adapted from [Mobs/Greater Daemon](https://tensura.wiki.gg/wiki/Mobs/Greater_Daemon) on the Tensura: Reincarnated Wiki (revision `12785`, modified `2026-05-06T10:29:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Greater_Daemon.gif">Greater Daemon.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12609</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP11.png">WIP11.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 </ul>
 </details>

@@ -108,12 +108,12 @@ tags: []
 Base Tensura reference adapted from [Mobs/Slime](https://tensura.wiki.gg/wiki/Mobs/Slime) on the Tensura: Reincarnated Wiki (revision `11458`, modified `2026-04-01T11:47:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_idle.gif">Slime idle.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5490</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_christmas.png">Slime christmas.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5489</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Bucket_of_Slime.png">Bucket of Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7898</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

@@ -116,7 +116,7 @@ Each Mithril Ingot is made with 5 parts Molten Magisteel, 4 parts Molten Silver.
 </span>
 </a>
 <a class="reference-related-card" href="../items-mob-drops/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-quality-magic-crystal-148c872487.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/low-quality-magic-crystal.webp" alt="Low Quality Magic Crystal illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Mob Drops</strong>
 <small>These are primarily obtained via Mobs, unless specified otherwise</small>

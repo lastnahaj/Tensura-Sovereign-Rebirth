@@ -94,10 +94,10 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Giant Bear](https://tensura.wiki.gg/wiki/Mobs/Giant_Bear) on the Tensura: Reincarnated Wiki (revision `9496`, modified `2025-04-23T18:15:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Giant_bear.gif">Giant bear.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5505</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

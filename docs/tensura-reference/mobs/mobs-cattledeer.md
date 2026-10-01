@@ -106,10 +106,10 @@ tags:
 Base Tensura reference adapted from [Mobs/Cattledeer](https://tensura.wiki.gg/wiki/Mobs/Cattledeer) on the Tensura: Reincarnated Wiki (revision `12830`, modified `2026-05-07T09:55:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Bulldeer.gif">Bulldeer.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4027</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

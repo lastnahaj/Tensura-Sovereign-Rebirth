@@ -94,11 +94,11 @@ Dark Roofed Forest</div></div><div class="druid-row druid-row-spawn_count" data-
 Base Tensura reference adapted from [Mobs/Hell Caterpillar](https://tensura.wiki.gg/wiki/Mobs/Hell_Caterpillar) on the Tensura: Reincarnated Wiki (revision `11193`, modified `2026-03-31T01:28:18Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hell_caterpillar.gif">Hell caterpillar.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5513</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hell_caterpillar_cocoon.gif">Hell caterpillar cocoon.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5514</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hell-Moth_Silk.png">Invicon Hell-Moth Silk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6814</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

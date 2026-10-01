@@ -104,11 +104,11 @@ A medium spirit of wind, can be summoned with <a href="../../magic/summon-medium
 Base Tensura reference adapted from [Mobs/Feathered Serpent](https://tensura.wiki.gg/wiki/Mobs/Feathered_Serpent) on the Tensura: Reincarnated Wiki (revision `12739`, modified `2026-05-05T17:41:40Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Feathered_serpent.gif">Feathered serpent.gif</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12654</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Wind).png">Invicon Elemental Shard (Wind).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6809</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

@@ -92,7 +92,7 @@ Base Tensura magic remains the primary reference. TSR also installs Iron's Spell
 </span>
 </a>
 <a class="reference-related-card" href="../medium-quality-magic-crystal/">
-<img src="../../../assets/upstream/tensura/magic/medium-quality-magic-crystal-aad538da12.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/medium-quality-magic-crystal.webp" alt="Medium Quality Magic Crystal illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Medium Quality Magic Crystal</strong>
 <small>A Medium Quality Magic Crystal</small>

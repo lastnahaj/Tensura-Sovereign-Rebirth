@@ -170,11 +170,11 @@ tags:
 Base Tensura reference adapted from [Blocks/Low Quality Magic Crystal Block](https://tensura.wiki.gg/wiki/Blocks/Low_Quality_Magic_Crystal_Block) on the Tensura: Reincarnated Wiki (revision `7427`, modified `2025-02-11T13:02:02Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Quality_Magic_Crystal_Block.png">Low Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4109</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal_Block.png">Invicon Low Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6880</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

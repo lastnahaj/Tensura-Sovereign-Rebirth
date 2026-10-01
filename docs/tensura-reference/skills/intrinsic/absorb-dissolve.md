@@ -157,7 +157,7 @@ tags:
 Base Tensura reference adapted from [Absorb & Dissolve](https://tensura.wiki.gg/wiki/Absorb_%26_Dissolve) on the Tensura: Reincarnated Wiki (revision `13302`, modified `2026-06-30T05:59:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (48 source files)</summary>
+<summary>Media credits (45 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Absorb_and_dissolve.png">Absorb and dissolve.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3292</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_Core.png">Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7249</li>
@@ -171,15 +171,15 @@ Base Tensura reference adapted from [Absorb & Dissolve](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Ingot.gif">Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2266</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Essence.png">Invicon Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6505</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Fin.png">Invicon Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Insectar_Carapace.png">Invicon Insectar Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6566</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>

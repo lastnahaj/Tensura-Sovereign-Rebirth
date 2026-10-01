@@ -133,12 +133,12 @@ tags:
 Base Tensura reference adapted from [Warp Core](https://tensura.wiki.gg/wiki/Warp_Core) on the Tensura: Reincarnated Wiki (revision `13100`, modified `2026-06-15T11:17:35Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warp_Core.png">Invicon Warp Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13086</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
 </ul>
 </details>

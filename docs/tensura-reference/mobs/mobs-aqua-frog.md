@@ -110,12 +110,12 @@ A medium spirit of water, can be summoned using <a href="../../magic/summon-medi
 Base Tensura reference adapted from [Mobs/Aqua Frog](https://tensura.wiki.gg/wiki/Mobs/Aqua_Frog) on the Tensura: Reincarnated Wiki (revision `12340`, modified `2026-04-21T09:05:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Aqua_frog.gif">Aqua frog.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2657</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Aqua_frog_kermit.png">Aqua frog kermit.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2688</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Water).png">Invicon Elemental Shard (Water).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6807</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

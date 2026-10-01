@@ -1,4 +1,4 @@
-"""Render curated consumables and preserve unsupported source names as archives."""
+"""Render verified item references and preserve unsupported source names as archives."""
 from __future__ import annotations
 
 import argparse
@@ -63,7 +63,10 @@ def generate():
                           f'<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura {build["version"]} · Minecraft {build["minecraft"]}</div></div>',
                           '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + (html.escape(page['status']) if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>', '</aside></div></div>', '',
                           '## Availability', '', page['obtainment'], '', '## How to use', '', page['use'], '', '## Behavior and limits', '', page['effects'], ''])
-            if page.get('brew_routes') or page.get('category') == 'items':
+            if page.get('related_guide'):
+                related = posixpath.relpath('tensura-reference/items/' + page['related_guide'], posixpath.dirname(page['local_page']))
+                lines.extend([f'[Compare Magic Crystal tiers]({related})', ''])
+            elif page.get('brew_routes') or 'magic_bottle' in page['registry_id']:
                 lines.extend([f'[Compare recipes in the healing-potion guide]({guide_link})', ''])
         else:
             lines.extend(['!!! warning "Source archive · not verified for current play"', '    This name is preserved for existing links, not recommended as an obtainable item.', '',
@@ -80,7 +83,37 @@ def generate():
             lines.append('')
         output[page['local_page']] = '\n'.join(lines)
     output['tensura-reference/items/healing-potions.md'] = generate_guide(data)
+    output['tensura-reference/items/magic-crystals.md'] = generate_crystal_guide(data)
     return output
+
+
+def generate_crystal_guide(data):
+    crystals = [page for page in data['pages'] if page.get('crystal_tier')]
+    lines = ['---', 'title: Magic Crystals', 'description: Compare crystal loot rules, absorption, bottle yields, storage, and schematic-gated downgrades for Minecraft 1.21.1.', '---', '',
+             '<section class="potion-guide">', '<header class="potion-guide-heading">', '<p class="reference-eyebrow">Materials field guide · Minecraft 1.21.1</p>',
+             '<h1>Choose how to use your crystals</h1>', '<p>Keep crystals for crafting, turn them into brewing containers, or recover MP with Absorb &amp; Dissolve. These values are checked against Tensura 2.0.1.2 and TSR’s checked-in configuration.</p>', '</header>', '<div class="potion-guide-grid">']
+    for page in crystals:
+        route = Path(page['local_page']).stem
+        lines.extend(['<article class="potion-guide-card">', f'<a href="../../magic/{route}/" aria-label="Read {page["display_title"]}"><img src="../../../{page["asset"]}" alt="{page["display_title"]} illustration" loading="lazy" decoding="async"><h2>{page["crystal_tier"]} Quality</h2></a>',
+                      f'<dl><div><dt>Absorption</dt><dd>{page["dissolve_mp"]:,} <small>base MP per crystal</small></dd></div><div><dt>Bottle recipe</dt><dd>{page["bottle_yield"]} <small>bottles per crystal + 3 Glass</small></dd></div></dl>',
+                      '<p>' + html.escape(page['loot_band']) + '</p>', '</article>'])
+    lines.extend(['</div>', '</section>', '', '## Find eligible drops', '',
+                  'The shared loot rule requires membership in the `tensura:drop_crystal` entity tag. It tests maximum EP after the namespace multiplier, excludes `MOB_SUMMONED` and `TRIGGERED` spawn types, and requires named-evolution entities to permit crystal drops. A species name or boss label alone is not enough.', '',
+                  'The rule checks Medium at **3,000–8,999 inclusive**, then High at **9,000 or more**, then Low as a fallback at **1 or more**. The usual whole-number Low range is 1–2,999. Fractional values between 8,999 and 9,000 fall through to Low; zero EP does not pass the shared rule. Other entity-specific or add-on loot is outside this check.', '',
+                  '## Recover MP, not maximum MP', '',
+                  'Hold one crystal in your main hand and activate [Absorb & Dissolve](../skills/intrinsic/absorb-dissolve.md). The implementation consumes one item. Base recovery is 1,000 / 2,500 / 5,000 MP for Low / Medium / High, multiplied by the skill’s `magiculeMultiplier`. TSR’s checked-in value is **1.0**. This does not grant permanent maximum MP.', '',
+                  '## Store or downgrade', '',
+                  'Fill a 3×3 crafting grid with nine same-quality crystals to craft their storage block. Unpacking that block gives nine crystals of the same quality.', '',
+                  'At a **Smithing Bench**, with the [Low Magisteel Gear Schematic](items-schematics-low-magisteel-gear-schematic.md):', '',
+                  '- One High crystal becomes **two Medium** crystals.', '- One Medium crystal becomes **two Low** crystals.', '',
+                  'These checked recipes run downward only; they do not prove an upgrade recipe. Without the required schematic, the downgrade route is incomplete.', '',
+                  '## Prepare your brewing kit', '',
+                  'Combine one crystal with three Glass: Glass–Crystal–Glass across a row, then Glass beneath the crystal. Low produces **3**, Medium **6**, and High **9** [Magic Bottles](../magic/magic-bottle.md). Continue with the [healing-potion guide](healing-potions.md) for filling, cooking, and brewing.', '',
+                  '!!! note "Verification scope"', '    Registry, recipe, loot-predicate, and configuration checks are not live-server gameplay tests. Server overrides and unreviewed trading routes are not guaranteed here.', '',
+                  '[Return to Items](index.md)', '', '## Sources and artwork', '',
+                  'The individual [Low](../magic/low-quality-magic-crystal.md), [Medium](../magic/medium-quality-magic-crystal.md), and [High](../magic/high-quality-magic-crystal.md) references cite upstream revisions and exact artifact evidence. Adapted text remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).', '',
+                  'Implementation: [Tensura 2.0.1.2 release](' + data['reference_build']['source_url'] + ') · [TSR item evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/item_reference.json). The original illustrations are not in-game texture or appearance guarantees.', ''])
+    return '\n'.join(lines)
 
 
 def generate_guide(data):

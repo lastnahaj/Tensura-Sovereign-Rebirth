@@ -95,10 +95,10 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Evil Centipede](https://tensura.wiki.gg/wiki/Mobs/Evil_Centipede) on the Tensura: Reincarnated Wiki (revision `9498`, modified `2025-04-23T18:16:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Evil_centipede.png">Evil centipede.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8926</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Stinger.png">Invicon Centipede Stinger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6466</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

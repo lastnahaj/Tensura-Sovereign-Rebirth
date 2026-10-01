@@ -118,11 +118,11 @@ Desert</div></div></div><div class="druid-section-container"><div data-druid-sec
 Base Tensura reference adapted from [Mobs/Orc Disaster](https://tensura.wiki.gg/wiki/Mobs/Orc_Disaster) on the Tensura: Reincarnated Wiki (revision `12664`, modified `2026-04-29T13:33:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orc_disaster.gif">Orc disaster.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2481</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orc_Disaster_Head.png">Orc Disaster Head.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4098</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Meat_Crusher.png">Invicon Meat Crusher.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6613</li>
 </ul>

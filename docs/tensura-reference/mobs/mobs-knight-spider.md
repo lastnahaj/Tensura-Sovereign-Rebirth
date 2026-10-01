@@ -95,12 +95,12 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Knight Spider](https://tensura.wiki.gg/wiki/Mobs/Knight_Spider) on the Tensura: Reincarnated Wiki (revision `9597`, modified `2025-05-26T07:35:00Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Knight_spider.gif">Knight spider.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8916</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Knight_spider_safe.png">Knight spider safe.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8917</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Carapace.png">Invicon Knight Spider Carapace.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6580</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 </ul>
 </details>

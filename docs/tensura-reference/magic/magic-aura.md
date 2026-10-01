@@ -70,7 +70,7 @@ Grants the player a buff that effects their physical attacks and Battlewill atta
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../low-quality-magic-crystal/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/low-quality-magic-crystal-be81b6522f.png"/>
+<img alt="Low Quality Magic Crystal illustration" decoding="async" loading="lazy" src="../../../assets/images/items/low-quality-magic-crystal.webp"/>
 <span class="reference-related-copy">
 <strong>Low Quality Magic Crystal</strong>
 <small>A Low Quality Magic Crystal</small>

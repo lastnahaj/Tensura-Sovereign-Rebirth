@@ -492,5 +492,47 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/magic/low-quality-magic-crystal.md": {
+    "asset": "assets/images/items/low-quality-magic-crystal.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "18733208f5e7dd4d502cafacb6fb8bdef8b9263b9813da43b6d651712972517b",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Low_Quality_Magic_Crystal",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_quality_magic_crystal.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/medium-quality-magic-crystal.md": {
+    "asset": "assets/images/items/medium-quality-magic-crystal.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e78c907437eb24e2a3fb20f09b507c5e42afecd57fe8422fd038132d131a12f3",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Medium_Quality_Magic_Crystal",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Medium_quality_magic_crystal.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/high-quality-magic-crystal.md": {
+    "asset": "assets/images/items/high-quality-magic-crystal.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "4f9e52e79780329417463a58c40a77948497870f5e78bb6cb201bc63d31dc3a1",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/High_Quality_Magic_Crystal",
+      "file_page": "https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

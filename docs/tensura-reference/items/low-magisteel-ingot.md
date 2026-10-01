@@ -291,13 +291,13 @@ Each Low Magisteel Ingot is made with 1 part Molten Magisteel and 8 parts Molten
 Base Tensura reference adapted from [Low Magisteel Ingot](https://tensura.wiki.gg/wiki/Low_Magisteel_Ingot) on the Tensura: Reincarnated Wiki (revision `12895`, modified `2026-05-18T08:47:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (18 source files)</summary>
+<summary>Media credits (16 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Ingot.png">Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7111</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Nugget.png">Invicon Low Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6599</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Low_Magisteel.png">Invicon Block of Low Magisteel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6855</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sword.png">Invicon Low Magisteel Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6607</li>

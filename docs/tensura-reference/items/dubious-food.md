@@ -234,7 +234,7 @@ These effects include:
 Base Tensura reference adapted from [Dubious Food](https://tensura.wiki.gg/wiki/Dubious_Food) on the Tensura: Reincarnated Wiki (revision `12784`, modified `2026-05-06T10:28:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (76 source files)</summary>
+<summary>Media credits (72 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dubious_Food.png">Invicon Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6508</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Dubious_Food.png">Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7018</li>
@@ -272,9 +272,9 @@ Base Tensura reference adapted from [Dubious Food](https://tensura.wiki.gg/wiki/
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
+
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Amethyst_Shard.png">Invicon Amethyst Shard.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9737</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Echo_Shard.png">Invicon Echo Shard.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9731</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blaze_Powder.png">Invicon Blaze Powder.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9744</li>

@@ -174,7 +174,7 @@ Each Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Silv
 </span>
 </a>
 <a class="reference-related-card" href="../items-mob-drops/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-quality-magic-crystal-148c872487.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/low-quality-magic-crystal.webp" alt="Low Quality Magic Crystal illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Mob Drops</strong>
 <small>These are primarily obtained via Mobs, unless specified otherwise</small>
@@ -190,7 +190,7 @@ Each Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Silv
 Base Tensura reference adapted from [Mithril Ingot](https://tensura.wiki.gg/wiki/Mithril_Ingot) on the Tensura: Reincarnated Wiki (revision `9524`, modified `2025-04-23T18:45:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (11 source files)</summary>
+<summary>Media credits (10 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Ingot.gif">Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2265</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>

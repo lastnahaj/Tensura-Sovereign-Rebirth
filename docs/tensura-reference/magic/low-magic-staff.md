@@ -102,7 +102,7 @@ Increases <a href="../../core-mechanics/chantspeed/" title="Chantspeed"> chant s
 </span>
 </a>
 <a class="reference-related-card" href="../low-quality-magic-crystal/">
-<img src="../../../assets/upstream/tensura/magic/low-quality-magic-crystal-be81b6522f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/low-quality-magic-crystal.webp" alt="Low Quality Magic Crystal illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Low Quality Magic Crystal</strong>
 <small>A Low Quality Magic Crystal</small>

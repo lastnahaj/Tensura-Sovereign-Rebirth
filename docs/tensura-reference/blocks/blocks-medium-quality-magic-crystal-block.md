@@ -170,11 +170,11 @@ tags:
 Base Tensura reference adapted from [Blocks/Medium Quality Magic Crystal Block](https://tensura.wiki.gg/wiki/Blocks/Medium_Quality_Magic_Crystal_Block) on the Tensura: Reincarnated Wiki (revision `7426`, modified `2025-02-11T12:58:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Medium_Quality_Magic_Crystal_Block.png">Medium Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4112</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal_Block.png">Invicon Medium Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6892</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Iron_Pickaxe.png">Invicon Iron Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 10748</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

@@ -1,318 +1,69 @@
 ---
-title: High Quality Magic Crystal
-description: A High Quality Magic Crystal
-tags:
-- Stackable_resources
-- Has_crafting
-- Pages_with_broken_file_links
+title: "High Quality Magic Crystal"
+description: "Recover 5,000 base MP through Absorb & Dissolve, craft nine Magic Bottles, or split into two Medium crystals at the Smithing Bench."
 ---
 
 # High Quality Magic Crystal
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Magic</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-abilities">
+<section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/magic/high-quality-magic-crystal-33d82fcb11.png" alt="High Quality Magic Crystal source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png">High quality magic crystal.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/high-quality-magic-crystal.webp" alt="High Quality Magic Crystal illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>A High Quality Magic Crystal</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtaining">Obtaining</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Recover 5,000 base MP through Absorb &amp; Dissolve, craft nine Magic Bottles, or split into two Medium crystals at the Smithing Bench.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">High Quality Magic Crystal</div>
-<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png"><img alt="High quality magic crystal.png: Infobox image for High Quality Magic Crystal the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/magic/high-quality-magic-crystal-33d82fcb11.png" width="160"/></a></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity tier</a>
-</th>
-<td class="list-style-none">
-<p>Common
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Loot and crafting routes verified"
+    The shared loot rule tests adjusted maximum EP of at least 9,000, the crystal-drop tag, spawn exclusions, and named-evolution eligibility. Boss names alone are not proof of a guaranteed drop.
 
-<p><br/>
-A <b>High Quality Magic Crystal</b>
-</p>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="druid-title">High Quality Magic Crystal</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:high_quality_magic_crystal</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Loot and crafting routes verified</div></div>
+</aside></div></div>
 
-<h2><span class="mw-headline" id="Obtaining">Obtaining</span></h2>
-<h3><span class="mw-headline" id="Mob_Drops">Mob Drops</span></h3>
-<p><i><b>Any</b></i> mob with EP higher than <b>9000</b> <br/>
-<b>(9000 EP - ... (infinite))</b>
-</p>
-<h4><span class="mw-headline" id="Bosses">Bosses</span></h4>
-<ul><li><a href="../../bosses/mobs-akash/" title="Mobs/Akash">Akash</a></li>
-<li><a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a></li>
-<li><a href="../../bosses/mobs-ifrit/" title="Mobs/Ifrit">Ifrit</a></li>
-<li><a href="../../bosses/mobs-orc-lord/" title="Mobs/Orc Lord">Orc Lord</a></li>
-<li><a href="../../bosses/mobs-sylphide/" title="Mobs/Sylphide">Sylphide</a></li>
-<li><a href="../../bosses/mobs-undine/" title="Mobs/Undine">Undine</a></li>
-<li><a href="../../bosses/mobs-war-gnome/" title="Mobs/War Gnome">War Gnome</a></li></ul>
-<h4><span class="mw-headline" id="Regular_Mobs">Regular Mobs</span></h4>
-<ul><li><a href="../../mobs/mobs-army-wasp/" title="Mobs/Army Wasp">Army Wasp</a></li>
-<li><a href="../../mobs/mobs-blade-tiger/" title="Mobs/Blade Tiger">Blade Tiger</a></li>
-<li><a href="../../mobs/mobs-knight-spider/" title="Mobs/Knight Spider">Knight Spider</a></li>
-<li><a href="../../mobs/mobs-megalodon/" title="Mobs/Megalodon">Megalodon</a></li>
-<li><a href="../../mobs/mobs-metal-slime/" title="Mobs/Metal Slime">Metal Slime</a></li>
-<li><a href="../../mobs/mobs-sissie/" title="Mobs/Sissie">Sissie</a></li>
-<li><a href="../../mobs/mobs-spear-toro/" title="Mobs/Spear Toro">Spear Toro</a></li>
-<li><a href="../../mobs/mobs-tempest-serpent/" title="Mobs/Tempest Serpent">Tempest Serpent</a></li></ul>
-<h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a href="../../blocks/blocks-high-quality-magic-crystal-block/" title="Blocks/High Quality Magic Crystal Block">High Quality Magic Crystal Block</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal Block"><a href="../../blocks/blocks-high-quality-magic-crystal-block/" title="High Quality Magic Crystal Block"></a></span></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a><span class="invslot-stacksize" title="High Quality Magic Crystal">9</span></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<p>High Quality Magic Crystals
-</p>
-<h3><span id="Absorb_.26_Dissolve"></span><span class="mw-headline" id="Absorb_&amp;_Dissolve">Absorb &amp; Dissolve</span></h3>
-<p>Like any other Magic Crystal, the High Quality Magic Crystal can be consumed by using the <a class="mw-redirect" href="../../skills/intrinsic/absorb-dissolve/" title="Abilities/Skills/Absorb &amp; Dissolve">Absorb &amp; Dissolve</a> skill. Consuming this Magic Crystal regenerates 5000 Magicules instantly.
-</p>
-<h3><span class="mw-headline" id="Crafting_2">Crafting</span></h3>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a href="../../items/dubious-food/#Poisonous_Food" title="Dubious Food">Poisonous Foods</a> +<br/><a href="../../items/dubious-food/#Golden_&amp;_Rare_Edibles" title="Dubious Food">Golden &amp; Rare Edibles</a> +<br/><a href="../../items/dubious-food/#Basic_Meats" title="Dubious Food">Basic Meats</a> +<br/><a href="../../items/items-consumables/" title="Items/Consumables">Large Monster Meats</a> +<br/><a class="mw-selflink selflink">High Quality Magic Crystal</a> +<br/><a href="../../items/dubious-food/#Powders_&amp;_Resources" title="Dubious Food">Powders &amp; Resources</a> +<br/><a href="../../items/dubious-food/#Fungi" title="Dubious Food">Fungi</a> +<br/><a href="../../items/items-consumables/#Raw" title="Items/Consumables">Raw Monster Consumables</a> +<br/><a class="extiw" href="https://minecraft.wiki/w/Small_Flower" title="mcw:Small Flower">Small Flower</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Pufferfish"><a href="https://minecraft.wiki/w/Pufferfish" title="Pufferfish"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Rotten Flesh"><a href="https://minecraft.wiki/w/Rotten_Flesh" title="Rotten Flesh"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Spider Eye"><a href="https://minecraft.wiki/w/Spider_Eye" title="Spider Eye"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Poisonous Potato"><a href="https://minecraft.wiki/w/Poisonous_Potato" title="Poisonous Potato"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Fermented Spider Eye"><a href="https://minecraft.wiki/w/Fermented_Spider_Eye" title="Fermented Spider Eye"></a></span></span><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Golden Apple"><a href="https://minecraft.wiki/w/Golden_Apple" title="Golden Apple"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Golden Carrot"><a href="https://minecraft.wiki/w/Golden_Carrot" title="Golden Carrot"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Enchanted Golden Apple"><a href="https://minecraft.wiki/w/Enchanted_Golden_Apple" title="Enchanted Golden Apple"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;bSilver Apple"><a href="../../items/silver-apple/" title="&amp;bSilver Apple"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;dEnchanted Silver Apple"><a href="../../items/enchanted-silver-apple/" title="&amp;dEnchanted Silver Apple"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Elemental Essence"><a href="../../items/elemental-essence/" title="Elemental Essence"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Daemon Essence"><a href="../../items/daemon-essence/" title="Daemon Essence"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Dragon Essence"><a href="../../items/dragon-essence/" title="Dragon Essence"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Zane Blood"><a href="../../items/zane-blood/" title="Zane Blood"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Royal Blood"><a href="../../items/royal-blood/" title="Royal Blood"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Water)"><a href="../../items/elemental-shard-water/" title="&amp;eElemental Shard (Water)"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Fire)"><a href="../../items/elemental-shard-fire/" title="&amp;eElemental Shard (Fire)"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Earth)"><a href="../../items/items-misc-elemental-shard-earth/" title="&amp;eElemental Shard (Earth)"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Wind)"><a href="../../items/elemental-shard-wind/" title="&amp;eElemental Shard (Wind)"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="&amp;eElemental Shard (Space)"><a href="../../items/elemental-shard-space/" title="&amp;eElemental Shard (Space)"></a></span></span><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Raw Porkchop"><a href="https://minecraft.wiki/w/Raw_Porkchop" title="Raw Porkchop"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Cod"><a href="https://minecraft.wiki/w/Raw_Cod" title="Raw Cod"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Salmon"><a href="https://minecraft.wiki/w/Raw_Salmon" title="Raw Salmon"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Tropical Fish"><a href="https://minecraft.wiki/w/Tropical_Fish" title="Tropical Fish"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Beef"><a href="https://minecraft.wiki/w/Raw_Beef" title="Raw Beef"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Chicken"><a href="https://minecraft.wiki/w/Raw_Chicken" title="Raw Chicken"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Rabbit"><a href="https://minecraft.wiki/w/Raw_Rabbit" title="Raw Rabbit"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Mutton"><a href="https://minecraft.wiki/w/Raw_Mutton" title="Raw Mutton"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Rabbit Foot"><a href="https://minecraft.wiki/w/Rabbit_Foot" title="Rabbit Foot"></a></span></span></span><span class="mcui-row"><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Giant Ant Leg"><a href="../../items/giant-ant-leg/" title="Giant Ant Leg"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Giant Bat Meat"><a href="../../items/raw-giant-bat-meat/" title="Raw Giant Bat Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Knight Spider Leg"><a href="../../items/knight-spider-leg/" title="Knight Spider Leg"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Serpent Meat"><a href="../../items/raw-serpent-meat/" title="Raw Serpent Meat"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Blaze Powder"><a href="https://minecraft.wiki/w/Blaze_Powder" title="Blaze Powder"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Gunpowder"><a href="https://minecraft.wiki/w/Gunpowder" title="Gunpowder"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Dragon Breath"><a href="https://minecraft.wiki/w/Dragon_Breath" title="Dragon Breath"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Glowstone"><a href="https://minecraft.wiki/w/Glowstone" title="Glowstone"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Redstone"><a href="https://minecraft.wiki/w/Redstone" title="Redstone"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Nether Wart"><a href="https://minecraft.wiki/w/Nether_Wart" title="Nether Wart"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Glow Berries"><a href="https://minecraft.wiki/w/Glow_Berries" title="Glow Berries"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Glow Ink Sac"><a href="https://minecraft.wiki/w/Glow_Ink_Sac" title="Glow Ink Sac"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Chorus Fruit"><a href="https://minecraft.wiki/w/Chorus_Fruit" title="Chorus Fruit"></a></span></span></span><span class="mcui-row"><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Mushroom Stew"><a href="https://minecraft.wiki/w/Mushroom_Stew" title="Mushroom Stew"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Brown Mushroom"><a href="https://minecraft.wiki/w/Brown_Mushroom" title="Brown Mushroom"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Red Mushroom"><a href="https://minecraft.wiki/w/Red_Mushroom" title="Red Mushroom"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Crimson Fungus"><a href="https://minecraft.wiki/w/Crimson_Fungus" title="Crimson Fungus"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Warped Fungus"><a href="https://minecraft.wiki/w/Warped_Fungus" title="Warped Fungus"></a></span></span><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Raw Armorsaurus Meat"><a href="../../items/raw-armorsaurus-meat/" title="Raw Armorsaurus Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Blade Tiger Meat"><a href="../../items/raw-blade-tiger-meat/" title="Raw Blade Tiger Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Bulldeer Beef"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Invicon_Bulldeer_Beef.gif" title="File:Invicon Bulldeer Beef.gif">Bulldeer Beef</a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Charybdis Meat"><a href="../../items/raw-charybdis-meat/" title="Raw Charybdis Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Giant Ant Leg"><a href="../../items/giant-ant-leg/" title="Giant Ant Leg"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Giant Bat Meat"><a href="../../items/raw-giant-bat-meat/" title="Raw Giant Bat Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Knight Spider Leg"><a href="../../items/knight-spider-leg/" title="Knight Spider Leg"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Megalodon Meat"><a href="../../items/raw-megalodon-meat/" title="Raw Megalodon Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Serpent Meat"><a href="../../items/raw-serpent-meat/" title="Raw Serpent Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Spear Toro Meat"><a href="../../items/raw-spear-toro-meat/" title="Raw Spear Toro Meat"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Spear Toro Fin"><a href="../../items/spear-toro-fin/" title="Spear Toro Fin"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Raw Sissie Meat"><a href="../../items/raw-sissie-meat/" title="Raw Sissie Meat"></a></span></span><span class="invslot animated"><span class="invslot-item invslot-item-image animated-active" data-minetip-title="Oxeye Daisy"><a href="https://minecraft.wiki/w/Oxeye_Daisy" title="Oxeye Daisy"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Cornflower"><a href="https://minecraft.wiki/w/Cornflower" title="Cornflower"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Lily of the Valley"><a href="https://minecraft.wiki/w/Lily_of_the_Valley" title="Lily of the Valley"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Wither Rose"><a href="https://minecraft.wiki/w/Wither_Rose" title="Wither Rose"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Red Tulip"><a href="https://minecraft.wiki/w/Red_Tulip" title="Red Tulip"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Orange Tulip"><a href="https://minecraft.wiki/w/Orange_Tulip" title="Orange Tulip"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="White Tulip"><a href="https://minecraft.wiki/w/White_Tulip" title="White Tulip"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Pink Tulip"><a href="https://minecraft.wiki/w/Pink_Tulip" title="Pink Tulip"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Azure Bluet"><a href="https://minecraft.wiki/w/Azure_Bluet" title="Azure Bluet"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Allium"><a href="https://minecraft.wiki/w/Allium" title="Allium"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Blue Orchid"><a href="https://minecraft.wiki/w/Blue_Orchid" title="Blue Orchid"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Poppy"><a href="https://minecraft.wiki/w/Poppy" title="Poppy"></a></span><span class="invslot-item invslot-item-image" data-minetip-title="Dandelion"><a href="https://minecraft.wiki/w/Dandelion" title="Dandelion"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Dubious Food"><a href="../../items/dubious-food/" title="Dubious Food"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="mw-selflink selflink">High Quality Magic Crystal</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal Block"><a href="../../blocks/blocks-high-quality-magic-crystal-block/" title="High Quality Magic Crystal Block"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://minecraft.wiki/w/Glass" title="mcw:Glass">Glass</a> +<br/><a class="mw-selflink selflink">High Quality Magic Crystal</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Glass"><a href="https://minecraft.wiki/w/Glass" title="Glass"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Glass"><a href="https://minecraft.wiki/w/Glass" title="Glass"></a></span></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Glass"><a href="https://minecraft.wiki/w/Glass" title="Glass"></a></span></span><span class="invslot"></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Magic Bottle"><a href="../magic-bottle/" title="Magic Bottle"></a><span class="invslot-stacksize" title="Magic Bottle">9</span></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://minecraft.wiki/w/Stone_Bricks" title="mcw:Stone Bricks">Stone Bricks</a> +<br/><a class="mw-selflink selflink">High Quality Magic Crystal</a> +<br/><a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot">Pure Magisteel Ingot</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Ingot"><a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Bricks"><a href="https://minecraft.wiki/w/Stone_Bricks" title="Stone Bricks"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Stone Brick Magic Engine"><a href="../../blocks/blocks-magic-engine/" title="Stone Brick Magic Engine"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://minecraft.wiki/w/Bricks" title="mcw:Bricks">Bricks</a> +<br/><a class="mw-selflink selflink">High Quality Magic Crystal</a> +<br/><a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot">Pure Magisteel Ingot</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Pure Magisteel Ingot"><a href="../../items/pure-magisteel-ingot/" title="Pure Magisteel Ingot"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Bricks"><a href="https://minecraft.wiki/w/Bricks" title="Bricks"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Brick Magic Engine"><a href="../../blocks/blocks-magic-engine/" title="Brick Magic Engine"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable collapsible">
-<tbody><tr><th>Ingredients</th>
-<th><a class="mw-redirect" href="../../blocks/blocks-smithing-bench/" title="Smithing">Smithing</a> recipe</th>
-</tr><tr>
-<td>
-<pre> <span class="nowrap"><a class="mw-selflink selflink">High Quality Magic Crystal</a></span>
-</pre>
-</td>
-<td>
-<div><span class="mcui mcui-Smithing_Table pixel-image"><span class="mcui-smithingTable"><span class="invslot mcui-input1"><span class="invslot-item invslot-item-image" data-minetip-title="High Quality Magic Crystal"><a href="./" title="High Quality Magic Crystal"></a></span></span><span class="invslot mcui-input2"></span><span class="invslot mcui-input3"></span><span class="invslot mcui-input4"></span><span class="invslot mcui-input5"></span></span><span class="mcui-arrow"></span><span class="mcui-output"><span class="invslot invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Medium Quality Magic Crystal"><a href="../medium-quality-magic-crystal/" title="Medium Quality Magic Crystal"></a><span class="invslot-stacksize" title="Medium Quality Magic Crystal">2</span></span></span></span></span></div>
-</td>
-</tr>
-</tbody></table>
-<p><br/>
-</p><p><br/>
-</p>
-<h3><span class="mw-headline" id="Trading">Trading</span></h3>
-<p>Trade 2 <span class="nowrap"><span class="sprite-file"><a href="./" title="High Quality Magic Crystal"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">High Quality Magic Crystal</span></a></span><b>s</b> with a lv.4 Gearsmith for 1 Emerald <br/>
-Trade 40 - 64 <span class="nowrap"><span class="sprite-file"><a href="./" title="High Quality Magic Crystal"></a></span> <a class="mw-selflink selflink"><span class="sprite-text">High Quality Magic Crystal</span></a></span><b>s</b> with a Master Level Cartographer to get an <a href="../../items/explorer-maps/" title="Explorer Maps">Explorer Map</a> to the <a href="../../structures/structures-labyrinth-tree/" title="Structures/Labyrinth Tree">Labyrinth Tree</a> or <a href="../../structures/structures-hell-gate/" title="Structures/Hell Gate">Hell Gate</a>
-</p>
+## Availability
 
+The pinned shared loot rule selects High for eligible tensura:drop_crystal entities at adjusted maximum EP of 9,000 or more. MOB_SUMMONED and TRIGGERED spawn types are excluded, and named-evolution entities must allow crystal drops. One High Quality Magic Crystal Block also unpacks into nine High crystals. The checked downgrade recipes only reduce quality; they do not upgrade Low or Medium crystals into High.
 
+## How to use
 
-</div>
-</div>
+Hold one in your main hand and activate [Absorb & Dissolve](../skills/intrinsic/absorb-dissolve.md). One High crystal and three Glass craft nine [Magic Bottles](magic-bottle.md). With the [Low Magisteel Gear Schematic](../items/items-schematics-low-magisteel-gear-schematic.md), downgrade one High crystal into two [Medium crystals](medium-quality-magic-crystal.md) at a Smithing Bench. Nine High crystals craft one same-quality storage block, which unpacks back into nine.
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+## Behavior and limits
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Magic</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../abilities-magics-hellfire/">
-<img src="../../../assets/upstream/tensura/magic/hellfire-9343dbf8eb.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hellfire</strong>
-<small>Summon a sphere of hellfire to deal massive damage in a small area</small>
-</span>
-</a>
-<a class="reference-related-card" href="../hypnos/">
-<img src="../../../assets/upstream/tensura/magic/hypnos-4281c5b9a0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Hypnos</strong>
-<small>Puts the target into a deep slumber</small>
-</span>
-</a>
-<a class="reference-related-card" href="../healthcare/">
-<img src="../../../assets/upstream/tensura/magic/healthcare-aspectual-2a8a1d036e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Healthcare</strong>
-<small>Take care of yourself, you non bathing wiki goer!</small>
-</span>
-</a>
-<a class="reference-related-card" href="../ice-blizzard/">
-<img src="../../../assets/upstream/tensura/magic/ice-blizzard-b76cf3167e.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ice Blizzard</strong>
-<small>Using magic to create a blizzard around the user</small>
-</span>
-</a>
-</div>
-</section>
+The pinned dissolving definition supplies 5,000 base MP; TSR's checked-in Absorb & Dissolve magiculeMultiplier is 1.0. Recovery replenishes current MP rather than increasing permanent maximum MP. The shared loot rule's 9,000 boundary is inclusive and uses the namespace EP multiplier. Source trading claims have not been reverified in this pass; live-server loot and add-on changes remain untested.
 
----
+[Compare Magic Crystal tiers](../items/magic-crystals.md)
+
+[Return to Items](../items/index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [High Quality Magic Crystal](https://tensura.wiki.gg/wiki/High_Quality_Magic_Crystal) on the Tensura: Reincarnated Wiki (revision `12990`, modified `2026-05-28T08:37:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [High Quality Magic Crystal](https://tensura.wiki.gg/wiki/High_Quality_Magic_Crystal) on the Tensura: Reincarnated Wiki, recorded revision `12990`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (79 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png">High quality magic crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3845</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal_Block.png">Invicon High Quality Magic Crystal Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6886</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pufferfish.png">Invicon Pufferfish.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9715</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Rotten_Flesh.png">Invicon Rotten Flesh.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9704</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Eye.png">Invicon Spider Eye.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9703</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Poisonous_Potato.png">Invicon Poisonous Potato.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9717</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Fermented_Spider_Eye.png">Invicon Fermented Spider Eye.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9729</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Apple.png">Invicon Golden Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9129</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Golden_Carrot.png">Invicon Golden Carrot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9725</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Golden_Apple.gif">Invicon Enchanted Golden Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9730</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6701</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Silver_Apple.gif">Invicon Enchanted Silver Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4392</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Daemon_Essence.png">Invicon Daemon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12777</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Essence.png">Invicon Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6505</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Zane_Blood.gif">Invicon Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4398</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Royal_Blood.gif">Invicon Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4399</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Water).png">Invicon Elemental Shard (Water).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6807</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Fire).png">Invicon Elemental Shard (Fire).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6811</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Earth).png">Invicon Elemental Shard (Earth).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6806</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Wind).png">Invicon Elemental Shard (Wind).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6809</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Space).png">Invicon Elemental Shard (Space).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6808</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Porkchop.png">Invicon Raw Porkchop.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9708</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Cod.png">Invicon Raw Cod.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9711</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Salmon.png">Invicon Raw Salmon.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9710</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Tropical_Fish.png">Invicon Tropical Fish.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9702</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Beef.png">Invicon Raw Beef.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9713</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Chicken.png">Invicon Raw Chicken.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9712</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Rabbit.png">Invicon Raw Rabbit.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9707</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Mutton.png">Invicon Raw Mutton.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9709</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Rabbit_Foot.png">Invicon Rabbit Foot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9739</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Ant_Leg.png">Invicon Giant Ant Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6516</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blaze_Powder.png">Invicon Blaze Powder.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9744</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gunpowder.png">Invicon Gunpowder.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9724</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Breath.png">Invicon Dragon Breath.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9740</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glowstone.png">Invicon Glowstone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9726</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Redstone.png">Invicon Redstone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9705</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Nether_Wart.png">Invicon Nether Wart.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9721</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glow_Berries.png">Invicon Glow Berries.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9728</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glow_Ink_Sac.png">Invicon Glow Ink Sac.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9727</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chorus_Fruit.png">Invicon Chorus Fruit.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9745</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mushroom_Stew.png">Invicon Mushroom Stew.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9722</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Brown_Mushroom.png">Invicon Brown Mushroom.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9735</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Mushroom.png">Invicon Red Mushroom.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9742</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Crimson_Fungus.png">Invicon Crimson Fungus.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9734</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Warped_Fungus.png">Invicon Warped Fungus.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9701</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Charybdis_Meat.png">Invicon Raw Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6681</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Megalodon_Meat.png">Invicon Raw Megalodon Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6683</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Spear_Toro_Meat.png">Invicon Raw Spear Toro Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6687</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spear_Toro_Fin.png">Invicon Spear Toro Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6737</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Sissie_Meat.png">Invicon Raw Sissie Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6686</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Oxeye_Daisy.png">Invicon Oxeye Daisy.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9719</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cornflower.png">Invicon Cornflower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9743</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Lily_of_the_Valley.png">Invicon Lily of the Valley.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9723</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wither_Rose.png">Invicon Wither Rose.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9699</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Red_Tulip.png">Invicon Red Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9706</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orange_Tulip.png">Invicon Orange Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9720</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_White_Tulip.png">Invicon White Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9700</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pink_Tulip.png">Invicon Pink Tulip.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9718</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Azure_Bluet.png">Invicon Azure Bluet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9736</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Allium.png">Invicon Allium.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9738</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blue_Orchid.png">Invicon Blue Orchid.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9741</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Poppy.png">Invicon Poppy.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9716</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dandelion.png">Invicon Dandelion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9733</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dubious_Food.png">Invicon Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6508</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Glass.png">Invicon Glass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4423</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle.png">Invicon Magic Bottle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6611</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Bricks.png">Invicon Stone Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2852</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Brick_Magic_Engine.png">Invicon Stone Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6859</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bricks.png">Invicon Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2851</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Brick_Magic_Engine.png">Invicon Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6850</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `io/github/manasmods/tensura/registry/item/TensuraMobDropItems.class`
+    - `io/github/manasmods/tensura/handler/MobHandler.class`
+    - `io/github/manasmods/tensura/data/template/critereon/ExistencePointPredicate.class`
+    - `data/tensura/tags/entity_type/drop_crystal.json`
+    - `data/tensura/item_dissolving/high_quality_magic_crystal.json`
+    - `io/github/manasmods/tensura/ability/skill/intrinsic/AbsorbDissolveSkill.class`
+    - `io/github/manasmods/tensura/util/EnergyHelper.class`
+    - `pack/config/tensura/ability/skill/intrinsic_config.toml`
+    - `data/minecraft/recipe/bottles_of_high_crystal.json`
+    - `data/tensura/recipe/high_quality_magic_crystal_blockfrom_high_quality_magic_crystal.json`
+    - `data/tensura/recipe/high_quality_magic_crystalfrom_high_quality_magic_crystal_block.json`
+    - `data/tensura/recipe/smithing/medium_quality_magic_crystal.json`

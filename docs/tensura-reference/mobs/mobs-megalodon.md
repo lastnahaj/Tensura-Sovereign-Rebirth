@@ -104,11 +104,11 @@ Using the mount ability key (Default R) causes the Megalodon to rush foward, sim
 Base Tensura reference adapted from [Mobs/Megalodon](https://tensura.wiki.gg/wiki/Mobs/Megalodon) on the Tensura: Reincarnated Wiki (revision `13163`, modified `2026-06-24T05:51:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Megalodon.gif">Megalodon.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8939</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Megalodon_Meat.png">Invicon Raw Megalodon Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6683</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Saddle.png">Invicon Monster Saddle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6648</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Megalodon_saddled.png">Megalodon saddled.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9062</li>
 </ul>

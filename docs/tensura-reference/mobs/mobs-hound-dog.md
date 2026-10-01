@@ -97,11 +97,11 @@ The upstream article describes naming a snake-tailed variant as the route to <a 
 Base Tensura reference adapted from [Mobs/Hound Dog](https://tensura.wiki.gg/wiki/Mobs/Hound_Dog) on the Tensura: Reincarnated Wiki (revision `10928`, modified `2025-12-19T13:05:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hound_dog.gif">Hound dog.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8923</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hound_dog_snake.png">Hound dog snake.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8924</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Quality_Magic_Crystal.png">Invicon Low Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6610</li>
+
 </ul>
 </details>

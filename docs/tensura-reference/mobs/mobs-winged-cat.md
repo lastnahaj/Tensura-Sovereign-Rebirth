@@ -106,11 +106,11 @@ A medium spirit of space, can be summoned with <a href="../../magic/summon-mediu
 Base Tensura reference adapted from [Mobs/Winged Cat](https://tensura.wiki.gg/wiki/Mobs/Winged_Cat) on the Tensura: Reincarnated Wiki (revision `12339`, modified `2026-04-21T09:05:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Winged_cat.gif">Winged cat.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 4009</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Space).png">Invicon Elemental Shard (Space).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6808</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

@@ -95,11 +95,11 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Horned Bear](https://tensura.wiki.gg/wiki/Mobs/Horned_Bear) on the Tensura: Reincarnated Wiki (revision `9490`, modified `2025-04-23T18:13:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Horned_bear.gif">Horned bear.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Beast_Horn.png">Invicon Beast Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6453</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png">Invicon Medium Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6615</li>
+
 </ul>
 </details>

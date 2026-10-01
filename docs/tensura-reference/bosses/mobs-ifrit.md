@@ -113,10 +113,10 @@ tags:
 Base Tensura reference adapted from [Mobs/Ifrit](https://tensura.wiki.gg/wiki/Mobs/Ifrit) on the Tensura: Reincarnated Wiki (revision `12410`, modified `2026-04-22T13:05:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Ifrit.gif">Ifrit.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2480</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Essence.png">Invicon Elemental Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6510</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Elemental_Shard_(Fire).png">Invicon Elemental Shard (Fire).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6811</li>
 </ul>

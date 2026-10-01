@@ -98,11 +98,11 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 Base Tensura reference adapted from [Mobs/Tempest Serpent](https://tensura.wiki.gg/wiki/Mobs/Tempest_Serpent) on the Tensura: Reincarnated Wiki (revision `13425`, modified `2026-09-05T14:46:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Tempest_serpent.png">Tempest serpent.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 8928</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Serpent_Scale.png">Invicon Serpent Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6693</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 </ul>
 </details>

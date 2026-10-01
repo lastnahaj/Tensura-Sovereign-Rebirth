@@ -91,7 +91,7 @@ assert potion_routes == {('water', 'grass'): 'tensura:low_potion', ('water', 'fl
 potion_guide = BeautifulSoup((site / 'tensura-reference/items/healing-potions/index.html').read_text(encoding='utf-8'), 'html.parser')
 assert len(potion_guide.select('[data-potion-result]')) == 3 and potion_guide.select_one('[data-potion-base]') and potion_guide.select_one('[data-potion-reagent]'), 'Potion planner controls or results missing'
 assert '16' in potion_guide.get_text() and '180 ticks' in potion_guide.get_text(), 'Potion controls or preparation timing missing'
-bottle_pages = [entry for entry in curated_items['pages'] if entry.get('category') == 'items' and '/magic/' in entry['local_page']]
+bottle_pages = [entry for entry in curated_items['pages'] if 'magic_bottle' in entry.get('registry_id', '')]
 assert {entry['registry_id'] for entry in bottle_pages} == {'tensura:magic_bottle', 'tensura:magic_bottle_of_water', 'tensura:vacuumed_magic_bottle_of_water'}, 'Bottle reference inventory changed'
 magic_directory = BeautifulSoup((site / 'tensura-reference/magic/index.html').read_text(encoding='utf-8'), 'html.parser')
 magic_titles = {card.h2.get_text(' ', strip=True) for card in magic_directory.select('.reference-card')}
@@ -102,6 +102,22 @@ for entry in bottle_pages:
     assert len(returns) == 1 and returns[0]['href'] == '../../items/', 'Bottle article returns to the wrong directory'
 vacuumed = (ROOT / 'docs/tensura-reference/magic/vacuumed-magic-bottle-of-water.md').read_text(encoding='utf-8')
 assert 'fixed 10 MP' in vacuumed and '60 ticks' in vacuumed and '180 ticks' in vacuumed and 'stacks to 16' in vacuumed, 'Vacuumed bottle effects or preparation changed'
+crystals = [entry for entry in curated_items['pages'] if entry.get('crystal_tier')]
+assert [(entry['crystal_tier'], entry['dissolve_mp'], entry['bottle_yield']) for entry in crystals] == [('Low', 1000, 3), ('Medium', 2500, 6), ('High', 5000, 9)], 'Crystal recovery or bottle yield changed'
+crystal_config = tomllib.loads((ROOT / 'pack/config/tensura/ability/skill/intrinsic_config.toml').read_text(encoding='utf-8'))
+assert crystal_config['AbsorbDissolve']['magiculeMultiplier'] == 1.0, 'Recorded crystal recovery multiplier is stale'
+for entry in crystals:
+    assert entry['display_title'] in item_titles and entry['display_title'] not in magic_titles, 'Crystal appears as a spell or is missing from Items'
+    article = (ROOT / 'docs' / entry['local_page']).read_text(encoding='utf-8')
+    assert 'Smithing Bench' in article and 'Low Magisteel Gear Schematic' in article and 'MOB_SUMMONED' in article and 'TRIGGERED' in article, 'Crystal preparation or loot eligibility is missing'
+crystal_guide = BeautifulSoup((site / 'tensura-reference/items/magic-crystals/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(crystal_guide.select('.potion-guide-card img')) == 3 and 'Fractional values' in crystal_guide.get_text(), 'Crystal guide artwork or precise loot boundaries missing'
+assert items.find('a', href='magic-crystals/'), 'Crystal comparison guide is missing from the Items directory'
+withdrawn_crystal_files = {review['file_page'] for review in json.loads((ROOT / 'data/media-file-reviews.json').read_text(encoding='utf-8'))['reviews'] if 'Quality_Magic_Crystal.png' in review['file_page'] or 'quality_magic_crystal.png' in review['file_page']}
+assert len(withdrawn_crystal_files) == 6, 'Crystal File-page reviews are incomplete'
+for article in (ROOT / 'docs/tensura-reference').rglob('*.md'):
+    text = article.read_text(encoding='utf-8')
+    assert not any('<li><a href="' + file_page + '">' in text for file_page in withdrawn_crystal_files), f'Withdrawn crystal image still has a source-media license claim: {article.name}'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

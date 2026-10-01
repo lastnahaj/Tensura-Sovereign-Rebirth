@@ -214,7 +214,7 @@ Each Pure Magisteel Ingot is made with 9 parts Molten Magisteel.
 Base Tensura reference adapted from [Pure Magisteel Ingot](https://tensura.wiki.gg/wiki/Pure_Magisteel_Ingot) on the Tensura: Reincarnated Wiki (revision `10010`, modified `2025-07-14T18:17:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (19 source files)</summary>
+<summary>Media credits (17 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif">Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3980</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
@@ -230,7 +230,7 @@ Base Tensura reference adapted from [Pure Magisteel Ingot](https://tensura.wiki.
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Skill_Reset_Scroll.png">Invicon Skill Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3100</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Bricks.png">Invicon Stone Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2852</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Quality_Magic_Crystal.png">Invicon High Quality Magic Crystal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2846</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stone_Brick_Magic_Engine.png">Invicon Stone Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6859</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bricks.png">Invicon Bricks.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2851</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Brick_Magic_Engine.png">Invicon Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6850</li>
