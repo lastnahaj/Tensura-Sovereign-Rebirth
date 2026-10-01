@@ -157,11 +157,11 @@ tags:
 Base Tensura reference adapted from [Absorb & Dissolve](https://tensura.wiki.gg/wiki/Absorb_%26_Dissolve) on the Tensura: Reincarnated Wiki (revision `13302`, modified `2026-06-30T05:59:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (45 source files)</summary>
+<summary>Media credits (43 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Absorb_and_dissolve.png">Absorb and dissolve.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3292</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_Core.png">Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7249</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Ingot.gif">Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4168</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Core.png">Invicon Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6729</li>
@@ -181,7 +181,7 @@ Base Tensura reference adapted from [Absorb & Dissolve](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Fang.png">Invicon Spider Fang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6742</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Unicorn_Horn.png">Invicon Unicorn Horn.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6764</li>

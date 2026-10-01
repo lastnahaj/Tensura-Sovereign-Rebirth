@@ -214,6 +214,10 @@
   grid-column: 1 / -1;
 }
 
+.reference-item-stats .druid-infobox { grid-template-columns: minmax(0, 1fr); }
+[data-md-color-scheme="default"] .reference-overview .reference-eyebrow { color: #075b83; }
+[data-md-color-scheme="default"] .reference-item-stats .druid-title { color: #725013; }
+
 .tensura-reference-article .navi-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));

@@ -138,12 +138,12 @@ A large black wing from a <a href="../../mobs/mobs-giant-bat/" title="Mobs/Giant
 Base Tensura reference adapted from [Giant Bat Wing](https://tensura.wiki.gg/wiki/Giant_Bat_Wing) on the Tensura: Reincarnated Wiki (revision `9795`, modified `2025-06-01T14:29:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Giant_Bat_Wing.png">Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7030</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(C).png">Invicon Monster Leather (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6820</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
 </ul>
 </details>

@@ -3,6 +3,8 @@ import json
 import hashlib
 from pathlib import Path
 import tomllib
+import posixpath
+from urllib.parse import unquote
 
 from bs4 import BeautifulSoup
 import yaml
@@ -38,11 +40,11 @@ for local_page, asset in media_overrides.items():
         assert hashlib.sha256(asset_path.read_bytes()).hexdigest() == metadata['sha256'], f'Artwork checksum mismatch: {local_page}'
     section = curated_item_categories.get(local_page, Path(local_page).parts[1])
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
-    route = Path(local_page).stem
+    route = local_page.removesuffix('.md')
     matching = [
         card
         for card in directory.select('.reference-card')
-        if card.select_one('a[href]') and card.select_one('a[href]').get('href', '').rstrip('/').split('/')[-1] == route
+        if card.select_one('a[href]') and posixpath.normpath(posixpath.join(f'tensura-reference/{section}/', unquote(card.select_one('a[href]').get('href', '')))).rstrip('/') == route
     ]
     assert len(matching) == 1, f'Missing or duplicate media override card: {local_page}'
     image = matching[0].select_one('img')
@@ -118,6 +120,16 @@ assert len(withdrawn_crystal_files) == 6, 'Crystal File-page reviews are incompl
 for article in (ROOT / 'docs/tensura-reference').rglob('*.md'):
     text = article.read_text(encoding='utf-8')
     assert not any('<li><a href="' + file_page + '">' in text for file_page in withdrawn_crystal_files), f'Withdrawn crystal image still has a source-media license claim: {article.name}'
+materials = [entry for entry in curated_items['pages'] if entry.get('registry_id') in {'tensura:magic_stone', 'tensura:magic_ore_shard'}]
+assert len(materials) == 2, 'Magic material references are incomplete'
+for entry in materials:
+    assert entry['display_title'] in item_titles and entry['display_title'] not in magic_titles, 'Material appears as a spell or is missing from Items'
+stone = (ROOT / 'docs/tensura-reference/magic/magic-stone.md').read_text(encoding='utf-8')
+assert 'outputs one Magic Stone' in stone and 'eight' in stone and 'Low Magisteel Gear Schematic' in stone, 'Stone yield or schematic requirement changed'
+ore = (ROOT / 'docs/tensura-reference/magic/magic-ore-shard.md').read_text(encoding='utf-8')
+assert all(text in ore for text in ('Netherite-tier pickaxe', 'Silk Touch', 'Fortune', 'hold Sneak', '100 ore-shard uses', '5,000 base MP')), 'Ore acquisition, refining, or consumption gate missing'
+slime_config = tomllib.loads((ROOT / 'pack/config/tensura/race/slime_config.toml').read_text(encoding='utf-8'))
+assert slime_config['MetalSlime']['oreRequirement'] == 100, 'Recorded Metal Slime ore requirement is stale'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

@@ -108,10 +108,10 @@ None</div></div><div class="druid-row druid-row-Awakening" data-druid-section-ro
 Base Tensura reference adapted from [Races/Slime](https://tensura.wiki.gg/wiki/Races/Slime) on the Tensura: Reincarnated Wiki (revision `11909`, modified `2026-04-16T14:55:41Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_Race.png">Slime Race.png</a> — CC BY-SA 4.0; uploaded by DiscipleAtlas; revision 5920</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:I%E2%80%99m_not_a_bad_slime!.png">I’m not a bad slime!.png</a> — CC BY-SA 4.0; uploaded by DiscipleAtlas; revision 5918</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 </ul>
 </details>

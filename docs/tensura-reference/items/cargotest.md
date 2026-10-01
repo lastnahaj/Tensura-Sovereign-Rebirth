@@ -92,10 +92,10 @@ tags: []
 Base Tensura reference adapted from [CargoTest](https://tensura.wiki.gg/wiki/CargoTest) on the Tensura: Reincarnated Wiki (revision `4924`, modified `2025-01-03T17:31:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Character_Reset_Scroll.png">Invicon Character Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3104</li>

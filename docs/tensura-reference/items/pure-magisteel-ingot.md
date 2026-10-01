@@ -214,17 +214,17 @@ Each Pure Magisteel Ingot is made with 9 parts Molten Magisteel.
 Base Tensura reference adapted from [Pure Magisteel Ingot](https://tensura.wiki.gg/wiki/Pure_Magisteel_Ingot) on the Tensura: Reincarnated Wiki (revision `10010`, modified `2025-07-14T18:17:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (17 source files)</summary>
+<summary>Media credits (15 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif">Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3980</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kiln.png">Invicon Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6913</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Magic_Ore.png">Invicon Block of Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6849</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Nugget.gif">Invicon Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9652</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Pure_Magisteel.png">Invicon Block of Pure Magisteel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6857</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Character_Reset_Scroll.png">Invicon Character Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3104</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>

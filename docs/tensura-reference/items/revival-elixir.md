@@ -22,7 +22,7 @@ description: "A high-tier healing drink for living targets: restores up to a ful
 !!! warning "Registered item · acquisition unverified"
     Despite its name, this item does not resurrect a dead player. HealingPotionItem returns without applying its effect when the target is not alive.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Revival Elixir</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:revival_elixir</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

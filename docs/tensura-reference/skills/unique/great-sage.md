@@ -121,14 +121,14 @@ Great Sage 0.0.5 is installed and its client/common configuration is tracked. Th
 Base Tensura reference adapted from [Great Sage](https://tensura.wiki.gg/wiki/Great_Sage) on the Tensura: Reincarnated Wiki (revision `13414`, modified `2026-09-01T22:49:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Great_sage.png">Great sage.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3389</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4445</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png">Invicon High Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6551</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png">Invicon Full Potion.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6513</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Nugget.gif">Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2239</li>
 </ul>
 </details>

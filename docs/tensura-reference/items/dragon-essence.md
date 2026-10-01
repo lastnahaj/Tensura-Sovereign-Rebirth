@@ -139,7 +139,7 @@ The overwhelming essence of a large and powerful beast.
 Base Tensura reference adapted from [Dragon Essence](https://tensura.wiki.gg/wiki/Dragon_Essence) on the Tensura: Reincarnated Wiki (revision `12431`, modified `2026-04-24T08:02:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (58 source files)</summary>
+<summary>Media credits (57 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Essence.png">Invicon Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6505</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Dragon_Essence.png">Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7015</li>
@@ -161,7 +161,7 @@ Base Tensura reference adapted from [Dragon Essence](https://tensura.wiki.gg/wik
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 
 
 

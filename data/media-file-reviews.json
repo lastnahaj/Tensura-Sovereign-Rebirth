@@ -461,6 +461,24 @@
       "replacement_asset": "assets/images/items/magic-bottle-of-water.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Ore_Shard.gif",
+      "source_title": "Invicon Magic Ore Shard.gif",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-ore-shard.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png",
+      "source_title": "Invicon Magic Stone.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-stone.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Medium_Quality_Magic_Crystal.png",
       "source_title": "Invicon Medium Quality Magic Crystal.png",
       "checked_on": "2026-09-30",
@@ -551,6 +569,15 @@
       "replacement_asset": "assets/illustrations/skills/magic-nullification.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif",
+      "source_title": "Magic Ore Shard.gif",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-ore-shard.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_resistance.png",
       "source_title": "Magic resistance.png",
       "checked_on": "2026-09-30",
@@ -558,6 +585,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/magic-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Stone.png",
+      "source_title": "Magic Stone.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-stone.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Maximum_magic_bullet.png",

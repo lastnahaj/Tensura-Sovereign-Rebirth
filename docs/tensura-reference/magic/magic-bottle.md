@@ -22,7 +22,7 @@ description: "Craft empty bottles from Glass and a Magic Crystal, then fill them
 !!! info "Crafting route verified"
     This is a crafting and brewing container, not a spell. Its existing article address remains available, but the item is listed under Items.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Magic Bottle</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:magic_bottle</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

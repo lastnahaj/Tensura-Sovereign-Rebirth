@@ -119,11 +119,11 @@ Also used for the <a href="../../core-mechanics/mechanics-reset-counter/" title=
 Base Tensura reference adapted from [Character Reset Scroll](https://tensura.wiki.gg/wiki/Character_Reset_Scroll) on the Tensura: Reincarnated Wiki (revision `11413`, modified `2026-04-01T01:21:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Character_Reset_Scroll.png">Invicon Character Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3104</li>
 </ul>

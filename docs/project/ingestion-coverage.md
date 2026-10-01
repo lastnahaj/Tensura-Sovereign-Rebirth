@@ -22,9 +22,9 @@
 |---|---:|
 | Images discovered | 1737 |
 | Distinct File records resolved | 1733 |
-| Images retained from the import | 1537 |
+| Images retained from the import | 1533 |
 | Imported image placements | 1333 |
-| Images withdrawn after file-level review | 93 |
+| Images withdrawn after file-level review | 97 |
 | Images failed | 103 |
 
 The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill icons, and the Reincarnation icon and replaced them with original TSR illustrations. The resistance review includes Magic Resistance and the command-only Magic Nullification reference. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
@@ -36,6 +36,8 @@ The healing-potion review withdrew six Low, High, and Full Potion images with no
 The bottle review withdrew six empty, filled, and vacuumed Magic Bottle images without verified file-specific image licenses. Original illustrations replace them. These three references retain their original addresses but appear in the Items directory; bottle filling, cooking recipes, stack limits, and MP effects are checked against the pinned artifact.
 
 The crystal review withdrew six Low, Medium, and High Quality Magic Crystal images without verified reusable image licenses. Three original illustrations replace them. The references now appear in Items with a tier-comparison guide, verified absorption and bottle yields, storage recipes, schematic-gated downgrades, and precise shared-loot eligibility rules.
+
+The Magic Stone and Ore Shard review withdrew four inventory and article images without verified reusable image licenses. Two original illustrations replace them. Their item references document artifact-backed crafting, mining, refining, absorption, and the configured ore-consumption evolution gate.
 
 ## Link conversion
 

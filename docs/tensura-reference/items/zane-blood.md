@@ -147,7 +147,7 @@ The blood of an ancient vampire.
 Base Tensura reference adapted from [Zane Blood](https://tensura.wiki.gg/wiki/Zane_Blood) on the Tensura: Reincarnated Wiki (revision `12792`, modified `2026-05-06T12:34:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (58 source files)</summary>
+<summary>Media credits (57 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Zane_Blood.gif">Invicon Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4398</li>
@@ -169,7 +169,7 @@ Base Tensura reference adapted from [Zane Blood](https://tensura.wiki.gg/wiki/Za
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Giant_Bat_Meat.png">Invicon Raw Giant Bat Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6682</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Serpent_Meat.png">Invicon Raw Serpent Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6684</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 
 
 

@@ -150,11 +150,11 @@ tags:
 Base Tensura reference adapted from [Pure Magisteel Nugget](https://tensura.wiki.gg/wiki/Pure_Magisteel_Nugget) on the Tensura: Reincarnated Wiki (revision `9223`, modified `2025-04-14T10:39:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Nugget.gif">Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2239</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Nugget.gif">Invicon Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9652</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 </ul>
 </details>

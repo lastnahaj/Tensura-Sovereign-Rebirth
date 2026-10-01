@@ -190,7 +190,7 @@ Each Mithril Ingot is made with 5 parts Molten Magisteel and 4 parts Molten Silv
 Base Tensura reference adapted from [Mithril Ingot](https://tensura.wiki.gg/wiki/Mithril_Ingot) on the Tensura: Reincarnated Wiki (revision `9524`, modified `2025-04-23T18:45:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (10 source files)</summary>
+<summary>Media credits (9 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Ingot.gif">Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2265</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
@@ -198,7 +198,7 @@ Base Tensura reference adapted from [Mithril Ingot](https://tensura.wiki.gg/wiki
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Mithril.png">Invicon Block of Mithril.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6848</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Race_Reset_Scroll.png">Invicon Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3103</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6701</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Silver_Apple.gif">Invicon Enchanted Silver Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4392</li>

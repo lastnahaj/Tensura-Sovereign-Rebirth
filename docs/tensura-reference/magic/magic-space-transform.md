@@ -98,7 +98,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/space-transform/" t
 </span>
 </a>
 <a class="reference-related-card" href="../magic-stone/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-stone-0889a709d3.png"/>
+<img alt="Magic Stone illustration" decoding="async" loading="lazy" src="../../../assets/images/items/magic-stone.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Stone</strong>
 <small>Can be obtained by crafting at a Smithing Bench</small>
@@ -114,7 +114,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/space-transform/" t
 Base Tensura reference adapted from [Magic Space Transform](https://tensura.wiki.gg/wiki/Magic_Space_Transform) on the Tensura: Reincarnated Wiki (revision `13366`, modified `2026-08-17T12:15:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_space_transform.png">Magic space transform.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3345</li>
 </ul>

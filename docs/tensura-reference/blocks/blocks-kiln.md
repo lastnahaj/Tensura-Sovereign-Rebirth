@@ -185,13 +185,13 @@ To remove metals from the Kiln, take out the undesired material. For this purpos
 Base Tensura reference adapted from [Blocks/Kiln](https://tensura.wiki.gg/wiki/Blocks/Kiln) on the Tensura: Reincarnated Wiki (revision `12020`, modified `2026-04-20T09:15:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (22 source files)</summary>
+<summary>Media credits (20 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kiln.png">Invicon Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6913</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Kiln.png">Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4151</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5559</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Kiln_GUI.png">Kiln GUI.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10009</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif">Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3980</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Nugget.gif">Pure Magisteel Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2239</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>

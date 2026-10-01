@@ -268,10 +268,10 @@ tags:
 Base Tensura reference adapted from [Items/Misc](https://tensura.wiki.gg/wiki/Items/Misc) on the Tensura: Reincarnated Wiki (revision `13085`, modified `2026-06-15T09:39:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (53 source files)</summary>
+<summary>Media credits (49 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Silver.png">Invicon Raw Silver.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6685</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Nugget.png">Invicon Silver Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6714</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Nugget.png">Invicon Low Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6599</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Nugget.png">Invicon High Magisteel Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6541</li>
@@ -291,7 +291,7 @@ Base Tensura reference adapted from [Items/Misc](https://tensura.wiki.gg/wiki/It
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Seeds.png">Invicon Hipokute Seeds.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6556</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Grass.png">Invicon Hipokute Grass.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4445</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Earth).gif">Elemental Core (Earth).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2325</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Elemental_Core_(Fire).gif">Elemental Core (Fire).gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2324</li>

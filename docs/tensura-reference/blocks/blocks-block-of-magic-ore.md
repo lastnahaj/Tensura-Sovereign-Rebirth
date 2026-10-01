@@ -176,12 +176,12 @@ tags:
 Base Tensura reference adapted from [Blocks/Block of Magic Ore](https://tensura.wiki.gg/wiki/Blocks/Block_of_Magic_Ore) on the Tensura: Reincarnated Wiki (revision `10770`, modified `2025-11-12T14:02:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Block_of_Magic_Ore.png">Block of Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3937</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Block_of_Magic_Ore.png">Invicon Block of Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6849</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Pickaxe.png">Invicon Netherite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5581</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Ore_Shard.gif">Invicon Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5934</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Ingot.gif">Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3980</li>
 </ul>
 </details>

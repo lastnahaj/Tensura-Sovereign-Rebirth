@@ -22,7 +22,7 @@ description: "A crafting resource with 1,000 base MP recovery through Absorb & D
 !!! info "Loot and crafting routes verified"
     Crystal drops require an eligible tagged entity and a passing EP/spawn predicate. This is not a guaranteed drop from every mob, and source species lists do not override the pinned loot rules.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Low Quality Magic Crystal</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:low_quality_magic_crystal</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

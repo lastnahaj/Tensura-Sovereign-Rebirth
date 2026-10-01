@@ -22,7 +22,7 @@ description: "Brew flower with ordinary bottled water, or grass with vacuumed bo
 !!! info "Brewing route verified"
     The pinned 1.21.1 item stacks to 16. Ordinary brewing and Tensura Refining are different recipe systems; do not substitute their ingredients or results without checking the appropriate recipe.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">High Potion</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:high_potion</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

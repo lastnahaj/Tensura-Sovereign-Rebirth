@@ -132,13 +132,13 @@ tags:
 Base Tensura reference adapted from [Race Reset Scroll](https://tensura.wiki.gg/wiki/Race_Reset_Scroll) on the Tensura: Reincarnated Wiki (revision `13385`, modified `2026-08-23T04:05:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Race_Reset_Scroll.png">Invicon Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3103</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Race_Reset_Scroll.png">Race Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7197</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 </ul>
 </details>

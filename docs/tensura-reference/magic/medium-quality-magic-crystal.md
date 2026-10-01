@@ -22,7 +22,7 @@ description: "Recover 2,500 base MP through Absorb & Dissolve, make six Magic Bo
 !!! info "Loot and crafting routes verified"
     The shared loot rule requires adjusted maximum EP from 3,000 through 8,999 inclusive, plus the crystal tag and spawn checks. It does not mean every member of a species always drops this tier.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Medium Quality Magic Crystal</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:medium_quality_magic_crystal</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

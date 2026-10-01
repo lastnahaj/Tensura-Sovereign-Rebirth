@@ -1,4 +1,9 @@
 {
+  "tensura-reference/core-mechanics/getting-started.md": {
+    "asset": "assets/images/onboarding-realm-arrival.webp",
+    "kind": "original",
+    "credit": "TSR arrival illustration"
+  },
   "tensura-reference/items/unbound-tome.md": {
     "asset": "assets/images/items/unbound-tome.svg",
     "kind": "original"
@@ -532,6 +537,34 @@
       "date": "2026-09-30",
       "article": "https://tensura.wiki.gg/wiki/High_Quality_Magic_Crystal",
       "file_page": "https://tensura.wiki.gg/wiki/File:High_quality_magic_crystal.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/magic-stone.md": {
+    "asset": "assets/images/items/magic-stone.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "fd0224275427a8dd6a851dac0d68ab7a14a1b76560f061990d9d9b3e70afb8f5",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Stone",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Stone.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/magic-ore-shard.md": {
+    "asset": "assets/images/items/magic-ore-shard.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "eee78c3453d80b5ad8b9d95833490bc40ddfed16547b1cdf11ea6365e92bcbd0",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Ore_Shard",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   }

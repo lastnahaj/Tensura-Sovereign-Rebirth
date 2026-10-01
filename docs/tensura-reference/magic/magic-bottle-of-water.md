@@ -22,7 +22,7 @@ description: "Fill an empty Magic Bottle at a water source. Brew grass into Low 
 !!! info "Filling route verified"
     The pinned filled-bottle implementation stacks to 16, not the source page's older value of 64. Ordinary bottled water is registered with zero MP recovery.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Magic Bottle of Water</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:magic_bottle_of_water</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

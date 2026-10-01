@@ -22,7 +22,7 @@ description: "A registered milk consumable with an older Bulldeer name; normal C
 !!! warning "Registered item · acquisition unverified"
     Do not confuse this registered item with the result of milking a Cattledeer. In the reviewed build, using an empty bucket on that mob explicitly returns minecraft:milk_bucket.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Cattledeer Milk Bucket</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:bucket_of_cattledeer_milk</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

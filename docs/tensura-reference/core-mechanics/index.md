@@ -445,9 +445,9 @@
 </article>
 <article class="reference-card" data-letter="G" data-search="getting started when spawning in, a menu will pop up, showing races you can pick. depending on what race you pick, the difficulty of your progression will change.">
 <a href="getting-started/" aria-label="Open Getting Started">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/onboarding-realm-arrival.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Getting Started</h2>

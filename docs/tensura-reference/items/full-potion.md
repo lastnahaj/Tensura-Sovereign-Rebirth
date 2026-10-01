@@ -22,7 +22,7 @@ description: "Brew Hipokute Flower with vacuumed bottled water to restore 99% of
 !!! info "Brewing route verified"
     Full Potion uses 99% maximum-health healing, not the 100% value used by Revival Elixir. Its MP restoration is a fixed 10,000, not a percentage of maximum MP.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Full Potion</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:full_potion</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

@@ -176,13 +176,13 @@ tags:
 Base Tensura reference adapted from [Blocks/Magic Ore](https://tensura.wiki.gg/wiki/Blocks/Magic_Ore) on the Tensura: Reincarnated Wiki (revision `13297`, modified `2026-06-27T22:37:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore.png">Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3953</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Deepslate_Magic_Ore.png">Deepslate Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3941</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Ore.png">Invicon Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6915</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Deepslate_Magic_Ore.png">Invicon Deepslate Magic Ore.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6910</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Netherite_Pickaxe.png">Invicon Netherite Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5581</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
+
 </ul>
 </details>

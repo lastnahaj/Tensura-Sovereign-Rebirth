@@ -22,7 +22,7 @@ description: "Cook a Magic Bottle of Water to prepare the base for High and Full
 !!! info "Cooking route verified"
     Vacuumed water uses fixed 10 MP recovery, not 10% of maximum MP. Its stack limit is 16. Recipe and code checks do not verify server-specific gameplay changes.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Vacuumed Magic Bottle of Water</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:vacuumed_magic_bottle_of_water</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

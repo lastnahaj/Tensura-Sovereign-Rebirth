@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>197</strong> articles</span>
+<span class="reference-count"><strong>199</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
 </div>
@@ -42,7 +42,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 197 of 197 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 199 of 199 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1698,6 +1698,38 @@
 
 <small class="skill-reference-status">Filling route verified</small>
 <p>Fill an empty Magic Bottle at a water source. Brew grass into Low Potion or flower into High Potion, or cook the bottle into a vacuumed base.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magic ore shard mine magic ore with a netherite-tier pickaxe, refine shards into pure magisteel nuggets, or consume them toward the metal slime evolution gate.">
+<a href="../magic/magic-ore-shard/" aria-label="Open Magic Ore Shard">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-ore-shard.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Ore Shard</h2>
+
+<small class="skill-reference-status">Mining, refining, and consumption rules verified</small>
+<p>Mine Magic Ore with a Netherite-tier pickaxe, refine shards into Pure Magisteel Nuggets, or consume them toward the Metal Slime evolution gate.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magic stone craft one stone from a low magisteel ingot and eight low quality magic crystals at a smithing bench with the required schematic.">
+<a href="../magic/magic-stone/" aria-label="Open Magic Stone">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-stone.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Stone</h2>
+
+<small class="skill-reference-status">Smithing recipe verified</small>
+<p>Craft one stone from a Low Magisteel Ingot and eight Low Quality Magic Crystals at a Smithing Bench with the required schematic.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

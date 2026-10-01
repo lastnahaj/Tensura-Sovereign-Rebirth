@@ -10,8 +10,8 @@ tags: []
 
 <section class="reference-overview reference-theme-evolution">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" alt="Getting Started source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/onboarding-realm-arrival.webp" alt="An adventurer arriving above a luminous fantasy settlement" loading="eager" decoding="async">
+<figcaption>TSR arrival illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -230,10 +230,3 @@ TSR uses the base reincarnation and race opening as the start of a larger progre
 ## Source and licensing
 
 Base Tensura reference adapted from [Getting Started](https://tensura.wiki.gg/wiki/Getting_Started) on the Tensura: Reincarnated Wiki (revision `12992`, modified `2026-06-01T15:32:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Magic_Ore_Shard.gif">Magic Ore Shard.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3950</li>
-</ul>
-</details>

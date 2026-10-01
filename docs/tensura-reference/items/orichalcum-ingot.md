@@ -248,7 +248,7 @@ Each Orichalcum Ingot is made with 5 parts Molten Magisteel and 4 parts Molten G
 Base Tensura reference adapted from [Orichalcum Ingot](https://tensura.wiki.gg/wiki/Orichalcum_Ingot) on the Tensura: Reincarnated Wiki (revision `10068`, modified `2025-08-16T01:46:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (16 source files)</summary>
+<summary>Media credits (14 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Ingot.gif">Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2266</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
@@ -262,7 +262,7 @@ Base Tensura reference adapted from [Orichalcum Ingot](https://tensura.wiki.gg/w
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Enchanted_Golden_Apple.gif">Invicon Enchanted Golden Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 9730</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Paper.png">Invicon Paper.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3096</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Skill_Reset_Scroll.png">Invicon Skill Reset Scroll.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3100</li>
 </ul>

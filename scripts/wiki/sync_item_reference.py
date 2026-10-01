@@ -57,7 +57,7 @@ def generate():
                       '</div>', '</section>', ''])
         if page['catalogue_entry']:
             lines.extend([f'!!! {page.get("notice_kind", "warning")} "{page["status"]}"', f'    {page["warning"]}', '',
-                          '<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">',
+                          '<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">',
                           f'<div class="druid-title">{title}</div>',
                           f'<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">{page["registry_id"]}</div></div>',
                           f'<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura {build["version"]} · Minecraft {build["minecraft"]}</div></div>',

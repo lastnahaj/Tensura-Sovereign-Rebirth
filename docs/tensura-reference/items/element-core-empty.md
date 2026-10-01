@@ -750,11 +750,11 @@ tags:
 Base Tensura reference adapted from [Element Core (Empty)](https://tensura.wiki.gg/wiki/Element_Core_(Empty)) on the Tensura: Reincarnated Wiki (revision `13379`, modified `2026-08-22T13:02:01Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Element_Core_(Empty).png">Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3721</li>
 
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Element_Core_(Empty).png">Invicon Element Core (Empty).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4268</li>
 </ul>
 </details>

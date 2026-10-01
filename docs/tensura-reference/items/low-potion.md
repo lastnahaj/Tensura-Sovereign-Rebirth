@@ -22,7 +22,7 @@ description: "Brew Hipokute Grass with a Magic Bottle of Water to restore 33% of
 !!! info "Brewing route verified"
     The pinned 1.21.1 item stacks to 16, unlike the older source page's non-stackable label. Recipe and effect values are artifact checks, not a live-server gameplay test.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">Low Potion</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:low_potion</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

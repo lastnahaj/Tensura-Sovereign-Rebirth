@@ -965,11 +965,6 @@
       "image": "assets/upstream/tensura/magic/magic-light-transform-9f1477bc7e.png",
       "category": "skills/extra"
     },
-    "tensura-reference/magic/magic-ore-shard/": {
-      "title": "Magic Ore Shard",
-      "image": "assets/upstream/tensura/items/magic-ore-ecafa90efc.png",
-      "category": "magic"
-    },
     "tensura-reference/magic/magic-resistance/": {
       "title": "Magic Resistance",
       "image": "assets/illustrations/skills/magic-resistance.webp",
@@ -988,11 +983,6 @@
     "tensura-reference/magic/magic-staff-schematic/": {
       "title": "Magic Staff Schematic",
       "image": "assets/upstream/tensura/weapons/schematic-5025a4d81f.png",
-      "category": "magic"
-    },
-    "tensura-reference/magic/magic-stone/": {
-      "title": "Magic Stone",
-      "image": "assets/upstream/tensura/magic/magic-stone-0889a709d3.png",
       "category": "magic"
     },
     "tensura-reference/magic/magic-tome/": {

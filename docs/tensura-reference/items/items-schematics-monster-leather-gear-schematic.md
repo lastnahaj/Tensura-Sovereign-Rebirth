@@ -446,7 +446,7 @@ tags:
 Base Tensura reference adapted from [Items/Schematics/Monster Leather Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Monster_Leather_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `13092`, modified `2026-06-15T09:56:25Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (49 source files)</summary>
+<summary>Media credits (48 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Gear_Schematic.png">Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13091</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
@@ -491,7 +491,7 @@ Base Tensura reference adapted from [Items/Schematics/Monster Leather Gear Schem
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(Special_A).png">Invicon Monster Leather Boots (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6823</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Gear_Schematic.png">Invicon Monster Leather Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12053</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Gear_Schematic.png">Invicon Low Magisteel Gear Schematic.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12056</li>

@@ -22,7 +22,7 @@ description: "Recover 5,000 base MP through Absorb & Dissolve, craft nine Magic 
 !!! info "Loot and crafting routes verified"
     The shared loot rule tests adjusted maximum EP of at least 9,000, the crystal-drop tag, spawn exclusions, and named-evolution eligibility. Boss names alone are not proof of a guaranteed drop.
 
-<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
 <div class="druid-title">High Quality Magic Crystal</div>
 <div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:high_quality_magic_crystal</div></div>
 <div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>

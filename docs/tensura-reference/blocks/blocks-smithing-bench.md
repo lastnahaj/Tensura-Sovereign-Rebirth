@@ -571,7 +571,7 @@ tags:
 Base Tensura reference adapted from [Blocks/Smithing Bench](https://tensura.wiki.gg/wiki/Blocks/Smithing_Bench) on the Tensura: Reincarnated Wiki (revision `13111`, modified `2026-06-15T12:16:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (66 source files)</summary>
+<summary>Media credits (64 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Smithing_Bench.png">Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12929</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Smithing_Bench.png">Invicon Smithing Bench.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12930</li>
@@ -615,7 +615,7 @@ Base Tensura reference adapted from [Blocks/Smithing Bench](https://tensura.wiki
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(Special_A).png">Invicon Monster Leather Leggings (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6842</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(Special_A).png">Invicon Monster Leather Boots (Special A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6823</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Peacock_Feather.png">Invicon Dragon Peacock Feather.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6507</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Magic_Stone.png">Invicon Magic Stone.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3098</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Winged_Shoes.png">Invicon Winged Shoes.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6775</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Giant_Bat_Wing.png">Invicon Giant Bat Wing.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6517</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bat_Glider.png">Invicon Bat Glider.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6451</li>

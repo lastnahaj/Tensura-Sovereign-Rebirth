@@ -86,7 +86,7 @@ However, if the plant "failed" to grow, you can destroy it to gain back more see
 </span>
 </a>
 <a class="reference-related-card" href="../getting-started/">
-<img src="../../../assets/upstream/tensura/items/magic-ore-shard-79e9d829c4.gif" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/magic-ore-shard.webp" alt="Magic Ore Shard illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Getting Started</strong>
 <small>When spawning in, a menu will pop up, showing races you can pick. Depending on what race you pick, the difficulty of…</small>

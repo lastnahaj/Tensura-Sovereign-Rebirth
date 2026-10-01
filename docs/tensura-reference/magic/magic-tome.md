@@ -79,7 +79,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../magic-stone/">
-<img src="../../../assets/upstream/tensura/magic/magic-stone-0889a709d3.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/magic-stone.webp" alt="Magic Stone illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Magic Stone</strong>
 <small>Can be obtained by crafting at a Smithing Bench</small>
