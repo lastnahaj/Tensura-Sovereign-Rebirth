@@ -30,6 +30,6 @@ No matching registered consumable or survival acquisition route was verified. Th
 
 ## Source and licensing
 
-Upstream reference: [Greater Holy Water](https://tensura.wiki.gg/wiki/Greater_Holy_Water) on the Tensura: Reincarnated Wiki, recorded revision `9194`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished source artwork is not reproduced.
+Upstream reference: [Greater Holy Water](https://tensura.wiki.gg/wiki/Greater_Holy_Water) on the Tensura: Reincarnated Wiki, recorded revision `9194`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
 Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.

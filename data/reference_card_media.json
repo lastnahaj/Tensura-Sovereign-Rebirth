@@ -408,5 +408,47 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:CS9.png",
       "result": "No file-specific reusable image license was verified; original illustration used."
     }
+  },
+  "tensura-reference/items/low-potion.md": {
+    "asset": "assets/images/items/low-potion.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "aa46a09a5ea6e959a5910f439cc96e7f7c56fe09945716ccad8271e6cb158778",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Low_Potion",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/high-potion.md": {
+    "asset": "assets/images/items/high-potion.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7c1723e25ffcdd7e761afc80bb7ea25601e7d2708010f1938ccaed2481771263",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/High_Potion",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/full-potion.md": {
+    "asset": "assets/images/items/full-potion.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b97f28274236b78f34cdcd291e48b0a3031db7eb349a0ceb08ba7e5dabef55f7",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Full_Potion",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

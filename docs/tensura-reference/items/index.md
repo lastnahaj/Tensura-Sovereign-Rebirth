@@ -7,6 +7,7 @@
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
 <span class="reference-count"><strong>191</strong> articles</span>
+<a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 </div>
 </div>
 </header>
@@ -973,16 +974,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="F" data-search="full potion obtained by brewing hipokute flower with a vacuumed magic bottle of water">
+<article class="reference-card" data-letter="F" data-search="full potion brew hipokute flower with vacuumed bottled water to restore 99% of maximum health and 10,000 mp at full strength.">
 <a href="full-potion/" aria-label="Open Full Potion">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-full-potion-88d91cc002.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/full-potion.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Full Potion</h2>
 
-<p>Obtained by brewing Hipokute Flower with a Vacuumed Magic Bottle of Water</p>
+<small class="skill-reference-status">Brewing route verified</small>
+<p>Brew Hipokute Flower with vacuumed bottled water to restore 99% of maximum health and 10,000 MP at full strength.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1243,16 +1245,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="H" data-search="high potion obtained by brewing hipokute flower with a magic bottle of water or by brewing hipokute grass with a vacuumed magic bottle of water">
+<article class="reference-card" data-letter="H" data-search="high potion brew flower with ordinary bottled water, or grass with vacuumed bottled water, for 66% maximum-health healing and 1,000 mp.">
 <a href="high-potion/" aria-label="Open High Potion">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-high-potion-683e1d94d1.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/high-potion.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>High Potion</h2>
 
-<p>Obtained by brewing Hipokute Flower with a Magic Bottle of Water OR By brewing Hipokute Grass with a Vacuumed Magic Bottle of Water</p>
+<small class="skill-reference-status">Brewing route verified</small>
+<p>Brew flower with ordinary bottled water, or grass with vacuumed bottled water, for 66% maximum-health healing and 1,000 MP.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1618,16 +1621,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="L" data-search="low potion obtained by brewing hipokute grass with a magic bottle of water">
+<article class="reference-card" data-letter="L" data-search="low potion brew hipokute grass with a magic bottle of water to restore 33% of maximum health and 100 mp at full strength.">
 <a href="low-potion/" aria-label="Open Low Potion">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-low-potion-5a26937a8f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/low-potion.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Low Potion</h2>
 
-<p>Obtained by brewing Hipokute Grass with a Magic Bottle of Water</p>
+<small class="skill-reference-status">Brewing route verified</small>
+<p>Brew Hipokute Grass with a Magic Bottle of Water to restore 33% of maximum health and 100 MP at full strength.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

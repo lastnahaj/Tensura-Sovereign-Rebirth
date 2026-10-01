@@ -419,12 +419,40 @@
     apply();
   }
 
+  function setupPotionPlanner(planner) {
+    if (planner.dataset.potionReady === "true") return;
+    planner.dataset.potionReady = "true";
+    const base = planner.querySelector("[data-potion-base]");
+    const reagent = planner.querySelector("[data-potion-reagent]");
+    const status = planner.querySelector("[data-potion-status]");
+    const cards = Array.from(planner.querySelectorAll("[data-potion-result]"));
+    if (!base || !reagent || !status) return;
+    const update = () => {
+      const combination = `${base.value}:${reagent.value}`;
+      let result = "";
+      cards.forEach((card) => {
+        const matches = (card.dataset.potionResult || "").split(" ").includes(combination);
+        card.dataset.active = String(matches);
+        const marker = card.querySelector("[data-potion-selected]");
+        if (marker) marker.hidden = !matches;
+        if (matches) result = card.dataset.potionTitle || "";
+      });
+      const ingredient = reagent.options[reagent.selectedIndex]?.text || "";
+      const bottle = base.options[base.selectedIndex]?.text || "";
+      status.textContent = result ? `${ingredient} + ${bottle} → ${result}` : "No verified brewing result for this combination.";
+    };
+    base.addEventListener("change", update);
+    reagent.addEventListener("change", update);
+    update();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
     document.querySelectorAll("[data-command-reference]").forEach(setupCommandReference);
     document.querySelectorAll("[data-config-reference]").forEach(setupConfigReference);
     document.querySelectorAll("[data-gamerule-reference]").forEach(setupGameruleReference);
+    document.querySelectorAll("[data-potion-planner]").forEach(setupPotionPlanner);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

@@ -77,12 +77,18 @@ for entry in curated_items['pages']:
         assert entry['display_title'] not in item_titles, f'Unverified item promoted: {entry["display_title"]}'
     else:
         card = next(card for card in item_cards if card.h2.get_text(' ', strip=True) == entry['display_title'])
-        assert 'acquisition unverified' in card.get_text(' ', strip=True), 'Registered-only item needs an acquisition warning'
+        expected_status = 'Brewing route verified' if entry.get('acquisition_verified') else 'acquisition unverified'
+        assert expected_status in card.get_text(' ', strip=True), 'Item acquisition status missing'
 assert all(not Path(image.get('src', '')).name.casefold().startswith('cs') for image in items.select('.reference-card-media img')), 'Coming Soon portrait remains in Items'
 elixir = (ROOT / 'docs/tensura-reference/items/revival-elixir.md').read_text(encoding='utf-8')
 assert 'does not resurrect' in elixir and '20,000 MP' in elixir and 'fixed' in elixir, 'Elixir healing limits missing'
 milk = (ROOT / 'docs/tensura-reference/items/bulldeer-milk-bucket.md').read_text(encoding='utf-8')
 assert 'minecraft:milk_bucket' in milk and 'No survival route' in milk, 'Cattledeer milk acquisition is overstated'
+potion_routes = {(route['base'], route['reagent']): entry['registry_id'] for entry in curated_items['pages'] for route in entry.get('brew_routes', [])}
+assert potion_routes == {('water', 'grass'): 'tensura:low_potion', ('water', 'flower'): 'tensura:high_potion', ('vacuumed', 'grass'): 'tensura:high_potion', ('vacuumed', 'flower'): 'tensura:full_potion'}, 'Brewing combinations changed'
+potion_guide = BeautifulSoup((site / 'tensura-reference/items/healing-potions/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(potion_guide.select('[data-potion-result]')) == 3 and potion_guide.select_one('[data-potion-base]') and potion_guide.select_one('[data-potion-reagent]'), 'Potion planner controls or results missing'
+assert '16' in potion_guide.get_text() and '180 ticks' in potion_guide.get_text(), 'Potion controls or preparation timing missing'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

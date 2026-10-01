@@ -30,6 +30,6 @@ The artifact includes legacy holy-milk texture files, but a texture is not an it
 
 ## Source and licensing
 
-Upstream reference: [Holy Milk](https://tensura.wiki.gg/wiki/Holy_Milk) on the Tensura: Reincarnated Wiki, recorded revision `9196`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished source artwork is not reproduced.
+Upstream reference: [Holy Milk](https://tensura.wiki.gg/wiki/Holy_Milk) on the Tensura: Reincarnated Wiki, recorded revision `9196`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
 Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.

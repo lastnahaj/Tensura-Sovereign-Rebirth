@@ -91,7 +91,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../low-potion/">
-<img src="../../../assets/upstream/tensura/items/invicon-low-potion-5a26937a8f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/low-potion.webp" alt="Low Potion illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Low Potion</strong>
 <small>Obtained by brewing Hipokute Grass with a Magic Bottle of Water</small>

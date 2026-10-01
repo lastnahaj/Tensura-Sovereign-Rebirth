@@ -23,7 +23,7 @@ def apply(records):
         record['_summary_override'] = page['summary']
         record['_catalogue_entry'] = page['catalogue_entry']
         record['_availability_status'] = page.get('status')
-        record['_stat_source_note'] = 'Pinned Tensura 2.0.1.2 artifact; survival acquisition unverified.'
+        record['_stat_source_note'] = 'Pinned Tensura 2.0.1.2 artifact.'
         if page.get('asset'):
             record['_primary_media'] = {'local_path': page['asset'], 'kind': 'original'}
         else:
@@ -52,19 +52,21 @@ def generate():
                       '<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a>' + ('<a href="#how-to-use">How to use</a>' if page['catalogue_entry'] else '') + '</nav>',
                       '</div>', '</section>', ''])
         if page['catalogue_entry']:
-            lines.extend([f'!!! warning "{page["status"]}"', f'    {page["warning"]}', '',
+            lines.extend([f'!!! {page.get("notice_kind", "warning")} "{page["status"]}"', f'    {page["warning"]}', '',
                           '<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">',
                           f'<div class="druid-title">{title}</div>',
                           f'<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">{page["registry_id"]}</div></div>',
                           f'<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura {build["version"]} · Minecraft {build["minecraft"]}</div></div>',
-                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Survival route not verified</div></div>', '</aside></div></div>', '',
+                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + ('Brewing route verified' if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>', '</aside></div></div>', '',
                           '## Availability', '', page['obtainment'], '', '## How to use', '', page['use'], '', '## Behavior and limits', '', page['effects'], ''])
+            if page.get('brew_routes'):
+                lines.extend(['[Compare recipes in the healing-potion guide](healing-potions.md)', ''])
         else:
             lines.extend(['!!! warning "Source archive · not verified for current play"', '    This name is preserved for existing links, not recommended as an obtainable item.', '',
                           '<div class="tensura-reference-article">', '<p>This upstream article does not contain usable obtainment or effect documentation.</p>', '</div>', '',
                           '## Availability', '', page['detail'], ''])
         lines.extend(['[Return to Items](index.md)', '', '## Source and licensing', '',
-                      f'Upstream reference: [{source["source_title"]}]({source["source_url"]}) on the Tensura: Reincarnated Wiki, recorded revision `{source["revision_id"]}`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished source artwork is not reproduced.', '',
+                      f'Upstream reference: [{source["source_title"]}]({source["source_url"]}) on the Tensura: Reincarnated Wiki, recorded revision `{source["revision_id"]}`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.', '',
                       f'Implementation check: [Tensura {build["version"]} release]({build["source_url"]}) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/{build["pack_manifest"]}). Artifact SHA-1: `{build["sha1"]}`. Registration and code checks are not live-server gameplay tests.', ''])
         if page.get('asset'):
             lines.extend(['The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.', ''])
@@ -73,7 +75,51 @@ def generate():
             lines.extend(f'    - `{path}`' for path in page['evidence_paths'])
             lines.append('')
         output[page['local_page']] = '\n'.join(lines)
+    output['tensura-reference/items/healing-potions.md'] = generate_guide(data)
     return output
+
+
+def generate_guide(data):
+    potions = [page for page in data['pages'] if page.get('brew_routes')]
+    bases = {'water': 'Magic Bottle of Water', 'vacuumed': 'Vacuumed Magic Bottle of Water'}
+    reagents = {'grass': 'Hipokute Grass', 'flower': 'Hipokute Flower'}
+    lines = ['---', 'title: Healing Potions', 'description: Compare verified brewing routes, healing, MP recovery, and bottle preparation for the pinned 1.21.1 build.', '---', '',
+             '<section class="potion-guide" data-potion-planner>', '<header class="potion-guide-heading">', '<p class="reference-eyebrow">Field alchemy · Minecraft 1.21.1</p>',
+             '<h1>Build your recovery kit</h1>', '<p>Match the bottle and Hipokute ingredient to the potion you need. These four brewing combinations are checked against Tensura 2.0.1.2.</p>', '</header>',
+             '<div class="potion-planner-controls">',
+             '<label for="potion-base">Bottle base<select id="potion-base" data-potion-base><option value="water">Magic Bottle of Water</option><option value="vacuumed">Vacuumed Magic Bottle of Water</option></select></label>',
+             '<label for="potion-reagent">Ingredient<select id="potion-reagent" data-potion-reagent><option value="grass">Hipokute Grass</option><option value="flower">Hipokute Flower</option></select></label>', '</div>',
+             '<p class="potion-planner-status" aria-live="polite" data-potion-status>Choose a bottle and ingredient to highlight the matching brewing result.</p>', '<div class="potion-guide-grid">']
+    for page in potions:
+        combos = ' '.join(route['base'] + ':' + route['reagent'] for route in page['brew_routes'])
+        route = Path(page['local_page']).stem
+        recipes = ''.join(f'<li><span>{bases[recipe["base"]]}</span><b aria-hidden="true">+</b><span>{reagents[recipe["reagent"]]}</span></li>' for recipe in page['brew_routes'])
+        lines.extend([f'<article class="potion-guide-card" data-potion-result="{combos}" data-potion-title="{page["display_title"]}">',
+                      '<span class="potion-selected" data-potion-selected hidden>Matching brew</span>',
+                      f'<a href="../{route}/" aria-label="Read {page["display_title"]}"><img src="../../../{page["asset"]}" alt="{page["display_title"]} illustration" loading="lazy" decoding="async"><h2>{page["display_title"]}</h2></a>',
+                      f'<dl><div><dt>Health restored</dt><dd>{page["hp_percent"]}% <small>of maximum HP</small></dd></div><div><dt>MP restored</dt><dd>{page["mp"]:,} <small>fixed MP</small></dd></div></dl>',
+                      f'<ul class="potion-recipe-list" aria-label="{page["display_title"]} brewing recipes">{recipes}</ul>', '</article>'])
+    lines.extend(['</div>', '<p class="potion-guide-footnote">Original TSR illustrations, not in-game textures. Healing values assume full effect strength; thrown splash strength can be lower. MP recovery is capped at maximum MP.</p>', '</section>', '',
+                  '<div class="tensura-reference-article"><p>Brewing recipes are distinct from Tensura Refining recipes. The planner only represents the ordinary brewing registrations.</p></div>', '',
+                  '## Prepare the bottles', '',
+                  '1. Craft Magic Bottles from three Glass and one Magic Crystal. The pinned recipes yield **3** bottles with a Low Quality crystal, **6** with Medium Quality, or **9** with High Quality. Place Glass around the crystal in the top row and a third Glass below it.',
+                  '2. Use an empty Magic Bottle on a water source to fill it. The item checks interaction permission and source-water targeting.',
+                  '3. For a vacuumed base, cook the filled bottle: **60 ticks** in a furnace or smoker, or **180 ticks** on a campfire. That is 3 or 9 seconds at 20 TPS, excluding setup and any fuel requirements.', '',
+                  '**Ingredient references:** [Hipokute Grass](hipokute-grass.md) · [Hipokute Flower](hipokute-flower.md) · [Magic Bottle](../magic/magic-bottle.md) · [Filled bottle](../magic/magic-bottle-of-water.md)', '',
+                  '## Use the potion safely', '',
+                  'Drink normally, sneak-use to throw, or interact directly with a living target. Drinking takes **16 ticks** and returns an empty Magic Bottle in survival. The pinned potion stack limit is **16**. These items restore current health and MP; they do not raise permanent maximums or resurrect dead players.', '',
+                  '!!! note "Server recipe check"', '    The recipes, values, and controls above are artifact-verified. Server-specific recipe changes and gameplay interactions have not been tested here. Check the in-game recipe browser before collecting materials.', '',
+                  '[Return to Items](index.md) · [Revival Elixir and its acquisition limits](revival-elixir.md)', '',
+                  '## Source and licensing', '',
+                  'Recipe and effect verification: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `' + data['reference_build']['sha1'] + '`.', '',
+                  'The source articles and recorded revisions are cited in the individual [Low](low-potion.md), [High](high-potion.md), and [Full](full-potion.md) potion references. Adapted text remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Original illustrations and File-page reviews are recorded in the public artwork register.', '',
+                  '??? info "Artifact evidence"', '',
+                  '    - `SpecialRecipeRegister`: four potion container mixes.',
+                  '    - `TensuraConsumableItems`, `HealingPotionItem`, `ManaPotionItem`: heal fractions, fixed MP, stack size, controls, and living-target checks.',
+                  '    - `MagicBottleItem`: source-water filling.',
+                  '    - `data/minecraft/recipe/bottles_of_low_crystal.json`, `bottles_of_medium_crystal.json`, `bottles_of_high_crystal.json`: bottle crafting.',
+                  '    - `data/minecraft/recipe/vacuumed_magic_bottle_of_water_from_smelting.json` and matching Tensura smoking/campfire recipes: preparation times.', ''])
+    return '\n'.join(lines)
 
 
 def main():

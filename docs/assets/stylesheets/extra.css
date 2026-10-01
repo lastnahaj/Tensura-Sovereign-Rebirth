@@ -264,6 +264,37 @@
   grid-template-columns: minmax(0, 1fr);
 }
 
+.potion-guide-heading { margin: 1rem 0 1.4rem; }
+.potion-guide-heading h1 { margin: .4rem 0 .7rem; font-weight: 750; }
+.potion-guide-heading > p:last-child { max-width: 42rem; }
+.potion-planner-controls { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.potion-planner-controls label { display: grid; gap: .45rem; font-weight: 650; }
+.potion-planner-controls select { width: 100%; padding: .65rem .8rem; color: var(--md-default-fg-color); background: var(--md-default-bg-color); border: 1px solid rgba(51,214,255,.45); border-radius: .6rem; font: inherit; }
+.potion-planner-controls select:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 3px; }
+.potion-planner-status { padding: .75rem 1rem; border-left: 3px solid #24c5e8; background: rgba(36,197,232,.08); font-weight: 650; }
+.potion-guide-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .85rem; margin-top: 1.2rem; }
+.potion-guide-card { position: relative; overflow: hidden; border: 1px solid rgba(51,214,255,.2); border-radius: .9rem; background: linear-gradient(145deg,rgba(17,85,164,.08),rgba(105,54,184,.06)); }
+.potion-guide-card[data-active="true"] { border-color: #24c5e8; box-shadow: 0 0 0 2px rgba(36,197,232,.14); }
+.potion-guide-card > a { display: block; color: var(--md-default-fg-color); }
+.potion-guide-card img { display: block; width: 100%; aspect-ratio: 1; object-fit: contain; background: #071326; }
+.potion-guide-card h2 { margin: .9rem 1rem .6rem; font-size: 1rem; font-weight: 750; }
+.potion-guide-card dl { margin: 0 1rem; }
+.potion-guide-card dl > div { padding: .55rem 0; border-bottom: 1px solid rgba(120,151,183,.2); }
+.potion-guide-card dt { font-size: .65rem; opacity: .8; }
+.potion-guide-card dd { margin: .1rem 0 0; font-size: 1.25rem; font-weight: 750; }
+.potion-guide-card dd small { display: block; font-size: .65rem; font-weight: 450; }
+.potion-guide .potion-recipe-list { list-style: none; margin: .8rem 1rem 1rem; padding: 0; }
+.potion-guide .potion-recipe-list li { display: grid; gap: .25rem; margin: 0 0 .8rem; font-size: .7rem; line-height: 1.5; }
+.potion-recipe-list b { color: #24c5e8; }
+.potion-selected { position: absolute; top: .65rem; left: .65rem; padding: .2rem .5rem; border-radius: .4rem; background: #084b69; color: #fff; font-size: .6rem; font-weight: 700; }
+.potion-selected[hidden] { display: none; }
+.potion-guide-footnote { font-size: .7rem; opacity: .8; }
+@media (max-width: 760px) {
+  .potion-guide-grid { grid-template-columns: minmax(0, 1fr); }
+  .potion-guide-card img { max-height: 18rem; }
+  .potion-planner-controls { grid-template-columns: minmax(0, 1fr); }
+}
+
 .reference-overview-media {
   position: relative;
   min-height: 10rem;

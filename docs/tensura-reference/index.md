@@ -1,6 +1,6 @@
 # Tensura Reference
 
-This visual library presents every imported Tensura article in one reference experience. Start with a path below, filter the collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.
+This library combines Tensura references with curated directories for the current build. Start with a path below, filter the collection, then open an article for its source imagery, at-a-glance summary, infobox, and expandable details.
 
 !!! warning "Version context"
     Upstream articles may describe historical Minecraft or mod versions. TSR targets **Minecraft 1.21.1**, **NeoForge 21.1.248**, and **Java 21**. An upstream article is not proof that a historical feature is active in TSR's frozen runtime.
@@ -8,8 +8,8 @@ This visual library presents every imported Tensura article in one reference exp
 <div class="reference-metric-grid">
 <div><strong>1340</strong><span>articles</span></div>
 <div><strong>394</strong><span>local aliases</span></div>
-<div><strong>1784</strong><span>source images</span></div>
-<div><strong>2</strong><span>audited sources</span></div>
+<div><strong>1710</strong><span>source images</span></div>
+<div><strong>2</strong><span>source wikis</span></div>
 </div>
 
 ## Choose a path
@@ -21,7 +21,7 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>Reincarnation &amp; Evolution</h2>
 <p>Choose a form, understand its requirements, and follow explicit race branches.</p>
 <div class="reference-path-links">
-<a href="core-mechanics/">Core Mechanics <span>63</span></a>
+<a href="core-mechanics/">Core Mechanics <span>62</span></a>
 <a href="races/">Race families <span>38</span></a>
 </div>
 </div>
@@ -32,14 +32,14 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>Skills &amp; Arcana</h2>
 <p>Explore abilities by class, magical system, resistance, and combat discipline.</p>
 <div class="reference-path-links">
-<a href="skills/intrinsic/">Intrinsic Skills <span>63</span></a>
+<a href="skills/intrinsic/">Intrinsic Skills <span>55</span></a>
 <a href="skills/common/">Common Skills <span>20</span></a>
-<a href="skills/extra/">Extra Skills <span>97</span></a>
-<a href="skills/unique/">Unique Skills <span>146</span></a>
-<a href="skills/ultimate/">Ultimate Skills <span>99</span></a>
+<a href="skills/extra/">Extra Skills <span>104</span></a>
+<a href="skills/unique/">Unique Skills <span>141</span></a>
+<a href="skills/ultimate/">Ultimate Skills <span>64</span></a>
 <a href="skills/other/">Other Skills <span>8</span></a>
-<a href="resistances/">Resistances <span>45</span></a>
-<a href="magic/">Magic <span>147</span></a>
+<a href="resistances/">Resistances <span>44</span></a>
+<a href="magic/">Magic <span>121</span></a>
 <a href="battlewill/">Battlewill <span>26</span></a>
 </div>
 </div>
@@ -61,14 +61,14 @@ This visual library presents every imported Tensura article in one reference exp
 <h2>World &amp; Equipment</h2>
 <p>Browse gear, materials, structures, terrain, and the technical reference.</p>
 <div class="reference-path-links">
-<a href="items/">Items &amp; Materials <span>207</span></a>
+<a href="items/">Items &amp; Materials <span>191</span></a>
 <a href="weapons/">Weapons <span>91</span></a>
 <a href="armor/">Armor <span>51</span></a>
 <a href="tools/">Tools <span>30</span></a>
-<a href="blocks/">Blocks <span>29</span></a>
-<a href="structures/">Structures <span>12</span></a>
+<a href="blocks/">Blocks <span>35</span></a>
+<a href="structures/">Structures <span>22</span></a>
 <a href="biomes/">Biomes <span>12</span></a>
-<a href="dimensions/">Dimensions <span>1</span></a>
+<a href="dimensions/">Dimensions <span>6</span></a>
 <a href="commands/">Commands <span>Overview</span></a>
 <a href="configuration/">Configuration <span>3</span></a>
 <a href="gamerules/">Gamerules <span>Overview</span></a>

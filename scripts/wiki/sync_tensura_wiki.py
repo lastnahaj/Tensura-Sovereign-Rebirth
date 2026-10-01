@@ -1844,6 +1844,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
     )
     if category == 'mobs':
         lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/bosses/index.md")}">Browse boss encounters →</a>')
+    if category == 'items':
+        lines.append(f'<a class="reference-directory-overview-link" href="{rendered_page_relative_url(index_page, f"{REFERENCE_SLUG}/items/healing-potions.md")}">Build a healing kit →</a>')
     if not combined_directory or not ordered:
         for position, overview_record in enumerate(visible_overviews):
             label = "Read collection overview" if position == 0 else "Read additional overview"
@@ -2023,7 +2025,7 @@ def generate_reference_index(
     reference_title = "Tensura Reference" if combined_reference else SOURCE_REFERENCE_TITLE
     if combined_reference:
         reference_intro = (
-            "This visual library presents every imported Tensura article in one reference experience. "
+            "This library combines Tensura references with curated directories for the current build. "
             "Start with a path below, filter the collection, then open an article for its "
             "source imagery, at-a-glance summary, infobox, and expandable details."
         )
@@ -2053,7 +2055,7 @@ def generate_reference_index(
         f'<div><strong>{total_aliases}</strong><span>local aliases</span></div>',
         f'<div><strong>{total_media}</strong><span>source images</span></div>',
         (
-            '<div><strong>2</strong><span>audited sources</span></div>'
+            '<div><strong>2</strong><span>source wikis</span></div>'
             if combined_reference
             else f'<div><strong>{len(category_totals)}</strong><span>collections</span></div>'
         ),
@@ -2082,6 +2084,15 @@ def generate_reference_index(
             category_title = CATEGORY_INFO[category][0]
             target = (PurePosixPath(category) / "index.md").as_posix()
             category_count = all_category_counts.get(category, 0)
+            if combined_reference:
+                directory_path = DOCS / REFERENCE_SLUG / target
+                if directory_path.exists():
+                    directory = BeautifulSoup(directory_path.read_text(encoding="utf-8"), "html.parser")
+                    cards = directory.select(".reference-card")
+                    if cards:
+                        category_count = len(cards)
+                if category == "races":
+                    category_title = "Race families"
             count_label = str(category_count) if category_count else "Overview"
             lines.append(
                 f'<a href="{rendered_page_relative_url(index_page, PurePosixPath(REFERENCE_SLUG) / target)}">'

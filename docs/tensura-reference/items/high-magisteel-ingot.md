@@ -181,7 +181,7 @@ Each High Magisteel Ingot is made with 4 parts Molten Magisteel, 5 parts Molten 
 </span>
 </a>
 <a class="reference-related-card" href="../high-potion/">
-<img src="../../../assets/upstream/tensura/items/invicon-high-potion-683e1d94d1.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/high-potion.webp" alt="High Potion illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>High Potion</strong>
 <small>Obtained by brewing Hipokute Flower with a Magic Bottle of Water OR By brewing Hipokute Grass with a Vacuumed Magic…</small>

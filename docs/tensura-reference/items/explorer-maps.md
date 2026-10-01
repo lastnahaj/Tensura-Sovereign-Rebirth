@@ -92,7 +92,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../full-potion/">
-<img src="../../../assets/upstream/tensura/items/invicon-full-potion-88d91cc002.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/full-potion.webp" alt="Full Potion illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Full Potion</strong>
 <small>Obtained by brewing Hipokute Flower with a Vacuumed Magic Bottle of Water</small>

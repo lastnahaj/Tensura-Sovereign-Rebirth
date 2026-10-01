@@ -290,6 +290,15 @@
       "replacement_asset": "assets/illustrations/skills/formhide.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Full_Potion.png",
+      "source_title": "Full Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/full-potion.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Gravity_attack_nullification.png",
       "source_title": "Gravity attack nullification.png",
       "checked_on": "2026-09-30",
@@ -344,6 +353,15 @@
       "replacement_asset": "assets/illustrations/skills/heavy-slash.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:High_Potion.png",
+      "source_title": "High Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/high-potion.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Holy_attack_nullification.png",
       "source_title": "Holy attack nullification.png",
       "checked_on": "2026-09-30",
@@ -371,6 +389,33 @@
       "replacement_asset": "assets/illustrations/skills/instant-move.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png",
+      "source_title": "Invicon Full Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/full-potion.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_High_Potion.png",
+      "source_title": "Invicon High Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/high-potion.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Potion.png",
+      "source_title": "Invicon Low Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-potion.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_nullification.png",
       "source_title": "Light attack nullification.png",
       "checked_on": "2026-09-30",
@@ -387,6 +432,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/light-attack-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Low_Potion.png",
+      "source_title": "Low Potion.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/low-potion.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_bullet.png",
