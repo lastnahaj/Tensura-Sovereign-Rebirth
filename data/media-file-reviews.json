@@ -416,6 +416,33 @@
       "replacement_asset": "assets/images/items/low-potion.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle.png",
+      "source_title": "Invicon Magic Bottle.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-bottle.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle_of_Water.png",
+      "source_title": "Invicon Magic Bottle of Water.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-bottle-of-water.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png",
+      "source_title": "Invicon Vacuumed Magic Bottle of Water.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/vacuumed-magic-bottle-of-water.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_nullification.png",
       "source_title": "Light attack nullification.png",
       "checked_on": "2026-09-30",
@@ -441,6 +468,24 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/low-potion.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Bottle.png",
+      "source_title": "Magic Bottle.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-bottle.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Magic_Bottle_of_Water.png",
+      "source_title": "Magic Bottle of Water.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/magic-bottle-of-water.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Magic_bullet.png",
@@ -684,6 +729,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/thermal-fluctuation-resistance.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Vacuumed_Magic_Bottle_of_Water.png",
+      "source_title": "Vacuumed Magic Bottle of Water.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/vacuumed-magic-bottle-of-water.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Violent_break.png",

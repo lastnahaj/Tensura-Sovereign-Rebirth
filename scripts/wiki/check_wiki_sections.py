@@ -26,6 +26,8 @@ for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     prefixed_titles = [heading.get_text(' ', strip=True) for heading in page.select('.reference-card h2') if '/' in heading.get_text()]
     assert not prefixed_titles, f'Upstream namespace leaked into {section} card titles: {prefixed_titles}'
 media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
+from sync_item_reference import manifest as item_manifest
+curated_item_categories = {entry['local_page']: entry.get('category', 'items') for entry in item_manifest()['pages']}
 for local_page, asset in media_overrides.items():
     metadata = asset if isinstance(asset, dict) else {}
     if isinstance(asset, dict):
@@ -34,7 +36,7 @@ for local_page, asset in media_overrides.items():
     assert asset_path.exists(), f'Missing card artwork: {asset}'
     if metadata.get('sha256'):
         assert hashlib.sha256(asset_path.read_bytes()).hexdigest() == metadata['sha256'], f'Artwork checksum mismatch: {local_page}'
-    section = Path(local_page).parts[1]
+    section = curated_item_categories.get(local_page, Path(local_page).parts[1])
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     route = Path(local_page).stem
     matching = [
@@ -77,7 +79,7 @@ for entry in curated_items['pages']:
         assert entry['display_title'] not in item_titles, f'Unverified item promoted: {entry["display_title"]}'
     else:
         card = next(card for card in item_cards if card.h2.get_text(' ', strip=True) == entry['display_title'])
-        expected_status = 'Brewing route verified' if entry.get('acquisition_verified') else 'acquisition unverified'
+        expected_status = entry['status'] if entry.get('acquisition_verified') else 'acquisition unverified'
         assert expected_status in card.get_text(' ', strip=True), 'Item acquisition status missing'
 assert all(not Path(image.get('src', '')).name.casefold().startswith('cs') for image in items.select('.reference-card-media img')), 'Coming Soon portrait remains in Items'
 elixir = (ROOT / 'docs/tensura-reference/items/revival-elixir.md').read_text(encoding='utf-8')
@@ -89,6 +91,17 @@ assert potion_routes == {('water', 'grass'): 'tensura:low_potion', ('water', 'fl
 potion_guide = BeautifulSoup((site / 'tensura-reference/items/healing-potions/index.html').read_text(encoding='utf-8'), 'html.parser')
 assert len(potion_guide.select('[data-potion-result]')) == 3 and potion_guide.select_one('[data-potion-base]') and potion_guide.select_one('[data-potion-reagent]'), 'Potion planner controls or results missing'
 assert '16' in potion_guide.get_text() and '180 ticks' in potion_guide.get_text(), 'Potion controls or preparation timing missing'
+bottle_pages = [entry for entry in curated_items['pages'] if entry.get('category') == 'items' and '/magic/' in entry['local_page']]
+assert {entry['registry_id'] for entry in bottle_pages} == {'tensura:magic_bottle', 'tensura:magic_bottle_of_water', 'tensura:vacuumed_magic_bottle_of_water'}, 'Bottle reference inventory changed'
+magic_directory = BeautifulSoup((site / 'tensura-reference/magic/index.html').read_text(encoding='utf-8'), 'html.parser')
+magic_titles = {card.h2.get_text(' ', strip=True) for card in magic_directory.select('.reference-card')}
+for entry in bottle_pages:
+    assert entry['display_title'] in item_titles and entry['display_title'] not in magic_titles, 'Bottle appears as a spell or is missing from Items'
+    article = BeautifulSoup((site / entry['local_page'].replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+    returns = [link for link in article.find_all('a') if link.get_text(strip=True) == 'Return to Items']
+    assert len(returns) == 1 and returns[0]['href'] == '../../items/', 'Bottle article returns to the wrong directory'
+vacuumed = (ROOT / 'docs/tensura-reference/magic/vacuumed-magic-bottle-of-water.md').read_text(encoding='utf-8')
+assert 'fixed 10 MP' in vacuumed and '60 ticks' in vacuumed and '180 ticks' in vacuumed and 'stacks to 16' in vacuumed, 'Vacuumed bottle effects or preparation changed'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

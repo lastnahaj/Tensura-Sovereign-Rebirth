@@ -945,16 +945,6 @@
       "image": "assets/upstream/tensura/magic/magic-barrier-55ee01534c.png",
       "category": "magic"
     },
-    "tensura-reference/magic/magic-bottle/": {
-      "title": "Magic Bottle",
-      "image": "assets/upstream/tensura/magic/magic-bottle-4eb44b521e.png",
-      "category": "magic"
-    },
-    "tensura-reference/magic/magic-bottle-of-water/": {
-      "title": "Magic Bottle of Water",
-      "image": "assets/upstream/tensura/magic/magic-bottle-of-water-82466c164f.png",
-      "category": "magic"
-    },
     "tensura-reference/battlewill/magic-bullet/": {
       "title": "Magic Bullet",
       "image": "assets/illustrations/skills/magic-bullet.webp",
@@ -2014,11 +2004,6 @@
       "title": "Usurper",
       "image": "assets/upstream/tensura/skills/usurper-4c081eeff8.png",
       "category": "skills/unique"
-    },
-    "tensura-reference/magic/vacuumed-magic-bottle-of-water/": {
-      "title": "Vacuumed Magic Bottle of Water",
-      "image": "assets/upstream/tensura/magic/vacuumed-magic-bottle-of-water-dc4b2b32ac.png",
-      "category": "magic"
     },
     "tensura-reference/skills/unique/villain/": {
       "title": "Villain",

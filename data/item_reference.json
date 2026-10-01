@@ -11,6 +11,76 @@
   },
   "pages": [
     {
+      "local_page": "tensura-reference/magic/magic-bottle.md",
+      "display_title": "Magic Bottle",
+      "category": "items",
+      "asset": "assets/images/items/magic-bottle.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:magic_bottle",
+      "summary": "Craft empty bottles from Glass and a Magic Crystal, then fill them at a water source to begin brewing.",
+      "status": "Crafting route verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "This is a crafting and brewing container, not a spell. Its existing article address remains available, but the item is listed under Items.",
+      "obtainment": "Craft three Glass around one Magic Crystal: Glass–Crystal–Glass across one row, then Glass beneath the crystal. The pinned recipes produce 3 bottles with Low Quality, 6 with Medium Quality, or 9 with High Quality Magic Crystal.",
+      "use": "Use the empty bottle while aiming at a water source. MagicBottleItem uses source-only fluid targeting, checks interaction permission, and returns a [Magic Bottle of Water](magic-bottle-of-water.md). Flowing-water targeting is not the documented filling route.",
+      "effects": "The empty container does not restore health or MP. It is distinct from the drinkable filled bottles. Its implementation also supports collecting vanilla Dragon's Breath from a live Ender Dragon-owned area-effect cloud; this code path is not a live encounter test.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class",
+        "io/github/manasmods/tensura/item/consumable/MagicBottleItem.class",
+        "data/minecraft/recipe/bottles_of_low_crystal.json",
+        "data/minecraft/recipe/bottles_of_medium_crystal.json",
+        "data/minecraft/recipe/bottles_of_high_crystal.json"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/magic/magic-bottle-of-water.md",
+      "display_title": "Magic Bottle of Water",
+      "category": "items",
+      "asset": "assets/images/items/magic-bottle-of-water.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:magic_bottle_of_water",
+      "summary": "Fill an empty Magic Bottle at a water source. Brew grass into Low Potion or flower into High Potion, or cook the bottle into a vacuumed base.",
+      "status": "Filling route verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "The pinned filled-bottle implementation stacks to 16, not the source page's older value of 64. Ordinary bottled water is registered with zero MP recovery.",
+      "obtainment": "Use an empty [Magic Bottle](magic-bottle.md) on a permitted water source. The filled item is registered as tensura:magic_bottle_of_water; it is not a vanilla Water Bottle.",
+      "use": "At a brewing stand, combine this base with [Hipokute Grass](../items/hipokute-grass.md) for [Low Potion](../items/low-potion.md) or [Hipokute Flower](../items/hipokute-flower.md) for [High Potion](../items/high-potion.md). Cook it in a furnace or smoker for 60 ticks, or on a campfire for 180 ticks, to obtain [Vacuumed Magic Bottle of Water](vacuumed-magic-bottle-of-water.md). Consult the healing-potion guide for the complete recipe comparison.",
+      "effects": "The item uses ManaPotionItem with zero food, saturation, and MP recovery. Drinking takes 16 ticks and returns an empty Magic Bottle in survival. Sneak-use throws the bottle; direct living-target interaction is also implemented. Filled bottles stack to 16.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class",
+        "io/github/manasmods/tensura/item/consumable/MagicBottleItem.class",
+        "io/github/manasmods/tensura/item/consumable/ManaPotionItem.class",
+        "io/github/manasmods/tensura/recipe/SpecialRecipeRegister.class",
+        "data/minecraft/recipe/vacuumed_magic_bottle_of_water_from_smelting.json"
+      ]
+    },
+    {
+      "local_page": "tensura-reference/magic/vacuumed-magic-bottle-of-water.md",
+      "display_title": "Vacuumed Magic Bottle of Water",
+      "category": "items",
+      "asset": "assets/images/items/vacuumed-magic-bottle-of-water.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:vacuumed_magic_bottle_of_water",
+      "summary": "Cook a Magic Bottle of Water to prepare the base for High and Full Potions. The filled item also restores a fixed 10 MP at full effect strength.",
+      "status": "Cooking route verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "Vacuumed water uses fixed 10 MP recovery, not 10% of maximum MP. Its stack limit is 16. Recipe and code checks do not verify server-specific gameplay changes.",
+      "obtainment": "Cook one [Magic Bottle of Water](magic-bottle-of-water.md) in a furnace or smoker for 60 ticks, or on a campfire for 180 ticks. Each pinned recipe yields one vacuumed bottle and zero experience. At 20 TPS the processing times are 3 or 9 seconds, excluding setup and any fuel requirements.",
+      "use": "Brew this base with [Hipokute Grass](../items/hipokute-grass.md) for [High Potion](../items/high-potion.md) or [Hipokute Flower](../items/hipokute-flower.md) for [Full Potion](../items/full-potion.md). Drinking takes 16 ticks and returns an empty [Magic Bottle](magic-bottle.md) in survival. Sneak-use throws the bottle, and direct living-target interaction is also implemented.",
+      "effects": "At full effect strength, ManaPotionItem adds a fixed 10 MP, capped at maximum MP. It does not heal health, raise permanent maximum MP, or revive dead targets. Thrown effect strength can be lower. The filled bottle stacks to 16.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraConsumableItems.class",
+        "io/github/manasmods/tensura/item/consumable/ManaPotionItem.class",
+        "io/github/manasmods/tensura/recipe/SpecialRecipeRegister.class",
+        "data/minecraft/recipe/vacuumed_magic_bottle_of_water_from_smelting.json",
+        "data/tensura/recipe/vacuumed_magic_bottle_of_water_from_smoking.json",
+        "data/tensura/recipe/vacuumed_magic_bottle_of_water_from_campfire_cooking.json"
+      ]
+    },
+    {
       "local_page": "tensura-reference/items/low-potion.md",
       "display_title": "Low Potion",
       "asset": "assets/images/items/low-potion.webp",

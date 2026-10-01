@@ -22,9 +22,9 @@
 |---|---:|
 | Images discovered | 1737 |
 | Distinct File records resolved | 1733 |
-| Images retained from the import | 1549 |
+| Images retained from the import | 1543 |
 | Imported image placements | 1333 |
-| Images withdrawn after file-level review | 81 |
+| Images withdrawn after file-level review | 87 |
 | Images failed | 103 |
 
 The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill icons, and the Reincarnation icon and replaced them with original TSR illustrations. The resistance review includes Magic Resistance and the command-only Magic Nullification reference. The [review register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/media-file-reviews.json) supersedes the older footer-derived import decisions for those files. Other legacy media permissions remain under review. New imports require an explicit reusable image license and a rendered File-page exception check; the general page-content footer is not an image license.
@@ -32,6 +32,8 @@ The September 30 file-level review withdrew 44 resistance icons, 23 Battlewill i
 The consumable review also withdrew six editor portraits and one Revival Elixir inventory image. Registered elixir and milk references use original illustrations; unsupported source stubs omit their editor portraits and are excluded from current item cards. Imported placement counts above describe the September 5 snapshot, not today's retained placements.
 
 The healing-potion review withdrew six Low, High, and Full Potion images with no verified file-specific reusable license. Three original illustrations replace them. The interactive brewing guide and individual references use recipe and recovery values checked against the pinned Tensura 2.0.1.2 artifact, including its stack limit of 16.
+
+The bottle review withdrew six empty, filled, and vacuumed Magic Bottle images without verified file-specific image licenses. Original illustrations replace them. These three references retain their original addresses but appear in the Items directory; bottle filling, cooking recipes, stack limits, and MP effects are checked against the pinned artifact.
 
 ## Link conversion
 

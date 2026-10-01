@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>191</strong> articles</span>
+<span class="reference-count"><strong>194</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 </div>
 </div>
@@ -37,10 +37,11 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
+<button type="button" data-letter="V" aria-pressed="false">V</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 191 of 191 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 194 of 194 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -1637,6 +1638,38 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="magic bottle craft empty bottles from glass and a magic crystal, then fill them at a water source to begin brewing.">
+<a href="../magic/magic-bottle/" aria-label="Open Magic Bottle">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-bottle.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Bottle</h2>
+
+<small class="skill-reference-status">Crafting route verified</small>
+<p>Craft empty bottles from Glass and a Magic Crystal, then fill them at a water source to begin brewing.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="magic bottle of water fill an empty magic bottle at a water source. brew grass into low potion or flower into high potion, or cook the bottle into a vacuumed base.">
+<a href="../magic/magic-bottle-of-water/" aria-label="Open Magic Bottle of Water">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-bottle-of-water.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Bottle of Water</h2>
+
+<small class="skill-reference-status">Filling route verified</small>
+<p>Fill an empty Magic Bottle at a water source. Brew grass into Low Potion or flower into High Potion, or cook the bottle into a vacuumed base.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="marionette heart a rare magic item that can turn the user into a majin with the cost of half their max hp in damage and most of their current magicule. this does not mean that the…">
 <a href="marionette-heart/" aria-label="Open Marionette Heart">
 <figure class="reference-card-media reference-card-media--source">
@@ -2833,6 +2866,22 @@
 <h2>Unicorn Horn</h2>
 
 <p>An ethereal horn from a Unicorn . You monster...</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="V" data-search="vacuumed magic bottle of water cook a magic bottle of water to prepare the base for high and full potions. the filled item also restores a fixed 10 mp at full effect strength.">
+<a href="../magic/vacuumed-magic-bottle-of-water/" aria-label="Open Vacuumed Magic Bottle of Water">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/vacuumed-magic-bottle-of-water.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Vacuumed Magic Bottle of Water</h2>
+
+<small class="skill-reference-status">Cooking route verified</small>
+<p>Cook a Magic Bottle of Water to prepare the base for High and Full Potions. The filled item also restores a fixed 10 MP at full effect strength.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

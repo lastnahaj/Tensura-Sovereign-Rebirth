@@ -91,7 +91,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/earth-transform/" t
 </span>
 </a>
 <a class="reference-related-card" href="../magic-bottle-of-water/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-bottle-of-water-82466c164f.png"/>
+<img alt="Magic Bottle of Water illustration" decoding="async" loading="lazy" src="../../../assets/images/items/magic-bottle-of-water.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Bottle of Water</strong>
 <small>Right clicking water with an empty Magic Bottle</small>
@@ -114,7 +114,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/earth-transform/" t
 Base Tensura reference adapted from [Magic Earth Transform](https://tensura.wiki.gg/wiki/Magic_Earth_Transform) on the Tensura: Reincarnated Wiki (revision `11327`, modified `2026-03-31T20:45:35Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_earth_transform.png">Magic earth transform.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3350</li>
 </ul>

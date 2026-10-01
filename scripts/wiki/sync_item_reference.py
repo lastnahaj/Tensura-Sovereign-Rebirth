@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import posixpath
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -20,6 +21,7 @@ def apply(records):
         if not page:
             continue
         record['display_title'] = page['display_title']
+        record['category'] = page.get('category', record['category'])
         record['_summary_override'] = page['summary']
         record['_catalogue_entry'] = page['catalogue_entry']
         record['_availability_status'] = page.get('status')
@@ -41,6 +43,8 @@ def generate():
     for page in data['pages']:
         source = sources[page['local_page']]
         title = html.escape(page['display_title'])
+        items_link = posixpath.relpath('tensura-reference/items/index.md', posixpath.dirname(page['local_page']))
+        guide_link = posixpath.relpath('tensura-reference/items/healing-potions.md', posixpath.dirname(page['local_page']))
         lines = ['---', f'title: {json.dumps(page["display_title"])}', f'description: {json.dumps(page["summary"])}', '---', '', f'# {page["display_title"]}', '',
                  '<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>', '',
                  '<section class="reference-overview reference-theme-world' + ('' if page.get('asset') else ' reference-overview--text-only') + '">']
@@ -57,15 +61,15 @@ def generate():
                           f'<div class="druid-title">{title}</div>',
                           f'<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">{page["registry_id"]}</div></div>',
                           f'<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura {build["version"]} · Minecraft {build["minecraft"]}</div></div>',
-                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + ('Brewing route verified' if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>', '</aside></div></div>', '',
+                          '<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">' + (html.escape(page['status']) if page.get('acquisition_verified') else 'Survival route not verified') + '</div></div>', '</aside></div></div>', '',
                           '## Availability', '', page['obtainment'], '', '## How to use', '', page['use'], '', '## Behavior and limits', '', page['effects'], ''])
-            if page.get('brew_routes'):
-                lines.extend(['[Compare recipes in the healing-potion guide](healing-potions.md)', ''])
+            if page.get('brew_routes') or page.get('category') == 'items':
+                lines.extend([f'[Compare recipes in the healing-potion guide]({guide_link})', ''])
         else:
             lines.extend(['!!! warning "Source archive · not verified for current play"', '    This name is preserved for existing links, not recommended as an obtainable item.', '',
                           '<div class="tensura-reference-article">', '<p>This upstream article does not contain usable obtainment or effect documentation.</p>', '</div>', '',
                           '## Availability', '', page['detail'], ''])
-        lines.extend(['[Return to Items](index.md)', '', '## Source and licensing', '',
+        lines.extend([f'[Return to Items]({items_link})', '', '## Source and licensing', '',
                       f'Upstream reference: [{source["source_title"]}]({source["source_url"]}) on the Tensura: Reincarnated Wiki, recorded revision `{source["revision_id"]}`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.', '',
                       f'Implementation check: [Tensura {build["version"]} release]({build["source_url"]}) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/{build["pack_manifest"]}). Artifact SHA-1: `{build["sha1"]}`. Registration and code checks are not live-server gameplay tests.', ''])
         if page.get('asset'):

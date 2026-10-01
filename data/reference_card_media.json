@@ -450,5 +450,47 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/magic/magic-bottle.md": {
+    "asset": "assets/images/items/magic-bottle.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "960c9925e1b645d7e7e9ca5e0fcbd5f95503bc623d8dc9a7d7b61764f8ed4a73",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Bottle",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/magic-bottle-of-water.md": {
+    "asset": "assets/images/items/magic-bottle-of-water.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b91d62c539e158c6b2706c984f56b62611cd5b2e01b9dfdb28fc044befae2b2e",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Bottle_of_Water",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Magic_Bottle_of_Water.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/magic/vacuumed-magic-bottle-of-water.md": {
+    "asset": "assets/images/items/vacuumed-magic-bottle-of-water.webp",
+    "kind": "original",
+    "credit": "TSR item illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "251d32623c7b1c7b996b8fb6f2449759b1a44af0d744aa7333b39776583fddd3",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Vacuumed_Magic_Bottle_of_Water",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

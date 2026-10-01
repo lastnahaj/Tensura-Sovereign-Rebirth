@@ -74,6 +74,10 @@ def main() -> int:
             errors.append(f'Verified Battlewill mastery connection missing: {unlock["from"]} -> {unlock["to"]}')
     if 'tensura-reference/battlewill/items-misc-battlewill-manual/' in graph['nodes']:
         errors.append('Battlewill Manual item must not be an ability progression node')
+    for item in json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))['pages']:
+        item_route = item['local_page'].removesuffix('.md') + '/'
+        if item_route in graph['nodes']:
+            errors.append(f'Item must not be an ability progression node: {item_route}')
     for record in reviewed_skills:
         review = record.get("progression_review")
         if not review:

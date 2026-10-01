@@ -91,7 +91,7 @@ Grants the player a buff that effects their physical attacks and Battlewill atta
 </span>
 </a>
 <a class="reference-related-card" href="../magic-bottle/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/magic/magic-bottle-4eb44b521e.png"/>
+<img alt="Magic Bottle illustration" decoding="async" loading="lazy" src="../../../assets/images/items/magic-bottle.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Bottle</strong>
 <small>Right clicking on water turns the Magic Bottle in a Magic Bottle of Water which in turn can be used to brew potions…</small>
@@ -107,7 +107,7 @@ Grants the player a buff that effects their physical attacks and Battlewill atta
 Base Tensura reference adapted from [Magic Aura](https://tensura.wiki.gg/wiki/Magic_Aura) on the Tensura: Reincarnated Wiki (revision `12879`, modified `2026-05-12T17:00:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_aura.png">Magic aura.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3352</li>
 </ul>
