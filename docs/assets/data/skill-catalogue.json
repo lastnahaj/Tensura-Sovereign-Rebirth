@@ -3107,16 +3107,6 @@
       "namespace": "tensura",
       "obtainment_documented": true
     },
-    "tensura-reference/resistances/spellbinding-table.md": {
-      "id": null,
-      "status": "guide",
-      "category": "resistances",
-      "title": "Spellbinding Table",
-      "source": "https://tensura.wiki.gg/wiki/Spellbinding_Table",
-      "revision": 12066,
-      "namespace": "tensura",
-      "obtainment_documented": false
-    },
     "tensura-reference/resistances/spiritual-attack-nullification.md": {
       "id": "tensura:spiritual_attack_nullification",
       "status": "registered",

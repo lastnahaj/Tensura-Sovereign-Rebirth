@@ -7,7 +7,7 @@ description: "An invisible lattice block registered as implementation support fo
 
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Blocks</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/icons/blocks/nightmares-stasis-lattice.svg" alt="Stasis Lattice reference symbol" loading="eager" decoding="async">
 <figcaption>TSR reference symbol</figcaption>

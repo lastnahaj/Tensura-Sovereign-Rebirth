@@ -867,6 +867,20 @@
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   },
+  "tensura-reference/resistances/spellbinding-table.md": {
+    "asset": "assets/images/blocks/spellbinding-table.webp",
+    "kind": "original",
+    "credit": "TSR workstation illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3b9131d939988842efe7124181912d644a311ca67e70b65cb6ff49271743b98b",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Spellbinding_Table",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Spellbinding_Table.gif",
+      "result": "The live File page reports that no file exists. Original workstation artwork replaces an unrelated tool thumbnail."
+    }
+  },
   "tensura-reference/magic/magic-tome.md": {
     "asset": "assets/images/items/magic-tome.webp",
     "kind": "original",

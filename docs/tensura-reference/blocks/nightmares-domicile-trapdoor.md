@@ -7,7 +7,7 @@ description: "The trapdoor form of the Domicile entrance, with the same ownershi
 
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Blocks</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/icons/blocks/nightmares-domicile-trapdoor.svg" alt="Domicile Trapdoor reference symbol" loading="eager" decoding="async">
 <figcaption>TSR reference symbol</figcaption>

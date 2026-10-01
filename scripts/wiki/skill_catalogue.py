@@ -66,9 +66,13 @@ def identify(namespace: str, title: str, pool: dict) -> str | None:
 def catalogue() -> dict:
     pool = inventory()
     pages = {}
+    block_manifest = json.loads((ROOT / 'data/block_reference.json').read_text(encoding='utf-8'))
+    block_routes = {page['local_page'] for page in block_manifest['pages'] if page.get('reclassify_import')}
     for namespace in ("tensura", "mysticism"):
         manifest = json.loads((ROOT / f"data/upstream_{namespace}_pages.json").read_text(encoding="utf-8"))
         for record in manifest["pages"]:
+            if record['local_page'] in block_routes:
+                continue
             identifier = identify(namespace, record["display_title"], pool) or identify(namespace, record["source_title"], pool)
             is_skill = record["category"].startswith("skills/") or record["category"] in {"resistances", "battlewill"}
             if not is_skill:

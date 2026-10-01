@@ -470,7 +470,11 @@ def generate():
     previous_path = DOCS / "assets/data/skill-catalogue.json"
     if previous_path.exists():
         previous = json.loads(previous_path.read_text(encoding="utf-8"))["pages"]
+        from sync_block_catalogue import load_manifest as load_block_manifest
+        block_routes = {entry['local_page'] for entry in load_block_manifest()['pages'] if entry.get('reclassify_import')}
         for page in previous.keys() - policy["pages"].keys():
+            if page in block_routes:
+                continue
             text = (DOCS / page).read_text(encoding="utf-8")
             text = re.sub(re.escape(BEGIN) + r".*?" + re.escape(END) + r"\s*", "", text, flags=re.S)
             category = "Magic" if "/magic/" in page else "Core Mechanics"

@@ -67,9 +67,9 @@ def main():
     if policy["pages"].get("tensura-reference/resistances/holy-attack-nullification.md", {}).get("status") != "unavailable":
         errors.append("Command-only Holy Attack Nullification must remain reference-only")
     for record in resistance_records:
-        if record["category"] == "resistances" and record["local_page"] not in policy["pages"]:
+        if record["category"] == "resistances" and record["local_page"] not in policy["pages"] and record['local_page'] != 'tensura-reference/resistances/spellbinding-table.md':
             errors.append(f'Resistance article missing a registry decision: {record["local_page"]}')
-    if policy["pages"].get("tensura-reference/resistances/spellbinding-table.md", {}).get("status") != "guide":
+    if 'tensura-reference/resistances/spellbinding-table.md' in policy['pages']:
         errors.append("Spellbinding Table must not be presented as a resistance skill")
     battlewill_entries = {page: decision for page, decision in policy['pages'].items() if decision['namespace'] == 'tensura' and decision['category'] == 'battlewill' and decision['status'] in ACTIVE}
     if len(battlewill_entries) != 23 or len({decision['id'] for decision in battlewill_entries.values()}) != 23:

@@ -151,6 +151,8 @@ Two Low Magisteel Gear Schematic images were replaced after File-page review. Th
 
 Two duplicate Magic Tome images were withdrawn after File-page review found no reusable image license. Magic Tome and Unbound Tome references use a shared original book illustration, labeled separately from game textures.
 
+Spellbinding Table uses an original workstation illustration because its upstream inventory File page reports no file. The [block evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/block_reference.json) records the pinned recipe, mining tags, block properties, single-item menu capacity, and binding/copying implementation. Its inherited article address remains available, but the workstation is catalogued under Blocks rather than abilities. Artifact checks do not establish live-server behavior.
+
 The file-level register now records **107 withdrawals** across the reference library. The [item evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/item_reference.json) distinguishes crafting, loot, absorption, filling, cooking, brewing, schematic learning, advancement rewards, spell copying and trading, item registration, survival acquisition, inherited names, and projectile-only evidence.
 
 The [reviewed evolution requirement register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/race_evolution_requirements.json) records individually checked progression gates. Metal Slime's ore-consumption requirement is tied to the selected artifact, item-use implementation, and race configuration; it is not a live-server or prestige-reset test.

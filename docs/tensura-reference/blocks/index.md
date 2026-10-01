@@ -6,7 +6,7 @@
 <h1>Blocks</h1>
 <p>Mechanically relevant blocks and block families.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>35</strong> articles</span>
+<span class="reference-count"><strong>36</strong> articles</span>
 </div>
 </div>
 </header>
@@ -31,7 +31,7 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 35 of 35 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 36 of 36 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="B" data-search="block of adamantite the solid block form of adamantite, the late-stage material reached after high magisteel equipment progression.">
@@ -480,6 +480,21 @@
 
 <p>Tensura&#x27;s specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear.</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="S" data-search="spellbinding table craft a workstation for binding learned magic to caster tools and copying eligible mastered spells into tomes.">
+<a href="../resistances/spellbinding-table/" aria-label="Open Spellbinding Table">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/spellbinding-table.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Spellbinding Table</h2>
+
+<p>Craft a workstation for binding learned magic to caster tools and copying eligible mastered spells into tomes.</p>
+<dl class="reference-card-stats"><dt>Player access</dt><dd>Crafting table; diamond-tier pickaxe for recovery</dd><dt>Light level</dt><dd>7</dd><dt>Menu capacity</dt><dd>One item</dd></dl><small class="reference-card-source-note">Pinned Tensura: Reincarnated 2.0.1.2 artifact.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

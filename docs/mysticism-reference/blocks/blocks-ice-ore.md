@@ -7,7 +7,7 @@ description: "Mysticism's Ice Essence ore, verified for cold-biome generation in
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Blocks</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/images/blocks/ice-ore.webp" alt="Ice Ore illustration" loading="eager" decoding="async">
 <figcaption>TSR block illustration</figcaption>

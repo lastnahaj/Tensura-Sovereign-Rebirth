@@ -7,7 +7,7 @@ description: "The invisible, collisionless portal surface used by Mysticism's re
 
 <span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Blocks</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/icons/blocks/mysticism-elemental-realm-portal.svg" alt="Elemental Realm Portal reference symbol" loading="eager" decoding="async">
 <figcaption>TSR reference symbol</figcaption>

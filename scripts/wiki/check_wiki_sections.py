@@ -30,6 +30,8 @@ for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
 media_overrides = json.loads((ROOT / 'data/reference_card_media.json').read_text(encoding='utf-8'))
 from sync_item_reference import manifest as item_manifest
 curated_item_categories = {entry['local_page']: entry.get('category', 'items') for entry in item_manifest()['pages']}
+from sync_block_catalogue import load_manifest as load_block_manifest
+curated_block_categories = {entry['local_page']: 'blocks' for entry in load_block_manifest()['pages'] if entry.get('reclassify_import')}
 for local_page, asset in media_overrides.items():
     metadata = asset if isinstance(asset, dict) else {}
     if isinstance(asset, dict):
@@ -38,7 +40,7 @@ for local_page, asset in media_overrides.items():
     assert asset_path.exists(), f'Missing card artwork: {asset}'
     if metadata.get('sha256'):
         assert hashlib.sha256(asset_path.read_bytes()).hexdigest() == metadata['sha256'], f'Artwork checksum mismatch: {local_page}'
-    section = curated_item_categories.get(local_page, Path(local_page).parts[1])
+    section = curated_block_categories.get(local_page, curated_item_categories.get(local_page, Path(local_page).parts[1]))
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     route = local_page.removesuffix('.md')
     matching = [
@@ -306,12 +308,20 @@ assert block_builds['nightmares']['installed_version_verified'] is False
 blocks = BeautifulSoup((site / 'tensura-reference/blocks/index.html').read_text(encoding='utf-8'), 'html.parser')
 block_cards = blocks.select('.reference-card')
 block_titles = [card.h2.get_text(' ', strip=True) for card in block_cards]
-assert len(block_cards) == 35 and len(set(block_titles)) == len(block_titles), 'Unexpected block directory size or duplicate title'
+assert len(block_cards) == 36 and len(set(block_titles)) == len(block_titles), 'Unexpected block directory size or duplicate title'
 required_blocks = {
+    'Spellbinding Table',
     'Elemental Realm Portal', 'Cadence Acceleration Glass', 'Domicile Door',
     'Domicile Trapdoor', 'Gabriel Snow Crystal', 'Stasis Lattice',
 }
 assert required_blocks.issubset(block_titles), 'A registered add-on block is missing'
+spellbinding = (ROOT / 'docs/tensura-reference/resistances/spellbinding-table.md').read_text(encoding='utf-8')
+for fact in ('spellbinding-table.webp', '1 Magic Stone', '2 Silver Ingots', '4 Crying Obsidian', '1,200', 'Light level', 'one item', 'diamond-tier', 'not live-server'):
+    assert fact in spellbinding, f'Spellbinding Table verification detail missing: {fact}'
+assert 'skill-availability' not in spellbinding and 'Invicon_Diamond_Pickaxe' not in spellbinding and 'exclude: true' not in spellbinding, 'Workstation still treated as an archived resistance'
+assert all('id="' + anchor + '"' in spellbinding for anchor in ('Description', 'Usage')), 'Legacy workstation fragments lost'
+assert 'data-reference-section="blocks"' in spellbinding, 'Workstation navigation context missing'
+assert '["items", "blocks"].includes(section)' in (ROOT / 'docs/assets/javascripts/server-status.js').read_text(encoding='utf-8'), 'Curated workstation sidebar override missing'
 assert all(card.select_one('.reference-card-media img') for card in block_cards), 'A block card is missing artwork or a reference symbol'
 for page in block_manifest['pages']:
     card = next(card for card in block_cards if card.h2.get_text(' ', strip=True) == page['display_title'])

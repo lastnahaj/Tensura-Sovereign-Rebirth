@@ -1,6 +1,15 @@
 {
   "schema": 1,
   "reference_builds": {
+    "tensura": {
+      "label": "Tensura: Reincarnated",
+      "version": "2.0.1.2",
+      "minecraft": "1.21.1",
+      "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+      "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+      "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+      "installed_version_verified": true
+    },
     "mysticism": {
       "label": "TR Mysticism",
       "version": "2.1.2",
@@ -20,6 +29,51 @@
     }
   },
   "pages": [
+    {
+      "display_title": "Spellbinding Table",
+      "source_key": "tensura",
+      "local_page": "tensura-reference/resistances/spellbinding-table.md",
+      "asset": "assets/images/blocks/spellbinding-table.webp",
+      "artwork_kind": "original-illustration",
+      "source_article_url": "https://tensura.wiki.gg/wiki/Spellbinding_Table",
+      "source_revision": 12066,
+      "reviewed_on": "2026-09-30",
+      "catalogue_entry": false,
+      "reclassify_import": true,
+      "registry_id": "tensura:spellbinding_table",
+      "role": "Spell-binding workstation",
+      "visual": "Original illustration; not the in-game texture",
+      "access": "Crafting table; diamond-tier pickaxe for recovery",
+      "summary": "Craft a workstation for binding learned magic to caster tools and copying eligible mastered spells into tomes.",
+      "card_stat_labels": ["Player access", "Light level", "Menu capacity"],
+      "stats": {
+        "Hardness": "5",
+        "Blast resistance": "1,200",
+        "Light level": "7",
+        "Menu capacity": "One item"
+      },
+      "legacy_anchors": {
+        "What it does": ["Description"],
+        "Player access": ["Usage"]
+      },
+      "details": [
+        "Place the table and use it with an empty hand to open its menu. The table's slot accepts **one item** from the `tensura:spell_bindable` tag: caster weapons and Unbound Tomes in the pinned build. Choose an eligible learned spell to bind to a staff or grimoire; ordinary binding requires nonnegative mastery, available capacity, and the spell's equip checks, not full mastery. Binding does not teach a new ability.\n\nFor an [Unbound Tome](../items/unbound-tome.md), copying requires a **mastered** spell outside `TOME_COPY_EXCLUDED`. The result is a [Magic Tome](../magic/magic-tome.md) containing that spell. Copy exclusions differ from the restrictions on casting spells you have not learned. Follow the [casting walkthrough](../tools/caster-tools-tutorial.md) for selection controls, mode changes, costs, and the seven unlearned-casting exclusions.",
+        "### Craft one table\n\nUse a normal crafting table with **1 Magic Stone**, **2 Silver Ingots**, and **4 Crying Obsidian**. No smithing schematic gate appears in this recipe.\n\n| Left | Center | Right |\n|---|---|---|\n| — | Magic Stone | — |\n| Silver Ingot | Crying Obsidian | Silver Ingot |\n| Crying Obsidian | Crying Obsidian | Crying Obsidian |\n\nThe output is **1 Spellbinding Table**. See [Magic Stone](../magic/magic-stone.md) for its separate schematic-gated material recipe.\n\n### Recover and place\n\nMine with a **diamond-tier pickaxe or better**. The block requires a correct tool for drops; its block loot entry returns the table subject to the explosion-survival condition. The pinned block has hardness **5**, blast resistance **1,200**, and emits light level **7**. Its shape is three-quarters of a block high, and it supports waterlogging. These are recipe, class, and tag checks—not live-server placement, mining, or casting tests.\n\n[Compare staff tiers](../items/magic-staves.md) before collecting materials for a caster tool. The server's recipe browser remains the final check for recipe overrides."
+      ],
+      "evidence_paths": [
+        "data/tensura/recipe/spellbinding_table.json",
+        "data/tensura/loot_table/blocks/spellbinding_table.json",
+        "data/minecraft/tags/block/mineable/pickaxe.json",
+        "data/minecraft/tags/block/needs_diamond_tool.json",
+        "data/tensura/tags/item/spell_bindable.json",
+        "data/tensura/tags/manascore_skill/skills/tome_copy_excluded.json",
+        "io/github/manasmods/tensura/block/SpellbindingBlock.class",
+        "io/github/manasmods/tensura/block/entity/SpellbindingBlockEntity.class",
+        "io/github/manasmods/tensura/menu/SpellbindingMenu.class",
+        "io/github/manasmods/tensura/network/c2s/RequestSpellbindingPacket.class",
+        "assets/tensura/models/block/spellbinding_table.json"
+      ]
+    },
     {
       "display_title": "Ice Ore",
       "source_key": "mysticism",

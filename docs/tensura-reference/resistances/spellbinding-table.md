@@ -1,179 +1,95 @@
 ---
-search:
-  exclude: true
-title: Spellbinding Table
-description: A table for binding spells. Can be used to bind spells to Grimoires and Staffs.
-tags:
-- Pages_with_broken_file_links
-- Missing_blast_resistance
-- Pages_with_overridden_hardness
-- Renewable_resources
-- Stackable_resources
+title: "Spellbinding Table"
+description: "Craft a workstation for binding learned magic to caster tools and copying eligible mastered spells into tomes."
 ---
 
 # Spellbinding Table
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Resistances</span>
+<span class="reference-badge">Tensura: Reincarnated reference</span> <span class="reference-category">Blocks</span>
 
-<!-- skill-catalogue:start -->
-<aside class="skill-availability skill-availability--historical"><h2>Reference status</h2><p>This is a guide, not an individual skill.</p><a href="../../skills/">Browse current skills →</a></aside>
-<!-- skill-catalogue:end -->
-
-<section class="reference-overview reference-theme-abilities">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-diamond-pickaxe-676ae7b86b.png" alt="Spellbinding Table source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/blocks/spellbinding-table.webp" alt="Spellbinding Table illustration" loading="eager" decoding="async">
+<figcaption>TSR block illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>A table for binding spells.</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Description">Description</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Craft a workstation for binding learned magic to caster tools and copying eligible mastered spells into tomes.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#what-it-does">What it does</a><a href="#player-access">Player access</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Spellbinding Table</div>
-<div class="infobox-imagearea animated-container"><div><div class="infobox-imagecaption">
-<p>Spellbinding Table
-</p>
-</div></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Spellbinding Table"><a class="new" href="https://tensura.wiki.gg/wiki/Special:Upload?wpDestFile=Invicon_Spellbinding_Table.gif" title="File:Invicon Spellbinding Table.gif">Spellbinding Table</a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="new" href="https://tensura.wiki.gg/wiki/Renewable_resource?action=edit&amp;redlink=1" rel="nofollow" title="Renewable resource (page does not exist)">Renewable</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-<tr>
-<th>Tool
-</th>
-<td class="pixel-image">
-<p><span class="sprite-file"><a href="https://tensura.wiki.gg/wiki/Diamond_Pickaxe" title="A diamond pickaxe or better is required to mine this block"></a></span>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Explosion#Blast_resistance" title="mcw:Explosion">Blast resistance</a>
-</th>
-<td>
-<p><a href="https://tensura.wiki.gg/wiki/Template:Blast_resistance_values#Missing_value" title="Template:Blast resistance values">?</a>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Breaking#Blocks_by_hardness" title="mcw:Breaking">Hardness</a>
-</th>
-<td>
-<p>5.0
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Light" title="mcw:Light">Luminous</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Opacity" title="mcw:Opacity">Transparent</a>
-</th>
-<td>
-<p>Yes/No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Flammable" title="mcw:Flammable">Flammable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Catches fire from <a class="extiw" href="https://minecraft.wiki/w/lava" title="mcw:lava">lava</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Pinned Minecraft 1.21.1 build"
 
-<h2><span class="mw-headline" id="Description">Description</span></h2>
-<p>A table for binding spells.
-</p>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<p>Can be used to bind spells to Grimoires and Staffs.
-</p>
+    Verified against **Tensura: Reincarnated 2.0.1.2** selected by the TSR pack manifest.
 
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats"><aside class="druid-infobox">
+<div class="druid-title">Spellbinding Table</div>
+<div class="druid-row"><div class="druid-label">Source</div><div class="druid-data">Tensura: Reincarnated 2.0.1.2</div></div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:spellbinding_table</div></div>
+<div class="druid-row"><div class="druid-label">Role</div><div class="druid-data">Spell-binding workstation</div></div>
+<div class="druid-row"><div class="druid-label">Visual</div><div class="druid-data">Original illustration; not the in-game texture</div></div>
+<div class="druid-row"><div class="druid-label">Player access</div><div class="druid-data">Crafting table; diamond-tier pickaxe for recovery</div></div>
+<div class="druid-row"><div class="druid-label">Hardness</div><div class="druid-data">5</div></div>
+<div class="druid-row"><div class="druid-label">Blast resistance</div><div class="druid-data">1,200</div></div>
+<div class="druid-row"><div class="druid-label">Light level</div><div class="druid-data">7</div></div>
+<div class="druid-row"><div class="druid-label">Menu capacity</div><div class="druid-data">One item</div></div>
+</aside></div></div>
 
+<span id="Description"></span>
 
-</div>
-</div>
+## What it does
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+Place the table and use it with an empty hand to open its menu. The table's slot accepts **one item** from the `tensura:spell_bindable` tag: caster weapons and Unbound Tomes in the pinned build. Choose an eligible learned spell to bind to a staff or grimoire; ordinary binding requires nonnegative mastery, available capacity, and the spell's equip checks, not full mastery. Binding does not teach a new ability.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Resistances</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../spatial-attack-resistance/">
-<img alt="Spatial Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spatial-attack-resistance.webp"/>
-<span class="reference-related-copy">
-<strong>Spatial Attack Resistance</strong>
-<small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../spiritual-attack-nullification/">
-<img alt="Spiritual Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spiritual-attack-nullification.webp"/>
-<span class="reference-related-copy">
-<strong>Spiritual Attack Nullification</strong>
-<small>Spiritual Attack Nullification is a Resistance Skill in Tensura: Reincarnated.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../spatial-attack-nullification/">
-<img alt="Spatial Attack Nullification illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spatial-attack-nullification.webp"/>
-<span class="reference-related-copy">
-<strong>Spatial Attack Nullification</strong>
-<small>Spatial Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../spiritual-attack-resistance/">
-<img alt="Spiritual Attack Resistance illustration" decoding="async" loading="lazy" src="../../../assets/illustrations/skills/spiritual-attack-resistance.webp"/>
-<span class="reference-related-copy">
-<strong>Spiritual Attack Resistance</strong>
-<small>Spiritual Attack Resistance is a Resistance Skill in Tensura: Reincarnated.</small>
-</span>
-</a>
-</div>
-</section>
+For an [Unbound Tome](../items/unbound-tome.md), copying requires a **mastered** spell outside `TOME_COPY_EXCLUDED`. The result is a [Magic Tome](../magic/magic-tome.md) containing that spell. Copy exclusions differ from the restrictions on casting spells you have not learned. Follow the [casting walkthrough](../tools/caster-tools-tutorial.md) for selection controls, mode changes, costs, and the seven unlearned-casting exclusions.
 
----
+<span id="Usage"></span>
+
+## Player access
+
+### Craft one table
+
+Use a normal crafting table with **1 Magic Stone**, **2 Silver Ingots**, and **4 Crying Obsidian**. No smithing schematic gate appears in this recipe.
+
+| Left | Center | Right |
+|---|---|---|
+| — | Magic Stone | — |
+| Silver Ingot | Crying Obsidian | Silver Ingot |
+| Crying Obsidian | Crying Obsidian | Crying Obsidian |
+
+The output is **1 Spellbinding Table**. See [Magic Stone](../magic/magic-stone.md) for its separate schematic-gated material recipe.
+
+### Recover and place
+
+Mine with a **diamond-tier pickaxe or better**. The block requires a correct tool for drops; its block loot entry returns the table subject to the explosion-survival condition. The pinned block has hardness **5**, blast resistance **1,200**, and emits light level **7**. Its shape is three-quarters of a block high, and it supports waterlogging. These are recipe, class, and tag checks—not live-server placement, mining, or casting tests.
+
+[Compare staff tiers](../items/magic-staves.md) before collecting materials for a caster tool. The server's recipe browser remains the final check for recipe overrides.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Spellbinding Table](https://tensura.wiki.gg/wiki/Spellbinding_Table) on the Tensura: Reincarnated Wiki (revision `12066`, modified `2026-04-20T12:48:08Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+??? info "Sources and verification"
 
-<details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Diamond_Pickaxe.png">Invicon Diamond Pickaxe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 5559</li>
-</ul>
-</details>
+    [Tensura: Reincarnated 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml)
+
+    Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`.
+
+    Upstream article: [Tensura: Reincarnated Wiki revision 12066](https://tensura.wiki.gg/wiki/Spellbinding_Table?oldid=12066). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+    Packaged implementation evidence:
+
+    - `data/tensura/recipe/spellbinding_table.json`
+    - `data/tensura/loot_table/blocks/spellbinding_table.json`
+    - `data/minecraft/tags/block/mineable/pickaxe.json`
+    - `data/minecraft/tags/block/needs_diamond_tool.json`
+    - `data/tensura/tags/item/spell_bindable.json`
+    - `data/tensura/tags/manascore_skill/skills/tome_copy_excluded.json`
+    - `io/github/manasmods/tensura/block/SpellbindingBlock.class`
+    - `io/github/manasmods/tensura/block/entity/SpellbindingBlockEntity.class`
+    - `io/github/manasmods/tensura/menu/SpellbindingMenu.class`
+    - `io/github/manasmods/tensura/network/c2s/RequestSpellbindingPacket.class`
+    - `assets/tensura/models/block/spellbinding_table.json`
+
+    The illustration on this page is original TSR artwork; it is not the in-game texture.
+
+[Back to Blocks](../blocks/index.md)

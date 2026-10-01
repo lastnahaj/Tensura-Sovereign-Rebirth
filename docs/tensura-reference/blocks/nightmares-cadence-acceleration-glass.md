@@ -7,7 +7,7 @@ description: "A replaceable glass field block tracked by the Nightmares Cadence 
 
 <span class="reference-badge">Tensura Nightmares reference</span> <span class="reference-category">Blocks</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="blocks" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/icons/blocks/nightmares-cadence-acceleration-glass.svg" alt="Cadence Acceleration Glass reference symbol" loading="eager" decoding="async">
 <figcaption>TSR reference symbol</figcaption>

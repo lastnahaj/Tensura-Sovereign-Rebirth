@@ -1592,6 +1592,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
                 record["_summary_override"] = override["summary"]
     from sync_item_reference import apply as apply_item_references
     apply_item_references(records)
+    from sync_block_catalogue import apply as apply_block_references
+    apply_block_references(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -1945,6 +1947,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                 pairs = curated
             if category == 'blocks':
                 pairs = [(label, value) for label, value in pairs if label.casefold() not in {'registry id', 'visual'}]
+                if record.get('_card_stat_labels'):
+                    pairs = [(label, value) for label, value in pairs if label in record['_card_stat_labels']]
             if category == 'items' and record.get('_availability_status'):
                 pairs = []
             if pairs:

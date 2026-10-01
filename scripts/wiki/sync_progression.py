@@ -30,6 +30,7 @@ def build() -> dict:
     from skill_catalogue import ACTIVE, catalogue, nightmares_manifest
     policy = catalogue()
     item_categories = {record['local_page']: record.get('category', 'items') for record in json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))['pages']}
+    block_categories = {record['local_page']: 'blocks' for record in json.loads((ROOT / 'data/block_reference.json').read_text(encoding='utf-8'))['pages'] if record.get('reclassify_import')}
     manifests = {source: json.loads((ROOT / "data" / f"upstream_{source}_pages.json").read_text(encoding="utf-8")) for source in ("tensura", "mysticism")}
     manifests["nightmares"] = nightmares_manifest()
     for source, manifest in manifests.items():
@@ -37,6 +38,7 @@ def build() -> dict:
             decision = policy["pages"].get(record["local_page"])
             category = decision["category"] if decision and decision["status"] in ACTIVE else record["category"]
             category = item_categories.get(record['local_page'], category)
+            category = block_categories.get(record['local_page'], category)
             if category == "races" and not is_race_form(record):
                 continue
             if category not in {"races", "battlewill", "magic", "resistances"} and not category.startswith("skills/"):

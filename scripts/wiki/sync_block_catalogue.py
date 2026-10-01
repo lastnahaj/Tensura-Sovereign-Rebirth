@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import posixpath
 import re
 from pathlib import Path
 
@@ -48,6 +49,22 @@ def load_manifest():
     return json.loads(MANIFEST.read_text(encoding="utf-8"))
 
 
+def apply(records):
+    """Reclassify curated imported workstations without duplicating their routes."""
+    manifest = load_manifest()
+    entries = {page['local_page']: page for page in manifest['pages'] if page.get('reclassify_import')}
+    for record in records:
+        page = entries.get(record['local_page'])
+        if not page:
+            continue
+        build = manifest['reference_builds'][page['source_key']]
+        record['category'] = 'blocks'
+        record['_summary_override'] = page['summary']
+        record['_stat_source_note'] = f'Pinned {build["label"]} {build["version"]} artifact.'
+        record['_primary_media'] = {'local_path': page['asset'], 'kind': 'original'}
+        record['_card_stat_labels'] = page.get('card_stat_labels')
+
+
 def generate():
     manifest = load_manifest()
     builds = manifest["reference_builds"]
@@ -73,7 +90,7 @@ def generate():
         lines = [
             "---", f"title: {json.dumps(title)}", f"description: {json.dumps(page['summary'])}", "---", "", f"# {title}", "",
             f'<span class="reference-badge">{html.escape(build["label"])} reference</span> <span class="reference-category">Blocks</span>', "",
-            '<section class="reference-overview reference-theme-world">',
+            '<section data-reference-section="blocks" class="reference-overview reference-theme-world">',
             '<figure class="reference-overview-media reference-overview-media--source">',
             f'<img src="../../../{page["asset"]}" alt="{html.escape(media_alt)}" loading="eager" decoding="async">',
             f'<figcaption>{media_caption}</figcaption>', '</figure>',
@@ -84,6 +101,7 @@ def generate():
             f'<div class="druid-title">{html.escape(title)}</div>',
         ]
         stats = {"Source": f'{build["label"]} {build["version"]}', "Registry ID": page["registry_id"], "Role": page["role"], "Visual": page["visual"], "Player access": page["access"]}
+        stats.update(page.get('stats', {}))
         for label, value in stats.items():
             lines.append(f'<div class="druid-row"><div class="druid-label">{html.escape(label)}</div><div class="druid-data">{html.escape(value)}</div></div>')
         lines.extend([
@@ -98,7 +116,7 @@ def generate():
         lines.extend([f'    Artifact {digest_label}: `{digest}`.', ''])
         if page.get("source_article_url"):
             lines.extend([
-                f'    Upstream article: [TR Mysticism Wiki revision {page["source_revision"]}]({page["source_article_url"]}?oldid={page["source_revision"]}). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).',
+                f'    Upstream article: [{html.escape(build["label"])} Wiki revision {page["source_revision"]}]({page["source_article_url"]}?oldid={page["source_revision"]}). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).',
                 '',
             ])
         lines.extend(['    Packaged implementation evidence:', ''])
@@ -106,9 +124,13 @@ def generate():
         if not source_media:
             credit = 'The illustration on this page is original TSR artwork; it is not the in-game texture.' if illustration else 'The symbol on this page is original TSR interface art; it is not presented as an in-game texture.'
             lines.extend(['', '    ' + credit])
-        back_link = "../../tensura-reference/blocks/index.md" if page.get("catalogue_entry") is False else "index.md"
+        back_link = posixpath.relpath('tensura-reference/blocks/index.md', posixpath.dirname(page['local_page']))
         lines.extend(['', f'[Back to Blocks]({back_link})', ''])
-        result[page['local_page']] = "\n".join(lines)
+        content = "\n".join(lines)
+        for heading, anchors in page.get('legacy_anchors', {}).items():
+            aliases = ''.join('<span id="' + html.escape(anchor, quote=True) + '"></span>' for anchor in anchors)
+            content = content.replace('## ' + heading + '\n', aliases + '\n\n## ' + heading + '\n', 1)
+        result[page['local_page']] = content
     return result
 
 
