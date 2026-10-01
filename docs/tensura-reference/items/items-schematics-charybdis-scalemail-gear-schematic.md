@@ -11,8 +11,8 @@ tags:
 
 <section class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="Charybdis Scalemail Schematic source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="eager" decoding="async">
+<figcaption>TSR crafting illustration</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
@@ -30,9 +30,7 @@ tags:
 
 <div class="tensura-reference-article">
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Charybdis Scalemail Gear Schematic</h2><figure class="pi-item pi-media pi-image" data-source="image">
-<a class="image image-thumbnail reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Schematic.png" title="Schematic.png">
-<img alt="Schematic.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" width="270"/>
-</a>
+<img alt="Crafting Schematic illustration" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/images/items/crafting-schematic.webp" width="270"/>
 </figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
 <h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
 <div class="pi-data-value pi-font">Rare</div>
@@ -100,10 +98,3 @@ Allows Crafting of <a href="../../armor/charybdis-scalemail-boots/" title="Chary
 ## Source and licensing
 
 Base Tensura reference adapted from [Items/Schematics/Charybdis Scalemail Gear Schematic](https://tensura.wiki.gg/wiki/Items/Schematics/Charybdis_Scalemail_Gear_Schematic) on the Tensura: Reincarnated Wiki (revision `11884`, modified `2026-04-12T12:26:34Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
-</ul>
-</details>

@@ -158,12 +158,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Sword](https://tensura.wiki.gg/wiki/Adamantite_Sword) on the Tensura: Reincarnated Wiki (revision `10471`, modified `2025-08-26T09:32:37Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Sword.png">Invicon Adamantite Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10353</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Sword.png">Adamantite Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10376</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Sword.png">Invicon Pure Magisteel Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10262</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Sword.png">Invicon HihiIrokane Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10383</li>

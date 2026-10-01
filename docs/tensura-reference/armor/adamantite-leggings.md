@@ -155,12 +155,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Leggings](https://tensura.wiki.gg/wiki/Adamantite_Leggings) on the Tensura: Reincarnated Wiki (revision `10607`, modified `2025-08-27T11:00:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Leggings.png">Invicon Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6430</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Leggings.png">Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6940</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Leggings.png">Invicon Pure Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6678</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Leggings.png">Invicon HihiIrokane Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6818</li>
 </ul>

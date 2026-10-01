@@ -183,11 +183,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Low Magisteel Shovel](https://tensura.wiki.gg/wiki/Low_Magisteel_Shovel) on the Tensura: Reincarnated Wiki (revision `13141`, modified `2026-06-21T19:44:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Shovel.png">Invicon Low Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6604</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Shovel.png">Low Magisteel Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7121</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

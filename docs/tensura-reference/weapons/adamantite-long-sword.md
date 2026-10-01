@@ -162,12 +162,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Long Sword](https://tensura.wiki.gg/wiki/Adamantite_Long_Sword) on the Tensura: Reincarnated Wiki (revision `10797`, modified `2025-11-13T15:59:36Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Long_Sword.png">Invicon Adamantite Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10355</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Long_Sword.png">Adamantite Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10369</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Long_Sword.png">Invicon Pure Magisteel Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10264</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Long_Sword.png">Invicon HihiIrokane Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10385</li>

@@ -84,7 +84,7 @@ Mastered <a class="mw-redirect" href="../../skills/intrinsic/space-transform/" t
 </span>
 </a>
 <a class="reference-related-card" href="../magic-staff-schematic/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png"/>
+<img alt="Crafting Schematic illustration" decoding="async" loading="lazy" src="../../../assets/images/items/crafting-schematic.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Staff Schematic</strong>
 <small>Can be acquired from master magic trainer dwarves for 10 gold coins.</small>

@@ -154,12 +154,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Helmet](https://tensura.wiki.gg/wiki/Adamantite_Helmet) on the Tensura: Reincarnated Wiki (revision `10605`, modified `2025-08-27T11:00:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Helmet.png">Invicon Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6429</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Helmet.png">Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6939</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Helmet.png">Invicon Pure Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6676</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Helmet.png">Invicon HihiIrokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6815</li>
 </ul>

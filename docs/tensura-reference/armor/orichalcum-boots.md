@@ -148,11 +148,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Boots](https://tensura.wiki.gg/wiki/Orichalcum_Boots) on the Tensura: Reincarnated Wiki (revision `13152`, modified `2026-06-21T19:52:50Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Boots.png">Invicon Orichalcum Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6663</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Boots.png">Orichalcum Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7181</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Boots.png">Invicon HihiIrokane Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6817</li>

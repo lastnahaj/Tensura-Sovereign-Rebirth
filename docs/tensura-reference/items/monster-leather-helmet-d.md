@@ -165,11 +165,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Monster Leather Helmet (D)](https://tensura.wiki.gg/wiki/Monster_Leather_Helmet_(D)) on the Tensura: Reincarnated Wiki (revision `10127`, modified `2025-08-22T17:47:53Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Helmet_(D).png">Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7158</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(C).png">Invicon Monster Leather Helmet (C).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6836</li>
 </ul>

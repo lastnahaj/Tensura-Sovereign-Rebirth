@@ -9,10 +9,22 @@
     const navList = document.querySelector(".md-sidebar--primary .md-nav--primary > .md-nav__list");
     if (!navList) return null;
 
-    // Reference articles share their collection's navigation context.
-    if (!navList.querySelector(".md-nav__item--active")) {
+    // Curated references may retain a legacy URL outside their current collection.
+    const section = document.querySelector("[data-reference-section]")?.dataset.referenceSection;
+    const links = [...navList.querySelectorAll("a.md-nav__link[href]")];
+    const preferred = section === "items"
+      ? links.find((link) => new URL(link.href).pathname.endsWith("/tensura-reference/items/"))
+      : null;
+    if (preferred || !navList.querySelector(".md-nav__item--active")) {
+      if (preferred) {
+        navList.querySelectorAll(".md-nav__item--active").forEach((item) => {
+          item.classList.remove("md-nav__item--active");
+          const toggle = item.querySelector(":scope > .md-nav__toggle");
+          if (toggle) toggle.checked = false;
+        });
+      }
       const current = location.pathname;
-      const match = [...navList.querySelectorAll("a.md-nav__link[href]")]
+      const match = preferred || links
         .filter((link) => {
           const path = new URL(link.href).pathname;
           return path !== "/" && current.startsWith(path);

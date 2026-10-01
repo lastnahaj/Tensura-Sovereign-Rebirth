@@ -7,7 +7,7 @@ description: "An unfinished upstream reference, not a verified item for the pinn
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world reference-overview--text-only">
+<section data-reference-section="items" class="reference-overview reference-theme-world reference-overview--text-only">
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>An unfinished upstream reference, not a verified item for the pinned 1.21.1 build.</p>

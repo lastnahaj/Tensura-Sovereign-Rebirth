@@ -106,7 +106,7 @@ Has 1000000 max EP
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-orichalcum-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Orichalcum Gear Schematic</strong>
 <small>Obtained by picking up an Orichalcum Ingot</small>
@@ -122,7 +122,7 @@ Has 1000000 max EP
 Base Tensura reference adapted from [Orc Disaster Head](https://tensura.wiki.gg/wiki/Orc_Disaster_Head) on the Tensura: Reincarnated Wiki (revision `9827`, modified `2025-06-01T15:20:26Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orc_Disaster_Head.png">Orc Disaster Head.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4098</li>
 </ul>

@@ -211,7 +211,7 @@ Each Orichalcum Ingot is made with 5 parts Molten Magisteel and 4 parts Molten G
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-orichalcum-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Orichalcum Gear Schematic</strong>
 <small>Obtained by picking up an Orichalcum Ingot</small>

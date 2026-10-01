@@ -163,12 +163,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Kodachi](https://tensura.wiki.gg/wiki/Adamantite_Kodachi) on the Tensura: Reincarnated Wiki (revision `10517`, modified `2025-08-26T11:45:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Kodachi.png">Invicon Adamantite Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10358</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Kodachi.png">Adamantite Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10370</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Kodachi.png">Invicon Pure Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10267</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Kodachi.png">Invicon HihiIrokane Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10388</li>

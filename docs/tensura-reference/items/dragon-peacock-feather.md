@@ -118,7 +118,7 @@ A multicoloured feather plucked from a <a href="../../mobs/mobs-dragon-peacock/"
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-diamond-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Diamond Gear Schematic</strong>
 <small>Obtained by picking up a Diamond</small>

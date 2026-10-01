@@ -7,7 +7,7 @@ description: "A registered milk consumable with an older Bulldeer name; normal C
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/images/items/cattledeer-milk.webp" alt="Cattledeer Milk Bucket illustration" loading="eager" decoding="async">
 <figcaption>TSR item illustration · not the in-game texture</figcaption>

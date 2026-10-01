@@ -114,7 +114,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-ant-carapace-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ant Carapace Gear Schematic</strong>
 <small>Obtained by picking up a Giant Ant Carapace</small>
@@ -144,7 +144,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Angry Pierrot Mask](https://tensura.wiki.gg/wiki/Angry_Pierrot_Mask) on the Tensura: Reincarnated Wiki (revision `9450`, modified `2025-04-23T17:53:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Angry_Pierrot_Mask.png">Invicon Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6431</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Angry_Pierrot_Mask.png">Angry Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6941</li>

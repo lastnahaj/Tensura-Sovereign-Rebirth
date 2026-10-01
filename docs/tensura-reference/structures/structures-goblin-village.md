@@ -110,13 +110,13 @@ Sakura Forest, Taiga, Forest, Birch Forest</div></div><div class="druid-row drui
 Base Tensura reference adapted from [Structures/Goblin Village](https://tensura.wiki.gg/wiki/Structures/Goblin_Village) on the Tensura: Reincarnated Wiki (revision `11550`, modified `2026-04-02T11:57:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Goblin_chief_tent.png">Goblin chief tent.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9081</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Goblin_medical_tent.png">Goblin medical tent.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9084</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Goblin_small_tent.png">Goblin small tent.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9083</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Small_goblin_village.png">Small goblin village.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9082</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 </ul>
 </details>

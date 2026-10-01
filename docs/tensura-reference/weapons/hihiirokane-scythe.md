@@ -160,12 +160,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [HihiIrokane Scythe](https://tensura.wiki.gg/wiki/HihiIrokane_Scythe) on the Tensura: Reincarnated Wiki (revision `10520`, modified `2025-08-26T11:54:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Scythe.png">Invicon HihiIrokane Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10392</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Scythe.png">HihiIrokane Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10398</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Scythe.png">Invicon Adamantite Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10362</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 </ul>

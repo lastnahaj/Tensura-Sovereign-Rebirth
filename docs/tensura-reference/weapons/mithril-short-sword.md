@@ -159,11 +159,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Mithril Short Sword](https://tensura.wiki.gg/wiki/Mithril_Short_Sword) on the Tensura: Reincarnated Wiki (revision `10628`, modified `2025-08-28T11:16:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Short_Sword.png">Invicon Mithril Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10324</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Short_Sword.png">Mithril Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10348</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Short_Sword.png">Invicon Pure Magisteel Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10263</li>

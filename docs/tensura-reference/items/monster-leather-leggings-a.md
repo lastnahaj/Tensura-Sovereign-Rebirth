@@ -154,11 +154,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Monster Leather Leggings (A)](https://tensura.wiki.gg/wiki/Monster_Leather_Leggings_(A)) on the Tensura: Reincarnated Wiki (revision `8113`, modified `2025-03-12T16:00:04Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Leggings_(A).png">Invicon Monster Leather Leggings (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6840</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Leggings_(A).png">Monster Leather Leggings (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7160</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 </ul>
 </details>

@@ -89,7 +89,7 @@ Allows Crafting of
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-serpent-scalemail-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Serpent Scalemail Gear Schematic</strong>
 <small>Obtained by picking up a Serpent Scale</small>

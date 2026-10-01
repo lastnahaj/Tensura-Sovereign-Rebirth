@@ -172,11 +172,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Low Magisteel Spear](https://tensura.wiki.gg/wiki/Low_Magisteel_Spear) on the Tensura: Reincarnated Wiki (revision `10443`, modified `2025-08-26T08:51:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Spear.png">Invicon Low Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6606</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Spear.png">Low Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7123</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Spear.png">Invicon High Magisteel Spear.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6548</li>

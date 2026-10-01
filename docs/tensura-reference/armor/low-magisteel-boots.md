@@ -151,11 +151,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Low Magisteel Boots](https://tensura.wiki.gg/wiki/Low_Magisteel_Boots) on the Tensura: Reincarnated Wiki (revision `10588`, modified `2025-08-27T10:55:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Boots.png">Invicon Low Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6589</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Boots.png">Low Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7106</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Boots.png">Invicon High Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6532</li>
 </ul>

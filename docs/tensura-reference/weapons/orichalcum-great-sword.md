@@ -166,11 +166,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Great Sword](https://tensura.wiki.gg/wiki/Orichalcum_Great_Sword) on the Tensura: Reincarnated Wiki (revision `10902`, modified `2025-11-24T10:01:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Great_Sword.png">Invicon Orichalcum Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10296</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Great_Sword.png">Orichalcum Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10313</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Great_Sword.png">Invicon HihiIrokane Great Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10386</li>

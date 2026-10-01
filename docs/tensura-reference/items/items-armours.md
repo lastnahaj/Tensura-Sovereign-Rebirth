@@ -209,7 +209,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-armorsaurus-scalemail-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Armorsaurus Scalemail Schematic</strong>
 <small>Obtained by picking up an Armorsaurus Scale</small>
@@ -232,7 +232,7 @@ tags:
 Base Tensura reference adapted from [Items/Armours](https://tensura.wiki.gg/wiki/Items/Armours) on the Tensura: Reincarnated Wiki (revision `12265`, modified `2026-04-21T07:56:24Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (90 source files)</summary>
+<summary>Media credits (89 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Helmet_(D).png">Invicon Monster Leather Helmet (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6835</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(D).png">Invicon Monster Leather Chestplate (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6832</li>

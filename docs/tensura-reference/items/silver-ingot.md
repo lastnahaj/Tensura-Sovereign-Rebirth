@@ -267,7 +267,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-silver-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Silver Gear Schematic</strong>
 <small>Obtained by picking up a Silver Ingot</small>
@@ -304,7 +304,7 @@ tags:
 Base Tensura reference adapted from [Silver Ingot](https://tensura.wiki.gg/wiki/Silver_Ingot) on the Tensura: Reincarnated Wiki (revision `12991`, modified `2026-05-28T08:44:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (21 source files)</summary>
+<summary>Media credits (20 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Ingot.png">Invicon Silver Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6709</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Silver_Ingot.png">Silver Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7228</li>

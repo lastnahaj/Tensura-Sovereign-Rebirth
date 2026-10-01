@@ -152,11 +152,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Charybdis Scalemail Helmet](https://tensura.wiki.gg/wiki/Charybdis_Scalemail_Helmet) on the Tensura: Reincarnated Wiki (revision `11993`, modified `2026-04-20T04:47:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Helmet.png">Charybdis Scalemail Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6983</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Helmet.png">Invicon Charybdis Scalemail Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6472</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
 </ul>
 </details>

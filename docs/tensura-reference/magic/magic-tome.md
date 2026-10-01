@@ -93,7 +93,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../magic-staff-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Magic Staff Schematic</strong>
 <small>Can be acquired from master magic trainer dwarves for 10 gold coins.</small>

@@ -153,11 +153,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Mithril Helmet](https://tensura.wiki.gg/wiki/Mithril_Helmet) on the Tensura: Reincarnated Wiki (revision `13144`, modified `2026-06-21T19:47:06Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Helmet.png">Invicon Mithril Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6621</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Helmet.png">Mithril Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7139</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Helmet.png">Invicon Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6429</li>
 </ul>

@@ -159,11 +159,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Mithril Long Sword](https://tensura.wiki.gg/wiki/Mithril_Long_Sword) on the Tensura: Reincarnated Wiki (revision `10632`, modified `2025-08-28T11:19:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Long_Sword.png">Invicon Mithril Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10325</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Mithril_Long_Sword.png">Mithril Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10352</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Long_Sword.png">Invicon Adamantite Long Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10355</li>

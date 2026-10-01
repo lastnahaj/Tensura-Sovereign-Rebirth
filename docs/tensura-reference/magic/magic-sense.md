@@ -94,7 +94,7 @@ as of 2.0.0.4
 </span>
 </a>
 <a class="reference-related-card" href="../magic-staff-schematic/">
-<img alt="" decoding="async" loading="lazy" src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png"/>
+<img alt="Crafting Schematic illustration" decoding="async" loading="lazy" src="../../../assets/images/items/crafting-schematic.webp"/>
 <span class="reference-related-copy">
 <strong>Magic Staff Schematic</strong>
 <small>Can be acquired from master magic trainer dwarves for 10 gold coins.</small>
@@ -110,7 +110,7 @@ as of 2.0.0.4
 Base Tensura reference adapted from [Magic Sense](https://tensura.wiki.gg/wiki/Magic_Sense) on the Tensura: Reincarnated Wiki (revision `13313`, modified `2026-07-03T18:05:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magic_sense.png">Magic sense.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3346</li>
 </ul>

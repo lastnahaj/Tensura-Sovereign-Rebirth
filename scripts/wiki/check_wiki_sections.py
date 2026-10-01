@@ -77,6 +77,9 @@ assert item_build['minecraft'] == '1.21.1' and item_build['sha1'] in item_select
 for local_page, expected_content in generate_item_references().items():
     assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale item reference: {local_page}'
 for entry in curated_items['pages']:
+    article = BeautifulSoup((site / entry['local_page'].replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+    assert article.select_one('[data-reference-section="items"]'), 'Curated item navigation context missing'
+for entry in curated_items['pages']:
     if not entry['catalogue_entry']:
         assert entry['display_title'] not in item_titles, f'Unverified item promoted: {entry["display_title"]}'
     else:
@@ -138,6 +141,13 @@ assert [(entry['base_slots'], entry['cooldown_ticks'], entry['durability']) for 
 staff_guide = BeautifulSoup((site / 'tensura-reference/items/magic-staves/index.html').read_text(encoding='utf-8'), 'html.parser')
 assert len(staff_guide.select('.staff-tier-card')) == 3 and len(staff_guide.select('.staff-tier-card details summary')) == 3, 'Staff comparison cards or crafting controls missing'
 assert items.find('a', href='magic-staves/'), 'Staff guide is missing from Items'
+schematic = next(entry for entry in curated_items['pages'] if entry.get('registry_id') == 'tensura:magic_staff_schematic')
+assert schematic['display_title'] in item_titles and schematic['display_title'] not in magic_titles, 'Staff schematic is missing from Items or classified as a spell'
+schematic_article = (ROOT / 'docs' / schematic['local_page']).read_text(encoding='utf-8')
+assert all(text in schematic_article for text in ('level-five (Master)', 'ten Gold Coins', 'consumes one copy', 'stacks to 16', 'already learned')), 'Schematic acquisition or use documentation missing'
+entity_config = tomllib.loads((ROOT / 'pack/config/tensura/entity/entity_config.toml').read_text(encoding='utf-8'))
+assert entity_config['Dwarf']['magicTrainerPriceMultiplier'] == 1.0, 'Recorded Magic Trainer price multiplier is stale'
+assert 'Learn the schematics' in staff_guide.get_text() and 'carrying the item alone' in staff_guide.get_text(), 'Staff learning guidance missing'
 nightmares_item_art = {
     'nightmares-elder-essence': 'nightmares-elder-essence.webp',
     'nightmares-life-essence': 'nightmares-life-essence.webp',

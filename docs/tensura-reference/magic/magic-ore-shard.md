@@ -7,7 +7,7 @@ description: "Mine Magic Ore with a Netherite-tier pickaxe, refine shards into P
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/images/items/magic-ore-shard.webp" alt="Magic Ore Shard illustration" loading="eager" decoding="async">
 <figcaption>TSR item illustration · not the in-game texture</figcaption>

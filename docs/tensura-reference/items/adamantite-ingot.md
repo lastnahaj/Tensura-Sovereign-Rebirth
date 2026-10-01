@@ -132,7 +132,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-adamantite-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Adamantite Gear Schematic</strong>
 <small>Obtained by picking up an Adamantite Ingot</small>
@@ -169,7 +169,7 @@ tags:
 Base Tensura reference adapted from [Adamantite Ingot](https://tensura.wiki.gg/wiki/Adamantite_Ingot) on the Tensura: Reincarnated Wiki (revision `8743`, modified `2025-03-12T22:25:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Ingot.gif">Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4168</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>

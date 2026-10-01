@@ -975,11 +975,6 @@
       "image": "assets/upstream/tensura/magic/magic-space-transform-609d571eda.png",
       "category": "skills/extra"
     },
-    "tensura-reference/magic/magic-staff-schematic/": {
-      "title": "Magic Staff Schematic",
-      "image": "assets/upstream/tensura/weapons/schematic-5025a4d81f.png",
-      "category": "magic"
-    },
     "tensura-reference/magic/magic-tome/": {
       "title": "Magic Tome",
       "image": "assets/upstream/tensura/items/invicon-magic-tome-2d21681fbe.png",

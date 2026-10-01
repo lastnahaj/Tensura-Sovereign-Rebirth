@@ -161,12 +161,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [HihiIrokane Odachi](https://tensura.wiki.gg/wiki/HihiIrokane_Odachi) on the Tensura: Reincarnated Wiki (revision `10515`, modified `2025-08-26T11:44:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Odachi.png">Invicon HihiIrokane Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10390</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Odachi.png">HihiIrokane Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10411</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Odachi.png">Invicon Pure Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10269</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 </ul>

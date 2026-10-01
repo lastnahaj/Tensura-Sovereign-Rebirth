@@ -176,11 +176,11 @@ tags:
 Base Tensura reference adapted from [Low Magisteel Kodachi](https://tensura.wiki.gg/wiki/Low_Magisteel_Kodachi) on the Tensura: Reincarnated Wiki (revision `10784`, modified `2025-11-13T15:44:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Kodachi.png">Invicon Low Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6596</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Kodachi.png">Low Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7113</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Kodachi.png">Invicon High Magisteel Kodachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6538</li>

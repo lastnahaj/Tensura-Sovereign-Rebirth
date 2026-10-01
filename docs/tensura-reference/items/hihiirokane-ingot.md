@@ -153,7 +153,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-hihiirokane-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>HihiIrokane Gear Schematic</strong>
 <small>Obtained by picking up an HihiIrokane Ingot</small>
@@ -169,7 +169,7 @@ tags:
 Base Tensura reference adapted from [HihiIrokane Ingot](https://tensura.wiki.gg/wiki/HihiIrokane_Ingot) on the Tensura: Reincarnated Wiki (revision `9309`, modified `2025-04-20T08:51:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Nugget.gif">Invicon HihiIrokane Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8819</li>

@@ -163,12 +163,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Pure Magisteel Odachi](https://tensura.wiki.gg/wiki/Pure_Magisteel_Odachi) on the Tensura: Reincarnated Wiki (revision `10469`, modified `2025-08-26T09:30:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Odachi.png">Invicon Pure Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10269</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Odachi.png">Pure Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10290</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Odachi.png">Invicon High Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6542</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Odachi.png">Invicon Adamantite Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10360</li>

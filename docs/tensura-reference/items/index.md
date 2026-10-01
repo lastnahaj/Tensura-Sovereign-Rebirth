@@ -6,7 +6,7 @@
 <h1>Items &amp; Materials</h1>
 <p>Materials, consumables, drops, and special items.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>200</strong> articles</span>
+<span class="reference-count"><strong>201</strong> articles</span>
 <a class="reference-directory-overview-link" href="healing-potions/">Build a healing kit →</a>
 <a class="reference-directory-overview-link" href="magic-crystals/">Compare Magic Crystals →</a>
 <a class="reference-directory-overview-link" href="magic-staves/">Compare casting staves →</a>
@@ -43,7 +43,7 @@
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 <button type="button" data-letter="Z" aria-pressed="false">Z</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 200 of 200 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 201 of 201 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="adamantite bone golem a golem resembling a skeleton made out of adamantite. allows the player to possess it and works as a physical body, can also be given to spirit or daemon subordinates…">
@@ -63,9 +63,9 @@
 </article>
 <article class="reference-card" data-letter="A" data-search="adamantite gear schematic obtained by picking up an adamantite ingot">
 <a href="items-schematics-adamantite-gear-schematic/" aria-label="Open Adamantite Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Adamantite Gear Schematic</h2>
@@ -123,9 +123,9 @@
 </article>
 <article class="reference-card" data-letter="A" data-search="ant carapace gear schematic obtained by picking up a giant ant carapace">
 <a href="items-schematics-ant-carapace-gear-schematic/" aria-label="Open Ant Carapace Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Ant Carapace Gear Schematic</h2>
@@ -153,9 +153,9 @@
 </article>
 <article class="reference-card" data-letter="A" data-search="armorsaurus scalemail schematic obtained by picking up an armorsaurus scale">
 <a href="items-schematics-armorsaurus-scalemail-gear-schematic/" aria-label="Open Armorsaurus Scalemail Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Armorsaurus Scalemail Schematic</h2>
@@ -409,9 +409,9 @@
 </article>
 <article class="reference-card" data-letter="C" data-search="charybdis scalemail schematic obtained by defeating charybdis">
 <a href="items-schematics-charybdis-scalemail-gear-schematic/" aria-label="Open Charybdis Scalemail Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Scalemail Schematic</h2>
@@ -679,9 +679,9 @@
 </article>
 <article class="reference-card" data-letter="D" data-search="dark set schematic earn the advancement [ ruler of monsters ] which requires taming lizardman , goblin , orc , direwolf , and slime">
 <a href="items-schematics-dark-set-schematic/" aria-label="Open Dark Set Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Dark Set Schematic</h2>
@@ -694,9 +694,9 @@
 </article>
 <article class="reference-card" data-letter="D" data-search="diamond gear schematic obtained by picking up a diamond">
 <a href="items-schematics-diamond-gear-schematic/" aria-label="Open Diamond Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Diamond Gear Schematic</h2>
@@ -1070,9 +1070,9 @@
 </article>
 <article class="reference-card" data-letter="G" data-search="gold gear schematic obtained by picking up a gold ingot">
 <a href="items-schematics-gold-gear-schematic/" aria-label="Open Gold Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Gold Gear Schematic</h2>
@@ -1205,9 +1205,9 @@
 </article>
 <article class="reference-card" data-letter="H" data-search="high magisteel gear schematic obtained by picking up a high magisteel ingot">
 <a href="items-schematics-high-magisteel-gear-schematic/" aria-label="Open High Magisteel Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>High Magisteel Gear Schematic</h2>
@@ -1327,9 +1327,9 @@
 </article>
 <article class="reference-card" data-letter="H" data-search="hihiirokane gear schematic obtained by picking up an hihiirokane ingot">
 <a href="items-schematics-hihiirokane-gear-schematic/" aria-label="Open HihiIrokane Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>HihiIrokane Gear Schematic</h2>
@@ -1432,9 +1432,9 @@
 </article>
 <article class="reference-card" data-letter="I" data-search="iron gear schematic obtained by picking up an iron ingot">
 <a href="items-schematics-iron-gear-schematic/" aria-label="Open Iron Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Iron Gear Schematic</h2>
@@ -1492,9 +1492,9 @@
 </article>
 <article class="reference-card" data-letter="K" data-search="knight spider carapace gear schematic obtained by picking up a knight spider carapace">
 <a href="items-schematics-knight-spider-carapace-gear-schematic/" aria-label="Open Knight Spider Carapace Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Knight Spider Carapace Gear Schematic</h2>
@@ -1736,6 +1736,22 @@
 </div>
 </a>
 </article>
+<article class="reference-card" data-letter="M" data-search="magic staff schematic learn the casting-staff blueprint by using one schematic. a level-five magic trainer dwarf offers it for a base cost of ten gold coins before trade adjustments.">
+<a href="../magic/magic-staff-schematic/" aria-label="Open Magic Staff Schematic">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Magic Staff Schematic</h2>
+
+<small class="skill-reference-status">Trade and learning behavior verified</small>
+<p>Learn the casting-staff blueprint by using one schematic. A level-five Magic Trainer dwarf offers it for a base cost of ten Gold Coins before trade adjustments.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
 <article class="reference-card" data-letter="M" data-search="magic stone craft one stone from a low magisteel ingot and eight low quality magic crystals at a smithing bench with the required schematic.">
 <a href="../magic/magic-stone/" aria-label="Open Magic Stone">
 <figure class="reference-card-media reference-card-media--theme">
@@ -1815,9 +1831,9 @@
 </article>
 <article class="reference-card" data-letter="M" data-search="mithril gear schematic obtained by picking up a mithril ingot">
 <a href="items-schematics-mithril-gear-schematic/" aria-label="Open Mithril Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Mithril Gear Schematic</h2>
@@ -2295,9 +2311,9 @@
 </article>
 <article class="reference-card" data-letter="O" data-search="orichalcum gear schematic obtained by picking up an orichalcum ingot">
 <a href="items-schematics-orichalcum-gear-schematic/" aria-label="Open Orichalcum Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Orichalcum Gear Schematic</h2>
@@ -2385,9 +2401,9 @@
 </article>
 <article class="reference-card" data-letter="P" data-search="pure magisteel gear schematic obtained by picking up a pure magisteel ingot">
 <a href="items-schematics-pure-magisteel-gear-schematic/" aria-label="Open Pure Magisteel Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Pure Magisteel Gear Schematic</h2>
@@ -2626,9 +2642,9 @@
 </article>
 <article class="reference-card" data-letter="S" data-search="serpent scalemail gear schematic obtained by picking up a serpent scale">
 <a href="items-schematics-serpent-scalemail-gear-schematic/" aria-label="Open Serpent Scalemail Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Serpent Scalemail Gear Schematic</h2>
@@ -2686,9 +2702,9 @@
 </article>
 <article class="reference-card" data-letter="S" data-search="silver gear schematic obtained by picking up a silver ingot">
 <a href="items-schematics-silver-gear-schematic/" aria-label="Open Silver Gear Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Silver Gear Schematic</h2>
@@ -3017,9 +3033,9 @@
 </article>
 <article class="reference-card" data-letter="W" data-search="winged shoes schematic holding a dragon peacock feather">
 <a href="items-schematics-winged-shoes-schematic/" aria-label="Open Winged Shoes Schematic">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/crafting-schematic.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Winged Shoes Schematic</h2>

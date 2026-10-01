@@ -124,14 +124,14 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-adamantite-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Adamantite Gear Schematic</strong>
 <small>Obtained by picking up an Adamantite Ingot</small>
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-ant-carapace-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ant Carapace Gear Schematic</strong>
 <small>Obtained by picking up a Giant Ant Carapace</small>
@@ -147,7 +147,7 @@ tags:
 Base Tensura reference adapted from [Adamantite Nugget](https://tensura.wiki.gg/wiki/Adamantite_Nugget) on the Tensura: Reincarnated Wiki (revision `8745`, modified `2025-03-12T22:26:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Nugget.gif">Adamantite Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4170</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Nugget.gif">Invicon Adamantite Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4169</li>

@@ -144,14 +144,14 @@ An armor like scale from the skin of an <a href="../../mobs/mobs-armorsaurus/" t
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-ant-carapace-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Ant Carapace Gear Schematic</strong>
 <small>Obtained by picking up a Giant Ant Carapace</small>
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-armorsaurus-scalemail-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Armorsaurus Scalemail Schematic</strong>
 <small>Obtained by picking up an Armorsaurus Scale</small>

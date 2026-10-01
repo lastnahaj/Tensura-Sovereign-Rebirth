@@ -166,11 +166,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Short Sword](https://tensura.wiki.gg/wiki/Orichalcum_Short_Sword) on the Tensura: Reincarnated Wiki (revision `10900`, modified `2025-11-24T10:00:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Short_Sword.png">Invicon Orichalcum Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10294</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Short_Sword.png">Orichalcum Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10321</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Short_Sword.png">Invicon HihiIrokane Short Sword.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10384</li>

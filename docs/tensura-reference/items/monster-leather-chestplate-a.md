@@ -154,11 +154,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Monster Leather Chestplate (A)](https://tensura.wiki.gg/wiki/Monster_Leather_Chestplate_(A)) on the Tensura: Reincarnated Wiki (revision `8107`, modified `2025-03-12T15:59:03Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Chestplate_(A).png">Invicon Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6828</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Chestplate_(A).png">Monster Leather Chestplate (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7149</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 </ul>
 </details>

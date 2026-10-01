@@ -122,7 +122,7 @@ Each Orichalcum Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-orichalcum-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Orichalcum Gear Schematic</strong>
 <small>Obtained by picking up an Orichalcum Ingot</small>
@@ -145,7 +145,7 @@ Each Orichalcum Ingot is made with 4 parts Molten Magisteel, 5 parts Molten Iron
 Base Tensura reference adapted from [Orichalcum Nugget](https://tensura.wiki.gg/wiki/Orichalcum_Nugget) on the Tensura: Reincarnated Wiki (revision `9234`, modified `2025-04-14T10:47:19Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Nugget.png">Invicon Orichalcum Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10580</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Nugget.gif">Orichalcum Nugget.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2238</li>

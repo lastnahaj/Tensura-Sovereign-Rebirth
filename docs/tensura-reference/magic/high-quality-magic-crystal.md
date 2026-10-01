@@ -7,7 +7,7 @@ description: "Recover 5,000 base MP through Absorb & Dissolve, craft nine Magic 
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/images/items/high-quality-magic-crystal.webp" alt="High Quality Magic Crystal illustration" loading="eager" decoding="async">
 <figcaption>TSR item illustration · not the in-game texture</figcaption>

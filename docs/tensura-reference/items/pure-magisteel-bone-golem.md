@@ -90,7 +90,7 @@ Allows the player to possess it and works as a physical body, can also be given 
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-pure-magisteel-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Pure Magisteel Gear Schematic</strong>
 <small>Obtained by picking up a Pure Magisteel Ingot</small>
@@ -120,7 +120,7 @@ Allows the player to possess it and works as a physical body, can also be given 
 Base Tensura reference adapted from [Pure Magisteel Bone Golem](https://tensura.wiki.gg/wiki/Pure_Magisteel_Bone_Golem) on the Tensura: Reincarnated Wiki (revision `13338`, modified `2026-07-31T15:58:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_magisteel_bone_golem.png">Pure magisteel bone golem.png</a> — CC BY-SA 4.0; uploaded by Rip Gold; revision 11959</li>
 </ul>

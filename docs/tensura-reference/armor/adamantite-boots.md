@@ -154,12 +154,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Adamantite Boots](https://tensura.wiki.gg/wiki/Adamantite_Boots) on the Tensura: Reincarnated Wiki (revision `10608`, modified `2025-08-27T11:00:56Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Boots.png">Invicon Adamantite Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6427</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Boots.png">Adamantite Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6937</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Boots.png">Pure Magisteel Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7192</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Ingot.gif">Invicon Adamantite Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4167</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Boots.png">Invicon HihiIrokane Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6817</li>
 </ul>

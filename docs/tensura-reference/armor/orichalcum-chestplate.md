@@ -148,11 +148,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Chestplate](https://tensura.wiki.gg/wiki/Orichalcum_Chestplate) on the Tensura: Reincarnated Wiki (revision `13151`, modified `2026-06-21T19:52:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Chestplate.png">Invicon Orichalcum Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6664</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Chestplate.png">Orichalcum Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7182</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>

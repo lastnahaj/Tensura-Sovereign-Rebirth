@@ -117,7 +117,7 @@ The blood of an ancient vampire.
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-winged-shoes-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Winged Shoes Schematic</strong>
 <small>Holding a Dragon Peacock Feather</small>

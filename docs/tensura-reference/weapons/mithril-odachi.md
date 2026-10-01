@@ -160,11 +160,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Mithril Odachi](https://tensura.wiki.gg/wiki/Mithril_Odachi) on the Tensura: Reincarnated Wiki (revision `10641`, modified `2025-08-28T11:28:34Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Odachi.png">Invicon Mithril Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10330</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Odachi.png">Pure Magisteel Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10290</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Odachi.png">Invicon Adamantite Odachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10360</li>

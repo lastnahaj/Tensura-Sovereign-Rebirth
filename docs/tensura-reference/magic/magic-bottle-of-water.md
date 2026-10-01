@@ -7,7 +7,7 @@ description: "Fill an empty Magic Bottle at a water source. Brew grass into Low 
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
 <img src="../../../assets/images/items/magic-bottle-of-water.webp" alt="Magic Bottle of Water illustration" loading="eager" decoding="async">
 <figcaption>TSR item illustration · not the in-game texture</figcaption>

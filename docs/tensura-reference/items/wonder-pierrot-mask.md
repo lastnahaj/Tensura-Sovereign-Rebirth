@@ -107,7 +107,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-winged-shoes-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Winged Shoes Schematic</strong>
 <small>Holding a Dragon Peacock Feather</small>
@@ -144,7 +144,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Wonder Pierrot Mask](https://tensura.wiki.gg/wiki/Wonder_Pierrot_Mask) on the Tensura: Reincarnated Wiki (revision `10846`, modified `2025-11-16T11:02:52Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (9 source files)</summary>
+<summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Wonder_Pierrot_Mask.png">Invicon Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6776</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Wonder_Pierrot_Mask.png">Wonder Pierrot Mask.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7293</li>

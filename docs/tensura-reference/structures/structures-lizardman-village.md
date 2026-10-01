@@ -122,7 +122,7 @@ Swamp, Mangrove Swamp</div></div><div class="druid-row druid-row-mobs" data-drui
 Base Tensura reference adapted from [Structures/Lizardman Village](https://tensura.wiki.gg/wiki/Structures/Lizardman_Village) on the Tensura: Reincarnated Wiki (revision `11549`, modified `2026-04-02T11:56:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (9 source files)</summary>
+<summary>Media credits (8 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Lizardman_Village.png">Lizardman Village.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9077</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Lizardman_village_inworld.png">Lizardman village inworld.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9119</li>
@@ -132,6 +132,6 @@ Base Tensura reference adapted from [Structures/Lizardman Village](https://tensu
 <li><a href="https://tensura.wiki.gg/wiki/File:Lizardman_village_smithy_b.png">Lizardman village smithy b.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9112</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Lizardman_village_storeroom.png">Lizardman village storeroom.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9114</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP8.png">WIP8.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4725</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 </ul>
 </details>

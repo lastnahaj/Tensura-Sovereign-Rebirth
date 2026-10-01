@@ -141,7 +141,7 @@ The dark grisly essence of a daemon.
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-dark-set-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Dark Set Schematic</strong>
 <small>Earn the Advancement [ Ruler Of Monsters ] which requires taming Lizardman , Goblin , Orc , Direwolf , and Slime</small>

@@ -158,13 +158,13 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [HihiIrokane Helmet](https://tensura.wiki.gg/wiki/HihiIrokane_Helmet) on the Tensura: Reincarnated Wiki (revision `10609`, modified `2025-08-27T11:01:34Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Helmet.png">Invicon HihiIrokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6815</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hihi&#x27;irokane_Helmet.png">Hihi&#x27;irokane Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Helmet.png">Invicon Adamantite Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6429</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Helmet.png">Invicon Orichalcum Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6665</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 </ul>
 </details>

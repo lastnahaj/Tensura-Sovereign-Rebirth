@@ -167,11 +167,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Tachi](https://tensura.wiki.gg/wiki/Orichalcum_Tachi) on the Tensura: Reincarnated Wiki (revision `10905`, modified `2025-11-24T10:03:45Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Tachi.png">Invicon Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10299</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Tachi.png">Orichalcum Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10316</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Tachi.png">Invicon HihiIrokane Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10389</li>

@@ -581,5 +581,257 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:Low_Magic_Staff.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/magic/magic-staff-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Magic_Staff_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-adamantite-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Adamantite_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-ant-carapace-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Ant_Carapace_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-armorsaurus-scalemail-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Armorsaurus_Scalemail_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-charybdis-scalemail-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Charybdis_Scalemail_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-dark-set-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Dark_Set_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-diamond-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Diamond_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-gold-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Gold_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-high-magisteel-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/High_Magisteel_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-hihiirokane-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/HihiIrokane_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-iron-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Iron_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-knight-spider-carapace-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Knight_Spider_Carapace_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-mithril-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Mithril_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-orichalcum-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Orichalcum_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-pure-magisteel-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Pure_Magisteel_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-serpent-scalemail-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Serpent_Scalemail_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-silver-gear-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Silver_Gear_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/items-schematics-winged-shoes-schematic.md": {
+    "asset": "assets/images/items/crafting-schematic.webp",
+    "kind": "original",
+    "credit": "TSR crafting illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7876889173c4e7b2ee3d19adc2967d82f53702ab2a521199b4d6f4207fb2c57d",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Items/Schematics/Winged_Shoes_Schematic",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   }
 }

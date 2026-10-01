@@ -173,11 +173,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Low Magisteel Scythe](https://tensura.wiki.gg/wiki/Low_Magisteel_Scythe) on the Tensura: Reincarnated Wiki (revision `10442`, modified `2025-08-26T08:51:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Scythe.png">Invicon Low Magisteel Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6602</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Scythe.png">Low Magisteel Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7119</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Scythe.png">Invicon High Magisteel Scythe.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6544</li>

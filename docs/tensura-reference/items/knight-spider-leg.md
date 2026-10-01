@@ -101,7 +101,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-knight-spider-carapace-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Knight Spider Carapace Gear Schematic</strong>
 <small>Obtained by picking up a Knight Spider Carapace</small>
@@ -138,7 +138,7 @@ tags:
 Base Tensura reference adapted from [Knight Spider Leg](https://tensura.wiki.gg/wiki/Knight_Spider_Leg) on the Tensura: Reincarnated Wiki (revision `9468`, modified `2025-04-23T18:05:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Knight_Spider_Leg.png">Invicon Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6585</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Knight_Spider_Leg.png">Knight Spider Leg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7102</li>

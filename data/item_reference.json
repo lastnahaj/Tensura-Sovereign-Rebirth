@@ -16,6 +16,30 @@
   ],
   "pages": [
     {
+      "local_page": "tensura-reference/magic/magic-staff-schematic.md",
+      "display_title": "Magic Staff Schematic",
+      "category": "items",
+      "asset": "assets/images/items/crafting-schematic.webp",
+      "catalogue_entry": true,
+      "registry_id": "tensura:magic_staff_schematic",
+      "summary": "Learn the casting-staff blueprint by using one schematic. A level-five Magic Trainer dwarf offers it for a base cost of ten Gold Coins before trade adjustments.",
+      "status": "Trade and learning behavior verified",
+      "acquisition_verified": true,
+      "notice_kind": "info",
+      "warning": "A schematic must be learned, not merely carried. Learning consumes one copy only when this schematic is not already unlocked. Staff recipes also require the matching material-tier gear schematic.",
+      "obtainment": "Reach the level-five (Master) trades of a [Magic Trainer dwarf](../mobs/mobs-dwarf.md). The pinned trade list includes one Magic Staff Schematic for a base cost of ten Gold Coins multiplied by magicTrainerPriceMultiplier. TSR's checked-in multiplier is 1.0. This is the base offer, not a guarantee of the final displayed price or of every merchant's selected offers. Confirm the actual trade in game; live-server trades have not been tested.",
+      "use": "Hold the schematic and use the item. On the server, SmithingSchematicItem.use checks whether the player already knows it. If not, it unlocks the schematic, marks the player data dirty, sends the unlock message, and consumes one copy. Reusing an already learned schematic does not consume another copy in this method.",
+      "effects": "The registered item is Uncommon and stacks to 16. The [casting-staff guide](../items/magic-staves.md) documents Low, Medium, and High recipes that require this learned schematic plus their Low, High, or Pure Magisteel Gear schematic respectively. Smithing requires the complete learned set; the physical blueprint is not a recipe ingredient. This check does not establish schematic retention across prestige resets, merchant restocking, or add-on overrides.",
+      "evidence_paths": [
+        "io/github/manasmods/tensura/registry/item/TensuraSmithingSchematicItems.class",
+        "io/github/manasmods/tensura/item/misc/SmithingSchematicItem.class",
+        "io/github/manasmods/tensura/entity/merchant/profession/DwarfProfession.class",
+        "io/github/manasmods/tensura/entity/merchant/trade/OneForOneTrade.class",
+        "io/github/manasmods/tensura/recipe/SmithingBenchRecipe.class",
+        "pack/config/tensura/entity/entity_config.toml"
+      ]
+    },
+    {
       "local_page": "tensura-reference/magic/low-magic-staff.md",
       "display_title": "Low Magic Staff",
       "category": "items",

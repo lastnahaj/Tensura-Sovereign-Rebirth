@@ -151,11 +151,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Silver Helmet](https://tensura.wiki.gg/wiki/Silver_Helmet) on the Tensura: Reincarnated Wiki (revision `9424`, modified `2025-04-23T17:39:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Helmet.png">Invicon Silver Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6707</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Silver_Helmet.png">Silver Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7226</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Ingot.png">Invicon Silver Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6709</li>
 </ul>
 </details>

@@ -102,7 +102,7 @@ This is a better version of <span class="nowrap"><span class="sprite-file"><a hr
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-hihiirokane-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>HihiIrokane Gear Schematic</strong>
 <small>Obtained by picking up an HihiIrokane Ingot</small>
@@ -139,7 +139,7 @@ This is a better version of <span class="nowrap"><span class="sprite-file"><a hr
 Base Tensura reference adapted from [Hipokute Flower](https://tensura.wiki.gg/wiki/Hipokute_Flower) on the Tensura: Reincarnated Wiki (revision `13311`, modified `2026-07-03T13:51:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Hipokute_Flower.png">Invicon Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4446</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Hipokute_Flower.png">Hipokute Flower.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7071</li>

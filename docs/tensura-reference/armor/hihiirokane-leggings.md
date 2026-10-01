@@ -155,12 +155,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [HihiIrokane Leggings](https://tensura.wiki.gg/wiki/HihiIrokane_Leggings) on the Tensura: Reincarnated Wiki (revision `10611`, modified `2025-08-27T11:02:04Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Leggings.png">Invicon HihiIrokane Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6818</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Leggings.png">HihiIrokane Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7070</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Leggings.png">Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6940</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 </ul>
 </details>

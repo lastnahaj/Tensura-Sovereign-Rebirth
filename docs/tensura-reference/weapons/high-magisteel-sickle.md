@@ -186,12 +186,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [High Magisteel Sickle](https://tensura.wiki.gg/wiki/High_Magisteel_Sickle) on the Tensura: Reincarnated Wiki (revision `13129`, modified `2026-06-21T19:37:58Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (9 source files)</summary>
+<summary>Media credits (7 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Sickle.png">Invicon High Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6547</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Sickle.png">High Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7061</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Sickle.png">Invicon Low Magisteel Sickle.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 13079</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Gold_Ingot.png">Invicon Gold Ingot.png</a> — CC BY-SA 4.0; uploaded by SoftPaw6234; revision 10660</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>

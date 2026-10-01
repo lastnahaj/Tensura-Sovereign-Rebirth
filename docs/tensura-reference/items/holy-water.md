@@ -7,7 +7,7 @@ description: "An unfinished upstream item reference; a matching obtainable item 
 
 <span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world reference-overview--text-only">
+<section data-reference-section="items" class="reference-overview reference-theme-world reference-overview--text-only">
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>An unfinished upstream item reference; a matching obtainable item has not been verified for the pinned 1.21.1 build.</p>

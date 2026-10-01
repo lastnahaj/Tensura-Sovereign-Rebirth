@@ -47,7 +47,7 @@ def generate():
         guide_link = posixpath.relpath('tensura-reference/items/healing-potions.md', posixpath.dirname(page['local_page']))
         lines = ['---', f'title: {json.dumps(page["display_title"])}', f'description: {json.dumps(page["summary"])}', '---', '', f'# {page["display_title"]}', '',
                  '<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>', '',
-                 '<section class="reference-overview reference-theme-world' + ('' if page.get('asset') else ' reference-overview--text-only') + '">']
+                 '<section data-reference-section="items" class="reference-overview reference-theme-world' + ('' if page.get('asset') else ' reference-overview--text-only') + '">']
         if page.get('asset'):
             lines.extend(['<figure class="reference-overview-media reference-overview-media--source">',
                           f'<img src="../../../{page["asset"]}" alt="{title} illustration" loading="eager" decoding="async">',

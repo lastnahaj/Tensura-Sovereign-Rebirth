@@ -155,12 +155,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [HihiIrokane Chestplate](https://tensura.wiki.gg/wiki/HihiIrokane_Chestplate) on the Tensura: Reincarnated Wiki (revision `10610`, modified `2025-08-27T11:01:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Chestplate.png">Invicon HihiIrokane Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6816</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:HihiIrokane_Chestplate.png">HihiIrokane Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7068</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Chestplate.png">Adamantite Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6938</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Ingot.gif">Invicon HihiIrokane Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8820</li>
 </ul>
 </details>

@@ -169,11 +169,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Orichalcum Shovel](https://tensura.wiki.gg/wiki/Orichalcum_Shovel) on the Tensura: Reincarnated Wiki (revision `10892`, modified `2025-11-24T09:50:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Shovel.png">Invicon Orichalcum Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10305</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orichalcum_Shovel.png">Orichalcum Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10320</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Orichalcum_Ingot.gif">Invicon Orichalcum Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3097</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_HihiIrokane_Shovel.png">Invicon HihiIrokane Shovel.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10395</li>

@@ -35,6 +35,12 @@ description: Compare staff capacities, cooldowns, durability, and smithing requi
 </article>
 </div></section>
 
+## Learn the schematics
+
+Use a schematic to learn it; carrying the item alone does not unlock smithing. Learning an unknown schematic consumes one copy. Using a schematic already learned does not consume another copy in the checked method.
+
+The [Magic Staff Schematic](../magic/magic-staff-schematic.md) appears in level-five Magic Trainer dwarf trades for a base cost of ten Gold Coins with TSR’s checked-in price multiplier of 1.0. The final trade price and the merchant’s selected offers can differ; check the in-game trading screen. Material-tier schematics remain separate requirements.
+
 ## Prepare the staff
 
 Use the [Spellbinding Table](../resistances/spellbinding-table.md) to bind compatible spells. An empty stored spell list causes the staff’s use method to fail. The [Low Staff reference](../magic/low-magic-staff.md) gives the starter recipe and implementation evidence.

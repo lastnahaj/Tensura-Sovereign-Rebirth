@@ -162,12 +162,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Pure Magisteel Katana](https://tensura.wiki.gg/wiki/Pure_Magisteel_Katana) on the Tensura: Reincarnated Wiki (revision `10763`, modified `2025-11-12T13:18:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Katana.png">Invicon Pure Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10266</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Katana.png">Pure Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10287</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Katana.png">Invicon High Magisteel Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6537</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Katana.png">Invicon Adamantite Katana.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10357</li>

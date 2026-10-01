@@ -160,11 +160,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Mithril Tachi](https://tensura.wiki.gg/wiki/Mithril_Tachi) on the Tensura: Reincarnated Wiki (revision `10640`, modified `2025-08-28T11:27:20Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Tachi.png">Invicon Mithril Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10329</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Tachi.png">Pure Magisteel Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10283</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Mithril_Ingot.gif">Invicon Mithril Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3102</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Stick.png">Invicon Stick.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7374</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Adamantite_Tachi.png">Invicon Adamantite Tachi.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 10359</li>

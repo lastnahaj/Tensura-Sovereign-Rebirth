@@ -154,11 +154,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Charybdis Scalemail Boots](https://tensura.wiki.gg/wiki/Charybdis_Scalemail_Boots) on the Tensura: Reincarnated Wiki (revision `11995`, modified `2026-04-20T04:48:41Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Scalemail_Boots.png">Charybdis Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6981</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scalemail_Boots.png">Invicon Charybdis Scalemail Boots.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6470</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
 </ul>
 </details>

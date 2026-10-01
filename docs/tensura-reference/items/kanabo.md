@@ -137,7 +137,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-knight-spider-carapace-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Knight Spider Carapace Gear Schematic</strong>
 <small>Obtained by picking up a Knight Spider Carapace</small>
@@ -153,7 +153,7 @@ tags:
 Base Tensura reference adapted from [Kanabo](https://tensura.wiki.gg/wiki/Kanabo) on the Tensura: Reincarnated Wiki (revision `13110`, modified `2026-06-15T12:13:38Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Kanabo.png">Invicon Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6579</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Kanabo.png">Kanabo.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7096</li>

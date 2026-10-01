@@ -128,7 +128,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../items-schematics-charybdis-scalemail-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Scalemail Schematic</strong>
 <small>Obtained by defeating Charybdis</small>
@@ -165,7 +165,7 @@ tags:
 Base Tensura reference adapted from [Chilled Slime](https://tensura.wiki.gg/wiki/Chilled_Slime) on the Tensura: Reincarnated Wiki (revision `9202`, modified `2025-04-14T10:25:04Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime.png">Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6985</li>

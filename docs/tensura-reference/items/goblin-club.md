@@ -125,7 +125,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-gold-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Gold Gear Schematic</strong>
 <small>Obtained by picking up a Gold Ingot</small>
@@ -155,7 +155,7 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Goblin Club](https://tensura.wiki.gg/wiki/Goblin_Club) on the Tensura: Reincarnated Wiki (revision `10245`, modified `2025-08-25T16:31:30Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Goblin_Club.png">Invicon Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6518</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Goblin_Club.png">Goblin Club.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7031</li>

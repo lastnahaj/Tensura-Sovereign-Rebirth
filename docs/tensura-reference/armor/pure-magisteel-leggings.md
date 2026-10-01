@@ -151,12 +151,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Pure Magisteel Leggings](https://tensura.wiki.gg/wiki/Pure_Magisteel_Leggings) on the Tensura: Reincarnated Wiki (revision `13118`, modified `2026-06-21T19:24:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (8 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Leggings.png">Invicon Pure Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6678</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Pure_Magisteel_Leggings.png">Pure Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7196</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Leggings.png">Invicon High Magisteel Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6539</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Ingot.gif">Invicon Pure Magisteel Ingot.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 2933</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(A).png">Invicon Monster Leather (A).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3099</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Adamantite_Leggings.png">Adamantite Leggings.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6940</li>

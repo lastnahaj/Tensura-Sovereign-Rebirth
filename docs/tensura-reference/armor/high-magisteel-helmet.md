@@ -154,12 +154,12 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [High Magisteel Helmet](https://tensura.wiki.gg/wiki/High_Magisteel_Helmet) on the Tensura: Reincarnated Wiki (revision `10589`, modified `2025-08-27T10:56:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Helmet.png">Invicon High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6535</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:High_Magisteel_Helmet.png">High Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7048</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Helmet.png">Invicon Low Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6592</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Ingot.png">Invicon High Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3978</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Pure_Magisteel_Helmet.png">Invicon Pure Magisteel Helmet.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6676</li>
 </ul>

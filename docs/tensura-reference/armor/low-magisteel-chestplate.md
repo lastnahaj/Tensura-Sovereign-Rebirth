@@ -151,11 +151,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Low Magisteel Chestplate](https://tensura.wiki.gg/wiki/Low_Magisteel_Chestplate) on the Tensura: Reincarnated Wiki (revision `13119`, modified `2026-06-21T19:31:48Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Chestplate.png">Invicon Low Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6590</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Low_Magisteel_Chestplate.png">Low Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7107</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Low_Magisteel_Ingot.png">Invicon Low Magisteel Ingot.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6594</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(D).png">Invicon Monster Leather (D).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6821</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_High_Magisteel_Chestplate.png">Invicon High Magisteel Chestplate.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6533</li>

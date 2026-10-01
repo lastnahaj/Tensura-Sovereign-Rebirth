@@ -120,7 +120,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../items-schematics-silver-gear-schematic/">
-<img src="../../../assets/upstream/tensura/weapons/schematic-5025a4d81f.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Silver Gear Schematic</strong>
 <small>Obtained by picking up a Silver Ingot</small>
@@ -143,7 +143,7 @@ tags:
 Base Tensura reference adapted from [Items/Misc/Silver Nugget](https://tensura.wiki.gg/wiki/Items/Misc/Silver_Nugget) on the Tensura: Reincarnated Wiki (revision `7383`, modified `2025-02-10T13:49:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Nugget.png">Invicon Silver Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6714</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Silver_Nugget.png">Silver Nugget.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7233</li>

@@ -154,11 +154,11 @@ To craft, you need a <a href="../../blocks/blocks-smithing-bench/" title="Blocks
 Base Tensura reference adapted from [Monster Leather Boots (B)](https://tensura.wiki.gg/wiki/Monster_Leather_Boots_(B)) on the Tensura: Reincarnated Wiki (revision `8117`, modified `2025-03-12T16:01:51Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_Boots_(B).png">Invicon Monster Leather Boots (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6825</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Monster_Leather_Boots_(B).png">Monster Leather Boots (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7144</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Schematic.png">Schematic.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4011</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Monster_Leather_(B).png">Invicon Monster Leather (B).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6819</li>
 </ul>
 </details>

@@ -785,6 +785,15 @@
       "replacement_asset": "assets/illustrations/skills/roaring-lion-punch.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Schematic.png",
+      "source_title": "Schematic.png",
+      "checked_on": "2026-09-30",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/crafting-schematic.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Spatial_attack_nullification.png",
       "source_title": "Spatial attack nullification.png",
       "checked_on": "2026-09-30",
