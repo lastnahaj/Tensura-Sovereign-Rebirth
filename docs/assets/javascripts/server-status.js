@@ -12,7 +12,7 @@
     // Curated references may retain a legacy URL outside their current collection.
     const section = document.querySelector("[data-reference-section]")?.dataset.referenceSection;
     const links = [...navList.querySelectorAll("a.md-nav__link[href]")];
-    const preferred = ["items", "blocks"].includes(section)
+    const preferred = ["items", "blocks", "biomes"].includes(section)
       ? links.find((link) => new URL(link.href).pathname.endsWith(`/tensura-reference/${section}/`))
       : null;
     if (preferred || !navList.querySelector(".md-nav__item--active")) {

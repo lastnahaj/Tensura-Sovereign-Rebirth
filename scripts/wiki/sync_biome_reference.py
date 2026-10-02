@@ -161,6 +161,8 @@ def generate() -> dict[str, str]:
             text = re.sub(r"</section>", "</section>\n\n" + notice, text, count=1)
         text = re.sub(r"[ \t]+(?=\r?$)", "", text, flags=re.M)
         outputs[page] = text.rstrip() + "\n"
+    from underworld_biome_reference import generate as generate_underworld_biomes
+    outputs.update(generate_underworld_biomes())
     return outputs
 
 

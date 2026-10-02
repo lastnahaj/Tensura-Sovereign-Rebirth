@@ -6,7 +6,7 @@
 <h1>Blocks</h1>
 <p>Mechanically relevant blocks and block families.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>36</strong> articles</span>
+<span class="reference-count"><strong>32</strong> articles</span>
 </div>
 </div>
 </header>
@@ -29,9 +29,8 @@
 <button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="P" aria-pressed="false">P</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
-<button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 36 of 36 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 32 of 32 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="B" data-search="block of adamantite the solid block form of adamantite, the late-stage material reached after high magisteel equipment progression.">
@@ -510,66 +509,6 @@
 <small class="skill-reference-status">1.21.1 reference · Server build match pending</small>
 <p>An invisible lattice block registered as implementation support for Nightmares&#x27; Stasis field.</p>
 <dl class="reference-card-stats"><dt>Source</dt><dd>Tensura Nightmares 1.0.3.2.8</dd><dt>Role</dt><dd>Stasis field boundary</dd><dt>Player access</dt><dd>Skill-created/internal block</dd></dl><small class="reference-card-source-note">Reference release; server build match pending.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="U" data-search="underworld barrens a 104,000-density underworld terrain block associated with daemon and hound dog territory.">
-<a href="underworld-barrens/" aria-label="Open Underworld Barrens">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/underworld-barrens.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Underworld Barrens</h2>
-
-<p>A 104,000-density Underworld terrain block associated with Daemon and Hound Dog territory.</p>
-<dl class="reference-card-stats"><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Arch Daemon</span><span>Greater Daemon</span><span>Lesser Daemon</span><span>Hound Dog</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="U" data-search="underworld red sands a 102,000-density red underworld sand found around big ruins and hostile local spawns.">
-<a href="underworld-red-sands/" aria-label="Open Underworld Red Sands">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/underworld-red-sands.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Underworld Red Sands</h2>
-
-<p>A 102,000-density red Underworld sand found around Big Ruins and hostile local spawns.</p>
-<dl class="reference-card-stats"><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Arch Daemon</span><span>Greater Daemon</span><span>Lesser Daemon</span><span>Megalodon</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="U" data-search="underworld sands a 101,000-density underworld sand used around ruins and hostile local spawns.">
-<a href="underworld-sands/" aria-label="Open Underworld Sands">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/underworld-sands.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Underworld Sands</h2>
-
-<p>A 101,000-density Underworld sand used around Ruins and hostile local spawns.</p>
-<dl class="reference-card-stats"><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Arch Daemon</span><span>Greater Daemon</span><span>Lesser Daemon</span><span>Megalodon</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="U" data-search="underworld spikes a 103,000-density spiked underworld terrain block associated with daemon territory.">
-<a href="underworld-spikes/" aria-label="Open Underworld Spikes">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/encyclopedia/underworld-spikes.webp" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Underworld Spikes</h2>
-
-<p>A 103,000-density spiked Underworld terrain block associated with Daemon territory.</p>
-<dl class="reference-card-stats"><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Arch Daemon</span><span>Greater Daemon</span><span>Lesser Daemon</span></span></dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

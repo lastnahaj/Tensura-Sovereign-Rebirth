@@ -65,9 +65,9 @@ This library combines Tensura references with curated directories for the curren
 <a href="weapons/">Weapons <span>91</span></a>
 <a href="armor/">Armor <span>51</span></a>
 <a href="tools/">Tools <span>30</span></a>
-<a href="blocks/">Blocks <span>36</span></a>
+<a href="blocks/">Blocks <span>32</span></a>
 <a href="structures/">Structures <span>22</span></a>
-<a href="biomes/">Biomes <span>12</span></a>
+<a href="biomes/">Biomes <span>16</span></a>
 <a href="dimensions/">Dimensions <span>6</span></a>
 <a href="commands/">Commands <span>Overview</span></a>
 <a href="configuration/">Configuration <span>3</span></a>

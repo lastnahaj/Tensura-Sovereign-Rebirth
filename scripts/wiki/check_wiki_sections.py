@@ -40,7 +40,7 @@ for local_page, asset in media_overrides.items():
     assert asset_path.exists(), f'Missing card artwork: {asset}'
     if metadata.get('sha256'):
         assert hashlib.sha256(asset_path.read_bytes()).hexdigest() == metadata['sha256'], f'Artwork checksum mismatch: {local_page}'
-    section = curated_block_categories.get(local_page, curated_item_categories.get(local_page, Path(local_page).parts[1]))
+    section = metadata.get('category', curated_block_categories.get(local_page, curated_item_categories.get(local_page, Path(local_page).parts[1])))
     directory = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     route = local_page.removesuffix('.md')
     matching = [
@@ -280,7 +280,7 @@ assert 'Tensura: Dungeon project is not installed' in dimensions.get_text(' ', s
 biomes = BeautifulSoup((site / 'tensura-reference/biomes/index.html').read_text(encoding='utf-8'), 'html.parser')
 biome_cards = biomes.select('.reference-card')
 biome_titles = [card.h2.get_text(' ', strip=True) for card in biome_cards]
-assert len(biome_cards) == 12 and len(set(biome_titles)) == len(biome_titles), 'Unexpected biome directory size or duplicate title'
+assert len(biome_cards) == 16 and len(set(biome_titles)) == len(biome_titles), 'Unexpected biome directory size or duplicate title'
 assert 'Kamui Biome' in biome_titles and 'Structures and Biomes' not in biome_titles, 'Biome catalogue includes a collection page or omits Kamui'
 assert all(card.select_one('.reference-card-media img') for card in biome_cards), 'A biome card is missing artwork'
 assert all('placeholder' not in Path(image.get('src', '')).name.casefold() for image in biomes.select('.reference-card-media img')), 'A biome card uses placeholder artwork'
@@ -336,7 +336,26 @@ assert block_builds['nightmares']['installed_version_verified'] is False
 blocks = BeautifulSoup((site / 'tensura-reference/blocks/index.html').read_text(encoding='utf-8'), 'html.parser')
 block_cards = blocks.select('.reference-card')
 block_titles = [card.h2.get_text(' ', strip=True) for card in block_cards]
-assert len(block_cards) == 36 and len(set(block_titles)) == len(block_titles), 'Unexpected block directory size or duplicate title'
+assert len(block_cards) == 32 and len(set(block_titles)) == len(block_titles), 'Unexpected block directory size or duplicate title'
+from underworld_biome_reference import generate as generate_underworld_biomes, manifest as underworld_manifest, NAMES as underworld_names, baseline as underworld_baseline, spawn_entries as underworld_spawn_entries
+underworld_data = underworld_manifest()
+assert underworld_data['artifact_sha1'] in (ROOT / underworld_data['pack_manifest']).read_text(encoding='utf-8'), 'Underworld artifact selection changed'
+underworld_config = ROOT / underworld_data['area_configuration']['path']
+assert hashlib.sha256(underworld_config.read_bytes()).hexdigest() == underworld_data['area_configuration']['sha256'], 'Underworld baseline configuration changed'
+assert len(underworld_data['resources']) == 28
+for local_page, expected_content in generate_underworld_biomes().items():
+    assert (ROOT / 'docs' / local_page).read_text(encoding='utf-8') == expected_content, f'Stale Underworld guide: {local_page}'
+    assert 'data-reference-section="biomes"' in expected_content and 'Special:Upload' not in expected_content
+for slug, title in underworld_names.items():
+    assert title in biome_titles and title not in block_titles, f'Underworld biome misclassified: {title}'
+    card = next(card for card in biome_cards if card.h2.get_text(' ', strip=True) == title)
+    pairs = dict(zip([node.get_text(strip=True) for node in card.select('dt')], [node.get_text(' ', strip=True) for node in card.select('dd')]))
+    assert pairs['Magicule baseline'] == f'{underworld_baseline(underworld_data, slug):,.0f}'
+    assert 'Arch Daemon' in pairs['Mobs'], 'Tagged Arch Daemon addition lost'
+    entries = underworld_spawn_entries(underworld_data, slug)
+    assert len(entries) == 6 and any(item['type'] == 'tensura:arch_daemon' and item['weight'] == 1 and route == 'Hell-tag spawn addition' for item, route in entries)
+    assert card.select_one('a')['href'].endswith(f'/blocks/{slug.replace("_", "-")}/'), 'Legacy biome route changed'
+assert 'Hound Dog' in next(card for card in biome_cards if card.h2.get_text(' ', strip=True) == 'Underworld Spikes').get_text(' ', strip=True)
 required_blocks = {
     'Spellbinding Table',
     'Elemental Realm Portal', 'Cadence Acceleration Glass', 'Domicile Door',
@@ -349,7 +368,7 @@ for fact in ('spellbinding-table.webp', '1 Magic Stone', '2 Silver Ingots', '4 C
 assert 'skill-availability' not in spellbinding and 'Invicon_Diamond_Pickaxe' not in spellbinding and 'exclude: true' not in spellbinding, 'Workstation still treated as an archived resistance'
 assert all('id="' + anchor + '"' in spellbinding for anchor in ('Description', 'Usage')), 'Legacy workstation fragments lost'
 assert 'data-reference-section="blocks"' in spellbinding, 'Workstation navigation context missing'
-assert '["items", "blocks"].includes(section)' in (ROOT / 'docs/assets/javascripts/server-status.js').read_text(encoding='utf-8'), 'Curated workstation sidebar override missing'
+assert '["items", "blocks", "biomes"].includes(section)' in (ROOT / 'docs/assets/javascripts/server-status.js').read_text(encoding='utf-8'), 'Curated legacy-route sidebar override missing'
 assert all(card.select_one('.reference-card-media img') for card in block_cards), 'A block card is missing artwork or a reference symbol'
 for page in block_manifest['pages']:
     card = next(card for card in block_cards if card.h2.get_text(' ', strip=True) == page['display_title'])

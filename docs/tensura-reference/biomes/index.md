@@ -6,7 +6,7 @@
 <h1>Biomes</h1>
 <p>Documented biomes and biome-specific behavior.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>12</strong> articles</span>
+<span class="reference-count"><strong>16</strong> articles</span>
 </div>
 </div>
 </header>
@@ -26,9 +26,10 @@
 <button type="button" data-letter="L" aria-pressed="false">L</button>
 <button type="button" data-letter="M" aria-pressed="false">M</button>
 <button type="button" data-letter="S" aria-pressed="false">S</button>
+<button type="button" data-letter="U" aria-pressed="false">U</button>
 <button type="button" data-letter="W" aria-pressed="false">W</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 12 of 12 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 16 of 16 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ancient forest a high-magicule forest surrounding the spirit tree, with rare plants, spirits, and giant-tree portals.">
@@ -177,6 +178,66 @@
 
 <p>The elemental-realm spawning area for medium and greater space spirits.</p>
 
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="U" data-search="underworld barrens an underworld biome with hound dogs, daemons, and a configured 104,000-magicule baseline before other modifiers.">
+<a href="../blocks/underworld-barrens/" aria-label="Open Underworld Barrens">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/underworld-barrens.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Underworld Barrens</h2>
+
+<p>An Underworld biome with Hound Dogs, Daemons, and a configured 104,000-Magicule baseline before other modifiers.</p>
+<dl class="reference-card-stats"><dt>Magicule baseline</dt><dd>104,000</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Hound Dog</span><span>Lesser Daemon</span><span>Greater Daemon</span><span>Arch Daemon</span></span></dd></dl><small class="reference-card-source-note">Pinned artifact and tracked configuration; live spawning and chunk values untested.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="U" data-search="underworld red sands a red-sand underworld biome eligible for big ruins, with megalodons, daemons, and a configured 102,000-magicule baseline.">
+<a href="../blocks/underworld-red-sands/" aria-label="Open Underworld Red Sands">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/underworld-red-sands.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Underworld Red Sands</h2>
+
+<p>A red-sand Underworld biome eligible for Big Ruins, with Megalodons, Daemons, and a configured 102,000-Magicule baseline.</p>
+<dl class="reference-card-stats"><dt>Magicule baseline</dt><dd>102,000</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Megalodon</span><span>Lesser Daemon</span><span>Greater Daemon</span><span>Arch Daemon</span></span></dd></dl><small class="reference-card-source-note">Pinned artifact and tracked configuration; live spawning and chunk values untested.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="U" data-search="underworld sands an underworld biome eligible for ruins, with megalodons, daemons, and a configured 101,000-magicule baseline.">
+<a href="../blocks/underworld-sands/" aria-label="Open Underworld Sands">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/underworld-sands.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Underworld Sands</h2>
+
+<p>An Underworld biome eligible for Ruins, with Megalodons, Daemons, and a configured 101,000-Magicule baseline.</p>
+<dl class="reference-card-stats"><dt>Magicule baseline</dt><dd>101,000</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Megalodon</span><span>Lesser Daemon</span><span>Greater Daemon</span><span>Arch Daemon</span></span></dd></dl><small class="reference-card-source-note">Pinned artifact and tracked configuration; live spawning and chunk values untested.</small>
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="U" data-search="underworld spikes a rock-spike underworld biome with hound dogs, daemons, and a configured 103,000-magicule baseline before other modifiers.">
+<a href="../blocks/underworld-spikes/" aria-label="Open Underworld Spikes">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/encyclopedia/underworld-spikes.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Underworld Spikes</h2>
+
+<p>A rock-spike Underworld biome with Hound Dogs, Daemons, and a configured 103,000-Magicule baseline before other modifiers.</p>
+<dl class="reference-card-stats"><dt>Magicule baseline</dt><dd>103,000</dd><dt>Mobs</dt><dd><span class="reference-stat-tags"><span>Hound Dog</span><span>Lesser Daemon</span><span>Greater Daemon</span><span>Arch Daemon</span></span></dd></dl><small class="reference-card-source-note">Pinned artifact and tracked configuration; live spawning and chunk values untested.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

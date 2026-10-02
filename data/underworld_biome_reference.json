@@ -1,0 +1,707 @@
+{
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "reviewed_on": "2026-10-01",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+  "area_configuration": {
+    "path": "pack/config/tensura/area_magicule_config.toml",
+    "sha256": "455bdeb83c055bcf1fc2615bb43b207bbe1ab15d390212e450a7f7e91b40fe18",
+    "baseMagicule": 500.0,
+    "baseMagiculeRegeneration": 10.0
+  },
+  "registry_class": {
+    "path": "io/github/manasmods/tensura/registry/world/TensuraBiomes.class",
+    "sha256": "79e1d271d16abada6b75d2d03687f661f751d1f564f737d0883ef31a76ca3b01"
+  },
+  "biomes": [
+    "underworld_barrens",
+    "underworld_red_sands",
+    "underworld_sands",
+    "underworld_spikes"
+  ],
+  "resources": {
+    "data/tensura/level_magicule/hell.json": {
+      "sha256": "67cfeb79ad4fd4880443f72424171943859bbc99ee33b82d374acf179cfc6729",
+      "definition": {
+        "modifiers": [
+          {
+            "mode": "ADD",
+            "value": 100000.0
+          }
+        ],
+        "regen_modifiers": [
+          {
+            "mode": "MULTIPLY",
+            "value": 2.0
+          }
+        ],
+        "world": "tensura:hell"
+      }
+    },
+    "data/tensura/tags/worldgen/biome/is_hell.json": {
+      "sha256": "fbb0e256967d68bc65869d4f79fd4919962bfd1f94e3cbd91e386c07a42ef247",
+      "definition": {
+        "values": [
+          "tensura:underworld_barrens",
+          "tensura:underworld_spikes",
+          "tensura:underworld_red_sands",
+          "tensura:underworld_sands"
+        ]
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/arch_daemon_spawn.json": {
+      "sha256": "f6d0b81eb85319dec253eec5975fe67c8e4e92a0d2cadcb6408d1b7079cab8d0",
+      "definition": {
+        "type": "neoforge:add_spawns",
+        "biomes": "#tensura:arch_daemon_spawn",
+        "spawners": {
+          "type": "tensura:arch_daemon",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 1
+        }
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/arch_daemon_spawn_cost.json": {
+      "sha256": "b87b90fd39a0e842a9b3463d94e2118fc71b7a7639895c02527654abc0481a68",
+      "definition": {
+        "type": "neoforge:add_spawn_costs",
+        "biomes": "#tensura:arch_daemon_spawn",
+        "entity_types": "tensura:arch_daemon",
+        "spawn_cost": {
+          "charge": 4.0,
+          "energy_budget": 4.0
+        }
+      }
+    },
+    "data/tensura/tags/worldgen/biome/arch_daemon_spawn.json": {
+      "sha256": "95fcd7caa985637db696c6711e26c28cacae1a83e08c733ed6f39e9894dcf58f",
+      "definition": {
+        "values": [
+          "#tensura:is_hell"
+        ]
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/greater_daemon_spawn.json": {
+      "sha256": "29484014663c2e21e650c7aae43ebc130d5c7b0b6c6e70291fbd56daf95251c4",
+      "definition": {
+        "type": "neoforge:add_spawns",
+        "biomes": "#tensura:greater_daemon_spawn",
+        "spawners": {
+          "type": "tensura:greater_daemon",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 30
+        }
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/greater_daemon_spawn_cost.json": {
+      "sha256": "218a674bc4fb72ce8943957ab04f84ab0120d758a58c9c666c3ebbe79a52e36e",
+      "definition": {
+        "type": "neoforge:add_spawn_costs",
+        "biomes": "#tensura:greater_daemon_spawn",
+        "entity_types": "tensura:greater_daemon",
+        "spawn_cost": {
+          "charge": 4.0,
+          "energy_budget": 4.0
+        }
+      }
+    },
+    "data/tensura/tags/worldgen/biome/greater_daemon_spawn.json": {
+      "sha256": "95fcd7caa985637db696c6711e26c28cacae1a83e08c733ed6f39e9894dcf58f",
+      "definition": {
+        "values": [
+          "#tensura:is_hell"
+        ]
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/lesser_daemon_spawn.json": {
+      "sha256": "b401b0bea315ce7a519740389d42bd3206f7e7f24667032b2647f27e776da918",
+      "definition": {
+        "type": "neoforge:add_spawns",
+        "biomes": "#tensura:lesser_daemon_spawn",
+        "spawners": {
+          "type": "tensura:lesser_daemon",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 60
+        }
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/lesser_daemon_spawn_cost.json": {
+      "sha256": "0c3ae9b43902e5ba79a083e2272ad7c2c69b5c446fb435ab2d0995f33ae27be6",
+      "definition": {
+        "type": "neoforge:add_spawn_costs",
+        "biomes": "#tensura:lesser_daemon_spawn",
+        "entity_types": "tensura:lesser_daemon",
+        "spawn_cost": {
+          "charge": 4.0,
+          "energy_budget": 4.0
+        }
+      }
+    },
+    "data/tensura/tags/worldgen/biome/lesser_daemon_spawn.json": {
+      "sha256": "95fcd7caa985637db696c6711e26c28cacae1a83e08c733ed6f39e9894dcf58f",
+      "definition": {
+        "values": [
+          "#tensura:is_hell"
+        ]
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/hound_dog_spawn.json": {
+      "sha256": "f8a597fb76b4a54673e093eed8f498dfc75471e4a90229bce79ef79fae1779a6",
+      "definition": {
+        "type": "neoforge:add_spawns",
+        "biomes": "#tensura:hound_dog_spawn",
+        "spawners": {
+          "type": "tensura:hound_dog",
+          "maxCount": 3,
+          "minCount": 1,
+          "weight": 80
+        }
+      }
+    },
+    "data/tensura/neoforge/biome_modifier/hound_dog_spawn_cost.json": {
+      "sha256": "a30b5219420d30a5de46a3448244144cbfe9bf7ef78d58879d643486a8cf1020",
+      "definition": {
+        "type": "neoforge:add_spawn_costs",
+        "biomes": "#tensura:hound_dog_spawn",
+        "entity_types": "tensura:hound_dog",
+        "spawn_cost": {
+          "charge": 1.2,
+          "energy_budget": 4.0
+        }
+      }
+    },
+    "data/tensura/tags/worldgen/biome/hound_dog_spawn.json": {
+      "sha256": "535144a68e67e30cec7317100f7ca3388ea8f26b6cecb818964d412fa7e3919f",
+      "definition": {
+        "values": [
+          {
+            "id": "c:is_plains",
+            "required": false
+          },
+          {
+            "id": "c:is_forest",
+            "required": false
+          },
+          "#minecraft:has_structure/village_plains",
+          "#minecraft:has_structure/village_snowy",
+          "#minecraft:is_forest"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/has_structure/hell_red_sand_ruin.json": {
+      "sha256": "bd7e0767183a96aad6bdabcf0bd93a50347535c90324c443cdfb5d6c26b845e4",
+      "definition": {
+        "values": [
+          "tensura:underworld_red_sands"
+        ]
+      }
+    },
+    "data/tensura/worldgen/structure/hell/red_sand_ruin.json": {
+      "sha256": "c5ecc73b9e13efc4db89db99a4cca722ef5ce8dedf97ede19203a7c71fa8b3c7",
+      "definition": {
+        "type": "tensura:jigsaw_min_height",
+        "biomes": "#tensura:has_structure/hell_red_sand_ruin",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 80,
+        "minY": 10,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 1,
+        "spawn_overrides": {},
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:hell_ruins/red_sand",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_thin",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure_set/hell/red_sand_ruin.json": {
+      "sha256": "fceea3c55b6d4bc9927b58ba88539de38bf0202e2e9933883c9a87f1876168af",
+      "definition": {
+        "placement": {
+          "type": "minecraft:random_spread",
+          "salt": 1815833406,
+          "separation": 4,
+          "spacing": 5
+        },
+        "structures": [
+          {
+            "structure": "tensura:hell/red_sand_ruin",
+            "weight": 1
+          }
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/has_structure/hell_sand_ruin.json": {
+      "sha256": "cf8c2ea06313b80bf96eb961410701197bd484f5cb5d101f4e6f7673f19d201a",
+      "definition": {
+        "values": [
+          "tensura:underworld_sands"
+        ]
+      }
+    },
+    "data/tensura/worldgen/structure/hell/sand_ruin.json": {
+      "sha256": "9e1b75590f5c49deb440d5b12f89e6302398ccc0ca3fd7cf78c439349f6d4aa8",
+      "definition": {
+        "type": "tensura:jigsaw_min_height",
+        "biomes": "#tensura:has_structure/hell_sand_ruin",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 80,
+        "minY": 10,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 1,
+        "spawn_overrides": {},
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:hell_ruins/sand",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_thin",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure_set/hell/sand_ruin.json": {
+      "sha256": "26d59074cdcae2757430ef31f6999fa55aed2aa9377d493a68e4c3174f45d86b",
+      "definition": {
+        "placement": {
+          "type": "minecraft:random_spread",
+          "salt": 742091583,
+          "separation": 4,
+          "spacing": 5
+        },
+        "structures": [
+          {
+            "structure": "tensura:hell/sand_ruin",
+            "weight": 1
+          }
+        ]
+      }
+    },
+    "data/tensura/worldgen/biome/underworld_barrens.json": {
+      "sha256": "151b387228aaf841f93541fdb1c26a87d33a5da54c1e7acd31ef5bd13b6421e7",
+      "definition": {
+        "carvers": {
+          "air": "minecraft:canyon"
+        },
+        "creature_spawn_probability": 0.0001,
+        "downfall": 0.0,
+        "effects": {
+          "additions_sound": {
+            "sound": "minecraft:ambient.nether_wastes.additions",
+            "tick_chance": 0.0111
+          },
+          "ambient_sound": "minecraft:ambient.nether_wastes.loop",
+          "fog_color": 1586208,
+          "mood_sound": {
+            "block_search_extent": 8,
+            "offset": 2.0,
+            "sound": "minecraft:ambient.nether_wastes.mood",
+            "tick_delay": 6000
+          },
+          "music": {
+            "max_delay": 24000,
+            "min_delay": 12000,
+            "replace_current_music": false,
+            "sound": "minecraft:music.nether.nether_wastes"
+          },
+          "sky_color": 0,
+          "water_color": 4159204,
+          "water_fog_color": 4159204
+        },
+        "features": [
+          [],
+          [],
+          [
+            "tensura:hell_block_blob"
+          ]
+        ],
+        "has_precipitation": false,
+        "spawn_costs": {
+          "tensura:greater_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:hound_dog": {
+            "charge": 0.7,
+            "energy_budget": 0.7
+          },
+          "tensura:lesser_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          }
+        },
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "tensura:hound_dog",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 70
+            },
+            {
+              "type": "tensura:lesser_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 40
+            },
+            {
+              "type": "tensura:greater_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 5
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        },
+        "temperature": 0.6,
+        "temperature_modifier": "frozen"
+      }
+    },
+    "data/tensura/biome_magicule/underworld_barrens.json": {
+      "sha256": "a400157a265ffe6b35926c30223ad2dc491911b6f69383ed9002c394a04fd3e7",
+      "definition": {
+        "biome": "tensura:underworld_barrens",
+        "modifiers": [
+          {
+            "mode": "ADD",
+            "value": 3500.0
+          }
+        ],
+        "priority": 1,
+        "regen_modifiers": [
+          {
+            "mode": "ADD",
+            "value": 50.0
+          }
+        ]
+      }
+    },
+    "data/tensura/worldgen/biome/underworld_red_sands.json": {
+      "sha256": "ff94d55e1cc0723f88bfadd8a75dfc53a65a93aa27d1d5310ae25837b672466c",
+      "definition": {
+        "carvers": {
+          "air": "minecraft:canyon"
+        },
+        "creature_spawn_probability": 1e-05,
+        "downfall": 0.0,
+        "effects": {
+          "additions_sound": {
+            "sound": "minecraft:ambient.soul_sand_valley.additions",
+            "tick_chance": 0.0111
+          },
+          "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+          "fog_color": 12390324,
+          "mood_sound": {
+            "block_search_extent": 8,
+            "offset": 2.0,
+            "sound": "minecraft:ambient.soul_sand_valley.mood",
+            "tick_delay": 6000
+          },
+          "music": {
+            "max_delay": 24000,
+            "min_delay": 12000,
+            "replace_current_music": false,
+            "sound": "minecraft:music.nether.soul_sand_valley"
+          },
+          "sky_color": 0,
+          "water_color": 4159204,
+          "water_fog_color": 4159204
+        },
+        "features": [
+          [],
+          [],
+          [
+            "tensura:floating_debris"
+          ]
+        ],
+        "has_precipitation": false,
+        "spawn_costs": {
+          "tensura:greater_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:lesser_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:megalodon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          }
+        },
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "tensura:megalodon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 60
+            },
+            {
+              "type": "tensura:lesser_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 40
+            },
+            {
+              "type": "tensura:greater_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 5
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        },
+        "temperature": 0.6
+      }
+    },
+    "data/tensura/biome_magicule/underworld_red_sands.json": {
+      "sha256": "60b1a6164e76e2595cb456ace690f10d36f0262288a7062fa1667f18c0a6626f",
+      "definition": {
+        "biome": "tensura:underworld_red_sands",
+        "modifiers": [
+          {
+            "mode": "ADD",
+            "value": 1500.0
+          }
+        ],
+        "priority": 1,
+        "regen_modifiers": [
+          {
+            "mode": "ADD",
+            "value": 50.0
+          }
+        ]
+      }
+    },
+    "data/tensura/worldgen/biome/underworld_sands.json": {
+      "sha256": "0895f1efaf4b15a2e3ed4d2074c490af5ce4ea7bd25adf89cc8595efa86582a0",
+      "definition": {
+        "carvers": {
+          "air": "minecraft:canyon"
+        },
+        "creature_spawn_probability": 1e-05,
+        "downfall": 0.0,
+        "effects": {
+          "additions_sound": {
+            "sound": "minecraft:ambient.soul_sand_valley.additions",
+            "tick_chance": 0.0111
+          },
+          "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+          "fog_color": 12390324,
+          "mood_sound": {
+            "block_search_extent": 8,
+            "offset": 2.0,
+            "sound": "minecraft:ambient.soul_sand_valley.mood",
+            "tick_delay": 6000
+          },
+          "music": {
+            "max_delay": 24000,
+            "min_delay": 12000,
+            "replace_current_music": false,
+            "sound": "minecraft:music.nether.soul_sand_valley"
+          },
+          "sky_color": 0,
+          "water_color": 4159204,
+          "water_fog_color": 4159204
+        },
+        "features": [
+          [],
+          [],
+          [
+            "tensura:floating_debris"
+          ]
+        ],
+        "has_precipitation": false,
+        "spawn_costs": {
+          "tensura:greater_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:lesser_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:megalodon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          }
+        },
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "tensura:megalodon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 70
+            },
+            {
+              "type": "tensura:lesser_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 40
+            },
+            {
+              "type": "tensura:greater_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 5
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        },
+        "temperature": 0.6
+      }
+    },
+    "data/tensura/biome_magicule/underworld_sands.json": {
+      "sha256": "deeb6e584d6f8dc60953f552b1157939f27d3dc7b449ddd83e17c98195662c38",
+      "definition": {
+        "biome": "tensura:underworld_sands",
+        "modifiers": [
+          {
+            "mode": "ADD",
+            "value": 500.0
+          }
+        ],
+        "priority": 1,
+        "regen_modifiers": [
+          {
+            "mode": "ADD",
+            "value": 50.0
+          }
+        ]
+      }
+    },
+    "data/tensura/worldgen/biome/underworld_spikes.json": {
+      "sha256": "7c2e884ba5944683b6aca97b207a4069235101e46dd4172eb4195d65406ad019",
+      "definition": {
+        "carvers": {
+          "air": "minecraft:canyon"
+        },
+        "creature_spawn_probability": 0.0001,
+        "downfall": 0.0,
+        "effects": {
+          "additions_sound": {
+            "sound": "minecraft:ambient.basalt_deltas.additions",
+            "tick_chance": 0.0111
+          },
+          "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+          "fog_color": 1586208,
+          "mood_sound": {
+            "block_search_extent": 8,
+            "offset": 2.0,
+            "sound": "minecraft:ambient.basalt_deltas.mood",
+            "tick_delay": 6000
+          },
+          "music": {
+            "max_delay": 24000,
+            "min_delay": 12000,
+            "replace_current_music": false,
+            "sound": "minecraft:music.nether.basalt_deltas"
+          },
+          "sky_color": 0,
+          "water_color": 4159204,
+          "water_fog_color": 4159204
+        },
+        "features": [
+          [],
+          [],
+          [
+            "tensura:hell_block_blob",
+            "tensura:rock_spike"
+          ]
+        ],
+        "has_precipitation": false,
+        "spawn_costs": {
+          "tensura:greater_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          },
+          "tensura:hound_dog": {
+            "charge": 0.7,
+            "energy_budget": 0.7
+          },
+          "tensura:lesser_daemon": {
+            "charge": 4.0,
+            "energy_budget": 4.0
+          }
+        },
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [
+            {
+              "type": "tensura:hound_dog",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 70
+            },
+            {
+              "type": "tensura:lesser_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 40
+            },
+            {
+              "type": "tensura:greater_daemon",
+              "maxCount": 1,
+              "minCount": 1,
+              "weight": 5
+            }
+          ],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        },
+        "temperature": 0.6,
+        "temperature_modifier": "frozen"
+      }
+    },
+    "data/tensura/biome_magicule/underworld_spikes.json": {
+      "sha256": "6ec33ec062b6e15f8ca4373cd99060faddd437e2317109a108359941a34a42dd",
+      "definition": {
+        "biome": "tensura:underworld_spikes",
+        "modifiers": [
+          {
+            "mode": "ADD",
+            "value": 2500.0
+          }
+        ],
+        "priority": 1,
+        "regen_modifiers": [
+          {
+            "mode": "ADD",
+            "value": 50.0
+          }
+        ]
+      }
+    }
+  },
+  "verification_scope": "Packaged biome, modifier, tag, structure resources and tracked configuration; live terrain, mob spawning, Magicules and loot untested."
+}

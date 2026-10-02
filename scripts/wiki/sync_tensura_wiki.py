@@ -602,7 +602,7 @@ def classify_article(title: str, categories: list[str]) -> str:
     if title_parts[0] == "blocks":
         return "blocks"
     if leaf in {"underworld barrens", "underworld red sands", "underworld sands", "underworld spikes"}:
-        return "blocks"
+        return "biomes"
     if title_parts[0] == "structures":
         return "structures"
     if title_parts[0] == "structures and biomes":
@@ -1590,10 +1590,16 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
             }
             if override.get("summary"):
                 record["_summary_override"] = override["summary"]
+            if override.get("category"):
+                if override["category"] not in CATEGORY_INFO:
+                    raise ValueError(f'Unknown reference category: {override["category"]}')
+                record["category"] = override["category"]
     from sync_item_reference import apply as apply_item_references
     apply_item_references(records)
     from sync_block_catalogue import apply as apply_block_references
     apply_block_references(records)
+    from underworld_biome_reference import apply as apply_underworld_biomes
+    apply_underworld_biomes(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -1928,6 +1934,8 @@ def generate_category_index(category: str, records: list[dict[str, Any]]) -> str
                         clean_value = re.sub(r'\s+,\s*', ', ', clean_value)
                         clean_value = clean_value.strip(' ,')
                         pairs.append((clean_label, clean_value))
+            if record.get('_card_stats'):
+                pairs = list(record['_card_stats'].items())
             if category == 'bosses' and pairs:
                 boss_stats = {}
                 for label, value in pairs:
