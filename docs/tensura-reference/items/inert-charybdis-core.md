@@ -1,112 +1,66 @@
 ---
-title: Charybdis Core, Inert
-description: 'An Inert Charybdis Core Inert Charybdis core is a drop from Charybdis that is no longer active after being defeated. Skills you gain after right clicking on the inert core: Magic Jamming Gravity Manipulation Once you have mastered Self-Regeneration, Ultraspeed-Regeneration will be available to be learned...'
-tags: []
+title: "Inert Charybdis Core"
+description: "The spent COOLDOWN phase of Charybdis Core, produced by the boss death callback and used for configured skill-learning attempts."
 ---
 
-# Charybdis Core, Inert
+# Inert Charybdis Core
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" alt="Charybdis Core, Inert source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core_Inert.png">Charybdis Core Inert.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/inert-charybdis-core.webp" alt="Inert Charybdis Core illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>An Inert Charybdis Core</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtaining">Obtaining</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>The spent COOLDOWN phase of Charybdis Core, produced by the boss death callback and used for configured skill-learning attempts.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><aside class="portable-infobox noexcerpt searchaux pi-background pi-theme-default pi-layout-default"><h2 class="pi-item pi-item-spacing pi-title" data-source="title">Inert Charybdis Core</h2><figure class="pi-item pi-media pi-image" data-source="image">
-<a class="image image-thumbnail reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core_Inert.png" title="Charybdis Core Inert.png">
-<img alt="Charybdis Core Inert.png" class="pi-image-thumbnail" decoding="async" height="270" loading="lazy" src="../../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" width="270"/>
-</a>
-</figure><section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open"><h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Description</h2><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="rarity">
-<h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity</a></h3>
-<div class="pi-data-value pi-font">Common</div>
-</div><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="renewable">
-<h3 class="pi-data-label pi-secondary-font"><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a></h3>
-<div class="pi-data-value pi-font">No</div>
-</div><div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stackable">
-<h3 class="pi-data-label pi-secondary-font">Stackable</h3>
-<div class="pi-data-value pi-font">Yes (64)</div>
-</div></section></aside>
-<p>An <b>Inert Charybdis Core</b>
-</p>
-<h2><span class="mw-headline" id="Obtaining">Obtaining</span></h2>
-<h3><span class="mw-headline" id="Mob_Drop">Mob Drop</span></h3>
-<p>Inert <a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a> core is a drop from Charybdis that is no longer active after being defeated.
-</p><p>Skills you gain after right clicking on the inert core:
-</p>
-<ul><li><a href="../../magic/magic-jamming/" title="Magic Jamming">Magic Jamming</a></li>
-<li><a href="../../skills/extra/gravity-manipulation/" title="Gravity Manipulation">Gravity Manipulation</a></li></ul>
-<p>Once you have mastered <a href="../../skills/common/self-regeneration/" title="Self Regeneration">Self-Regeneration</a>, <a href="../../skills/extra/ultraspeed-regeneration/" title="Ultraspeed Regeneration">Ultraspeed-Regeneration</a> will be available to be learned.
-</p><p>If you have <a href="../../skills/unique/degenerate/" title="Degenerate">Degenerate</a> you can use Synthesize Mode on it and you will instantly acquire <a href="../../magic/magic-sense/" title="Magic Sense">Magic Sense</a> and <a href="../../skills/extra/ultraspeed-regeneration/" title="Ultraspeed Regeneration">Ultraspeed-Regeneration</a> without having to learn them, you will also receive 200k EP, along with the skills mentioned above.
-</p>
-<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png"><img alt="InactiveCharybdisCore.png" class="thumbimage" data-file-height="192" data-file-width="778" decoding="async" height="79" loading="lazy" src="../../../assets/upstream/tensura/items/inactivecharybdiscore-02089b80df.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png" title="Enlarge"></a></div></div></div></div>
+!!! info "Boss death callback checked · live recovery untested"
+    Block interactions and registration were checked in Tensura 2.0.1.2. Cave acquisition, live recovery, combat, skill grants, and synthesis remain untested.
 
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
+<div class="druid-title">Inert Charybdis Core</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:charybdis_core</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Boss death callback checked · live recovery untested</div></div>
+<div class="druid-row"><div class="druid-label">Stack limit</div><div class="druid-data">64, subject to matching components</div></div>
+<div class="druid-row"><div class="druid-label">Item property</div><div class="druid-data">Fire resistant</div></div>
+</aside></div></div>
 
+<span id="Obtaining"></span><span id="Mob_Drop"></span>
 
-</div>
-</div>
+## Availability
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/invicon-inert-charybdis-core-999383cfa0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Core</strong>
-<small>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)</small>
-</span>
-</a>
-<a class="reference-related-card" href="../charybdis-scale/">
-<img src="../../../assets/upstream/tensura/armor/invicon-charybdis-scale-9a01b3e868.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Scale</strong>
-<small>A massive blue scale from Charybdis .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../character-reset-scroll/">
-<img src="../../../assets/upstream/tensura/items/invicon-character-reset-scroll-942643b150.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Character Reset Scroll</strong>
-<small>Resets EVERYTHING from the User, Pretty much like reincarnating from scratch. This also means achievements that you&#x27;ve…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../items-schematics-charybdis-scalemail-gear-schematic/">
-<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Scalemail Schematic</strong>
-<small>Obtained by defeating Charybdis</small>
-</span>
-</a>
-</div>
-</section>
+The checked `CharybdisEntity.tickDeath` callback creates a falling Charybdis Core in **COOLDOWN** phase when its death counter reaches **40 ticks**, with the falling entity’s indestructible flag set. This is a death-callback path, not an ordinary core entry in the boss loot JSON. Landing, collection, and successful server recovery remain untested. It uses the same `tensura:charybdis_core` item ID as the other phases.
 
----
+<span id="Usage"></span>
+
+## How to use
+
+Use a placed inert core without sneaking to attempt the configured [Gravity Manipulation](../skills/extra/gravity-manipulation.md) and [Magic Jamming](../magic/magic-jamming.md) skill-learning calls. This is not a guarantee that an already-owned, blocked, or otherwise ineligible skill can be learned. See the [core lifecycle guide](../blocks/blocks-charybdis-core.md#inert-core-rewards) before using or recovering it.
+
+## Behavior and limits
+
+With a nonempty resolved skill list, the checked branch removes the core if at least one `SkillHelper.learnSkill` call succeeds. If none succeeds it returns without removing the block. An empty resolved list also reaches the removal branch. The tracked synthesis configuration separately specifies **200,000 EP** and four inert-core skills, including [Magic Sense](../magic/magic-sense.md) and [Ultraspeed Regeneration](../skills/extra/ultraspeed-regeneration.md). These synthesis settings are configuration evidence only here; implementation eligibility and live rewards were not tested. Do not treat ordinary inert-core use as proof of those extra rewards.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Inert Charybdis Core](https://tensura.wiki.gg/wiki/Inert_Charybdis_Core) on the Tensura: Reincarnated Wiki (revision `13037`, modified `2026-06-07T15:22:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Inert Charybdis Core](https://tensura.wiki.gg/wiki/Inert_Charybdis_Core) on the Tensura: Reincarnated Wiki, recorded revision `13037`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core_Inert.png">Charybdis Core Inert.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12924</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png">InactiveCharybdisCore.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 1946</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `TensuraMobDropItems`
+    - `SimpleBlockItem`
+    - `CharybdisCoreBlock`
+    - `CharybdisCoreBlockEntity`
+    - `data/tensura/loot_table/blocks/charybdis_core.json`

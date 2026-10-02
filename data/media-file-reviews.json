@@ -65,6 +65,24 @@
       "replacement_asset": "assets/illustrations/skills/battlewill.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_Core.png",
+      "source_title": "Charybdis Core.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/charybdis-core.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_Core_Inert.png",
+      "source_title": "Charybdis Core Inert.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/inert-charybdis-core.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Cherry_blossoms_eight_petals_flash.png",
       "source_title": "Cherry blossoms eight petals flash.png",
       "checked_on": "2026-09-30",
@@ -434,6 +452,15 @@
       "replacement_asset": "assets/illustrations/skills/holy-attack-resistance.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png",
+      "source_title": "InactiveCharybdisCore.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/inert-charybdis-core.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Instant_move.png",
       "source_title": "Instant move.png",
       "checked_on": "2026-09-30",
@@ -441,6 +468,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/instant-move.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png",
+      "source_title": "Invicon Charybdis Core.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/charybdis-core.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png",
@@ -558,6 +594,15 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/images/items/hipokute-seeds.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Inert_Charybdis_Core.png",
+      "source_title": "Invicon Inert Charybdis Core.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/inert-charybdis-core.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Low_Magic_Staff.png",

@@ -1,150 +1,66 @@
 ---
-title: Charybdis Core
-description: For the item drop from Charybdis, see Inert Charybdis Core The egg-like core used to summon Charybdis. Harvested like any other block. Found inside the Core room of a Charybdis Cave. Place within 16 blocks of a mob (works through walls). If a mob is killed within this range it will charge the core with...
-tags:
-- Missing_stackability
-- Items/Mob Drops/Charybdis Core
+title: "Charybdis Core"
+description: "A stateful boss core: recover it as an item, place it to collect EP, and use the active placed core to prime a Charybdis encounter."
 ---
 
 # Charybdis Core
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-**Also known as:** Items/Mob Drops/Charybdis Core
-
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-inert-charybdis-core-999383cfa0.png" alt="Charybdis Core source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Inert_Charybdis_Core.png">Invicon Inert Charybdis Core.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/blocks/charybdis-core.webp" alt="Charybdis Core illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-<a href="#Location">Location</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>A stateful boss core: recover it as an item, place it to collect EP, and use the active placed core to prime a Charybdis encounter.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Charybdis Core</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png: Infobox image for Charybdis Core the item in Minecraft" class="pixel-image" data-file-height="500" data-file-width="500" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="160"/></a></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Charybdis Core"><a href="../../blocks/blocks-charybdis-core/" title="Charybdis Core"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity tier</a>
-</th>
-<td class="list-style-none">
-<p>Common
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Block recovery checked · live acquisition untested"
+    Block interactions and registration were checked in Tensura 2.0.1.2. Cave acquisition, live recovery, combat, skill grants, and synthesis remain untested.
 
-<p><br/>
-<i>For the item drop from <a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a>, see <span class="nowrap"><span class="sprite-file"><a href="../inert-charybdis-core/" title="Inert Charybdis Core"></a></span> <a href="../inert-charybdis-core/" title="Inert Charybdis Core"><span class="sprite-text">Inert Charybdis Core</span></a></span></i>
-</p><p>The egg-like core used to summon <a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a>.
-</p>
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<p>Harvested like any other block.
-</p>
-<h2><span class="mw-headline" id="Location">Location</span></h2>
-<p>Found inside the Core room of a <a href="../../structures/structures-charybdis-cave/" title="Structures/Charybdis Cave">Charybdis Cave</a>.
-</p>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<p>Place within 16 blocks of a mob (works through walls).
-</p><p>If a mob is killed within this range it will charge the core with EP.
-</p><p>If the core is charged with 100,000 EP it will become <b>active</b>.
-</p><p>Mobs killed in this way will not increase the player's EP or drop Exp orbs.
-</p><p>The Unique Skill <a href="../../skills/unique/degenerate/" title="Degenerate">Degenerate</a>'s Synthesize subskill can consume Charybdis Cores, granting EP depending on its state:
-</p>
-<ul><li>Inactive Core: Grants EP equal to the amount stored in the core.</li>
-<li>Active Core: Grants 100,000 EP.</li>
-<li>Inert Core: Grants 200,000 EP.</li></ul>
-<p>Right-clicking with an Active Charybdis Core will summon the boss <a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a>.
-</p><p>Once Charybdis is defeated, its core will fall to the ground as an <a href="../inert-charybdis-core/" title="Inert Charybdis Core"><b>Inert Charybdis Core</b></a>.
-</p><p>The <a href="../inert-charybdis-core/" title="Inert Charybdis Core">Inert Charybdis Core</a> can be consumed with Degenerate's Synthesize subskill or used to obtain the skills:
-</p>
-<ul><li><a href="../../skills/extra/gravity-manipulation/" title="Gravity Manipulation">Gravity Manipulation</a></li>
-<li><a href="../../magic/magic-jamming/" title="Magic Jamming">Magic Jamming</a></li></ul>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
+<div class="druid-title">Charybdis Core</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:charybdis_core</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Block recovery checked · live acquisition untested</div></div>
+<div class="druid-row"><div class="druid-label">Stack limit</div><div class="druid-data">64, subject to matching components</div></div>
+<div class="druid-row"><div class="druid-label">Item property</div><div class="druid-data">Fire resistant</div></div>
+</aside></div></div>
 
+<span id="Obtainment"></span><span id="Location"></span>
 
+## Availability
 
-</div>
-</div>
+The source locates inactive cores in [Charybdis Cave](../structures/structures-charybdis-cave.md). The checked block loot returns one `tensura:charybdis_core` and copies its stored EP component and phase. Sneak-use of a placed core also requests its block drops, adds them to the player inventory, then destroys the block without further drops. Keep inventory space free: that method does not provide a fallback for a failed inventory insertion. No packaged crafting recipe referencing the core was found.
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+<span id="Usage"></span>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../character-reset-scroll/">
-<img src="../../../assets/upstream/tensura/items/invicon-character-reset-scroll-942643b150.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Character Reset Scroll</strong>
-<small>Resets EVERYTHING from the User, Pretty much like reincarnating from scratch. This also means achievements that you&#x27;ve…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../inert-charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Core, Inert</strong>
-<small>An Inert Charybdis Core</small>
-</span>
-</a>
-<a class="reference-related-card" href="../centipede-stinger/">
-<img src="../../../assets/upstream/tensura/items/invicon-centipede-stinger-7b001fe920.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Centipede Stinger</strong>
-<small>A sharp venomous barb from an Evil Centipede .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../charybdis-scale/">
-<img src="../../../assets/upstream/tensura/armor/invicon-charybdis-scale-9a01b3e868.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Scale</strong>
-<small>A massive blue scale from Charybdis .</small>
-</span>
-</a>
-</div>
-</section>
+## How to use
 
----
+Place the core and follow the [charging and activation guide](../blocks/blocks-charybdis-core.md). Only an **active placed core** enters the priming branch when used without sneaking; the checked action is **use/right-click with an empty hand**, not a left-click strike or an air-use of the inventory item. Sneak-use is the pickup branch.
+
+## Behavior and limits
+
+The item factory uses `SimpleBlockItem` with default stack properties and fire resistance. The **64-item limit** does not prove cores with different phase or EP components will merge. The active branch removes the placed block and creates a primed entity with a **200-tick fuse** and **strength-10 MOB explosion** before attempting to spawn Charybdis. Do not activate near a settlement. Actual explosion damage, protection-plugin behavior, and successful server spawning are untested.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Charybdis Core](https://tensura.wiki.gg/wiki/Charybdis_Core) on the Tensura: Reincarnated Wiki (revision `13039`, modified `2026-06-07T15:23:36Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Charybdis Core](https://tensura.wiki.gg/wiki/Charybdis_Core) on the Tensura: Reincarnated Wiki, recorded revision `13039`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png">Invicon Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6467</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Inert_Charybdis_Core.png">Invicon Inert Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12927</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `TensuraMobDropItems`
+    - `SimpleBlockItem`
+    - `CharybdisCoreBlock`
+    - `CharybdisCoreBlockEntity`
+    - `data/tensura/loot_table/blocks/charybdis_core.json`

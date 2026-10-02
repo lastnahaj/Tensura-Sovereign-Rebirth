@@ -20,6 +20,8 @@ def manifest():
     data['pages'].extend(chilled_entries(data))
     from slime_material_reference import entries as slime_entries
     data['pages'].extend(slime_entries(data))
+    from charybdis_core_reference import entries as core_entries
+    data['pages'].extend(core_entries(data))
     return data
 
 

@@ -125,10 +125,10 @@ A sharp venomous barb from an <a href="../../mobs/mobs-evil-centipede/" title="M
 </span>
 </a>
 <a class="reference-related-card" href="../charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/invicon-inert-charybdis-core-999383cfa0.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/charybdis-core.webp" alt="Charybdis Core illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Core</strong>
-<small>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)</small>
+<small>Recover, charge, and activate the core; review the primed explosion hazard.</small>
 </span>
 </a>
 </div>

@@ -464,6 +464,22 @@ for fact in ('Silk Touch level 1 or higher', '1–4 eggs', '#minecraft:wool', '#
     assert fact in moth_page.get_text(' ', strip=True), f'Moth lifecycle rule missing: {fact}'
 assert len(moth_page.select('.hipokute-growth li')) == 3, 'Moth hatching route must have three steps'
 assert Path(moth_page.select_one('.reference-overview-media img')['src']).name == 'moth-egg.webp'
+from charybdis_core_reference import manifest as core_manifest, generate as generate_core
+core_data = core_manifest()
+assert core_data['artifact_sha1'] in (ROOT / core_data['pack_manifest']).read_text(encoding='utf-8'), 'Core artifact selection changed'
+assert core_data['configuration']['sha256'] == hashlib.sha256((ROOT / core_data['configuration']['path']).read_bytes()).hexdigest(), 'Core configuration needs review'
+assert not core_data['recipes_referencing_core'] and len(core_data['resources']) == 2 and len(core_data['class_sha256']) == 8, 'Core evidence coverage changed'
+assert core_data['light_levels'] == {'inactive': 2, 'active': 12, 'inert': 8}, 'Core phase light levels changed'
+assert core_data['charge']['listener_radius'] == 16 and core_data['activation']['primed_fuse_ticks'] == 200 and core_data['activation']['explosion_strength'] == 10, 'Core encounter parameters changed'
+assert (ROOT / 'docs/tensura-reference/blocks/blocks-charybdis-core.md').read_text(encoding='utf-8') == generate_core(), 'Stale core lifecycle guide'
+core_page = BeautifulSoup((site / 'tensura-reference/blocks/blocks-charybdis-core/index.html').read_text(encoding='utf-8'), 'html.parser')
+for fact in ('100,000', '16 blocks', '200-tick fuse', 'strength-10', 'empty hand', 'all calls fail', 'empty resolved list', '12 active', 'live encounter untested'):
+    assert fact in core_page.get_text(' ', strip=True), f'Core lifecycle rule missing: {fact}'
+assert len(core_page.select('.hipokute-growth li')) == 3 and len(core_page.select('.chilled-crafting-grid article')) == 3, 'Core lifecycle panels missing'
+for slug, artwork, status in [('charybdis-core', 'charybdis-core.webp', 'Block recovery checked'), ('inert-charybdis-core', 'inert-charybdis-core.webp', 'Boss death callback checked')]:
+    item_page = BeautifulSoup((site / f'tensura-reference/items/{slug}/index.html').read_text(encoding='utf-8'), 'html.parser')
+    assert Path(item_page.select_one('.reference-overview-media img')['src']).name == artwork, 'Core item artwork mismatched'
+    assert status in item_page.get_text(' ', strip=True) and 'untested' in item_page.get_text(), 'Core item verification scope missing'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

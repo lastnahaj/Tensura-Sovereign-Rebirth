@@ -364,31 +364,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="charybdis core yes (64) (but only when the cores you are stacking have exactly the same ep amount)">
+<article class="reference-card" data-letter="C" data-search="charybdis core a stateful boss core: recover it as an item, place it to collect ep, and use the active placed core to prime a charybdis encounter.">
 <a href="charybdis-core/" aria-label="Open Charybdis Core">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-inert-charybdis-core-999383cfa0.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/charybdis-core.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Core</h2>
 
-<p>Yes (64) (But only when the cores you are stacking have exactly the same EP amount)</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="C" data-search="charybdis core, inert an inert charybdis core">
-<a href="inert-charybdis-core/" aria-label="Open Charybdis Core, Inert">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Charybdis Core, Inert</h2>
-
-<p>An Inert Charybdis Core</p>
+<small class="skill-reference-status">Block recovery checked · live acquisition untested</small>
+<p>A stateful boss core: recover it as an item, place it to collect EP, and use the active placed core to prime a Charybdis encounter.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -1407,6 +1393,22 @@
 <h2>Ice Blade</h2>
 
 <p>To craft, you need a Smithing Bench and have used High Magisteel Gear Schematic , and Long Sword Schematic</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="I" data-search="inert charybdis core the spent cooldown phase of charybdis core, produced by the boss death callback and used for configured skill-learning attempts.">
+<a href="inert-charybdis-core/" aria-label="Open Inert Charybdis Core">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/inert-charybdis-core.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Inert Charybdis Core</h2>
+
+<small class="skill-reference-status">Boss death callback checked · live recovery untested</small>
+<p>The spent COOLDOWN phase of Charybdis Core, produced by the boss death callback and used for configured skill-learning attempts.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

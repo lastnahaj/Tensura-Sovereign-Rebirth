@@ -283,9 +283,19 @@
     }
   },
   "tensura-reference/blocks/blocks-charybdis-core.md": {
-    "asset": "assets/upstream/tensura/items/charybdis-core-76330fcb25.png",
-    "kind": "source",
-    "summary": "A boss-summoning core found in Charybdis Cave that must absorb 100,000 EP from nearby kills before activation."
+    "asset": "assets/images/blocks/charybdis-core.webp",
+    "kind": "original",
+    "summary": "Charge nearby death-event EP, use an active core to prime Charybdis, and distinguish the inert reward from the summoning state.",
+    "credit": "TSR core illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "24e30948d8bad7c92e90f387e1ac1116b18d775bcdf38663e16b5d378c3f0ce7",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Charybdis_Core",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/blocks/blocks-high-quality-magic-crystal-block.md": {
     "asset": "assets/upstream/tensura/items/high-quality-magic-crystal-block-b9d8f4e1dd.png",
@@ -1102,6 +1112,34 @@
       "article": "https://tensura.wiki.gg/wiki/Slime_Chunk",
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png",
       "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+    }
+  },
+  "tensura-reference/items/charybdis-core.md": {
+    "asset": "assets/images/blocks/charybdis-core.webp",
+    "kind": "original",
+    "credit": "TSR core illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "24e30948d8bad7c92e90f387e1ac1116b18d775bcdf38663e16b5d378c3f0ce7",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Charybdis_Core",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_Core.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/inert-charybdis-core.md": {
+    "asset": "assets/images/items/inert-charybdis-core.webp",
+    "kind": "original",
+    "credit": "TSR inert core illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "3e5fd378db99c3f06f3857d33430b377a5a86a4baf2c3234a5926f5008cbd244",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Inert_Charybdis_Core",
+      "file_page": "https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   }
 }

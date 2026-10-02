@@ -57,6 +57,8 @@ def load_manifest():
     data['pages'].append(slime_entry())
     from moth_egg_reference import entry as moth_entry
     data['pages'].append(moth_entry())
+    from charybdis_core_reference import entry as charybdis_entry
+    data['pages'].append(charybdis_entry())
     return data
 
 
@@ -152,6 +154,8 @@ def generate():
     result[SLIME_BLOCK_PAGE] = generate_slime_block()
     from moth_egg_reference import PAGE as MOTH_PAGE, generate as generate_moth
     result[MOTH_PAGE] = generate_moth()
+    from charybdis_core_reference import BLOCK_PAGE as CORE_PAGE, generate as generate_core
+    result[CORE_PAGE] = generate_core()
     return result
 
 

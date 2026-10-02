@@ -198,16 +198,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="charybdis core a boss-summoning core found in charybdis cave that must absorb 100,000 ep from nearby kills before activation.">
+<article class="reference-card" data-letter="C" data-search="charybdis core charge nearby death-event ep, use an active core to prime charybdis, and distinguish the inert reward from the summoning state.">
 <a href="blocks-charybdis-core/" aria-label="Open Charybdis Core">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/charybdis-core.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Core</h2>
 
-<p>A boss-summoning core found in Charybdis Cave that must absorb 100,000 EP from nearby kills before activation.</p>
+<p>Charge nearby death-event EP, use an active core to prime Charybdis, and distinguish the inert reward from the summoning state.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

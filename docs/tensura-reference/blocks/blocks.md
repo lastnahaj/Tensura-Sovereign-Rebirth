@@ -123,7 +123,7 @@ tags:
 <li><img alt="Slime Chunk Block illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/slime-chunk-block.webp" width="30"/> <a href="../blocks-slime-chunk-block/" title="Blocks/Slime Chunk Block">Slime Chunk Block</a></li>
 <li><img alt="Chilled Slime Block illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/chilled-slime-block.webp" width="30"/> <a href="../blocks-chilled-slime-block/" title="Blocks/Chilled Slime Block">Chilled Slime Block</a></li>
 <li><img alt="Moth Egg illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/moth-egg.webp" width="30"/> <a href="../blocks-moth-egg/" title="Blocks/Moth Egg">Moth Egg</a></li>
-<li><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png" data-file-height="500" data-file-width="500" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="30"/></a> <a href="../blocks-charybdis-core/" title="Blocks/Charybdis Core">Charybdis Core</a></li></ul></div>
+<li><img alt="Charybdis Core illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/charybdis-core.webp" width="30"/> <a href="../blocks-charybdis-core/" title="Blocks/Charybdis Core">Charybdis Core</a></li></ul></div>
 <p><br/>
 </p><p><br/>
 </p>
@@ -225,7 +225,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/charybdis-core.webp" alt="Charybdis Core illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Core</strong>
 <small>Found inside the Core room of the Charybdis Cave and used to summon Charybdis .</small>
@@ -255,7 +255,7 @@ tags:
 Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks) on the Tensura: Reincarnated Wiki (revision `5177`, modified `2025-01-05T16:49:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (107 source files)</summary>
+<summary>Media credits (106 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Log.png">Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
@@ -349,7 +349,7 @@ Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks
 
 
 
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Unlit_Torch.png">Unlit Torch.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9910</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Unlit_Lantern.png">Unlit Lantern.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7285</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Sticky_Cobweb.png">Sticky Cobweb.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9911</li>

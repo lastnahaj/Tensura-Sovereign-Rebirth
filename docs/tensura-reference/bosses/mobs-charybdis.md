@@ -112,13 +112,13 @@ A mob that only appears once the <a href="../../items/charybdis-core/" title="Ch
 Base Tensura reference adapted from [Mobs/Charybdis](https://tensura.wiki.gg/wiki/Mobs/Charybdis) on the Tensura: Reincarnated Wiki (revision `12659`, modified `2026-04-29T13:23:57Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (5 source files)</summary>
+<summary>Media credits (4 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis.gif">Charybdis.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 2220</li>
 
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dragon_Essence.png">Invicon Dragon Essence.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6505</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Scale.png">Invicon Charybdis Scale.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6469</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Charybdis_Meat.png">Invicon Raw Charybdis Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6681</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
+
 </ul>
 </details>

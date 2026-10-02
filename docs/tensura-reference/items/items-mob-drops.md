@@ -213,7 +213,7 @@ tags: []
 Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wiki/Items/Mob_Drops) on the Tensura: Reincarnated Wiki (revision `12783`, modified `2026-05-06T10:27:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (33 source files)</summary>
+<summary>Media credits (32 source files)</summary>
 <ul>
 
 
@@ -251,6 +251,6 @@ Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wi
 <li><a href="https://tensura.wiki.gg/wiki/File:Royal_Blood.gif">Royal Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4410</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Zane_Blood.gif">Zane Blood.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4411</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Orc_Disaster_Head.png">Orc Disaster Head.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4098</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png">Invicon Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6467</li>
+
 </ul>
 </details>

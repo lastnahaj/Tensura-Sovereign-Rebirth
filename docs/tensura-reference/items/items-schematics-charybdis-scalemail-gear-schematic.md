@@ -77,7 +77,7 @@ Allows Crafting of <a href="../../armor/charybdis-scalemail-boots/" title="Chary
 </span>
 </a>
 <a class="reference-related-card" href="../inert-charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/charybdis-core-inert-999383cfa0.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/inert-charybdis-core.webp" alt="Inert Charybdis Core illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Core, Inert</strong>
 <small>An Inert Charybdis Core</small>

@@ -169,7 +169,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-charybdis-core/">
-<img src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/charybdis-core.webp" alt="Charybdis Core illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Core</strong>
 <small>Found inside the Core room of the Charybdis Cave and used to summon Charybdis .</small>

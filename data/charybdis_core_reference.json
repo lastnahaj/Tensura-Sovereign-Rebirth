@@ -1,0 +1,249 @@
+{
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "reviewed_on": "2026-10-01",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+  "configuration": {
+    "path": "pack/config/tensura/block_config.toml",
+    "sha256": "a65d32febe3ee2406d1cf9d9eba3bbc531fce1b916c749d1a02493ceacf6e7ca",
+    "CharybdisCore": {
+      "charybdisCoreActiveEP": 100000.0,
+      "charybdisCoreSkills": [
+        "tensura:gravity_manipulation",
+        "tensura:magic_jamming"
+      ],
+      "charybdisCoreFusingEP": 200000.0,
+      "charybdisCoreFusingSkills": [
+        "tensura:gravity_manipulation",
+        "tensura:magic_jamming",
+        "tensura:magic_sense",
+        "tensura:ultraspeed_regeneration"
+      ],
+      "charybdisCoreFusingSkillsActive": [
+        "tensura:gravity_manipulation",
+        "tensura:magic_sense"
+      ],
+      "charybdisCoreFusingSkillsInactive": [
+        "tensura:gravity_manipulation"
+      ]
+    }
+  },
+  "registry_id": "tensura:charybdis_core",
+  "stack_limit": 64,
+  "item_fire_resistant": true,
+  "phases": {
+    "inactive": "INACTIVE",
+    "active": "ACTIVE",
+    "inert": "COOLDOWN"
+  },
+  "light_levels": {
+    "inactive": 2,
+    "active": 12,
+    "inert": 8
+  },
+  "charge": {
+    "listener_radius": 16,
+    "event": "ENTITY_DIE",
+    "required_mode": "INACTIVE",
+    "input": "EnergyHelper.getEPGain",
+    "capped_at_configured_threshold": true,
+    "skip_player_ep_and_experience": true
+  },
+  "activation": {
+    "method": "CharybdisCoreBlock.useWithoutItem",
+    "requires_mode": "ACTIVE",
+    "sneaking_picks_up_first": true,
+    "primed_fuse_ticks": 200,
+    "explosion_strength": 10,
+    "explosion_interaction": "MOB"
+  },
+  "boss_death_core": {
+    "method": "CharybdisEntity.tickDeath",
+    "death_ticks": 40,
+    "phase": "COOLDOWN",
+    "falling_block_indestructible_flag": true
+  },
+  "inert_use": {
+    "config_key": "charybdisCoreSkills",
+    "consumes_block_if_any_skill_learned": true,
+    "empty_resolved_list_also_consumes": true,
+    "no_successful_skill_with_nonempty_list_returns_without_consuming": true
+  },
+  "recipes_referencing_core": [],
+  "resources": {
+    "data/tensura/loot_table/blocks/charybdis_core.json": {
+      "sha256": "a9bf393f23e0076f29359847dd5e275e76df2c7d4c4e88904ac953e0ed5bc29d",
+      "definition": {
+        "type": "minecraft:block",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "function": "minecraft:copy_components",
+                    "include": [
+                      "tensura:existence_durability"
+                    ],
+                    "source": "block_entity"
+                  },
+                  {
+                    "block": "tensura:charybdis_core",
+                    "function": "minecraft:copy_state",
+                    "properties": [
+                      "sculk_sensor_phase"
+                    ]
+                  }
+                ],
+                "name": "tensura:charybdis_core"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:blocks/charybdis_core"
+      }
+    },
+    "data/tensura/loot_table/entities/charybdis.json": {
+      "sha256": "50f2eddaa3cb7f54ad1f8105ffba64fc0083ed03a9d976620c36555a5d40c505",
+      "definition": {
+        "type": "minecraft:entity",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": {
+                      "type": "minecraft:uniform",
+                      "max": 3.0,
+                      "min": 1.0
+                    },
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tensura:dragon_essence"
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": {
+                      "type": "minecraft:uniform",
+                      "max": 12.0,
+                      "min": 6.0
+                    },
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "count": {
+                      "type": "minecraft:uniform",
+                      "max": 3.0,
+                      "min": 0.0
+                    },
+                    "enchantment": "minecraft:looting",
+                    "function": "minecraft:enchanted_count_increase"
+                  }
+                ],
+                "name": "tensura:charybdis_scale"
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "conditions": [
+                      {
+                        "condition": "minecraft:any_of",
+                        "terms": [
+                          {
+                            "condition": "minecraft:entity_properties",
+                            "entity": "this",
+                            "predicate": {
+                              "flags": {
+                                "is_on_fire": true
+                              }
+                            }
+                          },
+                          {
+                            "condition": "minecraft:entity_properties",
+                            "entity": "direct_attacker",
+                            "predicate": {
+                              "equipment": {
+                                "mainhand": {
+                                  "predicates": {
+                                    "minecraft:enchantments": [
+                                      {
+                                        "enchantments": "#minecraft:smelts_loot"
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "function": "minecraft:furnace_smelt"
+                  },
+                  {
+                    "add": false,
+                    "count": {
+                      "type": "minecraft:uniform",
+                      "max": 24.0,
+                      "min": 12.0
+                    },
+                    "function": "minecraft:set_count"
+                  },
+                  {
+                    "count": {
+                      "type": "minecraft:uniform",
+                      "max": 3.0,
+                      "min": 0.0
+                    },
+                    "enchantment": "minecraft:looting",
+                    "function": "minecraft:enchanted_count_increase"
+                  }
+                ],
+                "name": "tensura:raw_charybdis_meat"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:entities/charybdis"
+      }
+    }
+  },
+  "class_sha256": {
+    "io/github/manasmods/tensura/block/CharybdisCoreBlock.class": "4fcad3787f002b29e50ce6b6e3a332ea177ed50ce297e57dc45e745390ce51e1",
+    "io/github/manasmods/tensura/block/CharybdisCoreBlock$1.class": "95a4bec3fb02a8116bb033aa5b4b9a4bbd24f507e355268baff1fb675920708e",
+    "io/github/manasmods/tensura/block/entity/CharybdisCoreBlockEntity.class": "ae4cc083e6707a167643a47258a15ec1b1380479964af438cbf429f82a2c9972",
+    "io/github/manasmods/tensura/block/entity/CharybdisCoreBlockEntity$CoreListener.class": "8df694c0093424489b448b1fc4687474457377f41ffd1a3018290b25a6c901c8",
+    "io/github/manasmods/tensura/entity/magic/misc/PrimedCharybdisCoreEntity.class": "536605f2a9a616909e1d9289f583d04dd7411fbe6923449abb5ba4a85d3aba8d",
+    "io/github/manasmods/tensura/entity/monster/CharybdisEntity.class": "9285417f5157d0870db2bf39e488ccd9786bda70d76caa64e776b3a417bcb95f",
+    "io/github/manasmods/tensura/registry/item/TensuraMobDropItems.class": "b45cbf221b3698218932de3a32e080baf702ce4659f9bd2f5435f53836f21e2c",
+    "io/github/manasmods/tensura/item/misc/SimpleBlockItem.class": "8ca62aa8e2a7773e12f30c32aa16c79ccfeb5d887a0a4f67eaf3003480a82831"
+  },
+  "verification_scope": "Artifact block interactions, charging, primed explosion, death callback, loot, item factory and tracked configuration. Cave acquisition, live combat, item recovery, skill grants and synthesis behavior untested."
+}
