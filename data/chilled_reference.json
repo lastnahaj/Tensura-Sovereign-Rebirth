@@ -1,0 +1,1650 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-01",
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "live_gameplay_verified": false,
+  "block_registry_id": "tensura:chilled_slime_block",
+  "item_registry_id": "tensura:chilled_slime",
+  "spawn_chilled_biome_tag": "minecraft:spawns_cold_variant_frogs",
+  "spawn_structure_path_excluded": true,
+  "block_stuck_multiplier": {
+    "x": 0.5,
+    "y": 0.7,
+    "z": 0.5
+  },
+  "walkable_entity_tag": "tensura:slime_walkable_mobs",
+  "food": {
+    "nutrition": 1,
+    "saturation_modifier": 2.0,
+    "always_edible": true
+  },
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "recipes": [
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_block_from_smelting.json",
+      "sha256": "04330719f98e4c150cc1fd807bcafe15fe62d412e7d241b7e5f27ac9c2e313df",
+      "definition": {
+        "type": "minecraft:smelting",
+        "category": "blocks",
+        "cookingtime": 200,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_block_from_snow_block.json",
+      "sha256": "faf5099bef30a3ffb8ebc73fccf1e784b27a45e508e6ac66c02311635a69b188",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "#": {
+            "item": "minecraft:snow_block"
+          },
+          "X": {
+            "item": "tensura:slime_chunk_block"
+          }
+        },
+        "pattern": [
+          "###",
+          "#X#",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:chilled_slime_block"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_from_smelting.json",
+      "sha256": "694cb720b6acc217b4c2557bede6ba26793f7c4fbf7eeff5b1cda70aa83cb63e",
+      "definition": {
+        "type": "minecraft:smelting",
+        "category": "misc",
+        "cookingtime": 100,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_from_snowball.json",
+      "sha256": "95e6151ffaab57c8c5fd40e8d385777376456b6feb9e8fba4796848d0771973f",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "#": {
+            "item": "minecraft:snowball"
+          },
+          "X": {
+            "item": "tensura:slime_chunk"
+          }
+        },
+        "pattern": [
+          "###",
+          "#X#",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:chilled_slime"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/chilled_slime_blockfrom_chilled_slime.json",
+      "sha256": "4a26ccf1695ec1cdcb60f16bba53f19538accb052238d27423acae171070758b",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "building",
+        "key": {
+          "#": {
+            "item": "tensura:chilled_slime"
+          }
+        },
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:chilled_slime_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/chilled_slimefrom_chilled_slime_block.json",
+      "sha256": "a159b8902f4f9f085dea43eaaecf6a9affe247c0533d9abb37b1731f436610c8",
+      "definition": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "tensura:chilled_slime_block"
+          }
+        ],
+        "result": {
+          "count": 9,
+          "id": "tensura:chilled_slime"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_block_from_campfire_cooking.json",
+      "sha256": "1337e1f79599b17bbb7ee6b609d061f9a66c83d2dcfdd6ba81e63799f2f860a8",
+      "definition": {
+        "type": "minecraft:campfire_cooking",
+        "category": "food",
+        "cookingtime": 600,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_block_from_smoking.json",
+      "sha256": "df8aef647a194e559ea0af8a51bde16cf2feb9f70e70b51956a77f73ab3b801c",
+      "definition": {
+        "type": "minecraft:smoking",
+        "category": "food",
+        "cookingtime": 100,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_from_campfire_cooking.json",
+      "sha256": "ca96facf816df5d0b065c653b00caf18b6f215400617a95bacb7b2bfce3cf3c8",
+      "definition": {
+        "type": "minecraft:campfire_cooking",
+        "category": "food",
+        "cookingtime": 300,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_from_smoking.json",
+      "sha256": "4261401a6823bded22b338451b936e26f8e62afcfc4ef41cc3edb6f684e7d30b",
+      "definition": {
+        "type": "minecraft:smoking",
+        "category": "food",
+        "cookingtime": 50,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    }
+  ],
+  "refining_recipes": [
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_lingering_potion_awkward_using_chilled_slime.json",
+      "sha256": "64edfab3573f5b91bdc7f1e4b7c2560fed11c0c1cb29b82890dbf7850df2f98b",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_lingering_potion_water_using_chilled_slime.json",
+      "sha256": "bb4e72524a1cb5c1f2c5433ac501078dbd009a1d153d779f1123517e6feaf779",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "754d2d2d98f64ee99c316dbb38402367aa18eccb64f0b7c82bad34779dc80934",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:gunpowder"
+        },
+        "input3": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "3b1374e2a37aefc2c35511f96f222fe97b195b316a84af095438b59e64a6cde1",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "input4": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "260337f053fd2858cc203b22810a546862b91fdad2c8448f642ffe3c191d5ca2",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "f9ff2ba00bec259af9ce623061a4f557ba21442070ba4fb65c78b445cf954164",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_lingering_potion_awkward_using_chilled_slime.json",
+      "sha256": "03d49122ea8c5a3c04cca1b42475c320690a95ae31aa63f4721ebe809addc6d3",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_lingering_potion_water_using_chilled_slime.json",
+      "sha256": "c274c74b01996a301aff1ad6fc98f808a708df4f30a003b0dbd7e9d8e14b7104",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "f89f3162aa6f5de0c5a638c6bba4b4d9fd1818327d169ad1e30e5a985c01b8b0",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "input4": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "f413225657216659a0c525100089953e99241aa65186a8ff56cdc3710064defb",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "input4": {
+          "item": "minecraft:gunpowder"
+        },
+        "input5": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "e904963ea4631bc8ea4ca84517ebad1fecd17532dfdf77f15162f66dc53c018c",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "input3": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/long_chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "460f38ba7ef3d8f6797854ea3430d3b3068245786c9b6c718431ce3601eab53d",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "input4": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_lingering_potion_awkward_using_chilled_slime.json",
+      "sha256": "7dde7bed8932b91506af1878fd63bce7be2df3294d537448e2fd848fde6243ba",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_lingering_potion_water_using_chilled_slime.json",
+      "sha256": "92e4998d4c8026c0bcfbebc3caa297d427d8aef42d457b7fbdcd8a36bbd52dfe",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "b06089dcfc418d193fc8dba1f54c6cc6fb93e0548b024433c1c2f7b27e37ca90",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "input4": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "fa67da20209848fcf8b13f0600a1120d4b089308f36992eca258ababd38b21d9",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input4": {
+          "item": "minecraft:gunpowder"
+        },
+        "input5": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "e98d04b10a63e6b642800300e911ddecdd50cbbffc2fd21fbeeafd186403fab6",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input3": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/lingering_potion/strong_chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "8213830762a40ea0964213bc9a688ca8caf2a2a03f05b5ba15ab0cb343da57ac",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input4": {
+          "item": "minecraft:dragon_breath"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:lingering_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "1b918c2f82f0ae212580759a96a81fe3df9ac1d362dc43720fa98c5dfa93fc2b",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "db0ba5b9b2e7375b82fc20c21eb372ca1d7aa61b7c39c4957b44681e27d1f8c9",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/long_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "606e46d19793869a34dfe87672724ba6c96107b556797175b6622366c862497c",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/long_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "9aee1044dbcc5e62e843cb1f4658efa4919040ea7f72b07ac654c90d1ef3ba17",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/strong_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "2c1d373090cae02aeccabc9fb5869369b5d30f7399d1892a33c7eebd706d4508",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/potion/strong_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "b3c762090ba4fc25b32dbbb0d0839567908630986577fbc8f66deb12c259b4ca",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "d5c4a625e33121e8403fcf09443ea6207c3b4e8feffc2c542a7784c9566bbe19",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "b00a461a014be4430617863d9588de585348c6649345271c78d7db75db68929b",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "c6bd69500354afe7edf05f55527f60d97d7e6ecf0f8ff1928ad8e9abf98b2cc7",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "5232e36e1d857baa4f9c43875bd0265d3996d7a1c6c42066e69525107b3d0190",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/long_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "be95fa209952155228d995806610a554196ef24210410c47ad1af628e8cc0be2",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/long_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "cbd19e3eb4599d948e5a18bc86b6709ecbe6e54f1a076dd4167e436a381fb9aa",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "input4": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/long_chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "f92dd63b37a35843daff5008e8227843823e9b62638da5b027627fd9da19db5a",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/long_chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "787aca4964c84b2c4d0995b1183bd2e5feb7cdd6dcf36accb67c3876bb0f717d",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:redstone"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:long_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/strong_chill_from_potion_awkward_using_chilled_slime.json",
+      "sha256": "27e49eaf9b67d0d8c3f49d59299df3d5cc16a001a32c83e6b05bf2ceb0e88df6",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input3": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/strong_chill_from_potion_water_using_chilled_slime.json",
+      "sha256": "6bc16ccdb565ca25764c62c0458944f92d32edbf0a69e57db17dfb1f401fa29d",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "input4": {
+          "item": "minecraft:gunpowder"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/strong_chill_from_splash_potion_awkward_using_chilled_slime.json",
+      "sha256": "e4010f6b95baf4a792d29d6279b65c4a18210c600161fc9e7920a8f6258b3ba5",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:awkward"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/refining/splash_potion/strong_chill_from_splash_potion_water_using_chilled_slime.json",
+      "sha256": "b1cf62ee81b7fe8df0e7164a3abd34e1d60ee6938c0fba01fc4cc40104225873",
+      "definition": {
+        "type": "tensura:refining",
+        "input": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "minecraft:water"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        },
+        "input1": {
+          "item": "tensura:chilled_slime"
+        },
+        "input2": {
+          "item": "minecraft:nether_wart"
+        },
+        "input3": {
+          "item": "minecraft:glowstone_dust"
+        },
+        "output": {
+          "components": {
+            "minecraft:potion_contents": {
+              "potion": "tensura:strong_chill"
+            }
+          },
+          "count": 1,
+          "id": "minecraft:splash_potion"
+        }
+      }
+    }
+  ],
+  "loot_tables": [
+    {
+      "resource": "data/tensura/loot_table/blocks/chilled_slime_block.json",
+      "sha256": "b8415c7d1e67ea37b837163135bd5c1af8fdb0361cdccf9074aeff7f9541bdc0",
+      "definition": {
+        "type": "minecraft:block",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "conditions": [
+              {
+                "condition": "minecraft:survives_explosion"
+              }
+            ],
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "name": "tensura:chilled_slime_block"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:blocks/chilled_slime_block"
+      }
+    },
+    {
+      "resource": "data/tensura/loot_table/entities/slime.json",
+      "sha256": "4fb8eec597ed3cd4ab55a26a3d5494d9e64a60be6494e9a999d07bc0c68a85d4",
+      "definition": {
+        "type": "minecraft:entity",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "type_specific": {
+                            "type": "tensura:slime_predicate",
+                            "chilled": false
+                          }
+                        }
+                      }
+                    ],
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": 1.0,
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 1.0,
+                          "min": 0.0
+                        },
+                        "function": "tensura:increase_by_scale"
+                      }
+                    ],
+                    "name": "tensura:slime_chunk"
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": 1.0,
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 1.0,
+                          "min": 0.0
+                        },
+                        "function": "tensura:increase_by_scale"
+                      }
+                    ],
+                    "name": "tensura:chilled_slime"
+                  }
+                ]
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "type_specific": {
+                        "type": "tensura:slime_predicate",
+                        "massive": true
+                      }
+                    }
+                  }
+                ],
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tensura:slime_core"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:entities/slime"
+      }
+    },
+    {
+      "resource": "data/tensura/loot_table/entities/supermassive_slime.json",
+      "sha256": "29b9b37e70f022e969a278c4a509678f73ff0667eb63662ef3c0e9949a015a02",
+      "definition": {
+        "type": "minecraft:entity",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "type_specific": {
+                            "type": "tensura:slime_predicate",
+                            "chilled": false
+                          }
+                        }
+                      }
+                    ],
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 50.0,
+                          "min": 30.0
+                        },
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 5.0,
+                          "min": 0.0
+                        },
+                        "enchantment": "minecraft:looting",
+                        "function": "minecraft:enchanted_count_increase"
+                      }
+                    ],
+                    "name": "tensura:slime_chunk"
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 50.0,
+                          "min": 30.0
+                        },
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 5.0,
+                          "min": 0.0
+                        },
+                        "enchantment": "minecraft:looting",
+                        "function": "minecraft:enchanted_count_increase"
+                      }
+                    ],
+                    "name": "tensura:chilled_slime"
+                  }
+                ]
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tensura:slime_core"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:entities/supermassive_slime"
+      }
+    }
+  ]
+}

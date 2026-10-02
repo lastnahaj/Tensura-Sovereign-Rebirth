@@ -191,10 +191,10 @@ A massive blue scale from <a href="../../bosses/mobs-charybdis/" title="Mobs/Cha
 </span>
 </a>
 <a class="reference-related-card" href="../chilled-slime/">
-<img src="../../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/chilled-slime.webp" alt="Chilled Slime illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime</strong>
-<small>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</small>
+<small>Craft with eight Snowballs and one Slime Chunk, or unpack a Chilled Slime Block.</small>
 </span>
 </a>
 </div>

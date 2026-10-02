@@ -16,6 +16,8 @@ def manifest():
     data['pages'].extend(entries(data))
     from hipokute_reference import entries as hipokute_entries
     data['pages'].extend(hipokute_entries(data))
+    from chilled_reference import entries as chilled_entries
+    data['pages'].extend(chilled_entries(data))
     return data
 
 

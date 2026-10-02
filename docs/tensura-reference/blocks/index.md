@@ -214,16 +214,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="chilled slime block a chilled variant of the slime resource block, shown with its verified upstream game texture.">
+<article class="reference-card" data-letter="C" data-search="chilled slime block compare two crafting routes, unpack or warm the stored material, and understand the block’s movement and cold-exposure limits.">
 <a href="blocks-chilled-slime-block/" aria-label="Open Chilled Slime Block">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/chilled-slime-block.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Chilled Slime Block</h2>
 
-<p>A chilled variant of the Slime resource block, shown with its verified upstream game texture.</p>
+<p>Compare two crafting routes, unpack or warm the stored material, and understand the block’s movement and cold-exposure limits.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

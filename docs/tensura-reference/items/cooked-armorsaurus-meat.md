@@ -113,10 +113,10 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../chilled-slime/">
-<img src="../../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/chilled-slime.webp" alt="Chilled Slime illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime</strong>
-<small>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</small>
+<small>Craft with eight Snowballs and one Slime Chunk, or unpack a Chilled Slime Block.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../cooked-charybdis-meat/">
@@ -136,7 +136,7 @@ tags:
 Base Tensura reference adapted from [Cooked Armorsaurus Meat](https://tensura.wiki.gg/wiki/Cooked_Armorsaurus_Meat) on the Tensura: Reincarnated Wiki (revision `12222`, modified `2026-04-21T07:36:32Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Cooked_Armorsaurus_Meat.png">Invicon Cooked Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12218</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Cooked_Armorsaurus_Meat.png">Cooked Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12223</li>

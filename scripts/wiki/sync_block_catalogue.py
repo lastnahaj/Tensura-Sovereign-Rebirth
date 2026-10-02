@@ -51,6 +51,8 @@ def load_manifest():
     data['pages'].append(entry())
     from kiln_reference import entry as kiln_entry
     data['pages'].append(kiln_entry())
+    from chilled_reference import entry as chilled_entry
+    data['pages'].append(chilled_entry())
     return data
 
 
@@ -140,6 +142,8 @@ def generate():
     result[PAGE] = generate_smithing()
     from kiln_reference import PAGE as KILN_PAGE, generate as generate_kiln
     result[KILN_PAGE] = generate_kiln()
+    from chilled_reference import BLOCK_PAGE, generate_block
+    result[BLOCK_PAGE] = generate_block()
     return result
 
 

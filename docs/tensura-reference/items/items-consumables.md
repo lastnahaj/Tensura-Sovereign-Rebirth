@@ -179,7 +179,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../chilled-slime/">
-<img src="../../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/chilled-slime.webp" alt="Chilled Slime illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime</strong>
 <small>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</small>
@@ -216,7 +216,7 @@ tags:
 Base Tensura reference adapted from [Items/Consumables](https://tensura.wiki.gg/wiki/Items/Consumables) on the Tensura: Reincarnated Wiki (revision `13049`, modified `2026-06-13T09:04:29Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (41 source files)</summary>
+<summary>Media credits (40 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Blade_Tiger_Meat.png">Invicon Raw Blade Tiger Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6680</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Raw_Armorsaurus_Meat.png">Invicon Raw Armorsaurus Meat.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 12215</li>
@@ -256,7 +256,7 @@ Base Tensura reference adapted from [Items/Consumables](https://tensura.wiki.gg/
 <li><a href="https://tensura.wiki.gg/wiki/File:Holy_Milk_Bucket.gif">Holy Milk Bucket.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4394</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Bulldeer_Milk_Bucket.png">Invicon Bulldeer Milk Bucket.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4360</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Dubious_Food.png">Invicon Dubious Food.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6508</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Silver_Apple.png">Invicon Silver Apple.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6701</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Enchanted_Silver_Apple.gif">Enchanted Silver Apple.gif</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4393</li>
 </ul>

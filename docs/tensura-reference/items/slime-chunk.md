@@ -180,12 +180,12 @@ A gooey ball of slime from a <a href="../../mobs/mobs-slime/" title="Mobs/Slime"
 Base Tensura reference adapted from [Slime Chunk](https://tensura.wiki.gg/wiki/Slime_Chunk) on the Tensura: Reincarnated Wiki (revision `9814`, modified `2025-06-01T15:04:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (7 source files)</summary>
+<summary>Media credits (6 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_Chunk.png">Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7248</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk_Block.png">Invicon Slime Chunk Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6874</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Coal.png">Invicon Coal.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4435</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slimeball.png">Invicon Slimeball.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12157</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Snowball.png">Invicon Snowball.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7449</li>

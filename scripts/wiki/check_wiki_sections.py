@@ -406,6 +406,22 @@ alloy_rows = alloy_table.select('tbody tr')
 assert len(alloy_rows) == 14, 'Kiln alloy comparison missing rows'
 pure_block = next(r for r in alloy_rows if 'Block of Pure Magisteel' in r.get_text())
 assert '324 Magisteel' in pure_block.get_text() and 'Orichalcum Kiln' in pure_block.get_text(), 'Pure Magisteel block capacity gate is wrong'
+from chilled_reference import manifest as chilled_manifest
+chilled_data = chilled_manifest()
+assert len(chilled_data['recipes']) == 10 and len(chilled_data['refining_recipes']) == 36 and len(chilled_data['loot_tables']) == 3, 'Chilled-material recipe or loot coverage changed'
+assert chilled_data['block_stuck_multiplier'] == {'x': 0.5, 'y': 0.7, 'z': 0.5}, 'Chilled-block movement multiplier changed'
+assert chilled_data['spawn_chilled_biome_tag'] == 'minecraft:spawns_cold_variant_frogs' and chilled_data['spawn_structure_path_excluded'], 'Cold-variant initialization scope changed'
+assert chilled_data['food'] == {'nutrition': 1, 'saturation_modifier': 2.0, 'always_edible': True}, 'Chilled food properties changed'
+chilled_block = BeautifulSoup((site / 'tensura-reference/blocks/blocks-chilled-slime-block/index.html').read_text(encoding='utf-8'), 'html.parser')
+chilled_item = BeautifulSoup((site / 'tensura-reference/items/chilled-slime/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(chilled_block.select('.smithing-pattern td')) == 18, 'Chilled-block crafting arrangements missing'
+for fact in ('8 Snow Blocks', '9 chilled items', 'fall distance greater than 2.5', '0.9-block-high', 'slime_walkable_mobs', 'live behavior untested'):
+    assert fact in chilled_block.get_text(' ', strip=True), f'Chilled-block behavior or scope missing: {fact}'
+for fact in ('8 Snowballs', '9 Chilled Slime', 'spawns_cold_variant_frogs', 'Structure spawns', '36 refining', 'not proof of an ordinary Brewing Stand recipe'):
+    assert fact in chilled_item.get_text(' ', strip=True), f'Chilled item behavior or scope missing: {fact}'
+assert '(T.B.A)' not in chilled_item.get_text() and 'Lua error' not in chilled_block.get_text(), 'Unfinished chilled-material copy remains'
+assert Path(chilled_block.select_one('.reference-overview-media img')['src']).name == 'chilled-slime-block.webp'
+assert Path(chilled_item.select_one('.reference-overview-media img')['src']).name == 'chilled-slime.webp'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

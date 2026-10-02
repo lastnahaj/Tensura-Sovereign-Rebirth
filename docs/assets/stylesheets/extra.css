@@ -2450,3 +2450,6 @@
 .kiln-tier-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); gap: 1rem; margin: 1.25rem 0; }
 .kiln-tier-grid .smithing-pattern { width: 100%; table-layout: fixed; }
 .kiln-tier-grid .smithing-pattern td { overflow-wrap: anywhere; font-size: .7rem; padding: .45rem .2rem; }
+.chilled-crafting-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; margin: 1.25rem 0; }
+.chilled-crafting-grid > article:last-child { grid-column: 1 / -1; }
+.chilled-crafting-grid .smithing-pattern td { word-break: normal; overflow-wrap: normal; padding: .6rem .25rem !important; font-size: .7rem; }

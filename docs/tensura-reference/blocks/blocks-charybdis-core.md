@@ -127,7 +127,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-chilled-slime-block/">
-<img src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/chilled-slime-block.webp" alt="Chilled Slime Block illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime Block</strong>
 <small>Upstream reference information for Chilled Slime Block.</small>
@@ -157,7 +157,7 @@ tags:
 Base Tensura reference adapted from [Blocks/Charybdis Core](https://tensura.wiki.gg/wiki/Blocks/Charybdis_Core) on the Tensura: Reincarnated Wiki (revision `9626`, modified `2025-05-29T19:00:37Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Charybdis_Core.png">Invicon Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6467</li>

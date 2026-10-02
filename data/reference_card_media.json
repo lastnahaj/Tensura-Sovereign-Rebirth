@@ -268,9 +268,19 @@
     "summary": "The refined block form of Silver, a material associated with holy equipment properties."
   },
   "tensura-reference/blocks/blocks-chilled-slime-block.md": {
-    "asset": "assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png",
-    "kind": "source",
-    "summary": "A chilled variant of the Slime resource block, shown with its verified upstream game texture."
+    "asset": "assets/images/blocks/chilled-slime-block.webp",
+    "kind": "original",
+    "summary": "Compare two crafting routes, unpack or warm the stored material, and inspect the chilled block’s movement and cold-exposure limits.",
+    "credit": "TSR material illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0c212e192b94cd5263696d022e395d69af6550b346bab962786cc435b27e3cea",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Chilled_Slime_Block",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime_Block.png",
+      "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+    }
   },
   "tensura-reference/blocks/blocks-charybdis-core.md": {
     "asset": "assets/upstream/tensura/items/charybdis-core-76330fcb25.png",
@@ -1039,6 +1049,20 @@
       "date": "2026-09-30",
       "article": "https://tensura.wiki.gg/wiki/Mechanics/Hipokute_Farming",
       "file_page": "https://tensura.wiki.gg/wiki/File:RenderHipokuteFlower.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/chilled-slime.md": {
+    "asset": "assets/images/items/chilled-slime.webp",
+    "kind": "original",
+    "credit": "TSR material illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "42a64168eb3b5d8e95f6d08a01e0ac4245bbe81f06b3ee2d2702808575b1fc6d",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Chilled_Slime",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
   }

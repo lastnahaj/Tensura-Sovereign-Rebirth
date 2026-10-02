@@ -1,177 +1,80 @@
 ---
-title: Chilled Slime
-description: 'Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)'
-tags:
-- Stackable_resources
-- Has_crafting
-- Items/Consumables/Chilled Slime
+title: "Chilled Slime"
+description: "Make chilled material with eight Snowballs and one Slime Chunk, unpack its storage block, or check the Tensura cold-variant loot route."
 ---
 
 # Chilled Slime
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Items & Materials</span>
+<span class="reference-badge">Tensura: Reincarnated</span> <span class="reference-category">Items &amp; Materials</span>
 
-**Also known as:** Items/Consumables/Chilled Slime
-
-<section class="reference-overview reference-theme-world">
+<section data-reference-section="items" class="reference-overview reference-theme-world">
 <figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="Chilled Slime source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png · CC BY-SA 4.0</a></figcaption>
+<img src="../../../assets/images/items/chilled-slime.webp" alt="Chilled Slime illustration" loading="eager" decoding="async">
+<figcaption>TSR item illustration · not the in-game texture</figcaption>
 </figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
-<p>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
+<p>Make chilled material with eight Snowballs and one Slime Chunk, unpack its storage block, or check the Tensura cold-variant loot route.</p>
+<nav class="reference-quick-jumps" aria-label="Article sections"><a href="#availability">Availability</a><a href="#how-to-use">How to use</a></nav>
 </div>
 </section>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Chilled Slime</div>
-<div class="infobox-imagearea animated-container"><div><a class="image" href="https://tensura.wiki.gg/wiki/File:Chilled_Slime.png"><img alt="Chilled Slime.png: Infobox image for Chilled Slime the item in Minecraft" class="pixel-image" data-file-height="512" data-file-width="512" decoding="async" height="160" loading="lazy" src="../../../assets/upstream/tensura/items/chilled-slime-e3aa396001.png" width="160"/></a></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Rarity" title="mcw:Rarity">Rarity tier</a>
-</th>
-<td class="list-style-none">
-<p>Common
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Renewable_resource" title="mcw:Renewable resource">Renewable</a>
-</th>
-<td>
-<p>Yes
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Food" title="mcw:Food">Restores</a>
-</th>
-<td>
-<p><span class="nowrap">1 (<span class="iconbar pixel-image nowrap" title="0.5 hunger points"></span>)</span>
-</p>
-</td></tr>
-</tbody></table>
-</div>
+!!! info "Crafting and cold-variant loot checked"
+    Crafting, cooking, food properties, and cold-variant loot are checked in Tensura 2.0.1.2 for Minecraft 1.21.1. Live drops, refining access, and server overrides remain untested.
 
-<p><br/>
-</p>
+<div class="tensura-reference-article"><div class="druid-container reference-release-stats reference-item-stats"><aside class="druid-infobox">
+<div class="druid-title">Chilled Slime</div>
+<div class="druid-row"><div class="druid-label">Registry ID</div><div class="druid-data">tensura:chilled_slime</div></div>
+<div class="druid-row"><div class="druid-label">Build</div><div class="druid-data">Tensura 2.0.1.2 · Minecraft 1.21.1</div></div>
+<div class="druid-row"><div class="druid-label">Obtainment</div><div class="druid-data">Crafting and cold-variant loot checked</div></div>
+<div class="druid-row"><div class="druid-label">Rarity</div><div class="druid-data">Common</div></div>
+<div class="druid-row"><div class="druid-label">Stack limit</div><div class="druid-data">64</div></div>
+<div class="druid-row"><div class="druid-label">Food nutrition</div><div class="druid-data">1</div></div>
+<div class="druid-row"><div class="druid-label">Saturation modifier</div><div class="druid-data">2.0</div></div>
+<div class="druid-row"><div class="druid-label">Crafting output</div><div class="druid-data">1 / 9 when unpacking</div></div>
+</aside></div></div>
 
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<h3><span class="mw-headline" id="Defeating">Defeating</span></h3>
-<p>Killing/Defeating a <a href="../../mobs/mobs-slime/" title="Mobs/Slime">Slime</a> in one of the following cold biomes:
-(T.B.A)
-</p>
-<h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://minecraft.wiki/w/Snowball" title="mcw:Snowball">Snowball</a> +<br/><a href="../slime-chunk/" title="Slime Chunk">Slime Chunk</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Snowball"><a href="https://minecraft.wiki/w/Snowball" title="Snowball"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a href="../../blocks/blocks-chilled-slime-block/" title="Blocks/Chilled Slime Block">Chilled Slime Block</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime Block"><a href="../../blocks/blocks-chilled-slime-block/" title="Chilled Slime Block"></a></span></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a><span class="invslot-stacksize" title="Chilled Slime">9</span></span></span></span><span class="mcui-icons"><span class="mcui-shapeless" title="This recipe is shapeless; the inputs may be placed in any arrangement in the crafting grid."><br/></span></span></span></div>
-</td></tr>
-</tbody></table>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="mw-selflink selflink">Chilled Slime</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime"><a href="./" title="Chilled Slime"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Chilled Slime Block"><a href="../../blocks/blocks-chilled-slime-block/" title="Chilled Slime Block"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
+<span id="Obtainment"></span><span id="Defeating"></span><span id="Crafting"></span>
 
+## Availability
 
+At a **Crafting Table**, surround **1 Slime Chunk** with **8 Snowballs** to craft **1 Chilled Slime**. Alternatively, one [Chilled Slime Block](../blocks/blocks-chilled-slime-block.md) unpacks into **9 Chilled Slime** using a shapeless recipe. These are two different quantities, not a one-snowball conversion.
 
-</div>
-</div>
+The packaged Tensura Slime and Supermassive Slime loot tables select Chilled Slime when their cold-variant predicate does not select the ordinary Slime Chunk branch. `SlimePredicate` checks the mod’s `SlimeEntity.isChilled()`, not every vanilla slime. In the checked non-structure spawn path, a biome in `#minecraft:spawns_cold_variant_frogs` initializes the chilled flag. Structure spawns bypass that initialization; biome tags, spawn data, scale-dependent loot, and server overrides matter. This is not a guaranteed drop from every slime in every cold-looking biome.
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+<span id="Usage"></span>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Items &amp; Materials</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../items-schematics-charybdis-scalemail-gear-schematic/">
-<img src="../../../assets/images/items/crafting-schematic.webp" alt="Crafting Schematic illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Scalemail Schematic</strong>
-<small>Obtained by defeating Charybdis</small>
-</span>
-</a>
-<a class="reference-related-card" href="../items-consumables/">
-<img src="../../../assets/upstream/tensura/items/invicon-raw-blade-tiger-meat-227f5ff7a3.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Consumables</strong>
-<small>Upstream reference information for Consumables.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../charybdis-scale/">
-<img src="../../../assets/upstream/tensura/armor/invicon-charybdis-scale-9a01b3e868.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Charybdis Scale</strong>
-<small>A massive blue scale from Charybdis .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../cooked-armorsaurus-meat/">
-<img src="../../../assets/upstream/tensura/items/invicon-cooked-armorsaurus-meat-710c11eaaa.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Cooked Armorsaurus Meat</strong>
-<small>Cooking a Raw Armorsaurus Meat with a campfire, furnace, etc</small>
-</span>
-</a>
-</div>
-</section>
+## How to use
 
----
+Craft **9 Chilled Slime** into one [storage block](../blocks/blocks-chilled-slime-block.md), or warm a single item into **1 Slime Chunk**. The packaged cooking times are **100 progress ticks in a Furnace**, **50 in a Smoker**, or **300 on a Campfire**, with **0.2 XP** in each definition. These are recipe times, not measured wall-clock completion.
+
+The material is registered as a food with **1 nutrition**, a **2.0 saturation modifier**, and `alwaysEdible`. It can therefore be used while the hunger bar is full; this does not establish a healing, MP, or cold-resistance effect. Keep materials for crafting before consuming the supply.
+
+## Behavior and limits
+
+The pinned build also contains **36 refining potion definitions** that use Chilled Slime. Those are custom refining recipes, not proof of an ordinary Brewing Stand recipe or a verified player unlock path. The [chilled-material evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/chilled_reference.json) retains their exact input, potion components, and resource checksums. Refining access and live potion effects still require separate testing.
+
+The block’s entity slowdown and powder-snow flag are **placed-block behavior**, not effects granted by eating this ingredient. [Compare the block guide](../blocks/blocks-chilled-slime-block.md) before using it in a base or movement system.
+
+[Return to Items](index.md)
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Chilled Slime](https://tensura.wiki.gg/wiki/Chilled_Slime) on the Tensura: Reincarnated Wiki (revision `9202`, modified `2025-04-14T10:25:04Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Upstream reference: [Chilled Slime](https://tensura.wiki.gg/wiki/Chilled_Slime) on the Tensura: Reincarnated Wiki, recorded revision `9202`. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source artwork without a verified reusable image license is not reproduced.
 
-<details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png">Invicon Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6474</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime.png">Chilled Slime.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6985</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Half_Hunger_(icon).png">Half Hunger (icon).png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7508</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Snowball.png">Invicon Snowball.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7449</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime_Block.png">Invicon Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6875</li>
-</ul>
-</details>
+Implementation check: [Tensura 2.0.1.2 release](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [TSR pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`. Registration and code checks are not live-server gameplay tests.
+
+The illustration is original TSR artwork, not a source game texture or an in-game appearance guarantee.
+
+??? info "Artifact evidence"
+
+    - `TensuraConsumableItems`
+    - `TensuraFoodProperties`
+    - `SimpleFoodItem`
+    - `SlimeEntity.finalizeSpawn`
+    - `SlimePredicate`
+    - `data/tensura/loot_table/entities/slime.json`
+    - `data/tensura/loot_table/entities/supermassive_slime.json`
+    - `data/minecraft/recipe/slime_chunk_from_snowball.json`
+    - `data/tensura/recipe/chilled_slimefrom_chilled_slime_block.json`
+    - `data/chilled_reference.json`

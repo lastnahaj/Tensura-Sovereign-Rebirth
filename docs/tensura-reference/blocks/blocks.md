@@ -121,7 +121,7 @@ tags:
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Brick_Magic_Engine.png"><img alt="Brick Magic Engine.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png" width="30"/></a> <a href="../blocks-magic-engine/" title="Blocks/Magic engine">Brick Magic Engine</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Stone_Brick_Magic_Engine.png"><img alt="Stone Brick Magic Engine.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/stone-brick-magic-engine-99ba99f72f.png" width="30"/></a> <a href="../blocks-magic-engine/" title="Blocks/Magic engine">Stone Brick Magic Engine</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png"><img alt="Slime Chunk Block.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" width="30"/></a> <a href="../blocks-slime-chunk-block/" title="Blocks/Slime Chunk Block">Slime Chunk Block</a></li>
-<li><a class="image" href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png"><img alt="Chilled Slime Block.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" width="30"/></a> <a href="../blocks-chilled-slime-block/" title="Blocks/Chilled Slime Block">Chilled Slime Block</a></li>
+<li><img alt="Chilled Slime Block illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/chilled-slime-block.webp" width="30"/> <a href="../blocks-chilled-slime-block/" title="Blocks/Chilled Slime Block">Chilled Slime Block</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Moth_Egg.png"><img alt="Moth Egg.png" data-file-height="512" data-file-width="512" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" width="30"/></a> <a href="../blocks-moth-egg/" title="Blocks/Moth Egg">Moth Egg</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png"><img alt="Charybdis Core.png" data-file-height="500" data-file-width="500" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/charybdis-core-76330fcb25.png" width="30"/></a> <a href="../blocks-charybdis-core/" title="Blocks/Charybdis Core">Charybdis Core</a></li></ul></div>
 <p><br/>
@@ -239,7 +239,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-chilled-slime-block/">
-<img src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/chilled-slime-block.webp" alt="Chilled Slime Block illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime Block</strong>
 <small>Upstream reference information for Chilled Slime Block.</small>
@@ -255,7 +255,7 @@ tags:
 Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks) on the Tensura: Reincarnated Wiki (revision `5177`, modified `2025-01-05T16:49:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (110 source files)</summary>
+<summary>Media credits (109 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Log.png">Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
@@ -347,7 +347,7 @@ Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks
 <li><a href="https://tensura.wiki.gg/wiki/File:Brick_Magic_Engine.png">Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4149</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Stone_Brick_Magic_Engine.png">Stone Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4150</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png">Slime Chunk Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4147</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png">Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4148</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Moth_Egg.png">Moth Egg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7168</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_Core.png">Charybdis Core.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 12921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Unlit_Torch.png">Unlit Torch.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9910</li>

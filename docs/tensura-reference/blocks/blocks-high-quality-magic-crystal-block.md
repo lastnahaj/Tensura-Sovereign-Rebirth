@@ -133,7 +133,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../blocks-chilled-slime-block/">
-<img src="../../../assets/upstream/tensura/items/chilled-slime-block-fbefa8b3ee.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/chilled-slime-block.webp" alt="Chilled Slime Block illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Chilled Slime Block</strong>
 <small>Upstream reference information for Chilled Slime Block.</small>

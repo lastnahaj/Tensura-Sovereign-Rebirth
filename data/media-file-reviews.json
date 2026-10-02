@@ -74,6 +74,24 @@
       "replacement_asset": "assets/illustrations/skills/eight-petals-flash.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Chilled_Slime.png",
+      "source_title": "Chilled Slime.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/chilled-slime.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png",
+      "source_title": "Chilled Slime Block.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/chilled-slime-block.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Cold_nullification.png",
       "source_title": "Cold nullification.png",
       "checked_on": "2026-09-30",
@@ -423,6 +441,24 @@
       "notice": "game-ownership",
       "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
       "replacement_asset": "assets/illustrations/skills/instant-move.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png",
+      "source_title": "Invicon Chilled Slime.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/chilled-slime.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime_Block.png",
+      "source_title": "Invicon Chilled Slime Block.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/blocks/chilled-slime-block.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Full_Potion.png",

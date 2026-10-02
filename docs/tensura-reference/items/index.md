@@ -424,16 +424,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="chilled slime killing/defeating a slime in one of the following cold biomes: (t.b.a)">
+<article class="reference-card" data-letter="C" data-search="chilled slime make chilled material with eight snowballs and one slime chunk, unpack its storage block, or check the tensura cold-variant loot route.">
 <a href="chilled-slime/" aria-label="Open Chilled Slime">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-chilled-slime-121b6d7975.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/chilled-slime.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Chilled Slime</h2>
 
-<p>Killing/Defeating a Slime in one of the following cold biomes: (T.B.A)</p>
+<small class="skill-reference-status">Crafting and cold-variant loot checked</small>
+<p>Make chilled material with eight Snowballs and one Slime Chunk, unpack its storage block, or check the Tensura cold-variant loot route.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
