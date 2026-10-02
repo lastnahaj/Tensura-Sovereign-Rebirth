@@ -18,6 +18,8 @@ def manifest():
     data['pages'].extend(hipokute_entries(data))
     from chilled_reference import entries as chilled_entries
     data['pages'].extend(chilled_entries(data))
+    from slime_material_reference import entries as slime_entries
+    data['pages'].extend(slime_entries(data))
     return data
 
 

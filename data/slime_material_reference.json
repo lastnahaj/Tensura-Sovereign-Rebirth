@@ -1,0 +1,501 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-01",
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "live_gameplay_verified": false,
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "item_registry_id": "tensura:slime_chunk",
+  "block_registry_id": "tensura:slime_chunk_block",
+  "item_registration": {
+    "class": "net.minecraft.world.item.Item",
+    "food_properties": false,
+    "stack_limit": 64,
+    "rarity": "common"
+  },
+  "block_stuck_multiplier": {
+    "x": 0.699999988079071,
+    "y": 0.7,
+    "z": 0.699999988079071
+  },
+  "recipes": [
+    {
+      "resource": "data/minecraft/recipe/slime_ball_from_chunks.json",
+      "sha256": "6ede49a8ea8d5aa2482833687e76af5490a2814d434b10ba0a2b46a985247fdc",
+      "definition": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "tensura:slime_chunk"
+          },
+          {
+            "item": "tensura:slime_chunk"
+          },
+          {
+            "item": "tensura:slime_chunk"
+          },
+          {
+            "item": "tensura:slime_chunk"
+          }
+        ],
+        "result": {
+          "count": 1,
+          "id": "minecraft:slime_ball"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_block_from_smelting.json",
+      "sha256": "04330719f98e4c150cc1fd807bcafe15fe62d412e7d241b7e5f27ac9c2e313df",
+      "definition": {
+        "type": "minecraft:smelting",
+        "category": "blocks",
+        "cookingtime": 200,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_block_from_snow_block.json",
+      "sha256": "faf5099bef30a3ffb8ebc73fccf1e784b27a45e508e6ac66c02311635a69b188",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "#": {
+            "item": "minecraft:snow_block"
+          },
+          "X": {
+            "item": "tensura:slime_chunk_block"
+          }
+        },
+        "pattern": [
+          "###",
+          "#X#",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:chilled_slime_block"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_from_smelting.json",
+      "sha256": "694cb720b6acc217b4c2557bede6ba26793f7c4fbf7eeff5b1cda70aa83cb63e",
+      "definition": {
+        "type": "minecraft:smelting",
+        "category": "misc",
+        "cookingtime": 100,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    },
+    {
+      "resource": "data/minecraft/recipe/slime_chunk_from_snowball.json",
+      "sha256": "95e6151ffaab57c8c5fd40e8d385777376456b6feb9e8fba4796848d0771973f",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "#": {
+            "item": "minecraft:snowball"
+          },
+          "X": {
+            "item": "tensura:slime_chunk"
+          }
+        },
+        "pattern": [
+          "###",
+          "#X#",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:chilled_slime"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_block_from_campfire_cooking.json",
+      "sha256": "1337e1f79599b17bbb7ee6b609d061f9a66c83d2dcfdd6ba81e63799f2f860a8",
+      "definition": {
+        "type": "minecraft:campfire_cooking",
+        "category": "food",
+        "cookingtime": 600,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_block_from_smoking.json",
+      "sha256": "df8aef647a194e559ea0af8a51bde16cf2feb9f70e70b51956a77f73ab3b801c",
+      "definition": {
+        "type": "minecraft:smoking",
+        "category": "food",
+        "cookingtime": 100,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime_block"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_blockfrom_slime_chunk.json",
+      "sha256": "875b4066e723205233d5635778121fe54c101c87d0687ed24defdb77713a322d",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "building",
+        "key": {
+          "#": {
+            "item": "tensura:slime_chunk"
+          }
+        },
+        "pattern": [
+          "###",
+          "###",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_from_campfire_cooking.json",
+      "sha256": "ca96facf816df5d0b065c653b00caf18b6f215400617a95bacb7b2bfce3cf3c8",
+      "definition": {
+        "type": "minecraft:campfire_cooking",
+        "category": "food",
+        "cookingtime": 300,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunk_from_smoking.json",
+      "sha256": "4261401a6823bded22b338451b936e26f8e62afcfc4ef41cc3edb6f684e7d30b",
+      "definition": {
+        "type": "minecraft:smoking",
+        "category": "food",
+        "cookingtime": 50,
+        "experience": 0.2,
+        "ingredient": {
+          "item": "tensura:chilled_slime"
+        },
+        "result": {
+          "count": 1,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/slime_chunkfrom_slime_chunk_block.json",
+      "sha256": "2ab0669f6aa3dd83fdca5584707fcc6d8a2b4dba685b28365fbb7618ffaf0cfe",
+      "definition": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "tensura:slime_chunk_block"
+          }
+        ],
+        "result": {
+          "count": 9,
+          "id": "tensura:slime_chunk"
+        }
+      }
+    }
+  ],
+  "loot_tables": [
+    {
+      "resource": "data/tensura/loot_table/blocks/slime_chunk_block.json",
+      "sha256": "014803b3a39ea5530df45e1f86a6fa8b3bc005b649913cae8833b00f86a84886",
+      "definition": {
+        "type": "minecraft:block",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "conditions": [
+              {
+                "condition": "minecraft:survives_explosion"
+              }
+            ],
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "name": "tensura:slime_chunk_block"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:blocks/slime_chunk_block"
+      }
+    },
+    {
+      "resource": "data/tensura/loot_table/entities/slime.json",
+      "sha256": "4fb8eec597ed3cd4ab55a26a3d5494d9e64a60be6494e9a999d07bc0c68a85d4",
+      "definition": {
+        "type": "minecraft:entity",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "type_specific": {
+                            "type": "tensura:slime_predicate",
+                            "chilled": false
+                          }
+                        }
+                      }
+                    ],
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": 1.0,
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 1.0,
+                          "min": 0.0
+                        },
+                        "function": "tensura:increase_by_scale"
+                      }
+                    ],
+                    "name": "tensura:slime_chunk"
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": 1.0,
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 1.0,
+                          "min": 0.0
+                        },
+                        "function": "tensura:increase_by_scale"
+                      }
+                    ],
+                    "name": "tensura:chilled_slime"
+                  }
+                ]
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "type_specific": {
+                        "type": "tensura:slime_predicate",
+                        "massive": true
+                      }
+                    }
+                  }
+                ],
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tensura:slime_core"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:entities/slime"
+      }
+    },
+    {
+      "resource": "data/tensura/loot_table/entities/supermassive_slime.json",
+      "sha256": "29b9b37e70f022e969a278c4a509678f73ff0667eb63662ef3c0e9949a015a02",
+      "definition": {
+        "type": "minecraft:entity",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "conditions": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                          "type_specific": {
+                            "type": "tensura:slime_predicate",
+                            "chilled": false
+                          }
+                        }
+                      }
+                    ],
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 50.0,
+                          "min": 30.0
+                        },
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 5.0,
+                          "min": 0.0
+                        },
+                        "enchantment": "minecraft:looting",
+                        "function": "minecraft:enchanted_count_increase"
+                      }
+                    ],
+                    "name": "tensura:slime_chunk"
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 50.0,
+                          "min": 30.0
+                        },
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 5.0,
+                          "min": 0.0
+                        },
+                        "enchantment": "minecraft:looting",
+                        "function": "minecraft:enchanted_count_increase"
+                      }
+                    ],
+                    "name": "tensura:chilled_slime"
+                  }
+                ]
+              }
+            ],
+            "rolls": 1.0
+          },
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:item",
+                "functions": [
+                  {
+                    "add": false,
+                    "count": 1.0,
+                    "function": "minecraft:set_count"
+                  }
+                ],
+                "name": "tensura:slime_core"
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:entities/supermassive_slime"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "resource": "data/c/tags/item/slime_balls.json",
+      "sha256": "daea40421cbfd9ec9019e6c5d192dc67731e849cb695887038b64c042abfdfee",
+      "definition": {
+        "values": [
+          "tensura:slime_chunk"
+        ]
+      }
+    },
+    {
+      "resource": "data/tensura/tags/block/sticky_blocks.json",
+      "sha256": "396bb0d34f412b5d075e0b41779e51b37a27c6af28c2600eb8ffd741b271b59b",
+      "definition": {
+        "values": [
+          "tensura:slime_chunk_block",
+          "tensura:chilled_slime_block",
+          "minecraft:slime_block",
+          "minecraft:honey_block"
+        ]
+      }
+    },
+    {
+      "resource": "data/tensura/tags/item/slime_food.json",
+      "sha256": "ef50663f53d8240f232217236fb10cfc26fb5fda66efce016045986409a89d9a",
+      "definition": {
+        "values": [
+          "minecraft:slime_ball",
+          "tensura:slime_chunk",
+          "tensura:chilled_slime",
+          "tensura:magic_ore_shard"
+        ]
+      }
+    }
+  ]
+}

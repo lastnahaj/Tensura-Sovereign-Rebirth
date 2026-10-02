@@ -1,194 +1,63 @@
 ---
 title: Slime Chunk Block
-description: Base Tensura reference for Slime Chunk Block.
-tags:
-- Pages_with_overridden_hardness
-- Non-renewable_resources
-- Stackable_resources
+description: Pack, unpack, chill, and place ordinary slime material with checked 1.21.1 recipes and movement limits.
 ---
 
 # Slime Chunk Block
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
+<section data-reference-section="blocks" class="reference-overview reference-theme-world staff-guide-hero smithing-guide-hero">
+<figure class="reference-overview-media"><img src="../../../assets/images/blocks/slime-chunk-block.webp" alt="Original translucent azure gel storage-block illustration" loading="eager" decoding="async"><figcaption>TSR material illustration · not the in-game texture</figcaption></figure>
+<div class="reference-overview-copy"><p class="reference-eyebrow">Slime materials · Minecraft 1.21.1</p><h2>Compact the supply. Know the surface.</h2><p>Store nine chunks in one resource block, unpack them when needed, or chill the block. Its custom movement rules make it a material block—not a drop-in replacement for ordinary flooring or vanilla Slime Block.</p><nav class="reference-quick-jumps" aria-label="Slime storage guide"><a href="#craft-and-convert">Craft &amp; convert</a><a href="#placed-block-behavior">Movement limits</a><a href="../../items/slime-chunk/">Slime Chunk item</a></nav></div></section>
 
-<section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="Slime Chunk Block source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png">Slime Chunk Block.png · CC BY-SA 4.0</a></figcaption>
-</figure>
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>Upstream reference information for Slime Chunk Block.</p>
-<nav class="reference-quick-jumps" aria-label="Article sections">
-<a href="#Obtainment">Obtainment</a>
-<a href="#Usage">Usage</a>
-</nav>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
-</section>
+!!! note "Artifact rules checked · live behavior untested"
+    Registration, recipes, loot, tags, and the complete `SlimeChunkBlock` class were inspected in Tensura 2.0.1.2. Live movement, fall safety, piston compatibility, explosion recovery, and recipe overrides have not been tested.
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Slime Chunk Block</div>
-<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png"><img alt="Slime Chunk Block.png: Infobox image for Slime Chunk Block the block in Minecraft" data-file-height="300" data-file-width="300" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" width="150"/></a><div class="infobox-imagecaption">
-<p>Slime Chunk Block
-</p>
-</div></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk Block"><a href="./" title="Slime Chunk Block"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="new" href="https://tensura.wiki.gg/wiki/Renewable_resource?action=edit&amp;redlink=1" rel="nofollow" title="Renewable resource (page does not exist)">Renewable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>Yes (64)
-</p>
-</td></tr>
-<tr>
-<th>Tool
-</th>
-<td class="pixel-image">
-<p>Any tool
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Explosion#Blast_resistance" title="mcw:Explosion">Blast resistance</a>
-</th>
-<td>
-<p><a href="https://tensura.wiki.gg/wiki/Template:Blast_resistance_values#Missing_value" title="Template:Blast resistance values">?</a>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Breaking#Blocks_by_hardness" title="mcw:Breaking">Hardness</a>
-</th>
-<td>
-<p><b><a href="https://tensura.wiki.gg/wiki/Template:Hardness_values#Missing_value" title="Template:Hardness values">?</a></b>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Light" title="mcw:Light">Luminous</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Opacity" title="mcw:Opacity">Transparent</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Flammable" title="mcw:Flammable">Flammable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Catches fire from <a class="extiw" href="https://minecraft.wiki/w/lava" title="mcw:lava">lava</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-</tbody></table>
-</div>
+<span id="Obtainment"></span><span id="Crafting"></span><span id="Crafting_2"></span>
 
+## Craft and convert
 
-<h2><span class="mw-headline" id="Obtainment">Obtainment</span></h2>
-<h3><span class="mw-headline" id="Crafting">Crafting</span></h3>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a href="../../items/slime-chunk/" title="Slime Chunk">Slime Chunk</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span></span><span class="mcui-row"><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a></span></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk Block"><a href="./" title="Slime Chunk Block"></a></span></span></span></span></div>
-</td></tr>
-</tbody></table>
-<h2><span class="mw-headline" id="Usage">Usage</span></h2>
-<h3><span class="mw-headline" id="Crafting_2">Crafting</span></h3>
-<table class="wikitable crafting" data-description="Crafting recipes">
-<tbody><tr>
-<th>Ingredients</th>
-<th><a href="https://tensura.wiki.gg/wiki/Crafting" title="Crafting">Crafting</a> recipe
-</th></tr>
-<tr>
-<td><a class="mw-selflink selflink">Slime Chunk Block</a>
-</td>
-<td><div><span class="mcui mcui-Crafting_Table pixel-image"><span class="mcui-input"><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk Block"><a href="./" title="Slime Chunk Block"></a></span></span><span class="invslot"></span></span><span class="mcui-row"><span class="invslot"></span><span class="invslot"></span><span class="invslot"></span></span></span><span class="mcui-arrow"><br/></span><span class="mcui-output"><span class="invslot invslot-large"><span class="invslot-item invslot-item-image" data-minetip-title="Slime Chunk"><a href="../../items/slime-chunk/" title="Slime Chunk"></a><span class="invslot-stacksize" title="Slime Chunk">9</span></span></span></span><span class="mcui-icons"><span class="mcui-shapeless" title="This recipe is shapeless; the inputs may be placed in any arrangement in the crafting grid."><br/></span></span></span></div>
-</td></tr>
-</tbody></table>
+<div class="tensura-reference-article"><div class="chilled-crafting-grid">
+<article class="smithing-recipe"><p class="reference-eyebrow">Pack the material</p><h3>9 chunks → 1 block</h3><p>Fill all nine Crafting Table slots with <a href="../../items/slime-chunk/">Slime Chunk</a>. This uses Tensura chunks, not nine vanilla Slimeballs.</p><details><summary>Packing arrangement</summary><table class="smithing-pattern" aria-label="Nine ordinary chunks into one resource block"><tbody><tr><td>Slime Chunk</td><td>Slime Chunk</td><td>Slime Chunk</td></tr><tr><td>Slime Chunk</td><td>Slime Chunk</td><td>Slime Chunk</td></tr><tr><td>Slime Chunk</td><td>Slime Chunk</td><td>Slime Chunk</td></tr></tbody></table></details></article>
+<article class="smithing-recipe"><p class="reference-eyebrow">Add the chill</p><h3>8 Snow Blocks + 1 resource block</h3><p>Surround one Slime Chunk Block with eight Snow Blocks to make <a href="../blocks-chilled-slime-block/">1 Chilled Slime Block</a>.</p><details><summary>Chilling arrangement</summary><table class="smithing-pattern" aria-label="Ordinary resource block surrounded by Snow Blocks"><tbody><tr><td>Snow Block</td><td>Snow Block</td><td>Snow Block</td></tr><tr><td>Snow Block</td><td>Slime Chunk Block</td><td>Snow Block</td></tr><tr><td>Snow Block</td><td>Snow Block</td><td>Snow Block</td></tr></tbody></table></details></article>
+<article class="smithing-recipe"><p class="reference-eyebrow">Recover the supply</p><h3>1 block → 9 Slime Chunks</h3><p>The unpacking recipe is shapeless. It returns the nine stored chunks without requiring snow or fuel. For vanilla Slimeball crafting, unpack first: the separate recipe consumes four chunks per Slimeball.</p><a href="../../items/slime-chunk/">Compare item conversions →</a></article></div></div>
 
+### Warm chilled storage
 
+One **Chilled Slime Block** cooks into **1 ordinary Slime Chunk Block**. It does not turn directly into nine loose chunks; unpack the result separately.
 
-</div>
-</div>
+| Station | Block recipe progress ticks | Recipe XP |
+|---|---:|---:|
+| Furnace | 200 | 0.2 |
+| Smoker | 100 | 0.2 |
+| Campfire | 600 | 0.2 |
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+These are packaged recipe requirements, not live wall-clock timings. Fuel, active chunks, server tick rate, and overrides affect completion.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Blocks</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../blocks-silver-ore/">
-<img src="../../../assets/upstream/tensura/items/silver-ore-58a494883b.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Silver Ore</strong>
-<small>Deepslate Silver Ore</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blocks-smithing-bench/">
-<img src="../../../assets/images/blocks/smithing-bench.webp" alt="Smithing Bench illustration" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Smithing Bench</strong>
-<small>The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the…</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blocks-palm-wood/">
-<img src="../../../assets/upstream/tensura/items/palm-wood-7a70ca82a0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Palm Wood</strong>
-<small>Upstream reference information for Palm Wood.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../underworld-barrens/">
-<img src="../../../assets/images/reference-world-equipment.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Underworld Barrens</strong>
-<small>Daemons for days! Magicule Density - 104,000</small>
-</span>
-</a>
-</div>
-</section>
+<span id="Usage"></span>
 
----
+## Placed-block behavior
+
+<div class="kiln-tier-grid"><article class="smithing-recipe"><p class="reference-eyebrow">Drag</p><h3>Approximately 0.7 per axis</h3><p>The entity-inside method passes roughly <strong>X 0.7 · Y 0.7 · Z 0.7</strong> to the stuck-in-block operation. These method arguments are not measured walking-speed percentages. Entities in <code>#tensura:slime_walkable_mobs</code> return before this operation.</p></article><article class="smithing-recipe"><p class="reference-eyebrow">Collision</p><h3>Not an ordinary solid floor</h3><p>The collision shape is usually empty. An entity with <strong>fall distance greater than 2.5</strong> receives a special <strong>0.9-block-high collision shape</strong>. Test footing safely before building walkways.</p></article><article class="smithing-recipe"><p class="reference-eyebrow">Ordinary vs chilled</p><h3>No cold flag in this method</h3><p>The ordinary entity-inside method only applies drag. The chilled subclass adds the powder-snow flag and server-side extinguishing step, with a stronger horizontal stuck multiplier.</p><a href="../blocks-chilled-slime-block/">Compare chilled behavior →</a></article></div>
+
+??? warning "Sticky does not mean vanilla bouncing"
+
+    The class extends `HalfTransparentBlock`, not vanilla `SlimeBlock`. Its sticky-block check reads `#tensura:sticky_blocks`. `fallOn` plays a slime landing sound for falls of at least four blocks, but the inspected class does not implement a vanilla-style bounce method. Neither a tag nor a sound is proof of safe launchpads, universal fall protection, or identical piston behavior.
+
+??? info "Recovery and registry properties"
+
+    The packaged self-drop loot table returns one block subject to an explosion-survival condition; it does not include a Silk Touch condition. The registry specifies **0.8 friction**, Slime Block sounds, light-blue map color, and `noOcclusion`. Unknown hardness and resistance fields from the older article are not treated as checked values. Live mining, explosions, and rendered transparency remain untested.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Blocks/Slime Chunk Block](https://tensura.wiki.gg/wiki/Blocks/Slime_Chunk_Block) on the Tensura: Reincarnated Wiki (revision `7897`, modified `2025-03-03T19:43:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Slime Chunk Block source article, recorded revision 7897](https://tensura.wiki.gg/wiki/Blocks/Slime_Chunk_Block?oldid=7897) · [Slime Chunk source article](https://tensura.wiki.gg/wiki/Slime_Chunk). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-<details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png">Slime Chunk Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4147</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk_Block.png">Invicon Slime Chunk Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6874</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
-</ul>
-</details>
+Implementation: [Tensura 2.0.1.2](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml) · [material evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/slime_material_reference.json). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`.
+
+Item and block use distinct original TSR material illustrations, not game textures. Both source inventory icons identify game-studio/licensor ownership; the other two reviewed image pages did not establish reusable permission. See the [media ledger](../../project/sources-and-attribution.md).
+
+??? info "Artifact evidence"
+
+    - `TensuraMobDropItems`, `TensuraBlocks`, `SlimeChunkBlock`, and `SlimePredicate`
+    - Eleven crafting/cooking definitions, three loot tables, and three relevant tag resources in the material register
+
+[Back to Blocks](index.md) · [Slime Chunk ingredient](../items/slime-chunk.md) · [Chilled Slime Block](blocks-chilled-slime-block.md)

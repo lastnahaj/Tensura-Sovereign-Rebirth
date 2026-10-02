@@ -2805,16 +2805,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="slime chunk a gooey ball of slime from a slime .">
+<article class="reference-card" data-letter="S" data-search="slime chunk keep ordinary slime material for compact storage, convert four chunks into one vanilla slimeball, or make chilled material with eight snowballs.">
 <a href="slime-chunk/" aria-label="Open Slime Chunk">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/invicon-slime-chunk-bd4753f031.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/slime-chunk.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Slime Chunk</h2>
 
-<p>A gooey ball of slime from a Slime .</p>
+<small class="skill-reference-status">Loot predicates and material conversions checked</small>
+<p>Keep ordinary slime material for compact storage, convert four chunks into one vanilla Slimeball, or make chilled material with eight Snowballs.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

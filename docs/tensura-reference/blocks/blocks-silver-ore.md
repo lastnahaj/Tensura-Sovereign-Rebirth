@@ -144,7 +144,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-slime-chunk-block/">
-<img src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/slime-chunk-block.webp" alt="Slime Chunk Block illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Slime Chunk Block</strong>
 <small>Upstream reference information for Slime Chunk Block.</small>

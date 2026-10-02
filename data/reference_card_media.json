@@ -343,9 +343,19 @@
     "summary": "The all-bark wood block from Tensura's Palm construction set."
   },
   "tensura-reference/blocks/blocks-slime-chunk-block.md": {
-    "asset": "assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png",
-    "kind": "source",
-    "summary": "The block form of Slime Chunks, represented with its verified upstream game texture."
+    "asset": "assets/images/blocks/slime-chunk-block.webp",
+    "kind": "original-illustration",
+    "summary": "Store nine Slime Chunks, recover the ingredients, and compare ordinary and chilled block behavior.",
+    "credit": "TSR material illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "371597bacb5414fa61e2483be4442e33b3d72f201e45c5671b8df7d6a8edc41f",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Slime_Chunk_Block",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk_Block.png",
+      "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
+    }
   },
   "tensura-reference/blocks/blocks-smithing-bench.md": {
     "asset": "assets/images/blocks/smithing-bench.webp",
@@ -1064,6 +1074,20 @@
       "article": "https://tensura.wiki.gg/wiki/Chilled_Slime",
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
+  },
+  "tensura-reference/items/slime-chunk.md": {
+    "asset": "assets/images/items/slime-chunk.webp",
+    "kind": "original-illustration",
+    "credit": "TSR material illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9eabbd3297953412dca51f43a0a59de558d8cd878bd258d3a9e92e636622b0c3",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Slime_Chunk",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png",
+      "result": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified."
     }
   }
 }

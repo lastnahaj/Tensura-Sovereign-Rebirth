@@ -650,6 +650,24 @@
       "replacement_asset": "assets/images/items/medium-quality-magic-crystal.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png",
+      "source_title": "Invicon Slime Chunk.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/items/slime-chunk.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk_Block.png",
+      "source_title": "Invicon Slime Chunk Block.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "game-ownership",
+      "evidence": "The rendered File page identifies game-studio/licensor ownership; no reusable image license was verified.",
+      "replacement_asset": "assets/images/blocks/slime-chunk-block.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Vacuumed_Magic_Bottle_of_Water.png",
       "source_title": "Invicon Vacuumed Magic Bottle of Water.png",
       "checked_on": "2026-09-30",
@@ -1008,6 +1026,24 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/crafting-schematic.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Slime_Chunk.png",
+      "source_title": "Slime Chunk.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "no-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/items/slime-chunk.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Slime_Chunk_Block.png",
+      "source_title": "Slime Chunk Block.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "no-license",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/slime-chunk-block.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Smithing_Bench.png",

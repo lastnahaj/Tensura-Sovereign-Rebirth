@@ -138,7 +138,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-slime-chunk-block/">
-<img src="../../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/slime-chunk-block.webp" alt="Slime Chunk Block illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Slime Chunk Block</strong>
 <small>Upstream reference information for Slime Chunk Block.</small>
@@ -154,7 +154,7 @@ tags:
 Base Tensura reference adapted from [Blocks/Palm Wood](https://tensura.wiki.gg/wiki/Blocks/Palm_Wood) on the Tensura: Reincarnated Wiki (revision `7518`, modified `2025-02-13T09:23:21Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Palm_Wood.png">Invicon Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6925</li>

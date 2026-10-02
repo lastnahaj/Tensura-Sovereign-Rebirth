@@ -422,6 +422,19 @@ for fact in ('8 Snowballs', '9 Chilled Slime', 'spawns_cold_variant_frogs', 'Str
 assert '(T.B.A)' not in chilled_item.get_text() and 'Lua error' not in chilled_block.get_text(), 'Unfinished chilled-material copy remains'
 assert Path(chilled_block.select_one('.reference-overview-media img')['src']).name == 'chilled-slime-block.webp'
 assert Path(chilled_item.select_one('.reference-overview-media img')['src']).name == 'chilled-slime.webp'
+from slime_material_reference import manifest as slime_material_manifest
+slime_material_data = slime_material_manifest()
+assert len(slime_material_data['recipes']) == 11 and len(slime_material_data['loot_tables']) == 3 and len(slime_material_data['tags']) == 3, 'Ordinary slime-material evidence coverage changed'
+assert slime_material_data['item_registration']['food_properties'] is False, 'Ordinary material must not inherit chilled food properties'
+slime_material_block = BeautifulSoup((site / 'tensura-reference/blocks/blocks-slime-chunk-block/index.html').read_text(encoding='utf-8'), 'html.parser')
+slime_material_item = BeautifulSoup((site / 'tensura-reference/items/slime-chunk/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(slime_material_block.select('.smithing-pattern td')) == 18, 'Ordinary packing or chilling arrangement missing'
+for fact in ('9 chunks', '8 Snow Blocks', 'fall distance greater than 2.5', '0.9-block-high', 'slime_walkable_mobs', 'live behavior untested'):
+    assert fact in slime_material_block.get_text(' ', strip=True), f'Ordinary block rule missing: {fact}'
+for fact in ('4 chunks', '8 Snowballs', 'no standard food properties', '#c:slime_balls', 'chilled: false'):
+    assert fact in slime_material_item.get_text(' ', strip=True), f'Ordinary material rule missing: {fact}'
+assert Path(slime_material_block.select_one('.reference-overview-media img')['src']).name == 'slime-chunk-block.webp'
+assert Path(slime_material_item.select_one('.reference-overview-media img')['src']).name == 'slime-chunk.webp'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

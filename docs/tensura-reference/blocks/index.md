@@ -454,16 +454,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="slime chunk block the block form of slime chunks, represented with its verified upstream game texture.">
+<article class="reference-card" data-letter="S" data-search="slime chunk block store nine slime chunks, recover the ingredients, convert to chilled material, and check the unusual collision rules before building.">
 <a href="blocks-slime-chunk-block/" aria-label="Open Slime Chunk Block">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/slime-chunk-block-f78bc508c3.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/slime-chunk-block.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Slime Chunk Block</h2>
 
-<p>The block form of Slime Chunks, represented with its verified upstream game texture.</p>
+<p>Store nine Slime Chunks, recover the ingredients, convert to chilled material, and check the unusual collision rules before building.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

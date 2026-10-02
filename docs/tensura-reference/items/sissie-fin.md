@@ -122,7 +122,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../slime-chunk/">
-<img src="../../../assets/upstream/tensura/items/invicon-slime-chunk-bd4753f031.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/slime-chunk.webp" alt="Slime Chunk illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Slime Chunk</strong>
 <small>A gooey ball of slime from a Slime .</small>
@@ -138,7 +138,7 @@ tags:
 Base Tensura reference adapted from [Sissie Fin](https://tensura.wiki.gg/wiki/Sissie_Fin) on the Tensura: Reincarnated Wiki (revision `9481`, modified `2025-04-23T18:09:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (6 source files)</summary>
+<summary>Media credits (5 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sissie_Fin.png">Invicon Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6724</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Sissie_Fin.png">Sissie Fin.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7243</li>

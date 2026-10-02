@@ -213,7 +213,7 @@ tags: []
 Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wiki/Items/Mob_Drops) on the Tensura: Reincarnated Wiki (revision `12783`, modified `2026-05-06T10:27:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (34 source files)</summary>
+<summary>Media credits (33 source files)</summary>
 <ul>
 
 
@@ -238,7 +238,7 @@ Base Tensura reference adapted from [Items/Mob Drops](https://tensura.wiki.gg/wi
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Centipede_Stinger.png">Invicon Centipede Stinger.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6466</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Spider_Fang.png">Invicon Spider Fang.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6742</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Blade_Tiger_Tail.png">Invicon Blade Tiger Tail.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6459</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Core.png">Invicon Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6729</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Sticky_Thread.png">Invicon Sticky Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6746</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Steel_Thread.png">Invicon Steel Thread.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6743</li>

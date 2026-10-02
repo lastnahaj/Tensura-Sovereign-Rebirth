@@ -114,10 +114,10 @@ Supermassive Slime can be tamed with mind control spells <a href="../../magic/de
 Base Tensura reference adapted from [Mobs/Supermassive Slime](https://tensura.wiki.gg/wiki/Mobs/Supermassive_Slime) on the Tensura: Reincarnated Wiki (revision `12661`, modified `2026-04-29T13:25:44Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
+<summary>Media credits (2 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Slime_idle.gif">Slime idle.gif</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 5490</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png">Invicon Slime Chunk.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6728</li>
+
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Slime_Core.png">Invicon Slime Core.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6729</li>
 </ul>
 </details>

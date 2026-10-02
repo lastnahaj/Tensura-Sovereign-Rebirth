@@ -53,6 +53,8 @@ def load_manifest():
     data['pages'].append(kiln_entry())
     from chilled_reference import entry as chilled_entry
     data['pages'].append(chilled_entry())
+    from slime_material_reference import entry as slime_entry
+    data['pages'].append(slime_entry())
     return data
 
 
@@ -144,6 +146,8 @@ def generate():
     result[KILN_PAGE] = generate_kiln()
     from chilled_reference import BLOCK_PAGE, generate_block
     result[BLOCK_PAGE] = generate_block()
+    from slime_material_reference import BLOCK_PAGE as SLIME_BLOCK_PAGE, generate_block as generate_slime_block
+    result[SLIME_BLOCK_PAGE] = generate_slime_block()
     return result
 
 

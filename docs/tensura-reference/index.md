@@ -8,7 +8,7 @@ This library combines Tensura references with curated directories for the curren
 <div class="reference-metric-grid">
 <div><strong>1340</strong><span>articles</span></div>
 <div><strong>394</strong><span>local aliases</span></div>
-<div><strong>1665</strong><span>source images</span></div>
+<div><strong>1661</strong><span>source images</span></div>
 <div><strong>2</strong><span>source wikis</span></div>
 </div>
 

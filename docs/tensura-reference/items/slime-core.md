@@ -110,7 +110,7 @@ The beating core of a <a href="../../bosses/mobs-supermassive-slime/" title="Mob
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../slime-chunk/">
-<img src="../../../assets/upstream/tensura/items/invicon-slime-chunk-bd4753f031.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/slime-chunk.webp" alt="Slime Chunk illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Slime Chunk</strong>
 <small>A gooey ball of slime from a Slime .</small>
