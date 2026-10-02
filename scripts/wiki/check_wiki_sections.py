@@ -618,4 +618,14 @@ for page, decision in policy['pages'].items():
     config = decision['configuration']
     actual = tomllib.loads((ROOT / config['path']).read_text(encoding='utf-8'))[config['section']]
     assert config['values'] == actual, f'Stale recorded configuration: {page}'
+from mechanics_handbook import PAGE as handbook_page_path, generate as generate_handbook
+assert (ROOT / 'docs' / handbook_page_path).read_text(encoding='utf-8') == generate_handbook(), 'Stale mechanics handbook'
+handbook = BeautifulSoup((site / handbook_page_path.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+assert len(handbook.select('.mechanics-guide-card > a')) == 6 and len(handbook.select('.mechanics-guide-card img')) == 6, 'Handbook visual routes missing'
+assert len(handbook.select('.mechanics-topic-grid article')) == 3 and len(handbook.select('.mechanics-topic-grid a')) == 18, 'Handbook source topics missing'
+assert handbook.select_one('#Ingame_Mechanics') and handbook.select_one('#Gamerule_Mechanics'), 'Legacy mechanics anchors missing'
+assert Path(handbook.select_one('.reference-overview-media img')['src']).name == 'magic-tome.webp', 'Handbook original artwork missing'
+for fact in ('not live gameplay tests', 'does not certify every linked mechanic', 'WIP2 editor portrait is omitted', 'SlimeThrone Extras'):
+    assert fact in handbook.get_text(' ', strip=True), f'Handbook source or scope detail missing: {fact}'
+assert not any('wip2-56493556c2.png' in page.read_text(encoding='utf-8') for page in (ROOT / 'docs').rglob('*.md')), 'Withdrawn editorial portrait remains in distribution'
 print('Wiki section checks passed: 11 navigation sections, populated directories, corrected media, source-backed stats and commands, and race configurations')

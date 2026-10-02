@@ -65,10 +65,10 @@ Level 2+ - If in shadow/darkness, will take Physical damage and Spiritual damage
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Mechanics</strong>
-<small>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP…</small>
+<strong>Mechanics Handbook</strong>
+<small>Choose a practical guide and check each system’s source and verification scope.</small>
 </span>
 </a>
 </div>

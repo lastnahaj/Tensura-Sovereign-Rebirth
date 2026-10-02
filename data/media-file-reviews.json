@@ -1253,6 +1253,15 @@
       "replacement_action": "omitted-non-content"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:WIP2.png",
+      "source_title": "WIP2.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. The image is an editorial WIP portrait, not player-system artwork.",
+      "replacement_action": "omitted-non-content"
+    },
+    {
       "file_page": "https://trmysticism.wiki.gg/wiki/File:Gravitational_Void.png",
       "source_title": "Gravitational Void.png",
       "checked_on": "2026-09-30",

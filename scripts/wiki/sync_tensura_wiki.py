@@ -1602,6 +1602,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
     apply_underworld_biomes(records)
     from charybdis_cave_reference import apply as apply_charybdis_cave
     apply_charybdis_cave(records)
+    from mechanics_handbook import apply as apply_mechanics_handbook
+    apply_mechanics_handbook(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -2522,6 +2524,10 @@ def main() -> int:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_text(content, encoding="utf-8")
         sanitize_block_articles(check=False)
+        from charybdis_cave_reference import PAGE as cave_page, generate as generate_cave
+        (DOCS / cave_page).write_text(generate_cave(), encoding="utf-8")
+        from mechanics_handbook import PAGE as handbook_page, generate as generate_handbook
+        (DOCS / handbook_page).write_text(generate_handbook(), encoding="utf-8")
         from sync_item_reference import generate as generate_item_references
         for name, content in generate_item_references().items():
             (DOCS / name).write_text(content, encoding="utf-8")
@@ -2652,6 +2658,10 @@ def main() -> int:
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(content, encoding="utf-8")
     sanitize_block_articles(check=False)
+    from charybdis_cave_reference import PAGE as cave_page, generate as generate_cave
+    (DOCS / cave_page).write_text(generate_cave(), encoding="utf-8")
+    from mechanics_handbook import PAGE as handbook_page, generate as generate_handbook
+    (DOCS / handbook_page).write_text(generate_handbook(), encoding="utf-8")
     from sync_item_reference import generate as generate_item_references
     for name, content in generate_item_references().items():
         (DOCS / name).write_text(content, encoding="utf-8")

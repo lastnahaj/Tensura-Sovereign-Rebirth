@@ -2453,3 +2453,23 @@
 .chilled-crafting-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; margin: 1.25rem 0; }
 .chilled-crafting-grid > article:last-child { grid-column: 1 / -1; }
 .chilled-crafting-grid .smithing-pattern td { word-break: normal; overflow-wrap: normal; padding: .6rem .25rem !important; font-size: .7rem; }
+
+/* Task-oriented mechanics handbook. */
+.mechanics-guide-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.mechanics-guide-grid > article:last-child { grid-column: auto; }
+.mechanics-guide-card { padding: 0; overflow: hidden; background: var(--md-default-bg-color); }
+.mechanics-guide-card > a { display: flex; flex-direction: column; height: 100%; color: var(--md-default-fg-color); }
+.mechanics-guide-card img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.mechanics-guide-card .reference-eyebrow { margin: .9rem .9rem .4rem !important; }
+.mechanics-guide-card > a:hover { color: var(--md-default-fg-color); }
+.mechanics-guide-card h3 { margin: 0 .9rem .5rem !important; font-size: 1rem; }
+.mechanics-guide-card p:not(.reference-eyebrow) { margin: 0 .9rem .8rem; color: var(--md-default-fg-color--light); font-size: .72rem; line-height: 1.6; }
+.mechanics-guide-card .reference-card-action { margin: auto .9rem .9rem; }
+.mechanics-guide-card:focus-within { outline: 2px solid var(--tsr-cyan); outline-offset: 3px; }
+.mechanics-guide-card:hover { border-color: var(--tsr-cyan); }
+[data-md-color-scheme="default"] .mechanics-guide-card .reference-eyebrow,
+[data-md-color-scheme="default"] .mechanics-guide-card .reference-card-action { color: #075b83; }
+.mechanics-topic-grid ul { padding: 0; list-style: none; margin: .6rem 0 0; }
+.mechanics-topic-grid li { margin: 0; }
+.mechanics-topic-grid li a { display: block; padding: .5rem 0; border-bottom: 1px solid rgba(120,151,183,.2); }
+@media screen and (max-width: 38rem) { .mechanics-guide-grid { grid-template-columns: minmax(0, 1fr); } }

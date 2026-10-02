@@ -78,10 +78,10 @@ Neutral</div></div></div></div>
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async">
 <span class="reference-related-copy">
-<strong>Mechanics</strong>
-<small>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP…</small>
+<strong>Mechanics Handbook</strong>
+<small>Choose a practical guide and check each system’s source and verification scope.</small>
 </span>
 </a>
 <a class="reference-related-card" href="../effects-infection/">
@@ -108,7 +108,7 @@ Neutral</div></div></div></div>
 Base Tensura reference adapted from [Effects/Magicule Poison](https://tensura.wiki.gg/wiki/Effects/Magicule_Poison) on the Tensura: Reincarnated Wiki (revision `13046`, modified `2026-06-10T23:46:47Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Magicule_poison.png">Magicule poison.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 10674</li>
 </ul>

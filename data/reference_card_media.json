@@ -1151,5 +1151,20 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:InactiveCharybdisCore.png",
       "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
     }
+  },
+  "tensura-reference/core-mechanics/mechanics.md": {
+    "asset": "assets/images/items/magic-tome.webp",
+    "kind": "original",
+    "summary": "Choose a guide for character growth, skill learning, casting, crafting, or prestige; check each system’s source and verification scope.",
+    "credit": "Original TSR book illustration · handbook artwork",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "dce1feb23432848a6eda2aa9ea72d9e3940cc0f0d605fe79cd12506fdf064006",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Mechanics",
+      "file_page": "https://tensura.wiki.gg/wiki/File:WIP2.png",
+      "result": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. The image is an editorial WIP portrait, not player-system artwork."
+    }
   }
 }

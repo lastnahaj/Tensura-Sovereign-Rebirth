@@ -57647,17 +57647,20 @@
         "tensura-reference/weapons/wooden-short-sword.md"
       ],
       "category": "items",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. The image is an editorial WIP portrait, not player-system artwork.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/items/wip2-56493556c2.png",
       "download_url": "https://tensura.wiki.gg/images/WIP2.png?564935",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn editorial portrait; omitted from player-facing content.",
+      "license_reviewed_on": "2026-10-01",
+      "license_review_evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. The image is an editorial WIP portrait, not player-system artwork.",
+      "withdrawn_local_path": "assets/upstream/tensura/items/wip2-56493556c2.png",
+      "replacement_action": "omitted-non-content"
     },
     {
       "source_title": "WIP3.png",

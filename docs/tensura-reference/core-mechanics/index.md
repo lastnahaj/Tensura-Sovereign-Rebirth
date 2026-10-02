@@ -623,21 +623,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="mechanics ability usage dodging engravings gear evolution hipokute farming naming praying reputation reset scrolls trading ep, magicule and aura">
-<a href="mechanics/" aria-label="Open Mechanics">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/wip2-56493556c2.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mechanics</h2>
-
-<p>Ability Usage Dodging Engravings Gear Evolution Hipokute Farming Naming Praying Reputation Reset Scrolls Trading EP, Magicule and Aura</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="M" data-search="mechanics these mechanics are mechanics added by this mod:">
 <a href="../../mysticism-reference/core-mechanics/mechanics/" aria-label="Open Mechanics">
 <figure class="reference-card-media reference-card-media--source">
@@ -648,6 +633,21 @@
 <h2>Mechanics</h2>
 
 <p>These Mechanics are mechanics added by this mod:</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="mechanics handbook choose a guide for character growth, skill learning, casting, crafting, or prestige; check each system’s source and verification scope.">
+<a href="mechanics/" aria-label="Open Mechanics Handbook">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Mechanics Handbook</h2>
+
+<p>Choose a guide for character growth, skill learning, casting, crafting, or prestige; check each system’s source and verification scope.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
