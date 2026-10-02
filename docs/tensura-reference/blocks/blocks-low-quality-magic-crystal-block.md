@@ -133,7 +133,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../blocks-kiln/">
-<img src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/kiln.webp" alt="Kiln illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Kiln</strong>
 <small>To activate, right click the Kiln to open the menu</small>

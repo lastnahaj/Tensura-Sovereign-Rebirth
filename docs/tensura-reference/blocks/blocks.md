@@ -116,7 +116,7 @@ tags:
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Orichalcum.png"><img alt="Block of Orichalcum.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/block-of-orichalcum-be6965d3f3.png" width="30"/></a> <a href="../blocks-block-of-orichalcum/" title="Blocks/Block of Orichalcum">Block of Orichalcum</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_Adamantite.png"><img alt="Block of Adamantite.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/block-of-adamantite-99e48aac6b.png" width="30"/></a> <a href="../blocks-block-of-adamantite/" title="Blocks/Block of Adamantite">Block of Adamantite</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Block_of_HihiIrokane.png"><img alt="Block of HihiIrokane.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/block-of-hihiirokane-d68dfb73aa.png" width="30"/></a> <a href="../blocks-block-of-hihiirokane/" title="Blocks/Block of HihiIrokane">Block of Hihi'Irokane</a></li>
-<li><a class="image" href="https://tensura.wiki.gg/wiki/File:Kiln.png"><img alt="Kiln.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" width="30"/></a> <a href="../blocks-kiln/" title="Blocks/Kiln">Kiln</a></li>
+<li><img alt="Kiln illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/kiln.webp" width="30"/> <a href="../blocks-kiln/" title="Blocks/Kiln">Kiln</a></li>
 <li><img alt="Smithing Bench illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/smithing-bench.webp" width="30"/> <a href="../blocks-smithing-bench/" title="Blocks/Smithing Bench">Smithing Bench</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Brick_Magic_Engine.png"><img alt="Brick Magic Engine.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png" width="30"/></a> <a href="../blocks-magic-engine/" title="Blocks/Magic engine">Brick Magic Engine</a></li>
 <li><a class="image" href="https://tensura.wiki.gg/wiki/File:Stone_Brick_Magic_Engine.png"><img alt="Stone Brick Magic Engine.png" data-file-height="300" data-file-width="300" decoding="async" height="30" loading="lazy" src="../../../assets/upstream/tensura/items/stone-brick-magic-engine-99ba99f72f.png" width="30"/></a> <a href="../blocks-magic-engine/" title="Blocks/Magic engine">Stone Brick Magic Engine</a></li>
@@ -255,7 +255,7 @@ tags:
 Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks) on the Tensura: Reincarnated Wiki (revision `5177`, modified `2025-01-05T16:49:11Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (111 source files)</summary>
+<summary>Media credits (110 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Log.png">Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Wood.png">Palm Wood.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3922</li>
@@ -342,7 +342,7 @@ Base Tensura reference adapted from [Blocks](https://tensura.wiki.gg/wiki/Blocks
 <li><a href="https://tensura.wiki.gg/wiki/File:Block_of_Orichalcum.png">Block of Orichalcum.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3932</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Block_of_Adamantite.png">Block of Adamantite.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3931</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Block_of_HihiIrokane.png">Block of HihiIrokane.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 8826</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Kiln.png">Kiln.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4151</li>
+
 
 <li><a href="https://tensura.wiki.gg/wiki/File:Brick_Magic_Engine.png">Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4149</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Stone_Brick_Magic_Engine.png">Stone Brick Magic Engine.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4150</li>

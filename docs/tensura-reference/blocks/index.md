@@ -319,16 +319,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="K" data-search="kiln a processing station that smelts magic ore shards into molten magisteel for further material refinement.">
+<article class="reference-card" data-letter="K" data-search="kiln melt materials, compare alloy quantities, and plan the normal, mithril, and orichalcum kiln upgrades.">
 <a href="blocks-kiln/" aria-label="Open Kiln">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/kiln.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Kiln</h2>
 
-<p>A processing station that smelts Magic Ore Shards into Molten Magisteel for further material refinement.</p>
+<p>Melt materials, compare alloy quantities, and plan the Normal, Mithril, and Orichalcum Kiln upgrades.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

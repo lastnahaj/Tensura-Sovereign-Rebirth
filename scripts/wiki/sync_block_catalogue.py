@@ -49,6 +49,8 @@ def load_manifest():
     data = json.loads(MANIFEST.read_text(encoding="utf-8"))
     from smithing_reference import entry
     data['pages'].append(entry())
+    from kiln_reference import entry as kiln_entry
+    data['pages'].append(kiln_entry())
     return data
 
 
@@ -136,6 +138,8 @@ def generate():
         result[page['local_page']] = content
     from smithing_reference import PAGE, generate as generate_smithing
     result[PAGE] = generate_smithing()
+    from kiln_reference import PAGE as KILN_PAGE, generate as generate_kiln
+    result[KILN_PAGE] = generate_kiln()
     return result
 
 

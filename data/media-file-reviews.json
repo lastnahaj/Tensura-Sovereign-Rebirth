@@ -623,6 +623,24 @@
       "replacement_asset": "assets/images/items/vacuumed-magic-bottle-of-water.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Kiln.png",
+      "source_title": "Kiln.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/kiln.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Kiln_GUI.png",
+      "source_title": "Kiln GUI.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/kiln.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Light_attack_nullification.png",
       "source_title": "Light attack nullification.png",
       "checked_on": "2026-09-30",

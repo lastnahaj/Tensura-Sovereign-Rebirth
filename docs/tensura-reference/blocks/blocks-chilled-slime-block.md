@@ -169,7 +169,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-kiln/">
-<img src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/kiln.webp" alt="Kiln illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Kiln</strong>
 <small>To activate, right click the Kiln to open the menu</small>
@@ -185,7 +185,7 @@ tags:
 Base Tensura reference adapted from [Blocks/Chilled Slime Block](https://tensura.wiki.gg/wiki/Blocks/Chilled_Slime_Block) on the Tensura: Reincarnated Wiki (revision `7894`, modified `2025-03-03T18:21:59Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Chilled_Slime_Block.png">Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4148</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Chilled_Slime_Block.png">Invicon Chilled Slime Block.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6875</li>

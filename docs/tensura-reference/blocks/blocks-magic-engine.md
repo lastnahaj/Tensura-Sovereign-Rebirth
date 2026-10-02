@@ -169,7 +169,7 @@ Mobs also will not target enemies if they are in an area that has under 10 magic
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-kiln/">
-<img src="../../../assets/upstream/tensura/items/kiln-df0c921f2d.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/kiln.webp" alt="Kiln illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Kiln</strong>
 <small>To activate, right click the Kiln to open the menu</small>

@@ -293,9 +293,19 @@
     "summary": "The medium-quality tier of the consolidated Magic Crystal block family."
   },
   "tensura-reference/blocks/blocks-kiln.md": {
-    "asset": "assets/upstream/tensura/items/kiln-df0c921f2d.png",
-    "kind": "source",
-    "summary": "A processing station that smelts Magic Ore Shards into Molten Magisteel for further material refinement."
+    "asset": "assets/images/blocks/kiln.webp",
+    "kind": "original",
+    "summary": "A processing station that smelts Magic Ore Shards into Molten Magisteel for further material refinement.",
+    "credit": "TSR workstation illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2a89a6bec609dcb4297f817d69c521e29436969c06f7e094139cb199aefbe502",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Kiln",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Kiln_GUI.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/blocks/blocks-magic-engine.md": {
     "asset": "assets/upstream/tensura/items/brick-magic-engine-7de09b6a42.png",

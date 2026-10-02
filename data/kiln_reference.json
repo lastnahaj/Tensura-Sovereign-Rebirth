@@ -1,0 +1,4536 @@
+{
+  "schema": 1,
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "reviewed_on": "2026-10-01",
+  "live_recipes_verified": false,
+  "recipe_counts": {
+    "melting": 272,
+    "mixing": 14
+  },
+  "serializer_defaults": {
+    "smeltTick": 100,
+    "primary_count": 0,
+    "secondary_count": 0
+  },
+  "tiers": [
+    {
+      "id": "tensura:kiln",
+      "name": "Kiln",
+      "capacity_per_bar": 144,
+      "resource": "data/tensura/recipe/kiln.json",
+      "sha256": "37cdcf6a6cffcba6505d72b03f62646507a9b7ec2b36a00402dc12d76e94a974",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "building",
+        "group": "kiln",
+        "key": {
+          "#": {
+            "item": "minecraft:obsidian"
+          },
+          "B": {
+            "item": "minecraft:blast_furnace"
+          },
+          "C": {
+            "item": "minecraft:cauldron"
+          },
+          "N": {
+            "item": "minecraft:netherite_ingot"
+          }
+        },
+        "pattern": [
+          "#N#",
+          "CBC",
+          "###"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:kiln"
+        }
+      }
+    },
+    {
+      "id": "tensura:kiln_mithril",
+      "name": "Mithril Kiln",
+      "capacity_per_bar": 288,
+      "resource": "data/tensura/recipe/kiln_mithril.json",
+      "sha256": "eaa43335a43917ef3adec36c2905f61b830dc417309080aab4c1cc9b3f8050c3",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "building",
+        "group": "kiln",
+        "key": {
+          "#": {
+            "item": "tensura:mithril_ingot"
+          },
+          "C": {
+            "item": "minecraft:cauldron"
+          },
+          "K": {
+            "item": "tensura:kiln"
+          },
+          "N": {
+            "item": "minecraft:netherite_ingot"
+          }
+        },
+        "pattern": [
+          "#N#",
+          "CKC",
+          "#N#"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:kiln_mithril"
+        }
+      }
+    },
+    {
+      "id": "tensura:kiln_orichalcum",
+      "name": "Orichalcum Kiln",
+      "capacity_per_bar": 576,
+      "resource": "data/tensura/recipe/kiln_orichalcum.json",
+      "sha256": "1e7debd498f8e4499d51d9f9cc36f5cdceea2292a8f7912496aa4a728397689a",
+      "definition": {
+        "type": "minecraft:crafting_shaped",
+        "category": "building",
+        "group": "kiln",
+        "key": {
+          "#": {
+            "item": "tensura:orichalcum_ingot"
+          },
+          "C": {
+            "item": "minecraft:cauldron"
+          },
+          "K": {
+            "item": "tensura:kiln_mithril"
+          },
+          "N": {
+            "item": "minecraft:netherite_ingot"
+          }
+        },
+        "pattern": [
+          "#N#",
+          "CKC",
+          "#N#"
+        ],
+        "result": {
+          "count": 1,
+          "id": "tensura:kiln_orichalcum"
+        }
+      }
+    }
+  ],
+  "materials": [
+    {
+      "resource": "data/tensura/kiln_molten/copper.json",
+      "sha256": "5478d29231d6b42534e9d706e0416c005ba726adb8f234afbda3b9720412f337",
+      "type": "tensura:copper",
+      "blue": 86,
+      "green": 124,
+      "red": 229
+    },
+    {
+      "resource": "data/tensura/kiln_molten/gold.json",
+      "sha256": "9ef85625de8b121278966600be2c9d77927b6778f3848dcaa863cf89fb39e143",
+      "type": "tensura:gold",
+      "blue": 37,
+      "green": 167,
+      "red": 227
+    },
+    {
+      "resource": "data/tensura/kiln_molten/iron.json",
+      "sha256": "9c8ee86ca81961be3e4f48b03af05510e5ffa801685ba5171158b17e0e852f8f",
+      "type": "tensura:iron",
+      "blue": 106,
+      "green": 128,
+      "red": 139
+    },
+    {
+      "resource": "data/tensura/kiln_molten/magisteel.json",
+      "sha256": "6847a3b5875c140dac73a4f41f971f4f53dd49cdb997a0275e64c85b5d5c99f6",
+      "type": "tensura:magisteel",
+      "blue": 255,
+      "green": 233,
+      "magic": true
+    },
+    {
+      "resource": "data/tensura/kiln_molten/netherite.json",
+      "sha256": "5033c07be87173b520b23956c873e4d0a4a73a60321f44a81361453dce5068e7",
+      "type": "tensura:netherite",
+      "blue": 43,
+      "green": 43,
+      "magic": true,
+      "red": 57
+    },
+    {
+      "resource": "data/tensura/kiln_molten/silver.json",
+      "sha256": "54b945a9ed47176c1e8c6b41770abbaa29ed449e10aeeb265d086e5845173fb2",
+      "type": "tensura:silver",
+      "blue": 217,
+      "green": 217,
+      "red": 206
+    }
+  ],
+  "recipes": [
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_axe.json",
+      "sha256": "b2a545ecdff20770dc7c372a54aea5cd7e50e70fd9aa658a38095d5ab9abcc1a",
+      "kind": "melting",
+      "name": "Adamantite Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_block.json",
+      "sha256": "00232f4a9d621300da0851ae27ed0362b466c4d0cfa9444618692c0c887e2889",
+      "kind": "melting",
+      "name": "Block of Adamantite",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 648,
+        "smeltTick": 2000
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_boots.json",
+      "sha256": "1b4a0f5f153083f43906c5c24e67aa3a18bb76300245077cab0465caf25deb27",
+      "kind": "melting",
+      "name": "Adamantite Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 16
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_chestplate.json",
+      "sha256": "0661b4af6e9772960e58089f07d3612e6fc85fed2a2182abd35c38ebb2c05f7a",
+      "kind": "melting",
+      "name": "Adamantite Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 16,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_great_sword.json",
+      "sha256": "308bee02a93a9839b2f18a73de87d090ddd1f196d560a41c00e04a4af93e5b5b",
+      "kind": "melting",
+      "name": "Adamantite Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_helmet.json",
+      "sha256": "bef8af1da447ae9835eb02952ca4376b88c0704942ee5b2c49d17458071f3230",
+      "kind": "melting",
+      "name": "Adamantite Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 16,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_hoe.json",
+      "sha256": "72e70af839068af01725e1711557fb140c70524bea365999a02f09a7194a0267",
+      "kind": "melting",
+      "name": "Adamantite Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_ingot.json",
+      "sha256": "6c24d39b744b50c35faa5581f2079e74bbbe6ce25bb6d4acc9178f03bf414c7d",
+      "kind": "melting",
+      "name": "Adamantite Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 72,
+        "smeltTick": 400
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_katana.json",
+      "sha256": "637ca2038e920a25fda1e51f9770265d18617aa42754365af34fefeb06b557de",
+      "kind": "melting",
+      "name": "Adamantite Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_kodachi.json",
+      "sha256": "27964b82784ba94f8b52b463e6aaeb3eca7a1d347dbe7addf257349a036f836f",
+      "kind": "melting",
+      "name": "Adamantite Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_leggings.json",
+      "sha256": "a3522d7f9f81f2c24aed1cfb2c3a0b472b7b57d6387580ec427e0134bf03278c",
+      "kind": "melting",
+      "name": "Adamantite Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 16,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_long_sword.json",
+      "sha256": "19c7d89681e19ffc32aa707bc7629bf5244f6dca301475d43609b6a3efe6576b",
+      "kind": "melting",
+      "name": "Adamantite Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_nugget.json",
+      "sha256": "66eb3a2ec2431a21ad29f06b4399bb00e4ee35dc1b1b63b127786ae7248fb148",
+      "kind": "melting",
+      "name": "Adamantite Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_odachi.json",
+      "sha256": "a292321dbc42564f156037583584006958795f41d24b75e27375ec0b52f1db73",
+      "kind": "melting",
+      "name": "Adamantite Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_pickaxe.json",
+      "sha256": "ebd8029bdaec373c61fb73bbd8db0630c504d148da86dde39e03b63a63dc837a",
+      "kind": "melting",
+      "name": "Adamantite Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_scythe.json",
+      "sha256": "881925a74641553a217ac17d50d2f9b4ba2ee48d6127a813d040e83eb8390b7c",
+      "kind": "melting",
+      "name": "Adamantite Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_short_sword.json",
+      "sha256": "cf2f94606a047655b0ee618d5de217c43f0583f4a831105cc8e7afb4c2db9a5b",
+      "kind": "melting",
+      "name": "Adamantite Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_shovel.json",
+      "sha256": "1dd427ca732bfad9c32d40dc5d005db4fbbe359bdae7b9d2e7922f2288fe3d17",
+      "kind": "melting",
+      "name": "Adamantite Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_sickle.json",
+      "sha256": "83580b0f7603a7f72e89213631e63bea5c1a1ee4926f60c79e5229524e90c271",
+      "kind": "melting",
+      "name": "Adamantite Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_spear.json",
+      "sha256": "1caf9b2eb30bec1273089bb7e7729c267f7d2ac35a2b7e0d632e6717e6dafbe1",
+      "kind": "melting",
+      "name": "Adamantite Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_sword.json",
+      "sha256": "88e301546dc319a5833c21b807f88a2be8641c323b087edae850d7bbfe5989bc",
+      "kind": "melting",
+      "name": "Adamantite Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/adamantite_tachi.json",
+      "sha256": "48c3eab5b300b6b0d39161b06d2e313d273f33929028ecf3df3e61f83653593c",
+      "kind": "melting",
+      "name": "Adamantite Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:adamantite_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/ancient_debris.json",
+      "sha256": "5ff4401837d8b8d7ce4ec068523a9e9d1a068199e3fd4cee390f9d9382fbdfe6",
+      "kind": "melting",
+      "name": "Ancient Debris",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:ancient_debris"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/chiseled_copper_block.json",
+      "sha256": "459eaaab30ac00f466b83a34b756cd05e230597dfab11238d98cedcb7d2c4e78",
+      "kind": "melting",
+      "name": "Chiseled Copper",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:chiseled_copper"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_blocks.json",
+      "sha256": "1b72b56a4977b1267d0a278c2ad5cc00a786ce2b6f9b15f483b1ac7882508707",
+      "kind": "melting",
+      "name": "Copper Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_block"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_bulb.json",
+      "sha256": "ca8f5c0ed96c43bf1ad62cfc8c31d55fe9e09fd449a6f992e42e6940e0086a8c",
+      "kind": "melting",
+      "name": "Copper Bulb",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_bulb"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 60,
+        "smeltTick": 450
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_door.json",
+      "sha256": "11cc1709e5e13b4f478288ad8800887e29373d89693c174e91bd034ce297db9c",
+      "kind": "melting",
+      "name": "Copper Door",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_door"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 54,
+        "smeltTick": 400
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_grate.json",
+      "sha256": "6ae7e6d8f56d9b73d72c77da5ccd481a06c59531306b03b614b676c1d10c2145",
+      "kind": "melting",
+      "name": "Copper Grate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_grate"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_ingots.json",
+      "sha256": "b2e421a6a9767c999d6522856a1a5cdac9272eedcebd7b54b04e9272d891cba9",
+      "kind": "melting",
+      "name": "Copper Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_ingot"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 9
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_ores.json",
+      "sha256": "460b23564e93e3a29d8ef508108b19e8f821b6e98b81b335aadaebd89e68a6b2",
+      "kind": "melting",
+      "name": "#minecraft:copper_ores",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "tag": "minecraft:copper_ores"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 9,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_raw.json",
+      "sha256": "83f842d4fef92f9b9731233aea499637a9d38876e1dd1828f8896bb6af7ab71f",
+      "kind": "melting",
+      "name": "Raw Copper",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_copper"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 9,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_raw_blocks.json",
+      "sha256": "67dcc79a47491a011455b76587b62f1dcf026d84b70b53528609b797dd938090",
+      "kind": "melting",
+      "name": "Raw Copper Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_copper_block"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 81,
+        "smeltTick": 900
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/copper_trapdoor.json",
+      "sha256": "17b04df5abe7e4c91d3a3e636f3199fb30390e5d3b8e76a394e04e9fcc1f0996",
+      "kind": "melting",
+      "name": "Copper Trapdoor",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:copper_trapdoor"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 27,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/cut_copper_block.json",
+      "sha256": "34687dd324821d4140b7832ba12bd7d8fbed441e0a32419bcc3f3215b99075bb",
+      "kind": "melting",
+      "name": "Cut Copper",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:cut_copper"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/cut_copper_slab.json",
+      "sha256": "502539eceff46b4ca9c7e3a8b90c367ad2c8132e4129b702ff8e13fd77c8ab16",
+      "kind": "melting",
+      "name": "Cut Copper Slab",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:cut_copper_slab"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 40,
+        "smeltTick": 300
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/cut_copper_stairs.json",
+      "sha256": "f025f6c2ee1bc82648641288eaea438b76a4831bf1fd1150b094d74b802138f3",
+      "kind": "melting",
+      "name": "Cut Copper Stairs",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:cut_copper_stairs"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 54,
+        "smeltTick": 400
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/deepslate_magic_ore.json",
+      "sha256": "602a0f4633116b2107688ebaad70ac33db42c96fcb10d574f5f3f2bfad4c396a",
+      "kind": "melting",
+      "name": "Deepslate Magic Ore",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:deepslate_magic_ore"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/dragon_knuckle.json",
+      "sha256": "e4d13e9f5b166e77c0374628e560411d7ca2f45e81f069716eaef545a1a034f9",
+      "kind": "melting",
+      "name": "Dragon Knuckle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:dragon_knuckle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 300
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_axe.json",
+      "sha256": "e2100050d7c9ef0a22422692626277e09f5fbfec190f95f8038b7036351394a8",
+      "kind": "melting",
+      "name": "Golden Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_axe"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_blocks.json",
+      "sha256": "c3a2b780eb9719e986b30769ce124577cfc229720bdea87ac1521694b2cb1a36",
+      "kind": "melting",
+      "name": "Gold Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:gold_block"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_boots.json",
+      "sha256": "91623e88282f748c12e76cda06b487e3490901738e1298410538906fd791459f",
+      "kind": "melting",
+      "name": "Golden Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_boots"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_chestplate.json",
+      "sha256": "8e116162d5e4796f18f3d4cde570aeeb8fecd41666fa7519e053591006bc1d0b",
+      "kind": "melting",
+      "name": "Golden Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_chestplate"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 2,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_great_sword.json",
+      "sha256": "1b78f36dc35ddfdea0749cb15664af0382a3360852a94004c150be33eb1653e6",
+      "kind": "melting",
+      "name": "Golden Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_great_sword"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_helmet.json",
+      "sha256": "24e15da68d022fe9b77b99261641678b1b5e343e08ce74eae837341391b0df82",
+      "kind": "melting",
+      "name": "Golden Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_helmet"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 2,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_hoe.json",
+      "sha256": "ff24413527d1dd8ed4a5865e735757588f270fd05357956dcb59d5954c33ee76",
+      "kind": "melting",
+      "name": "Golden Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_hoe"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_ingots.json",
+      "sha256": "6697d615b1a58572780674104fefd7e09fbf54202bbd101c8dcde43a8bba1256",
+      "kind": "melting",
+      "name": "Gold Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:gold_ingot"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 9
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_katana.json",
+      "sha256": "2ffa8bc93473a1d1ac866c764a6da08e0da0d7ef773e6471536223031a37494d",
+      "kind": "melting",
+      "name": "Golden Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_katana"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_kodachi.json",
+      "sha256": "2ec69db753170c960965ebed1245b86ec9f5fd40ab049056e9dbbde81afb6b4a",
+      "kind": "melting",
+      "name": "Golden Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_kodachi"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_leggings.json",
+      "sha256": "ee95defefd7f15a5918e27b9ff84262d3a72ef95685a6979ece3e0ceff7a2bdb",
+      "kind": "melting",
+      "name": "Golden Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_leggings"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 2,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_long_sword.json",
+      "sha256": "b61a6b96d77f201aeb779fa1bc38703dcaac83bfddde12354d94c89619851b13",
+      "kind": "melting",
+      "name": "Golden Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_long_sword"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_nuggets.json",
+      "sha256": "c398c3d1172ec8a42eacef0744e0e55864b4c0166dd05cbf2bfb99e7feb2eebe",
+      "kind": "melting",
+      "name": "Gold Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:gold_nugget"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 20
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_odachi.json",
+      "sha256": "43b6662a49b56e8aa164757bf930b790e98a7fc009feef00dbbb2bcdbc8d508c",
+      "kind": "melting",
+      "name": "Golden Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_odachi"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_ores.json",
+      "sha256": "85dccca7b5e1b811892033ad267e2c0a3ec0dba6ae9fe1b21f37c7d7ae885418",
+      "kind": "melting",
+      "name": "#minecraft:gold_ores",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "tag": "minecraft:gold_ores"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 9,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_pickaxe.json",
+      "sha256": "b1514904e78f1f229b9a8f54335661723e031a2cac3ef6627727280223ee1ecd",
+      "kind": "melting",
+      "name": "Golden Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_pickaxe"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_raw.json",
+      "sha256": "9c024966dff46a61a4ca65cba97d20f89014f205c533931ad07fc7978a590cfa",
+      "kind": "melting",
+      "name": "Raw Gold",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_gold"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 9,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_raw_blocks.json",
+      "sha256": "29bc14295099cd41d74064e2678e14d6996e072ba91964c6a31cfd83f2189c6d",
+      "kind": "melting",
+      "name": "Raw Gold Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_gold_block"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 81,
+        "smeltTick": 900
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_scythe.json",
+      "sha256": "46307d5de6a1434917d4bff82bdd128eee11e167dba93355b50e86e0499c1abd",
+      "kind": "melting",
+      "name": "Golden Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_spear"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_short_sword.json",
+      "sha256": "02a16578c2524ecd18630d1076e8d3754faae2676e72e65845a580907471970a",
+      "kind": "melting",
+      "name": "Golden Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_short_sword"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_shovel.json",
+      "sha256": "a0eb0ec73e06f7efed77f06815d7c5801df7304da77bcde8f30ace3269bd5ac3",
+      "kind": "melting",
+      "name": "Golden Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_shovel"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_sickle.json",
+      "sha256": "6a9242375a247e15df88f71a0ba3797b5c93bc6fcc023f10f68fa84ab12e421f",
+      "kind": "melting",
+      "name": "Golden Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_sickle"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_spear.json",
+      "sha256": "57eb2e6c3c645114d7c81af4b0250f590cb9336235f4962502d4345f53a7e8e0",
+      "kind": "melting",
+      "name": "Golden Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_spear"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_sword.json",
+      "sha256": "2cd0e4bc0223cf53484059d5dde479c54f1d573d904a7d683323bea020d2b057",
+      "kind": "melting",
+      "name": "Golden Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:golden_sword"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/gold_tachi.json",
+      "sha256": "4cfc97404e819094698dd0f91c6b68c84ee428a25136ba1e6fba327704397321",
+      "kind": "melting",
+      "name": "Golden Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:golden_tachi"
+        },
+        "primary": "tensura:gold",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_axe.json",
+      "sha256": "7a617e761ab4aaa183a371c685db90ebcf3a6804ff2888acea59ea4513bc4e2d",
+      "kind": "melting",
+      "name": "High Magisteel Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_block.json",
+      "sha256": "bf139175a53ced1e25c6a1a09bb1bb60a28bfb790d7759492054ecbb5580cfea",
+      "kind": "melting",
+      "name": "Block of High Magisteel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 144,
+        "secondary": "tensura:iron",
+        "secondary_count": 45,
+        "smeltTick": 1250
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_boots.json",
+      "sha256": "18da44f4e8656a1f5d605ab0d564c23cdfc3f89b2ae8d66afc1e9348d53089fa",
+      "kind": "melting",
+      "name": "High Magisteel Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "secondary": "tensura:iron",
+        "secondary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_chestplate.json",
+      "sha256": "4f0b15bbc8e0cfc8b32602cb6214f760c8dc988c81ce1f7e5ec2fe66a88b5ec6",
+      "kind": "melting",
+      "name": "High Magisteel Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_great_sword.json",
+      "sha256": "fa1472121c7d227c0a4625d6c33f7f434d9306e3d5dc422456812cd60a497cca",
+      "kind": "melting",
+      "name": "High Magisteel Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron"
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_helmet.json",
+      "sha256": "e035bd344f636cd74e6bf1247937cae70dcf23c7acd45e21e879d68771438185",
+      "kind": "melting",
+      "name": "High Magisteel Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_hoe.json",
+      "sha256": "ddd52c8465cac5017f567bb61d1bd6801ae3d3e47097dc15361d273c54f1212b",
+      "kind": "melting",
+      "name": "High Magisteel Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_ingot.json",
+      "sha256": "52b38c17b1507de7413002df41df6a785559c7c99cdc7c825c65ba17ec4b38bb",
+      "kind": "melting",
+      "name": "High Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 16,
+        "secondary": "tensura:iron",
+        "secondary_count": 5,
+        "smeltTick": 250
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_katana.json",
+      "sha256": "a2bac30b240dcbbc423a8fdd001860fd7090907d7c8843b8c27928a1bb0e9599",
+      "kind": "melting",
+      "name": "High Magisteel Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_kodachi.json",
+      "sha256": "22f7f11cba04bc4cd6a1a5f2ad96f6bb20c2572cffcacdedfbe58882ccc4519c",
+      "kind": "melting",
+      "name": "High Magisteel Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_leggings.json",
+      "sha256": "9bf6d9a3567f1b68b94cc31905db12a1e456493eb73e31e0ec932111baef9fcc",
+      "kind": "melting",
+      "name": "High Magisteel Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_long_sword.json",
+      "sha256": "ac9b0e622e974d78c72713a28a717417516e3299826ac4205e8b39e11b4ca12b",
+      "kind": "melting",
+      "name": "High Magisteel Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_nugget.json",
+      "sha256": "3b9a3e6f9e0db0a2b6283c60b402d56aa2662ab67890371954fdded72be63944",
+      "kind": "melting",
+      "name": "High Magisteel Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "smeltTick": 40
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_odachi.json",
+      "sha256": "498433b19f873f98435cd252af4735b72ba16dc0caf50f6164ad7e0e1c5bae8e",
+      "kind": "melting",
+      "name": "High Magisteel Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron"
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_pickaxe.json",
+      "sha256": "1ce2dca2108a462d8057e3e434bdad7d2f3def6f04f655d51ea863d90f686df1",
+      "kind": "melting",
+      "name": "High Magisteel Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_scythe.json",
+      "sha256": "98ff13a9d1f50561ba5b0cfb7b0fea4b9a032ef3954a115a75a0dd10cd20750f",
+      "kind": "melting",
+      "name": "High Magisteel Scythe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_scythe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron"
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_short_sword.json",
+      "sha256": "f59d9e62de5eb35c411abfa826ca9e7cc6a6920f62e6e2f06b5f0e007ac6f686",
+      "kind": "melting",
+      "name": "High Magisteel Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_shovel.json",
+      "sha256": "867dd6fcb8c925e9ed8fc943b6a6dded06fbcf31ae11277850a05c850d170738",
+      "kind": "melting",
+      "name": "High Magisteel Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_sickle.json",
+      "sha256": "7aebcce70968f48e3cffa5688d39da9ea5cb62556441fdfe8b50ac0708022c62",
+      "kind": "melting",
+      "name": "High Magisteel Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_spear.json",
+      "sha256": "7f5451958cdd9e863611a4650c4b3dab64ba0eae3fb76c4e6b329dd71c44c979",
+      "kind": "melting",
+      "name": "High Magisteel Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_sword.json",
+      "sha256": "fac78fa64e27136c7f676e63b9dc14c8c8c7a05ddbb6cc9336179aee81f658f2",
+      "kind": "melting",
+      "name": "High Magisteel Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/high_magisteel_tachi.json",
+      "sha256": "7dc2d7000b2a59fc6dfd39486123ce5ad90564660526756a5ff9d0c4a75eacf2",
+      "kind": "melting",
+      "name": "High Magisteel Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:high_magisteel_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "secondary": "tensura:iron",
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_axe.json",
+      "sha256": "8f35eb4c7de1a75793c584140433a1343d2e7efb10c92f1394533565abbd7e97",
+      "kind": "melting",
+      "name": "Hihi'Irokane Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_block.json",
+      "sha256": "f18f022ab38357dcd22de6656c9f9ab43c7c62b9dab76c79bbb4e2f891f7e9cd",
+      "kind": "melting",
+      "name": "Block of Hihi'Irokane",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 972,
+        "smeltTick": 2500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_boots.json",
+      "sha256": "051bc195eea86884290af32441fd7cd7ebb56d718d9e12e00681d3c0acccb4ab",
+      "kind": "melting",
+      "name": "Hihi'Irokane Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 24
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_chestplate.json",
+      "sha256": "a44e440f6dc517d59889bcddd02d8f3c4281c4b4fe19a66076b2a053ae9725b5",
+      "kind": "melting",
+      "name": "Hihi'Irokane Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 24,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_great_sword.json",
+      "sha256": "8aef276b632a2e6653ef6387e2127147133495cb7c23a9ba5aac9dd0b86a062d",
+      "kind": "melting",
+      "name": "Hihi'Irokane Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_helmet.json",
+      "sha256": "e765321675a1e0078575f171ae5cddf95216ae719d58edd5b36f41ecff33717b",
+      "kind": "melting",
+      "name": "Hihi'Irokane Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 24,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_hoe.json",
+      "sha256": "e83a2f27a435322e95df52ffbf0a285f355a04b84d2512d3c24ea32c79425fff",
+      "kind": "melting",
+      "name": "Hihi'Irokane Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_ingot.json",
+      "sha256": "425cc9f6ac1ea0d1b70850905e88eb8106a7e4830a4bd5edbc037b9712b29e72",
+      "kind": "melting",
+      "name": "Hihi'Irokane Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 108,
+        "smeltTick": 500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_katana.json",
+      "sha256": "3fe01958a95bdd94c42f915df0fa32ac70e1a22d0954485d1e28e71f8f79e7ee",
+      "kind": "melting",
+      "name": "Hihi'Irokane Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_kodachi.json",
+      "sha256": "4f964b8ec4c229d2f123eeeb98c8263a2743c7148b6dfe699150c0014267782d",
+      "kind": "melting",
+      "name": "Hihi'Irokane Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_leggings.json",
+      "sha256": "f6fd7f4644af597f5b8ac81d47dcc15d262e9e5f8da63f24f606fed040711979",
+      "kind": "melting",
+      "name": "Hihi'Irokane Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 24,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_long_sword.json",
+      "sha256": "972a024f22e45219a24632a3f1b313942b9e56634edb75b1e6bb4c711506a23d",
+      "kind": "melting",
+      "name": "Hihi'Irokane Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_nugget.json",
+      "sha256": "305cd4bbfac34ed53598d4cd7dc592572bcbaa6ba775d21228406a6aa620da2e",
+      "kind": "melting",
+      "name": "Hihi'Irokane Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 150
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_odachi.json",
+      "sha256": "1c7faa8154e85c9143b78bb2d5686943e1c55557bdffd854df3b968d4996f757",
+      "kind": "melting",
+      "name": "Hihi'Irokane Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_pickaxe.json",
+      "sha256": "f3ce31fe3fee8edfe1de0d2f6402dfcfc466c44748bb7c73e0445bb754bf9577",
+      "kind": "melting",
+      "name": "Hihi'Irokane Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_scythe.json",
+      "sha256": "f67dd4f8db1942d1dc174c7a4bc811c3caf9590d97ecf5d601941405a45e807a",
+      "kind": "melting",
+      "name": "Hihi'Irokane Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_short_sword.json",
+      "sha256": "7389c893e24df41165e7bc517c8fedd95a0d1b7268b6be0bf23c5bfb1b54fb91",
+      "kind": "melting",
+      "name": "Hihi'Irokane Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_shovel.json",
+      "sha256": "f983c076efc5f1d086b0d9e292963264988530e926720e1e52b4043fc7398175",
+      "kind": "melting",
+      "name": "Hihi'Irokane Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_sickle.json",
+      "sha256": "aa567a259b52a2193c0cb15823b0c14a0a930294be9636e5a025e696cf209334",
+      "kind": "melting",
+      "name": "Hihi'Irokane Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_spear.json",
+      "sha256": "46aa7c9d11a33f12d7975b1010a9ac6c4b3d6e3331206f624a0baabcc1723b66",
+      "kind": "melting",
+      "name": "Hihi'Irokane Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_sword.json",
+      "sha256": "fe0d4905a6791d168a130172a1e420158363c1d64ce83d07e7321156b06711f5",
+      "kind": "melting",
+      "name": "Hihi'Irokane Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/hihiirokane_tachi.json",
+      "sha256": "0b569bca2c9df82e56e3103d0c9c3c5f084c9657705b27b300345fb2e32323a3",
+      "kind": "melting",
+      "name": "Hihi'Irokane Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:hihiirokane_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 12,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_axe.json",
+      "sha256": "d313216c9da562413b41a6ce188d281b78ea781ee2f8106cbaee2ecd423fdab8",
+      "kind": "melting",
+      "name": "Iron Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_axe"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_blocks.json",
+      "sha256": "86afe96e8fc5a8a68bb4922b39ec8cb251c0d98b8b4fdee59da00c6b4306822f",
+      "kind": "melting",
+      "name": "Iron Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_block"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_boots.json",
+      "sha256": "3ee7f416804eea23ff580634a411e09bd4cf9b93d6c54a2a7616f0ac7be46a6f",
+      "kind": "melting",
+      "name": "Iron Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_boots"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_chestplate.json",
+      "sha256": "dcf0d50d641d9f6617ed7b5bd2b793c591aa3ac188fa6fe82c2580ddbeb6dd38",
+      "kind": "melting",
+      "name": "Iron Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_chestplate"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 2,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_great_sword.json",
+      "sha256": "8bcea1ebb1eaf65cf871c6c0eda550c9a206be552a6329c62b98148a652d4cfa",
+      "kind": "melting",
+      "name": "Iron Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_great_sword"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_helmet.json",
+      "sha256": "81bea77e3cc4c7e941a70e271806620b5a3cf5648c6d000ae4733a3a8c8c904e",
+      "kind": "melting",
+      "name": "Iron Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_helmet"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 2,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_hoe.json",
+      "sha256": "45465fee7bb54a8c03b26cb78aec8f39d7fb84b858fe1a4a0550af05c99294e0",
+      "kind": "melting",
+      "name": "Iron Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_hoe"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_ingots.json",
+      "sha256": "0e291ddeea812a097277d9450ea55dd14214e971b7a763c288244a0d26c39f21",
+      "kind": "melting",
+      "name": "Iron Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_ingot"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 9
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_katana.json",
+      "sha256": "e91eaeecec5ce0455d006045295bba34927438e197582bd6db862edd92485524",
+      "kind": "melting",
+      "name": "Iron Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_katana"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_kodachi.json",
+      "sha256": "64cd73015c50415702ffd067aae4e6b5f2b3eb9a7e022eded1c07ec593b67e9c",
+      "kind": "melting",
+      "name": "Iron Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_kodachi"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_leggings.json",
+      "sha256": "40c647968824be000309e25b4efb2407aed2edd2f9f256a46e30174fac2e5193",
+      "kind": "melting",
+      "name": "Iron Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_leggings"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 2,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_long_sword.json",
+      "sha256": "e78dd25618757d9dabef51c8620800037ad0a000dccc12f29164bb2d7c1223e0",
+      "kind": "melting",
+      "name": "Iron Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_long_sword"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_nuggets.json",
+      "sha256": "126aecd18d8a3aa4385f0f55ae8c7b10eca876d5e8676060f6b222b388bfb186",
+      "kind": "melting",
+      "name": "Iron Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_nugget"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 20
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_odachi.json",
+      "sha256": "2d766cdc13e3dee25b4e4fecc3cd59d5a8f22938865222eca1c6d1cc3a8ea1c2",
+      "kind": "melting",
+      "name": "Iron Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_odachi"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_ores.json",
+      "sha256": "76cc2b149c5d337c28d76638c53a4f28f27a0d49e07946ac16b96fff116bc7f1",
+      "kind": "melting",
+      "name": "#minecraft:iron_ores",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "tag": "minecraft:iron_ores"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 9,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_pickaxe.json",
+      "sha256": "8467a4fe08c775ff4b24f37dfdfcad25e09732fd45a59a671c5c3e007fd18c3b",
+      "kind": "melting",
+      "name": "Iron Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_pickaxe"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_raw.json",
+      "sha256": "80c5397644a3260af3af48e6e0df37b2dcf41dfb4f11be328e8e9e18cf1ae61a",
+      "kind": "melting",
+      "name": "Raw Iron",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_iron"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 9,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_raw_blocks.json",
+      "sha256": "3483e05875cd6b2220d6dd51a0fd012dfa96c2171162d312dd1fbd819649a8ea",
+      "kind": "melting",
+      "name": "Raw Iron Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:raw_iron_block"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 81,
+        "smeltTick": 900
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_scythe.json",
+      "sha256": "7c7e8bb47c95ab1ea4008a9ec746b8e03dab45c5cb914e0872948728770ebffa",
+      "kind": "melting",
+      "name": "Iron Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_spear"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_short_sword.json",
+      "sha256": "274e4db815ec7a067f476720ffd5474b3681a68cc782270d1d5e477f2bb2a640",
+      "kind": "melting",
+      "name": "Iron Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_short_sword"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_shovel.json",
+      "sha256": "0e97fc347700beaeb0455fed41a65714a62b24e68454376305a0937ef45e0eaa",
+      "kind": "melting",
+      "name": "Iron Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_shovel"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_sickle.json",
+      "sha256": "3fea320a057a69b43dfab7096bd271c44a9b4069de8ae5e51dc74146344d83f8",
+      "kind": "melting",
+      "name": "Iron Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_sickle"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_spear.json",
+      "sha256": "9fcde406625500c875fd18b97418b041a00e2abc853203276cdfeeeae1439444",
+      "kind": "melting",
+      "name": "Iron Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_spear"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_sword.json",
+      "sha256": "38b7927d5c6c9ad4bb003b65e50ca4dd6cade5b340beacde75c2b4988da573fb",
+      "kind": "melting",
+      "name": "Iron Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:iron_sword"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/iron_tachi.json",
+      "sha256": "536a52e8970ba99d895b63b31606aaec0c8d1049c910b6a534a9e458b7c72c71",
+      "kind": "melting",
+      "name": "Iron Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:iron_tachi"
+        },
+        "primary": "tensura:iron",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/kanabo.json",
+      "sha256": "9ddc94568f8bad84db1a586660641c0c58d319873c0e1667139a9ccea0bdd800",
+      "kind": "melting",
+      "name": "Kanabo",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:kanabo"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/lightning_rod.json",
+      "sha256": "15323e660c7fd0f24148ad951eac72a86f1883d5db5d9baa292bb9ea26c3503d",
+      "kind": "melting",
+      "name": "Lightning Rod",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:lightning_rod"
+        },
+        "primary": "tensura:copper",
+        "primary_count": 27,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_axe.json",
+      "sha256": "318c0ee8220a20ee0c71a0469f3bfe5c398d56f842bf1b5706668f8e94a12880",
+      "kind": "melting",
+      "name": "Low Magisteel Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_axe"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_block.json",
+      "sha256": "6e59a85bd49b91e247a05f93bb179616d5d0096ab84610e504ab6df160eed406",
+      "kind": "melting",
+      "name": "Block of Low Magisteel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 36,
+        "secondary": "tensura:iron",
+        "secondary_count": 72,
+        "smeltTick": 1000
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_boots.json",
+      "sha256": "c461a0d69bbd0b3798c100260ac130c66315e7e4be28b71feb056148cdd71265",
+      "kind": "melting",
+      "name": "Low Magisteel Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "secondary": "tensura:iron",
+        "secondary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_chestplate.json",
+      "sha256": "1e3731a432bfe3508a2e6a30c38fc69ab2a1b13d4597bf50c90609f4a62d588f",
+      "kind": "melting",
+      "name": "Low Magisteel Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "secondary": "tensura:iron",
+        "secondary_count": 2,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_great_sword.json",
+      "sha256": "91fda716f2cd51281f4f06fa56da5dfabb7abc79bd2ad877ddbc62b17f6dfb7c",
+      "kind": "melting",
+      "name": "Low Magisteel Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_helmet.json",
+      "sha256": "be4abef260e34539633b09eb092a19ce10fb80993649e7f1b7657aff4310d5ec",
+      "kind": "melting",
+      "name": "Low Magisteel Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "secondary": "tensura:iron",
+        "secondary_count": 2,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_hoe.json",
+      "sha256": "e90c5986492751222c64e994041e51fd47ae64f66936ceb129383b2797fecfe3",
+      "kind": "melting",
+      "name": "Low Magisteel Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_ingot.json",
+      "sha256": "a80f379a71a2d47e79709ffb8995c358426d1eb18beb4e8908077e2bfe9f9969",
+      "kind": "melting",
+      "name": "Low Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "secondary": "tensura:iron",
+        "secondary_count": 8,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_katana.json",
+      "sha256": "3877b7c483321d8058164e1700817efac4551db72f02c1c965ddcc44c104ca84",
+      "kind": "melting",
+      "name": "Low Magisteel Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_katana"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_kodachi.json",
+      "sha256": "753b26c24c511e41b16fed90637636915b33d5deae938ca628ef49ed7c0167c4",
+      "kind": "melting",
+      "name": "Low Magisteel Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_leggings.json",
+      "sha256": "6ca679a5ca90b10db666e3452b38bf04cd7bcd0913560b4b94d65317e29ff442",
+      "kind": "melting",
+      "name": "Low Magisteel Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "secondary": "tensura:iron",
+        "secondary_count": 2,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_long_sword.json",
+      "sha256": "061143cc6798f2c050629b1cef614b9873f0d28f5895382e0700affd8eb1b1c2",
+      "kind": "melting",
+      "name": "Low Magisteel Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_odachi.json",
+      "sha256": "e8e096ebc2a0f1dfb8c078770ff4461a880d3fb48ede04a6c0fab58b05b9cadc",
+      "kind": "melting",
+      "name": "Low Magisteel Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_pickaxe.json",
+      "sha256": "0da6545a914b40afffe553a7f662c35a8880ac688514dd3ff363f21ef22211a7",
+      "kind": "melting",
+      "name": "Low Magisteel Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_scythe.json",
+      "sha256": "7f089572e68544709927ed9acece9b4ea39372d96e0096c4364fb0f3f83d0a43",
+      "kind": "melting",
+      "name": "Low Magisteel Scythe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_scythe"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_short_sword.json",
+      "sha256": "cdfc5dbd0f9952c1e0af707fa214f9f2facbcbf0738b2e1541bdd9ae88cc640d",
+      "kind": "melting",
+      "name": "Low Magisteel Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_shovel.json",
+      "sha256": "221ee8922509fba95814ea252b8f9d291b33e9b6a5e98544d11b9a57cd4db1a1",
+      "kind": "melting",
+      "name": "Low Magisteel Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_sickle.json",
+      "sha256": "540d7f85608f86ad45dc97965bc52a88d933b519b4ed5137a0df75af532cc414",
+      "kind": "melting",
+      "name": "Low Magisteel Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_spear.json",
+      "sha256": "b1c597cb2a55383b105868b2b1b56a1b7d4b3026adbe0f814d9c9ef0ddcf589e",
+      "kind": "melting",
+      "name": "Low Magisteel Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_spear"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_sword.json",
+      "sha256": "129e12d66ddec0718c5ebb365392e50bb5df605444f7915d2506012aa341f86f",
+      "kind": "melting",
+      "name": "Low Magisteel Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_sword"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/low_magisteel_tachi.json",
+      "sha256": "b7c990702991deaee101e883ef6d1e1b256b27967f7f03b54b5de357d8825a49",
+      "kind": "melting",
+      "name": "Low Magisteel Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:low_magisteel_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "secondary": "tensura:iron",
+        "secondary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/magic_ore.json",
+      "sha256": "05d93f201d549da5917cd295614b997dcc36c133d8d35c53fb9b1d7fa74c2a03",
+      "kind": "melting",
+      "name": "Magic Ore",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:magic_ore"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/magic_ore_block.json",
+      "sha256": "e16610ffd087be9e9f86b3a44c03e4fe81af72151f8cf99274ef4ea56f2c13bf",
+      "kind": "melting",
+      "name": "Block of Magic Ore",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:magic_ore_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 9,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/magic_ore_shard.json",
+      "sha256": "8f50f4ee1b4487b91f20dff2f0b51c08963f45fdf34cd238aab1bcd59af96f69",
+      "kind": "melting",
+      "name": "Magic Ore",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:magic_ore_shard"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_axe.json",
+      "sha256": "cd3430abdb6c58482e71be9bb56872824ed16d75ed7a18bc11d9651adbefe7e0",
+      "kind": "melting",
+      "name": "Mithril Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_block.json",
+      "sha256": "ff10cce09527874896b5c115be1c991359cdd9eec86315a647c88b3360f9b62f",
+      "kind": "melting",
+      "name": "Block of Mithril",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 180,
+        "secondary": "tensura:silver",
+        "secondary_count": 36,
+        "smeltTick": 1500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_boots.json",
+      "sha256": "c922ab1aee8689e48829fea72e49a7f2e43b26153ddc1cf2fda3112e5f8ee437",
+      "kind": "melting",
+      "name": "Mithril Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_chestplate.json",
+      "sha256": "9811e195a82f728b51f5dd7a0dce05b2c9ca90fedc800cfc1df8370ffa975fb0",
+      "kind": "melting",
+      "name": "Mithril Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_great_sword.json",
+      "sha256": "2ff38521d4d0ad0c20099d64f794379d11ec865df0288b469adef1c77e603b68",
+      "kind": "melting",
+      "name": "Mithril Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_helmet.json",
+      "sha256": "4ab66f593f231241be958f78c6379127037d46da121fa7f7b0d8bee69730136a",
+      "kind": "melting",
+      "name": "Mithril Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_hoe.json",
+      "sha256": "c7403afddfbbb5e8b0b2e34b9315332eb38a8531e8d1d2a2e908a92d7310d482",
+      "kind": "melting",
+      "name": "Mithril Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_ingot.json",
+      "sha256": "a13c3cf288c63cfbe5b622c33bda7f96f57acce0e0b79e241750155b73782bdf",
+      "kind": "melting",
+      "name": "Mithril Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 20,
+        "secondary": "tensura:silver",
+        "secondary_count": 4,
+        "smeltTick": 300
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_katana.json",
+      "sha256": "96cb55fb0a1533cb9e42d78e414f160fa3b11fdcd2a5ddac0effff0335556c9d",
+      "kind": "melting",
+      "name": "Mithril Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_kodachi.json",
+      "sha256": "2268d13e80ca89113bbfd57f6f4b1a20fafd60503f0b5af9c56755f4ea8a3095",
+      "kind": "melting",
+      "name": "Mithril Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_leggings.json",
+      "sha256": "671217e6a8928c40e2d3095b1d6e40773e329b24aabab92d09b892637c202521",
+      "kind": "melting",
+      "name": "Mithril Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_long_sword.json",
+      "sha256": "f493b3d9ecfa8143736f04e611531e16a2058d702cb3978ddd407df8b6e6c855",
+      "kind": "melting",
+      "name": "Mithril Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_nugget.json",
+      "sha256": "300c135a94a5e0abbf8d81dc60f4294cf7d37cc1578367864d71f84282c427ab",
+      "kind": "melting",
+      "name": "Mithril Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 60
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_odachi.json",
+      "sha256": "6cfea90a3a5d250f8f64ce54a74f6cd24ec5a1be2fd6fbe5d42c2a84d3fc9d6c",
+      "kind": "melting",
+      "name": "Mithril Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_pickaxe.json",
+      "sha256": "00eea76e7eaf2e57cbcb6f826011a6e2429797bd90716b5dc8607ae568055716",
+      "kind": "melting",
+      "name": "Mithril Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_scythe.json",
+      "sha256": "189d60c9c99e33b6c437b790a50685acdd07b6f79b0caf3fe9de24c5c6dee360",
+      "kind": "melting",
+      "name": "Mithril Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_short_sword.json",
+      "sha256": "f8bcd80803db037360b3d9512738c32d3360ada4f6bba478cdfd36b129096650",
+      "kind": "melting",
+      "name": "Mithril Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_shovel.json",
+      "sha256": "e78944ee96d8156733385043628864991d5185e5c1d1beb3fa6f9324b97bdef6",
+      "kind": "melting",
+      "name": "Mithril Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_sickle.json",
+      "sha256": "107a5235e0ffc3d39197efa764f84a387c2f939fa8b3dc33154351ee6a4555c0",
+      "kind": "melting",
+      "name": "Mithril Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_spear.json",
+      "sha256": "b61dbc44e9e25f0ae95ee48f4face547ff62fbf82351a4035393a6c553be267a",
+      "kind": "melting",
+      "name": "Mithril Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_sword.json",
+      "sha256": "f9927f86c4346992c9ebcdcb95b206294905961f37547a5ebaca97f47943960f",
+      "kind": "melting",
+      "name": "Mithril Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/mithril_tachi.json",
+      "sha256": "2525f401c26a6e19247e14e1892b8fe6f6b829fcc68537eccdd87523e77c7698",
+      "kind": "melting",
+      "name": "Mithril Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:mithril_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_axe.json",
+      "sha256": "df28d689edd470734a6d3b4274d3693d5e9e38563b3a4ab14c8f5ddc5a8d658b",
+      "kind": "melting",
+      "name": "Netherite Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_axe"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_block.json",
+      "sha256": "2438a80c8ef81f28e33607e55e14e5e690ae4f10c3ba24772e32a5d8a4504453",
+      "kind": "melting",
+      "name": "Netherite Block",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_block"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 144,
+        "secondary": "tensura:gold",
+        "secondary_count": 324,
+        "smeltTick": 500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_boots.json",
+      "sha256": "2c9bd5785b03400a804d09f62b91202021c7956bc1502b6b793e3f260d90a84d",
+      "kind": "melting",
+      "name": "Netherite Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_boots"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "secondary": "tensura:gold",
+        "secondary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_chestplate.json",
+      "sha256": "e006f5d567a2a38edf4853bccfa5020af129f16e9fd3e89b27b5ac040391ff4b",
+      "kind": "melting",
+      "name": "Netherite Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_chestplate"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "secondary": "tensura:gold",
+        "secondary_count": 8,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_great_sword.json",
+      "sha256": "f98aa078285252ade4d42ba64c5a86323ccb94660a79c08b8faeef1db8c051b8",
+      "kind": "melting",
+      "name": "Netherite Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_great_sword"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_helmet.json",
+      "sha256": "6763d0afe899ff003d1620adf04b76136354add2b57a61701b8b587b46bea2f7",
+      "kind": "melting",
+      "name": "Netherite Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_helmet"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "secondary": "tensura:gold",
+        "secondary_count": 8,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_hoe.json",
+      "sha256": "b1d6739696ce7f482218f6f507b44f872f0b7279ffcec2daaacbc0c8f47df6bf",
+      "kind": "melting",
+      "name": "Netherite Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_hoe"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_ingot.json",
+      "sha256": "a4d6561939e741ffe2292c443902d505d3ecb379d69f7eb871d7ef7180becd13",
+      "kind": "melting",
+      "name": "Netherite Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_ingot"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 16,
+        "secondary": "tensura:gold",
+        "secondary_count": 36
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_katana.json",
+      "sha256": "efa9edcb4a3a7aaca801a35e3d2512c46fe870999c657a7acd848473fb3e8b6f",
+      "kind": "melting",
+      "name": "Netherite Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_katana"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_kodachi.json",
+      "sha256": "f664ca6ecdf10d574049c5cf22be22b96e933438ecdab161b4fe17856566bdf1",
+      "kind": "melting",
+      "name": "Netherite Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_kodachi"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_leggings.json",
+      "sha256": "6d07d76809063ce76cfbf27051f3645ac54d8f433194346e5c6029704e2b3014",
+      "kind": "melting",
+      "name": "Netherite Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_leggings"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "secondary": "tensura:gold",
+        "secondary_count": 8,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_long_sword.json",
+      "sha256": "a9f959b9a85ce6eba7187932bee76ee63b0d470fbb6766a331564d804e89fe30",
+      "kind": "melting",
+      "name": "Netherite Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_long_sword"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_odachi.json",
+      "sha256": "39e7356447cafb1829fd84b2787f6533f7ece082db8555981d840950a0f285c9",
+      "kind": "melting",
+      "name": "Netherite Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_odachi"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_pickaxe.json",
+      "sha256": "c07f6c9b04a8d84deb8eaae5217bc9f1229af174cf36989ed53aa3c661040e4b",
+      "kind": "melting",
+      "name": "Netherite Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_pickaxe"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_scrap.json",
+      "sha256": "a9b71cb0124484d38446740a2a9e3daab462853b275420d6c348e9bcf7a7ed48",
+      "kind": "melting",
+      "name": "Netherite Scrap",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_scrap"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_scythe.json",
+      "sha256": "35d045af9a603cac46365130a105db4e5dd697ceb7212babf6720dc1f0451fe0",
+      "kind": "melting",
+      "name": "Netherite Scythe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_scythe"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_short_sword.json",
+      "sha256": "9a519ba6105f7b27fd1aaf02e3114b0dcceb65527bd68078e343b99f646d4184",
+      "kind": "melting",
+      "name": "Netherite Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_short_sword"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_shovel.json",
+      "sha256": "c7a90c02c95e141ff25290a82369a21c3c5a664c6f59237b6727242538207cce",
+      "kind": "melting",
+      "name": "Netherite Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_shovel"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_sickle.json",
+      "sha256": "0e13f976d5ab994fda3511fcaa69959d71b0d8dce6bd268aaa395a75d31651bf",
+      "kind": "melting",
+      "name": "Netherite Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_sickle"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_spear.json",
+      "sha256": "02d3be27a8e6a267604c22792c77f06fa623c30fb548df7fcb7eb5732aaf3e55",
+      "kind": "melting",
+      "name": "Netherite Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_spear"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_sword.json",
+      "sha256": "8689fc33e19ddc8508aed4db99ef4895ee2f057197b50afb880841038c0016f6",
+      "kind": "melting",
+      "name": "Netherite Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "minecraft:netherite_sword"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/netherite_tachi.json",
+      "sha256": "78f1791fedee4b69052830e1ae52e88f7aac91baa1e2d581b309d895d9df348e",
+      "kind": "melting",
+      "name": "Netherite Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:netherite_tachi"
+        },
+        "primary": "tensura:netherite",
+        "primary_count": 1,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_axe.json",
+      "sha256": "2de4b956d429db9a56e671c161d73e9d1d4323668572514260815c4aeae2b6d8",
+      "kind": "melting",
+      "name": "Orichalcum Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_block.json",
+      "sha256": "34ff110108dc69eb2432053132169e85d0a99198de64167b39214988b3a03202",
+      "kind": "melting",
+      "name": "Block of Orichalcum",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 180,
+        "secondary": "tensura:gold",
+        "secondary_count": 36,
+        "smeltTick": 1500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_boots.json",
+      "sha256": "ae8814be40396a488952d0ffb20652383703380e9009ee0b7296b7b318531d49",
+      "kind": "melting",
+      "name": "Orichalcum Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_chestplate.json",
+      "sha256": "c8c908c7edd69093ae3dbcab28eb27df7640d3cc7c6afeb44b70726713555cba",
+      "kind": "melting",
+      "name": "Orichalcum Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_great_sword.json",
+      "sha256": "ed1eef9e0efdc0af3e7970aa2bf63f0001e608e55561aa3e5444a00d312499d4",
+      "kind": "melting",
+      "name": "Orichalcum Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_helmet.json",
+      "sha256": "536781925182718c171a231e86906ec256a90c80ef8d5c95595bdb0fa4c133a9",
+      "kind": "melting",
+      "name": "Orichalcum Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_hoe.json",
+      "sha256": "2d01079cb93535935cbb9612877309ce646ccaf1d649ccbc06681e578a4904bc",
+      "kind": "melting",
+      "name": "Orichalcum Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_ingot.json",
+      "sha256": "395d40343f282920e01c008f44066e2efddea266a73c2b83aa3cf9944130dc36",
+      "kind": "melting",
+      "name": "Orichalcum Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 20,
+        "secondary": "tensura:gold",
+        "secondary_count": 4,
+        "smeltTick": 300
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_katana.json",
+      "sha256": "b642aaee9ce38008656cfe760d8d67cbafd27566ed90bacbf3bf5270dcb3f82f",
+      "kind": "melting",
+      "name": "Orichalcum Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_kodachi.json",
+      "sha256": "ec600a517428150ac7ee77650f8346255645fbc136cf8121664f58580cbfa029",
+      "kind": "melting",
+      "name": "Orichalcum Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_leggings.json",
+      "sha256": "3bed7af76f42bb51f4cf4ff8155ce9aed17b8f9555cc35557a4aa92f742ace4e",
+      "kind": "melting",
+      "name": "Orichalcum Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_long_sword.json",
+      "sha256": "814c29e2bb2415db1a3cd43dc5789027f1ca857d0c5488c7a075a0404f502fb9",
+      "kind": "melting",
+      "name": "Orichalcum Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_nugget.json",
+      "sha256": "5d1ab1b63dd0f7095c90b7f3df2105919578fbe1628b528c289c8993fff8b4d4",
+      "kind": "melting",
+      "name": "Orichalcum Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 60
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_odachi.json",
+      "sha256": "52c027ef7be140d07bf3368d9963fc75af9eed739f8615bcbd06f9310ba29cff",
+      "kind": "melting",
+      "name": "Orichalcum Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_pickaxe.json",
+      "sha256": "b7eaed48e57f460bf24dc8ab90eaba1ddfdc4f7430a81b2476e6de1706b10979",
+      "kind": "melting",
+      "name": "Orichalcum Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_scythe.json",
+      "sha256": "695dbd06ffe49a3b0a58ee02f86578a5a73d69407eb5337ba3f6492d267155d9",
+      "kind": "melting",
+      "name": "Orichalcum Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_short_sword.json",
+      "sha256": "ed7c8c15533d9ed3e2b39ce62dad580e466f36e06cf2a9c3116e530d882af5db",
+      "kind": "melting",
+      "name": "Orichalcum Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_shovel.json",
+      "sha256": "258ac9f9718717945b3a7bfd85a932d692c468e8eec1d30e499beb72d8af9445",
+      "kind": "melting",
+      "name": "Orichalcum Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_sickle.json",
+      "sha256": "3bcda799f68b8b72764dbc213d8b5e209e4f23a9f5649ee33ff3861190b2d1d4",
+      "kind": "melting",
+      "name": "Orichalcum Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_spear.json",
+      "sha256": "4fb541a7a091fdce00eb3cd40bb2d4bf1cdb81923759b381486f754703130faf",
+      "kind": "melting",
+      "name": "Orichalcum Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_sword.json",
+      "sha256": "8e789329dab2325a4028f812453630dcd45bd1f6c7255ffba6cff565d306d485",
+      "kind": "melting",
+      "name": "Orichalcum Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/orichalcum_tachi.json",
+      "sha256": "260d299cc3398c5fbe0a92d7870d19f00ba5552afe2aa8bff3d21fadafd619f2",
+      "kind": "melting",
+      "name": "Orichalcum Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:orichalcum_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 2,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_axe.json",
+      "sha256": "df7f4cb8d4714e5f196aadd383d71fee5dfe87cad1972ab8342ce7ab53caa109",
+      "kind": "melting",
+      "name": "Pure Magisteel Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_axe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_block.json",
+      "sha256": "6aa1f110c03b99ae6de46c9dafcf5976a092602b7ff550e93bb480c1111bd5f6",
+      "kind": "melting",
+      "name": "Block of Pure Magisteel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_block"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 324,
+        "smeltTick": 1500
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_boots.json",
+      "sha256": "be1158c684e25e2dbe0637a9d3985c596655ca266a558a07e9e44fc3b1771dcc",
+      "kind": "melting",
+      "name": "Pure Magisteel Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_boots"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_chestplate.json",
+      "sha256": "433683949e771064bf298abfe92de7c22b6ca962375dc9c3674d32e810dd2690",
+      "kind": "melting",
+      "name": "Pure Magisteel Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_chestplate"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_great_sword.json",
+      "sha256": "5b859ee4db672d2c88fbd350ab0de70f53481c064420f72d36edda6cdb4d2708",
+      "kind": "melting",
+      "name": "Pure Magisteel Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_great_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_helmet.json",
+      "sha256": "05ad4f6dfceed0cf0e20be0ac4371354759d012f1be524555d39f76be743320e",
+      "kind": "melting",
+      "name": "Pure Magisteel Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_helmet"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_hoe.json",
+      "sha256": "3899eb7790d542f2714590f1ef9f0668f7c103dfefecc3abdd0fd58d182d6e2a",
+      "kind": "melting",
+      "name": "Pure Magisteel Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_hoe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_ingot.json",
+      "sha256": "867580d26ad37c5f6928eb115216320ef5006fbd6cfc3f740ddc2d2817ce5e62",
+      "kind": "melting",
+      "name": "Pure Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_ingot"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 36,
+        "smeltTick": 300
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_katana.json",
+      "sha256": "ef45f5c01382a071d57e4a341e69da063170fdaa01187ce710c7f98c7a787128",
+      "kind": "melting",
+      "name": "Pure Magisteel Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_katana"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_kodachi.json",
+      "sha256": "f2ab4df5c25ad07939ec7c1ecf9b39a1ed9e2ccf8645c3c590d6a0ccb0dc1e2f",
+      "kind": "melting",
+      "name": "Pure Magisteel Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_kodachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_kunai.json",
+      "sha256": "aae0e4264eb4e37992f8c20258ab789ecd8e5dae08e358f01862c61bac8e31df",
+      "kind": "melting",
+      "name": "Pure Magisteel Kunai",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_kunai"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_leggings.json",
+      "sha256": "5484d444ea52849bfef73633b5154d8431c647ee6abdc8da800d9b74eca354f1",
+      "kind": "melting",
+      "name": "Pure Magisteel Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_leggings"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 8,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_long_sword.json",
+      "sha256": "254858f46dcfd63ef1ae2d830b177b7f9b08a5996a0ea7729f72c6be80124d35",
+      "kind": "melting",
+      "name": "Pure Magisteel Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_long_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_nugget.json",
+      "sha256": "65562196e7b9536c65b0c2d5b4e8693e4f5b8d13adccbfdec9c6f10c66e811dd",
+      "kind": "melting",
+      "name": "Pure Magisteel Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_nugget"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 60
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_odachi.json",
+      "sha256": "5e79be7d4c926bdecdc0b4449aac97a4d242e5e8cfc40b00f4f65c8d301f15ed",
+      "kind": "melting",
+      "name": "Pure Magisteel Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_odachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_pickaxe.json",
+      "sha256": "ddecf538db9f30adecf44076d1b0aaee4d16e8d64fa648dcb7fe4b8da8b07ef6",
+      "kind": "melting",
+      "name": "Pure Magisteel Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_pickaxe"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_scythe.json",
+      "sha256": "4f2f01d00e18d56ceb0ac9cca09d5dbd574de41bcc8cd21217ba1bcffaeeede3",
+      "kind": "melting",
+      "name": "Pure Magisteel Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_short_sword.json",
+      "sha256": "ebc8afc9d40fc1c1ff92cf2328d7bd0fcf3e7e42bf901c00b19870425121e7a7",
+      "kind": "melting",
+      "name": "Pure Magisteel Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_short_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_shovel.json",
+      "sha256": "bdf7cf391e917fec391d20de39e5bd9152cd332dbb72987065b2aec72b1ef514",
+      "kind": "melting",
+      "name": "Pure Magisteel Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_shovel"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_sickle.json",
+      "sha256": "0f79d7572d9444ea8ecf39002be2273be3b815b9792efd6fa0a5649971601d06",
+      "kind": "melting",
+      "name": "Pure Magisteel Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_sickle"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_spear.json",
+      "sha256": "5539985bc49b0266e2e49427e6d33c78a0449d52d113c38ecb0b18b8c67fa7a9",
+      "kind": "melting",
+      "name": "Pure Magisteel Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_spear"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_sword.json",
+      "sha256": "fe63eb58c376f6ba6846dc359c664f55fd55551543819762a593022398a6eeab",
+      "kind": "melting",
+      "name": "Pure Magisteel Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_sword"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/pure_magisteel_tachi.json",
+      "sha256": "1710ca3cbc87102832ec3eac2d99495348d7c6febc1834fd87d0b180999eb939",
+      "kind": "melting",
+      "name": "Pure Magisteel Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:pure_magisteel_tachi"
+        },
+        "primary": "tensura:magisteel",
+        "primary_count": 4,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_axe.json",
+      "sha256": "b12f392fc71d4943bfa37220cb9456deedc8348fdafa023d43be61afbf110d56",
+      "kind": "melting",
+      "name": "Silver Axe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_axe"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_blocks.json",
+      "sha256": "3efa73f952b8f347d3efad13a950eeccbedec37cb77cb18e6e64471f46b1c4d4",
+      "kind": "melting",
+      "name": "Block of Silver",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_block"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 81,
+        "smeltTick": 600
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_boots.json",
+      "sha256": "26a1bf78c38d7f4491eb248210c39514b545b41f1353a5cb2e558cf37284818d",
+      "kind": "melting",
+      "name": "Silver Boots",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_boots"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 2
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_chestplate.json",
+      "sha256": "7732eadabdf8aa57ec2ee2516abca5f936b11ec7041ad84a66e723661d704dfa",
+      "kind": "melting",
+      "name": "Silver Chestplate",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_chestplate"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 2,
+        "smeltTick": 225
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_great_sword.json",
+      "sha256": "544a65e2ac4f6da1cb3d73b88120916ea37672cb6fabcb36125dbc93417cb774",
+      "kind": "melting",
+      "name": "Silver Great Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_great_sword"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_helmet.json",
+      "sha256": "5b68a9374c05b2908a41f62a2130a7570e85bca05f055d47d35cdcc33ee1fa79",
+      "kind": "melting",
+      "name": "Silver Helmet",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_helmet"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 2,
+        "smeltTick": 125
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_hoe.json",
+      "sha256": "ec60795d7d26fa4aaa0682a02ef8523d54bc49ebc72cbd1df400dfdec72d5dd8",
+      "kind": "melting",
+      "name": "Silver Hoe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_hoe"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_ingots.json",
+      "sha256": "55168a106d9abd9e4faf9811bbbd6ad94e0f2713f28ecc18ea80c0cd5f0127a9",
+      "kind": "melting",
+      "name": "Silver Ingot",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_ingot"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 9
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_katana.json",
+      "sha256": "45855923440938a3c0f17598c0a389474b13de4b05a4753591a274c272537134",
+      "kind": "melting",
+      "name": "Silver Katana",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_katana"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_kodachi.json",
+      "sha256": "9540d195d273a57c239cdc48fa7e748b30c487f8f93a5e28f81146b89ee0db14",
+      "kind": "melting",
+      "name": "Silver Kodachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_kodachi"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_leggings.json",
+      "sha256": "8f15ddcc9396178fcabc256369da14edbbbd1205a845594b10313bbd402621c3",
+      "kind": "melting",
+      "name": "Silver Leggings",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_leggings"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 2,
+        "smeltTick": 175
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_long_sword.json",
+      "sha256": "15496e905748df3600d737e3edc9002ed0792e3f9cfb067e360477f100bd521c",
+      "kind": "melting",
+      "name": "Silver Long Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_long_sword"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_nuggets.json",
+      "sha256": "cc699a95560b6688a2c5dd20f675d2c1ec1ad0e7d88113b008a6469b3b30826b",
+      "kind": "melting",
+      "name": "Silver Nugget",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_nugget"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 20
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_odachi.json",
+      "sha256": "81df6b20ab2f8f0e9fcaa693fac6057e00681dd9b9e2b487f67348dcc7409c7c",
+      "kind": "melting",
+      "name": "Silver Odachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_odachi"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_ores.json",
+      "sha256": "cd4cf504176595fe9babbeebf402578485becf39f253416676db998de26f9866",
+      "kind": "melting",
+      "name": "#tensura:silver_ores",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "tag": "tensura:silver_ores"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 9,
+        "smeltTick": 200
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_pickaxe.json",
+      "sha256": "77b2628e2dc4e663980ceaa8921685ed76e5e09a15fef47c2be03e89cd6cb644",
+      "kind": "melting",
+      "name": "Silver Pickaxe",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_pickaxe"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_raw.json",
+      "sha256": "27de47e73929f2c985e05992a33a6a5d69361799f95dff4bf850d041915e3d06",
+      "kind": "melting",
+      "name": "Raw Silver",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:raw_silver"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 9,
+        "smeltTick": 120
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_raw_blocks.json",
+      "sha256": "cc56037fa66ee12280c06cba4a2b6a424fe490da3e282593e3fd4bb9dfce64b3",
+      "kind": "melting",
+      "name": "Block of Raw Silver",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:raw_silver_block"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 81,
+        "smeltTick": 900
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_scythe.json",
+      "sha256": "995ffb541b34ac3a7b9d05792d7865f5f59b344a57313a0639e67f6acc35658a",
+      "kind": "melting",
+      "name": "Silver Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_spear"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_short_sword.json",
+      "sha256": "dadc90f4e0c2e64478573903e72b4ee3961525265a5b3ae9616bf48335211bfb",
+      "kind": "melting",
+      "name": "Silver Short Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_short_sword"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_shovel.json",
+      "sha256": "09a4e81e295c79de8e7e19f792d099e0c91f0a6d0e09a32ce26cb7dd708ffece",
+      "kind": "melting",
+      "name": "Silver Shovel",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_shovel"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_sickle.json",
+      "sha256": "6441e94da84390e17c98074e81b1e9852f0c5fbf5b2c23af80b02561b2db51f9",
+      "kind": "melting",
+      "name": "Silver Sickle",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_sickle"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_spear.json",
+      "sha256": "5153fcf1ee759d4e4b025542ec96acc79f735216576d9eab4f8b0a7cb477a04d",
+      "kind": "melting",
+      "name": "Silver Spear",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_spear"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_sword.json",
+      "sha256": "258ff045ecf4d276d2ee0058d6aba503788d219ed9f78a40d106aab5aa1435fb",
+      "kind": "melting",
+      "name": "Silver Sword",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_sword"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 50
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/melting/silver_tachi.json",
+      "sha256": "ce2edcc07e5507df9dda784d798a92ffe233049bd47e267707abb358a9a33d06",
+      "kind": "melting",
+      "name": "Silver Tachi",
+      "definition": {
+        "type": "tensura:kiln_melting",
+        "input": {
+          "item": "tensura:silver_tachi"
+        },
+        "primary": "tensura:silver",
+        "primary_count": 1,
+        "smeltTick": 75
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/high_magisteel_block.json",
+      "sha256": "de952200c85da12203b1433b8e76ad7d1fdb9d2d6b4e8220fb16b6c59d01e701",
+      "kind": "mixing",
+      "name": "Block of High Magisteel",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:iron",
+        "left_count": 45,
+        "output": {
+          "count": 1,
+          "id": "tensura:high_magisteel_block"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 144
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/high_magisteel_ingot.json",
+      "sha256": "0c4f3be4aba6b47fe7c36cf57c406887fa33025cce6e4cf6cb44d75336658b7e",
+      "kind": "mixing",
+      "name": "High Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:iron",
+        "left_count": 5,
+        "output": {
+          "count": 1,
+          "id": "tensura:high_magisteel_ingot"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 16
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/low_magisteel_block.json",
+      "sha256": "42c43a729815ba3070b8bb5bc104ab4bed63bcbd952df5c653b2b3f94f676454",
+      "kind": "mixing",
+      "name": "Block of Low Magisteel",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:iron",
+        "left_count": 72,
+        "output": {
+          "count": 1,
+          "id": "tensura:low_magisteel_block"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 36
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/low_magisteel_ingot.json",
+      "sha256": "fa809c69af32fc2940b84fdae97310a07a507b497bdccc25cd1d7d9bd7668e9d",
+      "kind": "mixing",
+      "name": "Low Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:iron",
+        "left_count": 8,
+        "output": {
+          "count": 1,
+          "id": "tensura:low_magisteel_ingot"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/mithril_block.json",
+      "sha256": "58e03e3590016bfbf3bd75777d64208781b8120306b7d451ed7982bb47aabea4",
+      "kind": "mixing",
+      "name": "Block of Mithril",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:silver",
+        "left_count": 36,
+        "output": {
+          "count": 1,
+          "id": "tensura:mithril_block"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 180
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/mithril_ingot.json",
+      "sha256": "28784a2af2e22e4820a04e8f6ad801d9a0793a98e6789adc179bf407189d451b",
+      "kind": "mixing",
+      "name": "Mithril Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:silver",
+        "left_count": 4,
+        "output": {
+          "count": 1,
+          "id": "tensura:mithril_ingot"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 20
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/orichalcum_block.json",
+      "sha256": "5d8c2212942907322bc0c35eb1e2948f9686a247d0ef0d859240779d40a1b812",
+      "kind": "mixing",
+      "name": "Block of Orichalcum",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:gold",
+        "left_count": 36,
+        "output": {
+          "count": 1,
+          "id": "tensura:orichalcum_block"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 180
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/orichalcum_ingot.json",
+      "sha256": "d4a5c60c420c32f61e52215303e09fc74283f497be697273fb033e324b1e06b4",
+      "kind": "mixing",
+      "name": "Orichalcum Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:gold",
+        "left_count": 4,
+        "output": {
+          "count": 1,
+          "id": "tensura:orichalcum_ingot"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 20
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/pure_magisteel_block.json",
+      "sha256": "fe45098c03bd5c2def664cd4432d267bda11239ffc01d148e55fc0c67e04981b",
+      "kind": "mixing",
+      "name": "Block of Pure Magisteel",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "output": {
+          "count": 1,
+          "id": "tensura:pure_magisteel_block"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 324
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/pure_magisteel_ingot.json",
+      "sha256": "8b7236d5b09470505cf32f7830a928ce3e744e2501ebc4d0b3781d2b6e376b77",
+      "kind": "mixing",
+      "name": "Pure Magisteel Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "output": {
+          "count": 1,
+          "id": "tensura:pure_magisteel_ingot"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 36
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/pure_magisteel_nugget.json",
+      "sha256": "ef330779444533518f11f16a04412582b3a15d32383df26d3c9557cd78465697",
+      "kind": "mixing",
+      "name": "Pure Magisteel Nugget",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "output": {
+          "count": 1,
+          "id": "tensura:pure_magisteel_nugget"
+        },
+        "right": "tensura:magisteel",
+        "right_count": 4
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/silver_block.json",
+      "sha256": "d4932f683273ff05e69b8353f7be9a30ad24110caeabc5bdf39b8213535b7593",
+      "kind": "mixing",
+      "name": "Block of Silver",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:silver",
+        "left_count": 81,
+        "output": {
+          "count": 1,
+          "id": "tensura:silver_block"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/silver_ingot.json",
+      "sha256": "70bdc729f66a4ff79d3c1912864c6ef2fe3a8f633f51d0f1b8b148f991060f7f",
+      "kind": "mixing",
+      "name": "Silver Ingot",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:silver",
+        "left_count": 9,
+        "output": {
+          "count": 1,
+          "id": "tensura:silver_ingot"
+        }
+      }
+    },
+    {
+      "resource": "data/tensura/recipe/mixing/silver_nugget.json",
+      "sha256": "621cb9df2b30dc6241cf9013238ebf5b91be73c1328e12152ddd7451cbd192f9",
+      "kind": "mixing",
+      "name": "Silver Nugget",
+      "definition": {
+        "type": "tensura:kiln_mixing",
+        "left": "tensura:silver",
+        "left_count": 1,
+        "output": {
+          "count": 1,
+          "id": "tensura:silver_nugget"
+        }
+      }
+    }
+  ]
+}

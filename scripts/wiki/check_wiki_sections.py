@@ -384,6 +384,28 @@ for recipe in smithing_data['recipes']:
     assert recipe['resource'].startswith('data/tensura/recipe/smithing/') and len(recipe['sha256']) == 64, 'Smithing resource provenance missing'
 starter_text = (ROOT / 'docs/tensura-reference/core-mechanics/getting-started.md').read_text(encoding='utf-8')
 assert '2 iron, 3 paper' not in starter_text and '2 paper, a crafting table, a smithing table, and 2 planks' in starter_text, 'Outdated beginner bench recipe'
+from kiln_reference import manifest as kiln_manifest, molten_outputs
+kiln_data = kiln_manifest()
+assert kiln_data['recipe_counts'] == {'melting': 272, 'mixing': 14}, 'Kiln recipe coverage changed'
+assert len(kiln_data['recipes']) == len({r['resource'] for r in kiln_data['recipes']}) == 286, 'Duplicate or missing Kiln recipe'
+assert [t['capacity_per_bar'] for t in kiln_data['tiers']] == [144, 288, 576], 'Kiln tier capacity changed'
+kiln_config = tomllib.loads((ROOT / 'pack/config/tensura/block_config.toml').read_text(encoding='utf-8'))['Kiln']
+assert [kiln_config[k] for k in ('moltenDefault', 'moltenMithril', 'moltenOrichalcum')] == [t['capacity_per_bar'] for t in kiln_data['tiers']], 'Stale recorded Kiln capacity'
+assert kiln_config['fireCoreCost'] == 100 and kiln_config['chargeDuration'] == 2400, 'Kiln boost guide needs config review'
+assert sum(r['kind'] == 'melting' and r['definition'].get('primary_count', 0) == 0 for r in kiln_data['recipes']) == 15, 'Zero-default recycling coverage changed'
+assert all(len(r['sha256']) == 64 for r in kiln_data['recipes']), 'Kiln resource checksums missing'
+kiln_rendered = BeautifulSoup((site / 'tensura-reference/blocks/blocks-kiln/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(kiln_rendered.select('[data-kiln-kind="melting"]')) == 272 and len(kiln_rendered.select('[data-kiln-kind="mixing"]')) == 14, 'Rendered Kiln recipe coverage changed'
+assert len(kiln_rendered.select('.kiln-tier-grid > article')) == 3, 'Kiln tier panels missing'
+assert len(kiln_rendered.select('.kiln-tier-grid td')) == 27, 'Kiln crafting patterns missing'
+assert kiln_rendered.select_one('[data-smithing-search]') and kiln_rendered.select_one('[data-smithing-clear]'), 'Kiln recipe search controls missing'
+for fact in ('per molten bar', 'diamond-tier', 'light level 13', '100 remaining durability', '2,400 ticks', 'does not replace fuel', '0 units', 'live processing untested'):
+    assert fact in kiln_rendered.get_text(' ', strip=True), f'Kiln behavior or scope missing: {fact}'
+alloy_table = next(table for table in kiln_rendered.select('table') if [th.get_text(strip=True) for th in table.select('th')] == ['Output', 'Left bar units', 'Right bar units', 'Minimum capacity tier'])
+alloy_rows = alloy_table.select('tbody tr')
+assert len(alloy_rows) == 14, 'Kiln alloy comparison missing rows'
+pure_block = next(r for r in alloy_rows if 'Block of Pure Magisteel' in r.get_text())
+assert '324 Magisteel' in pure_block.get_text() and 'Orichalcum Kiln' in pure_block.get_text(), 'Pure Magisteel block capacity gate is wrong'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

@@ -479,6 +479,7 @@
     browser.dataset.smithingReady = "true";
     let searching = false;
     const originalOpen = new Map();
+    const groupLabel = browser.dataset.groupLabel || "schematic group";
     const update = () => {
       const query = normalize(input.value);
       if (query && !searching) groups.forEach((group) => originalOpen.set(group, group.open));
@@ -493,7 +494,7 @@
         else if (searching) group.open = originalOpen.get(group) || false;
       });
       searching = !!query;
-      status.textContent = query ? `Showing ${count} of ${recipes.length} packaged recipes` : `${recipes.length} packaged recipes · expand a schematic group below`;
+      status.textContent = query ? `Showing ${count} of ${recipes.length} packaged recipes` : `${recipes.length} packaged recipes · expand a ${groupLabel} below`;
       empty.hidden = count !== 0;
     };
     input.addEventListener("input", update);
