@@ -1600,6 +1600,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
     apply_block_references(records)
     from underworld_biome_reference import apply as apply_underworld_biomes
     apply_underworld_biomes(records)
+    from charybdis_cave_reference import apply as apply_charybdis_cave
+    apply_charybdis_cave(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:

@@ -1,99 +1,83 @@
 ---
 title: Charybdis Cave
-description: A rare structure able to spawn in many biomes across the overworld. Inside the structure is a Charybdis Core. See the relevant article regarding its use in summoning Charybdis
-tags:
-- Work_in_Progress
+description: Find the four cave variants, inspect the core phase, and prepare for a deliberate Charybdis encounter.
 ---
 
 # Charybdis Cave
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Structures</span>
+<section data-reference-section="structures" class="reference-overview reference-theme-world staff-guide-hero smithing-guide-hero">
+<figure class="reference-overview-media"><img src="../../../assets/images/structures/charybdis-cave.webp" alt="Original moss-covered underground core chamber illustration" loading="eager" decoding="async"><figcaption>TSR environment illustration · not a structure map</figcaption></figure>
+<div class="reference-overview-copy"><p class="reference-eyebrow">Exploration · Minecraft 1.21.1</p><h2>Find the chamber. Check the core before you use it.</h2><p>Four packaged cave variants share a room pool. This is a place to find a boss core, not proof that Charybdis is already roaming inside.</p><nav class="reference-quick-jumps" aria-label="Cave guide"><a href="#where-to-look">Where to look</a><a href="#inside-the-cave">Inside the cave</a><a href="#prepare-before-activation">Prepare first</a></nav></div></section>
 
-<section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="Charybdis Cave source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Charybdis_cave.png">Charybdis cave.png · CC BY-SA 4.0</a></figcaption>
-</figure>
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>A rare structure able to spawn in many biomes across the overworld.</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
-</section>
+!!! warning "A room can contain an already-active core"
+    The packaged `charybdis_room_2` template contains an **ACTIVE core with 100,000 stored EP**. Do not assume every discovered core needs charging. Non-sneaking empty-hand use of an active core starts the primed encounter, including a **200-tick fuse and strength-10 explosion**. Read the [activation guide](../blocks/blocks-charybdis-core.md#activate-the-encounter) before interacting.
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://tensura.wiki.gg/wiki/File:WIP2.png"><img alt="Work In Progress" data-file-height="512" data-file-width="512" decoding="async" height="110" loading="lazy" src="../../../assets/upstream/tensura/items/wip2-56493556c2.png" width="110"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="external text" href="https://tensurareincarnated.wiki.gg/wiki/Structures/Charybdis_Cave?action=edit">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
-<div class="druid-infobox druid-container" id="druid-container-1"><div><div class="druid-title">Charybdis Cave</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_cave.png"><img alt="Charybdis cave.png" data-file-height="1024" data-file-width="1024" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" width="512"/></a></div></div><div class="druid-section-container"><div class="druid-row druid-row-biomes" data-druid-section-row="main"><div class="druid-label druid-label-biomes">Biomes</div><div class="druid-data druid-data-biomes druid-data-nonempty">
-Plains, Snowy Plains, Sunflower Plains, Meadow, Desert, Badlands, Forests, Jungles, Taigas, Savannahs</div></div><div class="druid-row druid-row-mobs" data-druid-section-row="main"><div class="druid-label druid-label-mobs">Mobs</div><div class="druid-data druid-data-mobs druid-data-nonempty">
-<a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a>* Summoned through core</div></div></div></div>
-<p>A rare structure able to spawn in many biomes across the overworld.
-</p><p>Inside the structure is a <img alt="Charybdis Core illustration" decoding="async" height="30" loading="lazy" src="../../../assets/images/blocks/charybdis-core.webp" width="30"/> <a href="../../blocks/blocks-charybdis-core/" title="Blocks/Charybdis Core">Charybdis Core</a>. See the relevant article regarding its use in summoning <a href="../../bosses/mobs-charybdis/" title="Mobs/Charybdis">Charybdis</a>
-</p>
-<div class="thumb tright"><div class="thumbinner"><a class="image" href="https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png"><img class="thumbimage" data-file-height="1024" data-file-width="1024" decoding="async" height="320" loading="lazy" src="../../../assets/upstream/tensura/structures/charybdis-cave-charybdis-room-69e7dd7671.png" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png" title="Enlarge"></a></div>Charbdis Core room</div></div></div>
+!!! note "Resources checked · live generation untested"
+    Structure definitions, placement, biome tags, template pools, and all 25 packaged cave templates were inspected in Tensura 2.0.1.2. Actual server locations, room assembly, discovery rates, merchant map offers, and encounters remain untested.
 
+## Where to look
 
+The structure set uses **random-spread placement**, **90-chunk spacing**, and **20-chunk separation**, with equal selection weights of **1** for its four variants. These are placement settings, not a guarantee of one cave every 90 chunks, a distance from spawn, or a 25% discovery chance in each biome.
 
-</div>
-</div>
+| Variant | Packaged biome eligibility |
+|---|---|
+| Plains | Biomes in the Plains, Savanna, and Taiga village tags; Ancient Forest |
+| Desert | Biomes in the Desert village tag; Barren Land; Desert of Death |
+| Ice | Biomes in Tensura’s cold tag; see its exact contents below |
+| Mesa | Biomes in Minecraft’s Badlands tag |
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Structures</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../structures-big-ruins/">
-<img src="../../../assets/upstream/tensura/items/wip6-89383a8117.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Big Ruins</strong>
-<small>Common structure that spawns in the hell dimension, can have buried treasures and | Suspicious Sand nearby</small>
-</span>
-</a>
-<a class="reference-related-card" href="../structures-dwarf-village/">
-<img src="../../../assets/upstream/tensura/armor/wip10-852de5f8af.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Dwarf Village</strong>
-<small>Training Ground = Battlewill Master</small>
-</span>
-</a>
-<a class="reference-related-card" href="../structures-ant-nest/">
-<img src="../../../assets/upstream/tensura/structures/ant-nest-0412846ab7.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Ant Nest</strong>
-<small>Upstream reference information for Ant Nest.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../structures-goblin-village/">
-<img src="../../../assets/upstream/tensura/structures/small-goblin-village-35ad99e6a5.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Goblin Village</strong>
-<small>Inside the chief house there is a chest, in which the Short Sword Schematic can be found with a 25% chance.</small>
-</span>
-</a>
-</div>
-</section>
+??? info "Exact biome IDs and entrance pools"
 
----
+    - Plains: `#minecraft:has_structure/village_plains`, `#minecraft:has_structure/village_savanna`, `#minecraft:has_structure/village_taiga`, and `tensura:ancient_forest`; pool `tensura:charybdis_cave/start`.
+    - Desert: `#minecraft:has_structure/village_desert`, `tensura:barren_land`, and `tensura:desert_of_death`; pool `tensura:charybdis_cave/start_desert`.
+    - Ice: `#tensura:is_cold`; pool `tensura:charybdis_cave/start_ice`.
+    - Mesa: `#minecraft:is_badlands`; pool `tensura:charybdis_cave/start_mesa`.
+
+??? info "What the cold tag actually contains"
+
+    The packaged `tensura:is_cold` tag includes `#minecraft:has_structure/village_snowy`, `minecraft:ice_spikes`, and an optional biome ID `c:is_cold` with `required: false`. That optional entry is a biome ID in this definition, not a `#c:is_cold` tag expansion. Datapack additions can alter the resolved eligibility; this is not a claim that every cold biome qualifies.
+
+Each variant is a Jigsaw structure projected to `WORLD_SURFACE_WG` with start height absolute 0. The heightmap projection means this is **not a fixed Y=0 location instruction**. The recorded size parameter is 7; it is not a guaranteed room count. The plains variant has max distance from center 116; the other three use 80. Existing terrain, world borders, server overrides, and failed assembly can affect discovery.
+
+## Inside the cave
+
+The four entrance pools each select their matching entrance template. The shared stairs pool has four entries with weight 1 each; the shared rooms pool has 17 entries with weight 5 each. This does not establish that a themed entrance uses only rooms of its own theme, or that every assembled cave contains every listed room.
+
+<div class="tensura-reference-article"><div class="chilled-crafting-grid"><article class="smithing-recipe"><p class="reference-eyebrow">Template evidence</p><h3>Inspect the phase</h3><p>Core-bearing room templates contain inactive, zero-EP cores except charybdis_room_2, which stores an active 100,000-EP core. The entrance and stair templates contain no core blocks in the checked summaries.</p><a href="../../blocks/blocks-charybdis-core/">Core phases &amp; interactions →</a></article><article class="smithing-recipe"><p class="reference-eyebrow">Spawn distinction</p><h3>Finding is not summoning</h3><p>The structure definitions have an empty monster spawn override within the full bounding box. The checked templates have zero embedded entities. Neither establishes a universal no-mob safety guarantee; Charybdis is attempted through core activation.</p><a href="../../bosses/mobs-charybdis/">Charybdis reference →</a></article><article class="smithing-recipe"><p class="reference-eyebrow">Explorer-map scope</p><h3>A target tag, not an offer</h3><p>The on_charybdis_explorer_maps tag lists all four structure IDs. A target tag alone does not prove a merchant sells a map, its price, or that an offer is available on the current server.</p></article></div></div>
+
+## Prepare before activation
+
+<ol class="hipokute-growth"><li><strong>Inspect before using.</strong><span>Check the phase and stored EP. Do not activate simply to identify the block; an active core enters the summoning branch.</span></li><li><strong>Recover deliberately.</strong><span>Sneak-use follows the pickup branch before phase actions. Keep inventory space free; the checked method does not handle a failed insertion with a fallback drop.</span></li><li><strong>Choose an encounter site.</strong><span>Move away from homes and storage before deliberate activation. No safe radius, build-protection behavior, or live encounter outcome is certified by this guide.</span></li></ol>
+
+[Core item reference](../items/charybdis-core.md) · [Inert reward reference](../items/inert-charybdis-core.md)
+
+??? info "Template checks and limitations"
+
+    - `charybdis_room`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_2`: **active**, **100,000 EP** in its recorded core block.
+    - `charybdis_room_3_end`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_4`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_5`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_desert`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_desert_2`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_desert_3`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_desert_4`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_ice`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_ice_2`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_ice_3`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_mesa`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_mesa_2`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_mesa_3`: **inactive**, **0 EP** in its recorded core block.
+    - `charybdis_room_mesa_4`: **inactive**, **0 EP** in its recorded core block.
+
+    Template presence is not a live guarantee that the room assembles, its blocks remain unchanged, or its core survives other world systems. No cave coordinates or drop probability are inferred from these definitions.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Structures/Charybdis Cave](https://tensura.wiki.gg/wiki/Structures/Charybdis_Cave) on the Tensura: Reincarnated Wiki (revision `9628`, modified `2025-05-29T19:08:43Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Structures/Charybdis Cave](https://tensura.wiki.gg/wiki/Structures/Charybdis_Cave?oldid=9628), recorded revision `9628`, on the Tensura: Reincarnated Wiki. Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Packaged biome tags and template states replace the unfinished article’s broader biome list.
 
-<details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_cave.png">Charybdis cave.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9072</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:WIP2.png">WIP2.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4719</li>
+Implementation resources: [Tensura 2.0.1.2](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [cave evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/charybdis_cave_reference.json). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`.
 
-<li><a href="https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png">Charybdis cave charybdis room.png</a> — CC BY-SA 4.0; uploaded by AlexMurray; revision 9073</li>
-</ul>
-</details>
+The environment illustration is original TSR concept artwork, not an in-game screenshot, floor plan, or verified appearance. The two source structure-image File pages did not establish reusable image permission. The editorial WIP portrait is omitted. See [Sources and attribution](../../project/sources-and-attribution.md).
+
+[Back to Structures](index.md) · [Core lifecycle](../blocks/blocks-charybdis-core.md)

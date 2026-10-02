@@ -70,7 +70,7 @@ Market: 1. Brewer 2. Butcher 3. Fletcher 4. Stoneworker
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../structures-charybdis-cave/">
-<img src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/structures/charybdis-cave.webp" alt="Charybdis Cave illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Cave</strong>
 <small>A rare structure able to spawn in many biomes across the overworld.</small>
@@ -107,7 +107,7 @@ Market: 1. Brewer 2. Butcher 3. Fletcher 4. Stoneworker
 Base Tensura reference adapted from [Structures/Dwarf Village](https://tensura.wiki.gg/wiki/Structures/Dwarf_Village) on the Tensura: Reincarnated Wiki (revision `13320`, modified `2026-07-10T00:48:05Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP10.png">WIP10.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4727</li>
 </ul>

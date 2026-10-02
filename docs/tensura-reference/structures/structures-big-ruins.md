@@ -58,7 +58,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../structures-charybdis-cave/">
-<img src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/structures/charybdis-cave.webp" alt="Charybdis Cave illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Cave</strong>
 <small>A rare structure able to spawn in many biomes across the overworld.</small>
@@ -88,7 +88,7 @@ tags:
 Base Tensura reference adapted from [Structures/Big Ruins](https://tensura.wiki.gg/wiki/Structures/Big_Ruins) on the Tensura: Reincarnated Wiki (revision `11831`, modified `2026-04-07T12:40:54Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:WIP6.png">WIP6.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 4723</li>
 </ul>

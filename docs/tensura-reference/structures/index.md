@@ -79,17 +79,17 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="charybdis cave a rare overworld cave where a charybdis encounter can be summoned through its core.">
+<article class="reference-card" data-letter="C" data-search="charybdis cave find the four cave variants, inspect the core phase, and prepare for a deliberate charybdis encounter.">
 <a href="structures-charybdis-cave/" aria-label="Open Charybdis Cave">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/structures/charybdis-cave.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Charybdis Cave</h2>
 
-<p>A rare Overworld cave where a Charybdis encounter can be summoned through its core.</p>
-<dl class="reference-card-stats"><dt>Biomes</dt><dd><span class="reference-stat-tags"><span>Plains</span><span>Snowy Plains</span><span>Sunflower Plains</span><span>Meadow</span><span>Desert</span><span>Badlands</span><span>Forests</span><span>Jungles</span><span>Taigas</span><span>Savannahs</span></span></dd><dt>Mobs</dt><dd>Charybdis * Summoned through core</dd></dl><small class="reference-card-source-note">Upstream reference values; server settings may differ.</small>
+<p>Find the four cave variants, inspect the core phase, and prepare for a deliberate Charybdis encounter.</p>
+<dl class="reference-card-stats"><dt>Variants</dt><dd>Plains, desert, ice, mesa</dd><dt>Placement spacing</dt><dd>90 chunks</dd><dt>Separation</dt><dd>20 chunks</dd></dl><small class="reference-card-source-note">Pinned 1.21.1 resources; live generation untested.</small>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

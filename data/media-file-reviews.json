@@ -65,6 +65,24 @@
       "replacement_asset": "assets/illustrations/skills/battlewill.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_cave.png",
+      "source_title": "Charybdis cave.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/structures/charybdis-cave.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png",
+      "source_title": "Charybdis cave charybdis room.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/structures/charybdis-cave.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_Core.png",
       "source_title": "Charybdis Core.png",
       "checked_on": "2026-10-01",

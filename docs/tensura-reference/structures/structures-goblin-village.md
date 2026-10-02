@@ -87,7 +87,7 @@ Sakura Forest, Taiga, Forest, Birch Forest</div></div><div class="druid-row drui
 </span>
 </a>
 <a class="reference-related-card" href="../structures-charybdis-cave/">
-<img src="../../../assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/structures/charybdis-cave.webp" alt="Charybdis Cave illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Charybdis Cave</strong>
 <small>A rare structure able to spawn in many biomes across the overworld.</small>

@@ -157,9 +157,19 @@
     "summary": "A compact Underworld Sands ruin with suspicious sand or gravel, explorer-map loot, and hostile local spawns."
   },
   "tensura-reference/structures/structures-charybdis-cave.md": {
-    "asset": "assets/upstream/tensura/structures/charybdis-cave-b4664d6625.png",
-    "kind": "source",
-    "summary": "A rare Overworld cave where a Charybdis encounter can be summoned through its core."
+    "asset": "assets/images/structures/charybdis-cave.webp",
+    "kind": "original",
+    "summary": "Find the four cave variants, inspect the core phase, and prepare for a deliberate Charybdis encounter.",
+    "credit": "TSR environment illustration · not a structure map",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ece8c3d7c253ba5a9f24104451443a0106137422b2a23dc6af07828c7587f146",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Structures/Charybdis_Cave",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Charybdis_cave_charybdis_room.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/structures/structures-goblin-village.md": {
     "asset": "assets/upstream/tensura/structures/small-goblin-village-35ad99e6a5.png",

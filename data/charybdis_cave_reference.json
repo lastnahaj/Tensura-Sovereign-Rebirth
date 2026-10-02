@@ -1,0 +1,1108 @@
+{
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "reviewed_on": "2026-10-01",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "pack_manifest": "pack/mods/tensura-reincarnated.pw.toml",
+  "resources": {
+    "data/tensura/tags/worldgen/biome/has_structure/charybdis_cave.json": {
+      "sha256": "018329f872591d8a2e325f8a34a9a04ddea0071225a37bf3fb529580d22830dd",
+      "definition": {
+        "values": [
+          "#minecraft:has_structure/village_plains",
+          "#minecraft:has_structure/village_savanna",
+          "#minecraft:has_structure/village_taiga",
+          "tensura:ancient_forest"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/has_structure/charybdis_cave_desert.json": {
+      "sha256": "f2e681f79f601362ed65613d22d5b5ecf00f4f326571e43ef44ac33d3e3acf74",
+      "definition": {
+        "values": [
+          "#minecraft:has_structure/village_desert",
+          "tensura:barren_land",
+          "tensura:desert_of_death"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/has_structure/charybdis_cave_ice.json": {
+      "sha256": "d108cd27f7dd7aacde69ea84ed356e04ae3c21deebafad67fa2ab580a55e6082",
+      "definition": {
+        "values": [
+          "#tensura:is_cold"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/has_structure/charybdis_cave_mesa.json": {
+      "sha256": "1a4d279ba135f8c41d148d350646057a4c0545629c8c3e02ec864ca2477b37b3",
+      "definition": {
+        "values": [
+          "#minecraft:is_badlands"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/biome/is_cold.json": {
+      "sha256": "c442df574138f659b7364e8139e7a64a4d46f34135d18354fa64cdbf477da638",
+      "definition": {
+        "values": [
+          {
+            "id": "c:is_cold",
+            "required": false
+          },
+          "#minecraft:has_structure/village_snowy",
+          "minecraft:ice_spikes"
+        ]
+      }
+    },
+    "data/tensura/tags/worldgen/structure/on_charybdis_explorer_maps.json": {
+      "sha256": "26c1a1a2c6e4ba4d2ac834f835707bafdefba9ee748617bda15db8998fee526f",
+      "definition": {
+        "values": [
+          "tensura:charybdis_cave/plains",
+          "tensura:charybdis_cave/desert",
+          "tensura:charybdis_cave/ice",
+          "tensura:charybdis_cave/mesa"
+        ]
+      }
+    },
+    "data/tensura/worldgen/structure/charybdis_cave/desert.json": {
+      "sha256": "1488c66c6cebb8ea813cd45ca28cda061c2aca2faf02257c9cb090e84ddf39c3",
+      "definition": {
+        "type": "minecraft:jigsaw",
+        "biomes": "#tensura:has_structure/charybdis_cave_desert",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 80,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 7,
+        "spawn_overrides": {
+          "monster": {
+            "bounding_box": "full",
+            "spawns": []
+          }
+        },
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:charybdis_cave/start_desert",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_box",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure/charybdis_cave/ice.json": {
+      "sha256": "92db2872631ef369efbb2b844f39b7ca459d3fc7fa9cc7264fd75714e6d0da3a",
+      "definition": {
+        "type": "minecraft:jigsaw",
+        "biomes": "#tensura:has_structure/charybdis_cave_ice",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 80,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 7,
+        "spawn_overrides": {
+          "monster": {
+            "bounding_box": "full",
+            "spawns": []
+          }
+        },
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:charybdis_cave/start_ice",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_box",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure/charybdis_cave/mesa.json": {
+      "sha256": "d16cab8c5e0a204ec8977ef06f6e34c9f65e7e0e4b78dd08bc602a86ea940253",
+      "definition": {
+        "type": "minecraft:jigsaw",
+        "biomes": "#tensura:has_structure/charybdis_cave_mesa",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 80,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 7,
+        "spawn_overrides": {
+          "monster": {
+            "bounding_box": "full",
+            "spawns": []
+          }
+        },
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:charybdis_cave/start_mesa",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_box",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure/charybdis_cave/plains.json": {
+      "sha256": "4e4b24460e1d7919bfdf2716cb029d78f9b79590aca211a7ab597f30873f1440",
+      "definition": {
+        "type": "minecraft:jigsaw",
+        "biomes": "#tensura:has_structure/charybdis_cave",
+        "liquid_settings": "ignore_waterlogging",
+        "max_distance_from_center": 116,
+        "project_start_to_heightmap": "WORLD_SURFACE_WG",
+        "size": 7,
+        "spawn_overrides": {
+          "monster": {
+            "bounding_box": "full",
+            "spawns": []
+          }
+        },
+        "start_height": {
+          "absolute": 0
+        },
+        "start_pool": "tensura:charybdis_cave/start",
+        "step": "surface_structures",
+        "terrain_adaptation": "beard_box",
+        "use_expansion_hack": false
+      }
+    },
+    "data/tensura/worldgen/structure_set/charybdis_cave.json": {
+      "sha256": "7c96688a20abd247924efce76d8a529576ac10aade6768b22d5879a267cbce92",
+      "definition": {
+        "placement": {
+          "type": "minecraft:random_spread",
+          "salt": 892014573,
+          "separation": 20,
+          "spacing": 90
+        },
+        "structures": [
+          {
+            "structure": "tensura:charybdis_cave/plains",
+            "weight": 1
+          },
+          {
+            "structure": "tensura:charybdis_cave/desert",
+            "weight": 1
+          },
+          {
+            "structure": "tensura:charybdis_cave/ice",
+            "weight": 1
+          },
+          {
+            "structure": "tensura:charybdis_cave/mesa",
+            "weight": 1
+          }
+        ]
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/rooms.json": {
+      "sha256": "4c3df95830b89bc34c96c73798b06487854de0b38a9365d81163d8412422680f",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_2",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_3",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_3_end",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_4",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_5",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_desert",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_desert_2",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_desert_3",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_desert_4",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_ice",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_ice_2",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_ice_3",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_mesa",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_mesa_2",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_mesa_3",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_room_mesa_4",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 5
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/stairs.json": {
+      "sha256": "86dd09cc267589d13f8b1f4e12666cd530f7c172432d3a42d8accc0cc90b30b8",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_stairs",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_stairs_desert",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_stairs_ice",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          },
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_stairs_mesa",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/start.json": {
+      "sha256": "6dca800eda6537902641e433e1f631254e7ee83fd594346521d88fd476692353",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_entrance",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/start_desert.json": {
+      "sha256": "1373ecfd6eac115d0674b295fbf716b0450d11bd099adf58c376150abe0df4dc",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_entrance_desert",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/start_ice.json": {
+      "sha256": "94260e4f5aef8b3b4bf580e4fa2fc831aa7ea90c0ee878cbfbb1904b4385f17c",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_entrance_ice",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    },
+    "data/tensura/worldgen/template_pool/charybdis_cave/start_mesa.json": {
+      "sha256": "ad602aa9584341c673350295c2be7732f820f387f732f964e03b23d26a0bb16f",
+      "definition": {
+        "elements": [
+          {
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "tensura:charybdis_cave/charybdis_entrance_mesa",
+              "override_liquid_settings": "ignore_waterlogging",
+              "processors": "minecraft:empty",
+              "projection": "rigid"
+            },
+            "weight": 1
+          }
+        ],
+        "fallback": "minecraft:empty"
+      }
+    }
+  },
+  "template_summaries": {
+    "data/tensura/structure/charybdis_cave/charybdis_entrance.nbt": {
+      "sha256": "b6905589bf872fdec4a9ab63083892477d3c67f5522722109e277cdbf6346d3e",
+      "size": [
+        26,
+        10,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_entrance_desert.nbt": {
+      "sha256": "08dec5b459cd0d841192f78ab3ad5f64765197617caf11abdc6881f53ef2e101",
+      "size": [
+        25,
+        9,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_entrance_ice.nbt": {
+      "sha256": "d352e698de0b9716b46eef37bf4977cfa37ccc44287b4eca58c730e33e572e9c",
+      "size": [
+        25,
+        9,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_entrance_mesa.nbt": {
+      "sha256": "c3c6b1457254e96afc5293c16879da66d08366d6c847e9633f8efd6ce323e4da",
+      "size": [
+        25,
+        10,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room.nbt": {
+      "sha256": "9b79d9afc674fbd8cca5c2906ddef73a45a2409fd795d0636fb31b0e80a6e606",
+      "size": [
+        37,
+        11,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            2,
+            8
+          ],
+          "state": 85
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_2.nbt": {
+      "sha256": "443b38770954de42757b32d9476581bec1071e7ab7c6f1d7a79a931d2948ed75",
+      "size": [
+        37,
+        16,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 100000.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            7,
+            8
+          ],
+          "state": 90
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "active"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_3.nbt": {
+      "sha256": "6bc776ed0e9c2b2932dafb10863f32c7627a7c84559217a51091e0ecbd91debb",
+      "size": [
+        45,
+        31,
+        29
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_3_end.nbt": {
+      "sha256": "0645cdfa95f42ab39c59d52cfb8c98b7b0d4f81165d368deb445bdd77b0dbdc2",
+      "size": [
+        20,
+        7,
+        8
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            2,
+            4
+          ],
+          "state": 18
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_4.nbt": {
+      "sha256": "8794988f0c2b2cfd07b588dc1635bbd1688c2354d8356dcabe3ee21a4bb568c7",
+      "size": [
+        40,
+        34,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            28,
+            5
+          ],
+          "state": 31
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_5.nbt": {
+      "sha256": "ee15d983d4ab8b2bbc52fd43425e0a9478cea77a821d8e38f1e8a28a80a9baa7",
+      "size": [
+        40,
+        10,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            4,
+            5
+          ],
+          "state": 26
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_desert.nbt": {
+      "sha256": "bec2a24b70441bf87d2a8078e63b5296f034b39b3c3f514ae866d0377df9091e",
+      "size": [
+        37,
+        11,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            2,
+            8
+          ],
+          "state": 59
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_desert_2.nbt": {
+      "sha256": "fc10587517a9358a8f5b1078a2b619cfa4fa8193a28a0ad26cbd3d1132938506",
+      "size": [
+        37,
+        14,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            5,
+            8
+          ],
+          "state": 54
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_desert_3.nbt": {
+      "sha256": "92155ddc7364405c1b84d84ca934d425fcdc28702a13b381d9fb4a2eeed3e52d",
+      "size": [
+        40,
+        34,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            28,
+            5
+          ],
+          "state": 32
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_desert_4.nbt": {
+      "sha256": "e73d16c2a9c834ead710d619090bfe8230808c46eafc7302805ab7a7be296f70",
+      "size": [
+        40,
+        10,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            4,
+            5
+          ],
+          "state": 27
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_ice.nbt": {
+      "sha256": "7af8737a53a8b8a5dd892bf275302e403154f1f0d26184c85d021e57109271d4",
+      "size": [
+        37,
+        11,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            2,
+            8
+          ],
+          "state": 25
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_ice_2.nbt": {
+      "sha256": "80a0b8b36084bdbb5ea2a9b711d7c2681b6f61cee3af4c1ca0a515f0c57e9da2",
+      "size": [
+        40,
+        10,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            4,
+            5
+          ],
+          "state": 31
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_ice_3.nbt": {
+      "sha256": "c7961b1f3197c4cb1f520a82bde5975ac8fe53407cc9ab747d6a4b606177a155",
+      "size": [
+        40,
+        34,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            28,
+            5
+          ],
+          "state": 40
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_mesa.nbt": {
+      "sha256": "5174fc2fe2c889d3c5f9df2a30d2022c4e8f9a41f41265b94de99d98a4272841",
+      "size": [
+        37,
+        11,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            2,
+            8
+          ],
+          "state": 54
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_mesa_2.nbt": {
+      "sha256": "f078c100fdeae7febb7696403959a6341224db62ca97aa75f3975cdfaf4305e2",
+      "size": [
+        37,
+        14,
+        32
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            16,
+            5,
+            8
+          ],
+          "state": 59
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_mesa_3.nbt": {
+      "sha256": "99759267f649404a8207861d6cf960650601d3ed060d43741a7efbd92756e44b",
+      "size": [
+        40,
+        10,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            4,
+            5
+          ],
+          "state": 29
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_room_mesa_4.nbt": {
+      "sha256": "2643d228642f9e26c14b666702c0425704bddcc8a957a8ad71077641bc11d75d",
+      "size": [
+        40,
+        34,
+        11
+      ],
+      "core_blocks": [
+        {
+          "nbt": {
+            "EP": 0.0,
+            "id": "tensura:charybdis_core_block_entity"
+          },
+          "pos": [
+            34,
+            28,
+            5
+          ],
+          "state": 34
+        }
+      ],
+      "core_palette_entries": [
+        {
+          "Properties": {
+            "facing": "up",
+            "sculk_sensor_phase": "inactive"
+          },
+          "Name": "tensura:charybdis_core"
+        }
+      ],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_stairs.nbt": {
+      "sha256": "82388afe7295ec9df930546ae107ee7e08bf1531e89fefb5303a3285af4af839",
+      "size": [
+        43,
+        18,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_stairs_desert.nbt": {
+      "sha256": "8bab61e6127a3b047d8a6b04de5c1c9603b70fa24bc4f578f8b19e280b591cb7",
+      "size": [
+        42,
+        18,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_stairs_ice.nbt": {
+      "sha256": "7cfb41af2b86952982886fab4887153386a97683238867764905ef1fa914a5ed",
+      "size": [
+        42,
+        18,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    },
+    "data/tensura/structure/charybdis_cave/charybdis_stairs_mesa.nbt": {
+      "sha256": "1d809c48c46fb3d2f68aaede2f632bac708ef726996e71b9e39296c0d97d5890",
+      "size": [
+        42,
+        18,
+        16
+      ],
+      "core_blocks": [],
+      "core_palette_entries": [],
+      "entity_count": 0
+    }
+  },
+  "verification_scope": "Packaged structure variants, placement, biome tags, template pools, and core template states. No live generation, discovery rate, merchant map offers, safe-spawn guarantee, or encounter test."
+}

@@ -480,6 +480,19 @@ for slug, artwork, status in [('charybdis-core', 'charybdis-core.webp', 'Block r
     item_page = BeautifulSoup((site / f'tensura-reference/items/{slug}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert Path(item_page.select_one('.reference-overview-media img')['src']).name == artwork, 'Core item artwork mismatched'
     assert status in item_page.get_text(' ', strip=True) and 'untested' in item_page.get_text(), 'Core item verification scope missing'
+from charybdis_cave_reference import manifest as cave_manifest, generate as generate_cave, PAGE as cave_page_path
+cave_data = cave_manifest()
+assert cave_data['artifact_sha1'] in (ROOT / cave_data['pack_manifest']).read_text(encoding='utf-8'), 'Cave artifact selection changed'
+assert len(cave_data['resources']) == 17 and len(cave_data['template_summaries']) == 25, 'Cave resource coverage changed'
+assert all(len(item['sha256']) == 64 for item in cave_data['resources'].values()) and all(len(item['sha256']) == 64 for item in cave_data['template_summaries'].values()), 'Cave checksums missing'
+active_room = cave_data['template_summaries']['data/tensura/structure/charybdis_cave/charybdis_room_2.nbt']
+assert active_room['core_blocks'][0]['nbt']['EP'] == 100000 and active_room['core_palette_entries'][0]['Properties']['sculk_sensor_phase'] == 'active', 'Already-active cave core warning needs review'
+assert (ROOT / 'docs' / cave_page_path).read_text(encoding='utf-8') == generate_cave(), 'Stale cave guide'
+cave_page = BeautifulSoup((site / cave_page_path.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+for fact in ('90-chunk spacing', '20-chunk separation', 'already-active core', '100,000 stored EP', 'not a fixed Y=0', 'not a guaranteed room count', '25 packaged cave templates', 'live generation untested'):
+    assert fact in cave_page.get_text(' ', strip=True), f'Cave rule or scope missing: {fact}'
+assert len(cave_page.select('table tbody tr')) == 4 and len(cave_page.select('.hipokute-growth li')) == 3, 'Cave variant or preparation panels missing'
+assert Path(cave_page.select_one('.reference-overview-media img')['src']).name == 'charybdis-cave.webp' and 'Work In Progress' not in cave_page.get_text(), 'Cave non-content media remains'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

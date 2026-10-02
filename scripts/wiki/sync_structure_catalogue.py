@@ -100,6 +100,8 @@ def generate():
             '',
         ])
         result[page["local_page"]] = "\n".join(lines)
+    from charybdis_cave_reference import PAGE as cave_page, generate as generate_cave
+    result[cave_page] = generate_cave()
     return result
 
 
