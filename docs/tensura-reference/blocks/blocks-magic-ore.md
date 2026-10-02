@@ -160,7 +160,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../blocks-moth-egg/">
-<img src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/moth-egg.webp" alt="Moth Egg illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Moth Egg</strong>
 <small>Upstream reference information for Moth Egg.</small>

@@ -29792,17 +29792,20 @@
         "tensura-reference/blocks/blocks-moth-egg.md"
       ],
       "category": "items",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/items/invicon-moth-egg-2805b22ed1.png",
       "download_url": "https://tensura.wiki.gg/images/Invicon_Moth_Egg.png?2805b2",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-10-01",
+      "license_review_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/moth-egg.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/items/invicon-moth-egg-2805b22ed1.png"
     },
     {
       "source_title": "Invicon Monster Leather Chestplate (A).png",
@@ -45865,17 +45868,20 @@
         "tensura-reference/blocks/blocks.md"
       ],
       "category": "items",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T22:07:55Z",
-      "local_path": "assets/upstream/tensura/items/moth-egg-82f2cb6d72.png",
       "download_url": "https://tensura.wiki.gg/images/Moth_Egg.png?82f2cb",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn from current distribution; replaced with original TSR artwork.",
+      "license_reviewed_on": "2026-10-01",
+      "license_review_evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/moth-egg.webp",
+      "withdrawn_local_path": "assets/upstream/tensura/items/moth-egg-82f2cb6d72.png"
     },
     {
       "source_title": "Monster Leather Leggings (B).png",

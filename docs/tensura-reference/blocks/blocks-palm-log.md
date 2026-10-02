@@ -116,7 +116,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../blocks-moth-egg/">
-<img src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/moth-egg.webp" alt="Moth Egg illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Moth Egg</strong>
 <small>Upstream reference information for Moth Egg.</small>
@@ -153,7 +153,7 @@ tags:
 Base Tensura reference adapted from [Blocks/Palm Log](https://tensura.wiki.gg/wiki/Blocks/Palm_Log) on the Tensura: Reincarnated Wiki (revision `10014`, modified `2025-07-14T18:30:33Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (4 source files)</summary>
+<summary>Media credits (3 source files)</summary>
 <ul>
 <li><a href="https://tensura.wiki.gg/wiki/File:Palm_Log.png">Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 3921</li>
 <li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Palm_Log.png">Invicon Palm Log.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6920</li>

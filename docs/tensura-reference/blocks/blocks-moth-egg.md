@@ -1,162 +1,66 @@
 ---
 title: Moth Egg
-description: Base Tensura reference for Moth Egg.
-tags:
-- Pages_with_overridden_hardness
-- Non-renewable_resources
-- Non-stackable_resources
+description: Check egg laying, Silk Touch recovery, safe placement, and Hell Caterpillar hatching in Minecraft 1.21.1.
 ---
 
 # Moth Egg
 
-<span class="reference-badge">Base Tensura reference</span> <span class="reference-category">Blocks</span>
+<section data-reference-section="blocks" class="reference-overview reference-theme-world staff-guide-hero smithing-guide-hero">
+<figure class="reference-overview-media"><img src="../../../assets/images/blocks/moth-egg.webp" alt="Original pale moth egg resting on a green leaf" loading="eager" decoding="async"><figcaption>TSR egg illustration · not the in-game texture</figcaption></figure>
+<div class="reference-overview-copy"><p class="reference-eyebrow">Creature lifecycle · Minecraft 1.21.1</p><h2>Protect the clutch. Prepare the nursery.</h2><p>Placed eggs can hatch into Hell Caterpillars. Choose a suitable substrate, keep traffic away, and decide whether to preserve an egg or harvest silk before breaking it.</p><nav class="reference-quick-jumps" aria-label="Moth Egg guide"><a href="#obtain-and-recover">Obtain &amp; recover</a><a href="#prepare-for-hatching">Hatching guide</a><a href="#protect-the-eggs">Protect the eggs</a></nav></div></section>
 
-<section class="reference-overview reference-theme-world">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="Moth Egg source reference" loading="eager" decoding="async">
-<figcaption><a href="https://tensura.wiki.gg/wiki/File:Moth_Egg.png">Moth Egg.png · CC BY-SA 4.0</a></figcaption>
-</figure>
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>Upstream reference information for Moth Egg.</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
-</section>
+!!! note "Artifact rules checked · live lifecycle untested"
+    Moth Egg registration, the full block class, moth breeding/laying callbacks, and block loot were inspected in Tensura 2.0.1.2. Live breeding access, AI navigation, egg recovery, incubation time, hatchling ownership, and server overrides remain untested.
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div class="infobox notaninfobox">
-<div class="mcwiki-header infobox-title">Moth Egg</div>
-<div class="infobox-imagearea animated-container"><div><a class="image reference-overview-duplicate" href="https://tensura.wiki.gg/wiki/File:Moth_Egg.png"><img alt="Moth Egg.png: Infobox image for Moth Egg the block in Minecraft" data-file-height="512" data-file-width="512" decoding="async" height="150" loading="lazy" src="../../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" width="150"/></a><div class="infobox-imagecaption">
-<p>Moth Egg
-</p>
-</div></div>
-<div class="infobox-invimages"><div><span class="invslot"><span class="invslot-item invslot-item-image" data-minetip-title="Moth Egg"><a href="./" title="Moth Egg"></a></span></span></div></div></div>
-<table cellpadding="4" cellspacing="1" class="infobox-rows">
-<tbody><tr>
-<th><a class="new" href="https://tensura.wiki.gg/wiki/Renewable_resource?action=edit&amp;redlink=1" rel="nofollow" title="Renewable resource (page does not exist)">Renewable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Stackable
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Tool
-</th>
-<td class="pixel-image">
-<p>Any tool
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Explosion#Blast_resistance" title="mcw:Explosion">Blast resistance</a>
-</th>
-<td>
-<p><a href="https://tensura.wiki.gg/wiki/Template:Blast_resistance_values#Missing_value" title="Template:Blast resistance values">?</a>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Breaking#Blocks_by_hardness" title="mcw:Breaking">Hardness</a>
-</th>
-<td>
-<p><b><a href="https://tensura.wiki.gg/wiki/Template:Hardness_values#Missing_value" title="Template:Hardness values">?</a></b>
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Light" title="mcw:Light">Luminous</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Opacity" title="mcw:Opacity">Transparent</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th><a class="extiw" href="https://minecraft.wiki/w/Flammable" title="mcw:Flammable">Flammable</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-<tr>
-<th>Catches fire from <a class="extiw" href="https://minecraft.wiki/w/lava" title="mcw:lava">lava</a>
-</th>
-<td>
-<p>No
-</p>
-</td></tr>
-</tbody></table>
-</div>
+<span id="Obtainment"></span>
 
+## Obtain and recover
 
+<div class="tensura-reference-article"><div class="chilled-crafting-grid">
+<article class="smithing-recipe"><p class="reference-eyebrow">Keep an egg</p><h3>Recover with Silk Touch</h3><p>The packaged block loot chooses <strong>Moth Egg</strong> when the tool has <strong>Silk Touch level 1 or higher</strong>. Otherwise it selects <a href="../../items/hell-moth-silk/">Hell Moth Silk</a>, with a base count of 1–3 and explosion decay. This loot branch is distinct from trampling.</p></article>
+<article class="smithing-recipe"><p class="reference-eyebrow">Laid by a moth</p><h3>1–4 eggs in a clutch</h3><p>The checked Hell Moth breeding callback sets a carried-egg flag. Its laying task searches for wool or leaves, checks two air blocks above the substrate, and places a clutch of <strong>1–4 eggs</strong> once the moth is close enough. Wool-tagged items are its checked food and taming-food class.</p></article>
+<article class="smithing-recipe"><p class="reference-eyebrow">Acquisition limits</p><h3>No packaged crafting recipe</h3><p>The inspected recipe resources contain no Moth Egg crafting recipe. Feeding wool is not a guarantee that a particular moth can breed or navigate to a laying site: inherited breeding conditions, the carried-egg flag, server settings, and AI still matter. Recover an existing placed egg rather than relying on an undocumented crafting conversion.</p><a href="../../mobs/mobs-hell-moth/">Open Hell Moth reference →</a></article></div></div>
 
+<span id="Usage"></span>
 
-</div>
-</div>
+## Prepare for hatching
 
-!!! note "Unavailable upstream media"
-    Some source placements could not be mirrored because the referenced File record is missing, deleted, or could not be resolved to an auditable source file. The exact source article remains linked below.
+<ol class="hipokute-growth"><li><strong>Choose wool or leaves underneath.</strong><span>The hatching method checks the block directly below the egg against <code>#minecraft:wool</code> or <code>#minecraft:leaves</code>. A plain stone shelf does not satisfy that checked gate.</span></li><li><strong>Place and group the eggs.</strong><span>Placement rejects a target containing fluid. Using the same egg item on an existing clutch without secondary use can increase its count up to four; the current hatch state is preserved by that placement method.</span></li><li><strong>Allow eligible random updates.</strong><span>Hatch state advances from 0 to 1, then 2. The next qualifying update removes the egg block and attempts to create one baby Hell Caterpillar per stored egg—not an adult Hell Moth.</span></li></ol>
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Blocks</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../blocks-medium-quality-magic-crystal-block/">
-<img src="../../../assets/upstream/tensura/items/medium-quality-magic-crystal-block-41e6389805.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Medium Quality Magic Crystal Block</strong>
-<small>Medium Quality Magic Crystal Block</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blocks-palm-log/">
-<img src="../../../assets/upstream/tensura/items/palm-log-7d04272437.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Palm Log</strong>
-<small>Upstream reference information for Palm Log.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blocks-magic-ore/">
-<img src="../../../assets/upstream/tensura/items/magic-ore-ecafa90efc.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Magic Ore</strong>
-<small>Magic Ore : 3 Deepslate Magic Ore : 4.5</small>
-</span>
-</a>
-<a class="reference-related-card" href="../blocks-palm-wood/">
-<img src="../../../assets/upstream/tensura/items/palm-wood-7a70ca82a0.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Palm Wood</strong>
-<small>Upstream reference information for Palm Wood.</small>
-</span>
-</a>
-</div>
-</section>
+??? info "Why there is no fixed incubation timer"
 
----
+    Each random tick first checks the level’s `getTimeOfDay(1)` result. The update gate always passes when **0.65 < value < 0.69**; outside that exclusive window it passes only when `nextInt(300) == 0`. The valid substrate gate must also pass. These are conditional code gates, not a measured real-time hatch duration or a universal dimension clock. Random-tick settings, active chunks, and server timing affect progress.
+
+??? info "Hatchling details and placement limits"
+
+    The checked hatching loop creates `tensura:hell_caterpillar`, assigns initial age **-24,000**, finalizes it with the breeding spawn type, and attempts to add it to the world. The loop does not assign a player owner here. Creation can fail; successful live spawning, maturation, ownership, and later evolution still need separate checks. The laying task requires two air blocks above its substrate; that AI condition is not the same as the item-placement method’s fluid rejection.
+
+[Meet the Hell Caterpillar](../mobs/mobs-hell-caterpillar.md)
+
+## Protect the eggs
+
+<div class="kiln-tier-grid"><article class="smithing-recipe"><p class="reference-eyebrow">Foot traffic</p><h3>Keep paths away</h3><p>The step-on hook can decrement the clutch for living entities that are not stepping carefully. Its server-side random check cancels only one in 100 eligible attempts; it is not a one-percent break chance.</p></article><article class="smithing-recipe"><p class="reference-eyebrow">Exemptions</p><h3>Moths and caterpillars</h3><p>Hell Moths and Hell Caterpillars are excluded by the checked destruction gate. Creative players are excluded separately. Careful stepping bypasses the step-on call, but these checks do not establish protection against mining, explosions, or other damage.</p></article><article class="smithing-recipe"><p class="reference-eyebrow">Separate loot paths</p><h3>Trampling is not recovery</h3><p>The trampling method reduces the egg count and requests one Hell Moth Silk item. The mining loot table uses Silk Touch or a 1–3 silk branch. Do not treat stepping on eggs as a Silk Touch collection method.</p></article></div>
+
+??? info "Checked block and item properties"
+
+    - Registry strength argument: **0.5**; wool sounds, random ticks, and `noOcclusion` are set.
+    - The item uses `SimpleBlockItem` with default item properties, including a **64-item stack limit**; the older article’s non-stackable label is not used here.
+    - The block is in the packaged hoe-mineable tag. That classification does not by itself require a hoe for its Silk Touch loot condition.
+    - `#tensura:skill/unobtainable` includes Moth Egg. That tag is a special-system classification, not evidence that the Silk Touch loot branch is absent or that every acquisition route is disabled.
 
 ## Source and licensing
 
-Base Tensura reference adapted from [Blocks/Moth Egg](https://tensura.wiki.gg/wiki/Blocks/Moth_Egg) on the Tensura: Reincarnated Wiki (revision `7517`, modified `2025-02-13T09:23:12Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Moth Egg source article, recorded revision 7517](https://tensura.wiki.gg/wiki/Blocks/Moth_Egg?oldid=7517) on the Tensura: Reincarnated Wiki. Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The unfinished article is supplemented by artifact evidence rather than unknown hardness or acquisition fields.
 
-<details class="reference-media-credits">
-<summary>Media credits (3 source files)</summary>
-<ul>
-<li><a href="https://tensura.wiki.gg/wiki/File:Moth_Egg.png">Moth Egg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 7168</li>
-<li><a href="https://tensura.wiki.gg/wiki/File:Invicon_Moth_Egg.png">Invicon Moth Egg.png</a> — CC BY-SA 4.0; uploaded by Zykestheone; revision 6650</li>
-</ul>
-</details>
+Implementation: [Tensura 2.0.1.2](https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599) · [pack selection](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/pack/mods/tensura-reincarnated.pw.toml) · [Moth Egg evidence register](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/moth_egg_reference.json). Artifact SHA-1: `f6f0c8ce46b77a1996c5986d029411878142112f`.
+
+The original TSR egg illustration is conceptual artwork, not the game texture. Neither reviewed source File page established reusable image permission. See the [media ledger](../../project/sources-and-attribution.md).
+
+??? info "Artifact evidence"
+
+    - `MothEggBlock`: placement, hatching, collision shape, stepping, mining, and egg-count handling
+    - `HellMothEntity`: food, breeding callback, laying callback, and laying-site predicates; `LayEggs` behavior wiring
+    - `TensuraBlocks`, `TensuraMobDropItems`, and `SimpleBlockItem` registration
+    - Packaged block loot, hoe-mineable tag, and skill-unobtainable tag; relevant class/resource checksums are retained in the register
+
+[Back to Blocks](index.md) · [Hell Moth](../mobs/mobs-hell-moth.md) · [Hell Caterpillar](../mobs/mobs-hell-caterpillar.md) · [Hell Moth Silk](../items/hell-moth-silk.md)

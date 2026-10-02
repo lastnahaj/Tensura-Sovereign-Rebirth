@@ -394,16 +394,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="moth egg a placed egg block associated with tensura&#x27;s moth creature; the source does not document a normal acquisition route.">
+<article class="reference-card" data-letter="M" data-search="moth egg learn how moths lay eggs, recover them with silk touch, and provide wool or leaves for staged hatching into hell caterpillars.">
 <a href="blocks-moth-egg/" aria-label="Open Moth Egg">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/moth-egg-82f2cb6d72.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/moth-egg.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Moth Egg</h2>
 
-<p>A placed egg block associated with Tensura&#x27;s Moth creature; the source does not document a normal acquisition route.</p>
+<p>Learn how moths lay eggs, recover them with Silk Touch, and provide wool or leaves for staged hatching into Hell Caterpillars.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

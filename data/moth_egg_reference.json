@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-01",
+  "version": "2.0.1.2",
+  "minecraft": "1.21.1",
+  "artifact_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+  "live_gameplay_verified": false,
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated/files/8665599",
+  "block_registry_id": "tensura:moth_egg",
+  "item_stack_limit": 64,
+  "strength_argument": 0.5,
+  "hatching": {
+    "substrate_tags": [
+      "minecraft:leaves",
+      "minecraft:wool"
+    ],
+    "stages": [
+      0,
+      1,
+      2
+    ],
+    "egg_count_min": 1,
+    "egg_count_max": 4,
+    "window_exclusive": [
+      0.65,
+      0.69
+    ],
+    "outside_window_gate": "nextInt(300) == 0",
+    "spawn_registry_id": "tensura:hell_caterpillar",
+    "initial_age": -24000
+  },
+  "laying": {
+    "food_item_tag": "minecraft:wool",
+    "clear_air_blocks_above_substrate": 2,
+    "near_center_distance": 2,
+    "egg_count_min": 1,
+    "egg_count_max": 4
+  },
+  "trampling": {
+    "careful_step_exempt": true,
+    "moth_exempt": true,
+    "caterpillar_exempt": true,
+    "creative_player_exempt": true,
+    "living_entities_only": true,
+    "server_cancel_gate": "nextInt(100) == 0",
+    "resource_id": "tensura:hell_moth_silk"
+  },
+  "crafting_recipes": [],
+  "classes": [
+    {
+      "resource": "io/github/manasmods/tensura/block/MothEggBlock.class",
+      "sha256": "133c7607640c3d62b988215e75a6b1b23de38b22b23c56fcb3005363f867bbbe"
+    },
+    {
+      "resource": "io/github/manasmods/tensura/entity/monster/HellMothEntity.class",
+      "sha256": "96e514af68fb929c184d36a18fbc0214387261ade5a8c33ed04b07c30e78b76a"
+    },
+    {
+      "resource": "io/github/manasmods/tensura/entity/ai/behaviour/misc/LayEggs.class",
+      "sha256": "7e20731abab5da1657648e43c95ada245f166805a54741a65466661c2977b28d"
+    },
+    {
+      "resource": "io/github/manasmods/tensura/registry/block/TensuraBlocks.class",
+      "sha256": "b63b52b0a4d54a3b1dd210b2ef5692336bc0ddd763ea56df00a3d9b7e808a0dc"
+    },
+    {
+      "resource": "io/github/manasmods/tensura/registry/item/TensuraMobDropItems.class",
+      "sha256": "b45cbf221b3698218932de3a32e080baf702ce4659f9bd2f5435f53836f21e2c"
+    }
+  ],
+  "resources": [
+    {
+      "resource": "data/tensura/loot_table/blocks/moth_egg.json",
+      "sha256": "37e7599222646ad4e151fa6854564c56c0ccc15f7ddc228b1c1bf39af5b59b80",
+      "definition": {
+        "type": "minecraft:block",
+        "pools": [
+          {
+            "bonus_rolls": 0.0,
+            "entries": [
+              {
+                "type": "minecraft:alternatives",
+                "children": [
+                  {
+                    "type": "minecraft:item",
+                    "conditions": [
+                      {
+                        "condition": "minecraft:match_tool",
+                        "predicate": {
+                          "predicates": {
+                            "minecraft:enchantments": [
+                              {
+                                "enchantments": "minecraft:silk_touch",
+                                "levels": {
+                                  "min": 1
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "name": "tensura:moth_egg"
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "add": false,
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "max": 3.0,
+                          "min": 1.0
+                        },
+                        "function": "minecraft:set_count"
+                      },
+                      {
+                        "function": "minecraft:limit_count",
+                        "limit": {
+                          "max": 3.0,
+                          "min": 0.0
+                        }
+                      },
+                      {
+                        "function": "minecraft:explosion_decay"
+                      }
+                    ],
+                    "name": "tensura:hell_moth_silk"
+                  }
+                ]
+              }
+            ],
+            "rolls": 1.0
+          }
+        ],
+        "random_sequence": "tensura:blocks/moth_egg"
+      }
+    },
+    {
+      "resource": "data/minecraft/tags/block/mineable/hoe.json",
+      "sha256": "c9b955842772b1c75713d712e084833582157ad2f12216485c36aba692bcde61",
+      "definition": {
+        "values": [
+          "tensura:palm_leaves",
+          "tensura:thatch_block",
+          "tensura:thatch_stairs",
+          "tensura:thatch_slab",
+          "tensura:thatch_wall",
+          "tensura:tatami_block",
+          "tensura:tatami_carpet",
+          "tensura:single_tatami_block",
+          "tensura:single_tatami_carpet",
+          "tensura:moth_egg",
+          "tensura:spider_egg",
+          "tensura:charybdis_core"
+        ]
+      }
+    },
+    {
+      "resource": "data/tensura/tags/block/skill/unobtainable.json",
+      "sha256": "38b8fd1be8e44ca2abc379e8e799d7af072b616c2349bb7a06b47a1b3234939c",
+      "definition": {
+        "values": [
+          "#tensura:labyrinth_blocks",
+          "tensura:charybdis_core",
+          "minecraft:powder_snow",
+          "minecraft:barrier",
+          "minecraft:light",
+          "minecraft:reinforced_deepslate",
+          "minecraft:spawner",
+          "minecraft:trial_spawner",
+          "minecraft:vault",
+          "minecraft:end_gateway",
+          "minecraft:end_portal",
+          "minecraft:end_portal_frame",
+          "minecraft:nether_portal",
+          "minecraft:command_block",
+          "minecraft:chain_command_block",
+          "minecraft:repeating_command_block",
+          "minecraft:structure_block",
+          "minecraft:structure_void",
+          "minecraft:jigsaw",
+          "minecraft:bedrock",
+          "minecraft:turtle_egg",
+          "minecraft:fire",
+          "tensura:black_fire",
+          "tensura:moth_egg",
+          {
+            "id": "lootr:lootr_barrel",
+            "required": false
+          },
+          {
+            "id": "lootr:barrel",
+            "required": false
+          },
+          {
+            "id": "lootr:lootr_chest",
+            "required": false
+          },
+          {
+            "id": "lootr:chest",
+            "required": false
+          },
+          {
+            "id": "lootr:lootr_shulker",
+            "required": false
+          },
+          {
+            "id": "lootr:shulker_box",
+            "required": false
+          },
+          {
+            "id": "lootr:suspicious_sand",
+            "required": false
+          },
+          {
+            "id": "lootr:suspicious_gravel",
+            "required": false
+          }
+        ]
+      }
+    }
+  ]
+}

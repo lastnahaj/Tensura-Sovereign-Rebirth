@@ -650,6 +650,15 @@
       "replacement_asset": "assets/images/items/medium-quality-magic-crystal.webp"
     },
     {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Moth_Egg.png",
+      "source_title": "Invicon Moth Egg.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/moth-egg.webp"
+    },
+    {
       "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Slime_Chunk.png",
       "source_title": "Invicon Slime Chunk.png",
       "checked_on": "2026-10-01",
@@ -837,6 +846,15 @@
       "notice": "no-file-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/items/medium-quality-magic-crystal.webp"
+    },
+    {
+      "file_page": "https://tensura.wiki.gg/wiki/File:Moth_Egg.png",
+      "source_title": "Moth Egg.png",
+      "checked_on": "2026-10-01",
+      "decision": "permission-unconfirmed",
+      "notice": "license-unconfirmed",
+      "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
+      "replacement_asset": "assets/images/blocks/moth-egg.webp"
     },
     {
       "file_page": "https://tensura.wiki.gg/wiki/File:Ogre_flame.png",

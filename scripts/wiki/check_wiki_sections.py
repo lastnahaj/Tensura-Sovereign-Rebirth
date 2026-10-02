@@ -435,6 +435,16 @@ for fact in ('4 chunks', '8 Snowballs', 'no standard food properties', '#c:slime
     assert fact in slime_material_item.get_text(' ', strip=True), f'Ordinary material rule missing: {fact}'
 assert Path(slime_material_block.select_one('.reference-overview-media img')['src']).name == 'slime-chunk-block.webp'
 assert Path(slime_material_item.select_one('.reference-overview-media img')['src']).name == 'slime-chunk.webp'
+from moth_egg_reference import manifest as moth_egg_manifest
+moth_data = moth_egg_manifest()
+assert not moth_data['crafting_recipes'] and moth_data['hatching']['stages'] == [0, 1, 2], 'Moth crafting or hatch stages changed'
+assert moth_data['hatching']['spawn_registry_id'] == 'tensura:hell_caterpillar' and moth_data['hatching']['initial_age'] == -24000, 'Moth hatchling changed'
+assert moth_data['hatching']['substrate_tags'] == ['minecraft:leaves', 'minecraft:wool'] and moth_data['item_stack_limit'] == 64, 'Moth substrate or item stack properties changed'
+moth_page = BeautifulSoup((site / 'tensura-reference/blocks/blocks-moth-egg/index.html').read_text(encoding='utf-8'), 'html.parser')
+for fact in ('Silk Touch level 1 or higher', '1–4 eggs', '#minecraft:wool', '#minecraft:leaves', '0.65', '0.69', 'nextInt(300)', 'Hell Caterpillar', '64-item stack limit', 'one in 100', 'live lifecycle untested'):
+    assert fact in moth_page.get_text(' ', strip=True), f'Moth lifecycle rule missing: {fact}'
+assert len(moth_page.select('.hipokute-growth li')) == 3, 'Moth hatching route must have three steps'
+assert Path(moth_page.select_one('.reference-overview-media img')['src']).name == 'moth-egg.webp'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

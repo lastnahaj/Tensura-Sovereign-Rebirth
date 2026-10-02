@@ -328,9 +328,19 @@
     "summary": "A rare ore whose deepslate variant is concentrated near Y -27 and drops Magic Ore Shards when mined with the required tool."
   },
   "tensura-reference/blocks/blocks-moth-egg.md": {
-    "asset": "assets/upstream/tensura/items/moth-egg-82f2cb6d72.png",
-    "kind": "source",
-    "summary": "A placed egg block associated with Tensura's Moth creature; the source does not document a normal acquisition route."
+    "asset": "assets/images/blocks/moth-egg.webp",
+    "kind": "original",
+    "summary": "Recover placed eggs with Silk Touch and prepare wool or leaves for staged Hell Caterpillar hatching.",
+    "credit": "TSR egg illustration · not the in-game texture",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "1d06c3a608f9a62e138d0724ea718dc67002d44304551b433691d17188e7767f",
+    "source_review": {
+      "date": "2026-10-01",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Moth_Egg",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Invicon_Moth_Egg.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/blocks/blocks-palm-log.md": {
     "asset": "assets/upstream/tensura/items/palm-log-7d04272437.png",

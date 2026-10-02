@@ -55,6 +55,8 @@ def load_manifest():
     data['pages'].append(chilled_entry())
     from slime_material_reference import entry as slime_entry
     data['pages'].append(slime_entry())
+    from moth_egg_reference import entry as moth_entry
+    data['pages'].append(moth_entry())
     return data
 
 
@@ -148,6 +150,8 @@ def generate():
     result[BLOCK_PAGE] = generate_block()
     from slime_material_reference import BLOCK_PAGE as SLIME_BLOCK_PAGE, generate_block as generate_slime_block
     result[SLIME_BLOCK_PAGE] = generate_slime_block()
+    from moth_egg_reference import PAGE as MOTH_PAGE, generate as generate_moth
+    result[MOTH_PAGE] = generate_moth()
     return result
 
 
