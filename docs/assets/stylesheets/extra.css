@@ -310,6 +310,30 @@
 .hipokute-growth strong, .hipokute-growth span { display: block; }
 .hipokute-growth span { margin-top: .3rem; font-size: .75rem; line-height: 1.6; }
 .hipokute-calculator h3 { margin-top: 0; font-weight: 750; }
+.smithing-build { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.25rem; align-items: center; margin: 1.25rem 0; }
+.smithing-guide-hero .reference-overview-copy h2 { margin: .45rem 0 .8rem !important; padding: 0; border: 0; font-weight: 750; }
+.smithing-pattern { width: 100%; table-layout: fixed; border-spacing: .4rem; border-collapse: separate; }
+.smithing-pattern caption { text-align: left; font-size: .72rem; font-weight: 650; padding: .4rem; }
+.smithing-pattern td { padding: .9rem .5rem !important; text-align: center; border: 1px solid rgba(36,197,232,.4); border-radius: .4rem; background: rgba(36,197,232,.08); font-size: .75rem; font-weight: 650; }
+.smithing-build aside { font-size: .78rem; line-height: 1.6; }
+.smithing-search { padding: 1rem; border: 1px solid rgba(36,197,232,.3); border-radius: .75rem; margin: 1rem 0; }
+.smithing-search label { display: block; font-size: .8rem; font-weight: 700; }
+.smithing-search input { display: block; width: 100%; margin: .5rem 0; padding: .7rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); border: 1px solid rgba(120,151,183,.5); border-radius: .4rem; font: inherit; }
+.smithing-search button { cursor: pointer; padding: .4rem .7rem; border: 1px solid rgba(36,197,232,.4); border-radius: .35rem; font: inherit; font-size: .7rem; }
+.smithing-search p { margin: .55rem 0 0; font-size: .7rem; }
+.smithing-group { border: 1px solid rgba(120,151,183,.3); border-radius: .6rem; margin: .65rem 0; overflow: hidden; }
+.smithing-group > summary { cursor: pointer; padding: .85rem 1rem; font-weight: 650; font-size: .8rem; background: rgba(36,197,232,.05); }
+.smithing-group > summary span { float: right; font-size: .65rem; font-weight: 450; margin-left: .5rem; }
+.smithing-recipe-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; padding: .8rem; }
+.smithing-recipe { padding: 1rem; border: 1px solid rgba(120,151,183,.25); border-radius: .5rem; min-width: 0; }
+.smithing-recipe h3 { margin: 0 0 .65rem !important; font-size: .85rem; font-weight: 750; }
+.smithing-recipe h3 span { font-weight: 450; opacity: .75; }
+.smithing-recipe ul { margin: .6rem 0 .6rem 1rem; font-size: .72rem; }
+.smithing-recipe > p, .smithing-evidence { font-size: .7rem; line-height: 1.6; }
+.smithing-evidence summary { cursor: pointer; }
+.smithing-evidence code { overflow-wrap: anywhere; }
+.smithing-recipe[hidden], .smithing-group[hidden] { display: none !important; }
+@media screen and (max-width: 40rem) { .smithing-build, .smithing-recipe-grid { grid-template-columns: minmax(0, 1fr); } }
 .hipokute-harvest-card details { margin: .8rem 1rem 1rem; font-size: .7rem; line-height: 1.6; }
 .hipokute-harvest-card details p { margin: .6rem 0; }
 .hipokute-harvest-card .reference-eyebrow { color: var(--tsr-cyan); }

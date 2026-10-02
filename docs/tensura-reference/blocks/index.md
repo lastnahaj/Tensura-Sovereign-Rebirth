@@ -469,16 +469,16 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="smithing bench tensura&#x27;s specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear.">
+<article class="reference-card" data-letter="S" data-search="smithing bench build the bench, learn every required schematic, and compare 298 packaged equipment recipes before gathering materials.">
 <a href="blocks-smithing-bench/" aria-label="Open Smithing Bench">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/blocks/smithing-bench.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
 </figure>
 <div class="reference-card-copy">
 <h2>Smithing Bench</h2>
 
-<p>Tensura&#x27;s specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear.</p>
+<p>Build the bench, learn every required schematic, and compare 298 packaged equipment recipes before gathering materials.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

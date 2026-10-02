@@ -49,7 +49,7 @@ tags: []
 <div class="collapsible-content">
 <p>If you killed a few monsters, you can also obtain something called <a href="../../items/items-mob-drops/" title="Items/Mob Drops">"Monster Leather"</a> which you can use to make different kinds of <a href="../../items/items-schematics-monster-leather-gear-schematic/" title="Items/Schematics/Monster Leather Gear Schematic">Monster Leather Armor</a> which <a href="../gear-evolution/" title="Gear Evolution">evolves as you gain EP</a>.
 </p><p>...But to make Monster Leather Armor you must obtain a <a href="../../blocks/blocks-smithing-bench/" title="Blocks/Smithing Bench">Smithing Bench</a>.
-This special crafting table requires 2 iron, 3 paper, a crafting table and 2 planks.
+In the pinned 1.21.1 recipe, craft it with 2 paper, a crafting table, a smithing table, and 2 planks. Learn the required schematic before making equipment; the bench draws ingredients from your player inventory.
 </p>
 </div>
 <h3><span class="mw-headline" id="About_skills">About skills</span></h3>

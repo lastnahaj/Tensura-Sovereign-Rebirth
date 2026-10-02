@@ -328,9 +328,19 @@
     "summary": "The block form of Slime Chunks, represented with its verified upstream game texture."
   },
   "tensura-reference/blocks/blocks-smithing-bench.md": {
-    "asset": "assets/upstream/tensura/items/smithing-bench-314603d39c.png",
-    "kind": "source",
-    "summary": "Tensura's specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear."
+    "asset": "assets/images/blocks/smithing-bench.webp",
+    "kind": "original",
+    "summary": "Tensura's specialist crafting station for schematic-unlocked armor, weapons, tools, and other gear.",
+    "credit": "TSR workstation illustration",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ca687ec8ee0a91f7ce7e535ecb7b121165f4e6a5b26e44446688aa1f29d0f5e7",
+    "source_review": {
+      "date": "2026-09-30",
+      "article": "https://tensura.wiki.gg/wiki/Blocks/Smithing_Bench",
+      "file_page": "https://tensura.wiki.gg/wiki/File:Smithing_Bench.png",
+      "result": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission."
+    }
   },
   "tensura-reference/blocks/blocks-silver-ore.md": {
     "asset": "assets/upstream/tensura/items/silver-ore-58a494883b.png",

@@ -47,7 +47,7 @@ tags:
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../blocks-smithing-bench/">
-<img src="../../../assets/upstream/tensura/items/smithing-bench-314603d39c.png" alt="" loading="lazy" decoding="async">
+<img src="../../../assets/images/blocks/smithing-bench.webp" alt="Smithing Bench illustration" loading="lazy" decoding="async">
 <span class="reference-related-copy">
 <strong>Smithing Bench</strong>
 <small>The Smithing Bench is used to make a variety of Tensura:Reincarnated Armor, Gear and other special items. Most of the…</small>

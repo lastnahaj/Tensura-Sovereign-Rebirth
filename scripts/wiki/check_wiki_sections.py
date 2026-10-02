@@ -368,6 +368,22 @@ assert all('Work In Progress' not in path.read_text(encoding='utf-8') for path i
 smithing = block_sources[-1].read_text(encoding='utf-8')
 assert all(name in smithing for name in ('Dark Set', 'Silver Set', 'Ant Set', 'Clown Masks')), 'Block cleanup discarded source gear-set names'
 assert 'Recipe coverage' in smithing, 'Undocumented smithing sets need an explicit recipe-coverage limit'
+from smithing_reference import manifest as smithing_manifest
+smithing_data = smithing_manifest()
+assert len(smithing_data['recipes']) == smithing_data['recipe_count'] == 298, 'Smithing recipe count changed'
+assert len({r['resource'] for r in smithing_data['recipes']}) == 298, 'Duplicate smithing recipes'
+assert len({s['id'] for r in smithing_data['recipes'] for s in r['schematics']}) == smithing_data['schematic_count'] == 33, 'Smithing schematic count changed'
+smithing_rendered = BeautifulSoup((site / 'tensura-reference/blocks/blocks-smithing-bench/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert len(smithing_rendered.select('[data-smithing-recipe]')) == 298, 'Smithing browser lost recipes'
+assert smithing_rendered.select_one('[data-smithing-search]') and smithing_rendered.select_one('[data-smithing-clear]'), 'Smithing browser controls missing'
+assert len(smithing_rendered.select('.smithing-pattern td')) == 6, 'Bench crafting layout changed'
+for fact in ('player inventory', 'all required schematics', 'axe-mineable', 'live crafting untested'):
+    assert fact in smithing_rendered.get_text(), f'Smithing behavior or scope missing: {fact}'
+for recipe in smithing_data['recipes']:
+    assert all(i['count'] > 0 for i in recipe['ingredients']), 'Invalid smithing ingredient quantity'
+    assert recipe['resource'].startswith('data/tensura/recipe/smithing/') and len(recipe['sha256']) == 64, 'Smithing resource provenance missing'
+starter_text = (ROOT / 'docs/tensura-reference/core-mechanics/getting-started.md').read_text(encoding='utf-8')
+assert '2 iron, 3 paper' not in starter_text and '2 paper, a crafting table, a smithing table, and 2 planks' in starter_text, 'Outdated beginner bench recipe'
 ice_ore = (ROOT / 'docs/mysticism-reference/blocks/blocks-ice-ore.md').read_text(encoding='utf-8')
 for exact_fact in ('Y 55 and 100', 'diamond-tier', 'Silk Touch', 'Fortune'):
     assert exact_fact in ice_ore, f'Ice Ore verification detail missing: {exact_fact}'

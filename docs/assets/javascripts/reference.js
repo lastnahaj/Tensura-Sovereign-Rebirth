@@ -467,6 +467,40 @@
     update();
   }
 
+  function setupSmithingRecipes(browser) {
+    if (browser.dataset.smithingReady === "true") return;
+    const input = browser.querySelector("[data-smithing-search]");
+    const clear = browser.querySelector("[data-smithing-clear]");
+    const status = browser.querySelector("[data-smithing-status]");
+    const empty = browser.querySelector("[data-smithing-empty]");
+    const groups = Array.from(browser.querySelectorAll(".smithing-group"));
+    const recipes = Array.from(browser.querySelectorAll("[data-smithing-recipe]"));
+    if (!input || !status || !empty) return;
+    browser.dataset.smithingReady = "true";
+    let searching = false;
+    const originalOpen = new Map();
+    const update = () => {
+      const query = normalize(input.value);
+      if (query && !searching) groups.forEach((group) => originalOpen.set(group, group.open));
+      let count = 0;
+      recipes.forEach((recipe) => {
+        recipe.hidden = !!query && !normalize(recipe.dataset.search || "").includes(query);
+        if (!recipe.hidden) count += 1;
+      });
+      groups.forEach((group) => {
+        group.hidden = !Array.from(group.querySelectorAll("[data-smithing-recipe]")).some((recipe) => !recipe.hidden);
+        if (query) group.open = !group.hidden;
+        else if (searching) group.open = originalOpen.get(group) || false;
+      });
+      searching = !!query;
+      status.textContent = query ? `Showing ${count} of ${recipes.length} packaged recipes` : `${recipes.length} packaged recipes · expand a schematic group below`;
+      empty.hidden = count !== 0;
+    };
+    input.addEventListener("input", update);
+    clear?.addEventListener("click", () => { input.value = ""; update(); input.focus(); });
+    update();
+  }
+
   function boot() {
     setupItemMedia();
     document.querySelectorAll(".reference-directory").forEach(setupDirectory);
@@ -475,6 +509,7 @@
     document.querySelectorAll("[data-gamerule-reference]").forEach(setupGameruleReference);
     document.querySelectorAll("[data-potion-planner]").forEach(setupPotionPlanner);
     document.querySelectorAll("[data-hipokute-calculator]").forEach(setupHipokuteCalculator);
+    document.querySelectorAll("[data-smithing-browser]").forEach(setupSmithingRecipes);
     const article = document.querySelector(".tensura-reference-article");
     if (!article || article.dataset.referenceReady === "true") return;
     article.dataset.referenceReady = "true";

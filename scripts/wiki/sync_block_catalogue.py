@@ -46,7 +46,10 @@ SMITHING_NOTE = '''<!-- block-verification:start -->
 
 
 def load_manifest():
-    return json.loads(MANIFEST.read_text(encoding="utf-8"))
+    data = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    from smithing_reference import entry
+    data['pages'].append(entry())
+    return data
 
 
 def apply(records):
@@ -131,6 +134,8 @@ def generate():
             aliases = ''.join('<span id="' + html.escape(anchor, quote=True) + '"></span>' for anchor in anchors)
             content = content.replace('## ' + heading + '\n', aliases + '\n\n## ' + heading + '\n', 1)
         result[page['local_page']] = content
+    from smithing_reference import PAGE, generate as generate_smithing
+    result[PAGE] = generate_smithing()
     return result
 
 
