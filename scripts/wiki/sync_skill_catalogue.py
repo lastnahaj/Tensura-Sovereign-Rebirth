@@ -319,6 +319,10 @@ def acquisition(text, page, decision):
     reviewed = reviewed_nightmares_acquisition(page, decision)
     if reviewed:
         return reviewed
+    from lucifer_acquisition import acquisition as reviewed_lucifer_acquisition
+    reviewed = reviewed_lucifer_acquisition(page, decision)
+    if reviewed:
+        return reviewed
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
@@ -397,6 +401,8 @@ def prepare_page(page, decision, text):
         obtain, documented = acquisition(text, page, decision)
         from nightmares_acquisition import successor
         obtain += successor(page, decision)
+        from lucifer_acquisition import successor as lucifer_successor
+        obtain += lucifer_successor(page, decision)
         evidence = "Pinned pack inventory"
         notice = ""
         if decision["status"] == "reference":
@@ -409,6 +415,13 @@ def prepare_page(page, decision, text):
             if decision.get('id') == 'trnightmare:asmodeus':
                 notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
                 text = re.sub(r'(<div class="druid-data druid-data-Other[^>]*>).*?(</div>)', lambda m: m[1] + '<a href="#how-to-obtain">Reviewed Lust evolution conditions</a> · server build match pending' + m[2], text, count=1, flags=re.S)
+            if decision.get('id') == 'trnightmare:lucifer':
+                text = re.sub(r'<aside class="skill-evidence-note" aria-label="Acquisition source discrepancy">.*?</aside>', '<aside class="skill-evidence-note" aria-label="Acquisition source discrepancy"><strong>Acquisition source discrepancy checked.</strong> The source’s introduction and infobox do not establish one combined unlock route. Use the reviewed automatic conditions below; running-server availability and alternative triggers remain unverified.</aside>', text, count=1, flags=re.S)
+                notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
+                text = re.sub(r'(<div class="druid-data druid-data-Other[^>]*>).*?(</div>)', lambda m: m[1] + '<a href="#how-to-obtain">Reviewed Pride evolution conditions</a> · server build match pending' + m[2], text, count=1, flags=re.S)
+                from lucifer_acquisition import review as lucifer_review
+                mastery = lucifer_review()['lucifer']['default_lucifer_mastery']
+                text = re.sub(r'(<div class="druid-data druid-data-PointstoMaster[^>]*>).*?(</div>)', lambda m: m[1] + f'{mastery:,} (reference default)' + m[2], text, count=1, flags=re.S)
         section = f'<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">{html.escape(label)} · {evidence}</p><h2 id="how-to-obtain">How to obtain</h2>{notice}{obtain}</section>'
         if not decision.get("maintained"):
             browse = relative(page, "tensura-reference/" + decision["category"] + "/") + "/"

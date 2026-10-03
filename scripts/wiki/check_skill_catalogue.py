@@ -87,6 +87,30 @@ def main():
     successor_link = lust_article.select_one('.skill-successor-note a')
     if not successor_link or 'nightmares-asmodeus' not in successor_link['href']:
         errors.append('Lust successor guidance missing')
+    from lucifer_acquisition import review as lucifer_review
+    lucifer_data = lucifer_review()
+    if lucifer_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or lucifer_data['reference_build']['installed_version_verified'] is not False:
+        errors.append('Lucifer acquisition artifact identity or coverage drifted')
+    import tomllib
+    base_predicate = lucifer_data['base_predicate_reference']
+    base_manifest = tomllib.loads((ROOT / base_predicate['manifest']).read_text(encoding='utf-8'))
+    if base_predicate['sha1'] != base_manifest['download']['hash'] or len(lucifer_data['class_sha256']) != 6:
+        errors.append('Lucifer predecessor or configuration evidence drifted')
+    lucifer = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-lucifer.md'], 'html.parser')
+    lucifer_panel = lucifer.select_one('.nightmares-acquisition-review')
+    if not lucifer_panel or len(lucifer_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Lucifer acquisition route panels missing')
+    lucifer_text = lucifer_panel.get_text(' ', strip=True) if lucifer_panel else ''
+    for phrase in ('non-temporary', '100 mastered skill instances', '1,700,000 maximum Magicules', '40% of maximum health', 'getHealth() / getMaxHealth() <= configured percentage', 'No Ultimate-skill hit condition', 'removes Pride', '15,000'):
+        if phrase not in lucifer_text:
+            errors.append(f'Lucifer acquisition fact missing: {phrase}')
+    mastery_cell = lucifer.select_one('.druid-data-PointstoMaster')
+    if not mastery_cell or mastery_cell.get_text(' ', strip=True) != '15,000 (reference default)':
+        errors.append('Lucifer mastery infobox retained the older source value')
+    pride_article = BeautifulSoup(outputs['tensura-reference/skills/unique/pride.md'], 'html.parser')
+    pride_successor = pride_article.select_one('.skill-successor-note a')
+    if not pride_successor or 'nightmares-lucifer' not in pride_successor['href']:
+        errors.append('Pride successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -295,7 +319,8 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        source_rows = [] if record['registry_id'] == nightmare_review['asmodeus']['registry_id'] else record['obtainment_rows']
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id']}
+        source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:
                 errors.append(f"Source obtainment condition dropped: {record['registry_id']} / {row['label']}")

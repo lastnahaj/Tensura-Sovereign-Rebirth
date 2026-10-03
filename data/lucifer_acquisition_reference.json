@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "base_predicate_reference": {
+    "manifest": "pack/mods/tensura-reincarnated.pw.toml",
+    "version": "2.0.1.2",
+    "sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+    "class": "io/github/manasmods/tensura/ability/SkillUtils.class",
+    "class_sha256": "9e0f00a32940928e30723c3fd651235ba2ead76363efe71fc1c83a07589bc3d7",
+    "hasSkillFully": "Own non-temporary skill instance with mastery greater than or equal to zero; does not require isMastered."
+  },
+  "lucifer": {
+    "registry_id": "trnightmare:lucifer",
+    "predecessor": "tensura:pride",
+    "predecessor_fully_learned_non_temporary": true,
+    "predecessor_mastery_required_by_selected_check": false,
+    "default_mastered_skill_count": 100,
+    "mastered_count_source": "SkillAPI.getSkillsFrom(entity).getLearnedSkills(); count each instance whose isMastered(entity) is true",
+    "mastered_count_comparison": "greater than or equal",
+    "default_max_magicules_requirement": 1700000,
+    "resource_check": "EnergyHelper.getMaxMagicule(player) + 0.000001 >= getDefaultAcquiringMagiculeCost()",
+    "default_hp_ratio_float": 0.4,
+    "health_check": "getMaxHealth() > 0 and getHealth() / getMaxHealth() <= configured HP percentage",
+    "ultimate_hit_required_by_selected_check": false,
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {
+      "nightmare_ultimates": true,
+      "auto_evolve": true
+    },
+    "default_lucifer_mastery": 15000,
+    "mastery_config_key": "ultMasteryConfig.masterySinUlt",
+    "helper_forgets_predecessor_after_success": true,
+    "verification_scope": "Selected Lucifer learning/acquisition methods, condition-list construction, mastery count and health predicates, configuration defaults, and selected base skill-learning predicate. Shared helper and gamerule evidence is recorded in nightmares_acquisition_review.json. No live evolution, event-cadence, complete effect, or running-server configuration test was performed; other acquisition routes remain unverified."
+  },
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$UltMastery.class": "4a7f79ad4b0202efae7c37f35fff3aaac3514b0d82e129e428178d5093844759",
+    "com/github/hvnbael/trnightmare/main/ultimates/LuciferSkill.class": "eaabe3be3f2c7e60f86db2fdb4ce0319c8ec681f3ed0dfed67c755c38b3f3a5b",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Lucifer.class": "b38a76e89f0b831d0eababe73f4bbb095847386ea074e711d642c11026691ac3",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$HPPercentCondition.class": "12663681069123b8e300103f254a66a861c1317cb850a78b4db2bd0353b73467",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$MasteredSkillCountCondition.class": "0621942bf0408d3e573fa80e8ec81a6ebb2f79464761ba2000a4e5bddf077824",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$LearnedManasSkillCondition.class": "c2ec926e339124f184f9f6c1bcd85df97445d65663e4e53b69219a35a965c7ee"
+  }
+}

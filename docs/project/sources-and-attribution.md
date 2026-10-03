@@ -197,6 +197,8 @@ The [Mysticism command annotation review](https://github.com/lastnahaj/Tensura-S
 
 The [Nightmares acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/nightmares_acquisition_review.json) records the reference-build Lust-to-Asmodeus conditions and ten relevant class checksums. Maximum Magicules, player statistics, rule gates, and predecessor handling are distinguished from source-described effects. The September 20 client inventory names the same release, but contains no artifact digest and does not establish live-server deployment or settings.
 
+The [Lucifer acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/lucifer_acquisition_reference.json) distinguishes fully learned Pride from mastered Pride, counts current mastered skill instances, and records the selected health, capacity, and configuration comparisons. The 15,000 mastery default replaces the older source value. The checked automatic path does not establish an Ultimate-hit requirement, alternative triggers, or successful server evolution; effect descriptions retain their separate source attribution.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.
