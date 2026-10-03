@@ -1,0 +1,31 @@
+{
+  "minecraft": "1.21.1",
+  "version": "2.1.2",
+  "reviewed_on": "2026-10-02",
+  "artifact_sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+  "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+  "source_article": "https://trmysticism.wiki.gg/wiki/Ultimate_Skill_Aquisition",
+  "source_revision": 3427,
+  "class_sha256": {
+    "io/github/Memoires/mysticism/registry/skill/UltimateMysticismSkills.class": "acf8bb1d421158d43a3e5a2b14292a2114ea8bd5a66f7cbbc715ff6497abc228",
+    "io/github/Memoires/mysticism/ability/skill/ultimate/EmbryoSkill.class": "98a282c0288502013fdeb85ce3deee1b96cfe4697c362add56a6c8cbb1d2da41"
+  },
+  "registered_in_reviewed_ultimate_registry": ["mysticism:embryo"],
+  "embryo": {
+    "type": "ULTIMATE",
+    "tier": "LORD",
+    "title": "The Seed of Genesis",
+    "declared_methods": ["constructor", "getSkillTitle", "getSkillIcon", "getSkillDescription"],
+    "catalogue_status": "held",
+    "survival_acquisition_verified": false,
+    "completed_effect_verified": false
+  },
+  "legacy_requirements_verified_for_selected_build": false,
+  "empty_onboarding_source": {
+    "url": "https://trmysticism.wiki.gg/wiki/Getting_Started",
+    "recorded_revision": 656,
+    "rendered_source_review": "Only an editorial maintenance banner; no player onboarding instructions."
+  },
+  "verification_scope": "Selected Ultimate registry and Embryo class identities and declarations. No live gameplay, inherited behavior audit, survival acquisition test, random-book reward test, or universal Ultimate unlock conditions."
+}

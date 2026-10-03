@@ -6,7 +6,7 @@
 <h1>Core Mechanics</h1>
 <p>Foundational resources and progression mechanics.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>62</strong> articles</span>
+<span class="reference-count"><strong>61</strong> articles</span>
 </div>
 </div>
 </header>
@@ -35,7 +35,7 @@
 <button type="button" data-letter="T" aria-pressed="false">T</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 62 of 62 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 61 of 61 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="ability usage tensura: reincarnated comes with many different ways of utilizing abilities.">
@@ -449,17 +449,6 @@
 <h2>Getting Started</h2>
 
 <p>When spawning in, a menu will pop up, showing races you can pick. Depending on what race you pick, the difficulty of your progression will change.</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="G" data-search="getting started upstream reference information for getting started.">
-<a href="../../mysticism-reference/core-mechanics/getting-started/" aria-label="Open Getting Started">
-<div class="reference-card-copy">
-<h2>Getting Started</h2>
-
-<p>Upstream reference information for Getting Started.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

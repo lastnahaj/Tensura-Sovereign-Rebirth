@@ -42,6 +42,8 @@ def style_directory(content, category, page, policy=None):
         overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "battlewill-training/")}">Learning &amp; mastery guide <span aria-hidden="true">→</span></a>', 'html.parser').a
     if category == 'magic':
         overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "magic-learning/")}">Spell schools &amp; tome learning <span aria-hidden="true">→</span></a>', 'html.parser').a
+    if category == 'skills/ultimate':
+        overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "mysticism-reference/skills/ultimate/ultimate-skill-aquisition/")}">Acquisition &amp; version guidance <span aria-hidden="true">→</span></a>', 'html.parser').a
     if overview:
         replacement = replacement.replace('</header>', str(overview) + '</header>')
     content = re.sub(r'<header class="reference-directory-hero[^>]*>.*?</header>', lambda _: replacement, content, count=1, flags=re.S)

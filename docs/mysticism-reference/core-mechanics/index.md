@@ -6,7 +6,7 @@
 <h1>Core Mechanics</h1>
 <p>Foundational resources and progression mechanics.</p>
 <div class="reference-directory-hero-actions">
-<span class="reference-count"><strong>29</strong> articles</span>
+<span class="reference-count"><strong>28</strong> articles</span>
 </div>
 </div>
 </header>
@@ -23,7 +23,6 @@
 <button type="button" data-letter="D" aria-pressed="false">D</button>
 <button type="button" data-letter="E" aria-pressed="false">E</button>
 <button type="button" data-letter="F" aria-pressed="false">F</button>
-<button type="button" data-letter="G" aria-pressed="false">G</button>
 <button type="button" data-letter="I" aria-pressed="false">I</button>
 <button type="button" data-letter="L" aria-pressed="false">L</button>
 <button type="button" data-letter="M" aria-pressed="false">M</button>
@@ -32,7 +31,7 @@
 <button type="button" data-letter="S" aria-pressed="false">S</button>
 <button type="button" data-letter="U" aria-pressed="false">U</button>
 </div>
-<p class="reference-filter-status" aria-live="polite">Showing 29 of 29 articles</p>
+<p class="reference-filter-status" aria-live="polite">Showing 28 of 28 articles</p>
 </div>
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="A" data-search="aura healing aura healing is caused by toggling the skill tenacity .">
@@ -170,15 +169,6 @@
 <div class="reference-card-copy">
 <h2>Fixation</h2>
 <p>Fixation is an effect that...</p>
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
-<article class="reference-card" data-letter="G" data-search="getting started upstream reference information for getting started.">
-<a href="getting-started/" aria-label="Open Getting Started">
-<div class="reference-card-copy">
-<h2>Getting Started</h2>
-<p>Upstream reference information for Getting Started.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

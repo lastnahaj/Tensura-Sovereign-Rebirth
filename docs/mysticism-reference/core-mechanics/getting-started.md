@@ -1,72 +1,24 @@
 ---
-title: Getting Started
-description: TR Mysticism reference for Getting Started.
-tags:
-- Work_in_Progress
+title: Mysticism — Start Here
+description: Use the TSR first-hour guide, selected Soul Energy reference, and prestige guide instead of an empty source import.
 ---
 
-# Getting Started
+# Mysticism — Start Here
 
-<span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Core Mechanics</span>
+<section class="reference-overview reference-theme-evolution staff-guide-hero smithing-guide-hero"><figure class="reference-overview-media"><img src="../../../assets/images/onboarding-realm-arrival.webp" alt="Original illustration of an adventurer arriving above a fantasy settlement" loading="eager" decoding="async"><figcaption>Original TSR onboarding artwork · not a screenshot</figcaption></figure><div class="reference-overview-copy"><p class="reference-eyebrow">Player guide · Minecraft 1.21.1</p><h2>Start with the realm. Then learn the system.</h2><p>The source onboarding page contains only an editorial maintenance banner. These TSR guides provide useful starting points without inventing Mysticism-specific beginner instructions.</p><nav class="reference-quick-jumps" aria-label="Starting guides"><a href="../../../getting-started/">First-hour route</a><a href="../../other/soul-energy/">Soul Energy</a><a href="../../../prestige-and-soul-grade/">Prestige</a></nav></div></section>
 
-<section class="reference-overview reference-theme-evolution">
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>Upstream reference information for Getting Started.</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
-</section>
+<div class="tensura-reference-article"><div class="chilled-crafting-grid mechanics-guide-grid">
+<article class="smithing-recipe mechanics-guide-card"><a href="../../../getting-started/"><img src="../../../assets/images/onboarding-realm-arrival.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Start</p><h3>Follow the first-hour route</h3><p>Read your reincarnation, establish a foothold, and use the local field checklist.</p><span class="reference-card-action">Open guide <span aria-hidden="true">→</span></span></a></article>
+<article class="smithing-recipe mechanics-guide-card"><a href="../../other/soul-energy/"><img src="../../../assets/images/guides/soul-energy.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Learn</p><h3>Understand Soul Energy</h3><p>Separate current balance, maximum capacity, acquisition costs, and checked reset callbacks.</p><span class="reference-card-action">Open guide <span aria-hidden="true">→</span></span></a></article>
+<article class="smithing-recipe mechanics-guide-card"><a href="../../../prestige-and-soul-grade/"><img src="../../../assets/images/guides/prestige-progression.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Plan</p><h3>Prepare for prestige</h3><p>Read the separate SlimeThrone Extras system before committing to reset or skill-lock decisions.</p><span class="reference-card-action">Open guide <span aria-hidden="true">→</span></span></a></article>
+</div></div>
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
+## Scope
 
-
-
-</div>
-</div>
-
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Core Mechanics</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../effects-fixation/">
-<img src="../../../assets/upstream/mysticism/misc/fixation-040a1ad293.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Fixation</strong>
-<small>Fixation is an effect that...</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-imbalanced/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Imbalanced</strong>
-<small>See Countering effect</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-eternal-permafrost/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Eternal Permafrost</strong>
-<small>Eternal Permafrost is applied by &quot;Waltz&quot; with its unique engraving, &quot;Boreal Frost&quot;.</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-intangible/">
-<img src="../../../assets/upstream/mysticism/misc/intangible-c1a728f794.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Intangible</strong>
-<small>Intangible is an effect that...</small>
-</span>
-</a>
-</div>
-</section>
-
----
+This preserved source address is a navigation guide, not an additional race, ability, or independent player progression system. Each linked guide carries its own evidence and verification limits.
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Getting Started](https://trmysticism.wiki.gg/wiki/Getting_Started) on the Tensura Reincarnated: Mysticism Wiki (revision `656`, modified `2025-03-12T21:05:27Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[Getting Started](https://trmysticism.wiki.gg/wiki/Getting_Started), recorded revision `656`, Mysticism Wiki, contains no player instructions beyond an editorial maintenance banner. Adapted source text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The linked guides cite their own implementation and upstream sources.
+
+[Source and artifact review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/ultimate_acquisition_reference.json). The three illustrations are original TSR thematic artwork, not in-game interfaces. The unrelated editorial portrait is omitted. [Sources and attribution](../../project/sources-and-attribution.md).

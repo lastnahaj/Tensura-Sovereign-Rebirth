@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">64 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">64 entries</span><a class="reference-directory-overview-link" href="../../../mysticism-reference/skills/ultimate/ultimate-skill-aquisition/">Acquisition &amp; version guidance <span aria-hidden="true">→</span></a></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../">All abilities</a><a href="../intrinsic/">Intrinsic</a><a href="../common/">Common</a><a href="../extra/">Extra</a><a href="../unique/">Unique</a><a href="./" aria-current="page">Ultimate</a><a href="../../battlewill/">Battlewill</a><a href="../../magic/">Magic</a><a href="../../resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">

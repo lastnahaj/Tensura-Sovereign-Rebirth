@@ -6,7 +6,7 @@ hide:
 ---
 
 <section class="reference-directory skill-directory" data-reference-directory="skills/ultimate">
-<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">0 entries</span></header>
+<header class="skill-directory-heading"><p class="reference-eyebrow">Ability directory</p><h1>Ultimate Skills</h1><p>Ultimate-class skills and related evolutions.</p><span class="skill-entry-count">0 entries</span><a class="reference-directory-overview-link" href="ultimate-skill-aquisition/">Acquisition &amp; version guidance <span aria-hidden="true">→</span></a></header>
 <nav class="skill-type-nav" aria-label="Ability categories"><a href="../../../tensura-reference/skills/">All abilities</a><a href="../../../tensura-reference/skills/intrinsic/">Intrinsic</a><a href="../../../tensura-reference/skills/common/">Common</a><a href="../../../tensura-reference/skills/extra/">Extra</a><a href="../../../tensura-reference/skills/unique/">Unique</a><a href="../../../tensura-reference/skills/ultimate/" aria-current="page">Ultimate</a><a href="../../../tensura-reference/battlewill/">Battlewill</a><a href="../../../tensura-reference/magic/">Magic</a><a href="../../../tensura-reference/resistances/">Resistances</a></nav>
 <div class="reference-directory-tools">
 <label class="reference-filter-label">

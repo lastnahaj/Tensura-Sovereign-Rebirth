@@ -642,4 +642,25 @@ assert len(soul_article.select('details summary')) >= 2, 'Soul Energy evidence d
 for fact in ('uniqueSECost', '100,000–249,999', '500,000–999,999', 'equal to the cost', 'not a complete reset outcome', 'not an in-game icon'):
     assert fact in soul_article.get_text(' ', strip=True), f'Soul Energy detail missing: {fact}'
 assert not any('mysticism-wip-6c2780ef0a.png' in page.read_text(encoding='utf-8') for page in (ROOT / 'docs').rglob('*.md')), 'Withdrawn Mysticism portrait remains in distribution'
+from ultimate_acquisition_reference import PAGE as acquisition_page, START_PAGE as acquisition_start, generate_all as generate_acquisition_guides
+acquisition_data = json.loads((ROOT / 'data/ultimate_acquisition_reference.json').read_text(encoding='utf-8'))
+assert acquisition_data['artifact_sha1'] == soul_pack['download']['hash'], 'Stale acquisition artifact'
+assert acquisition_data['registered_in_reviewed_ultimate_registry'] == ['mysticism:embryo']
+assert not acquisition_data['embryo']['survival_acquisition_verified'] and not acquisition_data['embryo']['completed_effect_verified']
+for page, expected in generate_acquisition_guides().items():
+    assert (ROOT / 'docs' / page).read_text(encoding='utf-8') == expected, f'Stale acquisition guide: {page}'
+acquisition_guide = BeautifulSoup((site / acquisition_page.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+assert acquisition_guide.select_one('#Requirements') and acquisition_guide.select_one('#Notes'), 'Acquisition bookmarks missing'
+assert acquisition_guide.select('details summary'), 'Historical acquisition disclosure missing'
+for fact in ('held out of the playable ability catalogue', 'not live gameplay tests', 'mysticism:embryo', 'Soul Grade'):
+    assert fact in acquisition_guide.get_text(' ', strip=True), f'Acquisition evidence limit missing: {fact}'
+start_guide = BeautifulSoup((site / acquisition_start.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+assert len(start_guide.select('.mechanics-guide-card > a')) == 3, 'Starting guide routes missing'
+for directory in ('tensura-reference/core-mechanics', 'mysticism-reference/core-mechanics'):
+    directory_soup = BeautifulSoup((site / directory / 'index.html').read_text(encoding='utf-8'), 'html.parser')
+    assert not directory_soup.select('.reference-card a[href*="mysticism-reference/core-mechanics/getting-started"]'), 'Empty onboarding import remains a directory card'
+    if directory.startswith('mysticism'):
+        assert not directory_soup.select('.reference-card a[href="getting-started/"]'), 'Duplicate Mysticism onboarding card'
+ultimate_directory = BeautifulSoup((site / 'tensura-reference/skills/ultimate/index.html').read_text(encoding='utf-8'), 'html.parser')
+assert 'ultimate-skill-aquisition' in ultimate_directory.select_one('.reference-directory-overview-link')['href'], 'Acquisition guide directory link missing'
 print('Wiki section checks passed: 11 navigation sections, populated directories, corrected media, source-backed stats and commands, and race configurations')
