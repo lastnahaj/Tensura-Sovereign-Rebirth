@@ -176,6 +176,30 @@ def main():
     greed_successor = greed_article.select_one('.skill-successor-note a')
     if not greed_successor or 'nightmares-mammon' not in greed_successor['href']:
         errors.append('Greed successor guidance missing')
+    from leviathan_acquisition import review as leviathan_review
+    leviathan_data = leviathan_review()
+    if leviathan_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or leviathan_data['reference_build']['installed_version_verified'] is not False or len(leviathan_data['class_sha256']) != 2:
+        errors.append('Leviathan acquisition identity, scope, or class coverage drifted')
+    raid_facts = leviathan_data['leviathan']
+    reward_facts = leviathan_data['stasis_learning_attempt']
+    if raid_facts['true_hero_required_by_selected_evolution'] is not False or reward_facts['leviathan_mastery_required_by_selected_reward'] is not False or reward_facts['learning_return_checked'] is not False or reward_facts['notification_is_success_proof'] is not False:
+        errors.append('Leviathan evolution and Stasis reward predicates were conflated')
+    for page, phrases in {
+        'tensura-reference/skills/ultimate/nightmares-leviathan.md': ('5 recorded raid wins', '1,500,000 maximum Magicules', 'Stats.RAID_WIN', 'removes Envy', 'Conditional reward', 'auto_evolve', 'nightmare_ultimates'),
+        'tensura-reference/skills/unique/nightmares-stasis.md': ('True Hero', 'non-temporary', 'does not require Leviathan mastery', 'notification is not proof', 'discards the boolean result', 'before its toggle-state return'),
+    }.items():
+        reviewed_article = BeautifulSoup(outputs[page], 'html.parser')
+        reviewed_panel = reviewed_article.select_one('.nightmares-acquisition-review')
+        if not reviewed_panel or len(reviewed_panel.select('.skill-reading-guide > div')) != 3:
+            errors.append(f'Leviathan/Stasis acquisition panels missing: {page}')
+        reviewed_text = reviewed_panel.get_text(' ', strip=True) if reviewed_panel else ''
+        for phrase in phrases:
+            if phrase not in reviewed_text:
+                errors.append(f'Leviathan/Stasis acquisition fact missing: {phrase}')
+    envy_article = BeautifulSoup(outputs['tensura-reference/skills/unique/envy.md'], 'html.parser')
+    envy_successor = envy_article.select_one('.skill-successor-note a')
+    if not envy_successor or 'nightmares-leviathan' not in envy_successor['href']:
+        errors.append('Envy successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -384,7 +408,7 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id']}
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id'], raid_facts['registry_id']}
         source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

@@ -5,6 +5,7 @@ from nightmares_acquisition import review as nightmares_review
 from lucifer_acquisition import review as lucifer_review
 from belphegor_acquisition import review as belphegor_review
 from mammon_acquisition import review as mammon_review
+from leviathan_acquisition import review as leviathan_review
 
 
 def relationships():
@@ -12,6 +13,7 @@ def relationships():
     lucifer = lucifer_review()['lucifer']
     belphegor = belphegor_review()['belphegor']
     mammon = mammon_review()['mammon']
+    leviathan = leviathan_review()['leviathan']
     return [
         {
             'from': asmodeus['predecessor'],
@@ -57,6 +59,26 @@ def relationships():
                 f'{mammon["default_max_magicules_requirement"]:,} maximum Magicules. '
                 'Gamerules and skill configuration must allow the route. '
                 'The selected gold check does not consume blocks; the helper removes Greed after success. Server evolution remains unverified.'
+            ),
+        },
+        {
+            'from': leviathan['predecessor'],
+            'to': leviathan['registry_id'],
+            'kind': 'Reference-build evolution',
+            'requirements': (
+                f'Reference defaults: mastered non-temporary Envy; {leviathan["default_raid_wins"]} recorded raid wins; '
+                f'{leviathan["default_max_magicules_requirement"]:,} maximum Magicules. '
+                'Gamerules and skill configuration must allow the route. '
+                'The helper removes Envy after success. True Hero state belongs to the separate Stasis reward check. Server evolution remains unverified.'
+            ),
+        },
+        {
+            'from': leviathan['registry_id'],
+            'to': 'trnightmare:stasis',
+            'kind': 'Reference-build conditional learning',
+            'requirements': (
+                'Reference check: True Hero state and own fully learned, non-temporary Leviathan; Leviathan mastery is not required. '
+                'The helper attempts Stasis learning and does not check the result before sending its notification. Server learning remains unverified.'
             ),
         },
     ]

@@ -5743,7 +5743,7 @@
       "source_partial": true,
       "asset": "assets/upstream/nightmares/skills/stasis.jpeg",
       "artwork_kind": "verified-source",
-      "obtainment_documented": false
+      "obtainment_documented": true
     },
     "tensura-reference/skills/unique/nightmares-cadence.md": {
       "id": "trnightmare:cadence",

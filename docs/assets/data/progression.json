@@ -8422,6 +8422,16 @@
       ]
     },
     {
+      "from": "tensura-reference/skills/ultimate/nightmares-leviathan/",
+      "to": "tensura-reference/skills/unique/nightmares-stasis/",
+      "kinds": [
+        "Reference-build conditional learning"
+      ],
+      "requirements": [
+        "Reference check: True Hero state and own fully learned, non-temporary Leviathan; Leviathan mastery is not required. The helper attempts Stasis learning and does not check the result before sending its notification. Server learning remains unverified."
+      ]
+    },
+    {
       "from": "tensura-reference/skills/ultimate/nightmares-lucifer/",
       "to": "tensura-reference/skills/ultimate/nightmares-nodens/",
       "kinds": [
@@ -8612,10 +8622,10 @@
       "from": "tensura-reference/skills/unique/envy/",
       "to": "tensura-reference/skills/ultimate/nightmares-leviathan/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Envy"
+        "Reference defaults: mastered non-temporary Envy; 5 recorded raid wins; 1,500,000 maximum Magicules. Gamerules and skill configuration must allow the route. The helper removes Envy after success. True Hero state belongs to the separate Stasis reward check. Server evolution remains unverified."
       ]
     },
     {

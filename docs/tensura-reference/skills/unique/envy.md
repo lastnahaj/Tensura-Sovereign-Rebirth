@@ -34,7 +34,7 @@ tags:
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
 <section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
-Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p><aside class="skill-evidence-note skill-successor-note"><strong>Nightmares evolution:</strong> <a href="../../ultimate/nightmares-leviathan/">Leviathan, Lord of Envy →</a> requires mastered non-temporary Envy, recorded raid wins, maximum Magicules, and enabled settings in the reviewed path. The helper removes Envy after success. True Hero state is part of its separate Stasis reward check; server build match and live evolution remain unverified.</aside></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">

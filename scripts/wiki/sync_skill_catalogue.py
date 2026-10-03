@@ -331,6 +331,10 @@ def acquisition(text, page, decision):
     reviewed = reviewed_mammon_acquisition(page, decision)
     if reviewed:
         return reviewed
+    from leviathan_acquisition import acquisition as reviewed_leviathan_acquisition
+    reviewed = reviewed_leviathan_acquisition(page, decision)
+    if reviewed:
+        return reviewed
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
@@ -415,6 +419,8 @@ def prepare_page(page, decision, text):
         obtain += belphegor_successor(page, decision)
         from mammon_acquisition import successor as mammon_successor
         obtain += mammon_successor(page, decision)
+        from leviathan_acquisition import successor as leviathan_successor
+        obtain += leviathan_successor(page, decision)
         evidence = "Pinned pack inventory"
         notice = ""
         if decision["status"] == "reference":
@@ -451,6 +457,12 @@ def prepare_page(page, decision, text):
             values = {'Other': '<a href="#how-to-obtain">Reviewed Greed evolution conditions</a> · server build match pending', 'Other2': '1,250,000 maximum Magicules (reference default)'}
             for field, value in values.items():
                 text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
+        if decision.get('id') in {'trnightmare:leviathan', 'trnightmare:stasis'}:
+            notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
+            if decision.get('id') == 'trnightmare:leviathan':
+                values = {'Other': '<a href="#how-to-obtain">Reviewed Envy evolution conditions</a> · server build match pending', 'Other2': '1,500,000 maximum Magicules and 5 recorded raid wins (reference defaults)'}
+                for field, value in values.items():
+                    text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
         from nightmares_mastery import apply as apply_mastery_review
         text, mastery_note = apply_mastery_review(text, decision)
         obtain += mastery_note

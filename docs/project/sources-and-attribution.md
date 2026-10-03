@@ -205,6 +205,8 @@ The [Sin Ultimate mastery review](https://github.com/lastnahaj/Tensura-Sovereign
 
 The [Mammon acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/mammon_acquisition_reference.json) records five additional class checksums and the selected Greed condition list. Recorded trades are not distinct-villager counts; raid wins are a separate statistic. Gold is counted from main-inventory stacks without consumption by the selected predicate. Capacity gates, predecessor replacement, and reference configuration are distinct from live eligibility and source-described effects.
 
+The [Leviathan and Stasis acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/leviathan_acquisition_reference.json) records the selected Envy evolution conditions and conditional Envious Hero learning helper. True Hero state belongs to the Stasis reward check, not the selected Leviathan condition list. The helper discards the learning result before sending a notification, so the documentation does not equate that message with successful learning. Callback order and reference defaults do not establish effective server timing, full learning charges, or live delivery.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

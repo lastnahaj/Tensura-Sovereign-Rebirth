@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "shared_reference": "data/nightmares_acquisition_review.json",
+  "raid_predicate_reference": "data/mammon_acquisition_reference.json",
+  "base_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "leviathan": {
+    "registry_id": "trnightmare:leviathan",
+    "predecessor": "tensura:envy",
+    "predecessor_fully_learned_non_temporary_and_mastered": true,
+    "default_raid_wins": 5,
+    "raid_counter": "Stats.CUSTOM / Stats.RAID_WIN",
+    "default_max_magicules_requirement": 1500000,
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {"nightmare_ultimates": true, "auto_evolve": true},
+    "helper_forgets_predecessor_after_success": true,
+    "true_hero_required_by_selected_evolution": false
+  },
+  "stasis_learning_attempt": {
+    "registry_id": "trnightmare:stasis",
+    "own_fully_learned_non_temporary_predecessor": "trnightmare:leviathan",
+    "player_required": true,
+    "true_hero_flag_required": true,
+    "leviathan_mastery_required_by_selected_reward": false,
+    "already_fully_learned_stasis_blocks_attempt": true,
+    "calls": "SkillHelper.learnSkill(player, UniqueSkills.STASIS)",
+    "learning_return_checked": false,
+    "notification_is_success_proof": false,
+    "recheck": "Leviathan onTick calls ensureEnviousHeroReward before its toggle-state return; successful selected evolution also invokes the helper. Effective runtime cadence and complete learning charges remain unverified."
+  },
+  "verification_scope": "Selected Leviathan learning/acquisition methods, its two-condition list, reference defaults, ensureEnviousHeroReward and onTick call order. Shared mastery, raid statistic, capacity, predecessor replacement, and base hasSkillFully predicates are recorded separately. No live evolution, True Hero awakening route, complete Stasis learning pipeline, reliable callback timing, effective server settings, or full effect audit.",
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/LeviathanSkill.class": "9c5c63d92d9b6518203debfab2023e814f143ba6448ef35dbe92d43c30d74f87",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Leviathan.class": "00e253a065c3b5302fa9b3ffddfbc30165c8d878f50cc3020609604f1a18da0a"
+  }
+}
