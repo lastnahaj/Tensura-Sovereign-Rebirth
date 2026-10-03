@@ -72,7 +72,7 @@ description: A visual first-hour guide to joining TSR, surviving reincarnation, 
 
 ## Choose a path, not a class
 
-Your starting choice is a direction, not a lock-in. These routes use systems present in the current 249-mod client snapshot; exact balance and campaign gates remain subject to beta validation.
+Your starting choice is a direction, not a lock-in. The [current modlist](current-modlist.md) records a **299-artifact client candidate**, captured September 20, 2026. That inventory is not a completed gameplay test; each route below retains its own implementation and validation limits.
 
 <section class="onboarding-paths" data-onboarding-paths>
   <div class="onboarding-path-tabs" role="tablist" aria-label="First progression paths">
@@ -93,7 +93,7 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
     </div>
   </div>
   <div class="onboarding-path-panel path-theme-hunt" id="path-hunt" role="tabpanel" aria-labelledby="path-hunt-tab" hidden>
-    <img src="../assets/images/reference-bestiary.png" alt="A fantasy bestiary of creatures and bosses" loading="lazy" decoding="async">
+    <img src="../assets/images/structures/charybdis-cave.webp" alt="Original Charybdis Cave illustration with ruined arches and a core chamber" loading="lazy" decoding="async">
     <div>
       <p class="reference-eyebrow">Adventure progression</p>
       <h3>Travel, hunt, and conquer carefully</h3>
@@ -101,10 +101,11 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
       <a href="../adventure-travel-and-loot/">Adventure, travel, and loot</a>
       <a href="../bosses-and-dimensions/">Bosses and dimensions</a>
       <a href="../tensura-reference/mobs/">Browse the bestiary</a>
+      <a href="../tensura-reference/structures/structures-charybdis-cave/">Charybdis Cave reference</a>
     </div>
   </div>
   <div class="onboarding-path-panel path-theme-forge" id="path-forge" role="tabpanel" aria-labelledby="path-forge-tab" hidden>
-    <img src="../assets/images/reference-world-equipment.png" alt="Equipment and structures in a magical world" loading="lazy" decoding="async">
+    <img src="../assets/images/blocks/smithing-bench.webp" alt="Original Smithing Bench illustration with a hammer and schematic" loading="lazy" decoding="async">
     <div>
       <p class="reference-eyebrow">Equipment and technology</p>
       <h3>Forge gear and build useful systems</h3>
@@ -112,6 +113,7 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
       <a href="../gear-evolution/">Gear Evolution</a>
       <a href="../forging-and-metalworks/">Forging and Metalworks</a>
       <a href="../storage-and-logistics/">Storage and logistics</a>
+      <a href="../tensura-reference/blocks/blocks-smithing-bench/">Schematic crafting guide</a>
     </div>
   </div>
   <div class="onboarding-path-panel path-theme-nation" id="path-nation" role="tabpanel" aria-labelledby="path-nation-tab" hidden>
@@ -127,20 +129,33 @@ Your starting choice is a direction, not a lock-in. These routes use systems pre
   </div>
 </section>
 
+## Before spending resources
+
+Learning a skill, mastering it, casting it, and retaining it through a reset are different decisions. Open the relevant guide before using a rare learning item or committing to a reset; a registry entry alone does not establish a working player obtainment route.
+
+<div class="chilled-crafting-grid mechanics-guide-grid onboarding-learning-routes">
+<article class="smithing-recipe mechanics-guide-card"><a href="../magic-learning/"><img src="../assets/images/items/magic-tome.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Spell learning</p><h3>Read the tome before using it</h3><p>Separate a stored spell from the configured random pool. Read consumption, duplicate, and failed-learning limits before attempting to learn.</p><span class="reference-card-action">Open the Magic Tome guide <span aria-hidden="true">→</span></span></a></article>
+<article class="smithing-recipe mechanics-guide-card"><a href="../battlewill-training/"><img src="../assets/illustrations/skills/battlewill.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Aura techniques</p><h3>Learn, then follow mastery</h3><p>Compare the configured manual results and checked mastery successors. A successor connection does not explain how to obtain the first technique.</p><span class="reference-card-action">Open Battlewill training <span aria-hidden="true">→</span></span></a></article>
+<article class="smithing-recipe mechanics-guide-card"><a href="../mysticism-reference/other/soul-energy/"><img src="../assets/images/guides/soul-energy.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Acquisition costs</p><h3>Know your Soul Energy balance</h3><p>Distinguish spendable energy from maximum capacity and casting resources. Check the selected Unique Skill handler’s cost and the guide’s live-server limits.</p><span class="reference-card-action">Open Soul Energy <span aria-hidden="true">→</span></span></a></article>
+<article class="smithing-recipe mechanics-guide-card"><a href="../prestige-and-soul-grade/"><img src="../assets/images/guides/prestige-progression.webp" alt="" loading="lazy" decoding="async"><p class="reference-eyebrow">Reset planning</p><h3>Read the lock and prestige rules</h3><p>Soul Grade belongs to SlimeThrone Extras, not Mysticism’s historical Soul Quality system. Check eligibility and retention limits before making a reset decision.</p><span class="reference-card-action">Open prestige and skill locks <span aria-hidden="true">→</span></span></a></article>
+</div>
+
+These learning-route, cave, and workstation illustrations are original TSR thematic artwork, not screenshots or exact in-game models. The linked guides cite their artifact, configuration, and upstream evidence; their reviewed behavior is not a guarantee of successful live-server progression.
+
 ## From first foothold to awakening
 
 Once food, shelter, controls, and claims are handled, use this three-part route instead of grinding without a target:
 
 <div class="progression-preview-grid">
 <a href="../tensura-reference/races/evolution-trees/"><img src="../assets/ascension/races/monkey.jpg" alt="A celestial monkey warrior"><span><b>1 · Map your race</b>Open the full evolution family, compare every stage, and note EP, status, naming, or essence gates.</span></a>
-<a href="../tensura-reference/skills/"><img src="../assets/ascension/skills/magicule_attunement.png" alt="Magicule Attunement icon"><span><b>2 · Map your skills</b>Follow mastery unlocks forward so Energy Charge, Magicule progression, and eligible Uniques do not become dead ends.</span></a>
-<a href="../ascension-and-awakening/"><img src="../assets/ascension/mechanics/ultimate_catalyst_recipe.png" alt="Ultimate Catalyst recipe"><span><b>3 · Prepare the ritual</b>Build the altar, craft a catalyst, meet the universal gates, and evolve a mastered Unique into its mapped Ultimate.</span></a>
+<a href="../tensura-reference/skills/"><img src="../assets/ascension/skills/magicule_attunement.png" alt="Magicule Attunement icon"><span><b>2 · Map your skills</b>Read obtainment conditions alongside mastery connections. A documented prerequisite is not proof of an automatic unlock.</span></a>
+<a href="../ascension-and-awakening/"><img src="../assets/ascension/mechanics/ultimate_catalyst_recipe.png" alt="Ultimate Catalyst recipe"><span><b>3 · Plan an Ascension ritual</b>Check the mapped Ascension Unique, altar, catalyst, and ritual gates. This is not a universal acquisition method for every Ultimate.</span></a>
 </div>
 
 ## When you are stuck
 
 <div class="stuck-grid">
-  <article><span>?</span><div><h3>I do not understand a race or skill</h3><p>Use the searchable <a href="../tensura-reference/">Tensura Reference</a>. Race pages expose evolution relationships; skill pages retain official descriptions and source attribution.</p></div></article>
+  <article><span>?</span><div><h3>I do not understand a race or skill</h3><p>Use the searchable <a href="../tensura-reference/">Tensura Reference</a>. Race pages expose evolution relationships; skill pages retain attributed source descriptions and documented obtainment conditions.</p></div></article>
   <article><span>⌨</span><div><h3>A menu or ability will not open</h3><p>Open Minecraft's Controls screen, search the relevant mod or action, and resolve conflicts. Pack updates and personal bindings can make remembered defaults inaccurate.</p></div></article>
   <article><span>⌂</span><div><h3>My base is vulnerable</h3><p>Review <a href="../teams-and-claims/">Teams & Claims</a>. Claim protection is the first line of defense; report destructive interactions that bypass it.</p></div></article>
   <article><span>!</span><div><h3>I found behavior the guide says is unverified</h3><p>Check the <a href="../compatibility-matrix/">Compatibility Matrix</a> and <a href="../roadmap/">Roadmap</a>. “Installed,” “starts,” and “fully validated” are intentionally different claims.</p></div></article>
@@ -151,8 +166,9 @@ Once food, shelter, controls, and claims are handled, use this three-part route 
 - The [Current Modlist](current-modlist.md) is the newest captured client snapshot and names its own verification limits.
 - The [Progression Overview](progression-overview.md) separates the major parallel systems.
 - The [Mod Guide Directory](mod-guide-directory/index.md) routes players to system-specific guides.
-- The imported Tensura and Mysticism references preserve official wiki.gg article revisions, File-page attribution, and license evidence. See [Upstream Attribution](project/upstream-attribution.md) and [Mysticism Attribution](project/mysticism-upstream-attribution.md).
+- The imported Tensura and Mysticism references preserve community wiki.gg article revisions, File-page attribution, and recorded license evidence. See [Upstream Attribution](project/upstream-attribution.md) and [Mysticism Attribution](project/mysticism-upstream-attribution.md).
+- The [Sources and Attribution ledger](project/sources-and-attribution.md) records per-file media reviews and withdrawals. A general wiki-content license is not automatic permission to reuse every image; the legacy media audit remains in progress.
 - Live activity uses the public [Minecraft Server Status API](https://api.mcsrvstat.us/). It does not receive your Minecraft credentials and the page never displays the server's resolved backend address.
 
 !!! warning "Beta truth matters"
-    TSR is playable, but extended progression, multiplayer balance, structure density, permissions, and the complete handcrafted campaign are still under validation. This guide does not promote planned systems into completed features.
+    The last recorded client smoke remains the **239-mod profile**; the complete current candidate still needs fresh client, server, and gameplay validation. Extended progression, multiplayer balance, structure density, permissions, and the handcrafted campaign remain under validation. This guide does not promote planned systems into completed features.

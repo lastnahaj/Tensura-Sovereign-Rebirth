@@ -22,6 +22,16 @@ getting_started = BeautifulSoup((site / 'getting-started/index.html').read_text(
 assert Path(getting_started.select_one('.onboarding-hero > img')['src']).name == 'onboarding-realm-arrival.webp'
 assert Path(getting_started.select_one('#path-power > img')['src']).name == 'onboarding-character-paths.webp'
 assert Path(getting_started.select_one('#path-nation > img')['src']).name == 'onboarding-found-a-nation.webp'
+assert Path(getting_started.select_one('#path-hunt > img')['src']).name == 'charybdis-cave.webp'
+assert Path(getting_started.select_one('#path-forge > img')['src']).name == 'smithing-bench.webp'
+starter_inventory = json.loads((ROOT / 'data/client-mod-inventory-2026-09-20.json').read_text(encoding='utf-8'))
+starter_text = getting_started.get_text(' ', strip=True)
+assert f"{starter_inventory['mod_count']}-artifact client candidate" in starter_text, 'Starter inventory count is stale'
+assert 'current 249-mod' not in starter_text and '239-mod profile' in starter_text, 'Starter validation scope is overstated'
+learning_routes = getting_started.select('.onboarding-learning-routes .mechanics-guide-card > a')
+assert len(learning_routes) == 4 and {a['href'] for a in learning_routes} == {'../magic-learning/', '../battlewill-training/', '../mysticism-reference/other/soul-energy/', '../prestige-and-soul-grade/'}, 'Starter learning routes missing or misdirected'
+assert all(a.select_one('img') and a.select_one('h3') for a in learning_routes), 'Starter learning cards lost their visual hierarchy'
+assert 'not a universal acquisition method for every Ultimate' in starter_text, 'Ascension route scope missing'
 for section in ('items', 'blocks', 'mobs', 'biomes', 'structures', 'bosses'):
     page = BeautifulSoup((site / f'tensura-reference/{section}/index.html').read_text(encoding='utf-8'), 'html.parser')
     assert page.select('.reference-card'), f'Empty directory: {section}'
