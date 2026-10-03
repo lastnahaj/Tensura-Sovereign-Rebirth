@@ -8632,10 +8632,10 @@
       "from": "tensura-reference/skills/unique/gluttony/",
       "to": "tensura-reference/skills/ultimate/nightmares-beelzebuth/",
       "kinds": [
-        "Evolution"
+        "Reference-build combined evolution"
       ],
       "requirements": [
-        "Gluttony , Merciless"
+        "Reference automatic route: both mastered non-temporary Gluttony and Merciless; 1,500 recorded mob kills; 10 recorded cake slices eaten; 1,500,000 maximum Magicules; health at or below 50% of maximum. Gamerules and learning settings must allow the route. Both predecessors are removed after success. Neither predecessor alone unlocks Beelzebuth; the separate Raphael route and live evolution remain unverified."
       ]
     },
     {
@@ -8782,10 +8782,10 @@
       "from": "tensura-reference/skills/unique/merciless/",
       "to": "tensura-reference/skills/ultimate/nightmares-beelzebuth/",
       "kinds": [
-        "Evolution"
+        "Reference-build combined evolution"
       ],
       "requirements": [
-        "Gluttony , Merciless"
+        "Reference automatic route: both mastered non-temporary Gluttony and Merciless; 1,500 recorded mob kills; 10 recorded cake slices eaten; 1,500,000 maximum Magicules; health at or below 50% of maximum. Gamerules and learning settings must allow the route. Both predecessors are removed after success. Neither predecessor alone unlocks Beelzebuth; the separate Raphael route and live evolution remain unverified."
       ]
     },
     {

@@ -217,6 +217,28 @@ def main():
     wrath_successor = BeautifulSoup(outputs['tensura-reference/skills/unique/wrath.md'], 'html.parser').select_one('.skill-successor-note a')
     if not wrath_successor or 'nightmares-satanael' not in wrath_successor['href']:
         errors.append('Wrath successor guidance missing')
+    from beelzebuth_acquisition import review as beelzebuth_review
+    beelzebuth_data = beelzebuth_review()
+    devour_facts = beelzebuth_data['beelzebuth']
+    if beelzebuth_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or beelzebuth_data['reference_build']['installed_version_verified'] is not False or len(beelzebuth_data['class_sha256']) != 4:
+        errors.append('Beelzebuth acquisition identity, scope, or class coverage drifted')
+    if devour_facts['predecessors'] != ['tensura:gluttony', 'tensura:merciless'] or devour_facts['default_max_magicules_requirement'] != 1500000 or devour_facts['cake_counter'] != 'Stats.CUSTOM / Stats.EAT_CAKE_SLICE' or devour_facts['alternate_raphael_route_verified'] is not False:
+        errors.append('Beelzebuth combined route, capacity, cake counter, or alternate-route scope drifted')
+    devour_article = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-beelzebuth.md'], 'html.parser')
+    devour_panel = devour_article.select_one('.nightmares-acquisition-review')
+    if not devour_panel or len(devour_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Beelzebuth acquisition panels missing')
+    devour_text = devour_panel.get_text(' ', strip=True) if devour_panel else ''
+    for phrase in ('Both predecessor skills are required', '1,500 recorded mob kills', '10 recorded cake slices eaten', '1,500,000 maximum Magicules', '50% of maximum health', 'Stats.EAT_CAKE_SLICE', 'Beelzebuth.mpAcquirement', 'removes both Gluttony and Merciless', 'not reviewed here', 'auto_evolve', 'nightmare_ultimates'):
+        if phrase not in devour_text:
+            errors.append(f'Beelzebuth acquisition fact missing: {phrase}')
+    capacity_cell = devour_article.select_one('.druid-data-ObtainCost')
+    if not capacity_cell or capacity_cell.get_text(' ', strip=True) != '1,500,000 maximum Magicules (selected reference capacity gate)':
+        errors.append('Beelzebuth infobox confuses the selected capacity gate with the source cost')
+    for predecessor in ('gluttony', 'merciless'):
+        successor_link = BeautifulSoup(outputs[f'tensura-reference/skills/unique/{predecessor}.md'], 'html.parser').select_one('.skill-successor-note a')
+        if not successor_link or 'nightmares-beelzebuth' not in successor_link['href']:
+            errors.append(f'Beelzebuth combined predecessor guidance missing: {predecessor}')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -425,7 +447,7 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id'], raid_facts['registry_id'], wrath_facts['registry_id']}
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id'], raid_facts['registry_id'], wrath_facts['registry_id'], devour_facts['registry_id']}
         source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

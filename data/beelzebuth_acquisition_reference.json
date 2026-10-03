@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-03",
+  "shared_reference": "data/nightmares_acquisition_review.json",
+  "base_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "health_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "mob_predicate_reference": "data/belphegor_acquisition_reference.json",
+  "mastery_reference": "data/nightmares_mastery_reference.json",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "beelzebuth": {
+    "registry_id": "trnightmare:beelzebuth",
+    "predecessors": ["tensura:gluttony", "tensura:merciless"],
+    "both_predecessors_fully_learned_non_temporary_and_mastered": true,
+    "default_mob_kills": 1500,
+    "mob_counter": "Stats.CUSTOM / Stats.MOB_KILLS",
+    "default_cake_slices": 10,
+    "cake_counter": "Stats.CUSTOM / Stats.EAT_CAKE_SLICE",
+    "cake_comparison": "ServerPlayer statistic greater than or equal to configured minimum; statistic-access failure returns zero",
+    "default_health_ratio": 0.5,
+    "health_check": "getMaxHealth() > 0 and getHealth() / getMaxHealth() <= beelzebuthHPThreshold",
+    "default_max_magicules_requirement": 1500000,
+    "capacity_configuration_key": "Beelzebuth.mpAcquirement",
+    "other_configuration_field": {"key": "Beelzebuth.beelzebuthMP", "default": 1750000, "used_by_selected_capacity_path": false},
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {"nightmare_ultimates": true, "auto_evolve": true},
+    "helper_forgets_both_predecessors_after_success": true,
+    "hasEvolved_guard": "SkillStorage.getSkill(target).isPresent(); current ownership, not persistent evolution history",
+    "inherited_canLearnSkill": "UltimateSkill does not override canLearnSkill; TensuraSkill rejects spectator, Rest, Infinite Imprisonment, and shouldCancelInteraction(entity). The latter delegates with false and checks forced sleeping, Bats Mode, or Shadow Step.",
+    "alternate_raphael_route_verified": false,
+    "full_live_learning_verified": false
+  },
+  "base_learning_reference": {
+    "artifact": "tensura-neoforge-2.0.1.2.jar",
+    "manifest_sha1": "f6f0c8ce46b77a1996c5986d029411878142112f",
+    "class_sha256": {"io/github/manasmods/tensura/ability/TensuraSkill.class": "045336afe4f8278f4d80012b2b958bfe4b0bd7b51f72a2905125769081edb86a"}
+  },
+  "verification_scope": "Selected learning/acquisition methods, the complete five-condition list, capacity-method and completion-overload calls, cake statistic and comparison, defaults, and inherited base learning checks. Shared helper and predecessor predicates are recorded separately. No Raphael alteration audit, all-route cost review, live statistic-update test, effective server configuration, callback timing, or full effect audit.",
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/BeelzebuthSkill.class": "647c5605ef15658a8845e0b05508399beefd675c0d4ea8600a22b77e8edfefdf",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Beelzebuth.class": "e9df7a30369a33c6a6ecb17650a1a6b37b010eee7edf80634411478e9258f23e",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$EatCakeSliceCountCondition.class": "ee405cb5471d7bf96f6e69f48e83083a41ac37aee5330fd8279659ec31ec0007",
+    "com/github/hvnbael/trnightmare/main/ultimates/UltimateSkill.class": "fee3bf85ff1c6bff42b9d03682ccc943cde6a2359ad53821ec8882f776377bb3"
+  }
+}

@@ -209,6 +209,8 @@ The [Leviathan and Stasis acquisition review](https://github.com/lastnahaj/Tensu
 
 The [Satanael acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/satanael_acquisition_reference.json) records the Wrath evolution path, its configuration defaults, and two additional class checksums. The health comparison includes the configured boundary; recorded mob kills and raid wins are not Rampage-effect requirements. Predecessor replacement and capacity checks are distinguished from untested live evolution, effective settings, and source-described effects.
 
+The [Beelzebuth acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/beelzebuth_acquisition_reference.json) records the combined Gluttony-and-Merciless path, five-condition list, cake-slice statistic, inclusive health comparison, and inherited learning gates. The selected capacity method reads a 1.5M default from `mpAcquirement`, not the separate 1.75M `beelzebuthMP` field. Both predecessors are replaced after successful learning. The source’s Raphael alteration claim remains separate and unreviewed; live eligibility, complete charges, and effects are not certified by this acquisition review.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

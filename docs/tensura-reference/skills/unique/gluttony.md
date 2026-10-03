@@ -37,7 +37,7 @@ tags:
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
 <section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Combination of Skills:</strong>
-Mastered <a class="mw-redirect" href="../predator/" title="Abilities/Skills/Predator">Predator</a> + <a class="mw-redirect" href="../starved/" title="Abilities/Skills/Starved">Starved</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+Mastered <a class="mw-redirect" href="../predator/" title="Abilities/Skills/Predator">Predator</a> + <a class="mw-redirect" href="../starved/" title="Abilities/Skills/Starved">Starved</a></li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p><aside class="skill-evidence-note skill-successor-note"><strong>Nightmares evolution:</strong> <a href="../../ultimate/nightmares-beelzebuth/">Beelzebuth, Lord of Gluttony →</a> requires both mastered non-temporary Gluttony and Merciless, recorded mob kills and cake slices, maximum Magicules, current health, and enabled settings in the reviewed automatic path. Both predecessors are removed after success. The source’s separate Raphael alteration route and live evolution remain unverified.</aside></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">

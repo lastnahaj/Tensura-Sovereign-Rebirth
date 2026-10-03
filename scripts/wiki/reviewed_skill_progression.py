@@ -7,6 +7,7 @@ from belphegor_acquisition import review as belphegor_review
 from mammon_acquisition import review as mammon_review
 from leviathan_acquisition import review as leviathan_review
 from satanael_acquisition import review as satanael_review
+from beelzebuth_acquisition import review as beelzebuth_review
 
 
 def relationships():
@@ -16,7 +17,23 @@ def relationships():
     mammon = mammon_review()['mammon']
     leviathan = leviathan_review()['leviathan']
     satanael = satanael_review()['satanael']
+    beelzebuth = beelzebuth_review()['beelzebuth']
     return [
+        *[
+            {
+                'from': predecessor,
+                'to': beelzebuth['registry_id'],
+                'kind': 'Reference-build combined evolution',
+                'requirements': (
+                    'Reference automatic route: both mastered non-temporary Gluttony and Merciless; '
+                    f'{beelzebuth["default_mob_kills"]:,} recorded mob kills; {beelzebuth["default_cake_slices"]} recorded cake slices eaten; '
+                    f'{beelzebuth["default_max_magicules_requirement"]:,} maximum Magicules; health at or below 50% of maximum. '
+                    'Gamerules and learning settings must allow the route. Both predecessors are removed after success. '
+                    'Neither predecessor alone unlocks Beelzebuth; the separate Raphael route and live evolution remain unverified.'
+                ),
+            }
+            for predecessor in beelzebuth['predecessors']
+        ],
         {
             'from': satanael['predecessor'],
             'to': satanael['registry_id'],
