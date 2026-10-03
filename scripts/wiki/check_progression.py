@@ -72,6 +72,14 @@ def main() -> int:
         pair = (battlewill_routes[unlock['from']], battlewill_routes[unlock['to']])
         if 'Mastery' not in connections.get(pair, {}).get('kinds', []):
             errors.append(f'Verified Battlewill mastery connection missing: {unlock["from"]} -> {unlock["to"]}')
+    from reviewed_skill_progression import relationships
+    for relationship in relationships():
+        pair = (battlewill_routes.get(relationship['from']), battlewill_routes.get(relationship['to']))
+        edge = connections.get(pair)
+        if not edge or edge['kinds'] != [relationship['kind']] or edge['requirements'] != [relationship['requirements']]:
+            errors.append(f'Reviewed evolution conditions missing or duplicated: {relationship["to"]}')
+        if graph['nodes'].get(pair[1], {}).get('verification') != 'reference-build-only':
+            errors.append(f'Reviewed evolution promoted beyond reference coverage: {relationship["to"]}')
     if 'tensura-reference/battlewill/items-misc-battlewill-manual/' in graph['nodes']:
         errors.append('Battlewill Manual item must not be an ability progression node')
     for item in json.loads((ROOT / 'data/item_reference.json').read_text(encoding='utf-8'))['pages']:

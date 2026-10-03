@@ -1,12 +1,12 @@
 /* Ability index: compact game icons, clear classifications and readable unlocks. */
-.skill-hub, .skill-directory, .nightmares-acquisition-review {
+.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression {
   --skill-surface: #101f30;
   --skill-border: #284258;
   --skill-ink: #f0f6fb;
   --skill-muted: #aec0cf;
   --skill-accent: #72deec;
 }
-[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory, .nightmares-acquisition-review) {
+[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression) {
   --skill-surface: #f1f6fa;
   --skill-border: #b8cedb;
   --skill-ink: #142e43;
@@ -111,7 +111,11 @@
 .md-content__inner:has(.skill-obtainment) .reference-overview-media figcaption { position: static; max-width: none; margin: .6rem 0 0; padding: .3rem; border-radius: 0; background: transparent; color: var(--md-default-fg-color--light); font-size: .55rem; font-style: normal; line-height: 1.4; overflow-wrap: anywhere; }
 .md-content__inner:has(.skill-obtainment) .reference-overview-copy > p:not(.reference-eyebrow) { font-size: .9rem; line-height: 1.55; }
 .md-content__inner:has(.skill-obtainment) .skill-detail-hero { background: rgba(36, 82, 112, .1); }
-.md-content__inner:has(.skill-obtainment) .reference-progression .reference-related-copy small { display: block; overflow: visible; -webkit-line-clamp: unset; white-space: normal; }
+.reference-progression .reference-related-card { border-color: var(--skill-border); background: var(--skill-surface); }
+.reference-progression .reference-related-card:focus-visible { outline: 3px solid var(--skill-accent); outline-offset: 3px; }
+.reference-progression .reference-related-copy strong { color: var(--skill-ink); }
+.reference-progression .reference-related-copy small { display: block; color: var(--skill-muted); font-size: .75rem; line-height: 1.65; overflow: visible; -webkit-line-clamp: unset; white-space: normal; overflow-wrap: anywhere; }
+.reference-progression .reference-related-copy .skill-reference-status { color: var(--skill-accent); font-size: .66rem; font-weight: 700; }
 .md-content__inner:has(.skill-obtainment) .reference-progression .reference-related-grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); }
 @media (max-width: 70rem) {
   .skill-directory .reference-card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }

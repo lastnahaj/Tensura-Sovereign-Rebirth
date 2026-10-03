@@ -8752,10 +8752,10 @@
       "from": "tensura-reference/skills/unique/lust/",
       "to": "tensura-reference/skills/ultimate/nightmares-asmodeus/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Lust"
+        "Reference defaults: fully master Lust; naming statistic at least 25; 100 animals bred; 1,200,000 maximum Magicules. Automatic-evolution gamerules and skill configuration must allow the route. The helper removes Lust after success. Server evolution remains unverified."
       ]
     },
     {
@@ -8995,10 +8995,10 @@
       "from": "tensura-reference/skills/unique/pride/",
       "to": "tensura-reference/skills/ultimate/nightmares-lucifer/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Pride"
+        "Reference defaults: fully learned, non-temporary Pride; 100 currently mastered skill instances; 1,700,000 maximum Magicules; health at or below the configured ratio (about 40%). Automatic-evolution gamerules and skill configuration must allow the route. The helper removes Pride after success. Server evolution remains unverified."
       ]
     },
     {

@@ -166,6 +166,13 @@ def build() -> dict:
             raise ValueError(f'Battlewill mastery endpoint missing: {unlock}')
         edges.pop((start, end), None)
         connect(start, end, 'Mastery', 'Fully master your own predecessor skill to trigger successor learning; borrowed sub-instances do not grant this unlock.')
+    from reviewed_skill_progression import relationships
+    for relationship in relationships():
+        start, end = ability_routes.get(relationship['from']), ability_routes.get(relationship['to'])
+        if not start or not end:
+            raise ValueError(f'Reviewed evolution endpoint missing: {relationship}')
+        edges.pop((start, end), None)
+        connect(start, end, relationship['kind'], relationship['requirements'])
     current_edges = [edge for edge in edges.values() if edge["from"] in nodes and edge["to"] in nodes]
     return {"nodes": nodes, "edges": sorted(current_edges, key=lambda edge: (edge["from"], edge["to"]))}
 
