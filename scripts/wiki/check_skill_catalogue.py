@@ -200,6 +200,23 @@ def main():
     envy_successor = envy_article.select_one('.skill-successor-note a')
     if not envy_successor or 'nightmares-leviathan' not in envy_successor['href']:
         errors.append('Envy successor guidance missing')
+    from satanael_acquisition import review as satanael_review
+    satanael_data = satanael_review()
+    wrath_facts = satanael_data['satanael']
+    if satanael_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or satanael_data['reference_build']['installed_version_verified'] is not False or len(satanael_data['class_sha256']) != 2:
+        errors.append('Satanael acquisition identity, scope, or class coverage drifted')
+    if wrath_facts['health_minimum_is_inclusive'] is not True or wrath_facts['rampage_effect_required_by_selected_list'] is not False:
+        errors.append('Satanael health boundary or Rampage gate drifted')
+    wrath_panel = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-satanael.md'], 'html.parser').select_one('.nightmares-acquisition-review')
+    if not wrath_panel or len(wrath_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Satanael acquisition panels missing')
+    wrath_text = wrath_panel.get_text(' ', strip=True) if wrath_panel else ''
+    for phrase in ('500 recorded mob kills', '20 recorded raid wins', '1,500,000 maximum Magicules', 'at or below', '40% of maximum health', 'Stats.MOB_KILLS', 'Stats.RAID_WIN', 'removes Wrath', 'auto_evolve', 'nightmare_ultimates'):
+        if phrase not in wrath_text:
+            errors.append(f'Satanael acquisition fact missing: {phrase}')
+    wrath_successor = BeautifulSoup(outputs['tensura-reference/skills/unique/wrath.md'], 'html.parser').select_one('.skill-successor-note a')
+    if not wrath_successor or 'nightmares-satanael' not in wrath_successor['href']:
+        errors.append('Wrath successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -408,7 +425,7 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id'], raid_facts['registry_id']}
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id'], raid_facts['registry_id'], wrath_facts['registry_id']}
         source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

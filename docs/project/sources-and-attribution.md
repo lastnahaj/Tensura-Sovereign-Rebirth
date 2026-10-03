@@ -207,6 +207,8 @@ The [Mammon acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-R
 
 The [Leviathan and Stasis acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/leviathan_acquisition_reference.json) records the selected Envy evolution conditions and conditional Envious Hero learning helper. True Hero state belongs to the Stasis reward check, not the selected Leviathan condition list. The helper discards the learning result before sending a notification, so the documentation does not equate that message with successful learning. Callback order and reference defaults do not establish effective server timing, full learning charges, or live delivery.
 
+The [Satanael acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/satanael_acquisition_reference.json) records the Wrath evolution path, its configuration defaults, and two additional class checksums. The health comparison includes the configured boundary; recorded mob kills and raid wins are not Rampage-effect requirements. Predecessor replacement and capacity checks are distinguished from untested live evolution, effective settings, and source-described effects.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

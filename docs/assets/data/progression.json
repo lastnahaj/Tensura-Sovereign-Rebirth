@@ -9141,10 +9141,10 @@
       "from": "tensura-reference/skills/unique/wrath/",
       "to": "tensura-reference/skills/ultimate/nightmares-satanael/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Wrath"
+        "Reference defaults: mastered non-temporary Wrath; 500 recorded mob kills; 20 recorded raid wins; 1,500,000 maximum Magicules; current health at or below 40% of maximum. Gamerules and skill configuration must allow the route. The helper removes Wrath after success. No Rampage effect is required by the selected list. Server evolution remains unverified."
       ]
     }
   ]

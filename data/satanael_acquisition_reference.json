@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "shared_reference": "data/nightmares_acquisition_review.json",
+  "base_and_health_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "raid_predicate_reference": "data/mammon_acquisition_reference.json",
+  "mob_kill_predicate_reference": "data/belphegor_acquisition_reference.json",
+  "mastery_reference": "data/nightmares_mastery_reference.json",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "satanael": {
+    "registry_id": "trnightmare:satanael",
+    "predecessor": "tensura:wrath",
+    "predecessor_fully_learned_non_temporary_and_mastered": true,
+    "default_raid_wins": 20,
+    "raid_counter": "Stats.CUSTOM / Stats.RAID_WIN",
+    "default_mob_kills": 500,
+    "mob_counter": "Stats.CUSTOM / Stats.MOB_KILLS",
+    "default_health_percent": 40,
+    "health_check": "getMaxHealth() > 0 and getHealth() / getMaxHealth() <= satanaelHP / 100.0",
+    "health_minimum_is_inclusive": true,
+    "default_max_magicules_requirement": 1500000,
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {"nightmare_ultimates": true, "auto_evolve": true},
+    "helper_forgets_predecessor_after_success": true,
+    "rampage_effect_required_by_selected_list": false
+  },
+  "verification_scope": "Selected Satanael learning and acquisition methods, the complete four-condition registration block, configuration defaults, and the shared HPPercentCondition comparison. Existing reviews record the mastery, raid and mob statistics, capacity helper, and predecessor replacement. No live evolution, effect audit, statistic update, complete learning charge, alternative route, or effective server configuration test.",
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/SatanaelSkill.class": "b0e849153a9642a68f0f67957fa0c22dd09c605cce8c95dc3bf4e1701f7e3311",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Satanael.class": "de1ff9040016d8d15a7c100ebdc43eb2810367dd830956e6d8d85dc538bfac31"
+  }
+}
