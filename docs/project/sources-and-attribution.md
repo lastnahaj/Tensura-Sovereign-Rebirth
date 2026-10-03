@@ -203,6 +203,8 @@ The [Belphegor acquisition review](https://github.com/lastnahaj/Tensura-Sovereig
 
 The [Sin Ultimate mastery review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/nightmares_mastery_reference.json) records seven class-matched mastery methods and the shared 15,000-point default. Source infobox values are corrected only for those classes. Mastery gain rates, acquisition routes, runtime overrides, and effective server values are outside this review.
 
+The [Mammon acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/mammon_acquisition_reference.json) records five additional class checksums and the selected Greed condition list. Recorded trades are not distinct-villager counts; raid wins are a separate statistic. Gold is counted from main-inventory stacks without consumption by the selected predicate. Capacity gates, predecessor replacement, and reference configuration are distinct from live eligibility and source-described effects.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

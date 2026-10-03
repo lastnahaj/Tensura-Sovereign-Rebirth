@@ -157,6 +157,25 @@ def main():
     unchanged = '<div class="druid-data druid-data-PointstoMaster druid-data-nonempty">5000</div>'
     if apply_mastery_review(unchanged, {'id': 'trnightmare:unreviewed'}) != (unchanged, ''):
         errors.append('Mastery review changed a skill outside the inspected class list')
+    from mammon_acquisition import review as mammon_review
+    mammon_data = mammon_review()
+    if mammon_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or mammon_data['reference_build']['installed_version_verified'] is not False or len(mammon_data['class_sha256']) != 5:
+        errors.append('Mammon acquisition identity, scope, or class coverage drifted')
+    trade_facts = mammon_data['mammon']
+    if trade_facts['gold_consumed_by_selected_condition'] is not False or trade_facts['trade_counter'] != 'Stats.CUSTOM / Stats.TRADED_WITH_VILLAGER' or trade_facts['raid_counter'] != 'Stats.CUSTOM / Stats.RAID_WIN':
+        errors.append('Mammon trade, raid, or gold-consumption evidence drifted')
+    mammon = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-mammon.md'], 'html.parser')
+    trade_panel = mammon.select_one('.nightmares-acquisition-review')
+    if not trade_panel or len(trade_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Mammon acquisition route panels missing')
+    trade_text = trade_panel.get_text(' ', strip=True) if trade_panel else ''
+    for phrase in ('100 recorded villager trades', '10 recorded raid wins', '7 Gold Blocks', '1,250,000 maximum Magicules', 'not distinct villagers', 'Stats.TRADED_WITH_VILLAGER', 'Stats.RAID_WIN', 'consumption flag is false', 'removes Greed', 'auto_evolve', 'nightmare_ultimates'):
+        if phrase not in trade_text:
+            errors.append(f'Mammon acquisition fact missing: {phrase}')
+    greed_article = BeautifulSoup(outputs['tensura-reference/skills/unique/greed.md'], 'html.parser')
+    greed_successor = greed_article.select_one('.skill-successor-note a')
+    if not greed_successor or 'nightmares-mammon' not in greed_successor['href']:
+        errors.append('Greed successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -365,7 +384,7 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id']}
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id'], trade_facts['registry_id']}
         source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

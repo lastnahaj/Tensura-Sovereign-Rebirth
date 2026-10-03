@@ -104,6 +104,10 @@
 .skill-directory img[src$=".svg"], .skill-hub img[src$=".svg"] { image-rendering: auto; }
 .skill-directory img[src*="/illustrations/skills/"], .skill-hub img[src*="/illustrations/skills/"], .md-content__inner:has(.skill-obtainment) img[src*="/illustrations/skills/"] { image-rendering: auto !important; border-radius: .4rem; }
 /* Article styles stay scoped to pages with verified acquisition panels. */
+.md-content__inner:has(.skill-obtainment) .skill-evidence-note { color: #aec0cf; line-height: 1.65; }
+.md-content__inner:has(.skill-obtainment) .skill-source-limits summary { color: #72deec; }
+[data-md-color-scheme="default"] .md-content__inner:has(.skill-obtainment) .skill-evidence-note { color: #425e72; }
+[data-md-color-scheme="default"] .md-content__inner:has(.skill-obtainment) .skill-source-limits summary { color: #006b83; }
 .md-content__inner:has(.skill-obtainment) .reference-overview { grid-template-columns: 8rem minmax(0, 1fr); gap: 1.2rem; padding: 1.1rem; background: rgba(36, 82, 112, .1); box-shadow: none; }
 .md-content__inner:has(.skill-obtainment) .reference-overview-media { min-height: 0; align-self: start; background: transparent; overflow: visible; }
 .md-content__inner:has(.skill-obtainment) .reference-overview-media img { width: 5rem; height: 5rem; min-height: 0; max-height: none; margin: .5rem auto; padding: 0; object-fit: contain; image-rendering: pixelated; }

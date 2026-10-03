@@ -8692,10 +8692,10 @@
       "from": "tensura-reference/skills/unique/greed/",
       "to": "tensura-reference/skills/ultimate/nightmares-mammon/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Greed"
+        "Reference defaults: mastered non-temporary Greed; 100 recorded villager trades; 10 recorded raid wins; 7 Gold Blocks in the main inventory; 1,250,000 maximum Magicules. Gamerules and skill configuration must allow the route. The selected gold check does not consume blocks; the helper removes Greed after success. Server evolution remains unverified."
       ]
     },
     {

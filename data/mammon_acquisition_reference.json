@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "shared_reference": "data/nightmares_acquisition_review.json",
+  "base_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "mastery_reference": "data/nightmares_mastery_reference.json",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "mammon": {
+    "registry_id": "trnightmare:mammon",
+    "predecessor": "tensura:greed",
+    "predecessor_fully_learned_non_temporary_and_mastered": true,
+    "default_villager_trades": 100,
+    "trade_counter": "Stats.CUSTOM / Stats.TRADED_WITH_VILLAGER",
+    "default_raid_wins": 10,
+    "raid_counter": "Stats.CUSTOM / Stats.RAID_WIN",
+    "default_gold_blocks": 7,
+    "gold_item": "minecraft:gold_block",
+    "inventory_scope": "Sum matching ItemStack counts in Player.getInventory().items; offhand, armor, containers, and placed blocks are not traversed by this predicate.",
+    "gold_consumed_by_selected_condition": false,
+    "default_max_magicules_requirement": 1250000,
+    "minimum_comparison": "greater than or equal",
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {"nightmare_ultimates": true, "auto_evolve": true},
+    "helper_forgets_predecessor_after_success": true,
+    "verification_scope": "Selected Mammon learning/acquisition methods, condition-list construction, trade and raid statistic predicates, inventory sum and consumption flag, and configuration defaults. Shared capacity and predecessor completion are recorded separately. No statistic-update tests, live evolution, effective server settings, complete learning charges, alternate routes, or full effect audit."
+  },
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/MammonSkill.class": "245ce237f868fabaa49e93e2ef689f10917bd629e30eb905bd3cec5a4a8abda0",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Mammon.class": "06226eca79ba5fc0616fd579d4c1e5fe02ef7eb062346895f708341b607d9054",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$VillagerTradeCountCondition.class": "b42cd6816bc743ef7e9ba67f5ea28960ddcd275d024cfad869f4f185a6a75d2f",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$HeroOfTheVillageCountCondition.class": "4fc1b8f08ecb6bb4aa77ab5500676ab03f1a5cad7cfc69825e76bc1a9962821d",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$InventoryItemCondition.class": "3e3c39e632b394d93aaf4870682345e2b1a7d44ccb62eae529de8a252e8b5455"
+  }
+}

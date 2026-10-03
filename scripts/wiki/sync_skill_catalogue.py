@@ -327,6 +327,10 @@ def acquisition(text, page, decision):
     reviewed = reviewed_belphegor_acquisition(page, decision)
     if reviewed:
         return reviewed
+    from mammon_acquisition import acquisition as reviewed_mammon_acquisition
+    reviewed = reviewed_mammon_acquisition(page, decision)
+    if reviewed:
+        return reviewed
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
@@ -409,6 +413,8 @@ def prepare_page(page, decision, text):
         obtain += lucifer_successor(page, decision)
         from belphegor_acquisition import successor as belphegor_successor
         obtain += belphegor_successor(page, decision)
+        from mammon_acquisition import successor as mammon_successor
+        obtain += mammon_successor(page, decision)
         evidence = "Pinned pack inventory"
         notice = ""
         if decision["status"] == "reference":
@@ -440,6 +446,11 @@ def prepare_page(page, decision, text):
                 }
                 for field, value in values.items():
                     text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
+        if decision.get('id') == 'trnightmare:mammon':
+            notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
+            values = {'Other': '<a href="#how-to-obtain">Reviewed Greed evolution conditions</a> · server build match pending', 'Other2': '1,250,000 maximum Magicules (reference default)'}
+            for field, value in values.items():
+                text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
         from nightmares_mastery import apply as apply_mastery_review
         text, mastery_note = apply_mastery_review(text, decision)
         obtain += mastery_note

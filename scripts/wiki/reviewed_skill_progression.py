@@ -4,12 +4,14 @@ from __future__ import annotations
 from nightmares_acquisition import review as nightmares_review
 from lucifer_acquisition import review as lucifer_review
 from belphegor_acquisition import review as belphegor_review
+from mammon_acquisition import review as mammon_review
 
 
 def relationships():
     asmodeus = nightmares_review()['asmodeus']
     lucifer = lucifer_review()['lucifer']
     belphegor = belphegor_review()['belphegor']
+    mammon = mammon_review()['mammon']
     return [
         {
             'from': asmodeus['predecessor'],
@@ -43,6 +45,18 @@ def relationships():
                 f'{belphegor["default_mob_kills"]:,} recorded mob kills; {belphegor["default_max_magicules_requirement"]:,} maximum Magicules. '
                 'Gamerules, skill configuration, and bed tracking must allow the route. '
                 'The helper removes Sloth after success. Server evolution remains unverified.'
+            ),
+        },
+        {
+            'from': mammon['predecessor'],
+            'to': mammon['registry_id'],
+            'kind': 'Reference-build evolution',
+            'requirements': (
+                f'Reference defaults: mastered non-temporary Greed; {mammon["default_villager_trades"]} recorded villager trades; '
+                f'{mammon["default_raid_wins"]} recorded raid wins; {mammon["default_gold_blocks"]} Gold Blocks in the main inventory; '
+                f'{mammon["default_max_magicules_requirement"]:,} maximum Magicules. '
+                'Gamerules and skill configuration must allow the route. '
+                'The selected gold check does not consume blocks; the helper removes Greed after success. Server evolution remains unverified.'
             ),
         },
     ]
