@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "configuration": {
+    "key": "ultMasteryConfig.masterySinUlt",
+    "default": 15000,
+    "class": "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$UltMastery.class",
+    "class_sha256": "4a7f79ad4b0202efae7c37f35fff3aaac3514b0d82e129e428178d5093844759"
+  },
+  "skills": {
+    "trnightmare:asmodeus": {"class": "AsmodeusSkill", "class_sha256": "7639c63a8570dccb523e1dfa3f334f7b69d08f6f37b7519992e3e022bd74b724"},
+    "trnightmare:lucifer": {"class": "LuciferSkill", "class_sha256": "eaabe3be3f2c7e60f86db2fdb4ce0319c8ec681f3ed0dfed67c755c38b3f3a5b"},
+    "trnightmare:belphegor": {"class": "BelphegorSkill", "class_sha256": "03283f98fac2497705b5477510db35d0b6175cf72d5b950fae2f4e07b59dd316"},
+    "trnightmare:mammon": {"class": "MammonSkill", "class_sha256": "245ce237f868fabaa49e93e2ef689f10917bd629e30eb905bd3cec5a4a8abda0"},
+    "trnightmare:satanael": {"class": "SatanaelSkill", "class_sha256": "b0e849153a9642a68f0f67957fa0c22dd09c605cce8c95dc3bf4e1701f7e3311"},
+    "trnightmare:leviathan": {"class": "LeviathanSkill", "class_sha256": "9c5c63d92d9b6518203debfab2023e814f143ba6448ef35dbe92d43c30d74f87"},
+    "trnightmare:beelzebuth": {"class": "BeelzebuthSkill", "class_sha256": "647c5605ef15658a8845e0b05508399beefd675c0d4ea8600a22b77e8edfefdf"}
+  },
+  "method_review": "Each listed class getMaxMastery method reads ultMasteryConfig.masterySinUlt. The selected constructor initializes that field to 15000.",
+  "verification_scope": "Seven selected getMaxMastery methods and the shared configuration constructor only. This does not establish mastery gain rates, acquisition requirements, event timing, add-on overrides, or effective running-server values."
+}

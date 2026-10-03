@@ -134,6 +134,29 @@ def main():
     sloth_successor = sloth_article.select_one('.skill-successor-note a')
     if not sloth_successor or 'nightmares-belphegor' not in sloth_successor['href']:
         errors.append('Sloth successor guidance missing')
+    from nightmares_mastery import review as mastery_review, apply as apply_mastery_review
+    mastery_data = mastery_review()
+    mastery_ids = {'trnightmare:asmodeus', 'trnightmare:lucifer', 'trnightmare:belphegor', 'trnightmare:mammon', 'trnightmare:satanael', 'trnightmare:leviathan', 'trnightmare:beelzebuth'}
+    if set(mastery_data['skills']) != mastery_ids or mastery_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or mastery_data['reference_build']['installed_version_verified'] is not False:
+        errors.append('Sin Ultimate mastery review identity or coverage drifted')
+    if mastery_data['configuration']['default'] != 15000 or mastery_data['configuration']['key'] != 'ultMasteryConfig.masterySinUlt' or mastery_data['configuration']['class_sha256'] != lucifer_data['class_sha256'][mastery_data['configuration']['class']]:
+        errors.append('Sin Ultimate mastery default or configuration evidence drifted')
+    for identifier, evidence in mastery_data['skills'].items():
+        expected_class = 'com.github.hvnbael.trnightmare.main.ultimates.' + evidence['class']
+        if nightmares['registry'].get(identifier, {}).get('implementation') != expected_class or not re.fullmatch('[a-f0-9]{64}', evidence['class_sha256']):
+            errors.append(f'Sin Ultimate mastery class mismatch: {identifier}')
+        page = next(record['local_page'] for record in nightmares['pages'] if record['registry_id'] == identifier)
+        mastery_article = BeautifulSoup(outputs[page], 'html.parser')
+        cell = mastery_article.select_one('.druid-data-PointstoMaster')
+        if not cell or cell.get_text(' ', strip=True) != '15,000 (reference default)':
+            errors.append(f'Stale Sin Ultimate mastery infobox: {identifier}')
+        if identifier not in {'trnightmare:lucifer', 'trnightmare:belphegor'}:
+            note = mastery_article.select_one('.skill-mastery-note')
+            if not note or 'not a predecessor unlock condition' not in note.get_text():
+                errors.append(f'Sin Ultimate mastery scope note missing: {identifier}')
+    unchanged = '<div class="druid-data druid-data-PointstoMaster druid-data-nonempty">5000</div>'
+    if apply_mastery_review(unchanged, {'id': 'trnightmare:unreviewed'}) != (unchanged, ''):
+        errors.append('Mastery review changed a skill outside the inspected class list')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:

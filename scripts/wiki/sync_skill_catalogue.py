@@ -440,6 +440,9 @@ def prepare_page(page, decision, text):
                 }
                 for field, value in values.items():
                     text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
+        from nightmares_mastery import apply as apply_mastery_review
+        text, mastery_note = apply_mastery_review(text, decision)
+        obtain += mastery_note
         section = f'<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">{html.escape(label)} · {evidence}</p><h2 id="how-to-obtain">How to obtain</h2>{notice}{obtain}</section>'
         if not decision.get("maintained"):
             browse = relative(page, "tensura-reference/" + decision["category"] + "/") + "/"

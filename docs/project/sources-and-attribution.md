@@ -201,6 +201,8 @@ The [Lucifer acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-
 
 The [Belphegor acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/belphegor_acquisition_reference.json) records eight additional class checksums, the selected Sloth condition list, and the shared bed tracker. Standing still on a bed is distinguished from sleeping; stored skill Magicules, maximum player Magicules, and recorded mob kills are separate checks. The guide corrects the source’s mastery default while preserving attribution for source-described effects. Runtime timing, reset persistence, complete effects, and active server eligibility remain unverified.
 
+The [Sin Ultimate mastery review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/nightmares_mastery_reference.json) records seven class-matched mastery methods and the shared 15,000-point default. Source infobox values are corrected only for those classes. Mastery gain rates, acquisition routes, runtime overrides, and effective server values are outside this review.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.
