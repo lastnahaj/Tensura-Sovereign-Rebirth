@@ -74,7 +74,7 @@ See <a class="new" href="https://trmysticism.wiki.gg/wiki/Eternal_Permafrost?act
 </span>
 </a>
 <a class="reference-related-card" href="../getting-started/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Getting Started</strong>
 <small>Upstream reference information for Getting Started.</small>
@@ -90,7 +90,7 @@ See <a class="new" href="https://trmysticism.wiki.gg/wiki/Eternal_Permafrost?act
 TR Mysticism reference adapted from [Effects/Eternal Permafrost](https://trmysticism.wiki.gg/wiki/Effects/Eternal_Permafrost) on the Tensura Reincarnated: Mysticism Wiki (revision `3386`, modified `2026-07-06T15:17:17Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (1 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:EffectPlaceholder.png">EffectPlaceholder.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3265</li>
 </ul>

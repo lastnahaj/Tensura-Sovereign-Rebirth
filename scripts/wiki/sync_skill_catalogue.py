@@ -535,6 +535,7 @@ def generate():
             record["reference_build_only"] = decision["status"] == "reference"
             if decision.get("asset"):
                 record["_primary_media"] = source_icons.get(record["local_page"]) or {"local_path": decision["asset"], "kind": "original" if decision.get('artwork_kind') == 'original-illustration' else "emblem"}
+                record.pop("_omit_media", None)
             record["_html"] = outputs[record["local_page"]]
         active.append(record)
     for category in LABELS:

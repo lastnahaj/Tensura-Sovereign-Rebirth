@@ -1604,6 +1604,8 @@ def apply_reference_media_overrides(records: list[dict[str, Any]]) -> None:
     apply_charybdis_cave(records)
     from mechanics_handbook import apply as apply_mechanics_handbook
     apply_mechanics_handbook(records)
+    from soul_energy_reference import apply as apply_soul_energy
+    apply_soul_energy(records)
 
 
 def load_reference_snapshot(source_key: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
@@ -2528,6 +2530,9 @@ def main() -> int:
         (DOCS / cave_page).write_text(generate_cave(), encoding="utf-8")
         from mechanics_handbook import PAGE as handbook_page, generate as generate_handbook
         (DOCS / handbook_page).write_text(generate_handbook(), encoding="utf-8")
+        from soul_energy_reference import generate_all as generate_soul_energy
+        for page, content in generate_soul_energy().items():
+            (DOCS / page).write_text(content, encoding="utf-8")
         from sync_item_reference import generate as generate_item_references
         for name, content in generate_item_references().items():
             (DOCS / name).write_text(content, encoding="utf-8")
@@ -2662,6 +2667,9 @@ def main() -> int:
     (DOCS / cave_page).write_text(generate_cave(), encoding="utf-8")
     from mechanics_handbook import PAGE as handbook_page, generate as generate_handbook
     (DOCS / handbook_page).write_text(generate_handbook(), encoding="utf-8")
+    from soul_energy_reference import generate_all as generate_soul_energy
+    for page, content in generate_soul_energy().items():
+        (DOCS / page).write_text(content, encoding="utf-8")
     from sync_item_reference import generate as generate_item_references
     for name, content in generate_item_references().items():
         (DOCS / name).write_text(content, encoding="utf-8")

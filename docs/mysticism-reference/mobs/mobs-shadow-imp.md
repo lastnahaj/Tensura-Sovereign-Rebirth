@@ -33,13 +33,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container noexcerpt druid-container-mob" id="druid-container-1"><div><div class="druid-title">Shadow Imp</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Shadow_imp.gif"><img alt="Shadow imp.gif" data-file-height="476" data-file-width="462" decoding="async" height="309" loading="lazy" src="../../../assets/upstream/mysticism/mobs/shadow-imp-376fb9721e.gif" width="300"/></a></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-Health" data-druid-section-row="Stats"><div class="druid-label druid-label-Health">Health</div><div class="druid-data druid-data-Health druid-data-nonempty">
 50</div></div><div class="druid-row druid-row-Armor" data-druid-section-row="Stats"><div class="druid-label druid-label-Armor">Armor</div><div class="druid-data druid-data-Armor druid-data-nonempty">
 5</div></div><div class="druid-row druid-row-MinimumEP" data-druid-section-row="Stats"><div class="druid-label druid-label-MinimumEP">Minimum EP</div><div class="druid-data druid-data-MinimumEP druid-data-nonempty">
@@ -86,7 +80,7 @@ tags:
 </span>
 </a>
 <a class="reference-related-card" href="../mobs/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Mobs</strong>
 <small>Dark Attack Resistance • Earth Attack Resistance • Heat Resistance • Light Attack Resistance • Magic Resistance •…</small>
@@ -109,9 +103,8 @@ tags:
 TR Mysticism reference adapted from [Mobs/Shadow imp](https://trmysticism.wiki.gg/wiki/Mobs/Shadow_imp) on the Tensura Reincarnated: Mysticism Wiki (revision `3456`, modified `2026-08-16T22:31:07Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Shadow_imp.gif">Shadow imp.gif</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 2049</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

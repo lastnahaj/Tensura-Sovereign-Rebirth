@@ -1,0 +1,145 @@
+{
+  "version": "2.1.2",
+  "minecraft": "1.21.1",
+  "reviewed_on": "2026-10-02",
+  "artifact_sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+  "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+  "configuration": {
+    "path": "pack/config/mysticism/general.toml",
+    "sha256": "926c1bd9a940f49d9acc971daa2efc674868bc3d20a4addc2c6d8981c45e9f2a",
+    "General": {
+      "refresh": false,
+      "flightSpeed": 0.05,
+      "seCostMultiplier": 4
+    }
+  },
+  "initial_roll": {
+    "method": "AttributeHandler.getWeightedSoulEnergy",
+    "rounding": "nearest 100",
+    "bands": [
+      {
+        "probability_percent": 65,
+        "minimum": 500000,
+        "maximum": 1000000
+      },
+      {
+        "probability_percent": 25,
+        "minimum": 1000000,
+        "maximum": 2000000
+      },
+      {
+        "probability_percent": 6,
+        "minimum": 2000000,
+        "maximum": 3000000
+      },
+      {
+        "probability_percent": 2,
+        "minimum": 3000000,
+        "maximum": 4000000
+      },
+      {
+        "probability_percent": 1,
+        "minimum": 4000000,
+        "maximum": 5000000
+      },
+      {
+        "probability_percent": 0.5,
+        "minimum": 5000000,
+        "maximum": 6000000
+      },
+      {
+        "probability_percent": 0.3,
+        "minimum": 6000000,
+        "maximum": 6500000
+      },
+      {
+        "probability_percent": 0.2,
+        "minimum": 6500000,
+        "maximum": 7000000
+      }
+    ],
+    "injection_target": "ReincarnationMenu.checkForFirstLogin",
+    "injection_at": "HEAD",
+    "condition": "RaceAPI.getRaceFrom(player).getRace().isEmpty()",
+    "sets_current_and_maximum": true,
+    "rimuru_mode_override": 3000000
+  },
+  "unique_acquisition": {
+    "event": "SkillEvents.UNLOCK_SKILL",
+    "handler": "AbilityHandler.lambda$init$2",
+    "gamerule": "uniqueSECost",
+    "gamerule_default": true,
+    "cost_formula": "getAcquiringMagiculeCost(instance) * General.seCostMultiplier",
+    "balance_equal_to_cost_accepted": true,
+    "skips": [
+      "sub-instance",
+      "temporary",
+      "vicSkill tag",
+      "NoSoulEnergyCost tag (removed after bypass)",
+      "infinite materials",
+      "gamerule disabled",
+      "non-Unique Skill",
+      "negative mastery"
+    ]
+  },
+  "gains": {
+    "no_player_namer": {
+      "minimum": 100000,
+      "maximum_exclusive": 250000
+    },
+    "player_namer": {
+      "requires_higher_maximum": true,
+      "maximum_gain": 1000000,
+      "formula": "min(namer maximum - recipient maximum, 1000000)",
+      "requires_naming_boost_false": true,
+      "sets_naming_boost_true_on_gain": true
+    },
+    "awakening_event": {
+      "minimum": 500000,
+      "maximum_exclusive": 1000000
+    },
+    "increases_current_and_maximum": true
+  },
+  "reset_hooks": {
+    "resetSkill": {
+      "injection_at": "HEAD",
+      "refills_to_maximum": true
+    },
+    "resetEverything": {
+      "injection_at": "HEAD",
+      "refills_to_maximum": true,
+      "full_reset_bonus_minimum": 500000,
+      "full_reset_bonus_maximum_exclusive": 1000000,
+      "bonus_condition": "ResetScrollItem.isFullReset(player)"
+    },
+    "resetRace": {
+      "injection_at": "RETURN",
+      "refills_soul_energy": false
+    },
+    "administrative_reset": {
+      "method": "MysticResetCommand.resetSoulEnergy",
+      "rerolls_current_and_maximum": true
+    }
+  },
+  "legacy_constant_search": {
+    "soulQuality": [],
+    "SoulQuality": [],
+    "compatibilitySystem": [],
+    "CompatibilitySystem": []
+  },
+  "class_sha256": {
+    "io/github/Memoires/mysticism/handler/AttributeHandler.class": "8393d9fbae37b23e469193d56f15f8c112fc6d8d76c6ff380016fc740c9ceb8f",
+    "io/github/Memoires/mysticism/handler/AbilityHandler.class": "5de1914421628a3afe03de044e43af0024ca5116a88c5cbff27ee4777d803f09",
+    "io/github/Memoires/mysticism/storage/soulEnergy/SoulEnergyStorage.class": "195e2cba12b55a3cd40bc8cac628dbe00ed0eebf3e5b16137344427aaa906618",
+    "io/github/Memoires/mysticism/storage/soulEnergy/ISoulEnergy.class": "250315463e42d7170c777f54e109b0fb705c1a57944d10aa384bcd9a6497fd0d",
+    "io/github/Memoires/mysticism/mixin/item/MixinResetScrollItem.class": "0dc044be4fee0bdefe90fcec7710b4b3853b88e8d2ce9291a7374b8e60b91660",
+    "io/github/Memoires/mysticism/mixin/MixinReincarnationMenu.class": "5fb6bcf30553a5bb5e4cf8e5b54cb48e1ab9d2e20064a6e1abdb50d6b6f2f916",
+    "io/github/Memoires/mysticism/world/MysticismGameRules.class": "5f5ee76e2bb424d48e2b187ab2754d51eb6a2a154df8b21d7e7b6a26d20b5d70",
+    "io/github/Memoires/mysticism/registry/attributes/MysticismAttributes.class": "cbfda06ceac2be0bd8ede0ea69327019ce706bc253c77b8bdc83f9b0a6f67274",
+    "io/github/Memoires/mysticism/ability/MysticSkill.class": "cceeceb6e2012463162d5b82b9f6ed90a7fabdfb5eb240053f5e97fc52dbcb3b",
+    "io/github/Memoires/mysticism/storage/MysticismStorages.class": "9c485218590533ee0b04ad13c9cc26f0f897479e471e3ca513c116f4df04c5b5",
+    "io/github/Memoires/mysticism/command/edit/MysticResetCommand.class": "31956f906d5837a5b77968c408fd6301804472aefef293832fa6abfdf43f471d"
+  },
+  "verification_scope": "Selected artifact handlers, mixin targets and tracked configuration. No live-server gameplay, active gamerule query, complete reset/add-on integration test, unique-skill obtainment guarantee or evidence that differently named legacy systems cannot exist."
+}

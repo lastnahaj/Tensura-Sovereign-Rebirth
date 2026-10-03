@@ -16,10 +16,6 @@ tags:
 <!-- skill-catalogue:end -->
 
 <section class="reference-overview reference-theme-abilities">
-<figure class="reference-overview-media reference-overview-media--source">
-<img src="../../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="Ultimate Skill Aquisition source reference" loading="eager" decoding="async">
-<figcaption><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png · CC BY-SA 4.0</a></figcaption>
-</figure>
 <div class="reference-overview-copy">
 <p class="reference-eyebrow">At a glance</p>
 <p>To evolve a unique skill to an ultimate skill, all of the following requirements have to be met</p>

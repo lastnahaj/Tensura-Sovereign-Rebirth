@@ -29,13 +29,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container noexcerpt druid-container-mob" id="druid-container-1"><div><div class="druid-title">AI Hoshino</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Ai_Hoshino.gif"><img alt="Ai Hoshino.gif" data-file-height="806" data-file-width="540" decoding="async" height="448" loading="lazy" src="../../../assets/upstream/mysticism/mobs/ai-hoshino-65a24ab81d.gif" width="300"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-Biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-Biome">Biome</div><div class="druid-data druid-data-Biome druid-data-nonempty">
 Any <a class="extiw" href="https://minecraft.wiki/w/Overworld" title="mcw:Overworld">Overworld</a> Biome - <a class="extiw" href="https://minecraft.wiki/w/Plains" title="mcw:Plains">Plains</a>, <a class="extiw" href="https://minecraft.wiki/w/Snowy_Plains" title="mcw:Snowy Plains">Snowy Plains</a>, <a class="extiw" href="https://minecraft.wiki/w/Sunflower_Plains" title="mcw:Sunflower Plains">Sunflower Plains</a> <a class="extiw" href="https://minecraft.wiki/w/Windswept_Hills" title="mcw:Windswept Hills">Windswept Hills</a>, <a class="extiw" href="https://minecraft.wiki/w/Mountain" title="mcw:Mountain">Mountains</a>, <a class="extiw" href="https://minecraft.wiki/w/Meadow" title="mcw:Meadow">Meadow</a> <a class="extiw" href="https://minecraft.wiki/w/Savanna" title="mcw:Savanna">Savanna</a>, <a class="extiw" href="https://minecraft.wiki/w/Desert" title="mcw:Desert">Desert</a>, <a class="extiw" href="https://minecraft.wiki/w/Badlands" title="mcw:Badlands">Badlands</a>, etc</div></div><div class="druid-row druid-row-SpawnCount" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-SpawnCount">Spawn Count</div><div class="druid-data druid-data-SpawnCount druid-data-nonempty">
 Singular</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-Health" data-druid-section-row="Stats"><div class="druid-label druid-label-Health">Health</div><div class="druid-data druid-data-Health druid-data-nonempty">
@@ -69,7 +63,7 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 </span>
 </a>
 <a class="reference-related-card" href="../mobs/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Mobs</strong>
 <small>Dark Attack Resistance • Earth Attack Resistance • Heat Resistance • Light Attack Resistance • Magic Resistance •…</small>
@@ -99,9 +93,8 @@ Singular</div></div></div><div class="druid-section-container"><div data-druid-s
 TR Mysticism reference adapted from [Mobs/Ai Hoshino](https://trmysticism.wiki.gg/wiki/Mobs/Ai_Hoshino) on the Tensura Reincarnated: Mysticism Wiki (revision `2108`, modified `2025-07-24T15:11:42Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Ai_Hoshino.gif">Ai Hoshino.gif</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 2079</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

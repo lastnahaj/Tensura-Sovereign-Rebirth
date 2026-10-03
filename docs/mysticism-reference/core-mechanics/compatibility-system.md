@@ -1,79 +1,27 @@
 ---
-title: Compatibility System
-description: If you rolled the Unique Skills [Guardian] or [Gourmet], you are compatible with the other skill in this set, giving you a 0.05% chance to obtain the other Unique Skill from Royal Orcs. If you rolled the Unique Skills [Captivator] or [Bewilder], you are compatible with the other skill in this set, giving...
-tags: []
+title: Compatibility System — Historical Reference
+description: Historical Compatibility System source topic; not verified as a current Mysticism 2.1.2 player system.
 ---
 
 # Compatibility System
 
-<span class="reference-badge">TR Mysticism reference</span> <span class="reference-category">Core Mechanics</span>
+<section class="reference-overview reference-theme-evolution"><div class="reference-overview-copy"><p class="reference-eyebrow">Mysticism 2.1.2 · Minecraft 1.21.1</p><h2>Historical source topic · not a verified current requirement.</h2><nav class="reference-quick-jumps" aria-label="Current soul-system guides"><a href="../../other/soul-energy/">Read Soul Energy</a><a href="../../../prestige-and-soul-grade/">TSR Soul Grade</a></nav></div></section>
 
-<section class="reference-overview reference-theme-evolution">
-<figure class="reference-overview-media reference-overview-media--theme">
-<img src="../../../assets/images/reference-races-evolution.png" alt="" loading="eager" decoding="async">
-<figcaption>Original TSR section artwork</figcaption>
-</figure>
-<div class="reference-overview-copy">
-<p class="reference-eyebrow">At a glance</p>
-<p>Can be disabled in config files. Functions in truly unique</p>
-<div class="reference-reading-controls" role="group" aria-label="Article reading mode">
-<button type="button" class="reference-mode-button is-active" data-reference-mode="overview" aria-pressed="true">Overview</button>
-<button type="button" class="reference-mode-button" data-reference-mode="full" aria-pressed="false">Expand all</button>
-</div>
-</div>
-</section>
+<div class="tensura-reference-article" markdown="1">
 
-<div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><ul><li>If you rolled the Unique Skills [<a class="external text" href="https://tensura.wiki.gg/wiki/Guardian">Guardian</a>] or [<a class="external text" href="https://tensura.wiki.gg/wiki/Gourmet">Gourmet</a>], you are compatible with the other skill in this set, giving you a 0.05% chance to obtain the other Unique Skill from Royal Orcs.</li></ul>
-<ul><li>If you rolled the Unique Skills [<a class="text" href="../../skills/unique/captivator/">Captivator</a>] or [<a class="external text" href="https://tensura.wiki.gg/wiki/Bewilder">Bewilder</a>], you are compatible with the other skill in this set, giving you a 5% chance to obtain the other Unique Skill from the respective skill holder.</li></ul>
-<p><br/>
-<b>Can be disabled in config files. Functions in truly unique</b>
-</p>
+!!! warning "Historical reference · not a current requirement"
+    The imported source describes an older system. Its probabilities, slot limits, and obtainment claims have not been verified for Mysticism **2.1.2** on Minecraft **1.21.1**, so they are not supplied as current progression instructions.
 
+<span id="Functionality"></span>
 
+## Use the selected-build guides
 
-</div>
-</div>
+[Soul Energy](../other/soul-energy.md) documents the checked current and maximum-energy model. [TSR prestige and Soul Grade](../../prestige-and-soul-grade.md) explains the separate SlimeThrone Extras system. Neither should be interpreted through this historical topic.
 
-<section class="reference-related">
-<div class="reference-related-heading">
-<h2>Continue exploring</h2>
-<a href="../">Browse all Core Mechanics</a>
-</div>
-<div class="reference-related-grid">
-<a class="reference-related-card" href="../effects-collective/">
-<img src="../../../assets/upstream/mysticism/misc/collective-3bf39a5447.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Collective</strong>
-<small>Collective is an effect that...</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-countering/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Countering</strong>
-<small>Countering is caused by activating the ability &quot;Counter&quot; with Restricted .</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-brimstone-flames/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Brimstone Flames</strong>
-<small>Brimstone Flames is applied by Axiom with the engraving Holy Flames</small>
-</span>
-</a>
-<a class="reference-related-card" href="../effects-cultivating/">
-<img src="../../../assets/upstream/mysticism/misc/effectplaceholder-b97da4c888.png" alt="" loading="lazy" decoding="async">
-<span class="reference-related-copy">
-<strong>Cultivating</strong>
-<small>Cultivating is an effect that...</small>
-</span>
-</a>
-</div>
-</section>
-
----
+The packaged-class scan found no constants named `soulQuality`, `SoulQuality`, `compatibilitySystem`, or `CompatibilitySystem`. This does not exclude an implementation with another name or an external add-on; it is not enough to certify these historical claims.
 
 ## Source and licensing
 
-TR Mysticism reference adapted from [Compatibility System](https://trmysticism.wiki.gg/wiki/Compatibility_System) on the Tensura Reincarnated: Mysticism Wiki (revision `2439`, modified `2025-10-21T20:07:55Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Original topic: [Compatibility System](https://trmysticism.wiki.gg/wiki/Compatibility_System), recorded revision `2439`, Mysticism Wiki. Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Selected artifact review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/soul_energy_reference.json).
+
+</div>

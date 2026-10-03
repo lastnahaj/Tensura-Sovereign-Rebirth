@@ -1278,6 +1278,15 @@
       "notice": "no-file-specific-license",
       "evidence": "No file-specific reusable image license was verified. The general page-content footer does not establish image permission.",
       "replacement_asset": "assets/images/blocks/ice-ore.webp"
+    },
+    {
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png",
+      "source_title": "Mysticism WIP.png",
+      "checked_on": "2026-10-02",
+      "decision": "permission-unconfirmed",
+      "notice": "no-file-license",
+      "evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. This is an editorial WIP portrait, not a subject image.",
+      "replacement_action": "omitted-non-content"
     }
   ]
 }

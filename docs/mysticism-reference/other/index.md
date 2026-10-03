@@ -122,13 +122,10 @@
 </article>
 <article class="reference-card" data-letter="S" data-search="soul energy on first reincarnation, the player is given a random soul energy amount ranging from 500,000 to 7,000,000. you will always have enough to gain your first unique skill.">
 <a href="soul-energy/" aria-label="Open Soul Energy">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
+<figure class="reference-card-media reference-card-media--original"><img src="../../assets/images/guides/soul-energy.webp" alt="" loading="lazy" decoding="async"><figcaption>TSR artwork</figcaption></figure>
 <div class="reference-card-copy">
 <h2>Soul Energy</h2>
-<p>On first reincarnation, the player is given a random Soul Energy amount ranging from 500,000 to 7,000,000. You will always have enough to gain your first Unique Skill.</p>
+<p>Read current and maximum Soul Energy, Unique Skill costs, naming gains, awakening bonuses, and the selected reset hooks.</p>
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
 </a>

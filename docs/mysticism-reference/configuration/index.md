@@ -24,10 +24,6 @@
 <div class="reference-card-grid">
 <article class="reference-card" data-letter="C" data-search="config in order to access the config, first go to your modpack/profile&#x27;s directory (this is the one that contains folders for mods, logs, crash reports, the config, etc.) and…">
 <a href="config/" aria-label="Open Config">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
 <div class="reference-card-copy">
 <h2>Config</h2>
 <p>In order to access the config, first go to your modpack/profile&#x27;s directory (this is the one that contains folders for mods, logs, crash reports, the config, etc.) and…</p>

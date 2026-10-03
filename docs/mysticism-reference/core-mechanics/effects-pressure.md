@@ -30,13 +30,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container noexcerpt" id="druid-container-1"><div><div class="druid-title">Pressure</div></div><div class="druid-section-container"><div class="druid-main-image"><div><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Pressure.png"><img alt="Pressure.png" data-file-height="512" data-file-width="512" decoding="async" height="512" loading="lazy" src="../../../assets/upstream/mysticism/misc/pressure-93fb98e9e8.png" width="512"/></a></div></div></div><div class="druid-section-container"><div class="druid-row druid-row-source" data-druid-section-row="main"><div class="druid-label druid-label-source">Sources</div><div class="druid-data druid-data-source druid-data-nonempty">
 See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div></div>
 <p>Pressure is an effect that...
@@ -71,7 +65,7 @@ See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div><
 </span>
 </a>
 <a class="reference-related-card" href="../mechanics/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Mechanics</strong>
 <small>These Mechanics are mechanics added by this mod:</small>
@@ -94,9 +88,8 @@ See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div><
 TR Mysticism reference adapted from [Effects/Pressure](https://trmysticism.wiki.gg/wiki/Effects/Pressure) on the Tensura Reincarnated: Mysticism Wiki (revision `3319`, modified `2026-07-03T20:44:09Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Pressure.png">Pressure.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3296</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

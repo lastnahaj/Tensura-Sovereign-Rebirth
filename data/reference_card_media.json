@@ -1166,5 +1166,35 @@
       "file_page": "https://tensura.wiki.gg/wiki/File:WIP2.png",
       "result": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. The image is an editorial WIP portrait, not player-system artwork."
     }
+  },
+  "mysticism-reference/other/soul-energy.md": {
+    "asset": "assets/images/guides/soul-energy.webp",
+    "kind": "original",
+    "summary": "Read current and maximum Soul Energy, Unique Skill costs, naming gains, awakening bonuses, and the selected reset hooks.",
+    "credit": "Original TSR soul-flame illustration · thematic artwork",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "eb6412e94cadbff69117e6c2808a0001017f4a29676387fd349e5be6f809d1cf",
+    "source_review": {
+      "date": "2026-10-02",
+      "article": "https://trmysticism.wiki.gg/wiki/Soul_Energy",
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png",
+      "result": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. This is an editorial WIP portrait, not a subject image."
+    }
+  },
+  "mysticism-reference/core-mechanics/mechanics.md": {
+    "asset": "assets/images/guides/soul-energy.webp",
+    "kind": "original",
+    "summary": "Start with the selected Soul Energy implementation; distinguish historical source systems from current player guidance.",
+    "credit": "Original TSR soul-flame illustration · thematic artwork",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "eb6412e94cadbff69117e6c2808a0001017f4a29676387fd349e5be6f809d1cf",
+    "source_review": {
+      "date": "2026-10-02",
+      "article": "https://trmysticism.wiki.gg/wiki/Soul_Energy",
+      "file_page": "https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png",
+      "result": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. This is an editorial WIP portrait, not a subject image."
+    }
   }
 }

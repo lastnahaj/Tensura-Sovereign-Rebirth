@@ -91,9 +91,8 @@ See <a class="mw-selflink-fragment" href="#Causes">Causes</a></div></div></div><
 TR Mysticism reference adapted from [Effects/Lightning Mode](https://trmysticism.wiki.gg/wiki/Effects/Lightning_Mode) on the Tensura Reincarnated: Mysticism Wiki (revision `3308`, modified `2026-07-03T20:40:22Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:EffectPlaceholder.png">EffectPlaceholder.png</a> — CC BY-SA 4.0; uploaded by Hunterman4488; revision 3265</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

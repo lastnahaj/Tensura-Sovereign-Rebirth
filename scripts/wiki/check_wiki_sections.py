@@ -628,4 +628,18 @@ assert Path(handbook.select_one('.reference-overview-media img')['src']).name ==
 for fact in ('not live gameplay tests', 'does not certify every linked mechanic', 'WIP2 editor portrait is omitted', 'SlimeThrone Extras'):
     assert fact in handbook.get_text(' ', strip=True), f'Handbook source or scope detail missing: {fact}'
 assert not any('wip2-56493556c2.png' in page.read_text(encoding='utf-8') for page in (ROOT / 'docs').rglob('*.md')), 'Withdrawn editorial portrait remains in distribution'
+from soul_energy_reference import PAGE as soul_page, generate_all as generate_soul_pages
+soul_data = json.loads((ROOT / 'data/soul_energy_reference.json').read_text(encoding='utf-8'))
+soul_pack = tomllib.loads((ROOT / soul_data['pack_manifest']).read_text(encoding='utf-8'))
+assert soul_pack['download']['hash'] == soul_data['artifact_sha1'], 'Stale selected Soul Energy artifact'
+assert sum(band['probability_percent'] for band in soul_data['initial_roll']['bands']) == 100, 'Incorrect initial-roll distribution'
+assert soul_data['configuration']['General'] == tomllib.loads((ROOT / soul_data['configuration']['path']).read_text(encoding='utf-8'))['General'], 'Stale Soul Energy configuration'
+for page, content in generate_soul_pages().items():
+    assert (ROOT / 'docs' / page).read_text(encoding='utf-8') == content, f'Stale soul-system page: {page}'
+soul_article = BeautifulSoup((site / soul_page.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+assert Path(soul_article.select_one('.reference-overview-media img')['src']).name == 'soul-energy.webp', 'Soul Energy artwork missing'
+assert len(soul_article.select('details summary')) >= 2, 'Soul Energy evidence disclosures missing'
+for fact in ('uniqueSECost', '100,000–249,999', '500,000–999,999', 'equal to the cost', 'not a complete reset outcome', 'not an in-game icon'):
+    assert fact in soul_article.get_text(' ', strip=True), f'Soul Energy detail missing: {fact}'
+assert not any('mysticism-wip-6c2780ef0a.png' in page.read_text(encoding='utf-8') for page in (ROOT / 'docs').rglob('*.md')), 'Withdrawn Mysticism portrait remains in distribution'
 print('Wiki section checks passed: 11 navigation sections, populated directories, corrected media, source-backed stats and commands, and race configurations')

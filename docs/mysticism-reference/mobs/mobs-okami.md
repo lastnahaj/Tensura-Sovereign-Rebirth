@@ -32,13 +32,7 @@ tags:
 </section>
 
 <div class="tensura-reference-article">
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><div>
-<table border="0" cellpadding="0">
-<tbody><tr>
-<td><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png"><img alt="Work In Progress" data-file-height="128" data-file-width="128" decoding="async" height="102" loading="lazy" src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" width="102"/></a>
-</td>
-<td><span> <b>Work In Progress.</b></span><br/> <i>This page is currently being worked on or has unfinished information.<br/>  Click <a class="text" href="./">here</a> in order to contribute to this article.</i>
-</td></tr></tbody></table></div>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en">
 <div class="druid-infobox druid-container noexcerpt druid-container-mob" id="druid-container-1"><div><div class="druid-title">Okami</div></div><div class="druid-section-container"><div class="druid-main-image"><a class="image" href="https://trmysticism.wiki.gg/wiki/File:Okami2.gif"><img alt="Okami2.gif" data-file-height="476" data-file-width="241" decoding="async" height="593" loading="lazy" src="../../../assets/upstream/mysticism/mobs/okami2-ff114baf03.gif" width="300"/></a></div></div><div class="druid-section-container"><div data-druid-section="GeneralInfo"><div class="druid-section druid-section-GeneralInfo">General Info</div></div><div class="druid-row druid-row-Biome" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-Biome">Biome</div><div class="druid-data druid-data-Biome druid-data-nonempty">
 Meadows, Snowy Slopes, Jagged Peaks, Frozen Peaks and Stony Peaks.</div></div><div class="druid-row druid-row-SpawnCount" data-druid-section-row="GeneralInfo"><div class="druid-label druid-label-SpawnCount">Spawn Count</div><div class="druid-data druid-data-SpawnCount druid-data-nonempty">
 1+</div></div></div><div class="druid-section-container"><div data-druid-section="Stats"><div class="druid-section druid-section-Stats">Stats</div></div><div class="druid-row druid-row-Health" data-druid-section-row="Stats"><div class="druid-label druid-label-Health">Health</div><div class="druid-data druid-data-Health druid-data-nonempty">
@@ -75,7 +69,7 @@ Can only spawn when a chunk is initially loaded for the first time.
 </div>
 <div class="reference-related-grid">
 <a class="reference-related-card" href="../mobs/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Mobs</strong>
 <small>Dark Attack Resistance • Earth Attack Resistance • Heat Resistance • Light Attack Resistance • Magic Resistance •…</small>
@@ -112,9 +106,8 @@ Can only spawn when a chunk is initially loaded for the first time.
 TR Mysticism reference adapted from [Mobs/Okami](https://trmysticism.wiki.gg/wiki/Mobs/Okami) on the Tensura Reincarnated: Mysticism Wiki (revision `3420`, modified `2026-07-09T03:14:15Z`). Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <details class="reference-media-credits">
-<summary>Media credits (2 source files)</summary>
+<summary>Media credits (1 source file)</summary>
 <ul>
 <li><a href="https://trmysticism.wiki.gg/wiki/File:Okami2.gif">Okami2.gif</a> — CC BY-SA 4.0; uploaded by Warrenboy1; revision 1487</li>
-<li><a href="https://trmysticism.wiki.gg/wiki/File:Mysticism_WIP.png">Mysticism WIP.png</a> — CC BY-SA 4.0; uploaded by Velo; revision 666</li>
 </ul>
 </details>

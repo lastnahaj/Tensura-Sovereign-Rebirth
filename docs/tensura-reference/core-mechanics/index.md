@@ -173,16 +173,12 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="C" data-search="compatibility system can be disabled in config files. functions in truly unique">
-<a href="../../mysticism-reference/core-mechanics/compatibility-system/" aria-label="Open Compatibility System">
-<figure class="reference-card-media reference-card-media--theme">
-<img src="../../assets/images/reference-races-evolution.png" alt="" loading="lazy" decoding="async">
-<figcaption>TSR artwork</figcaption>
-</figure>
+<article class="reference-card" data-letter="C" data-search="compatibility system · historical reference historical upstream system; not verified for the selected mysticism 2.1.2 build. use current soul energy and tsr soul grade guides.">
+<a href="../../mysticism-reference/core-mechanics/compatibility-system/" aria-label="Open Compatibility System · historical reference">
 <div class="reference-card-copy">
-<h2>Compatibility System</h2>
+<h2>Compatibility System · historical reference</h2>
 
-<p>Can be disabled in config files. Functions in truly unique</p>
+<p>Historical upstream system; not verified for the selected Mysticism 2.1.2 build. Use current Soul Energy and TSR Soul Grade guides.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -460,10 +456,6 @@
 </article>
 <article class="reference-card" data-letter="G" data-search="getting started upstream reference information for getting started.">
 <a href="../../mysticism-reference/core-mechanics/getting-started/" aria-label="Open Getting Started">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
 <div class="reference-card-copy">
 <h2>Getting Started</h2>
 
@@ -623,21 +615,6 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="M" data-search="mechanics these mechanics are mechanics added by this mod:">
-<a href="../../mysticism-reference/core-mechanics/mechanics/" aria-label="Open Mechanics">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
-<div class="reference-card-copy">
-<h2>Mechanics</h2>
-
-<p>These Mechanics are mechanics added by this mod:</p>
-
-<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
-</div>
-</a>
-</article>
 <article class="reference-card" data-letter="M" data-search="mechanics handbook choose a guide for character growth, skill learning, casting, crafting, or prestige; check each system’s source and verification scope.">
 <a href="mechanics/" aria-label="Open Mechanics Handbook">
 <figure class="reference-card-media reference-card-media--theme">
@@ -648,6 +625,21 @@
 <h2>Mechanics Handbook</h2>
 
 <p>Choose a guide for character growth, skill learning, casting, crafting, or prestige; check each system’s source and verification scope.</p>
+
+<span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</article>
+<article class="reference-card" data-letter="M" data-search="mysticism soul systems start with the selected soul energy implementation; distinguish historical source systems from current player guidance.">
+<a href="../../mysticism-reference/core-mechanics/mechanics/" aria-label="Open Mysticism Soul Systems">
+<figure class="reference-card-media reference-card-media--theme">
+<img src="../../assets/images/guides/soul-energy.webp" alt="" loading="lazy" decoding="async">
+<figcaption>TSR artwork</figcaption>
+</figure>
+<div class="reference-card-copy">
+<h2>Mysticism Soul Systems</h2>
+
+<p>Start with the selected Soul Energy implementation; distinguish historical source systems from current player guidance.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>
@@ -908,16 +900,12 @@
 </div>
 </a>
 </article>
-<article class="reference-card" data-letter="S" data-search="soul quality the soul quality determines how many ultimate skills one soul can be engraved with.">
-<a href="../../mysticism-reference/core-mechanics/soul-quality/" aria-label="Open Soul Quality">
-<figure class="reference-card-media reference-card-media--source">
-<img src="../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
-<figcaption>Source media</figcaption>
-</figure>
+<article class="reference-card" data-letter="S" data-search="soul quality · historical reference historical upstream system; not verified for the selected mysticism 2.1.2 build. use current soul energy and tsr soul grade guides.">
+<a href="../../mysticism-reference/core-mechanics/soul-quality/" aria-label="Open Soul Quality · historical reference">
 <div class="reference-card-copy">
-<h2>Soul Quality</h2>
+<h2>Soul Quality · historical reference</h2>
 
-<p>The soul quality determines how many ultimate skills one soul can be engraved with.</p>
+<p>Historical upstream system; not verified for the selected Mysticism 2.1.2 build. Use current Soul Energy and TSR Soul Grade guides.</p>
 
 <span class="reference-card-action">Open reference <span aria-hidden="true">→</span></span>
 </div>

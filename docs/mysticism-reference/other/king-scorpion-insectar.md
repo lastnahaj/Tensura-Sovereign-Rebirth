@@ -59,7 +59,7 @@ tags: []
 </span>
 </a>
 <a class="reference-related-card" href="../soul-energy/">
-<img src="../../../assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png" alt="" loading="lazy" decoding="async">
+
 <span class="reference-related-copy">
 <strong>Soul Energy</strong>
 <small>On first reincarnation, the player is given a random Soul Energy amount ranging from 500,000 to 7,000,000. You will…</small>

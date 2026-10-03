@@ -3524,17 +3524,20 @@
         "mysticism-reference/skills/unique/the-balance.md"
       ],
       "category": "races",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "license_evidence": "Upstream File page declares CC BY-SA 4.0 for page content unless otherwise noted",
+      "license": null,
+      "license_url": null,
+      "license_evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. This is an editorial WIP portrait, not a subject image.",
       "artist": null,
       "credit": null,
       "attribution": null,
       "last_synchronized": "2026-09-05T21:59:40Z",
-      "local_path": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
       "download_url": "https://trmysticism.wiki.gg/images/Mysticism_WIP.png?6c2780",
-      "import_status": "imported",
-      "reason": "Reusable File-page media imported with attribution"
+      "import_status": "skipped-license",
+      "reason": "Withdrawn editorial portrait; omitted from player-facing content.",
+      "license_reviewed_on": "2026-10-02",
+      "license_review_evidence": "The rendered File page provides no file-specific reusable image license. The general page-content footer does not establish image permission. This is an editorial WIP portrait, not a subject image.",
+      "withdrawn_local_path": "assets/upstream/mysticism/races/mysticism-wip-6c2780ef0a.png",
+      "replacement_action": "omitted-non-content"
     },
     {
       "source_title": "Melancholy.png",
