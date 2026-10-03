@@ -9038,10 +9038,10 @@
       "from": "tensura-reference/skills/unique/sloth/",
       "to": "tensura-reference/skills/ultimate/nightmares-belphegor/",
       "kinds": [
-        "Evolution"
+        "Reference-build evolution"
       ],
       "requirements": [
-        "Sloth"
+        "Reference defaults: mastered permanent Sloth with 25,000 stored Magicules; 12,000 recorded standing-still-on-bed ticks and current bed state; 1,000 recorded mob kills; 1,000,000 maximum Magicules. Gamerules, skill configuration, and bed tracking must allow the route. The helper removes Sloth after success. Server evolution remains unverified."
       ]
     },
     {

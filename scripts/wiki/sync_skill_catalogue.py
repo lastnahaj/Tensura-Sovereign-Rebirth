@@ -323,6 +323,10 @@ def acquisition(text, page, decision):
     reviewed = reviewed_lucifer_acquisition(page, decision)
     if reviewed:
         return reviewed
+    from belphegor_acquisition import acquisition as reviewed_belphegor_acquisition
+    reviewed = reviewed_belphegor_acquisition(page, decision)
+    if reviewed:
+        return reviewed
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
@@ -403,6 +407,8 @@ def prepare_page(page, decision, text):
         obtain += successor(page, decision)
         from lucifer_acquisition import successor as lucifer_successor
         obtain += lucifer_successor(page, decision)
+        from belphegor_acquisition import successor as belphegor_successor
+        obtain += belphegor_successor(page, decision)
         evidence = "Pinned pack inventory"
         notice = ""
         if decision["status"] == "reference":
@@ -422,6 +428,18 @@ def prepare_page(page, decision, text):
                 from lucifer_acquisition import review as lucifer_review
                 mastery = lucifer_review()['lucifer']['default_lucifer_mastery']
                 text = re.sub(r'(<div class="druid-data druid-data-PointstoMaster[^>]*>).*?(</div>)', lambda m: m[1] + f'{mastery:,} (reference default)' + m[2], text, count=1, flags=re.S)
+            if decision.get('id') == 'trnightmare:belphegor':
+                from belphegor_acquisition import review as belphegor_review
+                facts = belphegor_review()['belphegor']
+                notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
+                values = {
+                    'Other': '<a href="#how-to-obtain">Reviewed Sloth evolution conditions</a> · server build match pending',
+                    'Other2': f'{facts["default_bed_ticks"]:,} recorded standing-still-on-bed ticks; bed state required when checked',
+                    'Other3': f'{facts["default_mob_kills"]:,} recorded mob kills (reference default)',
+                    'PointstoMaster': f'{facts["default_mastery"]:,} (reference default)',
+                }
+                for field, value in values.items():
+                    text = re.sub(r'(<div class="druid-data druid-data-' + field + r'\s[^>]*>).*?(</div>)', lambda m, value=value: m[1] + value + m[2], text, count=1, flags=re.S)
         section = f'<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">{html.escape(label)} · {evidence}</p><h2 id="how-to-obtain">How to obtain</h2>{notice}{obtain}</section>'
         if not decision.get("maintained"):
             browse = relative(page, "tensura-reference/" + decision["category"] + "/") + "/"

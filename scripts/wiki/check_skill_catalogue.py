@@ -111,6 +111,29 @@ def main():
     pride_successor = pride_article.select_one('.skill-successor-note a')
     if not pride_successor or 'nightmares-lucifer' not in pride_successor['href']:
         errors.append('Pride successor guidance missing')
+    from belphegor_acquisition import review as belphegor_review
+    belphegor_data = belphegor_review()
+    if belphegor_data['reference_build']['sha256'] != nightmares['reference_build']['sha256'] or belphegor_data['reference_build']['installed_version_verified'] is not False or len(belphegor_data['class_sha256']) != 8:
+        errors.append('Belphegor acquisition identity, scope, or class coverage drifted')
+    bed_facts = belphegor_data['belphegor']
+    if bed_facts['default_bed_ticks'] != bed_facts['default_bed_minutes'] * 60 * 20 or bed_facts['default_designer_bed_minutes'] != 60:
+        errors.append('Belphegor bed threshold confused with shared tracker configuration')
+    belphegor = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-belphegor.md'], 'html.parser')
+    bed_panel = belphegor.select_one('.nightmares-acquisition-review')
+    if not bed_panel or len(bed_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Belphegor acquisition route panels missing')
+    bed_text = bed_panel.get_text(' ', strip=True) if bed_panel else ''
+    for phrase in ('permanent', '25,000 stored Magicules', '12,000 recorded ticks', 'standing still on a bed', '1,000 recorded mob kills', '1,000,000 maximum Magicules', 'does not reset', 'nonpositive value resets', 'Stats.MOB_KILLS', 'removes Sloth', '15,000', 'auto_evolve', 'nightmare_ultimates'):
+        if phrase not in bed_text:
+            errors.append(f'Belphegor acquisition fact missing: {phrase}')
+    bed_mastery = belphegor.select_one('.druid-data-PointstoMaster')
+    bed_row = belphegor.select_one('.druid-data-Other2')
+    if not bed_mastery or bed_mastery.get_text(' ', strip=True) != '15,000 (reference default)' or not bed_row or 'standing-still-on-bed' not in bed_row.get_text():
+        errors.append('Belphegor infobox retains older mastery or sleeping wording')
+    sloth_article = BeautifulSoup(outputs['tensura-reference/skills/unique/sloth.md'], 'html.parser')
+    sloth_successor = sloth_article.select_one('.skill-successor-note a')
+    if not sloth_successor or 'nightmares-belphegor' not in sloth_successor['href']:
+        errors.append('Sloth successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -319,7 +342,7 @@ def main():
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
         # The reviewed route supersedes the older vague resource/headcount wording.
-        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id']}
+        reviewed_routes = {nightmare_review['asmodeus']['registry_id'], lucifer_data['lucifer']['registry_id'], bed_facts['registry_id']}
         source_rows = [] if record['registry_id'] in reviewed_routes else record['obtainment_rows']
         for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:

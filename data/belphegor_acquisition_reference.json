@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "shared_reference": "data/nightmares_acquisition_review.json",
+  "base_predicate_reference": "data/lucifer_acquisition_reference.json",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "belphegor": {
+    "registry_id": "trnightmare:belphegor",
+    "predecessor": "tensura:sloth",
+    "predecessor_permanent_and_mastered": true,
+    "default_stored_magicules": 25000,
+    "stored_counter": "Sloth skill instance tag storedMagicule",
+    "default_bed_minutes": 10,
+    "default_bed_ticks": 12000,
+    "bed_counter": "designer_bed_still_ticks",
+    "bed_predicate": "ServerPlayer, horizontal velocity squared <= 0.0001, bounding-box sample overlaps a block tagged BEDS, recorded ticks >= configured minimum",
+    "bed_progress": "Selected tick helper increments when standing still on a bed; leaving the bed does not reset this counter in that helper. A nonpositive Designer slothBedMinutesRequired setting resets it to zero.",
+    "default_designer_bed_minutes": 60,
+    "default_mob_kills": 1000,
+    "mob_counter": "Stats.CUSTOM / Stats.MOB_KILLS",
+    "default_max_magicules_requirement": 1000000,
+    "minimum_comparison": "greater than or equal",
+    "default_mastery": 15000,
+    "mastery_config_key": "ultMasteryConfig.masterySinUlt",
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {"nightmare_ultimates": true, "auto_evolve": true},
+    "helper_forgets_predecessor_after_success": true,
+    "verification_scope": "Selected acquisition and learning methods, condition-list construction, stored-Magicule and kill predicates, bed-state predicate and tick helper, tick-hook call, configuration defaults, and shared evolution completion. No live evolution, reliable timing, statistic increments, full learning charges, reset persistence, complete effects, or running-server configuration verification."
+  },
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/BelphegorSkill.class": "03283f98fac2497705b5477510db35d0b6175cf72d5b950fae2f4e07b59dd316",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Belphegor.class": "f8c3fe6e44ef77db515cc6bfdf64f379e97b4de0decae33f0b1948ba37b1d097",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$BedStillCondition.class": "ab3e8f47b8f22278037a62b610a081df70df87c735a3f80b22d96f8ac07554e8",
+    "com/github/hvnbael/trnightmare/util/DesignerHelper.class": "6b88d275a373da6b1b49b2341c3b548ec7a897cb86e4eb5b05a1cb353b7e8337",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUniqueSkillConfig$Designer.class": "a26753f0049714c962e81ad169cedf128678ca9a072149ca2d75adab824a8505",
+    "com/github/hvnbael/trnightmare/handler/EventBusHandler.class": "588915b71ed291963250da6d2c83525bc74999f9747c3f6d11cc99eca10f5ac3",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$SkillTagDoubleMinCondition.class": "cb95dcc53517290035b54e97f3192dc8482a6ea9f70992f49709972c897ce808",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$MobKillsCountCondition.class": "d4a8f9f79d643ebd4c6917f33f373eaced2f70b17a540890eac414be21a0c0ff"
+  }
+}
