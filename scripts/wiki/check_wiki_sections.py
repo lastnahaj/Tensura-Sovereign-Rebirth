@@ -673,4 +673,20 @@ for directory in ('tensura-reference/core-mechanics', 'mysticism-reference/core-
         assert not directory_soup.select('.reference-card a[href="getting-started/"]'), 'Duplicate Mysticism onboarding card'
 ultimate_directory = BeautifulSoup((site / 'tensura-reference/skills/ultimate/index.html').read_text(encoding='utf-8'), 'html.parser')
 assert 'ultimate-skill-aquisition' in ultimate_directory.select_one('.reference-directory-overview-link')['href'], 'Acquisition guide directory link missing'
+from sync_command_reference import MYSTICISM_PAGE, generate_mysticism_guide
+mystic_command_data = json.loads((ROOT / 'data/mysticism_command_review.json').read_text(encoding='utf-8'))
+assert mystic_command_data['artifact_sha1'] == soul_pack['download']['hash'], 'Stale Mysticism command artifact'
+assert mystic_command_data['root_children'] == ['edit', 'get', 'reset'] and mystic_command_data['edit_children'] == ['stat']
+assert mystic_command_data['stat_edit_operations']['current'] == ['set', 'add'], 'Undeclared stat-reset operation'
+assert len(mystic_command_data['class_sha256']) == 7, 'Incomplete command class review'
+assert (ROOT / 'docs' / MYSTICISM_PAGE).read_text(encoding='utf-8') == generate_mysticism_guide(), 'Stale Mysticism command guide'
+mystic_source = next(source for source in json.loads((ROOT / 'data/command_reference.json').read_text(encoding='utf-8'))['sources'] if source['id'] == 'mysticism')
+assert mystic_source['entries'][0]['branches'] == ['soulEnergy current|max', '<target> soulEnergy current|max'], 'Soul Energy argument order drifted'
+assert mystic_source['entries'][2]['command'] == '/mysticism reset …', 'Incorrect administrative reset root'
+mystic_command_article = BeautifulSoup((site / MYSTICISM_PAGE.replace('.md', '/index.html')).read_text(encoding='utf-8'), 'html.parser')
+for query in mystic_command_data['self_queries']:
+    assert query in mystic_command_article.get_text(' ', strip=True), f'Self query missing: {query}'
+assert len(mystic_command_article.select('.command-entry')) == 3 and mystic_command_article.select('details summary'), 'Command patterns or source disclosure missing'
+for fact in ('base value', 'Player', 'Moderator', 'Gamemaster', 'not live gameplay or permission tests'):
+    assert fact in mystic_command_article.get_text(' ', strip=True), f'Command scope missing: {fact}'
 print('Wiki section checks passed: 11 navigation sections, populated directories, corrected media, source-backed stats and commands, and race configurations')

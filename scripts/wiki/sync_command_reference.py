@@ -10,10 +10,39 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "data" / "command_reference.json"
 OUTPUT = ROOT / "docs" / "tensura-reference" / "commands" / "index.md"
+MYSTICISM_PAGE = 'mysticism-reference/commands/commands.md'
 
 
 def load_manifest() -> dict:
     return json.loads(DATA.read_text(encoding="utf-8"))
+
+
+def generate_mysticism_guide() -> str:
+    source = next(source for source in load_manifest()['sources'] if source['id'] == 'mysticism')
+    cards = '\n'.join(render_entry(entry, 'mysticism') for entry in source['entries'])
+    return '\n'.join([
+        '---', 'title: Mysticism Commands', 'description: Selected 2.1.2 command paths, read-only Soul Energy queries, and administrative access boundaries.', '---', '', '# Mysticism Commands', '',
+        '<section class="reference-overview reference-theme-evolution staff-guide-hero smithing-guide-hero"><figure class="reference-overview-media"><img src="../../../assets/images/guides/soul-energy.webp" alt="Original soul-flame illustration" loading="eager" decoding="async"><figcaption>Original TSR soul-system artwork · not an interface</figcaption></figure><div class="reference-overview-copy"><p class="reference-eyebrow">Mysticism 2.1.2 · Minecraft 1.21.1</p><h2>Inspect your energy. Keep administration separate.</h2><p>Use the selected command tree rather than the old mixed-version table. Read-only self queries and protected stat changes have different permission declarations.</p><nav class="reference-quick-jumps" aria-label="Mysticism command guide"><a href="#read-your-own-energy">Self queries</a><a href="#registered-command-families">Command families</a><a href="#version-and-permission-limits">Version limits</a></nav></div></section>', '',
+        '<div class="tensura-reference-article" markdown="1">', '',
+        '## Read your own energy', '',
+        '| Read-only self query | Selected implementation |', '| --- | --- |',
+        '| `/mysticism get stat soulEnergy current` | Reports current Soul Energy storage |',
+        '| `/mysticism get stat soulEnergy max` | Reports the maximum Soul Energy attribute’s **base value**, not its total with modifiers |', '',
+        'Both self-query methods declare **Player** access and require a player sender. Target-selection variants add the target before `soulEnergy` and declare **Moderator** access. These are artifact registration checks, not successful live-server command tests. Server permission overrides and completion behavior remain untested.', '',
+        '## Registered command families', '',
+        '<div class="command-entry-grid">', cards, '</div>', '',
+        'The cards use command patterns: angle brackets are required arguments, vertical bars are alternatives, and square brackets indicate an optional argument. Use the server’s completion suggestions; do not paste punctuation from a pattern as literal syntax.', '',
+        '!!! warning "Administrative reset is not a player progression route"',
+        '    Stat edits and the separate `/mysticism reset` root declare **Gamemaster** access. The reset handler rerolls current and maximum Soul Energy for selected players. It is not a skill reset, prestige command, or ordinary method for increasing a player’s capacity. No state-changing command was executed for this review.', '',
+        '## Version and permission limits', '',
+        '??? info "Why the older table is not used as current syntax"', '',
+        '    The upstream article contains both 1.19.2 and 1.21.1 tables. Soul Quality, spirit-contract dissolution, contract inspection, and spirit-element reroll commands from the old table are not declared by the selected 2.1.2 command tree. Its stat-edit methods also do not declare a `current reset` branch; the separately registered reset class sits directly beneath `/mysticism`, not beneath `/mysticism edit`.', '',
+        '    Current storage, the base maximum attribute, optional maximum-edit arguments, and administrative rerolls are separate operations. Declared permission levels do not prove effective server access or protection against overrides.', '',
+        '## Source and licensing', '',
+        '[Commands](https://trmysticism.wiki.gg/wiki/Commands), recorded revision `2887`, Mysticism Wiki, supplies the historical topic. Adapted text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The [selected 2.1.2 artifact](https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529), [command reference](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/command_reference.json), and [annotation review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/mysticism_command_review.json) support the checked paths and access declarations. These are **not live gameplay or permission tests**.', '',
+        'The illustration is original TSR thematic artwork, not a screenshot or an in-game icon. The unrelated source editorial portrait is omitted. [Sources and attribution](../../project/sources-and-attribution.md).', '',
+        '[Commands by source](../../tensura-reference/commands/index.md#mysticism) · [Soul Energy](../other/soul-energy.md) · [Prestige and Soul Grade](../../prestige-and-soul-grade.md)', '', '</div>', '',
+    ])
 
 
 def render_entry(entry: dict, source_id: str) -> str:
@@ -104,7 +133,7 @@ def generate() -> str:
 <p>Names, roots, branches, and permission tiers come from the exact 1.21.1 artifacts recorded above. Runtime configuration can still disable a branch or change who receives permission. Nightmares is clearly marked separately because its reference jar is not yet matched to TSR's current pack manifest.</p>
 </aside>
 
-<details class="command-archive-note"><summary>Historical imported command pages</summary><p>The raw <a href="commands/">Tensura import</a> and <a href="../../mysticism-reference/commands/commands/">Mysticism 1.19.2 import</a> remain available for provenance. They are not the current command reference and may contain obsolete syntax.</p></details>
+<details class="command-archive-note"><summary>Source topics and version guidance</summary><p>The <a href="commands/">Tensura source topic</a> retains imported syntax; use the selected-build reference above for current paths. The <a href="../../mysticism-reference/commands/commands/">Mysticism command guide</a> explains checked self queries, administrative boundaries, and historical source limits. Each page retains its source attribution.</p></details>
 </section>
 '''
 
@@ -113,12 +142,13 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true")
     args = parser.parse_args()
-    content = generate()
-    if args.check:
-        if not OUTPUT.exists() or OUTPUT.read_text(encoding="utf-8") != content:
-            raise SystemExit(f"Stale command reference: {OUTPUT}")
-    else:
-        OUTPUT.write_text(content, encoding="utf-8", newline="\n")
+    outputs = {OUTPUT: generate(), ROOT / 'docs' / MYSTICISM_PAGE: generate_mysticism_guide()}
+    for path, content in outputs.items():
+        if args.check:
+            if not path.exists() or path.read_text(encoding="utf-8") != content:
+                raise SystemExit(f"Stale command reference: {path}")
+        else:
+            path.write_text(content, encoding="utf-8", newline="\n")
     print(f'Command reference {"checked" if args.check else "generated"}: {sum(len(s["entries"]) for s in load_manifest()["sources"])} families')
 
 

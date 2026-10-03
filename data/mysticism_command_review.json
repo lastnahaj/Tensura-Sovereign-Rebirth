@@ -1,0 +1,65 @@
+{
+  "minecraft": "1.21.1",
+  "version": "2.1.2",
+  "reviewed_on": "2026-10-02",
+  "pack_manifest": "pack/mods/tensura-mysticism.pw.toml",
+  "artifact_sha1": "cca1bd878b46c21ddbbf507bd4489fbb217899c7",
+  "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529",
+  "class_sha256": {
+    "io/github/Memoires/mysticism/command/MysticismCommands$MysticismCommand$MysticEditCommand.class": "24c707430a5a3a65c11c34252764010b50803124506a19aabb9da802e2a8df00",
+    "io/github/Memoires/mysticism/command/MysticismCommands$MysticismCommand$MysticGetCommand.class": "065b274edcf5343520f41960c52cccf627936616d8e4b8a09e81b0ed3b5aa002",
+    "io/github/Memoires/mysticism/command/MysticismCommands$MysticismCommand.class": "03d363da88c9e4b7651cb0dd2aa7d1f09dab188b8541b20e4482292c3bd079f4",
+    "io/github/Memoires/mysticism/command/MysticismCommands.class": "939c30c975660da4e995f2656824f9fde215cdee1325cf2ba567ee87e53a1ae4",
+    "io/github/Memoires/mysticism/command/edit/MysticEditStatCommand.class": "9fc5a8b3ff0f6609f0c998dd554e7ac05384de4ab9fa5c88906f18ddda4fc4fd",
+    "io/github/Memoires/mysticism/command/edit/MysticResetCommand.class": "31956f906d5837a5b77968c408fd6301804472aefef293832fa6abfdf43f471d",
+    "io/github/Memoires/mysticism/command/get/MysticGetStatCommand.class": "d4816f8845bd2d93e3d2a23142bb89a9e9dc38787a81a7f9b5656f138b08bd76"
+  },
+  "root_children": [
+    "edit",
+    "get",
+    "reset"
+  ],
+  "edit_children": [
+    "stat"
+  ],
+  "get_children": [
+    "stat"
+  ],
+  "self_queries": [
+    "/mysticism get stat soulEnergy current",
+    "/mysticism get stat soulEnergy max"
+  ],
+  "permissions": {
+    "self_query": {
+      "level": "PLAYER",
+      "node": "mystic.command.get_stat_self"
+    },
+    "target_query": {
+      "level": "MODERATOR",
+      "node": "mystic.command.get_stat_others"
+    },
+    "stat_edit": {
+      "level": "GAMEMASTER",
+      "node": "mystic.command.edit_stat"
+    },
+    "reset": {
+      "level": "GAMEMASTER",
+      "node": "mystic.command.reset"
+    }
+  },
+  "maximum_query_reads": "AttributeInstance.getBaseValue",
+  "stat_edit_operations": {
+    "current": [
+      "set",
+      "add"
+    ],
+    "max": [
+      "set",
+      "add"
+    ]
+  },
+  "maximum_edit_optional_argument": "resetCurrent",
+  "reset_path": "/mysticism reset <players> soulEnergy",
+  "reset_targets": "PLAYERS",
+  "verification_scope": "Selected bytecode handlers and registration, permission, and parameter annotations. No command was executed on the server; effective permissions, completion, overrides, and live output remain untested."
+}

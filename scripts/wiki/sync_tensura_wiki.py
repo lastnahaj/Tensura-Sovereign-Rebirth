@@ -2538,6 +2538,8 @@ def main() -> int:
         from ultimate_acquisition_reference import generate_all as generate_acquisition_reference
         for page, content in generate_acquisition_reference().items():
             (DOCS / page).write_text(content, encoding="utf-8")
+        from sync_command_reference import MYSTICISM_PAGE, generate_mysticism_guide
+        (DOCS / MYSTICISM_PAGE).write_text(generate_mysticism_guide(), encoding="utf-8")
         from sync_item_reference import generate as generate_item_references
         for name, content in generate_item_references().items():
             (DOCS / name).write_text(content, encoding="utf-8")
@@ -2678,6 +2680,8 @@ def main() -> int:
     from ultimate_acquisition_reference import generate_all as generate_acquisition_reference
     for page, content in generate_acquisition_reference().items():
         (DOCS / page).write_text(content, encoding="utf-8")
+    from sync_command_reference import MYSTICISM_PAGE, generate_mysticism_guide
+    (DOCS / MYSTICISM_PAGE).write_text(generate_mysticism_guide(), encoding="utf-8")
     from sync_item_reference import generate as generate_item_references
     for name, content in generate_item_references().items():
         (DOCS / name).write_text(content, encoding="utf-8")

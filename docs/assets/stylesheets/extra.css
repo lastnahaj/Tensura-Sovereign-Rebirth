@@ -2191,6 +2191,17 @@
 .command-entry > p { margin: .5rem 0; color: var(--md-default-fg-color--light); font-size: .62rem; line-height: 1.5; }
 .command-branches { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: auto; padding-top: .2rem; }
 .command-branches code { padding: .16rem .35rem; border: 1px solid rgba(51,214,255,.15); border-radius: .35rem; color: #b8cee2; font-size: .52rem; background: rgba(51,214,255,.04); }
+.command-branches code { max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+[data-md-color-scheme="default"] .command-entry { background: #f1f6fb; border-color: #cbdbe6; }
+[data-md-color-scheme="default"] .command-entry > header > code { color: #173b52; }
+[data-md-color-scheme="default"] .command-entry > p { color: #365367; }
+[data-md-color-scheme="default"] .command-branches code { color: #26495d; background: #e6eef5; border-color: #bccfdc; }
+[data-md-color-scheme="default"] .command-entry .command-access--player { color: #11664a; }
+[data-md-color-scheme="default"] .command-entry .command-access--mixed { color: #1d54a3; }
+[data-md-color-scheme="default"] .command-entry .command-access--moderator { color: #6c3dae; }
+[data-md-color-scheme="default"] .command-entry .command-access--gamemaster { color: #825400; }
+[data-md-color-scheme="default"] .command-entry .command-access--owner { color: #a52948; }
+[data-md-color-scheme="default"] .command-entry .command-access--admin { color: #975500; }
 .command-evidence { margin-top: .55rem; color: var(--md-default-fg-color--light); font-size: .52rem; }
 .command-evidence summary { cursor: pointer; }.command-evidence code { display: block; margin-top: .35rem; overflow-wrap: anywhere; white-space: normal; }
 .command-empty-source { padding: 1rem; color: var(--md-default-fg-color--light); font-size: .65rem; }

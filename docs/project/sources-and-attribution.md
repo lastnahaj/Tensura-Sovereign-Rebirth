@@ -193,6 +193,8 @@ The [race illustration register](https://github.com/lastnahaj/Tensura-Sovereign-
 
 The [Mysticism acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/ultimate_acquisition_reference.json) separates the old Ultimate acquisition article from the selected 2.1.2 registry. Embryo registration does not establish completed effects or player access. The source’s empty Getting Started address is preserved as a navigation guide; neither page adds an ability or a duplicate onboarding entry to the playable catalogue. Original soul-system and onboarding artwork is thematic, not game media.
 
+The [Mysticism command annotation review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/mysticism_command_review.json) records seven selected command classes, argument order, declared permission nodes, the separate reset root, and base-attribute inspection. These are artifact checks, not live permission or command-execution tests. The retained source address now uses current registered paths and explains the limits of its older mixed-version table.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.

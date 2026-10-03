@@ -93,23 +93,23 @@
 <div class="command-build"><strong>2.1.2</strong><span>Minecraft 1.21.1</span><a href="https://www.curseforge.com/minecraft/mc-mods/tensura-mysticism/files/8379529">Release source ↗</a></div>
 </header>
 <div class="command-source-meta"><span>Pack record: <code>tensura-mysticism.pw.toml</code></span><span>Digest: <code>cca1bd878b46…</code></span></div>
-<p class="command-source-note">The old 1.19.2 article lists soul-quality, contract, and spirit reroll commands that are absent from the pinned 2.1.2 command classes. They are intentionally excluded.</p>
-<div class="command-entry-grid"><article class="command-entry" data-command-source="mysticism" data-command-access="mixed" data-command-search="/mysticism get stat … mixed read current or maximum soul energy for yourself or an allowed target. mysticism current soulenergy max soulenergy">
+<p class="command-source-note">Registration annotations were rechecked on October 2, 2026. Declared permission levels are not a live permission test. The old 1.19.2 soul-quality, contract, and spirit-reroll routes are absent from the selected command tree and are excluded. Angle brackets denote arguments, vertical bars denote alternatives, and brackets denote optional arguments; they are not literal input.</p>
+<div class="command-entry-grid"><article class="command-entry" data-command-source="mysticism" data-command-access="mixed" data-command-search="/mysticism get stat … mixed read current soul energy or its base maximum attribute. self queries declare player access; target queries declare moderator access. mysticism soulenergy current|max &lt;target&gt; soulenergy current|max">
 <header><code>/mysticism get stat …</code><span class="command-access command-access--mixed">Mixed</span></header>
-<p>Read current or maximum Soul Energy for yourself or an allowed target.</p>
-<div class="command-branches" aria-label="Registered branches"><code>current soulEnergy</code><code>max soulEnergy</code></div>
+<p>Read current Soul Energy or its base maximum attribute. Self queries declare Player access; target queries declare Moderator access.</p>
+<div class="command-branches" aria-label="Registered branches"><code>soulEnergy current|max</code><code>&lt;target&gt; soulEnergy current|max</code></div>
 <details class="command-evidence"><summary>Artifact evidence</summary><code>io/github/Memoires/mysticism/command/get/MysticGetStatCommand.class</code></details>
 </article>
-<article class="command-entry" data-command-source="mysticism" data-command-access="gamemaster" data-command-search="/mysticism edit stat … gamemaster set, add to, or reset current and maximum soul energy values. mysticism current set|add|reset max set|add">
+<article class="command-entry" data-command-source="mysticism" data-command-access="gamemaster" data-command-search="/mysticism edit stat … gamemaster set or add current or maximum soul energy. maximum edits also declare an optional resetcurrent argument; there is no current-reset branch here. mysticism &lt;targets&gt; soulenergy current set|add &lt;amount&gt; &lt;targets&gt; soulenergy max set|add &lt;amount&gt; [resetcurrent]">
 <header><code>/mysticism edit stat …</code><span class="command-access command-access--gamemaster">Gamemaster</span></header>
-<p>Set, add to, or reset current and maximum Soul Energy values.</p>
-<div class="command-branches" aria-label="Registered branches"><code>current set|add|reset</code><code>max set|add</code></div>
+<p>Set or add current or maximum Soul Energy. Maximum edits also declare an optional resetCurrent argument; there is no current-reset branch here.</p>
+<div class="command-branches" aria-label="Registered branches"><code>&lt;targets&gt; soulEnergy current set|add &lt;amount&gt;</code><code>&lt;targets&gt; soulEnergy max set|add &lt;amount&gt; [resetCurrent]</code></div>
 <details class="command-evidence"><summary>Artifact evidence</summary><code>io/github/Memoires/mysticism/command/edit/MysticEditStatCommand.class</code></details>
 </article>
-<article class="command-entry" data-command-source="mysticism" data-command-access="gamemaster" data-command-search="/mysticism edit reset … gamemaster reset soul energy storage using the selected reset path. mysticism soulenergy">
-<header><code>/mysticism edit reset …</code><span class="command-access command-access--gamemaster">Gamemaster</span></header>
-<p>Reset Soul Energy storage using the selected reset path.</p>
-<div class="command-branches" aria-label="Registered branches"><code>soulEnergy</code></div>
+<article class="command-entry" data-command-source="mysticism" data-command-access="gamemaster" data-command-search="/mysticism reset … gamemaster reroll current and maximum soul energy for selected players. this administrative root is separate from stat editing and normal player progression. mysticism &lt;players&gt; soulenergy">
+<header><code>/mysticism reset …</code><span class="command-access command-access--gamemaster">Gamemaster</span></header>
+<p>Reroll current and maximum Soul Energy for selected players. This administrative root is separate from stat editing and normal player progression.</p>
+<div class="command-branches" aria-label="Registered branches"><code>&lt;players&gt; soulEnergy</code></div>
 <details class="command-evidence"><summary>Artifact evidence</summary><code>io/github/Memoires/mysticism/command/edit/MysticResetCommand.class</code></details>
 </article></div>
 </section>
@@ -390,5 +390,5 @@
 <p>Names, roots, branches, and permission tiers come from the exact 1.21.1 artifacts recorded above. Runtime configuration can still disable a branch or change who receives permission. Nightmares is clearly marked separately because its reference jar is not yet matched to TSR's current pack manifest.</p>
 </aside>
 
-<details class="command-archive-note"><summary>Historical imported command pages</summary><p>The raw <a href="commands/">Tensura import</a> and <a href="../../mysticism-reference/commands/commands/">Mysticism 1.19.2 import</a> remain available for provenance. They are not the current command reference and may contain obsolete syntax.</p></details>
+<details class="command-archive-note"><summary>Source topics and version guidance</summary><p>The <a href="commands/">Tensura source topic</a> retains imported syntax; use the selected-build reference above for current paths. The <a href="../../mysticism-reference/commands/commands/">Mysticism command guide</a> explains checked self queries, administrative boundaries, and historical source limits. Each page retains its source attribution.</p></details>
 </section>
