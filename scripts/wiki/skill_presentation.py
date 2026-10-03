@@ -46,6 +46,8 @@ def style_directory(content, category, page, policy=None):
         overview = BeautifulSoup(f'<a class="reference-directory-overview-link" href="{relative(page, "mysticism-reference/skills/ultimate/ultimate-skill-aquisition/")}">Acquisition &amp; version guidance <span aria-hidden="true">→</span></a>', 'html.parser').a
     if overview:
         replacement = replacement.replace('</header>', str(overview) + '</header>')
+    if category == 'skills/ultimate':
+        replacement = replacement.replace('</header>', f'<a class="reference-directory-overview-link" href="{relative(page, "sin-ultimate-evolution/")}">Compare Sin evolutions <span aria-hidden="true">→</span></a></header>')
     content = re.sub(r'<header class="reference-directory-hero[^>]*>.*?</header>', lambda _: replacement, content, count=1, flags=re.S)
     nav = ['<nav class="skill-type-nav" aria-label="Ability categories">', f'<a href="{relative(page, "tensura-reference/skills/")}">All abilities</a>']
     for key, (label, _, _) in CATEGORIES.items():
@@ -122,7 +124,7 @@ def generate_hub(records, policy, directories):
         asset = decision.get('asset') or (record.get('_primary_media') or {}).get('local_path', '')
         entries.append({'title': decision['title'], 'route': route.removesuffix('.md') + '/', 'category': decision['category'], 'status': decision['status'], 'image': asset})
     lines = ['---', 'title: Skills & Abilities', 'description: Find abilities, check how to obtain them, and follow documented unlock paths.', 'hide:', '  - navigation', '  - toc', '---', '', '<div class="skill-hub">',
-        '<section class="skill-hub-hero"><div><p class="reference-eyebrow">The ability index</p><h1>Skills &amp; <span>abilities.</span></h1><p>Find your next skill. Learn how to obtain it. See what it unlocks.</p><a class="skill-hub-guide" href="../../skills-ep-and-magicules/">Understand EP, mastery &amp; Magicules <span aria-hidden="true">↗</span></a></div>',
+        '<section class="skill-hub-hero"><div><p class="reference-eyebrow">The ability index</p><h1>Skills &amp; <span>abilities.</span></h1><p>Find your next skill. Learn how to obtain it. See what it unlocks.</p><a class="skill-hub-guide" href="../../skills-ep-and-magicules/">Understand EP, mastery &amp; Magicules <span aria-hidden="true">↗</span></a><a class="skill-hub-guide" href="../../sin-ultimate-evolution/">Compare seven Sin evolutions <span aria-hidden="true">↗</span></a></div>',
         '<aside class="skill-feature"><p class="reference-eyebrow">Follow a mastery path</p><div class="skill-feature-path">',
         '<a href="../../mysticism-reference/skills/extra/ice-manipulation/"><img src="../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png" alt=""><strong>Ice Manipulation</strong></a><span aria-hidden="true">→</span><a href="../../mysticism-reference/skills/extra/ice-domination/"><img src="../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt=""><strong>Ice Domination</strong></a>',
         '</div><p>Mastery is one step. Open the next skill to check every acquisition requirement.</p></aside></section>',
@@ -139,4 +141,5 @@ def generate_hub(records, policy, directories):
             credit = media[asset]
             lines.append(f'<li><a href="{html.escape(credit["source_file_page"], quote=True)}">{html.escape(credit["source_title"])}</a> · {html.escape(credit["license"])}</li>')
     lines.extend(['<li>Battlewill and resistance category illustrations: original TSR artwork, not in-game icons.</li><li>The Timeless Mage: <a href="https://www.curseforge.com/minecraft/mc-mods/tensura-ascensions">Tensura: Ascension</a>.</li></ul></details>', '</div>', ''])
-    return {page: '\n'.join(lines), 'assets/data/skill-search.json': json.dumps(sorted(entries, key=lambda e: e['title'].casefold()), ensure_ascii=False, separators=(',', ':')) + '\n', 'battlewill-training.md': generate_battlewill_guide(policy)}
+    from sin_evolution_planner import generate as generate_sin_planner
+    return {page: '\n'.join(lines), 'assets/data/skill-search.json': json.dumps(sorted(entries, key=lambda e: e['title'].casefold()), ensure_ascii=False, separators=(',', ':')) + '\n', 'battlewill-training.md': generate_battlewill_guide(policy), 'sin-ultimate-evolution.md': generate_sin_planner(policy)}

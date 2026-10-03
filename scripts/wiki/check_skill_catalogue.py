@@ -239,6 +239,24 @@ def main():
         successor_link = BeautifulSoup(outputs[f'tensura-reference/skills/unique/{predecessor}.md'], 'html.parser').select_one('.skill-successor-note a')
         if not successor_link or 'nightmares-beelzebuth' not in successor_link['href']:
             errors.append(f'Beelzebuth combined predecessor guidance missing: {predecessor}')
+    from sin_evolution_planner import routes as planner_routes
+    planner = BeautifulSoup(outputs['sin-ultimate-evolution.md'], 'html.parser')
+    route_cards = planner.select('.sin-route')
+    if len(route_cards) != 7 or {card.get('id') for card in route_cards} != {identifier.split(':')[1] for identifier in mastery_ids}:
+        errors.append('Sin planner must expose exactly the seven reviewed routes')
+    for facts, _predecessor, preparation, conditions, _caution, register in planner_routes():
+        card = planner.select_one('#' + facts['registry_id'].split(':')[1])
+        if not card:
+            continue
+        if f'{facts["default_max_magicules_requirement"]:,}' not in card.select_one('.sin-route-capacity').get_text() or preparation not in card.get_text():
+            errors.append(f'Sin planner capacity or predecessor requirement drifted: {facts["registry_id"]}')
+        for condition in conditions:
+            if condition not in card.get_text():
+                errors.append(f'Sin planner requirement missing: {facts["registry_id"]} / {condition}')
+        if not card.select_one('summary img[src]') or register + '.json' not in str(card.select_one('.sin-route-evidence')):
+            errors.append(f'Sin planner artwork or evidence missing: {facts["registry_id"]}')
+    if 'not a server eligibility checker' not in planner.get_text() or 'Both gamerules default to false' not in planner.get_text():
+        errors.append('Sin planner loses reference-build and configuration limits')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:

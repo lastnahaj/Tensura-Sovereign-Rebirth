@@ -7,7 +7,7 @@ hide:
 ---
 
 <div class="skill-hub">
-<section class="skill-hub-hero"><div><p class="reference-eyebrow">The ability index</p><h1>Skills &amp; <span>abilities.</span></h1><p>Find your next skill. Learn how to obtain it. See what it unlocks.</p><a class="skill-hub-guide" href="../../skills-ep-and-magicules/">Understand EP, mastery &amp; Magicules <span aria-hidden="true">↗</span></a></div>
+<section class="skill-hub-hero"><div><p class="reference-eyebrow">The ability index</p><h1>Skills &amp; <span>abilities.</span></h1><p>Find your next skill. Learn how to obtain it. See what it unlocks.</p><a class="skill-hub-guide" href="../../skills-ep-and-magicules/">Understand EP, mastery &amp; Magicules <span aria-hidden="true">↗</span></a><a class="skill-hub-guide" href="../../sin-ultimate-evolution/">Compare seven Sin evolutions <span aria-hidden="true">↗</span></a></div>
 <aside class="skill-feature"><p class="reference-eyebrow">Follow a mastery path</p><div class="skill-feature-path">
 <a href="../../mysticism-reference/skills/extra/ice-manipulation/"><img src="../../assets/upstream/mysticism/skills/ice-manipulation-50c941825a.png" alt=""><strong>Ice Manipulation</strong></a><span aria-hidden="true">→</span><a href="../../mysticism-reference/skills/extra/ice-domination/"><img src="../../assets/upstream/mysticism/skills/ice-domination-cb1ae5000d.png" alt=""><strong>Ice Domination</strong></a>
 </div><p>Mastery is one step. Open the next skill to check every acquisition requirement.</p></aside></section>

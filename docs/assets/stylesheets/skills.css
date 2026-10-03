@@ -1,12 +1,12 @@
 /* Ability index: compact game icons, clear classifications and readable unlocks. */
-.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression {
+.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression, .sin-evolution-planner {
   --skill-surface: #101f30;
   --skill-border: #284258;
   --skill-ink: #f0f6fb;
   --skill-muted: #aec0cf;
   --skill-accent: #72deec;
 }
-[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression) {
+[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory, .nightmares-acquisition-review, .reference-progression, .sin-evolution-planner) {
   --skill-surface: #f1f6fa;
   --skill-border: #b8cedb;
   --skill-ink: #142e43;
@@ -173,3 +173,55 @@ body :is(.skill-directory, .skill-hub, .md-content__inner:has(.skill-obtainment)
   [src$="/uriel-lord-of-oath.png"], [src$="/uriel-lord-of-vow.png"],
   [src$="/gilgamesh-lord-of-treasures.gif"], [src$="/gilgamesh-king-of-uruk.gif"]
 ) { image-rendering: pixelated !important; }
+
+/* Evolution comparison: native disclosure cards with reviewed skill artwork. */
+.sin-evolution-planner { color: var(--skill-ink); max-width: 54rem; margin-inline: auto; }
+.sin-planner-heading { padding: 1.2rem 0 1.5rem; border-bottom: 1px solid var(--skill-border); }
+.sin-planner-heading .reference-eyebrow { color: var(--skill-accent); }
+.md-typeset .sin-planner-heading h1 { color: var(--skill-ink); margin: .6rem 0 .8rem; font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: 1.05; font-weight: 800; letter-spacing: -.04em; }
+.sin-planner-heading > p:not(.reference-eyebrow) { color: var(--skill-muted); max-width: 36rem; font-size: 1rem; line-height: 1.65; }
+.sin-planner-heading nav, .sin-planner-footer nav { display: flex; flex-wrap: wrap; gap: .8rem 1.5rem; margin-top: 1.2rem; }
+.sin-evolution-planner a { color: var(--skill-accent); }
+.sin-evolution-planner :is(a, summary):focus-visible { outline: 3px solid var(--skill-accent); outline-offset: 4px; border-radius: .3rem; }
+.sin-planner-scope { background: var(--skill-surface); border-left: 3px solid var(--skill-accent); padding: .9rem 1.1rem; margin: 1.4rem 0; font-size: .78rem; }
+.sin-planner-scope p { margin: .35rem 0 0; color: var(--skill-muted); line-height: 1.65; }
+.sin-planner-basics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem; padding: .5rem 0 1.4rem; }
+.sin-planner-basics > div { min-width: 0; }
+.sin-planner-basics span, .sin-route-label { color: var(--skill-accent); font-size: .65rem; font-weight: 750; letter-spacing: .045em; text-transform: uppercase; }
+.md-typeset .sin-planner-basics h2 { margin: .5rem 0; color: var(--skill-ink); font-size: .95rem; font-weight: 700; }
+.sin-planner-basics p { margin: 0; font-size: .78rem; color: var(--skill-muted); line-height: 1.65; }
+.sin-route-list { display: grid; gap: .8rem; }
+.md-typeset .sin-route { margin: 0; padding: 0; border: 1px solid var(--skill-border); border-radius: .7rem; background: var(--skill-surface); box-shadow: none; overflow: clip; }
+.md-typeset .sin-route > summary { display: grid; grid-template-columns: 3.5rem minmax(0, 1fr) auto; gap: 1.1rem; align-items: center; margin: 0; padding: 1rem 2.6rem 1rem 1.1rem; background: transparent; color: var(--skill-ink); cursor: pointer; list-style: none; min-height: 5.5rem; }
+.md-typeset .sin-route > summary::before { display: none; }
+.md-typeset .sin-route > summary::after { top: calc(50% - .45rem); right: .9rem; background-color: var(--skill-accent); }
+.sin-route > summary img { display: block; width: 3.5rem; height: 3.5rem; object-fit: contain; image-rendering: pixelated; }
+.sin-route-title { display: grid; gap: .15rem; }
+.sin-route-title > span { color: var(--skill-muted); font-size: .75rem; font-weight: 500; }
+.sin-route-title > strong { font-size: 1.2rem; font-weight: 750; }
+.sin-route-capacity { display: grid; gap: .15rem; text-align: right; }
+.sin-route-capacity strong { color: var(--skill-accent); font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.sin-route-capacity > span { color: var(--skill-muted); font-size: .65rem; font-weight: 500; }
+.sin-route[open] > summary { border-bottom: 1px solid var(--skill-border); }
+.sin-route-body { display: grid; grid-template-columns: 1.1fr 1fr; gap: 2rem; padding: 1.3rem 1.5rem 1.5rem; }
+.sin-route-label { margin: 0 0 .6rem; }
+.md-typeset .sin-route-body h2 { margin: 0 0 .7rem; color: var(--skill-ink); font-size: 1rem; font-weight: 700; line-height: 1.45; }
+.sin-route-body ul { margin: 0; padding-left: 1rem; font-size: .82rem; line-height: 1.65; }
+.sin-route-body li { margin: .3rem 0; }
+.sin-route-notes > p:not(.sin-route-label) { color: var(--skill-muted); font-size: .82rem; line-height: 1.65; margin: 0 0 1rem; }
+.sin-route-guide { display: block; font-size: .85rem; font-weight: 700; margin: .7rem 0; }
+.sin-route-evidence { font-size: .72rem; }
+.sin-route-body .sin-route-ownership, .sin-route-notes .sin-route-credit { color: var(--skill-muted); font-size: .7rem; line-height: 1.65; margin: 1rem 0 0; }
+.sin-planner-footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--skill-border); }
+.md-typeset .sin-planner-footer h2 { color: var(--skill-ink); font-weight: 700; }
+.sin-planner-footer p { color: var(--skill-muted); font-size: .82rem; line-height: 1.7; }
+.sin-planner-footer nav { font-size: .75rem; }
+@media (max-width: 42rem) {
+  .sin-planner-basics, .sin-route-body { grid-template-columns: 1fr; gap: 1rem; }
+  .md-typeset .sin-route > summary { grid-template-columns: 2.8rem minmax(0, 1fr); gap: .7rem; padding: .85rem 2.3rem .85rem .85rem; }
+  .sin-route > summary img { width: 2.8rem; height: 2.8rem; grid-row: span 2; }
+  .sin-route-capacity { grid-column: 2; text-align: left; display: flex; align-items: baseline; gap: .4rem; flex-wrap: wrap; }
+  .sin-route-capacity strong { font-size: .9rem; }
+  .sin-route-title > strong { font-size: 1rem; }
+  .sin-route-body { padding: 1.1rem; }
+}

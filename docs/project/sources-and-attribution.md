@@ -211,6 +211,8 @@ The [Satanael acquisition review](https://github.com/lastnahaj/Tensura-Sovereign
 
 The [Beelzebuth acquisition review](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/blob/main/data/beelzebuth_acquisition_reference.json) records the combined Gluttony-and-Merciless path, five-condition list, cake-slice statistic, inclusive health comparison, and inherited learning gates. The selected capacity method reads a 1.5M default from `mpAcquirement`, not the separate 1.75M `beelzebuthMP` field. Both predecessors are replaced after successful learning. The source’s Raphael alteration claim remains separate and unreviewed; live eligibility, complete charges, and effects are not certified by this acquisition review.
 
+The [Sin evolution planner](../sin-ultimate-evolution.md) is generated from seven acquisition evidence registers rather than the older source infobox summaries. Each route retains its implementation link, reviewed artwork credit, and full skill article. The comparison covers selected automatic paths only; it is not a live-server eligibility or reward checker.
+
 ## Reporting a source problem
 
 If a page has a missing credit, wrong version, dead link, or claim that does not match the 1.21.1 runtime, open a [GitHub issue](https://github.com/lastnahaj/Tensura-Sovereign-Rebirth/issues). Include the TSR page, the disputed statement or asset, and the best primary source available.
