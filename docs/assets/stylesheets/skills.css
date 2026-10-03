@@ -1,12 +1,12 @@
 /* Ability index: compact game icons, clear classifications and readable unlocks. */
-.skill-hub, .skill-directory {
+.skill-hub, .skill-directory, .nightmares-acquisition-review {
   --skill-surface: #101f30;
   --skill-border: #284258;
   --skill-ink: #f0f6fb;
   --skill-muted: #aec0cf;
   --skill-accent: #72deec;
 }
-[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory) {
+[data-md-color-scheme="default"] :is(.skill-hub, .skill-directory, .nightmares-acquisition-review) {
   --skill-surface: #f1f6fa;
   --skill-border: #b8cedb;
   --skill-ink: #142e43;

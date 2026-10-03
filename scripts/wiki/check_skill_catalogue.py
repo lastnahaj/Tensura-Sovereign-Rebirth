@@ -60,6 +60,33 @@ def main():
     policy = catalogue()
     pool = inventory()
     nightmares = nightmares_manifest()
+    from nightmares_acquisition import review as acquisition_review
+    nightmare_review = acquisition_review()
+    if nightmare_review['reference_build']['sha256'] != nightmares['reference_build']['sha256']:
+        errors.append('Nightmares acquisition review artifact drifted')
+    if nightmare_review['reference_build']['installed_version_verified'] is not False:
+        errors.append('Nightmares reference acquisition promoted to installed verification')
+    if len(nightmare_review['class_sha256']) != 10 or nightmare_review['asmodeus']['resource_check'] != 'EnergyHelper.getMaxMagicule(player) + 0.000001 >= getDefaultAcquiringMagiculeCost()':
+        errors.append('Asmodeus acquisition evidence or capacity metric drifted')
+    if nightmare_review['asmodeus']['reference_gamerule_defaults'] != {'nightmare_ultimates': False, 'auto_evolve': False}:
+        errors.append('Asmodeus reference evolution defaults drifted')
+    client_record = nightmare_review['client_inventory']
+    client_inventory = json.loads((ROOT / client_record['record']).read_text(encoding='utf-8'))
+    matched = [entry for entry in client_inventory['mods'] if entry['filename'] == nightmare_review['reference_build']['filename']]
+    if len(matched) != 1 or not matched[0]['enabled'] or client_inventory['captured_on'] != client_record['captured_on']:
+        errors.append('Nightmares client filename evidence drifted')
+    asmodeus = BeautifulSoup(outputs['tensura-reference/skills/ultimate/nightmares-asmodeus.md'], 'html.parser')
+    reviewed_panel = asmodeus.select_one('.nightmares-acquisition-review')
+    if not reviewed_panel or len(reviewed_panel.select('.skill-reading-guide > div')) != 3:
+        errors.append('Asmodeus acquisition route panels missing')
+    reviewed_text = reviewed_panel.get_text(' ', strip=True) if reviewed_panel else ''
+    for phrase in ('1,200,000', 'maximum Magicules', '25 entities named', '100 animals bred', 'ENTITY_NAMED', 'ANIMALS_BRED', 'auto_evolve', 'nightmare_ultimates', 'forgets Lust', 'not a complete effect audit'):
+        if phrase not in reviewed_text:
+            errors.append(f'Asmodeus acquisition fact missing: {phrase}')
+    lust_article = BeautifulSoup(outputs['tensura-reference/skills/unique/lust.md'], 'html.parser')
+    successor_link = lust_article.select_one('.skill-successor-note a')
+    if not successor_link or 'nightmares-asmodeus' not in successor_link['href']:
+        errors.append('Lust successor guidance missing')
     resistance_records = json.loads((ROOT / "data/upstream_tensura_pages.json").read_text(encoding="utf-8"))["pages"]
     resistance_entries = {page: decision for page, decision in policy["pages"].items() if decision["namespace"] == "tensura" and decision["category"] == "resistances" and decision["status"] in ACTIVE}
     if len(resistance_entries) != 42:
@@ -267,7 +294,9 @@ def main():
                 errors.append(f'Unavailable Nightmares skill promoted as normal progression: {record["registry_id"]}')
             continue
         panel_text = re.sub(r"\s+", "", soup.select_one(".skill-obtainment").get_text(" ", strip=True))
-        for row in record["obtainment_rows"]:
+        # The reviewed route supersedes the older vague resource/headcount wording.
+        source_rows = [] if record['registry_id'] == nightmare_review['asmodeus']['registry_id'] else record['obtainment_rows']
+        for row in source_rows:
             if re.sub(r"\s+", "", row["text"]) not in panel_text:
                 errors.append(f"Source obtainment condition dropped: {record['registry_id']} / {row['label']}")
         if record['registry_id'] == 'trnightmare:shub_niggurath' and any(condition not in panel_text for condition in ('100SkillsMastered', 'MethodTwo:', 'Raguel')):

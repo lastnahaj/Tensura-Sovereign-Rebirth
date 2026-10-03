@@ -34,7 +34,7 @@ tags:
 <!-- skill-catalogue:start -->
 <nav class="skill-category-nav" aria-label="Skill directory"><a href="../">← Browse Unique Skills</a></nav>
 <section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">Unique Skills · Pinned pack inventory</p><h2 id="how-to-obtain">How to obtain</h2><p>Source-described obtainment methods:</p><ul><li><strong>Other:</strong>
-Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p></section>
+Reincarnation/Skill Reroll</li></ul><p class="skill-evidence-note">An obtainment method is separate from a skill’s MP cost. Check all conditions; a listed route is not a guaranteed starting roll.</p><aside class="skill-evidence-note skill-successor-note"><strong>Nightmares evolution:</strong> <a href="../../ultimate/nightmares-asmodeus/">Asmodeus, Lord of Lust →</a> starts from mastered Lust in the reviewed 1.21.1 reference. Naming and breeding statistics, maximum Magicules, configuration, and gamerules also gate the route. The inspected helper removes Lust after successful learning. Mastery alone does not unlock it; server build match remains pending.</aside></section>
 <!-- skill-catalogue:end -->
 
 <div class="tensura-reference-article">

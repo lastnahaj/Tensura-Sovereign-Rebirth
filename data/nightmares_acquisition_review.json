@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "reviewed_on": "2026-10-02",
+  "reference_build": {
+    "filename": "trnightmare-1.0.3.2.8-neoforge-1.21.1.jar",
+    "sha256": "94b37573cb247ed060c81a0c90a37a7258ab3517d6ad64c0e85902cd7da64127",
+    "source_url": "https://www.curseforge.com/minecraft/mc-mods/tensura-reincarnated-nightmares/files/8679382",
+    "installed_version_verified": false
+  },
+  "client_inventory": {
+    "record": "data/client-mod-inventory-2026-09-20.json",
+    "captured_on": "2026-09-20",
+    "filename_match": true,
+    "inventory_supplies_artifact_digest": false,
+    "live_server_match_verified": false
+  },
+  "asmodeus": {
+    "registry_id": "trnightmare:asmodeus",
+    "predecessor": "tensura:lust",
+    "predecessor_mastered": true,
+    "default_max_magicules_requirement": 1200000,
+    "resource_check": "EnergyHelper.getMaxMagicule(player) + 0.000001 >= getDefaultAcquiringMagiculeCost()",
+    "default_named_requirement": 25,
+    "player_named_counter": "TensuraStats.ENTITY_NAMED",
+    "default_breeding_requirement": 100,
+    "player_breeding_counter": "Stats.ANIMALS_BRED",
+    "counter_comparison": "greater than or equal",
+    "default_enableUltimateEvolution": true,
+    "gamerule_requirements": {
+      "nightmare_ultimates": true,
+      "auto_evolve": true
+    },
+    "reference_gamerule_defaults": {
+      "nightmare_ultimates": false,
+      "auto_evolve": false
+    },
+    "blocked_predecessor_tags": [
+      "trnightmare_directive_ego",
+      "AkashicStarOrderImprint"
+    ],
+    "helper_forgets_predecessor_after_success": true,
+    "verification_scope": "Selected acquisition methods, condition-list construction, player counters, helper checks, predecessor handling, and configuration constructors. No live acquisition test, event-cadence test, complete effect audit, or server settings check was performed. Other acquisition routes are not established by this review."
+  },
+  "class_sha256": {
+    "com/github/hvnbael/trnightmare/main/ultimates/AsmodeusSkill.class": "7639c63a8570dccb523e1dfa3f334f7b69d08f6f37b7519992e3e022bd74b724",
+    "com/github/hvnbael/trnightmare/config/ability/skill/NightmareUltSkillConfig$Asmodeus.class": "e7d03ed97b955714fa2627f3b6d7827d0b6650ef00da4db1c371d67a422a8a24",
+    "com/github/hvnbael/trnightmare/world/TRNightmareGamerules.class": "7c2cd38dc51d14a0674f0d65f5f9af146de2974a4316b2d4e4fb665ecaffc5cb",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$EvolutionUtil.class": "2c88607b78c0a22b5bdf4b3e2d5a759397e695e764b6cf4ea1436af2e87d9bb1",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$NamedSubordinateCountCondition.class": "eb0b0e43232bcc06addc0b8a8f5907c2af4ec4d418df214be90b4c71d8322d36",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$AnimalBreedCountCondition.class": "a65d07887c1adf65858e82c5aaae1ac0044caaffd559a55a68b33b847e5161b1",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition$MasteredManasSkillCondition.class": "ba79e156ac62b8d9178ebb1812010817d83f8c4f312209f41e14e537b9742265",
+    "com/github/hvnbael/trnightmare/util/EvolutionCondition.class": "327aafdcbd4ec767d57b0ee64cda4f1ef838971930097a730caea47125e4ba1a",
+    "com/github/hvnbael/trnightmare/util/UltimateEvolutionHelper.class": "072c763e820c29cb042ae5e8532d12d9e4a03d1143bb3b1254a4c50f24a8d06d",
+    "com/github/hvnbael/trnightmare/TRNightmare.class": "699d3c12ea440292cb4db6c6518c94bc17ba3dcafb5a6662c800ccfc5edd1ee1"
+  }
+}

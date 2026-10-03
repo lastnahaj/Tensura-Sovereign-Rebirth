@@ -315,6 +315,10 @@ def battlewill_acquisition(page, decision):
 
 
 def acquisition(text, page, decision):
+    from nightmares_acquisition import acquisition as reviewed_nightmares_acquisition
+    reviewed = reviewed_nightmares_acquisition(page, decision)
+    if reviewed:
+        return reviewed
     requirement = pinned_learning_requirement(page, decision)
     if requirement:
         return requirement, True
@@ -391,6 +395,8 @@ def prepare_page(page, decision, text):
         documented = False
     else:
         obtain, documented = acquisition(text, page, decision)
+        from nightmares_acquisition import successor
+        obtain += successor(page, decision)
         evidence = "Pinned pack inventory"
         notice = ""
         if decision["status"] == "reference":
@@ -400,6 +406,9 @@ def prepare_page(page, decision, text):
             if decision.get("source_partial"):
                 notice += '<p class="skill-evidence-note">The upstream article is incomplete; missing effects or unlock conditions are not assumed.</p>'
             notice += '</details>'
+            if decision.get('id') == 'trnightmare:asmodeus':
+                notice = notice.replace('Requirements and effects describe the cited wiki revision, not verified server behavior.', 'The acquisition review below checks reference-build conditions separately. Other usage details describe the cited wiki revision, not verified server behavior.')
+                text = re.sub(r'(<div class="druid-data druid-data-Other[^>]*>).*?(</div>)', lambda m: m[1] + '<a href="#how-to-obtain">Reviewed Lust evolution conditions</a> · server build match pending' + m[2], text, count=1, flags=re.S)
         section = f'<section class="skill-obtainment" aria-labelledby="how-to-obtain"><p class="reference-eyebrow">{html.escape(label)} · {evidence}</p><h2 id="how-to-obtain">How to obtain</h2>{notice}{obtain}</section>'
         if not decision.get("maintained"):
             browse = relative(page, "tensura-reference/" + decision["category"] + "/") + "/"
